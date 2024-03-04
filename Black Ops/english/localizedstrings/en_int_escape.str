@@ -1,0 +1,445 @@
+// Dumped from fastfile "en_int_escape".
+// In their original format the strings might have been separated in multiple files.
+VERSION             "1"
+CONFIG              "C:/projects/cod/t5/bin/StringEd.cfg"
+FILENOTES           ""
+
+REFERENCE           INT_ESCAPE_INTROSCREEN_1
+LANG_ENGLISH        "^LTransmission # 8-5.  Designate: DELTA^L"
+
+REFERENCE           INT_ESCAPE_INTROSCREEN_2
+LANG_ENGLISH        "^LLocation:^L ^C1ROOM 9^C"
+
+REFERENCE           INT_ESCAPE_INTROSCREEN_3
+LANG_ENGLISH        "^LSubject:^L ^C1Mason, Alex^C"
+
+REFERENCE           INT_ESCAPE_INTROSCREEN_4
+LANG_ENGLISH        "^LResuming Questioning: 2300 hours,^L ^C1February 25 1968^C"
+
+REFERENCE           INT_ESCAPE_LTRIG
+LANG_ENGLISH        "Press ^3[{+speed_throw}]^7 to punch"
+
+REFERENCE           INT_ESCAPE_OBJECTIVE_1
+LANG_ENGLISH        "Ascension 9 18 8 23 8 3 8 22 15 21 17\n6 16 1 7 8 19 10 22 19 23 14 17 14 22 0 12\n8 8 10 7 1 1 22"
+
+REFERENCE           INT_ESCAPE_OBJECTIVE_2
+LANG_ENGLISH        "9 19 18 4 6 21 17 14 9 19 8 24 17 24 5 13 11\n20 15 21 24 11 9 12 8 20 21 10 16 23 4 22\n21 4 0 14"
+
+REFERENCE           INT_ESCAPE_OBJECTIVE_3
+LANG_ENGLISH        "Ascension 1 23 9 12 3 13 5 9 22 21 0 21\n10 15 5 17 12 21 18 8 5 13 22 10 2 11 5 11\n8 9 19 23 2 14 17 10 7 15 7 12 21 25 16 25\n0 23 12 23 13 22 8 9 25 4 20 19 11\n14 24 17 9 21 0 2 16 16 1 22 1 20 22 22\n25 0 15 1 1 22 17"
+
+REFERENCE           INT_ESCAPE_OBJECTIVE_4
+LANG_ENGLISH        "Echelon 3  24 20 12 19 17 17 22 19 23 19 4\n0 7 6 7 19 10 12 16 17 6 14 4 3 17 24 20 13\n24 8 16 17 1 24 9 21 15 0 5 15 4 4 23 6 11\n25 14 4 20 4 9 14 18 12 8 7 21 6 4 21 7 21\n4 2 14 3 14 7 18 13 6 22 16 6 1 21 21 15 3\n5 24 9 11 2 10 5 21 4 20 11 19 12 5 12 13\n12 5 17 19 3 14 21 12 15 17 7 7 2 2 21 1\n10 22 13 5"
+
+REFERENCE           INT_ESCAPE_VOX_CRE1_S04_163A_SWIF_M
+LANG_ENGLISH        "^1SWIFT: ^7What the *$#%$ wrong with you?"
+
+REFERENCE           INT_ESCAPE_VOX_CRE1_S04_163A_SWIF_S_M
+LANG_ENGLISH        "^1SWIFT: ^7What the *$#%$ wrong with you?"
+
+REFERENCE           INT_ESCAPE_VOX_CUB1_S04_124A_CAST_M
+LANG_ENGLISH        "^1CASTRO: ^7Do with him what you wish, General... He's my gift to you, in honor of our new relationship..."
+
+REFERENCE           INT_ESCAPE_VOX_CUB1_S04_124B_CAST_M
+LANG_ENGLISH        "^1CASTRO: ^7...our new relationship..."
+
+REFERENCE           INT_ESCAPE_VOX_CUB1_S04_125A_CAST_M
+LANG_ENGLISH        "^1CASTRO: ^7Just... Make sure that he suffers..."
+
+REFERENCE           INT_ESCAPE_VOX_CUB1_S04_126A_DRAG_M
+LANG_ENGLISH        "^1DRAGOVICH: ^7He will know suffering beyond his darkest fears..."
+
+REFERENCE           INT_ESCAPE_VOX_CUB1_S04_127A_DRAG_M
+LANG_ENGLISH        "^1DRAGOVICH: ^7I have plans for you, American..."
+
+REFERENCE           INT_ESCAPE_VOX_FLA1_S09_255A_WOOD
+LANG_ENGLISH        "^1MASON: ^7Okay. Time we got the hell out of here."
+
+REFERENCE           INT_ESCAPE_VOX_FLA1_S09_270A_MASO
+LANG_ENGLISH        "^1WOODS: ^7Not yet..."
+
+REFERENCE           INT_ESCAPE_VOX_FLA1_S09_271A_MASO
+LANG_ENGLISH        "^1MASON: ^7We're going after Dragovich."
+
+REFERENCE           INT_ESCAPE_VOX_FLA1_S09_316A_WOOD
+LANG_ENGLISH        "^1WOODS: ^7No one's getting out."
+
+REFERENCE           INT_ESCAPE_VOX_FLA1_S09_317A_WOOD
+LANG_ENGLISH        "^1WOODS: ^7Satisfied, Mason?"
+
+REFERENCE           INT_ESCAPE_VOX_FLA1_S09_318A_MASO_B
+LANG_ENGLISH        "^1MASON: ^7No! No, not yet... Not until I see the body."
+
+REFERENCE           INT_ESCAPE_VOX_FUL1_INTRO_08A
+LANG_ENGLISH        "^1REZNOV: ^7We are brothers Mason... We are the same."
+
+REFERENCE           INT_ESCAPE_VOX_HUE1_S01_413A_BOWM_B
+LANG_ENGLISH        "^1BOWMAN: ^7You think the defector survived this attack?!"
+
+REFERENCE           INT_ESCAPE_VOX_HUE1_S01_414A_WOOD
+LANG_ENGLISH        "^1WOODS: ^7If he did, then he's one tough son of a bitch!"
+
+REFERENCE           INT_ESCAPE_VOX_HUE1_S01_414A_WOOD_S
+LANG_ENGLISH        "^1WOODS: ^7If he did, he's one tough son of a gun!"
+
+REFERENCE           INT_ESCAPE_VOX_HUE1_S01_430A_REZN_M_A
+LANG_ENGLISH        "^1REZNOV: ^7Mason?"
+
+REFERENCE           INT_ESCAPE_VOX_HUE1_S01_431A_MASO_M
+LANG_ENGLISH        "^1MASON: ^7Reznov. How'd you get out of Vorkuta?"
+
+REFERENCE           INT_ESCAPE_VOX_HUE1_S01_432A_MASO_M
+LANG_ENGLISH        "^1MASON: ^7Never thought I'd see you alive..."
+
+REFERENCE           INT_ESCAPE_VOX_INT1_S01_001A_WEAV
+LANG_ENGLISH        "^1INTERROGATOR: ^7It is no use... we are out of time!"
+
+REFERENCE           INT_ESCAPE_VOX_INT1_S01_002A_INTE
+LANG_ENGLISH        "^1INTERROGATOR: ^7We can't give up now. He was at Vorkuta. He knows how to translate the codes. He's heard the broadcasts which we know contain the location. It's all in his head somewhere. He does know where it is!"
+
+REFERENCE           INT_ESCAPE_VOX_INT1_S01_002B_INTE
+LANG_ENGLISH        "^1INTERROGATOR: ^7We can't give up now. He was at Vorkuta. He knows how to translate the codes. He's heard the broadcasts which we know contain the location. It's all in his head somewhere. He does know where it is!"
+
+REFERENCE           INT_ESCAPE_VOX_INT1_S01_003A_WEAV
+LANG_ENGLISH        "^1INTERROGATOR: ^7We have to get to the bunker!  We're at DEFCON 2... You've tried everything..."
+
+REFERENCE           INT_ESCAPE_VOX_INT1_S01_004A_INTE
+LANG_ENGLISH        "^1INTERROGATOR: ^7Not yet...I have one more card to play."
+
+REFERENCE           INT_ESCAPE_VOX_INT1_S01_005B_WEAV_M
+LANG_ENGLISH        "^1INTERROGATOR: ^7Leave him here. He's not worth it."
+
+REFERENCE           INT_ESCAPE_VOX_INT1_S01_006A_HUDS_M
+LANG_ENGLISH        "^1HUDSON: ^7Get out of here, Weaver.  Tell them I failed."
+
+REFERENCE           INT_ESCAPE_VOX_INT1_S01_007A_WEAV_M
+LANG_ENGLISH        "^1WEAVER: ^7You want to die with him?...Your choice."
+
+REFERENCE           INT_ESCAPE_VOX_INT1_S01_008A_HUDS_M
+LANG_ENGLISH        "^1HUDSON: ^7Dammit! Why can't you remember?!"
+
+REFERENCE           INT_ESCAPE_VOX_INT1_S01_009A_HUDS_M
+LANG_ENGLISH        "^1HUDSON: ^7Reznov's DEAD, Mason! Do you hear me?!!! He's dead!!! Weaver's right...we are out of time."
+
+REFERENCE           INT_ESCAPE_VOX_INT1_S01_010A_HUDS_M
+LANG_ENGLISH        "^1HUDSON: ^7The Russians fucked you up... I know you...you're not a traitor."
+
+REFERENCE           INT_ESCAPE_VOX_INT1_S01_010B_HUDS_M_S
+LANG_ENGLISH        "^1HUDSON: ^7The Russians messed you up... I know you...you're not a traitor."
+
+REFERENCE           INT_ESCAPE_VOX_INT1_S01_015A_DRAG
+LANG_ENGLISH        "^1DRAGOVICH: ^7Wait a few moments... Let him rest."
+
+REFERENCE           INT_ESCAPE_VOX_INT1_S01_016A_DRAG
+LANG_ENGLISH        "^1DRAGOVICH: ^7When he regains consciousness - Double the voltage."
+
+REFERENCE           INT_ESCAPE_VOX_INT1_S01_017A_STEI_M
+LANG_ENGLISH        "^1STEINER: ^7The subject has been successfully implanted with the knowledge to translate the number sequences."
+
+REFERENCE           INT_ESCAPE_VOX_INT1_S01_018A_DRAG_M
+LANG_ENGLISH        "^1DRAGOVICH: ^7So - what is the problem?"
+
+REFERENCE           INT_ESCAPE_VOX_INT1_S01_019A_STEI_M
+LANG_ENGLISH        "^1STEINER: ^7His responses to our orders have been - sporadic.  Unpredictable.  He shows a remarkable resilience."
+
+REFERENCE           INT_ESCAPE_VOX_INT1_S01_020A_DRAG_M
+LANG_ENGLISH        "^1DRAGOVICH: ^7Why?"
+
+REFERENCE           INT_ESCAPE_VOX_INT1_S01_021A_STEI_M
+LANG_ENGLISH        "^1STEINER: ^7He is unusual... atypical.  Few men possess such will... Our other test subjects have been far more successful."
+
+REFERENCE           INT_ESCAPE_VOX_INT1_S01_022A_DRAG
+LANG_ENGLISH        "^1DRAGOVICH: ^7If he will not follow the orders embedded in the numbers, then he is of no use to me..."
+
+REFERENCE           INT_ESCAPE_VOX_INT1_S01_023A_DRAG
+LANG_ENGLISH        "^1DRAGOVICH: ^7He can rot... Take him back to his cell."
+
+REFERENCE           INT_ESCAPE_VOX_INT1_S01_050A_REZN
+LANG_ENGLISH        "^1REZNOV: ^7The pain is difficult isn't it?"
+
+REFERENCE           INT_ESCAPE_VOX_INT1_S01_055B_HUDS_M
+LANG_ENGLISH        "^1HUDSON: ^7Dragovich brainwashed you, but Reznov had plans of his own..."
+
+REFERENCE           INT_ESCAPE_VOX_INT1_S01_063A_HUDS
+LANG_ENGLISH        "^1HUDSON: ^7He was never in Vietnam.  \nThe real  defector with the Nova 6 dossier \ndied during the attack on the MAC-V."
+
+REFERENCE           INT_ESCAPE_VOX_INT1_S01_082B_HUDS_M
+LANG_ENGLISH        "^1HUDSON: ^7Viktor Reznov's been dead for 5 years. He died at Vorkuta during the escape! \nAll the years you thought he was with you - that was just in your mind!"
+
+REFERENCE           INT_ESCAPE_VOX_INT1_S01_083A_MASO_M
+LANG_ENGLISH        "^1MASON: ^7I trusted him."
+
+REFERENCE           INT_ESCAPE_VOX_INT1_S01_084B_HUDS_M
+LANG_ENGLISH        "^1HUDSON: ^7That's why it worked... It was their attempt at MK-Ultra. Dragovich programmed you to kill Kennedy, but Reznov sabotaged you. He wanted revenge for all that Dragovich done to him. Dragovich. Kravchenko. Steiner. Three new victims."
+
+REFERENCE           INT_ESCAPE_VOX_INT1_S01_085B_HUDS_M
+LANG_ENGLISH        "^1HUDSON: ^7There are gaps in your memory. Periods where you went MIA and we couldn't account for you. But now that the brainwashing's been broken, all that lost time will come back."
+
+REFERENCE           INT_ESCAPE_VOX_INT1_S01_085C_HUDS_M
+LANG_ENGLISH        "^1HUDSON: ^7We need to leave... The Nova 6 strike is imminent. Hundreds of sleeper agents, hidden in every state capitol, \nare about to unleash this poison on your own countrymen."
+
+REFERENCE           INT_ESCAPE_VOX_INT1_S01_086B_HUDS_M
+LANG_ENGLISH        "^1HUDSON: ^7When Steiner died, we lost our key to unlocking the location of number broadcasts..."
+
+REFERENCE           INT_ESCAPE_VOX_INT1_S01_087B_HUDS_M
+LANG_ENGLISH        "^1HUDSON: ^7You were programmed at Vorkuta to translate the number codes. Only you can tell us what the codes mean. Nova 6 was just one of the sleeper operations. But I'm sure there were others...ones we didn't even know about."
+
+REFERENCE           INT_ESCAPE_VOX_INT1_S01_088B_HUDS_M
+LANG_ENGLISH        "^1HUDSON: ^7We have the broadcasts, we played them to you over and over again for hours, but we haven't been able to break through your programming yet."
+
+REFERENCE           INT_ESCAPE_VOX_INT1_S01_088C_HUDS_M
+LANG_ENGLISH        "^1HUDSON: ^7Mason, this is our last shot. Listen, for God's sake listen again."
+
+REFERENCE           INT_ESCAPE_VOX_INT1_S01_089A_HUDS
+LANG_ENGLISH        "^1HUDSON: ^7Mason!... Mason!"
+
+REFERENCE           INT_ESCAPE_VOX_INT1_S01_094A_DRAG
+LANG_ENGLISH        "^1DRAGOVICH: ^7...[indistinct] all agents.  Our new allies in Cuba have graciously permitted the construction of a new... and permanent... broadcast station within their borders."
+
+REFERENCE           INT_ESCAPE_VOX_INT1_S01_094B_DRAG
+LANG_ENGLISH        "^1DRAGOVICH: ^7...and permanent... broadcast station within their borders."
+
+REFERENCE           INT_ESCAPE_VOX_INT1_S01_095A_DRAG
+LANG_ENGLISH        "^1DRAGOVICH: ^7From now until Project Nova's initiation, all instructions will broadcast from the Rusalka."
+
+REFERENCE           INT_ESCAPE_VOX_INT1_S01_095B_DRAG
+LANG_ENGLISH        "^1DRAGOVICH: ^7...all instructions will broadcast from the Rusalka."
+
+REFERENCE           INT_ESCAPE_VOX_INT1_S01_096A_DRAG
+LANG_ENGLISH        "^1DRAGOVICH: ^7Our plan to strike at the very heart of the West is now in motion."
+
+REFERENCE           INT_ESCAPE_VOX_INT1_S01_097A_DRAG
+LANG_ENGLISH        "^1DRAGOVICH: ^7Await further instructions."
+
+REFERENCE           INT_ESCAPE_VOX_INT1_S01_104B_MASO_M
+LANG_ENGLISH        "^1MASON: ^7I know where the numbers station is... It's a ship... I saw it a long time ago... The Rusalka."
+
+REFERENCE           INT_ESCAPE_VOX_INT1_S01_105A_HUDS_M
+LANG_ENGLISH        "^1HUDSON: ^7Where?"
+
+REFERENCE           INT_ESCAPE_VOX_INT1_S01_106A_MASO_M
+LANG_ENGLISH        "^1MASON: ^7Cuba."
+
+REFERENCE           INT_ESCAPE_VOX_INT1_S01_200A_MASO
+LANG_ENGLISH        "^1MASON: ^7The numbers...what...are they saying?..."
+
+REFERENCE           INT_ESCAPE_VOX_INT1_S01_201A_MASO
+LANG_ENGLISH        "^1MASON: ^7Reznov ... Where are you?... Reznov..."
+
+REFERENCE           INT_ESCAPE_VOX_INT1_S01_202A_MASO
+LANG_ENGLISH        "^1MASON: ^7Steiner was there... We had to kill Steiner!"
+
+REFERENCE           INT_ESCAPE_VOX_INT1_S01_205A_MASO
+LANG_ENGLISH        "^1MASON: ^7Dragovich...Kravchenko...Steiner...the pain...oh my God, the pain..."
+
+REFERENCE           INT_ESCAPE_VOX_INT1_S01_205B_MASO
+LANG_ENGLISH        "^1MASON: ^7Dragovich...Kravchenko...Steiner..."
+
+REFERENCE           INT_ESCAPE_VOX_INT1_S01_205C_MASO
+LANG_ENGLISH        "^1MASON: ^7The pain...oh my God..."
+
+REFERENCE           INT_ESCAPE_VOX_INT1_S01_206A_MASO
+LANG_ENGLISH        "^1MASON: ^7Proceed...to...target..."
+
+REFERENCE           INT_ESCAPE_VOX_INT1_S01_207A_MASO
+LANG_ENGLISH        "^1MASON: ^7Oswald...compromised."
+
+REFERENCE           INT_ESCAPE_VOX_INT1_S01_208A_MASO
+LANG_ENGLISH        "^1MASON: ^7Kennedy...John...Fitzgerald. I'm told you are the best we have. Anywhere."
+
+REFERENCE           INT_ESCAPE_VOX_INT1_S01_209A_MASO
+LANG_ENGLISH        "^1MASON: ^7Killing everyone between him and Steiner. I was programmed...to...kill...Steiner...Kravchenko and Dragovich!"
+
+REFERENCE           INT_ESCAPE_VOX_INT1_S01_210A_HUDS
+LANG_ENGLISH        "^1INTERROGATOR: ^7Viktor Reznov's been dead for years."
+
+REFERENCE           INT_ESCAPE_VOX_INT1_S01_211A_MASO
+LANG_ENGLISH        "^1MASON: ^7No!"
+
+REFERENCE           INT_ESCAPE_VOX_INT1_S01_212A_HUDS
+LANG_ENGLISH        "^1INTERROGATOR: ^7He died at Vorkuta during your escape!"
+
+REFERENCE           INT_ESCAPE_VOX_INT1_S01_213A_MASO
+LANG_ENGLISH        "^1MASON: ^7He can't be dead!"
+
+REFERENCE           INT_ESCAPE_VOX_INT1_S01_214A_HUDS
+LANG_ENGLISH        "^1INTERROGATOR: ^7All the years you thought he was with you -"
+
+REFERENCE           INT_ESCAPE_VOX_INT1_S01_215A_MASO
+LANG_ENGLISH        "^1MASON: ^7Reznov...I trusted you."
+
+REFERENCE           INT_ESCAPE_VOX_INT1_S01_216A_HUDS
+LANG_ENGLISH        "^1INTERROGATOR: ^7He was just in your mind!"
+
+REFERENCE           INT_ESCAPE_VOX_INT1_S01_217A_HUDS
+LANG_ENGLISH        "^1INTERROGATOR: ^7That's why it worked... That's why Reznov could override their programming. Vorkuta was the Russians' attempt at MK-Ultra - mind control. Dragovich programmed you to kill Kennedy, but Reznov turned the programming around. He wanted revenge for all that Dr"
+
+REFERENCE           INT_ESCAPE_VOX_INT1_S01_300A_MASO
+LANG_ENGLISH        "^1MASON: ^7I remember. Ahhhh! Vorkuta..."
+
+REFERENCE           INT_ESCAPE_VOX_INT1_S01_302A_HUDS
+LANG_ENGLISH        "^1HUDSON: ^7He was never in the rat tunnels."
+
+REFERENCE           INT_ESCAPE_VOX_INT1_S01_303A_HUDS
+LANG_ENGLISH        "^1HUDSON: ^7He was never at Rebirth Island."
+
+REFERENCE           INT_ESCAPE_VOX_INT1_S01_500A_MASO
+LANG_ENGLISH        "^1MASON: ^7Echelon. Cuban allies authorize construction of permanent broadcast station. Rusalka. Gulf of Mexico. Project Nova initiated. Await instruction."
+
+REFERENCE           INT_ESCAPE_VOX_INT1_S01_501A_MASO
+LANG_ENGLISH        "^1MASON: ^7Ascension. Mason. Prepare down target Kennedy. John Fitzgerald. Priority supersedes all previous instruction."
+
+REFERENCE           INT_ESCAPE_VOX_INT1_S01_502A_MASO
+LANG_ENGLISH        "^1MASON: ^7Ascension. Mason. Proceed to target. Await final coordinates."
+
+REFERENCE           INT_ESCAPE_VOX_INT1_S01_503A_MASO
+LANG_ENGLISH        "^1MASON: ^7Echelon. Oswald, compromised. Ascension. Mason. Down assigned target."
+
+REFERENCE           INT_ESCAPE_VOX_INT1_S01_504A_MASO
+LANG_ENGLISH        "^1MASON: ^7Echelon. Scheduled Nova deployment jeopardized. CIA  breach."
+
+REFERENCE           INT_ESCAPE_VOX_INT1_S01_505A_MASO
+LANG_ENGLISH        "^1MASON: ^7Ascension. All points. Down target Clarke. Priority one. Await final coordinates."
+
+REFERENCE           INT_ESCAPE_VOX_INT1_S01_506A_MASO
+LANG_ENGLISH        "^1MASON: ^7Ascension. All points. Phase two."
+
+REFERENCE           INT_ESCAPE_VOX_INT1_S01_507A_MASO
+LANG_ENGLISH        "^1MASON: ^7Ascension. All points. Phase three."
+
+REFERENCE           INT_ESCAPE_VOX_INT1_S01_508A_MASO
+LANG_ENGLISH        "^1MASON: ^7Ascension. All points. Burn notice. Priority evade capture. Sleepers expendable."
+
+REFERENCE           INT_ESCAPE_VOX_INT1_S01_509A_MASO
+LANG_ENGLISH        "^1MASON: ^7Echelon. Nova deployment signal imminent."
+
+REFERENCE           INT_ESCAPE_VOX_INT1_S01_510A_MASO
+LANG_ENGLISH        "^1MASON: ^7Ascension. Mason. Resume directive programming. Respond."
+
+REFERENCE           INT_ESCAPE_VOX_INT1_S01_511A_MASO
+LANG_ENGLISH        "^1MASON: ^7Echelon. Pentagon. One. Prospero."
+
+REFERENCE           INT_ESCAPE_VOX_INT1_S01_512A_MASO
+LANG_ENGLISH        "^1MASON: ^7Echelon. Pentagon. Two. Ariel."
+
+REFERENCE           INT_ESCAPE_VOX_INT1_S01_513A_MASO
+LANG_ENGLISH        "^1MASON: ^7Echelon. Pentagon. Three. Sycorax."
+
+REFERENCE           INT_ESCAPE_VOX_INT1_S01_514A_MASO
+LANG_ENGLISH        "^1MASON: ^7Echelon. Caution. Nova mutation observed. Subjects exhibit advanced necrosis hours before mortality."
+
+REFERENCE           INT_ESCAPE_VOX_INT1_S01_515A_MASO
+LANG_ENGLISH        "^1MASON: ^7Ascension. Mason. Location. Texas School Book Depository. 6th Floor. 6.5MM Carcano Rifle. Dallas. Dealey Plaza. 11.22."
+
+REFERENCE           INT_ESCAPE_VOX_INT1_S01_516A_MASO
+LANG_ENGLISH        "^1MASON: ^7Dragovich.  Kravchenko.  Steiner.  All must die."
+
+REFERENCE           INT_ESCAPE_VOX_INT1_S01_517A_MASO
+LANG_ENGLISH        "^1MASON: ^7Echelon. Rogue sleeper. Mason. Programming corrupted. Dragovich down. Pentagon sleeper activated. CIA sleeper activated. Ascension. All points. Down target Mason. Priority supersedes all previous instruction."
+
+REFERENCE           INT_ESCAPE_VOX_PEN1_S01_011A_MASO_M_B
+LANG_ENGLISH        "^1MASON: ^7When do I kill him?"
+
+REFERENCE           INT_ESCAPE_VOX_PEN1_S01_039A_KENN_M
+LANG_ENGLISH        "^1PRESIDENT KENNEDY: ^7We are in grave danger from the communists. \nOur freedom and our very way of life is at risk."
+
+REFERENCE           INT_ESCAPE_VOX_PEN1_S01_040A_KENN_M
+LANG_ENGLISH        "^1PRESIDENT KENNEDY: ^7Dragovich."
+
+REFERENCE           INT_ESCAPE_VOX_POW1_S04_416A_REZN
+LANG_ENGLISH        "^1REZNOV: ^7Kravchenko is here!"
+
+REFERENCE           INT_ESCAPE_VOX_POW1_S04_417A_REZN
+LANG_ENGLISH        "^1REZNOV: ^7This way! We cannot let him slip through our grasp!"
+
+REFERENCE           INT_ESCAPE_VOX_POW1_S04_418A_WOOD
+LANG_ENGLISH        "^1WOODS: ^7Mason?!  What the fuck are you doing?!! We gotta get these guys out."
+
+REFERENCE           INT_ESCAPE_VOX_POW1_S04_418A_WOOD_S
+LANG_ENGLISH        "^1WOODS: ^7Mason?! We gotta get these guys out."
+
+REFERENCE           INT_ESCAPE_VOX_POW1_S04_426B_KRAV_M
+LANG_ENGLISH        "^1KRAVCHENKO: ^7You.... Again..."
+
+REFERENCE           INT_ESCAPE_VOX_POW1_S04_427B_KRAV_M
+LANG_ENGLISH        "^1KRAVCHENKO: ^7I should have killed you in Vorkuta!"
+
+REFERENCE           INT_ESCAPE_VOX_POW1_S04_440A_REZN
+LANG_ENGLISH        "^1REZNOV: ^7Dragovich. Kravchenko. Steiner. All must die..."
+
+REFERENCE           INT_ESCAPE_VOX_REB1_INTRO_03A_A
+LANG_ENGLISH        "^1MASON: ^7How many times?! Steiner was at Rebirth Island. We had to kill Steiner."
+
+REFERENCE           INT_ESCAPE_VOX_REB1_INTRO_04A
+LANG_ENGLISH        "^1INTERROGATOR: ^7We? Viktor Reznov?"
+
+REFERENCE           INT_ESCAPE_VOX_REB1_INTRO_05A_A
+LANG_ENGLISH        "^1MASON: ^7We wanted the same thing. The same."
+
+REFERENCE           INT_ESCAPE_VOX_REB1_S02_070A_STEI_M
+LANG_ENGLISH        "^1STEINER: ^7I know you... Vorkuta!"
+
+REFERENCE           INT_ESCAPE_VOX_REB1_S02_071A_STEI_M
+LANG_ENGLISH        "^1STEINER: ^7You don't know..."
+
+REFERENCE           INT_ESCAPE_VOX_REB1_S02_072A_STEI_M
+LANG_ENGLISH        "^1STEINER: ^7What we did to you..."
+
+REFERENCE           INT_ESCAPE_VOX_REB1_S02_079A_REZN_M_B
+LANG_ENGLISH        "^1REZNOV: ^7My name is Viktor Reznov."
+
+REFERENCE           INT_ESCAPE_VOX_REB1_S02_080A_STEI_M
+LANG_ENGLISH        "^1STEINER: ^7No..."
+
+REFERENCE           INT_ESCAPE_VOX_REB1_S03_150A_WEAV
+LANG_ENGLISH        "^1WEAVER: ^7What the Hell is he doing?"
+
+REFERENCE           INT_ESCAPE_VOX_REB1_S03_151A_HUDS
+LANG_ENGLISH        "^1HUDSON: ^7Killing everyone between him and Steiner."
+
+REFERENCE           INT_ESCAPE_VOX_REB1_S03_153A_HUDS
+LANG_ENGLISH        "^1HUDSON: ^7MASON!"
+
+REFERENCE           INT_ESCAPE_VOX_REB1_S03_157A_MASO_A
+LANG_ENGLISH        "^1MASON: ^7My name is Viktor Reznov. And I will have my revenge!"
+
+REFERENCE           INT_ESCAPE_VOX_REB1_S03_158A_HUDS
+LANG_ENGLISH        "^1HUDSON: ^7Mason - NO!"
+
+REFERENCE           INT_ESCAPE_VOX_RIV1_INTRO_09A_B
+LANG_ENGLISH        "^1MASON: ^7I...keep...hearing...the fucking...numbers..."
+
+REFERENCE           INT_ESCAPE_VOX_RIV1_INTRO_09A_S_B_S
+LANG_ENGLISH        "^1MASON: ^7I...keep...hearing...the &$#@!%...numbers..."
+
+REFERENCE           INT_ESCAPE_VOX_VOR1_S2_042A_RRD2_M
+LANG_ENGLISH        "^1RUSSIAN PRISONER: ^7Reznov, are you sure you can trust this American?"
+
+REFERENCE           INT_ESCAPE_VOX_VOR1_S2_043A_REZN_M_A
+LANG_ENGLISH        "^1REZNOV: ^7With my life..."
+
+REFERENCE           INT_ESCAPE_VOX_VOR1_S2_044A_REZN_M
+LANG_ENGLISH        "^1REZNOV: ^7He and us, are not so different... We are all soldiers without an army."
+
+REFERENCE           INT_ESCAPE_VOX_VOR1_S2_045A_REZN_M
+LANG_ENGLISH        "^1REZNOV: ^7Betrayed.  Forgotten.  Abandoned."
+
+REFERENCE           INT_ESCAPE_VOX_VOR1_S2_046A_REZN_M_A
+LANG_ENGLISH        "^1REZNOV: ^7In Vorkuta, we are ALL brothers..."
+
+REFERENCE           INT_ESCAPE_VOX_VOR1_S6_255A_REZN
+LANG_ENGLISH        "^1REZNOV: ^7You will survive... You have to!"
+
+REFERENCE           INT_ESCAPE_VOX_VOR1_S6_400A_REZN
+LANG_ENGLISH        "^1REZNOV: ^7You will survive... You have to..."
+
+REFERENCE           INT_ESCAPE_VOX_VOR1_S7_274A_MASO
+LANG_ENGLISH        "^1MASON: ^7Step eight, Reznov - Freedom!"
+
+REFERENCE           INT_ESCAPE_VOX_VOR1_S7_275A_REZN_M_B
+LANG_ENGLISH        "^1REZNOV: ^7For you Mason..."
+
+REFERENCE           INT_ESCAPE_VOX_VOR1_S7_276A_REZN_M
+LANG_ENGLISH        "^1REZNOV: ^7Not for me..."
+
+ENDMARKER
