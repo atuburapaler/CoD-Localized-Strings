@@ -14,7 +14,7 @@ Compilation of **Localized Strings** from **Call of Duty** games. _Currently on 
   
 # Notes
 - If you are editing strings that contain **Latin characters**, please first save the file in the **ISO 8859-1 (Western) encoder**.
-* "Merged" files contain the total set of all .str files in the game, they may contain repeated lines of text.
+* "Merged" files contain the total set of all .str files in the game, they may include repeated lines of text, so if you want to do a full translation/conversion you may as well delete one of the duplicates or edit/translate them all.
   
 # Info
 The content of the repository was extracted thanks to [Laupetin's OpenAssetTools](https://github.com/Laupetin/OpenAssetTools) with the purpose of archiving, preserving and/or helping in the creation of community mods and translations.
