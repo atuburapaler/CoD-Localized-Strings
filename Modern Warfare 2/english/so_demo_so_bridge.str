@@ -1,0 +1,79 @@
+// Dumped from fastfile "so_demo_so_bridge".
+// In their original format the strings might have been separated in multiple files.
+VERSION             "1"
+CONFIG              "C:/trees/cod3/cod3/bin/StringEd.cfg"
+FILENOTES           ""
+
+REFERENCE           SENTRY_CANNOT_PLACE
+LANG_ENGLISH        "Move the turret to a valid location."
+
+REFERENCE           SENTRY_DEBUG_SPAWN_ENEMIES
+LANG_ENGLISH        "Enemies spawn in 10 seconds"
+
+REFERENCE           SENTRY_MOVE
+LANG_ENGLISH        "Press and hold ^3&&1^7 to move the turret."
+
+REFERENCE           SENTRY_PICKUP
+LANG_ENGLISH        "Press and hold ^3&&1^7 to pick up the turret."
+
+REFERENCE           SENTRY_PLACE
+LANG_ENGLISH        "Press ^3[{+attack}]^7 to place the turret."
+
+REFERENCE           SO_DEMO_SO_BRIDGE_DEADQUOTE_HINT1
+LANG_ENGLISH        "OPERATIONAL INTEL\nInfinite Ammo makes you a killing machine. Go all out!"
+
+REFERENCE           SO_DEMO_SO_BRIDGE_DEADQUOTE_HINT2
+LANG_ENGLISH        "OPERATIONAL INTEL\nWreckage is activated for every 5 vehicles you destroy."
+
+REFERENCE           SO_DEMO_SO_BRIDGE_DEADQUOTE_HINT3
+LANG_ENGLISH        "OPERATIONAL INTEL\nTry to string Wreckages and keep Infinite Ammo the whole time."
+
+REFERENCE           SO_DEMO_SO_BRIDGE_DEADQUOTE_HINT4
+LANG_ENGLISH        "OPERATIONAL INTEL\nThe mission timer in Wreckage doesn't start immediately. Think about it."
+
+REFERENCE           SO_DEMO_SO_BRIDGE_DEADQUOTE_HINT5
+LANG_ENGLISH        "OPERATIONAL INTEL\nInfinite Ammo doesn't reload your weapons. Avoid emptying your favorite weapons."
+
+REFERENCE           SO_DEMO_SO_BRIDGE_INFINITE_AMMO
+LANG_ENGLISH        "Infinite Ammo: "
+
+REFERENCE           SO_DEMO_SO_BRIDGE_INFINITE_AMMO_AMOUNT
+LANG_ENGLISH        "+&&1s Infinite Ammo"
+
+REFERENCE           SO_DEMO_SO_BRIDGE_INFINITE_AMMO_PERCENT
+LANG_ENGLISH        "Infinite Ammo Time"
+
+REFERENCE           SO_DEMO_SO_BRIDGE_OBJ_DESTROY
+LANG_ENGLISH        "Destroy"
+
+REFERENCE           SO_DEMO_SO_BRIDGE_OBJ_HARDENED
+LANG_ENGLISH        "Destroy every vehicle on the bridge."
+
+REFERENCE           SO_DEMO_SO_BRIDGE_OBJ_REGULAR
+LANG_ENGLISH        "Destroy every vehicle on the bridge."
+
+REFERENCE           SO_DEMO_SO_BRIDGE_OBJ_VETERAN
+LANG_ENGLISH        "Destroy every vehicle on the bridge."
+
+REFERENCE           SO_DEMO_SO_BRIDGE_STAT_OTHER
+LANG_ENGLISH        "Enemy wreckage"
+
+REFERENCE           SO_DEMO_SO_BRIDGE_STAT_PARTNER
+LANG_ENGLISH        "Partner wreckage"
+
+REFERENCE           SO_DEMO_SO_BRIDGE_STAT_YOU
+LANG_ENGLISH        "Your wreckage"
+
+REFERENCE           SO_DEMO_SO_BRIDGE_TIMEBONUS
+LANG_ENGLISH        "Time Bonus: "
+
+REFERENCE           SO_DEMO_SO_BRIDGE_VEHICLES
+LANG_ENGLISH        "Vehicles: "
+
+REFERENCE           SO_DEMO_SO_BRIDGE_WRECKAGE_ACTIVE
+LANG_ENGLISH        "Wreckage Activated!"
+
+REFERENCE           SO_DEMO_SO_BRIDGE_WRECKAGE_IN
+LANG_ENGLISH        "Wreckage in: "
+
+ENDMARKER

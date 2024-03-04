@@ -1,0 +1,64 @@
+// Dumped from fastfile "favela_escape".
+// In their original format the strings might have been separated in multiple files.
+VERSION             "1"
+CONFIG              "C:/trees/cod3/cod3/bin/StringEd.cfg"
+FILENOTES           ""
+
+REFERENCE           FAVELA_ESCAPE_CHOPPER_TIMER
+LANG_ENGLISH        "Time to dustoff: "
+
+REFERENCE           FAVELA_ESCAPE_CHOPPER_TIMER_EXPIRED
+LANG_ENGLISH        "Mission failed: You failed to meet the Pave Low for extraction."
+
+REFERENCE           FAVELA_ESCAPE_DEADQUOTE_FAILED_CHOPPER_JUMP
+LANG_ENGLISH        "Run and jump in the direction of the ladder to board the Pave Low."
+
+REFERENCE           FAVELA_ESCAPE_HINT_SPRINT
+LANG_ENGLISH        "Click ^3[{+breath_sprint}]^7 while moving forward to sprint."
+
+REFERENCE           FAVELA_ESCAPE_HINT_SPRINT_PC
+LANG_ENGLISH        "Press ^3[{+sprint}]^7 while moving forward to sprint."
+
+REFERENCE           FAVELA_ESCAPE_HINT_SPRINT_PC_ALT
+LANG_ENGLISH        "Press ^3[{+breath_sprint}]^7 while moving forward to sprint."
+
+REFERENCE           FAVELA_ESCAPE_INTROSCREEN_LINE_1
+LANG_ENGLISH        "\"The Hornet's Nest\""
+
+REFERENCE           FAVELA_ESCAPE_INTROSCREEN_LINE_2
+LANG_ENGLISH        "Day 4 - 16:19:[{FAKE_INTRO_SECONDS:40}]"
+
+REFERENCE           FAVELA_ESCAPE_INTROSCREEN_LINE_3
+LANG_ENGLISH        "Sgt. Gary 'Roach' Sanderson"
+
+REFERENCE           FAVELA_ESCAPE_INTROSCREEN_LINE_4
+LANG_ENGLISH        "Task Force 141"
+
+REFERENCE           FAVELA_ESCAPE_INTROSCREEN_LINE_5
+LANG_ENGLISH        "Rio de Janeiro, 1700ft A.S.L."
+
+REFERENCE           FAVELA_ESCAPE_OBJ_FLEE_RADIOTOWER
+LANG_ENGLISH        "Head for the LZ to the southeast of the market."
+
+REFERENCE           FAVELA_ESCAPE_OBJ_FOLLOW_MARKER
+LANG_ENGLISH        "Support"
+
+REFERENCE           FAVELA_ESCAPE_OBJ_FOLLOW_SOAP
+LANG_ENGLISH        "Support Captain MacTavish as the squad heads for the LZ."
+
+REFERENCE           FAVELA_ESCAPE_OBJ_GET_BACK_TO_ROOF
+LANG_ENGLISH        "Find a way back up to the rooftops."
+
+REFERENCE           FAVELA_ESCAPE_OBJ_GET_TO_CHOPPER
+LANG_ENGLISH        "Get to the Pave Low at the south edge of the rooftops."
+
+REFERENCE           FAVELA_ESCAPE_OBJ_JUMP_MARKER
+LANG_ENGLISH        "Jump"
+
+REFERENCE           FAVELA_ESCAPE_OBJ_MARKET_ESCAPE
+LANG_ENGLISH        "Escape to the secondary LZ via the rooftops."
+
+REFERENCE           FAVELA_ESCAPE_SOLORUN_KEEP_MOVING
+LANG_ENGLISH        "You are Hurt. Run For Your Life!"
+
+ENDMARKER

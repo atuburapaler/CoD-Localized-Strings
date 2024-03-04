@@ -1,0 +1,22 @@
+// Dumped from fastfile "so_chopper_invasion".
+// In their original format the strings might have been separated in multiple files.
+VERSION             "1"
+CONFIG              "C:/trees/cod3/cod3/bin/StringEd.cfg"
+FILENOTES           ""
+
+REFERENCE           SO_CHOPPER_INVASION_DEADQUOTE_HINT1
+LANG_ENGLISH        "The chopper gunner needs to provide cover for the ground force."
+
+REFERENCE           SO_CHOPPER_INVASION_DEADQUOTE_HINT2
+LANG_ENGLISH        "Communication is essential, use landmarks to describe the locations of the enemy."
+
+REFERENCE           SO_CHOPPER_INVASION_HINT_ADS_SLOWDOWN
+LANG_ENGLISH        "Press and hold ^3[{+activate}]^7 to slow down the Helicopter's speed."
+
+REFERENCE           SO_CHOPPER_INVASION_OBJ_FINAL
+LANG_ENGLISH        "Get to the chopper."
+
+REFERENCE           SO_CHOPPER_INVASION_OBJ_REGULAR
+LANG_ENGLISH        "Link up with your partner at the extraction point."
+
+ENDMARKER

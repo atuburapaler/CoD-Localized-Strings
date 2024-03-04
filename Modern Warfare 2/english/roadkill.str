@@ -1,0 +1,76 @@
+// Dumped from fastfile "roadkill".
+// In their original format the strings might have been separated in multiple files.
+VERSION             "1"
+CONFIG              "C:/trees/cod3/cod3/bin/StringEd.cfg"
+FILENOTES           ""
+
+REFERENCE           ROADKILL_BRIDGELAYER_DESTROYED
+LANG_ENGLISH        "The bridge layer was destroyed."
+
+REFERENCE           ROADKILL_GOT_SNIPED
+LANG_ENGLISH        "It would be safer to ride in the convoy."
+
+REFERENCE           ROADKILL_HOLD_TO_BOARD
+LANG_ENGLISH        "Press and hold^3 &&1 ^7to board."
+
+REFERENCE           ROADKILL_LINE_1
+LANG_ENGLISH        "\"Team Player\""
+
+REFERENCE           ROADKILL_LINE_2
+LANG_ENGLISH        "Day 1 - 16:08:[{FAKE_INTRO_SECONDS:32}]"
+
+REFERENCE           ROADKILL_LINE_3
+LANG_ENGLISH        "PFC Joseph Allen"
+
+REFERENCE           ROADKILL_LINE_4
+LANG_ENGLISH        "1st Bn., 75th Ranger Regiment"
+
+REFERENCE           ROADKILL_LINE_5
+LANG_ENGLISH        "The Red Zone, Afghanistan"
+
+REFERENCE           ROADKILL_OBJECTIVE_AIRSTRIKE
+LANG_ENGLISH        "Standby for airstrike."
+
+REFERENCE           ROADKILL_OBJECTIVE_BRIDGELAYER
+LANG_ENGLISH        "Protect the bridge layer."
+
+REFERENCE           ROADKILL_OBJECTIVE_DISMOUNT
+LANG_ENGLISH        "Get eyes on the school."
+
+REFERENCE           ROADKILL_OBJECTIVE_EXFIL
+LANG_ENGLISH        "Exfiltrate to the link up point."
+
+REFERENCE           ROADKILL_OBJECTIVE_HUMVEE
+LANG_ENGLISH        "Get in your Humvee."
+
+REFERENCE           ROADKILL_OBJECTIVE_JAVELIN
+LANG_ENGLISH        "Destroy the armored vehicles across the river."
+
+REFERENCE           ROADKILL_OBJECTIVE_REPORT
+LANG_ENGLISH        "Report to General Shepherd at the rally point."
+
+REFERENCE           ROADKILL_OBJECTIVE_RIVERBANK
+LANG_ENGLISH        "Take out enemy spotters."
+
+REFERENCE           ROADKILL_OBJECTIVE_SCAN
+LANG_ENGLISH        "Scan for hostile activity. Do not fire unless fired upon."
+
+REFERENCE           ROADKILL_OBJECTIVE_SCHOOL
+LANG_ENGLISH        "Terminate the enemy presence in the school."
+
+REFERENCE           ROADKILL_OBJECTIVE_SHEPHERD
+LANG_ENGLISH        "Report to Colonel Shepherd."
+
+REFERENCE           ROADKILL_OBJECTIVE_TARGETS
+LANG_ENGLISH        "Destroy targets of opportunity."
+
+REFERENCE           ROADKILL_ONE_YEAR_AGO
+LANG_ENGLISH        "1 year ago..."
+
+REFERENCE           ROADKILL_SHOT_TOO_MUCH
+LANG_ENGLISH        "An unsanctioned discharge will not be tolerated."
+
+REFERENCE           ROADKILL_SHOT_UNARMED
+LANG_ENGLISH        "You are not authorized to fire on unarmed targets."
+
+ENDMARKER

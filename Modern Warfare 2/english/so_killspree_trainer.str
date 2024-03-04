@@ -1,0 +1,106 @@
+// Dumped from fastfile "so_killspree_trainer".
+// In their original format the strings might have been separated in multiple files.
+VERSION             "1"
+CONFIG              "C:/trees/cod3/cod3/bin/StringEd.cfg"
+FILENOTES           ""
+
+REFERENCE           SO_KILLSPREE_TRAINER_AREA_CLEARED
+LANG_ENGLISH        "Area Cleared"
+
+REFERENCE           SO_KILLSPREE_TRAINER_CIVILIAN_HIT
+LANG_ENGLISH        "Civilian Hit!"
+
+REFERENCE           SO_KILLSPREE_TRAINER_CIVVIES
+LANG_ENGLISH        "Civilians: "
+
+REFERENCE           SO_KILLSPREE_TRAINER_CIVVIES_COUNT
+LANG_ENGLISH        "&&1/5"
+
+REFERENCE           SO_KILLSPREE_TRAINER_DEADQUOTE_FRIENDLIES1
+LANG_ENGLISH        "You shot 5 friendly targets. Avoid shooting the civilian targets if you want to finish the course."
+
+REFERENCE           SO_KILLSPREE_TRAINER_DEADQUOTE_FRIENDLIES2
+LANG_ENGLISH        "You hit too many friendly targets."
+
+REFERENCE           SO_KILLSPREE_TRAINER_DEADQUOTE_HINT1
+LANG_ENGLISH        "OPERATIONAL INTEL\nTo get 3 stars you must reach the end in 35 seconds."
+
+REFERENCE           SO_KILLSPREE_TRAINER_DEADQUOTE_HINT2
+LANG_ENGLISH        "OPERATIONAL INTEL\nMastering pistols can save you time."
+
+REFERENCE           SO_KILLSPREE_TRAINER_DEADQUOTE_HINT3
+LANG_ENGLISH        "OPERATIONAL INTEL\nTry lining up multiple targets and take them all down with a single bullet."
+
+REFERENCE           SO_KILLSPREE_TRAINER_DEADQUOTE_HINT4
+LANG_ENGLISH        "OPERATIONAL INTEL\nSprint as much as possible to get through the course quickly."
+
+REFERENCE           SO_KILLSPREE_TRAINER_DEADQUOTE_HINT5
+LANG_ENGLISH        "OPERATIONAL INTEL\nIf you shoot a civilian target you will not be able to get all 3 stars."
+
+REFERENCE           SO_KILLSPREE_TRAINER_DEADQUOTE_MISSED1
+LANG_ENGLISH        "Try to shoot all of the enemy targets."
+
+REFERENCE           SO_KILLSPREE_TRAINER_DEADQUOTE_MISSED_END
+LANG_ENGLISH        "You must shoot all of the enemy targets in order to successfully complete the course."
+
+REFERENCE           SO_KILLSPREE_TRAINER_DEADQUOTE_MISSED_HALFWAY
+LANG_ENGLISH        "You must shoot all of the enemy targets before you can continue to the end of the course."
+
+REFERENCE           SO_KILLSPREE_TRAINER_DEADQUOTE_TIMEOUT
+LANG_ENGLISH        "You must finish within five minutes to successfully complete the course."
+
+REFERENCE           SO_KILLSPREE_TRAINER_ENEMIES
+LANG_ENGLISH        "Enemies: "
+
+REFERENCE           SO_KILLSPREE_TRAINER_ENEMIES_COUNT
+LANG_ENGLISH        "&&1/24"
+
+REFERENCE           SO_KILLSPREE_TRAINER_HINT_MISSED_TARGET
+LANG_ENGLISH        "Missed a Target - Go Back"
+
+REFERENCE           SO_KILLSPREE_TRAINER_HINT_MISSED_TARGETS
+LANG_ENGLISH        "Missed Targets - Go Back"
+
+REFERENCE           SO_KILLSPREE_TRAINER_HINT_MISSED_TARGETS_JUMP
+LANG_ENGLISH        "Missed Targets - Go Back Before Jumping"
+
+REFERENCE           SO_KILLSPREE_TRAINER_HINT_MISSED_TARGET_JUMP
+LANG_ENGLISH        "Missed a Target - Go Back Before Jumping"
+
+REFERENCE           SO_KILLSPREE_TRAINER_OBJ_MAIN
+LANG_ENGLISH        "Clear all of the enemy targets as fast as possible."
+
+REFERENCE           SO_KILLSPREE_TRAINER_SCOREBOARD_CIVS_HIT
+LANG_ENGLISH        "Civilian Targets Hit"
+
+REFERENCE           SO_KILLSPREE_TRAINER_SCOREBOARD_CIVS_KILLED
+LANG_ENGLISH        "Avoid civilian hits for more stars"
+
+REFERENCE           SO_KILLSPREE_TRAINER_SCOREBOARD_CIVS_SPACE
+LANG_ENGLISH        " "
+
+REFERENCE           SO_KILLSPREE_TRAINER_SCOREBOARD_CIVS_TIME
+LANG_ENGLISH        "Civilian Time Penalty"
+
+REFERENCE           SO_KILLSPREE_TRAINER_SCOREBOARD_ENEMIES_HIT
+LANG_ENGLISH        "Enemy Targets Hit"
+
+REFERENCE           SO_KILLSPREE_TRAINER_SCOREBOARD_FINAL_TIME
+LANG_ENGLISH        "Final Time"
+
+REFERENCE           SO_KILLSPREE_TRAINER_SCOREBOARD_FINISH_TIME
+LANG_ENGLISH        "Finished Time"
+
+REFERENCE           SO_KILLSPREE_TRAINER_SCOREBOARD_MISSED_TIME
+LANG_ENGLISH        "Missed Target Penalty"
+
+REFERENCE           SO_KILLSPREE_TRAINER_SCOREBOARD_NA
+LANG_ENGLISH        "N/A"
+
+REFERENCE           SO_KILLSPREE_TRAINER_SCOREBOARD_PLUS
+LANG_ENGLISH        "+"
+
+REFERENCE           SO_KILLSPREE_TRAINER_SCOREBOARD_TIMETOBEAT
+LANG_ENGLISH        "Time to beat for more stars"
+
+ENDMARKER

@@ -1,0 +1,373 @@
+// Dumped from fastfile "so_takeover_estate".
+// In their original format the strings might have been separated in multiple files.
+VERSION             "1"
+CONFIG              "C:/trees/cod3/cod3/bin/StringEd.cfg"
+FILENOTES           ""
+
+REFERENCE           PMC_CACHE_USE_HINT
+LANG_ENGLISH        "Press ^3&&1^7 to refill your ammo"
+
+REFERENCE           PMC_CHARACTER_ASSAULT
+LANG_ENGLISH        "Assault"
+
+REFERENCE           PMC_CHARACTER_DEMOLITION
+LANG_ENGLISH        "Demolition"
+
+REFERENCE           PMC_CHARACTER_GHOST
+LANG_ENGLISH        "Ghost"
+
+REFERENCE           PMC_CHARACTER_GRENADIER
+LANG_ENGLISH        "Assault"
+
+REFERENCE           PMC_CHARACTER_GUNNER
+LANG_ENGLISH        "Heavy-Gunner"
+
+REFERENCE           PMC_CHARACTER_SNIPER
+LANG_ENGLISH        "Sniper"
+
+REFERENCE           PMC_CLAYMORE_PICKUP
+LANG_ENGLISH        "Press and hold ^3&&1^7 to pickup claymore"
+
+REFERENCE           PMC_DEBUG_ENEMY_COUNT
+LANG_ENGLISH        "Enemies Alive: &&1"
+
+REFERENCE           PMC_DEBUG_SPAWNER_COUNT
+LANG_ENGLISH        "Enemy Spawners: &&1"
+
+REFERENCE           PMC_DEBUG_VEHICLE_COUNT
+LANG_ENGLISH        "Vehicles Alive: &&1"
+
+REFERENCE           PMC_DEFEND_FAILED
+LANG_ENGLISH        "Keep enemies away from the objective!"
+
+REFERENCE           PMC_DIFFICULTY_HEAVY
+LANG_ENGLISH        "Heavy"
+
+REFERENCE           PMC_DIFFICULTY_HEAVY_DESC
+LANG_ENGLISH        "Enemy density will be heavy. Many enemies occupy the level. You may not survive."
+
+REFERENCE           PMC_DIFFICULTY_LIGHT
+LANG_ENGLISH        "Light"
+
+REFERENCE           PMC_DIFFICULTY_LIGHT_DESC
+LANG_ENGLISH        "Enemy density will be light."
+
+REFERENCE           PMC_DIFFICULTY_MAXIMUM
+LANG_ENGLISH        "Maximum"
+
+REFERENCE           PMC_DIFFICULTY_MAXIMUM_DESC
+LANG_ENGLISH        "Enemy density is extremely high. Only the elite can accomplish this mission."
+
+REFERENCE           PMC_DIFFICULTY_MODERATE
+LANG_ENGLISH        "Moderate"
+
+REFERENCE           PMC_DIFFICULTY_MODERATE_DESC
+LANG_ENGLISH        "Enemy density will be moderate. Proceed carefully."
+
+REFERENCE           PMC_ENEMIES_REMAINING
+LANG_ENGLISH        "Enemies remaining: &&1"
+
+REFERENCE           PMC_HINT_USELAPTOP
+LANG_ENGLISH        "Press and hold ^3&&1^7 to use the laptop."
+
+REFERENCE           PMC_HQ_DAMAGE
+LANG_ENGLISH        "HQ Damage"
+
+REFERENCE           PMC_HQ_RECOVERING_INTEL
+LANG_ENGLISH        "Retrieving Intel..."
+
+REFERENCE           PMC_OBJECTIVE_ABORT_CODES
+LANG_ENGLISH        "Retrieve enemy intel."
+
+REFERENCE           PMC_OBJECTIVE_DEFEND
+LANG_ENGLISH        "Survive until time runs out."
+
+REFERENCE           PMC_OBJECTIVE_EXTRACT
+LANG_ENGLISH        "Reach the extraction zone."
+
+REFERENCE           PMC_OBJECTIVE_FAILED
+LANG_ENGLISH        "Mission failed. The objective was not completed in time."
+
+REFERENCE           PMC_OBJECTIVE_KILL_ENEMIES
+LANG_ENGLISH        "Eliminate all hostiles."
+
+REFERENCE           PMC_OBJECTIVE_KILL_ENEMIES_REMAINING
+LANG_ENGLISH        "Eliminate all hostiles [ &&1 Remaining ]."
+
+REFERENCE           PMC_OBJECTIVE_SETUP_DEFENSES
+LANG_ENGLISH        "Set up a defensive position before enemy attack."
+
+REFERENCE           PMC_PMC_CONTRACT_1_DESC
+LANG_ENGLISH        "Sweep and clear mission. Find and kill 25 enemies. Beware of enemy sentry guns and helicopters."
+
+REFERENCE           PMC_PMC_CONTRACT_1_NAME
+LANG_ENGLISH        "$500 Elimination Contract"
+
+REFERENCE           PMC_PMC_CONTRACT_1_PLAYERS
+LANG_ENGLISH        "1-2 Players"
+
+REFERENCE           PMC_PMC_CONTRACT_1_PRIZE
+LANG_ENGLISH        "$100 per enemy\n$500 bonus on mission completion"
+
+REFERENCE           PMC_PMC_CONTRACT_1_THREAT
+LANG_ENGLISH        "^2Green Threat Level"
+
+REFERENCE           PMC_PMC_CONTRACT_1_UNLOCK
+LANG_ENGLISH        "This contract is unlocked by default"
+
+REFERENCE           PMC_PMC_CONTRACT_2_DESC
+LANG_ENGLISH        "Timed mission. Infiltrate the enemy position and capture a laptop containing intel, then extract."
+
+REFERENCE           PMC_PMC_CONTRACT_2_NAME
+LANG_ENGLISH        "$2000 Recon Mission"
+
+REFERENCE           PMC_PMC_CONTRACT_2_PLAYERS
+LANG_ENGLISH        "1-2 Players"
+
+REFERENCE           PMC_PMC_CONTRACT_2_PRIZE
+LANG_ENGLISH        "$100 per enemy\n$2000 bonus on mission completion"
+
+REFERENCE           PMC_PMC_CONTRACT_2_THREAT
+LANG_ENGLISH        "^1Red Threat Level"
+
+REFERENCE           PMC_PMC_CONTRACT_2_UNLOCK
+LANG_ENGLISH        "This contract is unlocked by default"
+
+REFERENCE           PMC_PMC_CONTRACT_3_DESC
+LANG_ENGLISH        "Hold off an enemy counter attack until reinforcements arrive. Set up sentry guns and use weapon caches to prepare your defence."
+
+REFERENCE           PMC_PMC_CONTRACT_3_NAME
+LANG_ENGLISH        "$1500 'Hold Out' Contract"
+
+REFERENCE           PMC_PMC_CONTRACT_3_PLAYERS
+LANG_ENGLISH        "1-2 Players"
+
+REFERENCE           PMC_PMC_CONTRACT_3_PRIZE
+LANG_ENGLISH        "$25 per enemy\n$1500 bonus on mission completion"
+
+REFERENCE           PMC_PMC_CONTRACT_3_THREAT
+LANG_ENGLISH        "^3Yellow Threat Level"
+
+REFERENCE           PMC_PMC_CONTRACT_3_UNLOCK
+LANG_ENGLISH        "This contract is unlocked by default"
+
+REFERENCE           PMC_PMC_CONTRACT_4_DESC
+LANG_ENGLISH        "Sweep and clear mission. Find and kill 85 enemies. Beware of enemy sentry guns and helicopters."
+
+REFERENCE           PMC_PMC_CONTRACT_4_NAME
+LANG_ENGLISH        "$2000 Elimination Contract"
+
+REFERENCE           PMC_PMC_CONTRACT_4_PLAYERS
+LANG_ENGLISH        "1-2 Players"
+
+REFERENCE           PMC_PMC_CONTRACT_4_PRIZE
+LANG_ENGLISH        "$100 per enemy\n$2000 bonus on mission completion"
+
+REFERENCE           PMC_PMC_CONTRACT_4_THREAT
+LANG_ENGLISH        "^1Red Threat Level"
+
+REFERENCE           PMC_PMC_CONTRACT_4_UNLOCK
+LANG_ENGLISH        "This contract is unlocked by default"
+
+REFERENCE           PMC_PMC_CONTRACT_5_DESC
+LANG_ENGLISH        "Escort friendly troops to their objective while providing air support from an AC-130 gunship"
+
+REFERENCE           PMC_PMC_CONTRACT_5_NAME
+LANG_ENGLISH        "$3000 AC-130 Escort"
+
+REFERENCE           PMC_PMC_CONTRACT_5_PLAYERS
+LANG_ENGLISH        "1-2 Players"
+
+REFERENCE           PMC_PMC_CONTRACT_5_PRIZE
+LANG_ENGLISH        "$25 per enemy\n$3000 bonus on mission completion"
+
+REFERENCE           PMC_PMC_CONTRACT_5_THREAT
+LANG_ENGLISH        "^3Yellow Threat Level"
+
+REFERENCE           PMC_PMC_CONTRACT_5_UNLOCK
+LANG_ENGLISH        "This contract is unlocked by default"
+
+REFERENCE           PMC_PMC_CONTRACT_6_DESC
+LANG_ENGLISH        "Crawl around in a ghillie suit while silently taking down enemies"
+
+REFERENCE           PMC_PMC_CONTRACT_6_NAME
+LANG_ENGLISH        "$3000 Sniper Contract"
+
+REFERENCE           PMC_PMC_CONTRACT_6_PLAYERS
+LANG_ENGLISH        "1-2 Players"
+
+REFERENCE           PMC_PMC_CONTRACT_6_PRIZE
+LANG_ENGLISH        "$150 per enemy\n$3000 bonus on mission completion"
+
+REFERENCE           PMC_PMC_CONTRACT_6_THREAT
+LANG_ENGLISH        "^3Yellow Threat Level"
+
+REFERENCE           PMC_PMC_CONTRACT_6_UNLOCK
+LANG_ENGLISH        "This contract is unlocked by default"
+
+REFERENCE           PMC_PMC_CONTRACT_7_DESC
+LANG_ENGLISH        "Work with the 'good' Russians to rescue your informant, Nikolai."
+
+REFERENCE           PMC_PMC_CONTRACT_7_NAME
+LANG_ENGLISH        "$2500 Blackout Contract"
+
+REFERENCE           PMC_PMC_CONTRACT_7_PLAYERS
+LANG_ENGLISH        "1-2 Players"
+
+REFERENCE           PMC_PMC_CONTRACT_7_PRIZE
+LANG_ENGLISH        "$50 per enemy\n$2500 bonus on mission completion"
+
+REFERENCE           PMC_PMC_CONTRACT_7_THREAT
+LANG_ENGLISH        "^3Yellow Threat Level"
+
+REFERENCE           PMC_PMC_CONTRACT_7_UNLOCK
+LANG_ENGLISH        "This contract is unlocked by default"
+
+REFERENCE           PMC_PMC_CONTRACT_8_DESC
+LANG_ENGLISH        "mission 8 description"
+
+REFERENCE           PMC_PMC_CONTRACT_8_NAME
+LANG_ENGLISH        "$15000 Infiltration Contract"
+
+REFERENCE           PMC_PMC_CONTRACT_8_PLAYERS
+LANG_ENGLISH        "1-2 Players"
+
+REFERENCE           PMC_PMC_CONTRACT_8_PRIZE
+LANG_ENGLISH        "$100 per enemy\n$15000 bonus on mission completion"
+
+REFERENCE           PMC_PMC_CONTRACT_8_THREAT
+LANG_ENGLISH        "^1Red Threat Level"
+
+REFERENCE           PMC_PMC_CONTRACT_8_UNLOCK
+LANG_ENGLISH        "Unlock this contract by successfully completing an objective contract with 2 minutes remaining or more."
+
+REFERENCE           PMC_PMC_CONTRACT_9_DESC
+LANG_ENGLISH        "Desperate times call for desperate measures. Successfully assassinate the russian leader without getting caught."
+
+REFERENCE           PMC_PMC_CONTRACT_9_NAME
+LANG_ENGLISH        "$50000 Assassination Contract"
+
+REFERENCE           PMC_PMC_CONTRACT_9_PLAYERS
+LANG_ENGLISH        "1-2 Players"
+
+REFERENCE           PMC_PMC_CONTRACT_9_PRIZE
+LANG_ENGLISH        "$50 per enemy\n$50000 bonus on mission completion"
+
+REFERENCE           PMC_PMC_CONTRACT_9_THREAT
+LANG_ENGLISH        "^1Red Threat Level"
+
+REFERENCE           PMC_PMC_CONTRACT_9_UNLOCK
+LANG_ENGLISH        "Unlock this contract by successfully completing Sniper Escape on Veteran difficulty."
+
+REFERENCE           PMC_PMC_CONTRACT_CUSTOM
+LANG_ENGLISH        "Create-A-Contract"
+
+REFERENCE           PMC_PMC_CONTRACT_CUSTOM_DESC
+LANG_ENGLISH        "Create your own PMC contract. You choose the map, mode, and settings to play."
+
+REFERENCE           PMC_PMC_CONTRACT_CUSTOM_NAME
+LANG_ENGLISH        "Create-A-Contract"
+
+REFERENCE           PMC_PMC_CRASH
+LANG_ENGLISH        "PMC Crash"
+
+REFERENCE           PMC_PMC_CROSSFIRE
+LANG_ENGLISH        "PMC Crossfire"
+
+REFERENCE           PMC_PMC_CUSTOM_CONTRACT_DEFEND
+LANG_ENGLISH        "Defend"
+
+REFERENCE           PMC_PMC_CUSTOM_CONTRACT_DENSITY
+LANG_ENGLISH        "Enemy Density"
+
+REFERENCE           PMC_PMC_CUSTOM_CONTRACT_DENSITY_HEAVY
+LANG_ENGLISH        "Heavy"
+
+REFERENCE           PMC_PMC_CUSTOM_CONTRACT_DENSITY_LIGHT
+LANG_ENGLISH        "Light"
+
+REFERENCE           PMC_PMC_CUSTOM_CONTRACT_DENSITY_MAXIMUM
+LANG_ENGLISH        "Maximum"
+
+REFERENCE           PMC_PMC_CUSTOM_CONTRACT_DENSITY_MODERATE
+LANG_ENGLISH        "Moderate"
+
+REFERENCE           PMC_PMC_CUSTOM_CONTRACT_ELIMINATION
+LANG_ENGLISH        "Elimination"
+
+REFERENCE           PMC_PMC_CUSTOM_CONTRACT_ENABLE_VEHICLES
+LANG_ENGLISH        "Enemy Vehicles"
+
+REFERENCE           PMC_PMC_CUSTOM_CONTRACT_OBJECTIVE
+LANG_ENGLISH        "Objective"
+
+REFERENCE           PMC_PMC_CUSTOM_CONTRACT_TYPE
+LANG_ENGLISH        "Contract Type"
+
+REFERENCE           PMC_PMC_GAME_SETTINGS
+LANG_ENGLISH        "PMC Game Settings"
+
+REFERENCE           PMC_PMC_HIGHRISE
+LANG_ENGLISH        "PMC Highrise"
+
+REFERENCE           PMC_PMC_MAP
+LANG_ENGLISH        "Map"
+
+REFERENCE           PMC_PMC_START_CONTRACT
+LANG_ENGLISH        "Deploy"
+
+REFERENCE           PMC_PMC_STRIKE
+LANG_ENGLISH        "PMC Strike"
+
+REFERENCE           PMC_SELECT_DENSITY
+LANG_ENGLISH        "Select enemy density"
+
+REFERENCE           PMC_SELECT_GAMETYPE
+LANG_ENGLISH        "Select Gametype"
+
+REFERENCE           PMC_SPECTATING
+LANG_ENGLISH        "Spectating"
+
+REFERENCE           PMC_START_ATTACK_HINT
+LANG_ENGLISH        "Approach the laptop to skip set up time."
+
+REFERENCE           PMC_START_ATTACK_USE_HINT
+LANG_ENGLISH        "Press and hold ^3&&1^7 on the laptop to skip set up time."
+
+REFERENCE           PMC_TIME_REMAINING
+LANG_ENGLISH        "Time Remaining: &&1"
+
+REFERENCE           PMC_TIME_UNTIL_ATTACK
+LANG_ENGLISH        "Time until attack: &&1"
+
+REFERENCE           PMC_TYPE_DEFEND
+LANG_ENGLISH        "Defend"
+
+REFERENCE           PMC_TYPE_DEFEND_DESC
+LANG_ENGLISH        "Set up a defensive position and try to stay alive until time expires."
+
+REFERENCE           PMC_TYPE_ELIMINATION
+LANG_ENGLISH        "Elimination"
+
+REFERENCE           PMC_TYPE_ELIMINATION_DESC
+LANG_ENGLISH        "Eliminate all threats in the level with no time limit."
+
+REFERENCE           PMC_TYPE_OBJECTIVE
+LANG_ENGLISH        "Objective"
+
+REFERENCE           PMC_TYPE_OBJECTIVE_DESC
+LANG_ENGLISH        "Complete an objective and get to the extraction zone before time runs out."
+
+REFERENCE           SO_TAKEOVER_ESTATE_OBJ_EASY
+LANG_ENGLISH        "Kill all 40 enemies."
+
+REFERENCE           SO_TAKEOVER_ESTATE_OBJ_HARDENED
+LANG_ENGLISH        "Kill all 40 enemies."
+
+REFERENCE           SO_TAKEOVER_ESTATE_OBJ_REGULAR
+LANG_ENGLISH        "Kill all 40 enemies."
+
+REFERENCE           SO_TAKEOVER_ESTATE_OBJ_VETERAN
+LANG_ENGLISH        "Kill all 40 enemies."
+
+ENDMARKER

@@ -1,0 +1,97 @@
+// Dumped from fastfile "so_defense_invasion".
+// In their original format the strings might have been separated in multiple files.
+VERSION             "1"
+CONFIG              "C:/trees/cod3/cod3/bin/StringEd.cfg"
+FILENOTES           ""
+
+REFERENCE           SO_DEFENSE_INVASION_ALERT_20
+LANG_ENGLISH        "20 Hostiles"
+
+REFERENCE           SO_DEFENSE_INVASION_ALERT_30
+LANG_ENGLISH        "30 Hostiles"
+
+REFERENCE           SO_DEFENSE_INVASION_ALERT_30_SKILLED
+LANG_ENGLISH        "30 Skilled Hostiles"
+
+REFERENCE           SO_DEFENSE_INVASION_ALERT_40
+LANG_ENGLISH        "40 Hostiles"
+
+REFERENCE           SO_DEFENSE_INVASION_ALERT_40_SKILLED
+LANG_ENGLISH        "40 Skilled Hostiles"
+
+REFERENCE           SO_DEFENSE_INVASION_ALERT_BTR80
+LANG_ENGLISH        "One BTR80"
+
+REFERENCE           SO_DEFENSE_INVASION_ALERT_COMING
+LANG_ENGLISH        "All coming for you!"
+
+REFERENCE           SO_DEFENSE_INVASION_ALERT_HELI
+LANG_ENGLISH        "One Helicopter"
+
+REFERENCE           SO_DEFENSE_INVASION_ALERT_HELIS
+LANG_ENGLISH        "Two Helicopters"
+
+REFERENCE           SO_DEFENSE_INVASION_ALERT_HELLFIRE
+LANG_ENGLISH        "Predator Drone armed with missiles"
+
+REFERENCE           SO_DEFENSE_INVASION_BTR80
+LANG_ENGLISH        "BTR80: "
+
+REFERENCE           SO_DEFENSE_INVASION_DEADQUOTE_HINT1
+LANG_ENGLISH        "OPERATIONAL INTEL\nHelicopters are vulnerable to small arms fire or one good hit from a rocket or grenade launcher."
+
+REFERENCE           SO_DEFENSE_INVASION_DEADQUOTE_HINT2
+LANG_ENGLISH        "OPERATIONAL INTEL\nStick the side of a BTR with a Semtex grenade ^3[{+smoke}]^7 to destroy it."
+
+REFERENCE           SO_DEFENSE_INVASION_DEADQUOTE_HINT3
+LANG_ENGLISH        "OPERATIONAL INTEL\nIn order to build the best defense, you may need to search for weapons and sentry turrets elsewhere."
+
+REFERENCE           SO_DEFENSE_INVASION_DEADQUOTE_HINT4
+LANG_ENGLISH        "OPERATIONAL INTEL\nPredator Drone kills enemies as easily as it will you."
+
+REFERENCE           SO_DEFENSE_INVASION_HELICOPTERS
+LANG_ENGLISH        "Helicopters: "
+
+REFERENCE           SO_DEFENSE_INVASION_HUNTERS
+LANG_ENGLISH        "Hostiles: "
+
+REFERENCE           SO_DEFENSE_INVASION_KILLS_BTR80
+LANG_ENGLISH        "BTRs Exploded"
+
+REFERENCE           SO_DEFENSE_INVASION_KILLS_HELI
+LANG_ENGLISH        "Helis Downed"
+
+REFERENCE           SO_DEFENSE_INVASION_KILLS_TURRET
+LANG_ENGLISH        "Turret Kills"
+
+REFERENCE           SO_DEFENSE_INVASION_OBJ_HARDENED
+LANG_ENGLISH        "Survive all 5 waves."
+
+REFERENCE           SO_DEFENSE_INVASION_OBJ_REGULAR
+LANG_ENGLISH        "Survive all 5 waves."
+
+REFERENCE           SO_DEFENSE_INVASION_OBJ_VETERAN
+LANG_ENGLISH        "Survive all 5 waves."
+
+REFERENCE           SO_DEFENSE_INVASION_UAV_SPOTTED
+LANG_ENGLISH        "Predator Drone has spotted you!"
+
+REFERENCE           SO_DEFENSE_INVASION_UAV_TARGETTING
+LANG_ENGLISH        "Predator Drone is targetting you!"
+
+REFERENCE           SO_DEFENSE_INVASION_WAVE_1
+LANG_ENGLISH        "- Wave 1 -"
+
+REFERENCE           SO_DEFENSE_INVASION_WAVE_2
+LANG_ENGLISH        "- Wave 2 -"
+
+REFERENCE           SO_DEFENSE_INVASION_WAVE_3
+LANG_ENGLISH        "- Wave 3 -"
+
+REFERENCE           SO_DEFENSE_INVASION_WAVE_4
+LANG_ENGLISH        "- Wave 4 -"
+
+REFERENCE           SO_DEFENSE_INVASION_WAVE_5
+LANG_ENGLISH        "- Final Wave -"
+
+ENDMARKER

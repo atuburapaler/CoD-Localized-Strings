@@ -1,0 +1,61 @@
+// Dumped from fastfile "so_rooftop_contingency".
+// In their original format the strings might have been separated in multiple files.
+VERSION             "1"
+CONFIG              "C:/trees/cod3/cod3/bin/StringEd.cfg"
+FILENOTES           ""
+
+REFERENCE           SO_ROOFTOP_CONTINGENCY_BM21_COUNT
+LANG_ENGLISH        "&&1 Troop Transports"
+
+REFERENCE           SO_ROOFTOP_CONTINGENCY_BM21_COUNT_SINGLE
+LANG_ENGLISH        "&&1 Troop Transport"
+
+REFERENCE           SO_ROOFTOP_CONTINGENCY_CLAYMORE_KILLS
+LANG_ENGLISH        "Claymore Kills"
+
+REFERENCE           SO_ROOFTOP_CONTINGENCY_DRONE_PICKUP
+LANG_ENGLISH        "Press and hold^3 &&1 ^7to pickup Predator Drone control rig"
+
+REFERENCE           SO_ROOFTOP_CONTINGENCY_HELLFIRE_KILLS
+LANG_ENGLISH        "Predator Drone Kills"
+
+REFERENCE           SO_ROOFTOP_CONTINGENCY_HOSTILES
+LANG_ENGLISH        "Hostiles: "
+
+REFERENCE           SO_ROOFTOP_CONTINGENCY_HOSTILES_COUNT
+LANG_ENGLISH        "&&1 Hostiles"
+
+REFERENCE           SO_ROOFTOP_CONTINGENCY_OBJ_HARDENED
+LANG_ENGLISH        "Fend off four waves of enemy reinforcements."
+
+REFERENCE           SO_ROOFTOP_CONTINGENCY_OBJ_REGULAR
+LANG_ENGLISH        "Fend off three waves of enemy reinforcements."
+
+REFERENCE           SO_ROOFTOP_CONTINGENCY_OBJ_VETERAN
+LANG_ENGLISH        "Fend off five waves of enemy reinforcements."
+
+REFERENCE           SO_ROOFTOP_CONTINGENCY_STANDARD_KILLS
+LANG_ENGLISH        "Standard Kills"
+
+REFERENCE           SO_ROOFTOP_CONTINGENCY_UAZ_COUNT
+LANG_ENGLISH        "&&1 Jeeps"
+
+REFERENCE           SO_ROOFTOP_CONTINGENCY_UAZ_COUNT_SINGLE
+LANG_ENGLISH        "&&1 Jeep"
+
+REFERENCE           SO_ROOFTOP_CONTINGENCY_WAVE_FINAL_STARTS
+LANG_ENGLISH        "Final Wave in: "
+
+REFERENCE           SO_ROOFTOP_CONTINGENCY_WAVE_FOURTH_STARTS
+LANG_ENGLISH        "Fourth Wave in: "
+
+REFERENCE           SO_ROOFTOP_CONTINGENCY_WAVE_SECOND_STARTS
+LANG_ENGLISH        "Second Wave in: "
+
+REFERENCE           SO_ROOFTOP_CONTINGENCY_WAVE_STARTS
+LANG_ENGLISH        "Next Wave in: "
+
+REFERENCE           SO_ROOFTOP_CONTINGENCY_WAVE_THIRD_STARTS
+LANG_ENGLISH        "Third Wave in: "
+
+ENDMARKER

@@ -1,0 +1,28 @@
+// Dumped from fastfile "so_forest_contingency".
+// In their original format the strings might have been separated in multiple files.
+VERSION             "1"
+CONFIG              "C:/trees/cod3/cod3/bin/StringEd.cfg"
+FILENOTES           ""
+
+REFERENCE           SO_FOREST_CONTINGENCY_EOG_SUMMARY_FINAL_TIME
+LANG_ENGLISH        "Final time"
+
+REFERENCE           SO_FOREST_CONTINGENCY_EOG_SUMMARY_PENALTY_KILLS
+LANG_ENGLISH        "Penalty - kills X 10"
+
+REFERENCE           SO_FOREST_CONTINGENCY_EOG_SUMMARY_PENALTY_STEALTH
+LANG_ENGLISH        "Penalty - stealth broken"
+
+REFERENCE           SO_FOREST_CONTINGENCY_OBJ_HARDENED
+LANG_ENGLISH        "Evade the patrols and reach the safety of the village."
+
+REFERENCE           SO_FOREST_CONTINGENCY_OBJ_REGULAR
+LANG_ENGLISH        "Evade the patrols and reach the safety of the village."
+
+REFERENCE           SO_FOREST_CONTINGENCY_OBJ_VETERAN
+LANG_ENGLISH        "Evade the patrols and reach the safety of the village."
+
+REFERENCE           SO_FOREST_CONTINGENCY_PENALTY
+LANG_ENGLISH        "Penalty: "
+
+ENDMARKER

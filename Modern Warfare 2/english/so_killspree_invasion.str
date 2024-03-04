@@ -1,0 +1,76 @@
+// Dumped from fastfile "so_killspree_invasion".
+// In their original format the strings might have been separated in multiple files.
+VERSION             "1"
+CONFIG              "C:/trees/cod3/cod3/bin/StringEd.cfg"
+FILENOTES           ""
+
+REFERENCE           SO_KILLSPREE_INVASION_DEADQUOTE_HINT1
+LANG_ENGLISH        "OPERATIONAL INTEL\n The more enemies you kill in a row, the larger combo bonus you get."
+
+REFERENCE           SO_KILLSPREE_INVASION_DEADQUOTE_HINT2
+LANG_ENGLISH        "OPERATIONAL INTEL\n Downed enemies are worth less points unless you knife them."
+
+REFERENCE           SO_KILLSPREE_INVASION_DEADQUOTE_HINT3
+LANG_ENGLISH        "OPERATIONAL INTEL\n Find clever ways to kill lots of enemies quickly and seek high value targets."
+
+REFERENCE           SO_KILLSPREE_INVASION_DEADQUOTE_HINT4
+LANG_ENGLISH        "OPERATIONAL INTEL\n BTR80s will steal your kill if they get the killing shot. Take them out!"
+
+REFERENCE           SO_KILLSPREE_INVASION_DEADQUOTE_HINT5
+LANG_ENGLISH        "OPERATIONAL INTEL\n In order for a kill to count, you have to give the killing blow."
+
+REFERENCE           SO_KILLSPREE_INVASION_EOG_COMBOS
+LANG_ENGLISH        "Highest Combo"
+
+REFERENCE           SO_KILLSPREE_INVASION_EOG_COMBOS_X
+LANG_ENGLISH        "x"
+
+REFERENCE           SO_KILLSPREE_INVASION_EOG_HEARTLESS
+LANG_ENGLISH        "Heartless Kills"
+
+REFERENCE           SO_KILLSPREE_INVASION_EOG_SCORE
+LANG_ENGLISH        "Total Score"
+
+REFERENCE           SO_KILLSPREE_INVASION_EOG_SOLID
+LANG_ENGLISH        "Easy/Solid Kills"
+
+REFERENCE           SO_KILLSPREE_INVASION_HUD_REMAINING
+LANG_ENGLISH        "Remaining: "
+
+REFERENCE           SO_KILLSPREE_INVASION_OBJ_HARDENED
+LANG_ENGLISH        "Rack up 30,000 points. Quick kills earn bonus points."
+
+REFERENCE           SO_KILLSPREE_INVASION_OBJ_REGULAR
+LANG_ENGLISH        "Rack up 30,000 points. Quick kills earn bonus points."
+
+REFERENCE           SO_KILLSPREE_INVASION_OBJ_VETERAN
+LANG_ENGLISH        "Rack up 30,000 points. Quick kills earn bonus points."
+
+REFERENCE           SO_KILLSPREE_INVASION_PLAYER_LINE
+LANG_ENGLISH        "&&1: "
+
+REFERENCE           SO_KILLSPREE_INVASION_SCORE_ASSIST
+LANG_ENGLISH        "Assist!"
+
+REFERENCE           SO_KILLSPREE_INVASION_SCORE_BRUTAL
+LANG_ENGLISH        "Heartless Kill!"
+
+REFERENCE           SO_KILLSPREE_INVASION_SCORE_BTR80
+LANG_ENGLISH        "BTR80 Mega Kill!!!"
+
+REFERENCE           SO_KILLSPREE_INVASION_SCORE_DOWNED
+LANG_ENGLISH        "Incapacitated!"
+
+REFERENCE           SO_KILLSPREE_INVASION_SCORE_FINISHED
+LANG_ENGLISH        "Easy Kill!"
+
+REFERENCE           SO_KILLSPREE_INVASION_SCORE_KILL
+LANG_ENGLISH        "Solid Kill!"
+
+REFERENCE           SO_KILLSPREE_INVASION_SPLASH_BONUS
+LANG_ENGLISH        "Bonus: "
+
+REFERENCE           SO_KILLSPREE_INVASION_SPLASH_COMBO
+LANG_ENGLISH        "Combo x"
+
+ENDMARKER

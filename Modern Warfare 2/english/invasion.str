@@ -1,0 +1,160 @@
+// Dumped from fastfile "invasion".
+// In their original format the strings might have been separated in multiple files.
+VERSION             "1"
+CONFIG              "C:/trees/cod3/cod3/bin/StringEd.cfg"
+FILENOTES           ""
+
+REFERENCE           HELLFIRE_DESTROYED
+LANG_ENGLISH        "Predator Drone has been destroyed."
+
+REFERENCE           HELLFIRE_DRONE_NOT_AVAILABLE
+LANG_ENGLISH        "Predator Drone is unavailable."
+
+REFERENCE           HELLFIRE_DRONE_VIEW
+LANG_ENGLISH        "CAMERA: UAV_DRONE_011"
+
+REFERENCE           HELLFIRE_FIRE
+LANG_ENGLISH        "-MISSILE LAUNCHED-"
+
+REFERENCE           HELLFIRE_MISSILE_VIEW
+LANG_ENGLISH        "CAMERA: MISSILE"
+
+REFERENCE           HELLFIRE_RELOADING
+LANG_ENGLISH        "-MISSILE IS RELOADING-"
+
+REFERENCE           HELLFIRE_RELOADING_WITH_TIME
+LANG_ENGLISH        "MISSILE RELOADED IN: "
+
+REFERENCE           HELLFIRE_USE_DRONE
+LANG_ENGLISH        "Press^3 [{+actionslot 4}] ^7to control the Predator Drone."
+
+REFERENCE           HELLFIRE_USE_DRONE_2
+LANG_ENGLISH        "Press^3 [{+actionslot 2}] ^7to control the Predator Drone."
+
+REFERENCE           INVASION_ADS_WITH_STINGER
+LANG_ENGLISH        "Hold ^3[{+speed_throw}]^7 when using a Stinger."
+
+REFERENCE           INVASION_DRONE_PICKUP
+LANG_ENGLISH        "Press and hold^3 &&1 ^7to pickup Predator Drone control rig."
+
+REFERENCE           INVASION_FAIL_ABANDONED
+LANG_ENGLISH        "You abandoned your squad."
+
+REFERENCE           INVASION_FAIL_PREZ
+LANG_ENGLISH        "The President Died."
+
+REFERENCE           INVASION_FAIL_SENTRY
+LANG_ENGLISH        "M-5 Sentry Gun was destroyed."
+
+REFERENCE           INVASION_GET_SEMTEX
+LANG_ENGLISH        "Press and hold ^3[{+activate}]^7 on the supply drop\nto get more \"Semtex grenades\"."
+
+REFERENCE           INVASION_GET_SMOKE
+LANG_ENGLISH        "Press and hold ^3[{+activate}]^7 on the supply drop to get more smoke grenades."
+
+REFERENCE           INVASION_HELLFIRE_DRONE_VIEW
+LANG_ENGLISH        "CAMERA: UAV_DRONE_011"
+
+REFERENCE           INVASION_HELLFIRE_FIRE
+LANG_ENGLISH        "-MISSILE LAUNCHED-"
+
+REFERENCE           INVASION_HELLFIRE_MISSILE_VIEW
+LANG_ENGLISH        "CAMERA: MISSILE"
+
+REFERENCE           INVASION_LINE1
+LANG_ENGLISH        "\"Wolverines!\""
+
+REFERENCE           INVASION_LINE2
+LANG_ENGLISH        "Day 4 - 17:45:[{FAKE_INTRO_SECONDS:32}]"
+
+REFERENCE           INVASION_LINE3
+LANG_ENGLISH        "Pvt. James Ramirez"
+
+REFERENCE           INVASION_LINE4
+LANG_ENGLISH        "1st Bn., 75th Ranger Regiment"
+
+REFERENCE           INVASION_LINE5
+LANG_ENGLISH        "Northeastern Virginia, U.S.A."
+
+REFERENCE           INVASION_OBJ_ATTACK_HELI
+LANG_ENGLISH        "Neutralize the enemy helicopter."
+
+REFERENCE           INVASION_OBJ_BMPS
+LANG_ENGLISH        "Destroy the BTR80s."
+
+REFERENCE           INVASION_OBJ_BURGERTOWN
+LANG_ENGLISH        "Secure Burger Town."
+
+REFERENCE           INVASION_OBJ_BURGERTOWN_DEFEND
+LANG_ENGLISH        "Neutralize the enemy forces."
+
+REFERENCE           INVASION_OBJ_CONVOY
+LANG_ENGLISH        "Regroup at the convoy."
+
+REFERENCE           INVASION_OBJ_CRASH
+LANG_ENGLISH        "Search the crash site."
+
+REFERENCE           INVASION_OBJ_DEFEND
+LANG_ENGLISH        "Eliminate the enemy assault."
+
+REFERENCE           INVASION_OBJ_FOLEY
+LANG_ENGLISH        "Follow Sgt Foley."
+
+REFERENCE           INVASION_OBJ_NATES_REGROUP
+LANG_ENGLISH        "Regroup at Nate's Restaurant."
+
+REFERENCE           INVASION_OBJ_PREDATOR
+LANG_ENGLISH        "Obtain the Predator Drone control rig."
+
+REFERENCE           INVASION_OBJ_REGROUP
+LANG_ENGLISH        "Regroup at Nate's Restaurant."
+
+REFERENCE           INVASION_OBJ_ROOF
+LANG_ENGLISH        "Get to the roof of Nate's Restaurant."
+
+REFERENCE           INVASION_OBJ_SENTRY
+LANG_ENGLISH        "Move the M-5 Sentry gun to the south side of the roof."
+
+REFERENCE           INVASION_OBJ_VIP_ESCORT
+LANG_ENGLISH        "Protect the VIP."
+
+REFERENCE           INVASION_SMOKE_TOO_FAR
+LANG_ENGLISH        "Smoke grenade too far from vehicle."
+
+REFERENCE           INVASION_THROW_SEMTEX
+LANG_ENGLISH        "Press^3 [{+smoke}] ^7to throw a sticky Semtex grenade."
+
+REFERENCE           INVASION_THROW_SMOKE
+LANG_ENGLISH        "Press^3 [{+smoke}] ^7to throw a smoke grenade."
+
+REFERENCE           INVASION_TOGGLE_ADS_WITH_STINGER
+LANG_ENGLISH        "Press ^3[{+toggleads_throw}]^7 when using a Stinger."
+
+REFERENCE           INVASION_USE_DRONE
+LANG_ENGLISH        "Press^3 [{+actionslot 4}] ^7to control the Predator Drone."
+
+REFERENCE           INVASION_WAYPOINT_DEFEND
+LANG_ENGLISH        "Defend"
+
+REFERENCE           INVASION_WAYPOINT_HOSTILES
+LANG_ENGLISH        "Targets"
+
+REFERENCE           INVASION_WAYPOINT_PROTECT
+LANG_ENGLISH        "Protect"
+
+REFERENCE           SENTRY_CANNOT_PLACE
+LANG_ENGLISH        "Move the turret to a valid location."
+
+REFERENCE           SENTRY_DEBUG_SPAWN_ENEMIES
+LANG_ENGLISH        "Enemies spawn in 10 seconds"
+
+REFERENCE           SENTRY_MOVE
+LANG_ENGLISH        "Press and hold ^3&&1^7 to move the turret."
+
+REFERENCE           SENTRY_PICKUP
+LANG_ENGLISH        "Press and hold ^3&&1^7 to pick up the turret."
+
+REFERENCE           SENTRY_PLACE
+LANG_ENGLISH        "Press ^3[{+attack}]^7 to place the turret."
+
+ENDMARKER

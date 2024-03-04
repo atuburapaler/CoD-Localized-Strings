@@ -1,0 +1,40 @@
+// Dumped from fastfile "so_hidden_so_ghillies".
+// In their original format the strings might have been separated in multiple files.
+VERSION             "1"
+CONFIG              "C:/trees/cod3/cod3/bin/StringEd.cfg"
+FILENOTES           ""
+
+REFERENCE           SO_HIDDEN_SO_GHILLIES_HINT_TIME
+LANG_ENGLISH        "Press up on the dpad to see your Time and Kills."
+
+REFERENCE           SO_HIDDEN_SO_GHILLIES_KILL_BASIC
+LANG_ENGLISH        "Average: "
+
+REFERENCE           SO_HIDDEN_SO_GHILLIES_KILL_NOFIRE
+LANG_ENGLISH        "Good: "
+
+REFERENCE           SO_HIDDEN_SO_GHILLIES_KILL_STEALTH
+LANG_ENGLISH        "Perfect: "
+
+REFERENCE           SO_HIDDEN_SO_GHILLIES_OBJ_HARDENED
+LANG_ENGLISH        "Reach the extraction point. Be patient and stealthy."
+
+REFERENCE           SO_HIDDEN_SO_GHILLIES_OBJ_REGULAR
+LANG_ENGLISH        "Reach the extraction point. Be patient and stealthy."
+
+REFERENCE           SO_HIDDEN_SO_GHILLIES_OBJ_VETERAN
+LANG_ENGLISH        "Reach the extraction point. Be patient and stealthy."
+
+REFERENCE           SO_HIDDEN_SO_GHILLIES_STAT_BASIC
+LANG_ENGLISH        "Average Kills"
+
+REFERENCE           SO_HIDDEN_SO_GHILLIES_STAT_NOFIRE
+LANG_ENGLISH        "Good Kills"
+
+REFERENCE           SO_HIDDEN_SO_GHILLIES_STAT_SKIPPED
+LANG_ENGLISH        "Not Killed"
+
+REFERENCE           SO_HIDDEN_SO_GHILLIES_STAT_STEALTH
+LANG_ENGLISH        "Perfect Kills"
+
+ENDMARKER

@@ -1,0 +1,355 @@
+// Dumped from fastfile "patch_mp".
+// In their original format the strings might have been separated in multiple files.
+VERSION             "1"
+CONFIG              "C:/trees/cod3/cod3/bin/StringEd.cfg"
+FILENOTES           ""
+
+REFERENCE           DLC_1
+LANG_ENGLISH        "DLC 1"
+
+REFERENCE           DLC_2
+LANG_ENGLISH        "DLC 2"
+
+REFERENCE           DLC_NOTEVERYONEHASREQUIREDDLC
+LANG_ENGLISH        "This playlist requires a map pack that you have, but other members of your party do not have."
+
+REFERENCE           DLC_PLAYER_DOESNT_HAVE_MAP_PACK
+LANG_ENGLISH        "&&2 disabled!\n&&1 does not have the map pack."
+
+REFERENCE           DLC_PLAYLIST_MAPS_NOT_ENABLED
+LANG_ENGLISH        "This playlist requires map packs that are disabled."
+
+REFERENCE           DLC_UNKNOWN
+LANG_ENGLISH        "Unknown Content Package"
+
+REFERENCE           PATCH_ABANDON
+LANG_ENGLISH        "Carnival"
+
+REFERENCE           PATCH_CHANGEHOSTTITLE
+LANG_ENGLISH        "Change Party Leader"
+
+REFERENCE           PATCH_COMPACT
+LANG_ENGLISH        "Salvage"
+
+REFERENCE           PATCH_COMPLEX
+LANG_ENGLISH        "Bailout"
+
+REFERENCE           PATCH_CRASH
+LANG_ENGLISH        "Crash"
+
+REFERENCE           PATCH_DESC_BARRACKS
+LANG_ENGLISH        "Challenges, Accolades, and Options."
+
+REFERENCE           PATCH_DESC_MAP_ABANDON
+LANG_ENGLISH        "Large abandoned theme park. Great for all game modes."
+
+REFERENCE           PATCH_DESC_MAP_COMPACT
+LANG_ENGLISH        "A snow-covered junkyard.  Lots of fast paced action."
+
+REFERENCE           PATCH_DESC_MAP_COMPLEX
+LANG_ENGLISH        "Overrun apartment complex. Long sight lines with great flank routes."
+
+REFERENCE           PATCH_DESC_MAP_CRASH
+LANG_ENGLISH        "Downed Sea Knight in a desert town. Fantastic team games."
+
+REFERENCE           PATCH_DESC_MAP_FUEL2
+LANG_ENGLISH        "Large oil refinery.  Good balance of medium to long range fire fights."
+
+REFERENCE           PATCH_DESC_MAP_OVERGROWN
+LANG_ENGLISH        "Large overgrown rural Russian area. Sniper ghillie suits make for good cover."
+
+REFERENCE           PATCH_DESC_MAP_STORM
+LANG_ENGLISH        "Stormy warehouse district.  Intense team battles."
+
+REFERENCE           PATCH_DESC_MAP_STRIKE
+LANG_ENGLISH        "Large urban desert town.  Excellent team games."
+
+REFERENCE           PATCH_DESC_MAP_TRAILERPARK
+LANG_ENGLISH        "Medium-sized trailer park with lots of cover and flank routes. Fight from all angles.\n\n"
+
+REFERENCE           PATCH_DESC_MAP_VACANT
+LANG_ENGLISH        "Deserted Russian office. Intense interior fighting."
+
+REFERENCE           PATCH_DLCMAPS
+LANG_ENGLISH        "Maps downloaded from Steam."
+
+REFERENCE           PATCH_DLC_MAPS
+LANG_ENGLISH        "Bonus Maps"
+
+REFERENCE           PATCH_DLC_MAPS_DESC
+LANG_ENGLISH        "Bonus multiplayer maps."
+
+REFERENCE           PATCH_DLC_MAPS_DESC_LOCKED
+LANG_ENGLISH        "Download bonus multiplayer maps."
+
+REFERENCE           PATCH_DOWNLOAD_CONTENT
+LANG_ENGLISH        "Download Content"
+
+REFERENCE           PATCH_DOWNLOAD_CONTENT_CAPS
+LANG_ENGLISH        "DOWNLOAD CONTENT"
+
+REFERENCE           PATCH_DOWNLOAD_MAPS
+LANG_ENGLISH        "Download Maps"
+
+REFERENCE           PATCH_DOWNLOAD_MAPS_CAPS
+LANG_ENGLISH        "DOWNLOAD MAPS"
+
+REFERENCE           PATCH_FUEL2
+LANG_ENGLISH        "Fuel"
+
+REFERENCE           PATCH_INVALIDPASSWORD
+LANG_ENGLISH        "Invalid Password."
+
+REFERENCE           PATCH_INVITE_FRIEND_TO_PARTY
+LANG_ENGLISH        "Invite friend to party"
+
+REFERENCE           PATCH_INVITE_TO_PARTY
+LANG_ENGLISH        "Invite to party"
+
+REFERENCE           PATCH_MAKEHOSTQUESTION
+LANG_ENGLISH        "Make &&1 the new party leader?"
+
+REFERENCE           PATCH_MISSINGMAP
+LANG_ENGLISH        "You do not have this map.  You can get this map by downloading map packs from Steam."
+
+REFERENCE           PATCH_OVERGROWN
+LANG_ENGLISH        "Overgrown"
+
+REFERENCE           PATCH_PARTY_INVITE_ACCEPT
+LANG_ENGLISH        "Join party"
+
+REFERENCE           PATCH_PARTY_INVITE_DECLINE
+LANG_ENGLISH        "Decline"
+
+REFERENCE           PATCH_PARTY_INVITE_QUESTION
+LANG_ENGLISH        "&&1 invites you to join their party."
+
+REFERENCE           PATCH_PARTY_INVITE_QUESTION_PARTY_HOST
+LANG_ENGLISH        "&&1 invites you to join their party.\nAccepting this invite will disband your party."
+
+REFERENCE           PATCH_PARTY_INVITE_TITLE
+LANG_ENGLISH        "Party invitation"
+
+REFERENCE           PATCH_PLAYLIST_REQUIRES_DLC
+LANG_ENGLISH        "This playlist requires a map pack that you do not have. You can download map packs from Steam."
+
+REFERENCE           PATCH_PRESTIGE_RESET_WARNING1
+LANG_ENGLISH        "Trade all of your accomplishments for a bit of prestige.  In addition to your new prestige rank icon, you'll gain access to some new titles, emblems and challenges.\n\nOther players will see your new prestige rank icon in the lobby, and game."
+
+REFERENCE           PATCH_PRESTIGE_RESET_WARNING2
+LANG_ENGLISH        "Prestige has a price: Everything you've unlocked including weapons, experience and challenges will be reset; you'll have to rank up again to reacquire them.\n\nOnly your titles, emblems and play lists will be unaffected."
+
+REFERENCE           PATCH_SEARCHINGFORGAMES_NMS
+LANG_ENGLISH        "Finding games: <&&1ms ping"
+
+REFERENCE           PATCH_SETASHOST
+LANG_ENGLISH        "Make Leader"
+
+REFERENCE           PATCH_STORM
+LANG_ENGLISH        "Storm"
+
+REFERENCE           PATCH_STRICTHINT
+LANG_ENGLISH        "Go to ^2www.infinityward.com/nat^7 to OPEN your router's NAT.\n"
+
+REFERENCE           PATCH_STRICTHINT_COOP
+LANG_ENGLISH        "Other players may have difficulties connecting to you - players you invited may not make it into your lobby. Go to ^2www.infinityward.com/nat^7 to OPEN your router's NAT."
+
+REFERENCE           PATCH_STRIKE
+LANG_ENGLISH        "Strike"
+
+REFERENCE           PATCH_TRAILERPARK
+LANG_ENGLISH        "Trailer Park"
+
+REFERENCE           PATCH_VACANT
+LANG_ENGLISH        "Vacant"
+
+REFERENCE           PATCH_YOUAREHOST
+LANG_ENGLISH        "You are now the party leader."
+
+REFERENCE           XBOXLIVE_AWAY
+LANG_ENGLISH        "Away"
+
+REFERENCE           XBOXLIVE_BUSY
+LANG_ENGLISH        "Busy"
+
+REFERENCE           XBOXLIVE_CANTJOINSESSION
+LANG_ENGLISH        "Unable to join game session"
+
+REFERENCE           XBOXLIVE_CLANSETTINGS
+LANG_ENGLISH        "Clan Settings"
+
+REFERENCE           XBOXLIVE_DESTROYPARTY
+LANG_ENGLISH        "End Party?"
+
+REFERENCE           XBOXLIVE_DOWNLOAD_FAIL
+LANG_ENGLISH        "Failed to complete download for online update."
+
+REFERENCE           XBOXLIVE_EDITCLANINFO
+LANG_ENGLISH        "Edit Clan Info"
+
+REFERENCE           XBOXLIVE_ENDOFMATCH
+LANG_ENGLISH        "End of match"
+
+REFERENCE           XBOXLIVE_EXTERNALMUTE
+LANG_ENGLISH        "Player is muted externally."
+
+REFERENCE           XBOXLIVE_EXTERNALMUTE_TITLE
+LANG_ENGLISH        "Can't toggle mute"
+
+REFERENCE           XBOXLIVE_FINDGAME
+LANG_ENGLISH        " find game"
+
+REFERENCE           XBOXLIVE_FINDGAMELOBBY
+LANG_ENGLISH        " Find Game Lobby"
+
+REFERENCE           XBOXLIVE_FRIENDSLIST
+LANG_ENGLISH        " friends"
+
+REFERENCE           XBOXLIVE_FRIENDSLISTONX
+LANG_ENGLISH        " friends"
+
+REFERENCE           XBOXLIVE_HOSTKICKPLAYER
+LANG_ENGLISH        " Kick Player"
+
+REFERENCE           XBOXLIVE_INVALIDPERMISSIONS
+LANG_ENGLISH        "The user &&1 does not have proper permissions for that operation"
+
+REFERENCE           XBOXLIVE_INVITE
+LANG_ENGLISH        " invite friends"
+
+REFERENCE           XBOXLIVE_INVITE_ONLY
+LANG_ENGLISH        "Lobby is by Invitation Only"
+
+REFERENCE           XBOXLIVE_KICK
+LANG_ENGLISH        "Kick"
+
+REFERENCE           XBOXLIVE_KICKPLAYER
+LANG_ENGLISH        "Kick &&1?"
+
+REFERENCE           XBOXLIVE_KICKPLAYERINLIST
+LANG_ENGLISH        " KICK PLAYER"
+
+REFERENCE           XBOXLIVE_LEADERBOARDS
+LANG_ENGLISH        "Leaderboards"
+
+REFERENCE           XBOXLIVE_LEAVELOBBY
+LANG_ENGLISH        "Leave Lobby?"
+
+REFERENCE           XBOXLIVE_LEAVEPARTY
+LANG_ENGLISH        "Leave party?"
+
+REFERENCE           XBOXLIVE_LEAVEPARTYANDLOBBY
+LANG_ENGLISH        "Leave lobby and party?"
+
+REFERENCE           XBOXLIVE_LEAVEPARTYBUTTON
+LANG_ENGLISH        " Leave Party"
+
+REFERENCE           XBOXLIVE_LIVEERROR
+LANG_ENGLISH        "Communication with the IWNet servers has been interrupted."
+
+REFERENCE           XBOXLIVE_LOBBYENDED
+LANG_ENGLISH        "Game lobby closed"
+
+REFERENCE           XBOXLIVE_LOBBYGAMERCARD
+LANG_ENGLISH        " View Player's Gamer Card"
+
+REFERENCE           XBOXLIVE_LOCAL_SERVER
+LANG_ENGLISH        "Local Server"
+
+REFERENCE           XBOXLIVE_LOGGEDOFF
+LANG_ENGLISH        "You were logged out of IWNet"
+
+REFERENCE           XBOXLIVE_MPNOTALLOWED
+LANG_ENGLISH        "The current profile is not allowed to play on IWNet."
+
+REFERENCE           XBOXLIVE_MUSTLOGIN
+LANG_ENGLISH        "You must sign in before you can play Modern Warfare 2"
+
+REFERENCE           XBOXLIVE_NOTSIGNEDIN
+LANG_ENGLISH        "Not signed in to a profile"
+
+REFERENCE           XBOXLIVE_NOTSIGNEDINLIVE
+LANG_ENGLISH        "Not signed in to an IWNet profile"
+
+REFERENCE           XBOXLIVE_ONLINE
+LANG_ENGLISH        "Online"
+
+REFERENCE           XBOXLIVE_PARTYDETAILS
+LANG_ENGLISH        " party details"
+
+REFERENCE           XBOXLIVE_PARTYENDED
+LANG_ENGLISH        "The party is no longer active"
+
+REFERENCE           XBOXLIVE_PLAYER0
+LANG_ENGLISH        "Guest 1"
+
+REFERENCE           XBOXLIVE_PLAYER1
+LANG_ENGLISH        "Guest 2"
+
+REFERENCE           XBOXLIVE_PLAYER2
+LANG_ENGLISH        "Guest 3"
+
+REFERENCE           XBOXLIVE_PLAYER3
+LANG_ENGLISH        "Guest 4"
+
+REFERENCE           XBOXLIVE_PLAYER_MUTE
+LANG_ENGLISH        "Toggle Mute"
+
+REFERENCE           XBOXLIVE_PLAYLISTISNEW
+LANG_ENGLISH        "Your playlist data is newer than the host's.  You will be unable to play with them until they restart to get the new playlists."
+
+REFERENCE           XBOXLIVE_PLAYLISTISOLD
+LANG_ENGLISH        "Your playlist data is older than the host's.  You must restart the game or reconnect in order to get the new playlist data."
+
+REFERENCE           XBOXLIVE_PLAYLISTUSERCOUNT
+LANG_ENGLISH        "&&1/&&2 Total Players in Playlists"
+
+REFERENCE           XBOXLIVE_RESTRICTEDCLAN
+LANG_ENGLISH        "This server only allows players from certain clans to play here."
+
+REFERENCE           XBOXLIVE_SAVE_FAIL
+LANG_ENGLISH        "Failed to complete save device access for online update."
+
+REFERENCE           XBOXLIVE_SELECTBUTTON
+LANG_ENGLISH        "Click me!"
+
+REFERENCE           XBOXLIVE_SERVICENAME
+LANG_ENGLISH        "IWNet"
+
+REFERENCE           XBOXLIVE_SIGNEDINAS
+LANG_ENGLISH        "Signed in as: &&1"
+
+REFERENCE           XBOXLIVE_SIGNEDOUT
+LANG_ENGLISH        "Your profile was signed out"
+
+REFERENCE           XBOXLIVE_SIGNEDOUTOFLIVE
+LANG_ENGLISH        "You must be signed in to IWNet to play online matches."
+
+REFERENCE           XBOXLIVE_SIGNIN
+LANG_ENGLISH        "Sign In to IWNet"
+
+REFERENCE           XBOXLIVE_SIGNINCHANGED
+LANG_ENGLISH        "Your sign in status has changed, returning to the main menu"
+
+REFERENCE           XBOXLIVE_SIGNOUT
+LANG_ENGLISH        "Sign Out of IWNet"
+
+REFERENCE           XBOXLIVE_SIGN_IN_TO_SAVE
+LANG_ENGLISH        "Sign in to save your progress."
+
+REFERENCE           XBOXLIVE_SPLITSCREEN_SIGN_IN
+LANG_ENGLISH        "Splitscreen Sign In"
+
+REFERENCE           XBOXLIVE_TOTALUSERCOUNT
+LANG_ENGLISH        "&&1 Total Players Online"
+
+REFERENCE           XBOXLIVE_VIEWCLANINFO
+LANG_ENGLISH        "Clan Info"
+
+REFERENCE           XBOXLIVE_VIEW_GAMER_CARD
+LANG_ENGLISH        " view gamer"
+
+REFERENCE           XBOXLIVE_VIEW_PROFILE
+LANG_ENGLISH        "View Gamer Card"
+
+ENDMARKER

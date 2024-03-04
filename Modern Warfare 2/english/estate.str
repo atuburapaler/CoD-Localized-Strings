@@ -1,0 +1,145 @@
+// Dumped from fastfile "estate".
+// In their original format the strings might have been separated in multiple files.
+VERSION             "1"
+CONFIG              "C:/trees/cod3/cod3/bin/StringEd.cfg"
+FILENOTES           ""
+
+REFERENCE           ESTATE_DSM_BYPASS
+LANG_ENGLISH        "...bypassed."
+
+REFERENCE           ESTATE_DSM_DESTROYED_BY_AI_GUNFIRE
+LANG_ENGLISH        "The enemy shot up and destroyed the DSM."
+
+REFERENCE           ESTATE_DSM_DESTROYED_BY_DESERTION
+LANG_ENGLISH        "The DSM was destroyed. Defend the objective."
+
+REFERENCE           ESTATE_DSM_DESTROYED_BY_PLAYER
+LANG_ENGLISH        "Watch your fire! You destroyed the DSM."
+
+REFERENCE           ESTATE_DSM_DLRATE
+LANG_ENGLISH        "Mbps"
+
+REFERENCE           ESTATE_DSM_DLTIMELEFT
+LANG_ENGLISH        "Time left:"
+
+REFERENCE           ESTATE_DSM_DLTIMELEFT_MINS
+LANG_ENGLISH        "mins"
+
+REFERENCE           ESTATE_DSM_DLTIMELEFT_SECS
+LANG_ENGLISH        "secs"
+
+REFERENCE           ESTATE_DSM_DL_RATEMETER
+LANG_ENGLISH        "at"
+
+REFERENCE           ESTATE_DSM_FRAME
+LANG_ENGLISH        "DSM v6.04"
+
+REFERENCE           ESTATE_DSM_IRONBOX
+LANG_ENGLISH        "...ironbox detected..."
+
+REFERENCE           ESTATE_DSM_NETWORK_FOUND
+LANG_ENGLISH        "...network found..."
+
+REFERENCE           ESTATE_DSM_PICKUP_HINT
+LANG_ENGLISH        "Press and hold ^3&&1^7 to retrieve the DSM."
+
+REFERENCE           ESTATE_DSM_PROGRESS
+LANG_ENGLISH        "Files copied:"
+
+REFERENCE           ESTATE_DSM_SLASH_TOTALFILES
+LANG_ENGLISH        "/2067"
+
+REFERENCE           ESTATE_DSM_USE_HINT
+LANG_ENGLISH        "Press and hold ^3&&1^7 to connect the DSM to Makarov's computer."
+
+REFERENCE           ESTATE_DSM_WORKING
+LANG_ENGLISH        "...working..."
+
+REFERENCE           ESTATE_FAKE_DEATH_QUOTE
+LANG_ENGLISH        "\"To the last I grapple with thee; from hell's heart I stab at thee...\" - Herman Melville"
+
+REFERENCE           ESTATE_INTROSCREEN_LINE_1
+LANG_ENGLISH        "\"Loose Ends\""
+
+REFERENCE           ESTATE_INTROSCREEN_LINE_2
+LANG_ENGLISH        "Day 6 - [{FAKE_INTRO_TIME:15:36:07}]"
+
+REFERENCE           ESTATE_INTROSCREEN_LINE_3
+LANG_ENGLISH        "Sgt. Gary 'Roach' Sanderson"
+
+REFERENCE           ESTATE_INTROSCREEN_LINE_4
+LANG_ENGLISH        "Task Force 141"
+
+REFERENCE           ESTATE_INTROSCREEN_LINE_5
+LANG_ENGLISH        "Georgian-Russian Border"
+
+REFERENCE           ESTATE_LEARN_PRONE
+LANG_ENGLISH        "Press and hold^3 [{+stance}] ^7to evade landmines!"
+
+REFERENCE           ESTATE_LEARN_PRONE_HOLDDOWN
+LANG_ENGLISH        "Press and hold down^3 [{+prone}] ^7to evade the landmine!"
+
+REFERENCE           ESTATE_LEARN_PRONE_TOGGLE
+LANG_ENGLISH        "Press^3 [{toggleprone}] ^7to evade the landmine!"
+
+REFERENCE           ESTATE_OBJ_ASSASSINATE
+LANG_ENGLISH        "Neutralize Vladimir Makarov."
+
+REFERENCE           ESTATE_OBJ_BREACH
+LANG_ENGLISH        "Breach and clear Makarov's safehouse."
+
+REFERENCE           ESTATE_OBJ_DOWNLOAD
+LANG_ENGLISH        "Protect the DSM until the transfer is complete."
+
+REFERENCE           ESTATE_OBJ_EXFIL
+LANG_ENGLISH        "Get to the backup LZ for extraction."
+
+REFERENCE           ESTATE_OBJ_INTEL
+LANG_ENGLISH        "Connect the DSM to Makarov's computer network."
+
+REFERENCE           ESTATE_OBJ_LZ
+LANG_ENGLISH        "Get to the landing zone for extraction."
+
+REFERENCE           ESTATE_OBJ_POINTER_PROTECT
+LANG_ENGLISH        "Protect"
+
+REFERENCE           ESTATE_OBJ_POINTER_RETRIEVE
+LANG_ENGLISH        "Retrieve"
+
+REFERENCE           ESTATE_OBJ_REGROUP
+LANG_ENGLISH        "Regroup with Ghost."
+
+REFERENCE           ESTATE_OBJ_RETRIEVE
+LANG_ENGLISH        "Retrieve the DSM."
+
+REFERENCE           ESTATE_REMIND_PRONE_LINE1
+LANG_ENGLISH        "You were killed by a landmine!"
+
+REFERENCE           ESTATE_REMIND_PRONE_LINE2
+LANG_ENGLISH        "Press and hold ^3[{+stance}]^7 to evade them."
+
+REFERENCE           ESTATE_REMIND_PRONE_LINE2_HOLDDOWN
+LANG_ENGLISH        "Press and hold down ^3[{+prone}]^7 to evade them."
+
+REFERENCE           ESTATE_REMIND_PRONE_LINE2_TOGGLE
+LANG_ENGLISH        "Press ^3[{toggleprone}]^7 to evade them."
+
+REFERENCE           ESTATE_USE_CLAYMORE_HINT
+LANG_ENGLISH        "Press^3 [{+actionslot 4}] ^7to use your claymores."
+
+REFERENCE           SENTRY_CANNOT_PLACE
+LANG_ENGLISH        "Move the turret to a valid location."
+
+REFERENCE           SENTRY_DEBUG_SPAWN_ENEMIES
+LANG_ENGLISH        "Enemies spawn in 10 seconds"
+
+REFERENCE           SENTRY_MOVE
+LANG_ENGLISH        "Press and hold ^3&&1^7 to move the turret."
+
+REFERENCE           SENTRY_PICKUP
+LANG_ENGLISH        "Press and hold ^3&&1^7 to pick up the turret."
+
+REFERENCE           SENTRY_PLACE
+LANG_ENGLISH        "Press ^3[{+attack}]^7 to place the turret."
+
+ENDMARKER

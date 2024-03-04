@@ -1,0 +1,49 @@
+// Dumped from fastfile "so_killspree_favela".
+// In their original format the strings might have been separated in multiple files.
+VERSION             "1"
+CONFIG              "C:/trees/cod3/cod3/bin/StringEd.cfg"
+FILENOTES           ""
+
+REFERENCE           SO_KILLSPREE_FAVELA_CIVILIANS
+LANG_ENGLISH        "Civilian Deaths: "
+
+REFERENCE           SO_KILLSPREE_FAVELA_CIV_COUNT_HARDENED
+LANG_ENGLISH        "&&1 (4)"
+
+REFERENCE           SO_KILLSPREE_FAVELA_CIV_COUNT_REGULAR
+LANG_ENGLISH        "&&1 (6)"
+
+REFERENCE           SO_KILLSPREE_FAVELA_CIV_COUNT_VETERAN
+LANG_ENGLISH        "&&1 (3)"
+
+REFERENCE           SO_KILLSPREE_FAVELA_DONT_HARM_CIVILIAN
+LANG_ENGLISH        "Do not harm civilians."
+
+REFERENCE           SO_KILLSPREE_FAVELA_DONT_HARM_CIVILIAN_FINAL
+LANG_ENGLISH        "Final warning! Do not harm civilians."
+
+REFERENCE           SO_KILLSPREE_FAVELA_KILLS_CIVILIANS
+LANG_ENGLISH        "Civilians Killed"
+
+REFERENCE           SO_KILLSPREE_FAVELA_KILLS_DOGS
+LANG_ENGLISH        "Dogs Killed"
+
+REFERENCE           SO_KILLSPREE_FAVELA_MISSION_FAILED_CIVILIAN
+LANG_ENGLISH        "Unacceptable number of civilian casualties."
+
+REFERENCE           SO_KILLSPREE_FAVELA_MISSION_FAILED_LEAVING
+LANG_ENGLISH        "You have left your assignment, mission failed."
+
+REFERENCE           SO_KILLSPREE_FAVELA_MISSION_FAILED_LEAVING_WARNING
+LANG_ENGLISH        "Warning! You are leaving the mission area."
+
+REFERENCE           SO_KILLSPREE_FAVELA_OBJ_HARDENED
+LANG_ENGLISH        "Kill 40 enemies."
+
+REFERENCE           SO_KILLSPREE_FAVELA_OBJ_REGULAR
+LANG_ENGLISH        "Kill 30 enemies."
+
+REFERENCE           SO_KILLSPREE_FAVELA_OBJ_VETERAN
+LANG_ENGLISH        "Kill 50 enemies."
+
+ENDMARKER

@@ -1,0 +1,175 @@
+// Dumped from fastfile "patch".
+// In their original format the strings might have been separated in multiple files.
+VERSION             "1"
+CONFIG              "C:/trees/cod3/cod3/bin/StringEd.cfg"
+FILENOTES           ""
+
+REFERENCE           NETWORK_MODERATE
+LANG_ENGLISH        "Moderate"
+
+REFERENCE           NETWORK_MODERATELOBBYWARNING
+LANG_ENGLISH        "Your NAT type is Moderate.  This means players may have trouble connecting to you and joining your Private Match lobby."
+
+REFERENCE           NETWORK_MODERATEPARTYWARNING
+LANG_ENGLISH        "Your NAT type is Moderate.  This means players may have trouble connecting to you and joining your party."
+
+REFERENCE           NETWORK_OPEN
+LANG_ENGLISH        "Open"
+
+REFERENCE           NETWORK_STRICT
+LANG_ENGLISH        "Strict"
+
+REFERENCE           NETWORK_STRICTLOBBYWARNING
+LANG_ENGLISH        "Your NAT type is Strict.  This means it is hard for other players to connect to you - so if you invite people they may not make it into your Private Match lobby.  "
+
+REFERENCE           NETWORK_STRICTPARTYWARNING
+LANG_ENGLISH        "Your NAT type is Strict.  This means it is hard for other players to connect to you - so if you invite people they may not make it into your party.  "
+
+REFERENCE           NETWORK_YOURNATTYPE
+LANG_ENGLISH        "Your NAT Type:"
+
+REFERENCE           PATCH_ABANDON
+LANG_ENGLISH        "Carnival"
+
+REFERENCE           PATCH_CHANGEHOSTTITLE
+LANG_ENGLISH        "Change Party Leader"
+
+REFERENCE           PATCH_COMPACT
+LANG_ENGLISH        "Salvage"
+
+REFERENCE           PATCH_COMPLEX
+LANG_ENGLISH        "Bailout"
+
+REFERENCE           PATCH_CRASH
+LANG_ENGLISH        "Crash"
+
+REFERENCE           PATCH_DESC_BARRACKS
+LANG_ENGLISH        "Challenges, Accolades, and Options."
+
+REFERENCE           PATCH_DESC_MAP_ABANDON
+LANG_ENGLISH        "Large abandoned theme park. Great for all game modes."
+
+REFERENCE           PATCH_DESC_MAP_COMPACT
+LANG_ENGLISH        "A snow-covered junkyard.  Lots of fast paced action."
+
+REFERENCE           PATCH_DESC_MAP_COMPLEX
+LANG_ENGLISH        "Overrun apartment complex. Long sight lines with great flank routes."
+
+REFERENCE           PATCH_DESC_MAP_CRASH
+LANG_ENGLISH        "Downed Sea Knight in a desert town. Fantastic team games."
+
+REFERENCE           PATCH_DESC_MAP_FUEL2
+LANG_ENGLISH        "Large oil refinery.  Good balance of medium to long range fire fights."
+
+REFERENCE           PATCH_DESC_MAP_OVERGROWN
+LANG_ENGLISH        "Large overgrown rural Russian area. Sniper ghillie suits make for good cover."
+
+REFERENCE           PATCH_DESC_MAP_STORM
+LANG_ENGLISH        "Stormy warehouse district.  Intense team battles."
+
+REFERENCE           PATCH_DESC_MAP_STRIKE
+LANG_ENGLISH        "Large urban desert town.  Excellent team games."
+
+REFERENCE           PATCH_DESC_MAP_TRAILERPARK
+LANG_ENGLISH        "Medium-sized trailer park with lots of cover and flank routes. Fight from all angles.\n\n"
+
+REFERENCE           PATCH_DESC_MAP_VACANT
+LANG_ENGLISH        "Deserted Russian office. Intense interior fighting."
+
+REFERENCE           PATCH_DLCMAPS
+LANG_ENGLISH        "Maps downloaded from Steam."
+
+REFERENCE           PATCH_DLC_MAPS
+LANG_ENGLISH        "Bonus Maps"
+
+REFERENCE           PATCH_DLC_MAPS_DESC
+LANG_ENGLISH        "Bonus multiplayer maps."
+
+REFERENCE           PATCH_DLC_MAPS_DESC_LOCKED
+LANG_ENGLISH        "Download bonus multiplayer maps."
+
+REFERENCE           PATCH_DOWNLOAD_CONTENT
+LANG_ENGLISH        "Download Content"
+
+REFERENCE           PATCH_DOWNLOAD_CONTENT_CAPS
+LANG_ENGLISH        "DOWNLOAD CONTENT"
+
+REFERENCE           PATCH_DOWNLOAD_MAPS
+LANG_ENGLISH        "Download Maps"
+
+REFERENCE           PATCH_DOWNLOAD_MAPS_CAPS
+LANG_ENGLISH        "DOWNLOAD MAPS"
+
+REFERENCE           PATCH_FUEL2
+LANG_ENGLISH        "Fuel"
+
+REFERENCE           PATCH_INVALIDPASSWORD
+LANG_ENGLISH        "Invalid Password."
+
+REFERENCE           PATCH_INVITE_FRIEND_TO_PARTY
+LANG_ENGLISH        "Invite friend to party"
+
+REFERENCE           PATCH_INVITE_TO_PARTY
+LANG_ENGLISH        "Invite to party"
+
+REFERENCE           PATCH_MAKEHOSTQUESTION
+LANG_ENGLISH        "Make &&1 the new party leader?"
+
+REFERENCE           PATCH_MISSINGMAP
+LANG_ENGLISH        "You do not have this map.  You can get this map by downloading map packs from Steam."
+
+REFERENCE           PATCH_OVERGROWN
+LANG_ENGLISH        "Overgrown"
+
+REFERENCE           PATCH_PARTY_INVITE_ACCEPT
+LANG_ENGLISH        "Join party"
+
+REFERENCE           PATCH_PARTY_INVITE_DECLINE
+LANG_ENGLISH        "Decline"
+
+REFERENCE           PATCH_PARTY_INVITE_QUESTION
+LANG_ENGLISH        "&&1 invites you to join their party."
+
+REFERENCE           PATCH_PARTY_INVITE_QUESTION_PARTY_HOST
+LANG_ENGLISH        "&&1 invites you to join their party.\nAccepting this invite will disband your party."
+
+REFERENCE           PATCH_PARTY_INVITE_TITLE
+LANG_ENGLISH        "Party invitation"
+
+REFERENCE           PATCH_PLAYLIST_REQUIRES_DLC
+LANG_ENGLISH        "This playlist requires a map pack that you do not have. You can download map packs from Steam."
+
+REFERENCE           PATCH_PRESTIGE_RESET_WARNING1
+LANG_ENGLISH        "Trade all of your accomplishments for a bit of prestige.  In addition to your new prestige rank icon, you'll gain access to some new titles, emblems and challenges.\n\nOther players will see your new prestige rank icon in the lobby, and game."
+
+REFERENCE           PATCH_PRESTIGE_RESET_WARNING2
+LANG_ENGLISH        "Prestige has a price: Everything you've unlocked including weapons, experience and challenges will be reset; you'll have to rank up again to reacquire them.\n\nOnly your titles, emblems and play lists will be unaffected."
+
+REFERENCE           PATCH_SEARCHINGFORGAMES_NMS
+LANG_ENGLISH        "Finding games: <&&1ms ping"
+
+REFERENCE           PATCH_SETASHOST
+LANG_ENGLISH        "Make Leader"
+
+REFERENCE           PATCH_STORM
+LANG_ENGLISH        "Storm"
+
+REFERENCE           PATCH_STRICTHINT
+LANG_ENGLISH        "Go to ^2www.infinityward.com/nat^7 to OPEN your router's NAT.\n"
+
+REFERENCE           PATCH_STRICTHINT_COOP
+LANG_ENGLISH        "Other players may have difficulties connecting to you - players you invited may not make it into your lobby. Go to ^2www.infinityward.com/nat^7 to OPEN your router's NAT."
+
+REFERENCE           PATCH_STRIKE
+LANG_ENGLISH        "Strike"
+
+REFERENCE           PATCH_TRAILERPARK
+LANG_ENGLISH        "Trailer Park"
+
+REFERENCE           PATCH_VACANT
+LANG_ENGLISH        "Vacant"
+
+REFERENCE           PATCH_YOUAREHOST
+LANG_ENGLISH        "You are now the party leader."
+
+ENDMARKER

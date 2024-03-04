@@ -1,0 +1,70 @@
+// Dumped from fastfile "so_snowrace1_cliffhanger".
+// In their original format the strings might have been separated in multiple files.
+VERSION             "1"
+CONFIG              "C:/trees/cod3/cod3/bin/StringEd.cfg"
+FILENOTES           ""
+
+REFERENCE           SO_SNOWRACE1_CLIFFHANGER_COOPFAIL_HINT1
+LANG_ENGLISH        "Cooperative time trial! Take different paths from your friend to hit all the flag gates."
+
+REFERENCE           SO_SNOWRACE1_CLIFFHANGER_DNF
+LANG_ENGLISH        "Did not finish"
+
+REFERENCE           SO_SNOWRACE1_CLIFFHANGER_FINISHLINE
+LANG_ENGLISH        "Finish Line"
+
+REFERENCE           SO_SNOWRACE1_CLIFFHANGER_GATES
+LANG_ENGLISH        "Gates hit"
+
+REFERENCE           SO_SNOWRACE1_CLIFFHANGER_OBJ_EASY
+LANG_ENGLISH        "Reach the Safe House in 4 minutes."
+
+REFERENCE           SO_SNOWRACE1_CLIFFHANGER_OBJ_FINISHLINE
+LANG_ENGLISH        "Race to the finish line"
+
+REFERENCE           SO_SNOWRACE1_CLIFFHANGER_OBJ_FINISHLINE_GATES
+LANG_ENGLISH        "Race to the finish line. Cross the flag gates for extra time."
+
+REFERENCE           SO_SNOWRACE1_CLIFFHANGER_OBJ_HARDENED
+LANG_ENGLISH        "Reach the Safe House in 2 minutes."
+
+REFERENCE           SO_SNOWRACE1_CLIFFHANGER_OBJ_REGULAR
+LANG_ENGLISH        "Reach the Safe House in 3 minutes."
+
+REFERENCE           SO_SNOWRACE1_CLIFFHANGER_OBJ_VETERAN
+LANG_ENGLISH        "Reach the Safe House in 1:30 minutes."
+
+REFERENCE           SO_SNOWRACE1_CLIFFHANGER_PERFECT_TIMING
+LANG_ENGLISH        "Quick Start!"
+
+REFERENCE           SO_SNOWRACE1_CLIFFHANGER_RACE_1
+LANG_ENGLISH        "1"
+
+REFERENCE           SO_SNOWRACE1_CLIFFHANGER_RACE_2
+LANG_ENGLISH        "2"
+
+REFERENCE           SO_SNOWRACE1_CLIFFHANGER_RACE_3
+LANG_ENGLISH        "3"
+
+REFERENCE           SO_SNOWRACE1_CLIFFHANGER_RACE_GO
+LANG_ENGLISH        "GO!"
+
+REFERENCE           SO_SNOWRACE1_CLIFFHANGER_RACE_READY
+LANG_ENGLISH        "Get Ready"
+
+REFERENCE           SO_SNOWRACE1_CLIFFHANGER_SCOREBOARD_TIMETOBEAT
+LANG_ENGLISH        "Time to beat for more stars"
+
+REFERENCE           SO_SNOWRACE1_CLIFFHANGER_SPECOP_TIMER
+LANG_ENGLISH        "Finish in: "
+
+REFERENCE           SO_SNOWRACE1_CLIFFHANGER_TIMESPLASH
+LANG_ENGLISH        "+&&1 Seconds"
+
+REFERENCE           SO_SNOWRACE1_CLIFFHANGER_YOULOSE
+LANG_ENGLISH        "You Lost"
+
+REFERENCE           SO_SNOWRACE1_CLIFFHANGER_YOUWIN
+LANG_ENGLISH        "You Won!"
+
+ENDMARKER

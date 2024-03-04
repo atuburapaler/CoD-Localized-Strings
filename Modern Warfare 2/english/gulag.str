@@ -1,0 +1,58 @@
+// Dumped from fastfile "gulag".
+// In their original format the strings might have been separated in multiple files.
+VERSION             "1"
+CONFIG              "C:/trees/cod3/cod3/bin/StringEd.cfg"
+FILENOTES           ""
+
+REFERENCE           GULAG_BREACH_THE_BATHROOM
+LANG_ENGLISH        "Plant the breaching charge."
+
+REFERENCE           GULAG_CELL_DUTY
+LANG_ENGLISH        "Sweep the cells for the prisoner."
+
+REFERENCE           GULAG_CONTROL_ROOM
+LANG_ENGLISH        "Seize the gulag command center."
+
+REFERENCE           GULAG_ESCAPE
+LANG_ENGLISH        "Escape the gulag."
+
+REFERENCE           GULAG_FIND_POW
+LANG_ENGLISH        "Rescue Prisoner #627."
+
+REFERENCE           GULAG_FOLLOW_SOAP
+LANG_ENGLISH        "Follow Captain MacTavish into the gulag."
+
+REFERENCE           GULAG_HINT_MELEE
+LANG_ENGLISH        "Press ^3[{+melee}]^7 to bash."
+
+REFERENCE           GULAG_HOLD_1_TO_RAPPEL
+LANG_ENGLISH        "Press and hold^3 &&1 ^7to rappel."
+
+REFERENCE           GULAG_HOLD_1_TO_SPIE
+LANG_ENGLISH        "Press and hold^3 &&1 ^7to clip on."
+
+REFERENCE           GULAG_INTROSCREEN_1
+LANG_ENGLISH        "\"The Gulag\""
+
+REFERENCE           GULAG_INTROSCREEN_2
+LANG_ENGLISH        "Day 5 - 07:42:[{FAKE_INTRO_SECONDS:17}]"
+
+REFERENCE           GULAG_INTROSCREEN_3
+LANG_ENGLISH        "Sgt. Gary 'Roach' Sanderson"
+
+REFERENCE           GULAG_INTROSCREEN_4
+LANG_ENGLISH        "Task Force 141"
+
+REFERENCE           GULAG_INTROSCREEN_5
+LANG_ENGLISH        "40 miles east of Petropavlovsk, Russia"
+
+REFERENCE           GULAG_M203_DEATH
+LANG_ENGLISH        "Use the M203 grenade launcher to take out the SLAMRAAM launchers."
+
+REFERENCE           GULAG_PRICE_KILLED
+LANG_ENGLISH        "The POW was killed. Mission Failed."
+
+REFERENCE           GULAG_SHOWERS_TIMER
+LANG_ENGLISH        "Current Time: "
+
+ENDMARKER

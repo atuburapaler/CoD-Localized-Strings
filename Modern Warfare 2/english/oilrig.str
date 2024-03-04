@@ -1,0 +1,85 @@
+// Dumped from fastfile "oilrig".
+// In their original format the strings might have been separated in multiple files.
+VERSION             "1"
+CONFIG              "C:/trees/cod3/cod3/bin/StringEd.cfg"
+FILENOTES           ""
+
+REFERENCE           OILRIG_DEBUG_STEALTHKILLS
+LANG_ENGLISH        "Skipping stealth kill section\n(awaiting animations)"
+
+REFERENCE           OILRIG_DEBUG_UNDERWATER
+LANG_ENGLISH        "Skipping underwater sequence\n(awaiting animations)"
+
+REFERENCE           OILRIG_HINT_AMBUSH_COVER
+LANG_ENGLISH        "Take cover in the scaffolding and ambush the enemy"
+
+REFERENCE           OILRIG_HINT_C4_DETONATE
+LANG_ENGLISH        "Pull ^3[{+speed_throw}]^7 to detonate C4"
+
+REFERENCE           OILRIG_HINT_C4_SWITCH
+LANG_ENGLISH        "Press^3 [{+actionslot 2}] ^7to switch to C4 detonator"
+
+REFERENCE           OILRIG_HINT_THERMAL_WEAPON_FIND
+LANG_ENGLISH        "Find a weapon with a thermal scope to target enemies behind smoke"
+
+REFERENCE           OILRIG_HINT_THERMAL_WEAPON_USE
+LANG_ENGLISH        "Use the scope on thermal weapons to target enemies behind smoke"
+
+REFERENCE           OILRIG_INTROSCREEN_LINE_1
+LANG_ENGLISH        "\"The Only Easy Day...Was Yesterday\""
+
+REFERENCE           OILRIG_INTROSCREEN_LINE_2
+LANG_ENGLISH        "Day 5 - [{FAKE_INTRO_TIME:05:47:10}]"
+
+REFERENCE           OILRIG_INTROSCREEN_LINE_3
+LANG_ENGLISH        "Sgt. Gary 'Roach' Sanderson"
+
+REFERENCE           OILRIG_INTROSCREEN_LINE_4
+LANG_ENGLISH        "Task Force 141"
+
+REFERENCE           OILRIG_INTROSCREEN_LINE_5
+LANG_ENGLISH        "Vikhorevka 36 Oil Platform, Russia"
+
+REFERENCE           OILRIG_MISSIONFAIL_ENEMIES_ALERTED_HOSTAGES_KILLED
+LANG_ENGLISH        "Mission Failed. You alerted the enemy and hostages have been executed."
+
+REFERENCE           OILRIG_MISSIONFAIL_EXPLOSIVES
+LANG_ENGLISH        "Mission Failed.\nYou shot and detonated the rigged explosives."
+
+REFERENCE           OILRIG_MISSIONFAIL_EXPLOSIVES_NOTPLANTED
+LANG_ENGLISH        "Mission Failed.\nYou did not plant the C4 in time."
+
+REFERENCE           OILRIG_MISSIONFAIL_HELI_DEATH
+LANG_ENGLISH        "You were killed by an enemy helicopter.\nHelicopters can be shot down with rockets."
+
+REFERENCE           OILRIG_MISSIONFAIL_WATER_DEATH
+LANG_ENGLISH        "Mission Failed.\nAvoid falling into the water below."
+
+REFERENCE           OILRIG_OBJ_AMBUSH
+LANG_ENGLISH        "Take up ambush positions near the scaffolding."
+
+REFERENCE           OILRIG_OBJ_C4_AMBUSH_PLANT
+LANG_ENGLISH        "Plant C4 on the dead bodies."
+
+REFERENCE           OILRIG_OBJ_ESCAPE
+LANG_ENGLISH        "Proceed to the helipad outside."
+
+REFERENCE           OILRIG_OBJ_EXPLOSIVES_LOCATE
+LANG_ENGLISH        "Secure the derrick building on the top deck."
+
+REFERENCE           OILRIG_OBJ_GHOST
+LANG_ENGLISH        "Ghost"
+
+REFERENCE           OILRIG_OBJ_HOSTAGES_SECURE
+LANG_ENGLISH        "Secure the hostages. ( &&1 remaining )"
+
+REFERENCE           OILRIG_OBJ_HOSTAGES_SECURE_DONE
+LANG_ENGLISH        "Secure the hostages."
+
+REFERENCE           OILRIG_OBJ_SOAP
+LANG_ENGLISH        "Capt. MacTavish"
+
+REFERENCE           OILRIG_OBJ_STEALTHKILL
+LANG_ENGLISH        "Take out the guard quietly."
+
+ENDMARKER
