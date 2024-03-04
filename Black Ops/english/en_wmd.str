@@ -1,0 +1,529 @@
+// Dumped from fastfile "en_wmd".
+// In their original format the strings might have been separated in multiple files.
+VERSION             "1"
+CONFIG              "C:/projects/cod/t5/bin/StringEd.cfg"
+FILENOTES           ""
+
+REFERENCE           WMD_AVALANCHE
+LANG_ENGLISH        "Truck Avalanche"
+
+REFERENCE           WMD_AVALANCHE_TRUCK
+LANG_ENGLISH        "Press ^3[{+activate}]^7 to Get on Truck"
+
+REFERENCE           WMD_BASE
+LANG_ENGLISH        "Yamantau Base"
+
+REFERENCE           WMD_DOOR_BREACH1
+LANG_ENGLISH        "Breach\n"
+
+REFERENCE           WMD_EXPLOSIVE_TIP_HINT
+LANG_ENGLISH        "Press ^3[{+actionslot 3}]^7 to Arm Explosive Tip Arrows"
+
+REFERENCE           WMD_FREEFALL
+LANG_ENGLISH        "Use  to Control Freefall"
+
+REFERENCE           WMD_HOOKUP
+LANG_ENGLISH        "Hook up"
+
+REFERENCE           WMD_INTRO_DATE
+LANG_ENGLISH        "^L1700 hours,^L ^C1February 18, 1968^C"
+
+REFERENCE           WMD_INTRO_EXTRA
+LANG_ENGLISH        "^LSite suspected of being Project Nova development center.^L"
+
+REFERENCE           WMD_INTRO_LEVELNAME
+LANG_ENGLISH        "^LTransmission #00.  Designate:  XRAY^L"
+
+REFERENCE           WMD_INTRO_LOCATION
+LANG_ENGLISH        "^LSoviet base is in^L ^C1Yamantau, USSR.^L"
+
+REFERENCE           WMD_INTRO_NAME
+LANG_ENGLISH        "^C1Hudson^C ^Land Weaver to lead team for S&D mission into the valley.^L"
+
+REFERENCE           WMD_LEDGE
+LANG_ENGLISH        "Comm Ledge\n"
+
+REFERENCE           WMD_LEDGE_FAIL
+LANG_ENGLISH        "You failed to stay with your team."
+
+REFERENCE           WMD_OBJ_ESCAPE
+LANG_ENGLISH        "Escape Yamantau facility"
+
+REFERENCE           WMD_OBJ_FOLLOW
+LANG_ENGLISH        "Follow"
+
+REFERENCE           WMD_OBJ_HOOKUP
+LANG_ENGLISH        "Hook up"
+
+REFERENCE           WMD_OBJ_INFILTRATE
+LANG_ENGLISH        "Infiltrate the Nova 6 facility"
+
+REFERENCE           WMD_OBJ_INSERTION
+LANG_ENGLISH        "Regroup at insertion point"
+
+REFERENCE           WMD_OBJ_JUMP_POINT
+LANG_ENGLISH        "Proceed to jump point"
+
+REFERENCE           WMD_OBJ_PERSONNEL_A
+LANG_ENGLISH        "Neutralize security personnel in the area."
+
+REFERENCE           WMD_OBJ_PERSONNEL_B
+LANG_ENGLISH        "Neutralize the comstat personnel"
+
+REFERENCE           WMD_OBJ_RADAR
+LANG_ENGLISH        "Disable the comstat"
+
+REFERENCE           WMD_OBJ_STEINER
+LANG_ENGLISH        "Locate Steiner's Office."
+
+REFERENCE           WMD_OBJ_SUBSTATION
+LANG_ENGLISH        "Rappel to substation"
+
+REFERENCE           WMD_OBJ_TRUCK
+LANG_ENGLISH        "Escape on the truck."
+
+REFERENCE           WMD_PULL_CHUTE
+LANG_ENGLISH        "Press ^3[{+activate}]^7 to deploy parachute"
+
+REFERENCE           WMD_RAPPEL
+LANG_ENGLISH        "Rappel\n"
+
+REFERENCE           WMD_RAPPEL_LT
+LANG_ENGLISH        "Press ^3[{+speed_throw}]^7 to rappel"
+
+REFERENCE           WMD_RAPPEL_RT
+LANG_ENGLISH        "Hold ^3[{+attack}]^7 to brake"
+
+REFERENCE           WMD_REVEAL
+LANG_ENGLISH        "Push forward on  to get up"
+
+REFERENCE           WMD_SHOOT_HINGES
+LANG_ENGLISH        "Shoot the hinges on the door"
+
+REFERENCE           WMD_SNOW_AMBUSH
+LANG_ENGLISH        "Snow Ambush\n"
+
+REFERENCE           WMD_SPRINT_HINT
+LANG_ENGLISH        "Press ^3[{+breath_sprint}]^7 to sprint"
+
+REFERENCE           WMD_START_BASEJUMP
+LANG_ENGLISH        "Basejump\n"
+
+REFERENCE           WMD_START_BREACH
+LANG_ENGLISH        "Knife Throw"
+
+REFERENCE           WMD_START_COMSTATION
+LANG_ENGLISH        "Assault the relay station"
+
+REFERENCE           WMD_STEINER
+LANG_ENGLISH        "Steiner's Office"
+
+REFERENCE           WMD_SUPPORT
+LANG_ENGLISH        "Support"
+
+REFERENCE           WMD_TIMER_FAIL
+LANG_ENGLISH        "You failed to escape in time."
+
+REFERENCE           WMD_USE_DESTROY_DISH
+LANG_ENGLISH        "Hold ^3[{+activate}]^7 to disable radar dish"
+
+REFERENCE           WMD_USE_HOOKUP
+LANG_ENGLISH        "Hold ^3[{+activate}]^7 to hook up"
+
+REFERENCE           WMD_VOX_WMD1_S01_137A_USC2_F
+LANG_ENGLISH        "^1MAJ. NEITSCH: ^7Stay low... Here they come..."
+
+REFERENCE           WMD_VOX_WMD1_S01_138A_USC2_F
+LANG_ENGLISH        "^1MAJ. NEITSCH: ^7Hold... Hold..."
+
+REFERENCE           WMD_VOX_WMD1_S01_139A_USC2_F
+LANG_ENGLISH        "^1MAJ. NEITSCH: ^7Clear. More soldiers are on their way. Get to that guard house. GO!"
+
+REFERENCE           WMD_VOX_WMD1_S01_140A_WEAV
+LANG_ENGLISH        "^1WEAVER: ^7HALT!"
+
+REFERENCE           WMD_VOX_WMD1_S01_141A_WEAV
+LANG_ENGLISH        "^1WEAVER: ^7Don't move..."
+
+REFERENCE           WMD_VOX_WMD1_S01_143A_WEAV
+LANG_ENGLISH        "^1WEAVER: ^7Clear."
+
+REFERENCE           WMD_VOX_WMD1_S01_144A_HUDS
+LANG_ENGLISH        "^1HUDSON: ^7BigEye this is Kilo One. You still have us on Tac?"
+
+REFERENCE           WMD_VOX_WMD1_S01_145A_USC2_F
+LANG_ENGLISH        "^1MAJ. NEITSCH: ^7Affirmative Kilo One."
+
+REFERENCE           WMD_VOX_WMD1_S01_146A_HUDS
+LANG_ENGLISH        "^1HUDSON: ^7Visibility has improved. We're starting our insertion. Moving to the substation."
+
+REFERENCE           WMD_VOX_WMD1_S01_147A_USC2_F
+LANG_ENGLISH        "^1MAJ. NEITSCH: ^7Tracking... Bigeye sees four combatants entering the structure, over."
+
+REFERENCE           WMD_VOX_WMD1_S01_148A_HUDS
+LANG_ENGLISH        "^1HUDSON: ^7Roger that BigEye, we're going in."
+
+REFERENCE           WMD_VOX_WMD1_S01_149A_HUDS_M
+LANG_ENGLISH        "^1HUDSON: ^7The power relay is just below us. 4 targets."
+
+REFERENCE           WMD_VOX_WMD1_S01_150A_WEAV_M
+LANG_ENGLISH        "^1WEAVER: ^7Then let's go."
+
+REFERENCE           WMD_VOX_WMD1_S01_151A_HUDS
+LANG_ENGLISH        "^1HUDSON: ^7Ready?"
+
+REFERENCE           WMD_VOX_WMD1_S01_152A_WEAV_M
+LANG_ENGLISH        "^1WEAVER: ^7Ready when you are..."
+
+REFERENCE           WMD_VOX_WMD1_S01_155A_HUDS
+LANG_ENGLISH        "^1HUDSON: ^7BigEye, this is Kilo One. We have taken the substation."
+
+REFERENCE           WMD_VOX_WMD1_S01_157A_HUDS
+LANG_ENGLISH        "^1HUDSON: ^7Kilo One approaching the objective."
+
+REFERENCE           WMD_VOX_WMD1_S01_158A_USC2_F
+LANG_ENGLISH        "^1MAJ. NEITSCH: ^7Roger."
+
+REFERENCE           WMD_VOX_WMD1_S01_159A_USC2_F
+LANG_ENGLISH        "^1MAJ. NEITSCH: ^7Kilo One, you have multiple targets at the Comstat. Take the storage shed on the South side then head to the power room entrance to the North."
+
+REFERENCE           WMD_VOX_WMD1_S01_160A_HUDS
+LANG_ENGLISH        "^1HUDSON: ^7Roger that."
+
+REFERENCE           WMD_VOX_WMD1_S01_164A_WEAV
+LANG_ENGLISH        "^1WEAVER: ^7Pick one."
+
+REFERENCE           WMD_VOX_WMD1_S01_184A_USC1_F
+LANG_ENGLISH        "^1CAPT. MOSELY: ^7Kilo, two targets just entered the power room."
+
+REFERENCE           WMD_VOX_WMD1_S01_185A_HUDS
+LANG_ENGLISH        "^1HUDSON: ^7Roger that BigEye."
+
+REFERENCE           WMD_VOX_WMD1_S01_186A_HUDS
+LANG_ENGLISH        "^1HUDSON: ^7Harris, Brooks, control room. Wait for our breach."
+
+REFERENCE           WMD_VOX_WMD1_S01_191A_HUDS
+LANG_ENGLISH        "^1HUDSON: ^7Clear."
+
+REFERENCE           WMD_VOX_WMD1_S01_192A_USC2_F
+LANG_ENGLISH        "^1MAJ. NEITSCH: ^7Good job Kilo One. You have control of the perimeter."
+
+REFERENCE           WMD_VOX_WMD1_S01_193A_HUDS
+LANG_ENGLISH        "^1HUDSON: ^7BigEye, Kilo One are at the Comstat."
+
+REFERENCE           WMD_VOX_WMD1_S01_194A_USC1_F
+LANG_ENGLISH        "^1CAPT. MOSELY: ^7Copy that. Your team is in position at the window?"
+
+REFERENCE           WMD_VOX_WMD1_S01_195A_BROO_F
+LANG_ENGLISH        "^1BROOKS: ^7We're in position."
+
+REFERENCE           WMD_VOX_WMD1_S01_197A_WEAV
+LANG_ENGLISH        "^1WEAVER: ^7We're clear. Hudson, shut down the relay dish."
+
+REFERENCE           WMD_VOX_WMD1_S01_198A_WEAV
+LANG_ENGLISH        "^1WEAVER: ^7Hudson! You need to find the relay switch!"
+
+REFERENCE           WMD_VOX_WMD1_S01_199A_WEAV
+LANG_ENGLISH        "^1WEAVER: ^7Come on Hudson, we need to get moving!"
+
+REFERENCE           WMD_VOX_WMD1_S01_200A_HUDS
+LANG_ENGLISH        "^1HUDSON: ^7BigEye this is Kilo One. Confirm that the relay is offline, over?"
+
+REFERENCE           WMD_VOX_WMD1_S01_204A_WEAV
+LANG_ENGLISH        "^1WEAVER: ^7It won't take them long to figure out we're here. Let's move."
+
+REFERENCE           WMD_VOX_WMD1_S01_206A_WEAV
+LANG_ENGLISH        "^1WEAVER: ^7Hudson! Run! RUN!"
+
+REFERENCE           WMD_VOX_WMD1_S01_216A_USC2_F
+LANG_ENGLISH        "^1MAJ. NEITSCH: ^7Leaving recon."
+
+REFERENCE           WMD_VOX_WMD1_S01_219A_HUDS
+LANG_ENGLISH        "^1HUDSON: ^7Roger that BigEye. Thanks for the help. Stay safe."
+
+REFERENCE           WMD_VOX_WMD1_S01_220A_USC1_F
+LANG_ENGLISH        "^1CAPT. MOSELY: ^7Affirmative. BigEye out."
+
+REFERENCE           WMD_VOX_WMD1_S01_222A_BROO_M
+LANG_ENGLISH        "^1BROOKS: ^7See you at the bottom."
+
+REFERENCE           WMD_VOX_WMD1_S01_306A_BROO
+LANG_ENGLISH        "^1BROOKS: ^7Hudson, we need to keep this stealthy. Use your crossbow. If we get heat, switch to explosives."
+
+REFERENCE           WMD_VOX_WMD1_S01_307A_USC1_F
+LANG_ENGLISH        "^1CAPT. MOSELY: ^7Kilo One you have multiple targets inbound to the comstat!"
+
+REFERENCE           WMD_VOX_WMD1_S01_308A_BROO
+LANG_ENGLISH        "^1BROOKS: ^7Hudson! Get off the ledge!"
+
+REFERENCE           WMD_VOX_WMD1_S01_427A_USC2_F
+LANG_ENGLISH        "^1MAJ. NEITSCH: ^7Understood.  Re-calibrating Focal spread. Okay - We have Comstat on Tac. Proceed to next objective."
+
+REFERENCE           WMD_VOX_WMD1_S01_428A_HUDS
+LANG_ENGLISH        "^1HUDSON: ^7Main facility is located at the base of the ridge."
+
+REFERENCE           WMD_VOX_WMD1_S01_429A_HUDS
+LANG_ENGLISH        "^1HUDSON: ^7If we're gonna find evidence that Nova 6 has been weaponized, it'll be there."
+
+REFERENCE           WMD_VOX_WMD1_S01_430A_HUDS
+LANG_ENGLISH        "^1HUDSON: ^7Once we knock out the external comms, they'll realize something's wrong."
+
+REFERENCE           WMD_VOX_WMD1_S01_431A_HUDS
+LANG_ENGLISH        "^1HUDSON: ^7We'll need to move fast - before they can destroy any intel."
+
+REFERENCE           WMD_VOX_WMD1_S01_432A_HUDS
+LANG_ENGLISH        "^1HUDSON: ^7So Stay sharp."
+
+REFERENCE           WMD_VOX_WMD1_S01_433A_WEAV
+LANG_ENGLISH        "^1WEAVER: ^7One target patrolling outside the shed - two more inside"
+
+REFERENCE           WMD_VOX_WMD1_S01_434A_BROO
+LANG_ENGLISH        "^1BROOKS: ^7Two more by the truck on our right..."
+
+REFERENCE           WMD_VOX_WMD1_S01_435A_HUDS
+LANG_ENGLISH        "^1HUDSON: ^7One more on the right Gantry,"
+
+REFERENCE           WMD_VOX_WMD1_S01_436A_HUDS
+LANG_ENGLISH        "^1HUDSON: ^7Okay... Move in."
+
+REFERENCE           WMD_VOX_WMD1_S01_437A_WEAV
+LANG_ENGLISH        "^1WEAVER: ^7SHIT! They've triggered the alarm!"
+
+REFERENCE           WMD_VOX_WMD1_S01_437A_WEAV_S
+LANG_ENGLISH        "^1WEAVER: ^7They've triggered the alarm!"
+
+REFERENCE           WMD_VOX_WMD1_S01_438A_HUDS
+LANG_ENGLISH        "^1HUDSON: ^7Weapons free!!"
+
+REFERENCE           WMD_VOX_WMD1_S01_439A_WEAV
+LANG_ENGLISH        "^1WEAVER: ^7More infrantry inbound!"
+
+REFERENCE           WMD_VOX_WMD1_S01_440A_BROO
+LANG_ENGLISH        "^1BROOKS: ^7Hudson! switch to your explosive bolts!"
+
+REFERENCE           WMD_VOX_WMD1_S01_441A_HUDS
+LANG_ENGLISH        "^1HUDSON: ^7Do it! Go! Go! Go!"
+
+REFERENCE           WMD_VOX_WMD1_S01_442A_WEAV
+LANG_ENGLISH        "^1WEAVER: ^7Shoot the hinges..."
+
+REFERENCE           WMD_VOX_WMD1_S01_443A_USC2_F
+LANG_ENGLISH        "^1MAJ. NEITSCH: ^7Be advised - We have about three minutes left before we need to refuel with KC-135"
+
+REFERENCE           WMD_VOX_WMD1_S01_444A_HUDS
+LANG_ENGLISH        "^1HUDSON: ^7Understood."
+
+REFERENCE           WMD_VOX_WMD1_S01_445A_USC2_F
+LANG_ENGLISH        "^1MAJ. NEITSCH: ^7Affirmative Kilo One. All outbound  communications are have ceased."
+
+REFERENCE           WMD_VOX_WMD1_S01_446A_HUDS
+LANG_ENGLISH        "^1HUDSON: ^7Kilo One - Moving to the Primary Target."
+
+REFERENCE           WMD_VOX_WMD1_S01_447A_USC1_F
+LANG_ENGLISH        "^1CAPT. MOSELY: ^7Okay Gentlemen, we're running on fumes now... this is where we bow out."
+
+REFERENCE           WMD_VOX_WMD1_S01_448A_WEAV
+LANG_ENGLISH        "^1WEAVER: ^7RPG on the ridge!"
+
+REFERENCE           WMD_VOX_WMD1_S01_449A_WEAV
+LANG_ENGLISH        "^1WEAVER: ^7Avalanche!!!!"
+
+REFERENCE           WMD_VOX_WMD1_S01_450A_HUDS
+LANG_ENGLISH        "^1HUDSON: ^7We lost Harris!"
+
+REFERENCE           WMD_VOX_WMD1_S01_451A_HUDS
+LANG_ENGLISH        "^1HUDSON: ^7Go!  Go!  Go!"
+
+REFERENCE           WMD_VOX_WMD1_S01_453A_WEAV
+LANG_ENGLISH        "^1WEAVER: ^7I'll follow. Pick the LZ carefully Hudson."
+
+REFERENCE           WMD_VOX_WMD1_S01_900A_INTE
+LANG_ENGLISH        "^1INTERROGATOR: ^7Jason Hudson led the attack on Yamantau."
+
+REFERENCE           WMD_VOX_WMD1_S01_901A_MASO
+LANG_ENGLISH        "^1MASON: ^7Yeah. 20 degrees below zero. Fucking ice cube was in his element."
+
+REFERENCE           WMD_VOX_WMD1_S01_901A_MASO_S
+LANG_ENGLISH        "^1MASON: ^7Yeah. 20 degrees below zero. Damn ice cube was in his element."
+
+REFERENCE           WMD_VOX_WMD1_S01_902A_INTE
+LANG_ENGLISH        "^1INTERROGATOR: ^7The avalanche buried the entire base, but Hudson and Weaver made it out alive. It was almost all over Mason."
+
+REFERENCE           WMD_VOX_WMD1_S02_454A_HUDS
+LANG_ENGLISH        "^1HUDSON: ^7Shit... They've already started clearing house - Move!"
+
+REFERENCE           WMD_VOX_WMD1_S02_454A_HUDS_S
+LANG_ENGLISH        "^1HUDSON: ^7They've already started clearing house - Move!"
+
+REFERENCE           WMD_VOX_WMD1_S02_460A_WEAV
+LANG_ENGLISH        "^1WEAVER: ^7Got an MG in the tower!"
+
+REFERENCE           WMD_VOX_WMD1_S02_461A_HUDS
+LANG_ENGLISH        "^1HUDSON: ^7Into the building!"
+
+REFERENCE           WMD_VOX_WMD1_S02_462A_WEAV
+LANG_ENGLISH        "^1WEAVER: ^7Here!"
+
+REFERENCE           WMD_VOX_WMD1_S02_463A_WEAV
+LANG_ENGLISH        "^1WEAVER: ^7Hudson... Do you see these wires?"
+
+REFERENCE           WMD_VOX_WMD1_S02_464A_HUDS
+LANG_ENGLISH        "^1HUDSON: ^7Yeah... Running all through the facility..."
+
+REFERENCE           WMD_VOX_WMD1_S02_465A_WEAV
+LANG_ENGLISH        "^1WEAVER: ^7They've got the place rigged to blow..."
+
+REFERENCE           WMD_VOX_WMD1_S02_466A_HUDS
+LANG_ENGLISH        "^1HUDSON: ^7Make it fast people... We don't have much time!"
+
+REFERENCE           WMD_VOX_WMD1_S02_467A_WEAV_M
+LANG_ENGLISH        "^1WEAVER: ^7Steiner's not here."
+
+REFERENCE           WMD_VOX_WMD1_S02_469A_WEAV_M
+LANG_ENGLISH        "^1WEAVER: ^7It's locking down!"
+
+REFERENCE           WMD_VOX_WMD1_S02_469B_WEAV_M
+LANG_ENGLISH        "^1WEAVER: ^7The doors are locking down!"
+
+REFERENCE           WMD_VOX_WMD1_S02_470A_HUDS_M
+LANG_ENGLISH        "^1HUDSON: ^7What is that?!"
+
+REFERENCE           WMD_VOX_WMD1_S02_471A_STEI_F_M
+LANG_ENGLISH        "^1STEINER: ^7This is Friedrich Steiner."
+
+REFERENCE           WMD_VOX_WMD1_S02_472A_HUDS_M
+LANG_ENGLISH        "^1HUDSON: ^7He's jamming our radios... He knew we'd be here."
+
+REFERENCE           WMD_VOX_WMD1_S02_473A_STEI_F_M
+LANG_ENGLISH        "^1STEINER: ^7Dragovich is burying everything and everyone connected to project Nova."
+
+REFERENCE           WMD_VOX_WMD1_S02_474A_STEI_F_M
+LANG_ENGLISH        "^1STEINER: ^7I am sure I will be next."
+
+REFERENCE           WMD_VOX_WMD1_S02_475A_HUDS_M
+LANG_ENGLISH        "^1HUDSON: ^7What do you want?"
+
+REFERENCE           WMD_VOX_WMD1_S02_476A_WEAV_M
+LANG_ENGLISH        "^1WEAVER: ^7Targets marked across the states..."
+
+REFERENCE           WMD_VOX_WMD1_S02_477A_STEI_F_M
+LANG_ENGLISH        "^1STEINER: ^7All across America, Dragovich has sleeper cells waiting for the signal to release the Nova 6."
+
+REFERENCE           WMD_VOX_WMD1_S02_478A_WEAV_M
+LANG_ENGLISH        "^1WEAVER: ^7Weaponized Nova 6."
+
+REFERENCE           WMD_VOX_WMD1_S02_479A_HUDS_M
+LANG_ENGLISH        "^1HUDSON: ^7The numbers broadcasts - What do they mean?"
+
+REFERENCE           WMD_VOX_WMD1_S02_480A_STEI_F_M
+LANG_ENGLISH        "^1STEINER: ^7In 36 hours, the sleeper agents will receive their final orders.  Only I can tell you how to stop the broadcast."
+
+REFERENCE           WMD_VOX_WMD1_S02_482A_STEI_F_M
+LANG_ENGLISH        "^1STEINER: ^7I am at Rebirth Island - the Aral Sea... The choice is yours."
+
+REFERENCE           WMD_VOX_WMD1_S02_483A_HUDS
+LANG_ENGLISH        "^1HUDSON: ^7We need to leave - Now!"
+
+REFERENCE           WMD_VOX_WMD1_S02_484A_HUDS
+LANG_ENGLISH        "^1HUDSON: ^7Move! This place is ready to blow!"
+
+REFERENCE           WMD_VOX_WMD1_S02_485A_HUDS
+LANG_ENGLISH        "^1HUDSON: ^7We don't know how long we have!"
+
+REFERENCE           WMD_VOX_WMD1_S02_486A_HUDS
+LANG_ENGLISH        "^1HUDSON: ^7Move it! Go!"
+
+REFERENCE           WMD_VOX_WMD1_S02_487A_WEAV
+LANG_ENGLISH        "^1WEAVER: ^7We don't have time to wait around!"
+
+REFERENCE           WMD_VOX_WMD1_S02_487A_WEAV_S
+LANG_ENGLISH        "^1WEAVER: ^7We don't have time to screw around!"
+
+REFERENCE           WMD_VOX_WMD1_S02_488A_WEAV
+LANG_ENGLISH        "^1WEAVER: ^7Get to that truck!"
+
+REFERENCE           WMD_VOX_WMD1_S02_489A_HUDS
+LANG_ENGLISH        "^1HUDSON: ^7Weaver - Drive!... I'll get on the MG!"
+
+REFERENCE           WMD_VOX_WMD1_S02_490A_HUDS
+LANG_ENGLISH        "^1HUDSON: ^7Get us out of here!!!"
+
+REFERENCE           WMD_VOX_WMD1_S02_491A_WEAV
+LANG_ENGLISH        "^1WEAVER: ^7I have to hotwire it!"
+
+REFERENCE           WMD_VOX_WMD1_S02_492A_HUDS
+LANG_ENGLISH        "^1HUDSON: ^7Make it fast - they're all over us!"
+
+REFERENCE           WMD_VOX_WMD1_S02_493A_WEAV
+LANG_ENGLISH        "^1WEAVER: ^7I need a minute!"
+
+REFERENCE           WMD_VOX_WMD1_S02_494A_HUDS
+LANG_ENGLISH        "^1HUDSON: ^7We don't have a minute!!"
+
+REFERENCE           WMD_VOX_WMD1_S02_495A_WEAV
+LANG_ENGLISH        "^1WEAVER: ^7Come on - Stupid piece of shit truck!"
+
+REFERENCE           WMD_VOX_WMD1_S02_495A_WEAV_S
+LANG_ENGLISH        "^1WEAVER: ^7Come on - Stupid piece of garbage truck!"
+
+REFERENCE           WMD_VOX_WMD1_S02_496A_HUDS
+LANG_ENGLISH        "^1HUDSON: ^7What are we waiting for, Weaver?!!!"
+
+REFERENCE           WMD_VOX_WMD1_S02_497A_WEAV
+LANG_ENGLISH        "^1WEAVER: ^7Nearly there..."
+
+REFERENCE           WMD_VOX_WMD1_S02_498A_WEAV
+LANG_ENGLISH        "^1WEAVER: ^7GOT IT!!"
+
+REFERENCE           WMD_VOX_WMD1_S02_499A_HUDS
+LANG_ENGLISH        "^1HUDSON: ^7Hit it! Go! GO!"
+
+REFERENCE           WMD_VOX_WMD1_S02_500A_HUDS
+LANG_ENGLISH        "^1HUDSON: ^7The whole fucking mountain's coming down!!!"
+
+REFERENCE           WMD_VOX_WMD1_S02_500A_HUDS_S
+LANG_ENGLISH        "^1HUDSON: ^7The whole mountain's coming down!!!"
+
+REFERENCE           WMD_VOX_WMD1_S02_501A_HUDS
+LANG_ENGLISH        "^1HUDSON: ^7Go!! GO!!!!"
+
+REFERENCE           WMD_VOX_WMD1_S02_502A_HUDS
+LANG_ENGLISH        "^1HUDSON: ^7FASTER!!!"
+
+REFERENCE           WMD_VOX_WMD1_S02_506A_WEAV_M
+LANG_ENGLISH        "^1WEAVER: ^7We're on camera. He's watching us."
+
+REFERENCE           WMD_VOX_WMD1_S99_802A_USC1
+LANG_ENGLISH        "^1CAPT. MOSELY: ^7C.P. - You're sending them the wrong way."
+
+REFERENCE           WMD_VOX_WMD1_S99_803A_USC1
+LANG_ENGLISH        "^1CAPT. MOSELY: ^7The target's the other way."
+
+REFERENCE           WMD_VOX_WMD1_S99_804A_USC1
+LANG_ENGLISH        "^1CAPT. MOSELY: ^7This doesn't look right, C.P."
+
+REFERENCE           WMD_VOX_WMD1_S99_805A_HUDS
+LANG_ENGLISH        "^1HUDSON: ^7Roger that."
+
+REFERENCE           WMD_VOX_WMD1_S99_806A_HUDS
+LANG_ENGLISH        "^1HUDSON: ^7Roger, on the move."
+
+REFERENCE           WMD_VOX_WMD1_S99_807A_HUDS
+LANG_ENGLISH        "^1HUDSON: ^7Moving."
+
+REFERENCE           WMD_VOX_WMD1_S99_808A_HUDS
+LANG_ENGLISH        "^1HUDSON: ^7Roger."
+
+REFERENCE           WMD_VOX_WMD1_S99_809A_BROO
+LANG_ENGLISH        "^1BROOKS: ^7We're clear."
+
+REFERENCE           WMD_VOX_WMD1_S99_810A_BROO
+LANG_ENGLISH        "^1BROOKS: ^7Clear."
+
+REFERENCE           WMD_VOX_WMD1_S99_811A_BROO
+LANG_ENGLISH        "^1BROOKS: ^7Hudson - Plant the charges."
+
+REFERENCE           WMD_VOX_WMD1_S99_812A_BROO
+LANG_ENGLISH        "^1BROOKS: ^7Let's move."
+
+ENDMARKER
