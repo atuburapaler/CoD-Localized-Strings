@@ -1,0 +1,79 @@
+// Dumped from fastfile "dcburning".
+// In their original format the strings might have been separated in multiple files.
+VERSION             "1"
+CONFIG              "C:/trees/cod3/cod3/bin/StringEd.cfg"
+FILENOTES           ""
+
+REFERENCE           DCBURNING_HINT_JAVELIN_FIRE
+LANG_ENGLISH        "Fire the Javelin at enemy vehicles."
+
+REFERENCE           DCBURNING_HINT_JAVELIN_PICKUP
+LANG_ENGLISH        "Find a Javelin to use against the enemy vehicles."
+
+REFERENCE           DCBURNING_HINT_JAVELIN_SWITCH
+LANG_ENGLISH        "Press ^3[{weapnext}]^7 to switch to the Javelin."
+
+REFERENCE           DCBURNING_INFO_EVAC_SITE_HEALTH
+LANG_ENGLISH        "Evac damage: "
+
+REFERENCE           DCBURNING_INTROSCREEN_1
+LANG_ENGLISH        "\"Of Their Own Accord\""
+
+REFERENCE           DCBURNING_INTROSCREEN_2
+LANG_ENGLISH        "Day 5 - [{FAKE_INTRO_TIME:18:34:27}]"
+
+REFERENCE           DCBURNING_INTROSCREEN_3
+LANG_ENGLISH        "Pvt. James Ramirez"
+
+REFERENCE           DCBURNING_INTROSCREEN_4
+LANG_ENGLISH        "1st Bn., 75th Ranger Regiment"
+
+REFERENCE           DCBURNING_INTROSCREEN_5
+LANG_ENGLISH        "Washington, D.C., U.S.A."
+
+REFERENCE           DCBURNING_MISSIONFAIL_CROWSNEST_SNIPE
+LANG_ENGLISH        "Mission Failed.\nThe evac site was destroyed."
+
+REFERENCE           DCBURNING_MISSIONFAIL_LEFT_CHOPPER
+LANG_ENGLISH        "Take cover inside the crashed helicopter."
+
+REFERENCE           DCBURNING_OBJ_COMMERCE
+LANG_ENGLISH        "Secure the enemy 'crow's nest' on the fifth floor."
+
+REFERENCE           DCBURNING_OBJ_COMMERCE_DEFEND_CROW
+LANG_ENGLISH        "Defend the 'crow's nest'."
+
+REFERENCE           DCBURNING_OBJ_COMMERCE_DEFEND_JAVELIN
+LANG_ENGLISH        "Use Javelins to destroy enemy vehicles."
+
+REFERENCE           DCBURNING_OBJ_COMMERCE_DEFEND_SNIPE
+LANG_ENGLISH        "Snipe enemies firing on the evac site."
+
+REFERENCE           DCBURNING_OBJ_CRASH_SITE
+LANG_ENGLISH        "Defend the crash site."
+
+REFERENCE           DCBURNING_OBJ_FOLLOW_SGT_MACEY
+LANG_ENGLISH        "Follow Sgt. Foley."
+
+REFERENCE           DCBURNING_OBJ_HELI_MOUNT
+LANG_ENGLISH        "Man the helicopter minigun."
+
+REFERENCE           DCBURNING_OBJ_HELI_RIDE
+LANG_ENGLISH        "Destroy targets of opportunity."
+
+REFERENCE           DCBURNING_OBJ_ROOFTOP
+LANG_ENGLISH        "Get to the helicopter on the rooftop."
+
+REFERENCE           DCBURNING_OBJ_TEXT_DEFEND
+LANG_ENGLISH        "Defend"
+
+REFERENCE           DCBURNING_RAN_OUT_OF_TIME
+LANG_ENGLISH        "You did not reach the rooftop helicopter in time."
+
+REFERENCE           DCBURNING_SWITCH_HEARTBEAT
+LANG_ENGLISH        "Press^3 [{+actionslot 3}] ^7to activate heartbeat sensor."
+
+REFERENCE           DCBURNING_TIME_REMAINING
+LANG_ENGLISH        "Reach rooftop in: "
+
+ENDMARKER

@@ -1,0 +1,121 @@
+// Dumped from fastfile "cliffhanger".
+// In their original format the strings might have been separated in multiple files.
+VERSION             "1"
+CONFIG              "C:/trees/cod3/cod3/bin/StringEd.cfg"
+FILENOTES           ""
+
+REFERENCE           CLIFFHANGER_ACTIVATE_HEARTBEAT
+LANG_ENGLISH        "Press ^3[{weapnext}]^7 to activate heartbeat sensor."
+
+REFERENCE           CLIFFHANGER_BOARD
+LANG_ENGLISH        "Press and hold ^3&&1^7 to board."
+
+REFERENCE           CLIFFHANGER_E3_INTEREST_OF_TIME
+LANG_ENGLISH        "In the interest of time.."
+
+REFERENCE           CLIFFHANGER_E3_NOT_AS_PLANNED
+LANG_ENGLISH        "Things do not always go as planned.."
+
+REFERENCE           CLIFFHANGER_FAIL_PRICE_DEAD
+LANG_ENGLISH        "You left Captain MacTavish behind to die."
+
+REFERENCE           CLIFFHANGER_FAIL_STEALTH_COUNT
+LANG_ENGLISH        "You alerted too many enemies."
+
+REFERENCE           CLIFFHANGER_FAIL_STEALTH_TIME
+LANG_ENGLISH        "You took too long, the alarm was raised."
+
+REFERENCE           CLIFFHANGER_HINT_PRONE
+LANG_ENGLISH        "Press ^3[{goprone}]^7 to go prone."
+
+REFERENCE           CLIFFHANGER_HOLD_ON_TIGHT
+LANG_ENGLISH        "Hold on for dear life."
+
+REFERENCE           CLIFFHANGER_HOW_TO_CLIMB
+LANG_ENGLISH        "Approach the ice and hold ^3Right Mouse^7 to climb."
+
+REFERENCE           CLIFFHANGER_LEFT_ICEPICK
+LANG_ENGLISH        "Hold ^3Left Mouse^7 to swing your left icepick."
+
+REFERENCE           CLIFFHANGER_LINE1
+LANG_ENGLISH        "\"Cliffhanger\""
+
+REFERENCE           CLIFFHANGER_LINE2
+LANG_ENGLISH        "Day 2 - 07:35:[{FAKE_INTRO_SECONDS:32}]"
+
+REFERENCE           CLIFFHANGER_LINE3
+LANG_ENGLISH        "Sgt. Gary 'Roach' Sanderson"
+
+REFERENCE           CLIFFHANGER_LINE4
+LANG_ENGLISH        "Task Force 141"
+
+REFERENCE           CLIFFHANGER_LINE5
+LANG_ENGLISH        "Tian Shan Range, Kazakhstan"
+
+REFERENCE           CLIFFHANGER_MAKES_FIRST_JUMP
+LANG_ENGLISH        "Nobody makes the first jump..."
+
+REFERENCE           CLIFFHANGER_MISSION_ABORT
+LANG_ENGLISH        "Captain MacTavish aborted the mission."
+
+REFERENCE           CLIFFHANGER_MRHR
+LANG_ENGLISH        "&&1 mR/hr"
+
+REFERENCE           CLIFFHANGER_OBJ_BASE
+LANG_ENGLISH        "Find a way into the base."
+
+REFERENCE           CLIFFHANGER_OBJ_C4
+LANG_ENGLISH        "Plant explosives on the fuel tanks."
+
+REFERENCE           CLIFFHANGER_OBJ_C4_MIG
+LANG_ENGLISH        "Plant explosives on the MiG-29 Jet Fighter."
+
+REFERENCE           CLIFFHANGER_OBJ_COMPUTER
+LANG_ENGLISH        "Retrieve the ACS module."
+
+REFERENCE           CLIFFHANGER_OBJ_EVACUATE
+LANG_ENGLISH        "Escape with Captain MacTavish."
+
+REFERENCE           CLIFFHANGER_OBJ_EXTRACT
+LANG_ENGLISH        "Get to the extraction point."
+
+REFERENCE           CLIFFHANGER_OBJ_FIND_FUEL
+LANG_ENGLISH        "Find the fuel tankers."
+
+REFERENCE           CLIFFHANGER_OBJ_FOLLOW
+LANG_ENGLISH        "Follow Captain MacTavish."
+
+REFERENCE           CLIFFHANGER_OBJ_FUEL_STATION
+LANG_ENGLISH        "Plant explosives on the fueling station."
+
+REFERENCE           CLIFFHANGER_OBJ_GOTO_HANGER
+LANG_ENGLISH        "Get to the satellite."
+
+REFERENCE           CLIFFHANGER_OBJ_PACKAGE
+LANG_ENGLISH        "Retrieve the 'package'."
+
+REFERENCE           CLIFFHANGER_OBJ_SNOWMOBILE
+LANG_ENGLISH        "Obtain a snowmobile."
+
+REFERENCE           CLIFFHANGER_OBJ_STEALTH
+LANG_ENGLISH        "You've been detected. Eliminate those who now."
+
+REFERENCE           CLIFFHANGER_OBJ_USE_SATELITE
+LANG_ENGLISH        "Extract the Data Storage Module from the Satellite."
+
+REFERENCE           CLIFFHANGER_PRICE_DIED
+LANG_ENGLISH        "Captain MacTavish was executed."
+
+REFERENCE           CLIFFHANGER_RIGHT_ICEPICK
+LANG_ENGLISH        "Hold ^3Right Mouse^7 to swing your right icepick."
+
+REFERENCE           CLIFFHANGER_RUN_OVER
+LANG_ENGLISH        "Captain MacTavish was run over."
+
+REFERENCE           CLIFFHANGER_SWITCH_HEARTBEAT
+LANG_ENGLISH        "Press^3 [{+actionslot 3}] ^7to activate heartbeat sensor."
+
+REFERENCE           CLIFFHANGER_USE_SATELITE
+LANG_ENGLISH        "Press and hold ^3&&1^7 to retrieve the ACS."
+
+ENDMARKER

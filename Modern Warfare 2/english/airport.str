@@ -1,0 +1,52 @@
+// Dumped from fastfile "airport".
+// In their original format the strings might have been separated in multiple files.
+VERSION             "1"
+CONFIG              "C:/trees/cod3/cod3/bin/StringEd.cfg"
+FILENOTES           ""
+
+REFERENCE           AIRPORT_EXPLODING_JET_ENGINE_DEATH
+LANG_ENGLISH        "You were killed by an exploding jet engine.\nJet engines on fire are likely to explode."
+
+REFERENCE           AIRPORT_FAIL_BLEW_COVER_FIRE
+LANG_ENGLISH        "You blew your cover... don't fire on Makarov's squad."
+
+REFERENCE           AIRPORT_FAIL_BLEW_COVER_WANDER
+LANG_ENGLISH        "You blew your cover... Convince Makarov you're loyal to the cause."
+
+REFERENCE           AIRPORT_FAIL_POLICE_BARRICADE
+LANG_ENGLISH        "The police barricade has too much fire power to confront."
+
+REFERENCE           AIRPORT_LINE1
+LANG_ENGLISH        "\"No Russian\""
+
+REFERENCE           AIRPORT_LINE2
+LANG_ENGLISH        "Day 3 - 08:40:[{FAKE_INTRO_SECONDS:32}]"
+
+REFERENCE           AIRPORT_LINE3
+LANG_ENGLISH        "PFC Joseph Allen a.k.a. Alexei Borodin"
+
+REFERENCE           AIRPORT_LINE4
+LANG_ENGLISH        "Zakhaev International Airport"
+
+REFERENCE           AIRPORT_LINE5
+LANG_ENGLISH        "Moscow, Russia"
+
+REFERENCE           AIRPORT_OBJ_COVER
+LANG_ENGLISH        "Don't blow your cover."
+
+REFERENCE           AIRPORT_OBJ_COVER_COST
+LANG_ENGLISH        "Don't blow your cover... at any cost."
+
+REFERENCE           AIRPORT_OBJ_COVER_TRUST
+LANG_ENGLISH        "Don't blow your cover and earn Makarov's trust."
+
+REFERENCE           AIRPORT_OBJ_GET_IN_VAN
+LANG_ENGLISH        "Get in the van."
+
+REFERENCE           AIRPORT_OBJ_TRUST
+LANG_ENGLISH        "Earn Makarov's trust."
+
+REFERENCE           AIRPORT_OBJ_TRUST_COST
+LANG_ENGLISH        "Follow Makarov's lead."
+
+ENDMARKER

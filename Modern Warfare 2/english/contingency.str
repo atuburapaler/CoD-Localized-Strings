@@ -1,0 +1,91 @@
+// Dumped from fastfile "contingency".
+// In their original format the strings might have been separated in multiple files.
+VERSION             "1"
+CONFIG              "C:/trees/cod3/cod3/bin/StringEd.cfg"
+FILENOTES           ""
+
+REFERENCE           CONTINGENCY_DONT_LEAVE
+LANG_ENGLISH        "Return to Captain Price."
+
+REFERENCE           CONTINGENCY_DONT_LEAVE_FAILURE
+LANG_ENGLISH        "You left the mission area."
+
+REFERENCE           CONTINGENCY_LINE1
+LANG_ENGLISH        "\"Contingency\""
+
+REFERENCE           CONTINGENCY_LINE2
+LANG_ENGLISH        "Day 5 - 11:22:[{FAKE_INTRO_SECONDS:32}]"
+
+REFERENCE           CONTINGENCY_LINE3
+LANG_ENGLISH        "Sgt. Gary 'Roach' Sanderson"
+
+REFERENCE           CONTINGENCY_LINE4
+LANG_ENGLISH        "Task Force 141"
+
+REFERENCE           CONTINGENCY_LINE5
+LANG_ENGLISH        "14 miles SSE of Petropavlovsk, Russia"
+
+REFERENCE           CONTINGENCY_OBJ_CONTROL_SUB
+LANG_ENGLISH        "Take control of the Submarine."
+
+REFERENCE           CONTINGENCY_OBJ_DEFEND
+LANG_ENGLISH        "Defend"
+
+REFERENCE           CONTINGENCY_OBJ_DEFEND_SUB
+LANG_ENGLISH        "Keep enemies away from the submarine."
+
+REFERENCE           CONTINGENCY_OBJ_ENTER_BASE
+LANG_ENGLISH        "Find an entrance to the Submarine Base."
+
+REFERENCE           CONTINGENCY_OBJ_ENTER_SUB
+LANG_ENGLISH        "Gain entrance to the Submarine before it leaves."
+
+REFERENCE           CONTINGENCY_OBJ_EXIT_SUB
+LANG_ENGLISH        "Escape."
+
+REFERENCE           CONTINGENCY_OBJ_PRICE
+LANG_ENGLISH        "Follow Captain Price."
+
+REFERENCE           CONTINGENCY_OBJ_TURN_KEY
+LANG_ENGLISH        "Turn your key."
+
+REFERENCE           CONTINGENCY_SUB_TIMER_EXPIRED
+LANG_ENGLISH        "Mission failed. You did not reach the Submarine in time."
+
+REFERENCE           CONTINGENCY_TIME_TO_ENTER_SUB
+LANG_ENGLISH        "Reach Submarine in: "
+
+REFERENCE           CONTINGENCY_TURN_KEY
+LANG_ENGLISH        "Press and hold ^3 &&1 ^7to launch nuke."
+
+REFERENCE           CONTINGENCY_USE_DRONE
+LANG_ENGLISH        "Press^3 [{+actionslot 4}] ^7to control the UAV."
+
+REFERENCE           HELLFIRE_DESTROYED
+LANG_ENGLISH        "Predator Drone has been destroyed."
+
+REFERENCE           HELLFIRE_DRONE_NOT_AVAILABLE
+LANG_ENGLISH        "Predator Drone is unavailable."
+
+REFERENCE           HELLFIRE_DRONE_VIEW
+LANG_ENGLISH        "CAMERA: UAV_DRONE_011"
+
+REFERENCE           HELLFIRE_FIRE
+LANG_ENGLISH        "-MISSILE LAUNCHED-"
+
+REFERENCE           HELLFIRE_MISSILE_VIEW
+LANG_ENGLISH        "CAMERA: MISSILE"
+
+REFERENCE           HELLFIRE_RELOADING
+LANG_ENGLISH        "-MISSILE IS RELOADING-"
+
+REFERENCE           HELLFIRE_RELOADING_WITH_TIME
+LANG_ENGLISH        "MISSILE RELOADED IN: "
+
+REFERENCE           HELLFIRE_USE_DRONE
+LANG_ENGLISH        "Press^3 [{+actionslot 4}] ^7to control the Predator Drone."
+
+REFERENCE           HELLFIRE_USE_DRONE_2
+LANG_ENGLISH        "Press^3 [{+actionslot 2}] ^7to control the Predator Drone."
+
+ENDMARKER

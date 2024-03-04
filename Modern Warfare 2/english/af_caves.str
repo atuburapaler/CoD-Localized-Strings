@@ -1,0 +1,118 @@
+// Dumped from fastfile "af_caves".
+// In their original format the strings might have been separated in multiple files.
+VERSION             "1"
+CONFIG              "C:/trees/cod3/cod3/bin/StringEd.cfg"
+FILENOTES           ""
+
+REFERENCE           AF_CAVES_DEADQUOTE_ABANDONED_PRICE
+LANG_ENGLISH        "You abandoned Captain Price."
+
+REFERENCE           AF_CAVES_DESCEND
+LANG_ENGLISH        "Hold ^3[{+attack}]^7 to brake."
+
+REFERENCE           AF_CAVES_FELL_TO_DEATH
+LANG_ENGLISH        "You did not brake in time."
+
+REFERENCE           AF_CAVES_FOLLOW_PRICE
+LANG_ENGLISH        "Follow Captain Price."
+
+REFERENCE           AF_CAVES_HINT_C4_DETONATE
+LANG_ENGLISH        "Press^3 [{+attack}] ^7to trigger the C4."
+
+REFERENCE           AF_CAVES_HINT_C4_SWITCH
+LANG_ENGLISH        "Press^3 [{+actionslot 2}] ^7to switch to the C4 detonator."
+
+REFERENCE           AF_CAVES_LINE1
+LANG_ENGLISH        "\"Just Like Old Times\""
+
+REFERENCE           AF_CAVES_LINE2
+LANG_ENGLISH        "Day 7 - [{FAKE_INTRO_TIME:17:32:22}]"
+
+REFERENCE           AF_CAVES_LINE3
+LANG_ENGLISH        "'Soap' MacTavish"
+
+REFERENCE           AF_CAVES_LINE4
+LANG_ENGLISH        "Site Hotel Bravo, Afghanistan"
+
+REFERENCE           AF_CAVES_LOCATE_SHEPHERD
+LANG_ENGLISH        "Locate Shepherd.\n"
+
+REFERENCE           AF_CAVES_MISSIONFAIL_EXPLOSIVES
+LANG_ENGLISH        "Mission Failed.\nYou shot and detonated the rigged explosives."
+
+REFERENCE           AF_CAVES_OBJ_AMBUSH
+LANG_ENGLISH        "Regroup with Price and ambush the enemy patrol."
+
+REFERENCE           AF_CAVES_OBJ_BREACH
+LANG_ENGLISH        "Reach Shepherd's Command Center"
+
+REFERENCE           AF_CAVES_OBJ_DOOR_CONTROLS
+LANG_ENGLISH        "Override the door controls"
+
+REFERENCE           AF_CAVES_OBJ_ESCAPE
+LANG_ENGLISH        "Escape from the cave"
+
+REFERENCE           AF_CAVES_OBJ_FLANK_AND_KILL
+LANG_ENGLISH        "Eliminate enemy resistance."
+
+REFERENCE           AF_CAVES_OBJ_GET_C4
+LANG_ENGLISH        "Find some C4 you can use to ambush the enemy patrol."
+
+REFERENCE           AF_CAVES_OBJ_HUMMER
+LANG_ENGLISH        "Mount the Humvee turret"
+
+REFERENCE           AF_CAVES_OBJ_HUMMER_GUNNER
+LANG_ENGLISH        "Eliminate all enemy resistance"
+
+REFERENCE           AF_CAVES_OBJ_LEDGE_TRAVERSE
+LANG_ENGLISH        "Traverse the rock bridge"
+
+REFERENCE           AF_CAVES_OBJ_MARKER_C4
+LANG_ENGLISH        "C4"
+
+REFERENCE           AF_CAVES_OBJ_MARKER_C4_PLANT
+LANG_ENGLISH        "Plant C4"
+
+REFERENCE           AF_CAVES_OBJ_MARKER_SUPPORT
+LANG_ENGLISH        "Support"
+
+REFERENCE           AF_CAVES_OBJ_PLANT_C4
+LANG_ENGLISH        "Plant C4 near the door."
+
+REFERENCE           AF_CAVES_RAN_OUT_OF_TIME
+LANG_ENGLISH        "You did not reach the cave exit in time."
+
+REFERENCE           AF_CAVES_RAPPEL
+LANG_ENGLISH        "Hook up to the railing."
+
+REFERENCE           AF_CAVES_RAPPEL_HINT
+LANG_ENGLISH        "Press and hold^3 &&1 ^7to hook up."
+
+REFERENCE           AF_CAVES_REGROUP_WITH_PRICE
+LANG_ENGLISH        "Regroup with Price."
+
+REFERENCE           AF_CAVES_SUPPORT_PRICE
+LANG_ENGLISH        "Support Captain Price."
+
+REFERENCE           AF_CAVES_TIME_REMAINING
+LANG_ENGLISH        "Reach exit in: "
+
+REFERENCE           AF_CAVES_USE_KEYBOARD
+LANG_ENGLISH        "Hold ^3&&1^7 to override the door lock."
+
+REFERENCE           SENTRY_CANNOT_PLACE
+LANG_ENGLISH        "Move the turret to a valid location."
+
+REFERENCE           SENTRY_DEBUG_SPAWN_ENEMIES
+LANG_ENGLISH        "Enemies spawn in 10 seconds"
+
+REFERENCE           SENTRY_MOVE
+LANG_ENGLISH        "Press and hold ^3&&1^7 to move the turret."
+
+REFERENCE           SENTRY_PICKUP
+LANG_ENGLISH        "Press and hold ^3&&1^7 to pick up the turret."
+
+REFERENCE           SENTRY_PLACE
+LANG_ENGLISH        "Press ^3[{+attack}]^7 to place the turret."
+
+ENDMARKER

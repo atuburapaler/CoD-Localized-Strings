@@ -1,0 +1,55 @@
+// Dumped from fastfile "arcadia".
+// In their original format the strings might have been separated in multiple files.
+VERSION             "1"
+CONFIG              "C:/trees/cod3/cod3/bin/StringEd.cfg"
+FILENOTES           ""
+
+REFERENCE           ARCADIA_INTROSCREEN_LINE_1
+LANG_ENGLISH        "\"Exodus\""
+
+REFERENCE           ARCADIA_INTROSCREEN_LINE_2
+LANG_ENGLISH        "Day 4 - 18:51:[{FAKE_INTRO_SECONDS:28}]"
+
+REFERENCE           ARCADIA_INTROSCREEN_LINE_3
+LANG_ENGLISH        "Pvt. James Ramirez"
+
+REFERENCE           ARCADIA_INTROSCREEN_LINE_4
+LANG_ENGLISH        "1st Bn., 75th Ranger Regiment"
+
+REFERENCE           ARCADIA_INTROSCREEN_LINE_5
+LANG_ENGLISH        "Northeastern Virginia, U.S.A."
+
+REFERENCE           ARCADIA_LASER_HINT
+LANG_ENGLISH        "Press^3 [{+actionslot 4}] ^7to laze a target for the Stryker.\nUse^3 [{+attack}] ^7to confirm the target area."
+
+REFERENCE           ARCADIA_LASER_HINT_GOLFCOURSE
+LANG_ENGLISH        "Press^3 [{+actionslot 4}] ^7to laze the AA guns for the artillery.\nUse^3 [{+attack}] ^7to confirm the target vehicles."
+
+REFERENCE           ARCADIA_OBJECTIVE_AA_GUNS
+LANG_ENGLISH        "Locate and neutralize the anti-aircraft guns."
+
+REFERENCE           ARCADIA_OBJECTIVE_BROOKMERE
+LANG_ENGLISH        "Go to 4677 Brookmere Road."
+
+REFERENCE           ARCADIA_OBJECTIVE_INTEL
+LANG_ENGLISH        "Retrieve intel from the 'panic room' at 4677 Brookmere Road."
+
+REFERENCE           ARCADIA_PICK_UP_BRIEFCASE_HINT
+LANG_ENGLISH        "Press and hold ^3&&1^7 to pick up briefcase."
+
+REFERENCE           SENTRY_CANNOT_PLACE
+LANG_ENGLISH        "Move the turret to a valid location."
+
+REFERENCE           SENTRY_DEBUG_SPAWN_ENEMIES
+LANG_ENGLISH        "Enemies spawn in 10 seconds"
+
+REFERENCE           SENTRY_MOVE
+LANG_ENGLISH        "Press and hold ^3&&1^7 to move the turret."
+
+REFERENCE           SENTRY_PICKUP
+LANG_ENGLISH        "Press and hold ^3&&1^7 to pick up the turret."
+
+REFERENCE           SENTRY_PLACE
+LANG_ENGLISH        "Press ^3[{+attack}]^7 to place the turret."
+
+ENDMARKER

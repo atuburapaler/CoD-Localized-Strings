@@ -1,0 +1,523 @@
+// Dumped from fastfile "trainer".
+// In their original format the strings might have been separated in multiple files.
+VERSION             "1"
+CONFIG              "C:/trees/cod3/cod3/bin/StringEd.cfg"
+FILENOTES           ""
+
+REFERENCE           TRAINER_ACCURACY_BONUS
+LANG_ENGLISH        "Accuracy bonus: -&&1 sec"
+
+REFERENCE           TRAINER_ACCURACY_BONUS_ZERO
+LANG_ENGLISH        "Accuracy bonus: 0.0"
+
+REFERENCE           TRAINER_ACCURACY_LABEL
+LANG_ENGLISH        "Accuracy: &&1%"
+
+REFERENCE           TRAINER_AXIS_OPTION_MENU1
+LANG_ENGLISH        "Reverse your controls"
+
+REFERENCE           TRAINER_AXIS_OPTION_MENU1B
+LANG_ENGLISH        "for looking up and down?"
+
+REFERENCE           TRAINER_AXIS_OPTION_MENU1_ALL
+LANG_ENGLISH        "Reverse your controls for looking up and down?"
+
+REFERENCE           TRAINER_AXIS_OPTION_MENU2
+LANG_ENGLISH        "Switch your controls"
+
+REFERENCE           TRAINER_AXIS_OPTION_MENU2B
+LANG_ENGLISH        "back to how they were?"
+
+REFERENCE           TRAINER_AXIS_OPTION_MENU2_ALL
+LANG_ENGLISH        "Keep your controls like this?"
+
+REFERENCE           TRAINER_C4_OBJECTIVE
+LANG_ENGLISH        "When planting C4 is your objective, you will see a glowing\nmarker in the world that indicates where to plant it."
+
+REFERENCE           TRAINER_C4_PICKUP
+LANG_ENGLISH        "Press and hold ^3&&1^7 to pick up the C4 explosive."
+
+REFERENCE           TRAINER_CIVVIES_KILLED
+LANG_ENGLISH        "Civilians killed: &&1/11"
+
+REFERENCE           TRAINER_CLEAR_THE_CARGOSHIP_BRIDGE
+LANG_ENGLISH        "Clear the cargoship bridge mock-up."
+
+REFERENCE           TRAINER_CLIMB_THE_LADDER
+LANG_ENGLISH        "Climb the ladder."
+
+REFERENCE           TRAINER_CLIMB_THE_LADDER1
+LANG_ENGLISH        "Climb the ladder."
+
+REFERENCE           TRAINER_COMPLETE_THE_DECK_MOCKUP
+LANG_ENGLISH        "Complete the deck mock-up."
+
+REFERENCE           TRAINER_DEBRIEF_WITH_CPT_PRICE
+LANG_ENGLISH        "Debrief with Captain Price."
+
+REFERENCE           TRAINER_DECK_LABEL
+LANG_ENGLISH        "Cargoship Deck"
+
+REFERENCE           TRAINER_DETONATE_C4
+LANG_ENGLISH        "Pull ^3[{+attack}]^7 to detonate."
+
+REFERENCE           TRAINER_ENEMIES_KILLED
+LANG_ENGLISH        "Enemies killed: &&1/24"
+
+REFERENCE           TRAINER_ENTER_STATION_NUMBER
+LANG_ENGLISH        "Enter station number 1 and aim down your sights."
+
+REFERENCE           TRAINER_ENTER_THE_SAFETY_PIT
+LANG_ENGLISH        "Enter the safety pit."
+
+REFERENCE           TRAINER_EQUIP_THE_MP5_AND_PICK
+LANG_ENGLISH        "Equip the MP5 and pick up 4 flashbangs."
+
+REFERENCE           TRAINER_FIRED_NEAR_FRIENDLY
+LANG_ENGLISH        "You endangered a team mate."
+
+REFERENCE           TRAINER_FIRE_AT_THE_WALL_WITH
+LANG_ENGLISH        "Fire at the wall with the number one on it."
+
+REFERENCE           TRAINER_FIRE_YOUR_GRENADE_LAUNCHER
+LANG_ENGLISH        "Fire your grenade launcher into windows five, six and seven."
+
+REFERENCE           TRAINER_GET_A_PISTOL_FROM_THE
+LANG_ENGLISH        "Pick up a pistol from the table."
+
+REFERENCE           TRAINER_GO_OUTSIDE_AND_REPORT
+LANG_ENGLISH        "Go outside and report to Sgt. Newcastle."
+
+REFERENCE           TRAINER_HINT_ADS
+LANG_ENGLISH        "Press and hold ^3[{+speed}]^7 to aim down the sights of your weapon."
+
+REFERENCE           TRAINER_HINT_ADS_360
+LANG_ENGLISH        "Pull and hold ^3[{+speed}]^7 to aim down the sights of your weapon."
+
+REFERENCE           TRAINER_HINT_ADS_ACCURACY
+LANG_ENGLISH        "Firing from the hip is never as\naccurate as aiming down your sight."
+
+REFERENCE           TRAINER_HINT_ADS_SWITCH
+LANG_ENGLISH        "Release and pull ^3[{+speed}]^7 to automatically\nswitch to a nearby target."
+
+REFERENCE           TRAINER_HINT_ADS_SWITCH_SHOULDER
+LANG_ENGLISH        "Release then press and hold ^3[{+speed}]^7 to\nquickly switch to a nearby target."
+
+REFERENCE           TRAINER_HINT_ADS_SWITCH_THROW
+LANG_ENGLISH        "Release and pull ^3[{+speed_throw}]^7 to automatically\nswitch to a nearby target."
+
+REFERENCE           TRAINER_HINT_ADS_SWITCH_THROW_SHOULDER
+LANG_ENGLISH        "Release then press and hold ^3[{+speed_throw}]^7 to\nquickly switch to a nearby target."
+
+REFERENCE           TRAINER_HINT_ADS_THROW
+LANG_ENGLISH        "Press and hold ^3[{+speed_throw}]^7 to aim down the sights of your weapon."
+
+REFERENCE           TRAINER_HINT_ADS_THROW_360
+LANG_ENGLISH        "Pull and hold ^3[{+speed_throw}]^7 to aim down the sights of your weapon."
+
+REFERENCE           TRAINER_HINT_ADS_TOGGLE
+LANG_ENGLISH        "Press ^3[{toggleads}]^7 to aim down the sight."
+
+REFERENCE           TRAINER_HINT_ADS_TOGGLE_THROW
+LANG_ENGLISH        "Press ^3[{+toggleads_throw}]^7 to aim down the sights of your weapon."
+
+REFERENCE           TRAINER_HINT_APPROACH_C4_THROW
+LANG_ENGLISH        "Approach the car."
+
+REFERENCE           TRAINER_HINT_APPROACH_MELEE
+LANG_ENGLISH        "Approach the watermelon."
+
+REFERENCE           TRAINER_HINT_ATTACK
+LANG_ENGLISH        "Pull ^3[{+attack}]^7 to fire your weapon."
+
+REFERENCE           TRAINER_HINT_ATTACK_PC
+LANG_ENGLISH        "Press ^3[{+attack}]^7 to fire your weapon."
+
+REFERENCE           TRAINER_HINT_BREATH_BINOCULARS
+LANG_ENGLISH        "Press and hold ^3[{+breath_binoculars}]^7 to steady your breathing."
+
+REFERENCE           TRAINER_HINT_BREATH_MELEE
+LANG_ENGLISH        "Press and hold ^3[{+melee_breath}]^7 to steady your breathing."
+
+REFERENCE           TRAINER_HINT_BREATH_SPRINT
+LANG_ENGLISH        "Press and hold ^3[{+breath_sprint}]^7 to steady your breathing."
+
+REFERENCE           TRAINER_HINT_C4_ICON
+LANG_ENGLISH        "You now have a C4 icon on your screen."
+
+REFERENCE           TRAINER_HINT_CHECK_OBJECTIVES_PAUSED
+LANG_ENGLISH        "Press ^3[{pause}]^7 to check your objectives."
+
+REFERENCE           TRAINER_HINT_CHECK_OBJECTIVES_SCORES
+LANG_ENGLISH        "Press ^3[{+scores}]^7 to check your objectives."
+
+REFERENCE           TRAINER_HINT_CHECK_OBJECTIVES_SCORES_PS3
+LANG_ENGLISH        "Press the START button to check your objectives."
+
+REFERENCE           TRAINER_HINT_CROSSHAIR_CHANGES
+LANG_ENGLISH        "Notice that your crosshair expands as you fire.\nThe bigger the crosshairs, the less accurate you are."
+
+REFERENCE           TRAINER_HINT_CROUCH
+LANG_ENGLISH        "Press ^3[{gocrouch}]^7 to crouch to fire more accurately."
+
+REFERENCE           TRAINER_HINT_CROUCH_HOLD
+LANG_ENGLISH        "Press and hold ^3[{+movedown}]^7 to crouch to fire more accurately."
+
+REFERENCE           TRAINER_HINT_CROUCH_STANCE
+LANG_ENGLISH        "Press ^3[{+stance}]^7 to crouch to fire more accurately."
+
+REFERENCE           TRAINER_HINT_CROUCH_TOGGLE
+LANG_ENGLISH        "Press ^3[{togglecrouch}]^7 to crouch to fire more accurately."
+
+REFERENCE           TRAINER_HINT_EQUIP_C4
+LANG_ENGLISH        "Press ^3[{+actionslot 2}]^7 to equip C4."
+
+REFERENCE           TRAINER_HINT_EXPLOSIVES
+LANG_ENGLISH        "Approach the explosive charges and press and hold ^3[{+activate}]^7 to pick them up."
+
+REFERENCE           TRAINER_HINT_EXPLOSIVES_PLANT
+LANG_ENGLISH        "Approach the glowing explosive marker and press ^3[{+activate}]^7 to plant the C4."
+
+REFERENCE           TRAINER_HINT_EXPLOSIVES_PLANT_RELOAD
+LANG_ENGLISH        "Approach the glowing explosive marker and press ^3[{+activate}]^7 to plant the C4."
+
+REFERENCE           TRAINER_HINT_EXPLOSIVES_RELOAD
+LANG_ENGLISH        "Approach the explosive charges and press and hold ^3[{+activate}]^7 to pick them up."
+
+REFERENCE           TRAINER_HINT_FIREMODE
+LANG_ENGLISH        "Press ^3[{+actionslot 3}]^7 to switch to the grenade launcher attachment."
+
+REFERENCE           TRAINER_HINT_FLASH
+LANG_ENGLISH        "Press ^3[{+smoke}]^7 to throw a flashbang."
+
+REFERENCE           TRAINER_HINT_FRAG
+LANG_ENGLISH        "Press ^3[{+frag}]^7 to throw a grenade\ntowards the targets."
+
+REFERENCE           TRAINER_HINT_GL_TOO_LOW
+LANG_ENGLISH        "You must aim above your target with grenade launchers."
+
+REFERENCE           TRAINER_HINT_GRENADE_TOO_LOW
+LANG_ENGLISH        "You must aim above your target with grenades."
+
+REFERENCE           TRAINER_HINT_HIP_ATTACK
+LANG_ENGLISH        "Pull ^3[{+attack}]^7 to fire from the hip."
+
+REFERENCE           TRAINER_HINT_HIP_ATTACK_PC
+LANG_ENGLISH        "Press ^3[{+attack}]^7 to fire from the hip."
+
+REFERENCE           TRAINER_HINT_HOLDING_SPRINT
+LANG_ENGLISH        "You don't have to hold ^3[{+sprint}]^7 to continue sprinting."
+
+REFERENCE           TRAINER_HINT_HOLDING_SPRINT_BREATH
+LANG_ENGLISH        "You don't have to hold ^3[{+breath_sprint}]^7 to continue sprinting."
+
+REFERENCE           TRAINER_HINT_HUD_CHANGES
+LANG_ENGLISH        "Notice that your display changes to show\nyou what inventory item you have equipped."
+
+REFERENCE           TRAINER_HINT_JUMP
+LANG_ENGLISH        "While standing, press ^3[{+moveup}]^7 to jump."
+
+REFERENCE           TRAINER_HINT_JUMP_STAND
+LANG_ENGLISH        "While standing, press ^3[{+gostand}]^7 to jump."
+
+REFERENCE           TRAINER_HINT_LADDER
+LANG_ENGLISH        "Look up the ladder and move forward to climb it."
+
+REFERENCE           TRAINER_HINT_LAUNCHER_ATTACK
+LANG_ENGLISH        "Pull and release ^3[{+attack}]^7 to fire a 40mm grenade."
+
+REFERENCE           TRAINER_HINT_LAUNCHER_ICON
+LANG_ENGLISH        "Notice you now have an icon of a grenade launcher on your display."
+
+REFERENCE           TRAINER_HINT_MANTLE
+LANG_ENGLISH        "Touch the obstacle and press ^3[{+gostand}]^7 to mantle over it."
+
+REFERENCE           TRAINER_HINT_MELEE
+LANG_ENGLISH        "Press ^3[{+melee}]^7 to melee."
+
+REFERENCE           TRAINER_HINT_MELEE_BREATH
+LANG_ENGLISH        "Press ^3[{+breath_binoculars}]^7 to melee."
+
+REFERENCE           TRAINER_HINT_MELEE_BREATH_CLICK
+LANG_ENGLISH        "Click ^3[{+breath_binoculars}]^7 to melee."
+
+REFERENCE           TRAINER_HINT_MELEE_CLICK
+LANG_ENGLISH        "Click ^3[{+melee}]^7 to melee."
+
+REFERENCE           TRAINER_HINT_OBJECTIVE_MARKER
+LANG_ENGLISH        "The Objective Indicator is the white\nmarker on the side/center of the screen."
+
+REFERENCE           TRAINER_HINT_OBJECTIVE_MARKER_OLD
+LANG_ENGLISH        "The Objective Indicator is on the \nbottom of your screen in the middle."
+
+REFERENCE           TRAINER_HINT_OBJECTIVE_REMINDER
+LANG_ENGLISH        "Follow the white marker to\nfind your objective."
+
+REFERENCE           TRAINER_HINT_OBJECTIVE_REMINDER2
+LANG_ENGLISH        "Turn until the yellow circle in your compass tape\nlines up with the white ticks and head in that direction\nto locate your current objective."
+
+REFERENCE           TRAINER_HINT_OBJECTIVE_REMINDER_OLD
+LANG_ENGLISH        "When the yellow circle is in the middle of\nthe compass, you are facing your objective."
+
+REFERENCE           TRAINER_HINT_PRIMARY_SWAP
+LANG_ENGLISH        "Press ^3[{weapnext}]^7 to switch to your primary weapon."
+
+REFERENCE           TRAINER_HINT_PRONE
+LANG_ENGLISH        "Press ^3[{goprone}]^7 to go prone."
+
+REFERENCE           TRAINER_HINT_PRONE_DOUBLE
+LANG_ENGLISH        "Double tap ^3[{lowerstacnce}]^7 to go prone."
+
+REFERENCE           TRAINER_HINT_PRONE_HOLD
+LANG_ENGLISH        "Press and hold ^3[{+prone}]^7 to go prone."
+
+REFERENCE           TRAINER_HINT_PRONE_STANCE
+LANG_ENGLISH        "Press and hold down ^3[{+stance}]^7 to go prone."
+
+REFERENCE           TRAINER_HINT_PRONE_TOGGLE
+LANG_ENGLISH        "Press ^3[{toggleprone}]^7 to go prone."
+
+REFERENCE           TRAINER_HINT_RELOAD
+LANG_ENGLISH        "Press ^3[{+reload}]^7 to reload your weapon."
+
+REFERENCE           TRAINER_HINT_RELOAD_USE
+LANG_ENGLISH        "Press ^3[{+activate}]^7 to reload your weapon."
+
+REFERENCE           TRAINER_HINT_SIDEARM
+LANG_ENGLISH        "Press ^3[{weaponslot primaryb}]^7 to switch to your sidearm."
+
+REFERENCE           TRAINER_HINT_SIDEARM_RELOAD
+LANG_ENGLISH        "Press ^3[{+reload}]^7 to load your sidearm."
+
+REFERENCE           TRAINER_HINT_SIDEARM_RELOAD_USE
+LANG_ENGLISH        "Press ^3[{+activate}]^7 to load your sidearm."
+
+REFERENCE           TRAINER_HINT_SIDEARM_SWAP
+LANG_ENGLISH        "Press ^3[{weapnext}]^7 to switch to your sidearm."
+
+REFERENCE           TRAINER_HINT_SPRINT
+LANG_ENGLISH        "Click ^3[{+sprint}]^7 while moving forward to sprint."
+
+REFERENCE           TRAINER_HINT_SPRINT_BREATH
+LANG_ENGLISH        "Click ^3[{+breath_sprint}]^7 while moving forward to sprint."
+
+REFERENCE           TRAINER_HINT_SPRINT_BREATH_PC
+LANG_ENGLISH        "Press ^3[{+breath_sprint}]^7 while moving forward to sprint."
+
+REFERENCE           TRAINER_HINT_SPRINT_PC
+LANG_ENGLISH        "Press ^3[{+sprint}]^7 while moving forward to sprint."
+
+REFERENCE           TRAINER_HINT_STAND
+LANG_ENGLISH        "Press ^3[{+gostand}]^7 to stand up."
+
+REFERENCE           TRAINER_HINT_STAND_STANCE
+LANG_ENGLISH        "Press ^3[{+stance}]^7 to stand up."
+
+REFERENCE           TRAINER_HINT_STAND_UP
+LANG_ENGLISH        "Press ^3[{+moveup}]^7 to stand up."
+
+REFERENCE           TRAINER_HINT_STOP_ADS
+LANG_ENGLISH        "Hit the targets while firing from the hip.\nRelease ^3[{+speed}]^7 to stop aiming down your sight."
+
+REFERENCE           TRAINER_HINT_STOP_ADS_THROW
+LANG_ENGLISH        "Hit the targets while firing from the hip.\nRelease ^3[{+speed_throw}]^7 to stop aiming down your sight."
+
+REFERENCE           TRAINER_HINT_STOP_ADS_TOGGLE
+LANG_ENGLISH        "Hit the targets while firing from the hip.\nPress ^3[{toggleads}]^7 to stop aiming down your sight."
+
+REFERENCE           TRAINER_HINT_STOP_ADS_TOGGLE_THROW
+LANG_ENGLISH        "Hit the targets while firing from the hip.\nPress ^3[{+toggleads_throw}]^7 to stop aiming down your sight."
+
+REFERENCE           TRAINER_HINT_SWAP
+LANG_ENGLISH        "Approach the rifle with the grenade launcher attachment and press and hold ^3[{+activate}]^7."
+
+REFERENCE           TRAINER_HINT_SWAP_RELOAD
+LANG_ENGLISH        "Approach the rifle with the grenade launcher attachment and press and hold ^3[{+activate}]^7."
+
+REFERENCE           TRAINER_HINT_THROW_C4
+LANG_ENGLISH        "Pull ^3[{+throw}]^7 to throw C4."
+
+REFERENCE           TRAINER_HINT_THROW_C4_SPEED
+LANG_ENGLISH        "Pull ^3[{+speed_throw}]^7 to throw C4."
+
+REFERENCE           TRAINER_HINT_THROW_C4_TOGGLE
+LANG_ENGLISH        "Pull ^3[{+toggleads_throw}]^7 to throw C4."
+
+REFERENCE           TRAINER_HINT_TURN_AROUND
+LANG_ENGLISH        "Turn around to face the firing range targets."
+
+REFERENCE           TRAINER_HIT_FRIENDLY
+LANG_ENGLISH        "You hit a friendly target."
+
+REFERENCE           TRAINER_INTROSCREEN_LINE_1
+LANG_ENGLISH        "\"S.S.D.D.\""
+
+REFERENCE           TRAINER_INTROSCREEN_LINE_2
+LANG_ENGLISH        "Day 1 - 15:30:[{FAKE_INTRO_SECONDS:25}]"
+
+REFERENCE           TRAINER_INTROSCREEN_LINE_3
+LANG_ENGLISH        "PFC Joseph Allen"
+
+REFERENCE           TRAINER_INTROSCREEN_LINE_4
+LANG_ENGLISH        "1st Bn., 75th Ranger Regiment"
+
+REFERENCE           TRAINER_INTROSCREEN_LINE_5
+LANG_ENGLISH        "Fire Base Phoenix, Afghanistan"
+
+REFERENCE           TRAINER_IW_BEST_TIME
+LANG_ENGLISH        "IW best time:     "
+
+REFERENCE           TRAINER_IW_DECK_TIME
+LANG_ENGLISH        "IW deck time: "
+
+REFERENCE           TRAINER_KILLED_CIVVIES_NONE
+LANG_ENGLISH        "Killed civilians: N/A"
+
+REFERENCE           TRAINER_KILLED_CIVVIES_PENALTY
+LANG_ENGLISH        "Killed civilians: +&&1 sec"
+
+REFERENCE           TRAINER_LOOK_DOWN
+LANG_ENGLISH        "Look down."
+
+REFERENCE           TRAINER_LOOK_UP
+LANG_ENGLISH        "Look up."
+
+REFERENCE           TRAINER_MARINE3_USE_SIDEARM
+LANG_ENGLISH        "Carver! Use your sidearm!"
+
+REFERENCE           TRAINER_MELEE_THE_WATERMELON
+LANG_ENGLISH        "Melee the watermelon with your knife."
+
+REFERENCE           TRAINER_MISSED_ENEMY_PENALTY
+LANG_ENGLISH        "Missed enemies: +&&1 sec"
+
+REFERENCE           TRAINER_MISSED_ENEMY_PENALTY_NONE
+LANG_ENGLISH        "Missed enemies: N/A"
+
+REFERENCE           TRAINER_MISSION_FAIL_FIRE_IN_CAMP
+LANG_ENGLISH        "Weapon use in unauthorized areas will not be tolerated."
+
+REFERENCE           TRAINER_OBJ_COURSE
+LANG_ENGLISH        "Shoot as many valid targets as you can in the fastest possible time."
+
+REFERENCE           TRAINER_OBJ_EXIT_THE_PIT
+LANG_ENGLISH        "Regroup with your team upstairs."
+
+REFERENCE           TRAINER_OBJ_GO_TO_THE_PIT
+LANG_ENGLISH        "Use your objective indicator to locate The Pit."
+
+REFERENCE           TRAINER_PICK_UP_A_RIFLE_FROM
+LANG_ENGLISH        "Pick up the weapon from the table."
+
+REFERENCE           TRAINER_PICK_UP_THE_C4_EXPLOSIVE
+LANG_ENGLISH        "Pick up the C4 explosive."
+
+REFERENCE           TRAINER_PICK_UP_THE_FRAG_GRENADES
+LANG_ENGLISH        "Pick up the frag grenades."
+
+REFERENCE           TRAINER_PICK_UP_THE_RIFLE_WITH
+LANG_ENGLISH        "Pick up the rifle with the grenade launcher attachment."
+
+REFERENCE           TRAINER_PIT_TRY_AGAIN
+LANG_ENGLISH        "Good luck."
+
+REFERENCE           TRAINER_PLANT_THE_C4_EXPLOSIVE
+LANG_ENGLISH        "Plant the C4 explosive at the glowing spot."
+
+REFERENCE           TRAINER_RECOMMENDED_EASY
+LANG_ENGLISH        "Recruit"
+
+REFERENCE           TRAINER_RECOMMENDED_HARD
+LANG_ENGLISH        "Hardened"
+
+REFERENCE           TRAINER_RECOMMENDED_LABEL
+LANG_ENGLISH        "Recommended"
+
+REFERENCE           TRAINER_RECOMMENDED_LABEL2
+LANG_ENGLISH        "difficulty:"
+
+REFERENCE           TRAINER_RECOMMENDED_NORMAL
+LANG_ENGLISH        "Regular"
+
+REFERENCE           TRAINER_RECOMMENDED_TRY_AGAIN
+LANG_ENGLISH        "Try again"
+
+REFERENCE           TRAINER_RECOMMENDED_VETERAN
+LANG_ENGLISH        "Veteran"
+
+REFERENCE           TRAINER_REPORT_TO_CAPTAIN_PRICE
+LANG_ENGLISH        "Use your objective indicator to locate Captain Price."
+
+REFERENCE           TRAINER_RETURN_TO_THE_SAFETY
+LANG_ENGLISH        "Return to the safety pit and equip the grenade launcher."
+
+REFERENCE           TRAINER_RUN_THE_OBSTACLE_COURSE
+LANG_ENGLISH        "Run the obstacle course."
+
+REFERENCE           TRAINER_SHIP_DIDNT_SPRINT
+LANG_ENGLISH        "You didn't sprint."
+
+REFERENCE           TRAINER_SHIP_JUMPED_OFF
+LANG_ENGLISH        "You missed the rope."
+
+REFERENCE           TRAINER_SHIP_JUMPED_TOO_EARLY
+LANG_ENGLISH        "You jumped too early."
+
+REFERENCE           TRAINER_SHIP_LABEL
+LANG_ENGLISH        "Cargoship Bridge"
+
+REFERENCE           TRAINER_SHIP_OUT_OF_FLASH
+LANG_ENGLISH        "You don't have enough flashes to finish."
+
+REFERENCE           TRAINER_SHIP_TOO_SLOW
+LANG_ENGLISH        "You were too slow."
+
+REFERENCE           TRAINER_SHIP_TRY_AGAIN
+LANG_ENGLISH        "Good luck."
+
+REFERENCE           TRAINER_SHOOT_A_TARGET_THROUGH
+LANG_ENGLISH        "Shoot a target through the wood."
+
+REFERENCE           TRAINER_SHOOT_EACH_TARGET_AS
+LANG_ENGLISH        "Shoot each target as quickly as possible."
+
+REFERENCE           TRAINER_SHOOT_EACH_TARGET_WHILE
+LANG_ENGLISH        "Shoot three targets while aiming down your sights."
+
+REFERENCE           TRAINER_SHOOT_EACH_TARGET_WHILE1
+LANG_ENGLISH        "Shoot targets while firing from the hip."
+
+REFERENCE           TRAINER_SHOOT_THE_TARGET_THROUGH
+LANG_ENGLISH        "Shoot the target through the wood."
+
+REFERENCE           TRAINER_SLIDE_DOWN_THE_ROPE
+LANG_ENGLISH        "Slide down the rope.\n"
+
+REFERENCE           TRAINER_SWITCH_TO_YOUR_RIFLE
+LANG_ENGLISH        "Switch to your rifle and then back to your pistol."
+
+REFERENCE           TRAINER_THROW_A_GRENADE_INTO
+LANG_ENGLISH        "Throw a grenade toward the targets."
+
+REFERENCE           TRAINER_TRY_SPRINT_AGAIN
+LANG_ENGLISH        "Go back to the red circle\nand sprint to the exit."
+
+REFERENCE           TRAINER_USE_ROPE
+LANG_ENGLISH        "Press and hold ^3&&1^7 to slide down the rope."
+
+REFERENCE           TRAINER_USE_YOUR_OBJECTIVE_INDICATOR
+LANG_ENGLISH        "Use your Objective Indicator to find the firing range."
+
+REFERENCE           TRAINER_YOUR_DECK_TIME
+LANG_ENGLISH        "Your deck time: "
+
+REFERENCE           TRAINER_YOUR_FINAL_TIME
+LANG_ENGLISH        "Your final time: &&1 sec"
+
+REFERENCE           TRAINER_YOUR_TIME
+LANG_ENGLISH        "Your time: "
+
+REFERENCE           TRAINER_YOUR_TIME_IN_SECONDS
+LANG_ENGLISH        "Your time: &&1 sec"
+
+ENDMARKER

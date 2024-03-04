@@ -1,0 +1,4777 @@
+// Dumped from fastfile "code_post_gfx".
+// In their original format the strings might have been separated in multiple files.
+VERSION             "1"
+CONFIG              "C:/trees/cod3/cod3/bin/StringEd.cfg"
+FILENOTES           ""
+
+REFERENCE           CGAME_COMPLAINTDISMISSED
+LANG_ENGLISH        "Complaint dismissed"
+
+REFERENCE           CGAME_COMPLAINTFILED
+LANG_ENGLISH        "Your complaint has been filed"
+
+REFERENCE           CGAME_COMPLAINTSERVERHOST
+LANG_ENGLISH        "Server Host cannot be complained against"
+
+REFERENCE           CGAME_COMPLAINTTEAMKILLFILE
+LANG_ENGLISH        "File complaint against &&1 for team-killing?"
+
+REFERENCE           CGAME_CONNECTIONINTERUPTED
+LANG_ENGLISH        "Connection Interrupted"
+
+REFERENCE           CGAME_CONTINUE_SAVING
+LANG_ENGLISH        "Save and Quit"
+
+REFERENCE           CGAME_CRUSH
+LANG_ENGLISH        "crush"
+
+REFERENCE           CGAME_DIED
+LANG_ENGLISH        "died"
+
+REFERENCE           CGAME_DROWN
+LANG_ENGLISH        "drown"
+
+REFERENCE           CGAME_FALLING
+LANG_ENGLISH        "falling"
+
+REFERENCE           CGAME_FOLLOWING
+LANG_ENGLISH        "SPECTATING"
+
+REFERENCE           CGAME_FOR
+LANG_ENGLISH        "for"
+
+REFERENCE           CGAME_HEAD_SHOT
+LANG_ENGLISH        "head shot"
+
+REFERENCE           CGAME_HEALTH
+LANG_ENGLISH        "Health"
+
+REFERENCE           CGAME_LISTENSERVER
+LANG_ENGLISH        "Listen Server"
+
+REFERENCE           CGAME_MELEE
+LANG_ENGLISH        "melee"
+
+REFERENCE           CGAME_MISSIONOBJECTIVES
+LANG_ENGLISH        "MISSION OBJECTIVES"
+
+REFERENCE           CGAME_NO
+LANG_ENGLISH        "NO"
+
+REFERENCE           CGAME_NOSPECTATORVOICECHAT
+LANG_ENGLISH        "Can't voice chat as a spectator."
+
+REFERENCE           CGAME_NOW_SAVING
+LANG_ENGLISH        "Saving..."
+
+REFERENCE           CGAME_OBJECTIVE_ABOVE
+LANG_ENGLISH        "Objective Above"
+
+REFERENCE           CGAME_OBJECTIVE_BELOW
+LANG_ENGLISH        "Objective Below"
+
+REFERENCE           CGAME_OBJECTIVE_FOLLOWTEXT_DEFAULT
+LANG_ENGLISH        "Follow"
+
+REFERENCE           CGAME_PAUSED
+LANG_ENGLISH        "Paused"
+
+REFERENCE           CGAME_PLAYERRENAMES
+LANG_ENGLISH        "renamed to"
+
+REFERENCE           CGAME_PRESSYESNO
+LANG_ENGLISH        "Press '&&1' for YES, or '&&2' for No"
+
+REFERENCE           CGAME_PRONE_BLOCKED
+LANG_ENGLISH        "Prone Blocked"
+
+REFERENCE           CGAME_PRONE_BLOCKED_WEAPON
+LANG_ENGLISH        "Can't Go Prone With This Weapon"
+
+REFERENCE           CGAME_RESTART_WARNING
+LANG_ENGLISH        "If you restart now, you will lose \nany progress that you have made \nin this mission\n\nContinue restart?"
+
+REFERENCE           CGAME_SAVE_VICTORY
+LANG_ENGLISH        "Would you like to save your game progress?"
+
+REFERENCE           CGAME_SAVE_WARNING
+LANG_ENGLISH        "If you save now, you will lose any progress \nsince your last checkpoint. \n\nContinue saving?"
+
+REFERENCE           CGAME_SAVINGREPLAY
+LANG_ENGLISH        "&&1 saving replay at\n &&2 -> &&3"
+
+REFERENCE           CGAME_SB_ASSISTS
+LANG_ENGLISH        "Assists"
+
+REFERENCE           CGAME_SB_DEATHS
+LANG_ENGLISH        "Deaths"
+
+REFERENCE           CGAME_SB_KILLS
+LANG_ENGLISH        "Kills"
+
+REFERENCE           CGAME_SB_PING
+LANG_ENGLISH        "Ping"
+
+REFERENCE           CGAME_SB_PLAYER
+LANG_ENGLISH        "&&1"
+
+REFERENCE           CGAME_SB_PLAYERS
+LANG_ENGLISH        "&&1"
+
+REFERENCE           CGAME_SB_SCORE
+LANG_ENGLISH        "Score"
+
+REFERENCE           CGAME_SERVERHOSTTEAMKILLED
+LANG_ENGLISH        "You were team-killed by the Server Host"
+
+REFERENCE           CGAME_SLIME
+LANG_ENGLISH        "slime"
+
+REFERENCE           CGAME_SPECTATOR
+LANG_ENGLISH        "SPECTATOR"
+
+REFERENCE           CGAME_SPECTATORS
+LANG_ENGLISH        "Spectators"
+
+REFERENCE           CGAME_SUICIDE
+LANG_ENGLISH        "suicide"
+
+REFERENCE           CGAME_TEAMMATE
+LANG_ENGLISH        "TEAMMATE"
+
+REFERENCE           CGAME_THIS_WEAPON_HAS_NO_ALTERNATE
+LANG_ENGLISH        "This weapon has no alternate mode to switch to."
+
+REFERENCE           CGAME_UNKNOWN
+LANG_ENGLISH        "unknown"
+
+REFERENCE           CGAME_VOTE
+LANG_ENGLISH        "VOTE"
+
+REFERENCE           CGAME_WAITINGFORSERVERLOAD
+LANG_ENGLISH        "Waiting for server to load new map"
+
+REFERENCE           CGAME_YES
+LANG_ENGLISH        "YES"
+
+REFERENCE           CGAME_YOUKILLED
+LANG_ENGLISH        "You killed &&1"
+
+REFERENCE           CGAME_YOUWEREKILLED
+LANG_ENGLISH        "Killed by &&1"
+
+REFERENCE           MENU_1000_POINTS
+LANG_ENGLISH        "1000 Points"
+
+REFERENCE           MENU_100PERCENT
+LANG_ENGLISH        "100%"
+
+REFERENCE           MENU_100_INITIAL_GEO
+LANG_ENGLISH        "100% initial geo"
+
+REFERENCE           MENU_100_POINTS
+LANG_ENGLISH        "100 Points"
+
+REFERENCE           MENU_100_POINTS_DEFAULT
+LANG_ENGLISH        "100 Points (Default)"
+
+REFERENCE           MENU_1024768
+LANG_ENGLISH        "1024*768"
+
+REFERENCE           MENU_10_MINUTES
+LANG_ENGLISH        "10 Minutes"
+
+REFERENCE           MENU_10_POINTS
+LANG_ENGLISH        "10 Points"
+
+REFERENCE           MENU_10_POINTS_DEFAULT
+LANG_ENGLISH        "10 Points (Default)"
+
+REFERENCE           MENU_10_ROUNDS
+LANG_ENGLISH        "10 Rounds"
+
+REFERENCE           MENU_10_SCRIPTED
+LANG_ENGLISH        "10% scripted"
+
+REFERENCE           MENU_1152864
+LANG_ENGLISH        "1152*864"
+
+REFERENCE           MENU_11KHZ
+LANG_ENGLISH        "11KHZ (Low)"
+
+REFERENCE           MENU_11KHZ__
+LANG_ENGLISH        "11khz (Low Quality, Least Memory)"
+
+REFERENCE           MENU_12801024
+LANG_ENGLISH        "1280*1024"
+
+REFERENCE           MENU_15_MINUTES
+LANG_ENGLISH        "15 Minutes"
+
+REFERENCE           MENU_15_MINUTES_DEFAULT
+LANG_ENGLISH        "15 Minutes (Default)"
+
+REFERENCE           MENU_15_POINTS
+LANG_ENGLISH        "15 Points"
+
+REFERENCE           MENU_15_ROUNDS
+LANG_ENGLISH        "15 Rounds"
+
+REFERENCE           MENU_16001200
+LANG_ENGLISH        "1600*1200"
+
+REFERENCE           MENU_16BIT
+LANG_ENGLISH        "16 bit"
+
+REFERENCE           MENU_1ST_PASS
+LANG_ENGLISH        "1st pass"
+
+REFERENCE           MENU_1_BOMB_IN_THE_CENTER
+LANG_ENGLISH        "1 bomb in the center of the map.  Grab it and destroy the enemy objective!"
+
+REFERENCE           MENU_1_HOUR
+LANG_ENGLISH        "1 Hour"
+
+REFERENCE           MENU_200_POINTS
+LANG_ENGLISH        "200 Points"
+
+REFERENCE           MENU_20481536
+LANG_ENGLISH        "2048*1536"
+
+REFERENCE           MENU_20_POINTS
+LANG_ENGLISH        "20 Points"
+
+REFERENCE           MENU_20_ROUNDS
+LANG_ENGLISH        "20 Rounds"
+
+REFERENCE           MENU_22KHZ
+LANG_ENGLISH        "22KHZ (Medium)"
+
+REFERENCE           MENU_22KHZ__
+LANG_ENGLISH        "22khz (Normal Quality, Medium Memory)"
+
+REFERENCE           MENU_25_POINTS
+LANG_ENGLISH        "25 Points"
+
+REFERENCE           MENU_25_POINTS_DEFAULT
+LANG_ENGLISH        "25 Points (Default)"
+
+REFERENCE           MENU_25_SCRIPTED
+LANG_ENGLISH        "25% scripted"
+
+REFERENCE           MENU_288K
+LANG_ENGLISH        "<=28.8k"
+
+REFERENCE           MENU_2X
+LANG_ENGLISH        "2x"
+
+REFERENCE           MENU_2_MINUTES
+LANG_ENGLISH        "2 Minutes"
+
+REFERENCE           MENU_30
+LANG_ENGLISH        "30%"
+
+REFERENCE           MENU_300_POINTS
+LANG_ENGLISH        "300 Points"
+
+REFERENCE           MENU_300_POINTS_DEFAULT
+LANG_ENGLISH        "300 Points (Default)"
+
+REFERENCE           MENU_30_MINUTES
+LANG_ENGLISH        "30 Minutes"
+
+REFERENCE           MENU_30_MINUTES_DEFAULT
+LANG_ENGLISH        "30 Minutes (Default)"
+
+REFERENCE           MENU_30_POINTS
+LANG_ENGLISH        "30 Points"
+
+REFERENCE           MENU_32BIT
+LANG_ENGLISH        "32 bit"
+
+REFERENCE           MENU_336K
+LANG_ENGLISH        "33.6k"
+
+REFERENCE           MENU_35_INITIAL_GEO
+LANG_ENGLISH        "35% initial geo"
+
+REFERENCE           MENU_3_MINUTES
+LANG_ENGLISH        "3 Minutes"
+
+REFERENCE           MENU_400_POINTS
+LANG_ENGLISH        "400 Points"
+
+REFERENCE           MENU_400_POINTS_DEFAULT
+LANG_ENGLISH        "400 Points (Default)"
+
+REFERENCE           MENU_40_INITIAL_GEO
+LANG_ENGLISH        "40% initial geo"
+
+REFERENCE           MENU_44KHZ
+LANG_ENGLISH        "44KHZ (High)"
+
+REFERENCE           MENU_44KHZ__
+LANG_ENGLISH        "44khz (High Quality, Most Memory)"
+
+REFERENCE           MENU_450_POINTS
+LANG_ENGLISH        "450 Points"
+
+REFERENCE           MENU_450_POINTS_DEFAULT
+LANG_ENGLISH        "450 Points (Default)"
+
+REFERENCE           MENU_45_MINUTES
+LANG_ENGLISH        "45 Minutes"
+
+REFERENCE           MENU_4X
+LANG_ENGLISH        "4x"
+
+REFERENCE           MENU_4_MINUTES
+LANG_ENGLISH        "4 Minutes"
+
+REFERENCE           MENU_4_MINUTES_DEFAULT
+LANG_ENGLISH        "4 Minutes (Default)"
+
+REFERENCE           MENU_50_POINTS
+LANG_ENGLISH        "50 Points"
+
+REFERENCE           MENU_50_POINTS_DEFAULT
+LANG_ENGLISH        "50 Points (Default)"
+
+REFERENCE           MENU_56K
+LANG_ENGLISH        "56k"
+
+REFERENCE           MENU_5_MINUTES
+LANG_ENGLISH        "5 Minutes"
+
+REFERENCE           MENU_5_POINTS
+LANG_ENGLISH        "5 Points"
+
+REFERENCE           MENU_5_POINTS_DEFAULT
+LANG_ENGLISH        "5 Points (Default)"
+
+REFERENCE           MENU_5_ROUNDS
+LANG_ENGLISH        "5 Rounds"
+
+REFERENCE           MENU_5_SCRIPTED
+LANG_ENGLISH        "5% scripted"
+
+REFERENCE           MENU_600_POINTS
+LANG_ENGLISH        "600 Points"
+
+REFERENCE           MENU_600_POINTS_DEFAULT
+LANG_ENGLISH        "600 Points (Default)"
+
+REFERENCE           MENU_640480
+LANG_ENGLISH        "640*480"
+
+REFERENCE           MENU_800600
+LANG_ENGLISH        "800*600"
+
+REFERENCE           MENU_800_POINTS
+LANG_ENGLISH        "800 Points"
+
+REFERENCE           MENU_ACCEPT
+LANG_ENGLISH        "Accept"
+
+REFERENCE           MENU_ACCEPTINVITETITLE
+LANG_ENGLISH        "Leave Party?"
+
+REFERENCE           MENU_ACCOUNT
+LANG_ENGLISH        "Account Settings"
+
+REFERENCE           MENU_ACCURACY
+LANG_ENGLISH        "Accuracy"
+
+REFERENCE           MENU_ACCURACY1
+LANG_ENGLISH        "Accuracy:"
+
+REFERENCE           MENU_ACCURACY_FRIENDS_CAP
+LANG_ENGLISH        "LEADERBOARD - ACCURACY (FRIENDS)"
+
+REFERENCE           MENU_ACCURACY_GLOBAL_CAP
+LANG_ENGLISH        "LEADERBOARD - ACCURACY (GLOBAL)"
+
+REFERENCE           MENU_ACTIONS
+LANG_ENGLISH        "Actions"
+
+REFERENCE           MENU_ACTION_INVENTORY
+LANG_ENGLISH        "Grenade Launcher/Inventory"
+
+REFERENCE           MENU_ACT_I
+LANG_ENGLISH        "Act I"
+
+REFERENCE           MENU_ACT_II
+LANG_ENGLISH        "Act II"
+
+REFERENCE           MENU_ACT_III
+LANG_ENGLISH        "Act III"
+
+REFERENCE           MENU_ADD_SELECTED_SERVER_TO_FAVORITES
+LANG_ENGLISH        "Add selected server to favorites?"
+
+REFERENCE           MENU_ADD_TO_FAVORITES
+LANG_ENGLISH        "Add To Favorites"
+
+REFERENCE           MENU_ADVANCED_VIDEO
+LANG_ENGLISH        "Advanced Video"
+
+REFERENCE           MENU_AGGRESSIVE
+LANG_ENGLISH        "Aggressive"
+
+REFERENCE           MENU_AIM_ASSIST
+LANG_ENGLISH        "Aim Assist"
+
+REFERENCE           MENU_AIM_ASSIST_CAPS
+LANG_ENGLISH        "AIM ASSIST"
+
+REFERENCE           MENU_AIM_DOWN_SIGHT
+LANG_ENGLISH        "Aim Down Sight"
+
+REFERENCE           MENU_AIM_DOWN_THE_SIGHT
+LANG_ENGLISH        "Aim Down the Sight"
+
+REFERENCE           MENU_AIM_DOWN_THE_SIGHT_AUTOAIM
+LANG_ENGLISH        "Autoaim when Aiming Down the Sight"
+
+REFERENCE           MENU_AIR_SUPPORT
+LANG_ENGLISH        "Air Support"
+
+REFERENCE           MENU_ALL
+LANG_ENGLISH        "All"
+
+REFERENCE           MENU_ALLOW_DOWNLOAD
+LANG_ENGLISH        "Allow Downloading"
+
+REFERENCE           MENU_ALLOW_ENEMY_SPECTATING
+LANG_ENGLISH        "Allow Enemy Spectating:  "
+
+REFERENCE           MENU_ALLOW_FREE_SPECTATING
+LANG_ENGLISH        "Allow Free Spectating:  "
+
+REFERENCE           MENU_ALLOW_SNIPER_RIFLES
+LANG_ENGLISH        "Allow Sniper Rifles:  "
+
+REFERENCE           MENU_ALLOW_VOTING
+LANG_ENGLISH        "Allow Voting:  "
+
+REFERENCE           MENU_ALL_CURRENT_PROGRESS_WILL_BE_LOST
+LANG_ENGLISH        "All current progress will be lost."
+
+REFERENCE           MENU_AND_RETURN_TO_THE_MAIN_MENU
+LANG_ENGLISH        "and return to the Main Menu."
+
+REFERENCE           MENU_ANISOTROPIC
+LANG_ENGLISH        "Anisotropic"
+
+REFERENCE           MENU_ANTIALIASING
+LANG_ENGLISH        "Anti-aliasing"
+
+REFERENCE           MENU_APPEARANCE
+LANG_ENGLISH        "Appearance"
+
+REFERENCE           MENU_APPLY
+LANG_ENGLISH        "Apply"
+
+REFERENCE           MENU_APPLYING_CHANGES
+LANG_ENGLISH        "Applying Changes..."
+
+REFERENCE           MENU_APPLY_CAPS
+LANG_ENGLISH        "APPLY"
+
+REFERENCE           MENU_APPLY_LANGUAGE_CHANGE
+LANG_ENGLISH        "Apply Language Change"
+
+REFERENCE           MENU_APPLY_LANGUAGE_SETTINGS
+LANG_ENGLISH        "Apply Language Settings?"
+
+REFERENCE           MENU_APPLY_SETTINGS
+LANG_ENGLISH        "Apply Settings?"
+
+REFERENCE           MENU_ARCADEMODE
+LANG_ENGLISH        "Arcade Mode"
+
+REFERENCE           MENU_ARCADE_FRIENDS_CAP
+LANG_ENGLISH        "ARCADE :: FRIENDS"
+
+REFERENCE           MENU_ARCADE_FULL
+LANG_ENGLISH        "Full Challenge"
+
+REFERENCE           MENU_ARCADE_FULL_DESC
+LANG_ENGLISH        "Earn points by quickly playing through the\ngame in order. Best score: &&1"
+
+REFERENCE           MENU_ARCADE_GLOBAL_CAP
+LANG_ENGLISH        "ARCADE :: GLOBAL"
+
+REFERENCE           MENU_ARCADE_LBSCORE
+LANG_ENGLISH        "Score"
+
+REFERENCE           MENU_ARCADE_SCORE
+LANG_ENGLISH        "Best Arcade Score: &&1"
+
+REFERENCE           MENU_ARCADE_SINGLE
+LANG_ENGLISH        "Mission Challenge"
+
+REFERENCE           MENU_ARCADE_SINGLE_DESC
+LANG_ENGLISH        "Try to earn the highest score\nin a mission of your choice."
+
+REFERENCE           MENU_ARCADE_UNLOCK_DESC
+LANG_ENGLISH        "Complete the game to unlock Arcade Mode"
+
+REFERENCE           MENU_ARENA
+LANG_ENGLISH        "Win the match by eliminating the opposing team or capturing the center point."
+
+REFERENCE           MENU_ARENA_DESC
+LANG_ENGLISH        "ARENA."
+
+REFERENCE           MENU_ARE_TOO_LOW_TO_SUPPORT_VOICE_CHAT
+LANG_ENGLISH        "are too low to support voice chat."
+
+REFERENCE           MENU_ARE_YOU_SURE
+LANG_ENGLISH        "Are you sure?"
+
+REFERENCE           MENU_ARE_YOU_SURE_QUIT
+LANG_ENGLISH        "Are you sure you want to quit?"
+
+REFERENCE           MENU_ARSENAL
+LANG_ENGLISH        "Arsenal"
+
+REFERENCE           MENU_ASPECT_RATIO
+LANG_ENGLISH        "Aspect Ratio"
+
+REFERENCE           MENU_ASSAULT_RIFLES_CAPS
+LANG_ENGLISH        "ASSAULT RIFLES"
+
+REFERENCE           MENU_ATTACHMENTS_CAPS
+LANG_ENGLISH        "ATTACHMENTS"
+
+REFERENCE           MENU_ATTACK
+LANG_ENGLISH        "Attack"
+
+REFERENCE           MENU_AUDIO
+LANG_ENGLISH        "Audio"
+
+REFERENCE           MENU_AUTO
+LANG_ENGLISH        "Auto"
+
+REFERENCE           MENU_AUTOAIM
+LANG_ENGLISH        "Auto-aim"
+
+REFERENCE           MENU_AUTOASSIGN
+LANG_ENGLISH        "Auto-Assign"
+
+REFERENCE           MENU_AUTOBALANCE_TEAMS
+LANG_ENGLISH        "Auto-Balance Teams:  "
+
+REFERENCE           MENU_AUTOMATIC
+LANG_ENGLISH        "Automatic"
+
+REFERENCE           MENU_AUTO_UPDATE
+LANG_ENGLISH        "Auto-Update"
+
+REFERENCE           MENU_A_GAME_TYPE_WILL_BE_SELECTED_AT_RANDOM
+LANG_ENGLISH        "A game type will be selected at random."
+
+REFERENCE           MENU_A_PROFILE_WITH_THE_SAME_NAME_ALREADY_EXISTS
+LANG_ENGLISH        "A profile with the same name already exists"
+
+REFERENCE           MENU_BACK
+LANG_ENGLISH        "Back"
+
+REFERENCE           MENU_BACKPEDAL
+LANG_ENGLISH        "Backpedal"
+
+REFERENCE           MENU_BACKTOGAME
+LANG_ENGLISH        "Back To Game"
+
+REFERENCE           MENU_BARRACKS_CAPS
+LANG_ENGLISH        "BARRACKS"
+
+REFERENCE           MENU_BILINEAR
+LANG_ENGLISH        "Bilinear"
+
+REFERENCE           MENU_BIND_KEY_PENDING
+LANG_ENGLISH        "???"
+
+REFERENCE           MENU_BLING_PRIMARY_DESC
+LANG_ENGLISH        "Extra primary weapon attachment."
+
+REFERENCE           MENU_BLING_SECONDARY_DESC
+LANG_ENGLISH        "Extra secondary weapon attachment."
+
+REFERENCE           MENU_BOOTCAMP_CAPS
+LANG_ENGLISH        "BOOTCAMP"
+
+REFERENCE           MENU_BOTH
+LANG_ENGLISH        "Both"
+
+REFERENCE           MENU_BOTTOM_PLAYER
+LANG_ENGLISH        "Bottom Player"
+
+REFERENCE           MENU_BRIGHTNESS
+LANG_ENGLISH        "Brightness"
+
+REFERENCE           MENU_BRIGHTNESS1
+LANG_ENGLISH        "Brightness..."
+
+REFERENCE           MENU_BRIGHTNESS_BARELY_VISIBLE
+LANG_ENGLISH        "Barely Visible"
+
+REFERENCE           MENU_BRIGHTNESS_CAP
+LANG_ENGLISH        "BRIGHTNESS"
+
+REFERENCE           MENU_BRIGHTNESS_CAPS
+LANG_ENGLISH        "BRIGHTNESS"
+
+REFERENCE           MENU_BRIGHTNESS_DESC1
+LANG_ENGLISH        "Move the slider to adjust the brightness of your screen."
+
+REFERENCE           MENU_BRIGHTNESS_DESC2
+LANG_ENGLISH        "Only the text in the two lower boxes should be visible."
+
+REFERENCE           MENU_BRIGHTNESS_EASILY_VISIBLE
+LANG_ENGLISH        "Easily Visible"
+
+REFERENCE           MENU_BRIGHTNESS_HINT_PC
+LANG_ENGLISH        "Brightness adjustment has no effect when playing in a window."
+
+REFERENCE           MENU_BRIGHTNESS_NOT_VISIBLE
+LANG_ENGLISH        "Not Visible"
+
+REFERENCE           MENU_BRITISH
+LANG_ENGLISH        "British"
+
+REFERENCE           MENU_BULLET_IMPACTS
+LANG_ENGLISH        "Bullet Impacts"
+
+REFERENCE           MENU_BUTTON_LAYOUT
+LANG_ENGLISH        "Button Layout"
+
+REFERENCE           MENU_BUTTON_LAYOUT_CAP
+LANG_ENGLISH        "BUTTON LAYOUT"
+
+REFERENCE           MENU_BUTTON_LAYOUT_CAPS
+LANG_ENGLISH        "BUTTON LAYOUT"
+
+REFERENCE           MENU_CAMO_CAPS
+LANG_ENGLISH        "CAMOUFLAGE"
+
+REFERENCE           MENU_CAMPAIGN
+LANG_ENGLISH        "Campaign"
+
+REFERENCE           MENU_CANCEL
+LANG_ENGLISH        "Cancel"
+
+REFERENCE           MENU_CANT_CHANGE_SETTINGS_WHILE_DEAD
+LANG_ENGLISH        "Can't change settings while dead"
+
+REFERENCE           MENU_CANT_SWITCH_PROFILES_INGAME
+LANG_ENGLISH        "Cannot switch player profiles while in game."
+
+REFERENCE           MENU_CAN_NOT_CHANGE_SETTINGS
+LANG_ENGLISH        "Can not change settings"
+
+REFERENCE           MENU_CAPTURE_AND_HOLD_THE
+LANG_ENGLISH        "Capture and hold the designated positions to gain points."
+
+REFERENCE           MENU_CAPTURE_LIMIT
+LANG_ENGLISH        "Capture Limit:  "
+
+REFERENCE           MENU_CAPTURE_THE_FLAG
+LANG_ENGLISH        "Capture the Flag"
+
+REFERENCE           MENU_CAPTURE_THE_HEADQUARTERS
+LANG_ENGLISH        "Capture the headquarters and defend it from the enemy."
+
+REFERENCE           MENU_CARRIER_INDICATOR
+LANG_ENGLISH        "Carrier Indicator:  "
+
+REFERENCE           MENU_CDKEY
+LANG_ENGLISH        "CD KEY"
+
+REFERENCE           MENU_CENTER_VIEW
+LANG_ENGLISH        "Center View"
+
+REFERENCE           MENU_CHALLENGES
+LANG_ENGLISH        "Challenges"
+
+REFERENCE           MENU_CHALLENGES_CAP
+LANG_ENGLISH        "CHALLENGES"
+
+REFERENCE           MENU_CHANGE_DIFFICULTY
+LANG_ENGLISH        "Change Difficulty"
+
+REFERENCE           MENU_CHANGE_GAME_MODE_CAPS
+LANG_ENGLISH        "CHANGE GAME MODE"
+
+REFERENCE           MENU_CHANGE_GAME_RULES_CAPS
+LANG_ENGLISH        "GAME RULES"
+
+REFERENCE           MENU_CHANGE_GAME_TYPE
+LANG_ENGLISH        "Change Game Type"
+
+REFERENCE           MENU_CHANGE_GRENADE_TYPE
+LANG_ENGLISH        "Change Grenade Type"
+
+REFERENCE           MENU_CHANGE_MAP
+LANG_ENGLISH        "Change Map"
+
+REFERENCE           MENU_CHANGE_MAP_CAPS
+LANG_ENGLISH        "CHANGE MAP"
+
+REFERENCE           MENU_CHANGE_RATE_OF_FIRE
+LANG_ENGLISH        "Change Rate of Fire"
+
+REFERENCE           MENU_CHANGE_STANCE
+LANG_ENGLISH        "Change Stance"
+
+REFERENCE           MENU_CHANGE_WEAPON
+LANG_ENGLISH        "Change Weapon"
+
+REFERENCE           MENU_CHARACTER_TEXTURES
+LANG_ENGLISH        "Character Textures"
+
+REFERENCE           MENU_CHAT
+LANG_ENGLISH        "Chat"
+
+REFERENCE           MENU_CHAT_ICON_TIME
+LANG_ENGLISH        "Chat Icon Time:"
+
+REFERENCE           MENU_CHEATS
+LANG_ENGLISH        "CHEATS"
+
+REFERENCE           MENU_CHEATS_DESC1
+LANG_ENGLISH        "For that arthouse feel."
+
+REFERENCE           MENU_CHEATS_DESC2
+LANG_ENGLISH        "Reprints not available."
+
+REFERENCE           MENU_CHEATS_DESC3
+LANG_ENGLISH        "Try combos of this and the other two color cheats for different effects."
+
+REFERENCE           MENU_CHEATS_DESC4
+LANG_ENGLISH        "Activates secret protocol Ragtime Warfare."
+
+REFERENCE           MENU_CHEATS_DESC5
+LANG_ENGLISH        "Throw a frag grenade and enjoy the show."
+
+REFERENCE           MENU_CHEATS_DESC6
+LANG_ENGLISH        "Shoot some enemies, see what happens."
+
+REFERENCE           MENU_CHEATS_DESC7
+LANG_ENGLISH        "Melee to turn on/off."
+
+REFERENCE           MENU_CHEATS_DESC8
+LANG_ENGLISH        "No reloading, no worries."
+
+REFERENCE           MENU_CHEATS_HOWTO
+LANG_ENGLISH        "To unlock cheats, you must complete the game at least once in any difficulty."
+
+REFERENCE           MENU_CHEATS_LOWCASE
+LANG_ENGLISH        "Cheats"
+
+REFERENCE           MENU_CHEATS_NAME2
+LANG_ENGLISH        "Photo-Negative"
+
+REFERENCE           MENU_CHEATS_NAME3
+LANG_ENGLISH        "Super Contrast"
+
+REFERENCE           MENU_CHEATS_NAME4
+LANG_ENGLISH        "Ragtime Warfare"
+
+REFERENCE           MENU_CHEATS_NAME5
+LANG_ENGLISH        "Cluster Bombs"
+
+REFERENCE           MENU_CHEATS_NAME6
+LANG_ENGLISH        "A Bad Year"
+
+REFERENCE           MENU_CHEATS_NAME7
+LANG_ENGLISH        "Slow-Mo Ability"
+
+REFERENCE           MENU_CHEATS_NAME8
+LANG_ENGLISH        "Infinite Ammo"
+
+REFERENCE           MENU_CHEATS_UNLOCK1
+LANG_ENGLISH        "Find 2 pieces of enemy intel to unlock."
+
+REFERENCE           MENU_CHEATS_UNLOCK2
+LANG_ENGLISH        "Find 4 pieces of enemy intel to unlock."
+
+REFERENCE           MENU_CHEATS_UNLOCK3
+LANG_ENGLISH        "Find 6 pieces of enemy intel to unlock."
+
+REFERENCE           MENU_CHEATS_UNLOCK4
+LANG_ENGLISH        "Find 8 pieces of enemy intel to unlock."
+
+REFERENCE           MENU_CHEATS_UNLOCK5
+LANG_ENGLISH        "Find 10 pieces of enemy intel to unlock."
+
+REFERENCE           MENU_CHEATS_UNLOCK6
+LANG_ENGLISH        "Find 15 pieces of enemy intel to unlock."
+
+REFERENCE           MENU_CHEATS_UNLOCK7
+LANG_ENGLISH        "Find 20 pieces of enemy intel to unlock."
+
+REFERENCE           MENU_CHEATS_UNLOCK8
+LANG_ENGLISH        "Find 30 pieces of enemy intel to unlock."
+
+REFERENCE           MENU_CHEATS_WARNING
+LANG_ENGLISH        "You can't earn achievements while cheats are enabled."
+
+REFERENCE           MENU_CHEAT_ENABLED
+LANG_ENGLISH        "Cheat Enabled"
+
+REFERENCE           MENU_CHEAT_POINTS
+LANG_ENGLISH        "You have collected &&1 piece(s) of enemy intel."
+
+REFERENCE           MENU_CHEAT_POINTS_LEVEL
+LANG_ENGLISH        "You have found &&1 of &&2 enemy intel items in this mission."
+
+REFERENCE           MENU_CHECK_HOW_YOUR_SCORE
+LANG_ENGLISH        "Check how your score stacks up against your friends and the world."
+
+REFERENCE           MENU_CHINESE
+LANG_ENGLISH        "Chinese"
+
+REFERENCE           MENU_CHOOSESKILLLEVEL
+LANG_ENGLISH        "Choose Your Skill Level"
+
+REFERENCE           MENU_CHOOSE_GAME_MODE_CAP
+LANG_ENGLISH        "CHOOSE GAME MODE"
+
+REFERENCE           MENU_CHOOSE_MAP_CAP
+LANG_ENGLISH        "CHOOSE MAP"
+
+REFERENCE           MENU_CHOOSE_TEAM_CAPS
+LANG_ENGLISH        "CHOOSE TEAM"
+
+REFERENCE           MENU_CIA_CAPS
+LANG_ENGLISH        "CIA"
+
+REFERENCE           MENU_CLASSIC
+LANG_ENGLISH        "Classic"
+
+REFERENCE           MENU_CLICK_FOR_AUTOUPDATE
+LANG_ENGLISH        "Click for Auto-Update"
+
+REFERENCE           MENU_CLICK_TO_CONTINUE
+LANG_ENGLISH        "Click to Continue"
+
+REFERENCE           MENU_CLICK_TO_START_THE_MISSION
+LANG_ENGLISH        "Click to Start the Mission"
+
+REFERENCE           MENU_CLOSE
+LANG_ENGLISH        "Close"
+
+REFERENCE           MENU_COLOR_DEPTH
+LANG_ENGLISH        "Color Depth"
+
+REFERENCE           MENU_COMBAT
+LANG_ENGLISH        "Combat"
+
+REFERENCE           MENU_COMPLETED
+LANG_ENGLISH        "Completed"
+
+REFERENCE           MENU_COMPLETED_CHEAT
+LANG_ENGLISH        "Cheat Unlocked"
+
+REFERENCE           MENU_COMPLETED_HARDENED
+LANG_ENGLISH        "Completed Hardened"
+
+REFERENCE           MENU_COMPLETED_REGULAR
+LANG_ENGLISH        "Completed Regular"
+
+REFERENCE           MENU_COMPLETED_VETERAN
+LANG_ENGLISH        "Completed Veteran"
+
+REFERENCE           MENU_CONFIRMINVITE
+LANG_ENGLISH        "Leave Party"
+
+REFERENCE           MENU_CONGRATULATIONS
+LANG_ENGLISH        "Congratulations"
+
+REFERENCE           MENU_CONNECTING
+LANG_ENGLISH        "Connecting..."
+
+REFERENCE           MENU_CONNECTION
+LANG_ENGLISH        "Connection"
+
+REFERENCE           MENU_CONNECTION_COLON
+LANG_ENGLISH        "Connection:  "
+
+REFERENCE           MENU_CONNECTION_TYPE
+LANG_ENGLISH        "Connection Type:"
+
+REFERENCE           MENU_CONTESTED
+LANG_ENGLISH        "contested"
+
+REFERENCE           MENU_CONTINUE
+LANG_ENGLISH        "Continue"
+
+REFERENCE           MENU_CONTINUE_MISSION
+LANG_ENGLISH        "Continue Mission"
+
+REFERENCE           MENU_CONTINUE_QUIT
+LANG_ENGLISH        "Quit Game?"
+
+REFERENCE           MENU_CONTINUE_RESTART
+LANG_ENGLISH        "Continue restart?"
+
+REFERENCE           MENU_CONTINUE_SAVING
+LANG_ENGLISH        "Continue saving?"
+
+REFERENCE           MENU_CONTROLLER_DISCONNECTED
+LANG_ENGLISH        "Please reconnect your controller."
+
+REFERENCE           MENU_CONTROLLER_VIBRATION
+LANG_ENGLISH        "Vibration"
+
+REFERENCE           MENU_CONTROLLER_VIBRATION_CAPS
+LANG_ENGLISH        "VIBRATION"
+
+REFERENCE           MENU_CONTROLS
+LANG_ENGLISH        "Controls"
+
+REFERENCE           MENU_CONTROLS_CAP
+LANG_ENGLISH        "CONTROLS"
+
+REFERENCE           MENU_CONTROLS_CAPS
+LANG_ENGLISH        "CONTROLS"
+
+REFERENCE           MENU_CONTROL_DEFAULTS
+LANG_ENGLISH        "Control Defaults"
+
+REFERENCE           MENU_COOP
+LANG_ENGLISH        "Co-op Missions"
+
+REFERENCE           MENU_COOPERATIVE
+LANG_ENGLISH        "Split Screen"
+
+REFERENCE           MENU_COOP_GAME_SETUP
+LANG_ENGLISH        "Game Setup"
+
+REFERENCE           MENU_COOP_ONLY_CHALLENGE
+LANG_ENGLISH        "This Special Operation requires two players."
+
+REFERENCE           MENU_CORRUPT_STATS_WARNING_OFFLINE
+LANG_ENGLISH        "Your data is corrupt, or the save device isn't inserted correctly.\n\nYou must reset your rank and unlocks to continue."
+
+REFERENCE           MENU_CORRUPT_STATS_WARNING_ONLINE
+LANG_ENGLISH        "Your data is corrupt, or didn't download properly.\n\nYou must reset your rank and unlocks to continue."
+
+REFERENCE           MENU_CQB_TEST
+LANG_ENGLISH        "CQB Test"
+
+REFERENCE           MENU_CREATEAMODE
+LANG_ENGLISH        "Create-a-Mode"
+
+REFERENCE           MENU_CREATE_A_CLASS_CAPS
+LANG_ENGLISH        "CREATE A CLASS"
+
+REFERENCE           MENU_CREATE_GAME
+LANG_ENGLISH        "Create Game"
+
+REFERENCE           MENU_CREATE_GAME_CAPS
+LANG_ENGLISH        "CREATE GAME"
+
+REFERENCE           MENU_CREATE_NEW_OFFLINE_PROFILE
+LANG_ENGLISH        "Create New"
+
+REFERENCE           MENU_CREATE_PARTY
+LANG_ENGLISH        "Create Party"
+
+REFERENCE           MENU_CREATE_PLAYER_PROFILE
+LANG_ENGLISH        "Create Player Profile"
+
+REFERENCE           MENU_CREATE_SERVER
+LANG_ENGLISH        "Create Server"
+
+REFERENCE           MENU_CREATING
+LANG_ENGLISH        "Creating Account..."
+
+REFERENCE           MENU_CREDITS
+LANG_ENGLISH        "Credits"
+
+REFERENCE           MENU_CROSSHAIR
+LANG_ENGLISH        "Crosshair"
+
+REFERENCE           MENU_CROSSHAIR_COLOR
+LANG_ENGLISH        "Crosshair Color"
+
+REFERENCE           MENU_CROUCH
+LANG_ENGLISH        "Crouch"
+
+REFERENCE           MENU_CROUCH_PRONE
+LANG_ENGLISH        "Crouch/Prone"
+
+REFERENCE           MENU_CTF_DESC
+LANG_ENGLISH        "Get the enemy team's flag, bring it to your base, and capture it by touching your flag while it's at your base."
+
+REFERENCE           MENU_CURRENTLYINAGAME
+LANG_ENGLISH        "You are currently in a game"
+
+REFERENCE           MENU_CUSTOM
+LANG_ENGLISH        "Custom"
+
+REFERENCE           MENU_CUSTOMCLASS_KEYBOARD
+LANG_ENGLISH        "Name your custom class"
+
+REFERENCE           MENU_CUSTOMMODE_KEYBOARD
+LANG_ENGLISH        "Name your custom game mode"
+
+REFERENCE           MENU_CUSTOM_CLASS_RESET_WARNING
+LANG_ENGLISH        "This will override your current settings for this class. Would you like to proceed?"
+
+REFERENCE           MENU_CUSTOM_MATCH
+LANG_ENGLISH        "Custom Match"
+
+REFERENCE           MENU_CUSTOM_MATCH_RANKED
+LANG_ENGLISH        "Custom Match: Ranked"
+
+REFERENCE           MENU_CUSTOM_MATCH_STANDARD
+LANG_ENGLISH        "Custom Match: Standard"
+
+REFERENCE           MENU_CUSTOM_N
+LANG_ENGLISH        "Custom (&&1)"
+
+REFERENCE           MENU_CYCLE_ITEMS
+LANG_ENGLISH        "Cycle Items:  "
+
+REFERENCE           MENU_DAMAGE
+LANG_ENGLISH        "Damage:"
+
+REFERENCE           MENU_DATE
+LANG_ENGLISH        "Date"
+
+REFERENCE           MENU_DD
+LANG_ENGLISH        "Teams alternate in attacking and defending two bomb sites, both of which must be destroyed by the attacking team equipped with bombs.  "
+
+REFERENCE           MENU_DD_DESC
+LANG_ENGLISH        "Demolition"
+
+REFERENCE           MENU_DEATHMATCH
+LANG_ENGLISH        "Deathmatch"
+
+REFERENCE           MENU_DEATHS
+LANG_ENGLISH        "Deaths"
+
+REFERENCE           MENU_DEATHSTREAK_CAPS
+LANG_ENGLISH        "DEATH STREAK"
+
+REFERENCE           MENU_DEDICATED
+LANG_ENGLISH        "Dedicated:  "
+
+REFERENCE           MENU_DEDICATEDONLY
+LANG_ENGLISH        "Dedicated Only:"
+
+REFERENCE           MENU_DEFAULT
+LANG_ENGLISH        "Default"
+
+REFERENCE           MENU_DEFAULT_ALT
+LANG_ENGLISH        "Default Flipped"
+
+REFERENCE           MENU_DEFCON_CAPS
+LANG_ENGLISH        "DEFCON"
+
+REFERENCE           MENU_DELETE
+LANG_ENGLISH        "Delete"
+
+REFERENCE           MENU_DELETE_OFFLINE_PROFILE
+LANG_ENGLISH        "Browse and delete data"
+
+REFERENCE           MENU_DELETE_PROFILE
+LANG_ENGLISH        "Delete selected profile?"
+
+REFERENCE           MENU_DEL_FAVORITE
+LANG_ENGLISH        "Del. Favorite"
+
+REFERENCE           MENU_DEL_SEL_FAVORITE
+LANG_ENGLISH        "Delete selected favorite from list?"
+
+REFERENCE           MENU_DEL_SEL_SAVEGAME
+LANG_ENGLISH        "Delete selected save game?"
+
+REFERENCE           MENU_DESCRIPTION_CUSTOMMATCH
+LANG_ENGLISH        "Find a session with the game settings you specify."
+
+REFERENCE           MENU_DESCRIPTION_PLAYERMATCH
+LANG_ENGLISH        "Play for fun with people who share similar profiles."
+
+REFERENCE           MENU_DESCRIPTION_QUICKMATCH
+LANG_ENGLISH        "Get into a game quickly. Game settings are chosen randomly."
+
+REFERENCE           MENU_DESCRIPTION_RANKEDMATCH
+LANG_ENGLISH        "Play competitive matches to improve your TrueSkill™ rankings."
+
+REFERENCE           MENU_DESC_CAS_WELCOME
+LANG_ENGLISH        "Choose your 3 killstreaks!"
+
+REFERENCE           MENU_DESC_CHANGE_MAP
+LANG_ENGLISH        "Choose a different map."
+
+REFERENCE           MENU_DESC_INVITE_FRIEND
+LANG_ENGLISH        "Invite a friend to your game."
+
+REFERENCE           MENU_DESC_INVITE_FRIENDS
+LANG_ENGLISH        "Invite friends to your game."
+
+REFERENCE           MENU_DESC_SET_DIFFICULTY_PLAYER
+LANG_ENGLISH        "Set this player's difficulty."
+
+REFERENCE           MENU_DESC_START_MATCH
+LANG_ENGLISH        "Start the match."
+
+REFERENCE           MENU_DESC_START_MATCH_LOCKED
+LANG_ENGLISH        "Only the lobby host can start the match."
+
+REFERENCE           MENU_DEV
+LANG_ENGLISH        "Dev. only"
+
+REFERENCE           MENU_DEV_COOP
+LANG_ENGLISH        "Co-op Dev. only"
+
+REFERENCE           MENU_DIFFICULTY_COMPLETED
+LANG_ENGLISH        "Difficulty Completed:"
+
+REFERENCE           MENU_DIFFICULTY_HARDENED
+LANG_ENGLISH        "Difficulty: Hardened"
+
+REFERENCE           MENU_DIFFICULTY_REGULAR
+LANG_ENGLISH        "Difficulty: Regular"
+
+REFERENCE           MENU_DIFFICULTY_VETERAN
+LANG_ENGLISH        "Difficulty: Veteran"
+
+REFERENCE           MENU_DIFFICULTY_WARNING
+LANG_ENGLISH        "The difficulty you have selected is not recommended. Do you wish to continue?"
+
+REFERENCE           MENU_DIFFICULTY_WARNING_EASIER
+LANG_ENGLISH        "The difficulty you have selected is easier than what was recommended. Do you wish to continue?"
+
+REFERENCE           MENU_DIRECTX_9
+LANG_ENGLISH        "DirectX® 9"
+
+REFERENCE           MENU_DISABLED
+LANG_ENGLISH        "Disabled"
+
+REFERENCE           MENU_DISABLED_DEFAULT
+LANG_ENGLISH        "Disabled (Default)"
+
+REFERENCE           MENU_DISCONNECT
+LANG_ENGLISH        "Disconnect"
+
+REFERENCE           MENU_DIVER
+LANG_ENGLISH        "Diver"
+
+REFERENCE           MENU_DOF
+LANG_ENGLISH        "Depth of Field"
+
+REFERENCE           MENU_DONE
+LANG_ENGLISH        "Done"
+
+REFERENCE           MENU_DOWNLOADING
+LANG_ENGLISH        "DOWNLOADING..."
+
+REFERENCE           MENU_DOWNLOADING_GAME_SETTINGS
+LANG_ENGLISH        "DOWNLOADING GAME SETTINGS"
+
+REFERENCE           MENU_DOWNLOAD_AUTOUPDATE_PATCH
+LANG_ENGLISH        "Download Auto-Update Patch?"
+
+REFERENCE           MENU_DOYOUWISHTOCONTINUE
+LANG_ENGLISH        "Do you wish to continue?"
+
+REFERENCE           MENU_DRAW_CROSSHAIR
+LANG_ENGLISH        "Draw Crosshair"
+
+REFERENCE           MENU_DRAW_HUD
+LANG_ENGLISH        "Draw HUD"
+
+REFERENCE           MENU_DRIVERINFO
+LANG_ENGLISH        "Driver Info"
+
+REFERENCE           MENU_DUMMY
+LANG_ENGLISH        "dummy"
+
+REFERENCE           MENU_DUMMY_DESC
+LANG_ENGLISH        "dummy"
+
+REFERENCE           MENU_DYNAMIC_LIGHTS
+LANG_ENGLISH        "Dynamic Lights"
+
+REFERENCE           MENU_EASY
+LANG_ENGLISH        "Easy"
+
+REFERENCE           MENU_EFFECTS_VOLUME
+LANG_ENGLISH        "Effects Volume"
+
+REFERENCE           MENU_EJECTING_BRASS
+LANG_ENGLISH        "Ejecting Brass"
+
+REFERENCE           MENU_ELITE_CAPS
+LANG_ENGLISH        "ELITE"
+
+REFERENCE           MENU_EMBLEM_CAPS
+LANG_ENGLISH        "EMBLEM"
+
+REFERENCE           MENU_ENABLED
+LANG_ENGLISH        "Enabled"
+
+REFERENCE           MENU_ENABLED_DEFAULT
+LANG_ENGLISH        "Enabled (Default)"
+
+REFERENCE           MENU_ENABLE_CONSOLE
+LANG_ENGLISH        "Enable Console"
+
+REFERENCE           MENU_ENABLE_CROSSHAIR
+LANG_ENGLISH        "Enable Crosshair"
+
+REFERENCE           MENU_END_GAME
+LANG_ENGLISH        "End Game"
+
+REFERENCE           MENU_ENGLISH
+LANG_ENGLISH        "English"
+
+REFERENCE           "MENU_ENTER CD-KEY"
+LANG_ENGLISH        "Enter CD-Key"
+
+REFERENCE           MENU_ENTER_KEY_CODE
+LANG_ENGLISH        "Enter Key Code"
+
+REFERENCE           MENU_ENTER_YOUR_ENCRYPTION_KEY_IN_THE_FIELD_BELOW
+LANG_ENGLISH        "Enter your encryption key in the field below."
+
+REFERENCE           MENU_ENTER_YOUR_KEY_CODE_IN_THE_FIELD_BELOW
+LANG_ENGLISH        "Enter your key code in the field below."
+
+REFERENCE           MENU_EPILOGUE
+LANG_ENGLISH        "Epilogue"
+
+REFERENCE           MENU_EQUIPMENT
+LANG_ENGLISH        "Equipment"
+
+REFERENCE           MENU_EQUIPMENT_CAPS
+LANG_ENGLISH        "EQUIPMENT"
+
+REFERENCE           MENU_EQUIPMENT_SECONDARY
+LANG_ENGLISH        "Secondary Equipment"
+
+REFERENCE           MENU_ERROR
+LANG_ENGLISH        "Error"
+
+REFERENCE           MENU_EVERYTHING
+LANG_ENGLISH        "Everything"
+
+REFERENCE           MENU_EXIT
+LANG_ENGLISH        "Exit"
+
+REFERENCE           MENU_EXPERIENCE
+LANG_ENGLISH        "Experience"
+
+REFERENCE           MENU_EXPERIMENTAL
+LANG_ENGLISH        "Experimental"
+
+REFERENCE           MENU_EXTRA
+LANG_ENGLISH        "Extra"
+
+REFERENCE           MENU_EXTRAS
+LANG_ENGLISH        "Extras"
+
+REFERENCE           MENU_EXTRA_LOW
+LANG_ENGLISH        "Extra Low"
+
+REFERENCE           MENU_FAST
+LANG_ENGLISH        "Fast"
+
+REFERENCE           MENU_FASTEST
+LANG_ENGLISH        "Fastest"
+
+REFERENCE           MENU_FILTER_SERVERS
+LANG_ENGLISH        "Filter Servers"
+
+REFERENCE           MENU_FIND_FRIEND
+LANG_ENGLISH        "Find Friend"
+
+REFERENCE           MENU_FIND_GAME
+LANG_ENGLISH        "Find Game"
+
+REFERENCE           MENU_FIND_RANKED_GAME
+LANG_ENGLISH        "Find Ranked Game"
+
+REFERENCE           MENU_FIND_RANKED_MATCH
+LANG_ENGLISH        "Find Ranked Match"
+
+REFERENCE           MENU_FIND_STANDARD_GAME
+LANG_ENGLISH        "Find Standard Game"
+
+REFERENCE           MENU_FIND_STANDARD_MATCH
+LANG_ENGLISH        "Find Standard Match"
+
+REFERENCE           MENU_FIRE_RATE
+LANG_ENGLISH        "Fire Rate:"
+
+REFERENCE           MENU_FIRE_WEAPON
+LANG_ENGLISH        "Fire Weapon"
+
+REFERENCE           MENU_FIVE_ONE_SPEAKERS
+LANG_ENGLISH        "5.1 Speakers"
+
+REFERENCE           MENU_FORCE_RESPAWNING
+LANG_ENGLISH        "Force Respawning:  "
+
+REFERENCE           MENU_FORWARD
+LANG_ENGLISH        "Forward"
+
+REFERENCE           MENU_FOUR_SPEAKERS
+LANG_ENGLISH        "4 Speakers"
+
+REFERENCE           MENU_FRAG_EQUIPMENT
+LANG_ENGLISH        "Throw Frag/Use Equipment"
+
+REFERENCE           MENU_FREE_FOR_ALL
+LANG_ENGLISH        "Free for All"
+
+REFERENCE           MENU_FREE_LOOK
+LANG_ENGLISH        "Free Look"
+
+REFERENCE           MENU_FRENCH
+LANG_ENGLISH        "French"
+
+REFERENCE           MENU_FRIENDLY_FIRE
+LANG_ENGLISH        "Friendly Fire:  "
+
+REFERENCE           MENU_FRIENDLY_INDICATORS
+LANG_ENGLISH        "Friendly Indicators:  "
+
+REFERENCE           MENU_FRIENDS_CAP
+LANG_ENGLISH        "FRIENDS"
+
+REFERENCE           MENU_FULLSCREEN
+LANG_ENGLISH        "Full Screen"
+
+REFERENCE           MENU_GAMESKILL_EASY
+LANG_ENGLISH        "For players who are new to first person action game."
+
+REFERENCE           MENU_GAMESKILL_NORMAL
+LANG_ENGLISH        "Your abilities in combat will be tested."
+
+REFERENCE           MENU_GAMETYPE_PRE
+LANG_ENGLISH        "GAMETYPE: "
+
+REFERENCE           MENU_GAME_BEGINNING
+LANG_ENGLISH        "Launching"
+
+REFERENCE           MENU_GAME_EXPERIENCE_MAY_CHANGE
+LANG_ENGLISH        "Online interactions not rated by the ESRB."
+
+REFERENCE           MENU_GAME_OPTIONS
+LANG_ENGLISH        "Game Options"
+
+REFERENCE           MENU_GAME_SELECTION_CAPS
+LANG_ENGLISH        "GAME SELECTION"
+
+REFERENCE           MENU_GAME_SETUP
+LANG_ENGLISH        "Game Setup"
+
+REFERENCE           MENU_GAME_SETUP_CAPS
+LANG_ENGLISH        "GAME SETUP"
+
+REFERENCE           MENU_GAME_TYPE
+LANG_ENGLISH        "Game Mode:  "
+
+REFERENCE           MENU_GAME_TYPE1
+LANG_ENGLISH        "Game Mode"
+
+REFERENCE           MENU_GAME_TYPES
+LANG_ENGLISH        "Game Modes"
+
+REFERENCE           MENU_GAME_TYPE_SETTINGS
+LANG_ENGLISH        "Game Mode Settings"
+
+REFERENCE           MENU_GENERAL_TEXTURES
+LANG_ENGLISH        "General Textures"
+
+REFERENCE           MENU_GEOMETRIC_DETAIL
+LANG_ENGLISH        "Geometric Detail"
+
+REFERENCE           MENU_GERMAN
+LANG_ENGLISH        "German"
+
+REFERENCE           MENU_GET_NEW_LIST
+LANG_ENGLISH        "Get New List"
+
+REFERENCE           MENU_GET_THE_ENEMY_FLAG_AND
+LANG_ENGLISH        "Get the enemy flag and return it to yours to capture it."
+
+REFERENCE           MENU_GLOW
+LANG_ENGLISH        "Glow"
+
+REFERENCE           MENU_GOTO_NEXT
+LANG_ENGLISH        ">>>"
+
+REFERENCE           MENU_GO_TO_CROUCH
+LANG_ENGLISH        "Go to Crouch"
+
+REFERENCE           MENU_GO_TO_PRONE
+LANG_ENGLISH        "Go to Prone"
+
+REFERENCE           MENU_GRACE_PERIOD
+LANG_ENGLISH        "Grace Period (seconds):  "
+
+REFERENCE           MENU_GRAPHICS
+LANG_ENGLISH        "Graphics"
+
+REFERENCE           MENU_GRAPHICS_WARNING
+LANG_ENGLISH        "We recommend using \"Optimal Video and Audio.\"  Manually changing settings could result in poor performance."
+
+REFERENCE           MENU_GTNW_DESC
+LANG_ENGLISH        "Global Thermonuclear War"
+
+REFERENCE           MENU_HANDGUNS_CAPS
+LANG_ENGLISH        "HANDGUNS"
+
+REFERENCE           MENU_HARDENED
+LANG_ENGLISH        "Hardened"
+
+REFERENCE           MENU_HARDENED_CAPS
+LANG_ENGLISH        "HARDENED"
+
+REFERENCE           MENU_HARDENED_DESC
+LANG_ENGLISH        "Your skills will be strained."
+
+REFERENCE           MENU_HARDENED_DESC_2
+LANG_ENGLISH        "to the breaking point."
+
+REFERENCE           MENU_HEADQUARTERS
+LANG_ENGLISH        "Headquarters"
+
+REFERENCE           MENU_HIGH
+LANG_ENGLISH        "High"
+
+REFERENCE           MENU_HIGHQUALITY
+LANG_ENGLISH        "High Quality"
+
+REFERENCE           MENU_HITS
+LANG_ENGLISH        "Hits"
+
+REFERENCE           MENU_HOLD_AIM_DOWN_SIGHT
+LANG_ENGLISH        "Hold Aim Down the Sight"
+
+REFERENCE           MENU_HOLD_BREATH
+LANG_ENGLISH        "Hold Breath"
+
+REFERENCE           MENU_HOLD_DOWN_CROUCH
+LANG_ENGLISH        "Hold Crouch"
+
+REFERENCE           MENU_HOLD_DOWN_PRONE
+LANG_ENGLISH        "Hold Prone"
+
+REFERENCE           MENU_HOLD_MOUSE_LOOK
+LANG_ENGLISH        "Hold Mouse Look"
+
+REFERENCE           MENU_HOST_MIGRATION
+LANG_ENGLISH        "HOST MIGRATION"
+
+REFERENCE           MENU_HOST_NAME
+LANG_ENGLISH        "Host"
+
+REFERENCE           MENU_HQ_DESC
+LANG_ENGLISH        "Teams race to set up a radio and defend it for points.  If the enemy team sets up a radio, you must destroy it."
+
+REFERENCE           MENU_HUD_MARGIN_HORIZONTAL
+LANG_ENGLISH        "Horizontal Margin"
+
+REFERENCE           MENU_HUD_MARGIN_HORIZONTAL_CAPS
+LANG_ENGLISH        "HORIZONTAL MARGIN"
+
+REFERENCE           MENU_HUD_MARGIN_VERTICAL
+LANG_ENGLISH        "Vertical Margin"
+
+REFERENCE           MENU_HUD_MARGIN_VERTICAL_CAPS
+LANG_ENGLISH        "VERTICAL MARGIN"
+
+REFERENCE           MENU_HUMILIATION_CAPS
+LANG_ENGLISH        "HUMILIATION"
+
+REFERENCE           MENU_INGAME_DIFFICULTY_CHANGING
+LANG_ENGLISH        "Changing difficulty will restart the current level."
+
+REFERENCE           MENU_INITIAL_GEO_IN_PROGRESS
+LANG_ENGLISH        "Initial geo in progress"
+
+REFERENCE           MENU_INSANE
+LANG_ENGLISH        "Insane"
+
+REFERENCE           MENU_INTEL
+LANG_ENGLISH        "INTEL"
+
+REFERENCE           MENU_INTERACT
+LANG_ENGLISH        "Interact"
+
+REFERENCE           MENU_INTERMISSION
+LANG_ENGLISH        "Intermission"
+
+REFERENCE           MENU_INTERNET
+LANG_ENGLISH        "Internet"
+
+REFERENCE           MENU_INVALIDCHARS
+LANG_ENGLISH        "Text is blank or contains illegal characters."
+
+REFERENCE           MENU_INVENTORY
+LANG_ENGLISH        "Inventory"
+
+REFERENCE           MENU_INVENTORY_KILLSTREAK
+LANG_ENGLISH        "Inventory/Killstreak Reward"
+
+REFERENCE           MENU_INVERT_MOUSE
+LANG_ENGLISH        "Invert Mouse"
+
+REFERENCE           MENU_INVITE_CAPS
+LANG_ENGLISH        "INVITE"
+
+REFERENCE           MENU_INVITE_FRIEND
+LANG_ENGLISH        "Invite A Friend"
+
+REFERENCE           MENU_INVITE_FRIENDS
+LANG_ENGLISH        "Invite Friends"
+
+REFERENCE           MENU_IN_PROGRESS
+LANG_ENGLISH        "In Progress"
+
+REFERENCE           MENU_IP_ADDRESS
+LANG_ENGLISH        "IP Address: "
+
+REFERENCE           MENU_ISDN
+LANG_ENGLISH        "ISDN"
+
+REFERENCE           MENU_IS_STARTED
+LANG_ENGLISH        "is started."
+
+REFERENCE           MENU_ITALIAN
+LANG_ENGLISH        "Italian"
+
+REFERENCE           MENU_IWNET_ACCOUNT_CDKEY
+LANG_ENGLISH        "Please enter the original CD Key used to create this account."
+
+REFERENCE           MENU_IWNET_ACCOUNT_SETTINGS
+LANG_ENGLISH        "Modern Warfare 2 Account Settings"
+
+REFERENCE           MENU_IWNET_CDKEY
+LANG_ENGLISH        "CD Key:"
+
+REFERENCE           MENU_IWNET_CE_BADEMAIL
+LANG_ENGLISH        "Please provide a valid email address."
+
+REFERENCE           MENU_IWNET_CE_SUCCESS
+LANG_ENGLISH        "Your email address has been changed."
+
+REFERENCE           MENU_IWNET_CHANGE_EMAIL
+LANG_ENGLISH        "Change Email Address"
+
+REFERENCE           MENU_IWNET_CHANGE_PASSWORD
+LANG_ENGLISH        "Change Password"
+
+REFERENCE           MENU_IWNET_CP_SUCCESS
+LANG_ENGLISH        "Your password has been changed."
+
+REFERENCE           MENU_IWNET_CREATE
+LANG_ENGLISH        "Create Account"
+
+REFERENCE           MENU_IWNET_CREATE_BADCDKEY
+LANG_ENGLISH        "You must enter a valid CD Key."
+
+REFERENCE           MENU_IWNET_CREATE_BADEMAIL
+LANG_ENGLISH        "You must provide a valid email address."
+
+REFERENCE           MENU_IWNET_CREATE_BADNAME
+LANG_ENGLISH        "That name is not allowed."
+
+REFERENCE           MENU_IWNET_CREATE_ERROR
+LANG_ENGLISH        "There was an error while trying to create your account.  Please try again soon."
+
+REFERENCE           MENU_IWNET_CREATE_IWNET_ACCOUNT
+LANG_ENGLISH        "Create an IW.net Account"
+
+REFERENCE           MENU_IWNET_CREATE_KEYUSED
+LANG_ENGLISH        "This CD Key has already been used."
+
+REFERENCE           MENU_IWNET_CREATE_NAMETAKEN
+LANG_ENGLISH        "That username already exists."
+
+REFERENCE           MENU_IWNET_CREATE_NOPASSWORD
+LANG_ENGLISH        "You must supply a password."
+
+REFERENCE           MENU_IWNET_CREATE_NOUSER
+LANG_ENGLISH        "You must supply a username."
+
+REFERENCE           MENU_IWNET_CREATE_PASSWORD_MISMATCH
+LANG_ENGLISH        "Both password fields must match."
+
+REFERENCE           MENU_IWNET_CREATE_SHORT_PASSWORD
+LANG_ENGLISH        "Your password must be at least 4 characters long."
+
+REFERENCE           MENU_IWNET_CREATE_SHORT_USER
+LANG_ENGLISH        "Your username must be at least 3 characters long."
+
+REFERENCE           MENU_IWNET_CREATE_SUCCESS
+LANG_ENGLISH        "Your account has been created successfully."
+
+REFERENCE           MENU_IWNET_CREATION_FAILED
+LANG_ENGLISH        "Failed to create account."
+
+REFERENCE           MENU_IWNET_EMAIL
+LANG_ENGLISH        "Email: "
+
+REFERENCE           MENU_IWNET_LOGIN
+LANG_ENGLISH        "Log Into IW.net"
+
+REFERENCE           MENU_IWNET_LOGIN_BADPARAMS
+LANG_ENGLISH        "You must supply a username and password."
+
+REFERENCE           MENU_IWNET_LOGIN_BADPASSWORD
+LANG_ENGLISH        "The password supplied for this account was incorrect."
+
+REFERENCE           MENU_IWNET_LOGIN_BANNED
+LANG_ENGLISH        "This account has been banned."
+
+REFERENCE           MENU_IWNET_LOGIN_ERROR
+LANG_ENGLISH        "There was a problem communicating with the IW.net servers."
+
+REFERENCE           MENU_IWNET_LOGIN_NOTENTITLED
+LANG_ENGLISH        "That account is not able to log in to Modern Warfare 2."
+
+REFERENCE           MENU_IWNET_LOGIN_SUCCESS
+LANG_ENGLISH        "You are now logged in."
+
+REFERENCE           MENU_IWNET_LOGIN_TIMEOUT
+LANG_ENGLISH        "No response was received from the IW.net servers.  Please try again soon."
+
+REFERENCE           MENU_IWNET_LOGIN_UNKNOWNUSER
+LANG_ENGLISH        "That username is not recognized."
+
+REFERENCE           MENU_IWNET_MUSTLOGIN
+LANG_ENGLISH        "You must log into a valid IW.net account to proceed."
+
+REFERENCE           MENU_IWNET_NAME_ILLEGAL
+LANG_ENGLISH        "That account name is invalid, please try another one."
+
+REFERENCE           MENU_IWNET_NAME_TAKEN
+LANG_ENGLISH        "That account name is already taken."
+
+REFERENCE           MENU_IWNET_NOTLOGGEDIN
+LANG_ENGLISH        "You are not currently signed into your Modern Warfare 2 account.  Please sign in and try again."
+
+REFERENCE           MENU_IWNET_RESET
+LANG_ENGLISH        "Reset Password"
+
+REFERENCE           MENU_IWNET_RESET_PASSWORD
+LANG_ENGLISH        "Reset Account Password"
+
+REFERENCE           MENU_IWNET_RESET_PASSWORD_CONFIRM
+LANG_ENGLISH        "Select OK to reset your password.  Your new password will be sent to the current email address associated with the account."
+
+REFERENCE           MENU_IWNET_RP_BADKEY
+LANG_ENGLISH        "The CD Key provided was not valid."
+
+REFERENCE           MENU_IWNET_RP_NOUSER
+LANG_ENGLISH        "No account name was specified."
+
+REFERENCE           MENU_IWNET_RP_SUCCESS
+LANG_ENGLISH        "Your password has been reset.  Please check the email address associated with your account for an email containing your new password."
+
+REFERENCE           MENU_IWNET_RP_TOOSOON
+LANG_ENGLISH        "This account has already had its password reset recently.  Please wait a few minutes and try again."
+
+REFERENCE           MENU_IWNET_RP_WRONGKEY
+LANG_ENGLISH        "The CD Key provided was not the one originally used to create this account."
+
+REFERENCE           MENU_IWNET_UNKNOWN
+LANG_ENGLISH        "The requested action failed for an unknown reason.  Please wait a few minutes and try again."
+
+REFERENCE           MENU_IWNET_USERNAME
+LANG_ENGLISH        "Username: "
+
+REFERENCE           MENU_JAPANESE
+LANG_ENGLISH        "Japanese"
+
+REFERENCE           MENU_JOIN
+LANG_ENGLISH        "Join"
+
+REFERENCE           MENU_JOININGLOBBY
+LANG_ENGLISH        "Trying to join game &&1/&&2"
+
+REFERENCE           MENU_JOIN_AN_INTERNET_GAME
+LANG_ENGLISH        "Join an Internet Game"
+
+REFERENCE           MENU_JOIN_A_GAME
+LANG_ENGLISH        "Join a Game"
+
+REFERENCE           MENU_JOIN_A_LAN_GAME
+LANG_ENGLISH        "Join a LAN Game"
+
+REFERENCE           MENU_JOIN_GAME
+LANG_ENGLISH        "Join Game"
+
+REFERENCE           MENU_JOIN_GAME1
+LANG_ENGLISH        "Join Game"
+
+REFERENCE           MENU_JOIN_GAME_CAPS
+LANG_ENGLISH        "JOIN GAME"
+
+REFERENCE           MENU_JOIN_SERVER
+LANG_ENGLISH        "Join Server"
+
+REFERENCE           MENU_JOIN_SERVER_CAP
+LANG_ENGLISH        "JOIN SERVER"
+
+REFERENCE           MENU_JUMP
+LANG_ENGLISH        "Jump"
+
+REFERENCE           MENU_JUMP_STANCE_UP
+LANG_ENGLISH        "Jump/Stance Up"
+
+REFERENCE           MENU_KDRATIO
+LANG_ENGLISH        "Kill/Death"
+
+REFERENCE           MENU_KEY
+LANG_ENGLISH        "Key:"
+
+REFERENCE           MENU_KEY_CODE
+LANG_ENGLISH        "Key Code"
+
+REFERENCE           MENU_KILLCAM
+LANG_ENGLISH        "Killcam:  "
+
+REFERENCE           MENU_KILLER_CAPS
+LANG_ENGLISH        "KILLER"
+
+REFERENCE           MENU_KILLS
+LANG_ENGLISH        "Kills"
+
+REFERENCE           MENU_KILLSTREAK_CAPS
+LANG_ENGLISH        "KILLSTREAK"
+
+REFERENCE           MENU_KILLSTREAK_REWARD
+LANG_ENGLISH        "Killstreak Reward"
+
+REFERENCE           MENU_KILLSTREAK_REWARDS_CAPS
+LANG_ENGLISH        "KILLSTREAK REWARDS"
+
+REFERENCE           MENU_KILLSTREAK_REWARD_DESC
+LANG_ENGLISH        "New killstreak rewards are available."
+
+REFERENCE           MENU_KILLS_FRIENDS_CAP
+LANG_ENGLISH        "LEADERBOARD - KILLS (FRIENDS)"
+
+REFERENCE           MENU_KILLS_GLOBAL_CAP
+LANG_ENGLISH        "LEADERBOARD - KILLS (GLOBAL)"
+
+REFERENCE           MENU_KILL_EVERYONE_FIRST_PLAYER
+LANG_ENGLISH        "Kill everyone. First player to reach the score limit ends the game, the top 3 players win."
+
+REFERENCE           MENU_KILL_PLAYERS_ON_THE_OPPOSING
+LANG_ENGLISH        "Kill players on the opposing team. The first team to reach the score limit wins!"
+
+REFERENCE           MENU_KOREAN
+LANG_ENGLISH        "Korean"
+
+REFERENCE           MENU_LAN
+LANG_ENGLISH        "LAN"
+
+REFERENCE           MENU_LANGUAGE
+LANG_ENGLISH        "Language"
+
+REFERENCE           MENU_LANGUAGE_CHANGE_AND_RETURN
+LANG_ENGLISH        "language change and return"
+
+REFERENCE           MENU_LAN_CABLE_XDSL
+LANG_ENGLISH        "LAN/Cable/DSL"
+
+REFERENCE           MENU_LARGE
+LANG_ENGLISH        "Large"
+
+REFERENCE           MENU_LAST_CHECKPOINT
+LANG_ENGLISH        "Last Checkpoint"
+
+REFERENCE           MENU_LAST_WEAPON_USED
+LANG_ENGLISH        "Last Weapon Used"
+
+REFERENCE           MENU_LAUNCH
+LANG_ENGLISH        "Launch"
+
+REFERENCE           MENU_LAUNCH_WITHOUT_MODS
+LANG_ENGLISH        "Launch without Mods"
+
+REFERENCE           MENU_LEADERBOARDS_CAP
+LANG_ENGLISH        "LEADERBOARDS"
+
+REFERENCE           MENU_LEADERBOARD_TIME_TRIAL
+LANG_ENGLISH        "Time Trial"
+
+REFERENCE           MENU_LEAN_LEFT
+LANG_ENGLISH        "Lean Left"
+
+REFERENCE           MENU_LEAN_RIGHT
+LANG_ENGLISH        "Lean Right"
+
+REFERENCE           MENU_LEAVEMPGAMEWARNING
+LANG_ENGLISH        "If you accept this invite, you will quit your current game lobby.  Accept invitation?"
+
+REFERENCE           MENU_LEAVEMPGAMEWARNINGPARTYHOST
+LANG_ENGLISH        "If you join another session, you will disband your party.  Disband party?"
+
+REFERENCE           MENU_LEAVEPARTYWARNING
+LANG_ENGLISH        "If you join another session, you will leave your party.  Leave party?"
+
+REFERENCE           MENU_LEAVE_GAME
+LANG_ENGLISH        "Leave Game"
+
+REFERENCE           MENU_LEAVE_GAME_AND_PARTY
+LANG_ENGLISH        "Leave game and party?"
+
+REFERENCE           MENU_LEAVE_GAME_RANKED1
+LANG_ENGLISH        "Warning: Leaving the game early will"
+
+REFERENCE           MENU_LEAVE_GAME_RANKED2
+LANG_ENGLISH        "forfeit your match bonus and will count"
+
+REFERENCE           MENU_LEAVE_GAME_RANKED3
+LANG_ENGLISH        "as a loss."
+
+REFERENCE           MENU_LEFTY
+LANG_ENGLISH        "Lefty"
+
+REFERENCE           MENU_LEFTY_ALT
+LANG_ENGLISH        "Lefty Flipped"
+
+REFERENCE           MENU_LEGACY
+LANG_ENGLISH        "Legacy"
+
+REFERENCE           MENU_LEGACY_ALT
+LANG_ENGLISH        "Legacy Flipped"
+
+REFERENCE           MENU_LEGACY_SOUTHPAW
+LANG_ENGLISH        "Legacy Southpaw"
+
+REFERENCE           MENU_LEVEL
+LANG_ENGLISH        "Level"
+
+REFERENCE           MENU_LEVEL_OF_DETAIL
+LANG_ENGLISH        "Level of Detail:  "
+
+REFERENCE           MENU_LMGS_CAPS
+LANG_ENGLISH        "LIGHT MACHINE GUNS"
+
+REFERENCE           MENU_LOAD
+LANG_ENGLISH        "Load"
+
+REFERENCE           MENU_LOADGAME
+LANG_ENGLISH        "Load Game"
+
+REFERENCE           MENU_LOADING_DOTS
+LANG_ENGLISH        "Loading..."
+
+REFERENCE           MENU_LOAD_EXISTING_OFFLINE_PROFILE
+LANG_ENGLISH        "Load"
+
+REFERENCE           MENU_LOAD_LAST_SAVE
+LANG_ENGLISH        "Load Last Save"
+
+REFERENCE           MENU_LOAD_MISSION
+LANG_ENGLISH        "Load Mission?"
+
+REFERENCE           MENU_LOAD_OFFLINE_PROFILE
+LANG_ENGLISH        "Offline Profile"
+
+REFERENCE           MENU_LOAD_SELECTED_GAME
+LANG_ENGLISH        "Load selected game?"
+
+REFERENCE           MENU_LOBBY
+LANG_ENGLISH        "LOBBY"
+
+REFERENCE           MENU_LOBBYPLAYERCOUNT
+LANG_ENGLISH        "&&1/&&2 PLAYERS"
+
+REFERENCE           MENU_LOCATION
+LANG_ENGLISH        "Location:"
+
+REFERENCE           MENU_LOCKED
+LANG_ENGLISH        "Locked"
+
+REFERENCE           MENU_LOD
+LANG_ENGLISH        "LOD:  "
+
+REFERENCE           MENU_LOGIN
+LANG_ENGLISH        "Log In"
+
+REFERENCE           MENU_LOOK
+LANG_ENGLISH        "Look"
+
+REFERENCE           MENU_LOOK_DOWN
+LANG_ENGLISH        "Look Down"
+
+REFERENCE           MENU_LOOK_INVERSION
+LANG_ENGLISH        "Look Inversion"
+
+REFERENCE           MENU_LOOK_INVERSION_CAPS
+LANG_ENGLISH        "LOOK INVERSION"
+
+REFERENCE           MENU_LOOK_SENSITIVITY
+LANG_ENGLISH        "Sensitivity"
+
+REFERENCE           MENU_LOOK_SENSITIVITY_CAPS
+LANG_ENGLISH        "SENSITIVITY"
+
+REFERENCE           MENU_LOOK_UP
+LANG_ENGLISH        "Look Up"
+
+REFERENCE           MENU_LOOK_UP_DOWN
+LANG_ENGLISH        "Look\nUp/Down"
+
+REFERENCE           MENU_LOSING
+LANG_ENGLISH        "Losing"
+
+REFERENCE           MENU_LOSSES
+LANG_ENGLISH        "Losses"
+
+REFERENCE           MENU_LOW
+LANG_ENGLISH        "Low"
+
+REFERENCE           MENU_LOWER_DIFFICULTY
+LANG_ENGLISH        "Lower Difficulty"
+
+REFERENCE           MENU_LOWER_DIFFICULTY_1_0
+LANG_ENGLISH        "Lower the difficulty from Regular to Recruit for all missions?"
+
+REFERENCE           MENU_LOWER_DIFFICULTY_1_0_BUTTON
+LANG_ENGLISH        "Lower to Recruit"
+
+REFERENCE           MENU_LOWER_DIFFICULTY_2_1
+LANG_ENGLISH        "Lower the difficulty from Hardened to Regular for all missions?"
+
+REFERENCE           MENU_LOWER_DIFFICULTY_2_1_BUTTON
+LANG_ENGLISH        "Lower to Regular"
+
+REFERENCE           MENU_LOWER_DIFFICULTY_3_2
+LANG_ENGLISH        "Lower the difficulty from Veteran to Hardened for all missions?"
+
+REFERENCE           MENU_LOWER_DIFFICULTY_3_2_BUTTON
+LANG_ENGLISH        "Lower to Hardened"
+
+REFERENCE           MENU_LOW_QUALITY_SKY
+LANG_ENGLISH        "Low Quality Sky"
+
+REFERENCE           MENU_MACHINE_PISTOLS_CAPS
+LANG_ENGLISH        "MACHINE PISTOLS"
+
+REFERENCE           MENU_MAIN_MENU
+LANG_ENGLISH        "Main Menu"
+
+REFERENCE           MENU_MAIN_MENU_CAPS
+LANG_ENGLISH        "MAIN MENU"
+
+REFERENCE           MENU_MAKING_TEAMS
+LANG_ENGLISH        "Making balanced teams"
+
+REFERENCE           MENU_MANUAL
+LANG_ENGLISH        "Manual"
+
+REFERENCE           MENU_MAP
+LANG_ENGLISH        "Map"
+
+REFERENCE           MENU_MAPS
+LANG_ENGLISH        "Maps"
+
+REFERENCE           MENU_MAPVETOSTATUS
+LANG_ENGLISH        "&&1 vote to skip - &&2 needed"
+
+REFERENCE           MENU_MAPVETOSTATUSPLURAL
+LANG_ENGLISH        "&&1 votes to skip - &&2 needed"
+
+REFERENCE           MENU_MAPVOTEPASSED
+LANG_ENGLISH        "Vote passed!"
+
+REFERENCE           MENU_MAP_NAME
+LANG_ENGLISH        "Map Name"
+
+REFERENCE           MENU_MAP_PRE
+LANG_ENGLISH        "MAP: "
+
+REFERENCE           MENU_MAP_PREFERENCES
+LANG_ENGLISH        "Set Location Preferences"
+
+REFERENCE           MENU_MARKSMAN
+LANG_ENGLISH        "Marksman"
+
+REFERENCE           MENU_MASTER_VOLUME
+LANG_ENGLISH        "Volume"
+
+REFERENCE           MENU_MATCH_BEGINNING_IN
+LANG_ENGLISH        "Match beginning in"
+
+REFERENCE           MENU_MATCH_WILL_BEGIN
+LANG_ENGLISH        "The match is about to begin"
+
+REFERENCE           MENU_MAXIMUM
+LANG_ENGLISH        "Maximum"
+
+REFERENCE           MENU_MAXIMUM_PING
+LANG_ENGLISH        "Maximum Ping:  "
+
+REFERENCE           MENU_MAXIMUM_PLAYERS
+LANG_ENGLISH        "Maximum Players:  "
+
+REFERENCE           MENU_MAXIMUM_RATE
+LANG_ENGLISH        "Maximum Rate:  "
+
+REFERENCE           MENU_MEDIUM
+LANG_ENGLISH        "Medium"
+
+REFERENCE           MENU_MELEE_ATTACK
+LANG_ENGLISH        "Melee"
+
+REFERENCE           MENU_MELEE_BREATH
+LANG_ENGLISH        "Melee/Hold Breath"
+
+REFERENCE           MENU_MELEE_STEADY
+LANG_ENGLISH        "Melee/Steady Sniper Rifle"
+
+REFERENCE           MENU_MENU_COULDNT_BE_FOUND
+LANG_ENGLISH        "Menu couldn't be found!"
+
+REFERENCE           MENU_MERGEDLOBBIES
+LANG_ENGLISH        "Lobbies merged successfully"
+
+REFERENCE           MENU_MERGINGLOBBIES
+LANG_ENGLISH        "Trying to merge our lobby with another"
+
+REFERENCE           MENU_MESSAGE_OF_THE_DAY
+LANG_ENGLISH        "Infinity Ward Intel"
+
+REFERENCE           MENU_MINIMUM
+LANG_ENGLISH        "Minimum"
+
+REFERENCE           MENU_MINIMUM_PING
+LANG_ENGLISH        "Minimum Ping:  "
+
+REFERENCE           MENU_MISSES
+LANG_ENGLISH        "Misses"
+
+REFERENCE           MENU_MISSIONS_CAP
+LANG_ENGLISH        "MISSIONS"
+
+REFERENCE           MENU_MISSION_01_02
+LANG_ENGLISH        "Demolition"
+
+REFERENCE           MENU_MISSION_01_02_DESC
+LANG_ENGLISH        "Repel the enemy assault and demolish their hardpoint."
+
+REFERENCE           MENU_MISSION_SELECT
+LANG_ENGLISH        "Mission Select"
+
+REFERENCE           MENU_MISSION_SELECT_CAPS
+LANG_ENGLISH        "MISSION SELECT"
+
+REFERENCE           MENU_MISSION_SELECT_MENU
+LANG_ENGLISH        "Mission Select Menu"
+
+REFERENCE           MENU_MOBILITY
+LANG_ENGLISH        "Mobility:"
+
+REFERENCE           MENU_MODELS_ONLY
+LANG_ENGLISH        "Models Only"
+
+REFERENCE           MENU_MODEL_DETAIL
+LANG_ENGLISH        "Model Detail"
+
+REFERENCE           MENU_MODIFIERS
+LANG_ENGLISH        "Modifiers"
+
+REFERENCE           MENU_MODS
+LANG_ENGLISH        "Mods"
+
+REFERENCE           MENU_MODSWITHCOLON
+LANG_ENGLISH        "Mods:"
+
+REFERENCE           MENU_MONO
+LANG_ENGLISH        "Mono"
+
+REFERENCE           MENU_MORE
+LANG_ENGLISH        "More..."
+
+REFERENCE           MENU_MOUSE_LOOK
+LANG_ENGLISH        "Mouse Look"
+
+REFERENCE           MENU_MOUSE_SENSITIVITY
+LANG_ENGLISH        "Mouse Sensitivity"
+
+REFERENCE           MENU_MOVE
+LANG_ENGLISH        "Move"
+
+REFERENCE           MENU_MOVEMENT
+LANG_ENGLISH        "Movement"
+
+REFERENCE           MENU_MOVE_BACK
+LANG_ENGLISH        "Move Back"
+
+REFERENCE           MENU_MOVE_FORWARD
+LANG_ENGLISH        "Move Forward"
+
+REFERENCE           MENU_MOVE_FORWARD_BACK
+LANG_ENGLISH        "Move\nForward/Back"
+
+REFERENCE           MENU_MOVE_LEFT
+LANG_ENGLISH        "Move Left"
+
+REFERENCE           MENU_MOVE_RIGHT
+LANG_ENGLISH        "Move Right"
+
+REFERENCE           MENU_MULTIPLAYER
+LANG_ENGLISH        "Multiplayer"
+
+REFERENCE           MENU_MULTIPLAYER_CAPS
+LANG_ENGLISH        "MULTIPLAYER"
+
+REFERENCE           MENU_MULTIPLAYER_CONTROLS
+LANG_ENGLISH        "Multiplayer Controls"
+
+REFERENCE           MENU_MULTIPLAYER_OPTIONS
+LANG_ENGLISH        "Multiplayer Options"
+
+REFERENCE           MENU_MULTIPLAYER_OPTIONS_HEADING
+LANG_ENGLISH        "Multiplayer Options"
+
+REFERENCE           MENU_MUSIC_VOLUME
+LANG_ENGLISH        "Music Volume"
+
+REFERENCE           MENU_MUTE_ALL
+LANG_ENGLISH        "Mute All"
+
+REFERENCE           MENU_MY_ASSAULT
+LANG_ENGLISH        "My Assault"
+
+REFERENCE           MENU_MY_DEMOLITIONS
+LANG_ENGLISH        "My Demolitions"
+
+REFERENCE           MENU_MY_HEAVYGUNNER
+LANG_ENGLISH        "My Heavy Gunner"
+
+REFERENCE           MENU_MY_SNIPER
+LANG_ENGLISH        "My Sniper"
+
+REFERENCE           MENU_MY_SPECOPS
+LANG_ENGLISH        "My Spec Ops"
+
+REFERENCE           MENU_NAME
+LANG_ENGLISH        "Name"
+
+REFERENCE           MENU_NAME1
+LANG_ENGLISH        "Name: "
+
+REFERENCE           MENU_NEED_PLAYER_PROFILE
+LANG_ENGLISH        "You need a player profile to play Modern Warfare 2."
+
+REFERENCE           MENU_NETWORK_COOP
+LANG_ENGLISH        "Online"
+
+REFERENCE           MENU_NET_DATA_RATE
+LANG_ENGLISH        "Net Data Rate:"
+
+REFERENCE           MENU_NEW
+LANG_ENGLISH        "New"
+
+REFERENCE           MENU_NEWGAME
+LANG_ENGLISH        "New Game"
+
+REFERENCE           MENU_NEWGAME_CAPS
+LANG_ENGLISH        "NEW GAME"
+
+REFERENCE           MENU_NEWPASSWORD
+LANG_ENGLISH        "New Password:"
+
+REFERENCE           MENU_NEW_FAVORITE
+LANG_ENGLISH        "New Favorite"
+
+REFERENCE           MENU_NEW_PLAYER_NAME
+LANG_ENGLISH        "New Player Name"
+
+REFERENCE           MENU_NEXT_LEVEL
+LANG_ENGLISH        "Next Level"
+
+REFERENCE           MENU_NEXT_MISSION
+LANG_ENGLISH        "Next Mission"
+
+REFERENCE           MENU_NEXT_TIME_THE_SERVER
+LANG_ENGLISH        "next time the game"
+
+REFERENCE           MENU_NEXT_WEAPON
+LANG_ENGLISH        "Next Weapon"
+
+REFERENCE           MENU_NICEST
+LANG_ENGLISH        "Nicest"
+
+REFERENCE           MENU_NIGHT_VISION
+LANG_ENGLISH        "Night Vision"
+
+REFERENCE           MENU_NO
+LANG_ENGLISH        "No"
+
+REFERENCE           MENU_NOMAD
+LANG_ENGLISH        "N0M4D"
+
+REFERENCE           MENU_NOMAD_ALT
+LANG_ENGLISH        "N0M4D Flipped"
+
+REFERENCE           MENU_NONE
+LANG_ENGLISH        "None"
+
+REFERENCE           MENU_NORMAL
+LANG_ENGLISH        "Normal"
+
+REFERENCE           MENU_NORMAL_MAP_RESOLUTION
+LANG_ENGLISH        "Normal Map Resolution"
+
+REFERENCE           MENU_NOSEARCHRESULTS
+LANG_ENGLISH        "No games found"
+
+REFERENCE           MENU_NOTICE
+LANG_ENGLISH        "Notice"
+
+REFERENCE           MENU_NOT_STARTED
+LANG_ENGLISH        "Not Started"
+
+REFERENCE           MENU_NOT_USED
+LANG_ENGLISH        "Not Used"
+
+REFERENCE           MENU_NO_CAPS
+LANG_ENGLISH        "NO"
+
+REFERENCE           MENU_NO_OFFLINE_PROFILE_WARNING
+LANG_ENGLISH        "Select an offline profile\nto save your progress."
+
+REFERENCE           MENU_NO_SAVE_DEVICE_WARNING
+LANG_ENGLISH        "No save device selected; \nyou will not be able to save your game progress."
+
+REFERENCE           MENU_NO_SAVE_DEVICE_WARNING_MP
+LANG_ENGLISH        "You must select a save device to save your progress!"
+
+REFERENCE           MENU_NO_SAVE_DEVICE_WARNING_NOW_OKAY
+LANG_ENGLISH        "You are now able to save your game progress."
+
+REFERENCE           MENU_NO_SIGNIN_WARNING_MP
+LANG_ENGLISH        "Guests do not save progress.  Sign in to retain your stats!"
+
+REFERENCE           MENU_NUMBER_OF_CORPSES
+LANG_ENGLISH        "Number of Corpses"
+
+REFERENCE           MENU_NUMBER_OF_DYNAMIC_LIGHTS
+LANG_ENGLISH        "Number of Dynamic Lights"
+
+REFERENCE           MENU_NUMPLAYERS
+LANG_ENGLISH        "#Players"
+
+REFERENCE           MENU_NVG_WATCH
+LANG_ENGLISH        "Night Vision/Stopwatch"
+
+REFERENCE           MENU_NVIDIA_DISTANCE_FOG
+LANG_ENGLISH        "Nvidia Distance Fog"
+
+REFERENCE           MENU_NVIDIA_FOG_TYPE
+LANG_ENGLISH        "Nvidia fog type"
+
+REFERENCE           MENU_NV_PLANE
+LANG_ENGLISH        "NV Plane"
+
+REFERENCE           MENU_NV_RADIAL
+LANG_ENGLISH        "NV Radial"
+
+REFERENCE           MENU_N_OF_N
+LANG_ENGLISH        "&&1 of &&2"
+
+REFERENCE           MENU_OBJECTIVES_MENU
+LANG_ENGLISH        "Objectives/Menu"
+
+REFERENCE           MENU_OFF
+LANG_ENGLISH        "Off"
+
+REFERENCE           MENU_OFFENSIVETEXT
+LANG_ENGLISH        "Text prohibited due to profanity."
+
+REFERENCE           MENU_OK
+LANG_ENGLISH        "OK"
+
+REFERENCE           MENU_ON
+LANG_ENGLISH        "On"
+
+REFERENCE           MENU_ONE_FLAG
+LANG_ENGLISH        "One Flag CTF"
+
+REFERENCE           MENU_ONLINE_STATS
+LANG_ENGLISH        "Online Stats"
+
+REFERENCE           MENU_ONLINE_STATUS
+LANG_ENGLISH        "Online Status"
+
+REFERENCE           MENU_OPTIMIZE_FOR_DUAL_VIDEO_CARDS
+LANG_ENGLISH        "Dual Video Cards"
+
+REFERENCE           MENU_OPTIONAL
+LANG_ENGLISH        "Optional"
+
+REFERENCE           MENU_OPTIONS
+LANG_ENGLISH        "Options"
+
+REFERENCE           MENU_OPTIONS_CAPS
+LANG_ENGLISH        "OPTIONS"
+
+REFERENCE           MENU_OPTIONS_CONTROLS
+LANG_ENGLISH        "Options - Controls"
+
+REFERENCE           MENU_OPTIONS_SYSTEM
+LANG_ENGLISH        "Options - System"
+
+REFERENCE           MENU_OPTIONS_UPPER_CASE
+LANG_ENGLISH        "OPTIONS"
+
+REFERENCE           MENU_OVERWRITE_EXISTING_FILE
+LANG_ENGLISH        "Overwrite existing file?"
+
+REFERENCE           MENU_PARTY
+LANG_ENGLISH        "PARTY"
+
+REFERENCE           MENU_PARTYPLAYERCOUNT
+LANG_ENGLISH        "&&1 player(s) in &&2's party."
+
+REFERENCE           MENU_PARTYRECONNECT
+LANG_ENGLISH        "Reconnecting to party..."
+
+REFERENCE           MENU_PASSWORD
+LANG_ENGLISH        "Password"
+
+REFERENCE           MENU_PASSWORD1
+LANG_ENGLISH        "Password:  "
+
+REFERENCE           MENU_PASSWORD2
+LANG_ENGLISH        "Reenter Password:"
+
+REFERENCE           MENU_PAUSED_CAP
+LANG_ENGLISH        "PAUSED"
+
+REFERENCE           MENU_PERFORMANCE
+LANG_ENGLISH        "Performance"
+
+REFERENCE           MENU_PERK1_CAPS
+LANG_ENGLISH        "PERK 1"
+
+REFERENCE           MENU_PERK2_CAPS
+LANG_ENGLISH        "PERK 2"
+
+REFERENCE           MENU_PERK3_CAPS
+LANG_ENGLISH        "PERK 3"
+
+REFERENCE           MENU_PERKS_CAPS
+LANG_ENGLISH        "PERKS"
+
+REFERENCE           MENU_PING
+LANG_ENGLISH        "Ping"
+
+REFERENCE           MENU_PLACEHOLDER
+LANG_ENGLISH        "PLACEHOLDER"
+
+REFERENCE           MENU_PLAYER
+LANG_ENGLISH        "Player"
+
+REFERENCE           MENU_PLAYER1
+LANG_ENGLISH        "Player 1"
+
+REFERENCE           MENU_PLAYER2
+LANG_ENGLISH        "Player 2"
+
+REFERENCE           MENU_PLAYER3
+LANG_ENGLISH        "Player 3"
+
+REFERENCE           MENU_PLAYER4
+LANG_ENGLISH        "Player 4"
+
+REFERENCE           MENU_PLAYERCARD
+LANG_ENGLISH        "SELECT YOUR..."
+
+REFERENCE           MENU_PLAYERCARD_CAPS
+LANG_ENGLISH        "CALLSIGN & KILLSTREAKS"
+
+REFERENCE           MENU_PLAYERCARD_DESC
+LANG_ENGLISH        "Personal stats"
+
+REFERENCE           MENU_PLAYERCARD_ICONS
+LANG_ENGLISH        "Emblems"
+
+REFERENCE           MENU_PLAYERCARD_ICONS_DESC
+LANG_ENGLISH        "Choose your emblem."
+
+REFERENCE           MENU_PLAYERCARD_TITLES
+LANG_ENGLISH        "Titles"
+
+REFERENCE           MENU_PLAYERCARD_TITLES_DESC
+LANG_ENGLISH        "Choose your title."
+
+REFERENCE           MENU_PLAYERMATCH_PLAYLISTS
+LANG_ENGLISH        "Player Match Playlists"
+
+REFERENCE           MENU_PLAYERS
+LANG_ENGLISH        "Players"
+
+REFERENCE           MENU_PLAYER_AC130
+LANG_ENGLISH        "AC130"
+
+REFERENCE           MENU_PLAYER_INFANTRY
+LANG_ENGLISH        "Infantry"
+
+REFERENCE           MENU_PLAYER_MATCH
+LANG_ENGLISH        "Player Match"
+
+REFERENCE           MENU_PLAYER_NAME
+LANG_ENGLISH        "Player Name"
+
+REFERENCE           MENU_PLAYER_READY
+LANG_ENGLISH        "Ready"
+
+REFERENCE           MENU_PLAYER_SELECT
+LANG_ENGLISH        "Player Select"
+
+REFERENCE           MENU_PLAY_A_CUSTOM_MATCH_WHICH_WILL_AFFECT_YOUR_RANK
+LANG_ENGLISH        "Play a Custom Match which will affect your Rank"
+
+REFERENCE           MENU_PLAY_A_CUSTOM_MATCH_WHICH_WILL_NOT_AFFECT_YOUR_RANK
+LANG_ENGLISH        "Play a Custom Match which will not affect your Rank"
+
+REFERENCE           MENU_PLAY_A_QUICK_MATCH_WHICH_WILL_AFFECT_YOUR_RANK
+LANG_ENGLISH        "Play a Quick Match which will affect your Rank"
+
+REFERENCE           MENU_PLAY_A_QUICK_MATCH_WHICH_WILL_NOT_AFFECT_YOUR_RANK
+LANG_ENGLISH        "Play a Quick Match which will not affect your Rank"
+
+REFERENCE           MENU_PLAY_DEMO_LEVEL
+LANG_ENGLISH        "Play Demo Level"
+
+REFERENCE           MENU_PLEASE_WAIT
+LANG_ENGLISH        "Please Wait"
+
+REFERENCE           MENU_PLUS
+LANG_ENGLISH        "+&&1"
+
+REFERENCE           MENU_POLISH
+LANG_ENGLISH        "Polish"
+
+REFERENCE           MENU_POPUP_ACCEPTINVITE
+LANG_ENGLISH        "Joining game session, attempt #&&1"
+
+REFERENCE           MENU_POPUP_COMPLETE
+LANG_ENGLISH        "Complete."
+
+REFERENCE           MENU_POPUP_CONNECTION
+LANG_ENGLISH        "Connecting to Matchmaking Server"
+
+REFERENCE           MENU_POPUP_PLAYLISTS
+LANG_ENGLISH        "Fetching Playlists"
+
+REFERENCE           MENU_POPUP_STATS
+LANG_ENGLISH        "Updating Rank and Unlocks"
+
+REFERENCE           MENU_PRESS_START
+LANG_ENGLISH        "Press START button"
+
+REFERENCE           MENU_PRESS_START_TO_SKIP
+LANG_ENGLISH        "Press START button to skip"
+
+REFERENCE           MENU_PRESTIGE_ENTER
+LANG_ENGLISH        "Enter Prestige"
+
+REFERENCE           MENU_PRESTIGE_RESET_TITLE1
+LANG_ENGLISH        "Do it all again?"
+
+REFERENCE           MENU_PRESTIGE_RESET_TITLE2
+LANG_ENGLISH        "More Info"
+
+REFERENCE           MENU_PRESTIGE_RESET_TITLE3
+LANG_ENGLISH        "Last Chance..."
+
+REFERENCE           MENU_PRESTIGE_RESET_WARNING1
+LANG_ENGLISH        "Trade all of your accomplishments for a bit of prestige.  In addition to your new prestige rank icon, you'll gain access to some new titles, emblems and challenges.\n\nOther players will see your new prestige rank icon in the lobby, leaderboards, and game."
+
+REFERENCE           MENU_PRESTIGE_RESET_WARNING2
+LANG_ENGLISH        "Prestige has a price: Everything you've unlocked including weapons, experience and challenges will be reset; you'll have to rank up again to reacquire them.\n\nOnly your Leaderboard rankings, titles, emblems, clan tag and play lists will be unaffected."
+
+REFERENCE           MENU_PRESTIGE_RESET_WARNING3
+LANG_ENGLISH        "There's no going back..."
+
+REFERENCE           MENU_PREVIOUS_WEAPON
+LANG_ENGLISH        "Previous Weapon"
+
+REFERENCE           MENU_PRIMARY_ATTRIBUTES
+LANG_ENGLISH        "Primary Attributes"
+
+REFERENCE           MENU_PRIMARY_CAPS
+LANG_ENGLISH        "PRIMARY"
+
+REFERENCE           MENU_PRIMARY_WEAPONS
+LANG_ENGLISH        "Primary Weapons"
+
+REFERENCE           MENU_PRIVATE_MATCH
+LANG_ENGLISH        "Private Match"
+
+REFERENCE           MENU_PRIVATE_MATCH_CAPS
+LANG_ENGLISH        "PRIVATE MATCH"
+
+REFERENCE           MENU_PROFILE_CREATE_TOO_MANY
+LANG_ENGLISH        "There are no free profile slots.\n\nRemove an old profile first."
+
+REFERENCE           MENU_PROFILE_CREATION_FAILED
+LANG_ENGLISH        "Profile creation failed.\n\nMake sure the disk isn't full and\nthat you have file write privileges.\n"
+
+REFERENCE           MENU_PROFILE_DELETION_FAILED
+LANG_ENGLISH        "Profile deletion failed.\n\nThere may be some read-only files,\nor you may not have file write privileges.\n"
+
+REFERENCE           MENU_PROFILE_WARNING
+LANG_ENGLISH        "You are not signed in to a profile. If you do not sign in you will be unable to save your progress. Do you wish to continue?"
+
+REFERENCE           MENU_PROGRESS_WILL_BE_LOST
+LANG_ENGLISH        "Loading a level will cause you to lose your progress in a level you have not yet completed."
+
+REFERENCE           MENU_PROLOGUE
+LANG_ENGLISH        "Prologue"
+
+REFERENCE           MENU_PRONE
+LANG_ENGLISH        "Prone"
+
+REFERENCE           MENU_PROTOTYPE_LEVEL_30_SCRIPTED
+LANG_ENGLISH        "Prototype Level, 30% scripted"
+
+REFERENCE           MENU_PUBLIC_PLAYLISTS
+LANG_ENGLISH        "Public Playlists"
+
+REFERENCE           MENU_PURE
+LANG_ENGLISH        "Pure:  "
+
+REFERENCE           MENU_QUALITY
+LANG_ENGLISH        "Quality"
+
+REFERENCE           MENU_QUALITY_RECOMMENDED
+LANG_ENGLISH        "Quality:  Recommended"
+
+REFERENCE           MENU_QUICK_CHAT
+LANG_ENGLISH        "Quick Chat"
+
+REFERENCE           MENU_QUICK_LOAD
+LANG_ENGLISH        "Quick Load"
+
+REFERENCE           MENU_QUICK_MATCH
+LANG_ENGLISH        "Quick Match"
+
+REFERENCE           MENU_QUICK_MATCH_RANKED
+LANG_ENGLISH        "Quick Match: Ranked"
+
+REFERENCE           MENU_QUICK_MATCH_STANDARD
+LANG_ENGLISH        "Quick Match: Standard"
+
+REFERENCE           MENU_QUICK_OPTIONS
+LANG_ENGLISH        "Quick Options"
+
+REFERENCE           MENU_QUICK_REFRESH
+LANG_ENGLISH        "Quick Refresh"
+
+REFERENCE           MENU_QUICK_SAVE
+LANG_ENGLISH        "Quick Save"
+
+REFERENCE           MENU_QUIT
+LANG_ENGLISH        "Quit"
+
+REFERENCE           MENU_QUIT_CAPS
+LANG_ENGLISH        "QUIT"
+
+REFERENCE           MENU_QUIT_CURRENT_GAME
+LANG_ENGLISH        "Quit Current Game?"
+
+REFERENCE           MENU_QUIT_NO_SAVE
+LANG_ENGLISH        "Quit Without Saving"
+
+REFERENCE           MENU_QUIT_TEXT_1
+LANG_ENGLISH        "If you quit now, you will lose "
+
+REFERENCE           MENU_QUIT_WARNING
+LANG_ENGLISH        "Are you sure you want to quit?"
+
+REFERENCE           MENU_QUIT_WARNING_ARCADE
+LANG_ENGLISH        "If you quit you will lose current level progress."
+
+REFERENCE           MENU_RAGDOLL
+LANG_ENGLISH        "Ragdoll"
+
+REFERENCE           MENU_RANDOM
+LANG_ENGLISH        "Random"
+
+REFERENCE           MENU_RANGE
+LANG_ENGLISH        "Range:"
+
+REFERENCE           MENU_RANK
+LANG_ENGLISH        "Rank"
+
+REFERENCE           MENU_RANKED_DESCRIPTION
+LANG_ENGLISH        "Find a ranked match for competitive play. Friends can not be invited to ranked matches."
+
+REFERENCE           MENU_RANKED_MATCH
+LANG_ENGLISH        "Ranked Match"
+
+REFERENCE           MENU_RANKING
+LANG_ENGLISH        "Ranking:"
+
+REFERENCE           MENU_RANK_AND_CHALLENGES
+LANG_ENGLISH        "Rank & Challenges"
+
+REFERENCE           MENU_RANK_AND_CHALLENGES_CAP
+LANG_ENGLISH        "RANK & CHALLENGES"
+
+REFERENCE           MENU_RATIO
+LANG_ENGLISH        "Ratio"
+
+REFERENCE           MENU_READING_SAVE_DEVICE
+LANG_ENGLISH        "READING SAVE DEVICE"
+
+REFERENCE           MENU_RECOMMENDED_VIDEO_SETTINGS
+LANG_ENGLISH        "recommended video settings"
+
+REFERENCE           MENU_RECONNECTING_TO_PARTY
+LANG_ENGLISH        "WAITING FOR PARTY LEADER"
+
+REFERENCE           MENU_RECRUIT
+LANG_ENGLISH        "Recruit"
+
+REFERENCE           MENU_RECRUIT_CAPS
+LANG_ENGLISH        "RECRUIT"
+
+REFERENCE           MENU_RED
+LANG_ENGLISH        "Red"
+
+REFERENCE           MENU_REFLECT
+LANG_ENGLISH        "Reflect"
+
+REFERENCE           MENU_REFLECTED_DAMAGE
+LANG_ENGLISH        "Reflected Damage"
+
+REFERENCE           MENU_REFRESH
+LANG_ENGLISH        "Refresh"
+
+REFERENCE           MENU_REFRESH_LIST
+LANG_ENGLISH        "Refresh List"
+
+REFERENCE           MENU_REGULAR
+LANG_ENGLISH        "Regular"
+
+REFERENCE           MENU_REGULAR_CAPS
+LANG_ENGLISH        "REGULAR"
+
+REFERENCE           MENU_REGULAR_DESC_3
+LANG_ENGLISH        "For players who are new to"
+
+REFERENCE           MENU_REGULAR_DESC_4
+LANG_ENGLISH        "first person action games."
+
+REFERENCE           MENU_RELOAD_WEAPON
+LANG_ENGLISH        "Reload"
+
+REFERENCE           MENU_RENAME
+LANG_ENGLISH        "Rename"
+
+REFERENCE           MENU_RENAME_CAPS
+LANG_ENGLISH        "RENAME"
+
+REFERENCE           MENU_RENDERING_METHOD_PREFERENCE
+LANG_ENGLISH        "Shader Version"
+
+REFERENCE           MENU_RESELECT_SAVE_DEVICE
+LANG_ENGLISH        "Re-Select Save Device"
+
+REFERENCE           MENU_RESET
+LANG_ENGLISH        "Reset"
+
+REFERENCE           MENU_RESETCUSTOMCLASSES
+LANG_ENGLISH        "Your rank and unlocked items have been reset."
+
+REFERENCE           MENU_RESET_CLASS_CAPS
+LANG_ENGLISH        "RESET CLASS"
+
+REFERENCE           MENU_RESET_SYSTEM_DEFAULTS
+LANG_ENGLISH        "Optimal Video and Audio"
+
+REFERENCE           MENU_RESET_TO
+LANG_ENGLISH        "Reset to"
+
+REFERENCE           MENU_RESET_TO_DEFAULT
+LANG_ENGLISH        "Reset to Default"
+
+REFERENCE           MENU_RESET_TO_DEFAULTS
+LANG_ENGLISH        "Reset to Default"
+
+REFERENCE           MENU_RESTART_LEVEL
+LANG_ENGLISH        "Restart Level"
+
+REFERENCE           MENU_RESTART_LEVEL_Q
+LANG_ENGLISH        "Restart Level?"
+
+REFERENCE           MENU_RESTART_MISSION
+LANG_ENGLISH        "Restart Mission"
+
+REFERENCE           MENU_RESTART_TEXT_1
+LANG_ENGLISH        "If you restart now, you will lose "
+
+REFERENCE           MENU_RESTART_TEXT_2
+LANG_ENGLISH        "any progress that you have made "
+
+REFERENCE           MENU_RESTART_TEXT_3
+LANG_ENGLISH        "in this mission."
+
+REFERENCE           MENU_RESTORE_DEFAULTS
+LANG_ENGLISH        "Restore Optimal Video and Audio settings?"
+
+REFERENCE           MENU_RESTORE_DEFAULT_CONTROLS
+LANG_ENGLISH        "Reset Controls"
+
+REFERENCE           MENU_RESTORE_EACH_SETTING
+LANG_ENGLISH        "Reset controls back to default settings?"
+
+REFERENCE           MENU_RESUMEGAME
+LANG_ENGLISH        "Resume Game"
+
+REFERENCE           MENU_RESUMEGAME_CAPS
+LANG_ENGLISH        "RESUME GAME"
+
+REFERENCE           MENU_RESUMEGAME_NOSAVE
+LANG_ENGLISH        "Resume Without Saving"
+
+REFERENCE           MENU_RESUMEGAME_NOSAVE_MP
+LANG_ENGLISH        "Continue Without Saving"
+
+REFERENCE           MENU_RESUMEGAME_Q
+LANG_ENGLISH        "Resume Game?"
+
+REFERENCE           MENU_RESUME_CREDITS
+LANG_ENGLISH        "Resume Credits"
+
+REFERENCE           MENU_RETRY_SAVE
+LANG_ENGLISH        "Retry Save"
+
+REFERENCE           MENU_RETURN
+LANG_ENGLISH        "Return to game"
+
+REFERENCE           MENU_RETURN_SELECT_SAVE_DEVICE_MP
+LANG_ENGLISH        "Select Save Device"
+
+REFERENCE           MENU_RETURN_SIGNIN_MP
+LANG_ENGLISH        "Return to Sign In Menu"
+
+REFERENCE           MENU_RIGHT
+LANG_ENGLISH        "Right"
+
+REFERENCE           MENU_RIOT_SHIELD_CAPS
+LANG_ENGLISH        "RIOT SHIELD"
+
+REFERENCE           MENU_ROCKETS_CAPS
+LANG_ENGLISH        "LAUNCHERS"
+
+REFERENCE           MENU_ROTATE_LEFT_RIGHT
+LANG_ENGLISH        "Rotate Left/Right"
+
+REFERENCE           MENU_ROUND_LENGTH
+LANG_ENGLISH        "Round Length (minutes):  "
+
+REFERENCE           MENU_ROUND_LENGTH1
+LANG_ENGLISH        "Round Length"
+
+REFERENCE           MENU_ROUND_LENGTH2
+LANG_ENGLISH        "Round Length:"
+
+REFERENCE           MENU_ROUND_LIMIT
+LANG_ENGLISH        "Round Limit (rounds):  "
+
+REFERENCE           MENU_ROUND_LIMIT1
+LANG_ENGLISH        "Round Limit"
+
+REFERENCE           MENU_ROUND_LIMIT2
+LANG_ENGLISH        "Round Limit:"
+
+REFERENCE           MENU_RUSSIAN
+LANG_ENGLISH        "Russian"
+
+REFERENCE           MENU_R_CIRCLE
+LANG_ENGLISH        "®"
+
+REFERENCE           MENU_SAB_DANGER
+LANG_ENGLISH        "Losing Ground"
+
+REFERENCE           MENU_SAB_NEUTRAL
+LANG_ENGLISH        "Neutral"
+
+REFERENCE           MENU_SAB_SAFE
+LANG_ENGLISH        "Gaining Ground"
+
+REFERENCE           MENU_SAFE
+LANG_ENGLISH        "Safe"
+
+REFERENCE           MENU_SAFE_MODE
+LANG_ENGLISH        "Safe Mode"
+
+REFERENCE           MENU_SAVE
+LANG_ENGLISH        "Save"
+
+REFERENCE           MENU_SAVEAS
+LANG_ENGLISH        "Save As:"
+
+REFERENCE           MENU_SAVEDATA_CORRUPTED
+LANG_ENGLISH        "Unable to resume current level because save data is corrupted. Please restart the level from \"Mission Select\"."
+
+REFERENCE           MENU_SAVEGAMELIST
+LANG_ENGLISH        "Save Game List"
+
+REFERENCE           MENU_SAVELOADGAME
+LANG_ENGLISH        "Save/Load Game"
+
+REFERENCE           MENU_SAVEQUIT_TEXT_1
+LANG_ENGLISH        "If you save now, "
+
+REFERENCE           MENU_SAVEQUIT_TEXT_2
+LANG_ENGLISH        "you will lose any progress "
+
+REFERENCE           MENU_SAVEQUIT_TEXT_3
+LANG_ENGLISH        "since your last checkpoint. "
+
+REFERENCE           MENU_SAVE_CORRUPTED
+LANG_ENGLISH        "Save Corrupted"
+
+REFERENCE           MENU_SAVE_DEVICE
+LANG_ENGLISH        "Save Device"
+
+REFERENCE           MENU_SAVE_ERROR
+LANG_ENGLISH        "Unable to Write to Default Save Device"
+
+REFERENCE           MENU_SAVE_ERROR_MP
+LANG_ENGLISH        "Progress Won't Be Saved"
+
+REFERENCE           MENU_SAVE_ERROR_NOW_OKAY
+LANG_ENGLISH        "Save Device Selected"
+
+REFERENCE           MENU_SAVE_INTERACT
+LANG_ENGLISH        "Save/Interact"
+
+REFERENCE           MENU_SAVING
+LANG_ENGLISH        "Saving..."
+
+REFERENCE           MENU_SCOREBOARD
+LANG_ENGLISH        "Scoreboard"
+
+REFERENCE           MENU_SCORE_FRIENDS_CAP
+LANG_ENGLISH        "LEADERBOARD - SCORE (FRIENDS)"
+
+REFERENCE           MENU_SCORE_GLOBAL_CAP
+LANG_ENGLISH        "LEADERBOARD - SCORE (GLOBAL)"
+
+REFERENCE           MENU_SCORE_LIMIT
+LANG_ENGLISH        "Score Limit"
+
+REFERENCE           MENU_SCORE_LIMIT1
+LANG_ENGLISH        "Score Limit:"
+
+REFERENCE           MENU_SCORE_LIMIT_PLAYER_POINTS
+LANG_ENGLISH        "Score Limit (player points):  "
+
+REFERENCE           MENU_SCORE_LIMIT_TEAM_POINTS
+LANG_ENGLISH        "Score Limit (team points):  "
+
+REFERENCE           MENU_SCORE_LOSING
+LANG_ENGLISH        "Losing &&1 - &&2"
+
+REFERENCE           MENU_SCORE_LOSING_WITH
+LANG_ENGLISH        "Losing with &&1 of &&2 points."
+
+REFERENCE           MENU_SCORE_TIED
+LANG_ENGLISH        "Tied &&1 - &&2"
+
+REFERENCE           MENU_SCORE_TIED_WITH
+LANG_ENGLISH        "Tied with &&1 of &&2 points."
+
+REFERENCE           MENU_SCORE_WINNING
+LANG_ENGLISH        "Winning &&1 - &&2"
+
+REFERENCE           MENU_SCORE_WINNING_WITH
+LANG_ENGLISH        "Winning with &&1 of &&2 points."
+
+REFERENCE           MENU_SCREENSHOT
+LANG_ENGLISH        "Screenshot"
+
+REFERENCE           MENU_SCREEN_REFRESH_RATE
+LANG_ENGLISH        "Screen Refresh Rate"
+
+REFERENCE           MENU_SEARCHINGFORGAMES_100MS
+LANG_ENGLISH        "Finding games - 100ms ping"
+
+REFERENCE           MENU_SEARCHINGFORGAMES_150MS
+LANG_ENGLISH        "Finding games - 150ms ping"
+
+REFERENCE           MENU_SEARCHINGFORGAMES_200MS
+LANG_ENGLISH        "Finding games - 200ms ping"
+
+REFERENCE           MENU_SEARCHINGFORGAMES_250MS
+LANG_ENGLISH        "Finding games - 250ms ping"
+
+REFERENCE           MENU_SEARCHINGFORGAMES_300MS
+LANG_ENGLISH        "Finding games - 300ms ping"
+
+REFERENCE           MENU_SEARCHINGFORGAMES_350MS
+LANG_ENGLISH        "Finding games - 350ms ping"
+
+REFERENCE           MENU_SEARCHINGFORGAMES_50MS
+LANG_ENGLISH        "Finding games - 50ms ping"
+
+REFERENCE           MENU_SEARCHING_FOR_LOBBY
+LANG_ENGLISH        "Searching for available games"
+
+REFERENCE           MENU_SEARCHING_FOR_OPPONENTS
+LANG_ENGLISH        "Searching for opponents"
+
+REFERENCE           MENU_SEARCHRESULTCOUNT
+LANG_ENGLISH        "&&1 potential games found"
+
+REFERENCE           MENU_SEARCH_AND_DESTROY
+LANG_ENGLISH        "Search and Destroy"
+
+REFERENCE           MENU_SECONDARY_CAPS
+LANG_ENGLISH        "SECONDARY"
+
+REFERENCE           MENU_SECONDARY_INVENTORY
+LANG_ENGLISH        "Secondary Inventory"
+
+REFERENCE           MENU_SECONDARY_WEAPONS
+LANG_ENGLISH        "Secondary Weapons"
+
+REFERENCE           MENU_SELECT_ARCADEMODE
+LANG_ENGLISH        "Choose Arcade Mode"
+
+REFERENCE           MENU_SELECT_DIFFICULTY
+LANG_ENGLISH        "Select Difficulty"
+
+REFERENCE           MENU_SELECT_DIFFICULTY_PERSONAL
+LANG_ENGLISH        "Difficulty"
+
+REFERENCE           MENU_SELECT_DIFFICULTY_PLAYER_1
+LANG_ENGLISH        "Select Difficulty for Player 1"
+
+REFERENCE           MENU_SELECT_DIFFICULTY_PLAYER_2
+LANG_ENGLISH        "Select Difficulty for Player 2"
+
+REFERENCE           MENU_SELECT_FIRST_WEAPON
+LANG_ENGLISH        "Select First Weapon"
+
+REFERENCE           MENU_SELECT_GAMETYPE
+LANG_ENGLISH        "Select the game type to play."
+
+REFERENCE           MENU_SELECT_GAME_TYPE
+LANG_ENGLISH        "Select Game Type"
+
+REFERENCE           MENU_SELECT_GRENADE
+LANG_ENGLISH        "Select Grenade"
+
+REFERENCE           MENU_SELECT_LEVEL
+LANG_ENGLISH        "Select Level"
+
+REFERENCE           MENU_SELECT_MATCH_TYPE
+LANG_ENGLISH        "Select Match Type"
+
+REFERENCE           MENU_SELECT_MOD_NAME_TO_LAUNCH
+LANG_ENGLISH        "Select MOD name to Launch"
+
+REFERENCE           MENU_SELECT_NEXT_MISSION
+LANG_ENGLISH        "Select Next Mission"
+
+REFERENCE           MENU_SELECT_PISTOL
+LANG_ENGLISH        "Select Pistol"
+
+REFERENCE           MENU_SELECT_PROFILE
+LANG_ENGLISH        "Select Profile"
+
+REFERENCE           MENU_SELECT_SAVE_DEVICE
+LANG_ENGLISH        "Select Save Device"
+
+REFERENCE           MENU_SELECT_SECOND_WEAPON
+LANG_ENGLISH        "Select Second Weapon"
+
+REFERENCE           MENU_SENSITIVITY_CAP
+LANG_ENGLISH        "SENSITIVITY"
+
+REFERENCE           MENU_SENSITIVITY_CUSTOM_CAP
+LANG_ENGLISH        "SENSITIVITY CUSTOM"
+
+REFERENCE           MENU_SENSITIVITY_HIGH_N
+LANG_ENGLISH        "(High) &&1"
+
+REFERENCE           MENU_SENSITIVITY_INSANE_N
+LANG_ENGLISH        "(Insane) &&1"
+
+REFERENCE           MENU_SENSITIVITY_LOW_N
+LANG_ENGLISH        "(Low) &&1"
+
+REFERENCE           MENU_SENSITIVITY_MEDIUM_N
+LANG_ENGLISH        "(Medium) &&1"
+
+REFERENCE           MENU_SENSITIVITY_VERY_HIGH_N
+LANG_ENGLISH        "(Very High) &&1"
+
+REFERENCE           "MENU_SERVER NAME"
+LANG_ENGLISH        "Server Name"
+
+REFERENCE           MENU_SERVER_INFO
+LANG_ENGLISH        "Server Info"
+
+REFERENCE           MENU_SERVER_INFORMATION
+LANG_ENGLISH        "Server Information"
+
+REFERENCE           MENU_SERVER_NAME
+LANG_ENGLISH        "Server Name:  "
+
+REFERENCE           MENU_SERVER_SETTINGS
+LANG_ENGLISH        "Server Settings"
+
+REFERENCE           MENU_SETTINGS
+LANG_ENGLISH        "Settings"
+
+REFERENCE           MENU_SETTINGS_AND_RETURN
+LANG_ENGLISH        "settings and return"
+
+REFERENCE           MENU_SETTINGS_RESET
+LANG_ENGLISH        "Your control settings have been reset."
+
+REFERENCE           MENU_SETTINGS_WILL_BE_APPLIED_NEXT_TIME
+LANG_ENGLISH        "Settings will be applied next time"
+
+REFERENCE           MENU_SETTINGS_WILL_BE_REAPPLIED
+LANG_ENGLISH        "Settings will be applied"
+
+REFERENCE           MENU_SET_DEFAULT_CONTROLS
+LANG_ENGLISH        "Restore Defaults"
+
+REFERENCE           MENU_SET_MAP_PREFERENCES
+LANG_ENGLISH        "Set your preferences for what locations you like to play"
+
+REFERENCE           MENU_SET_RECOMMENDED
+LANG_ENGLISH        "Set Recommended"
+
+REFERENCE           MENU_SHADOWS
+LANG_ENGLISH        "Shadows"
+
+REFERENCE           MENU_SHARED
+LANG_ENGLISH        "Shared"
+
+REFERENCE           MENU_SHARED_DAMAGE
+LANG_ENGLISH        "Shared Damage"
+
+REFERENCE           MENU_SHOOT
+LANG_ENGLISH        "Shoot..."
+
+REFERENCE           MENU_SHOTGUNS_CAPS
+LANG_ENGLISH        "SHOTGUNS"
+
+REFERENCE           MENU_SHOWAUTOSAVES
+LANG_ENGLISH        "Show Auto Saves"
+
+REFERENCE           MENU_SHOWMANUALSAVES
+LANG_ENGLISH        "Show Manual Saves"
+
+REFERENCE           MENU_SHOW_BLOOD
+LANG_ENGLISH        "Show Blood"
+
+REFERENCE           MENU_SHOW_COMPASS
+LANG_ENGLISH        "Show Compass:"
+
+REFERENCE           MENU_SHOW_MAX_LIVES
+LANG_ENGLISH        "Show Max Lives:"
+
+REFERENCE           MENU_SHOW_OBJECTIVES_SCORES
+LANG_ENGLISH        "Show Objectives/Scores"
+
+REFERENCE           MENU_SHOW_SCORES
+LANG_ENGLISH        "Show Scores:"
+
+REFERENCE           MENU_SHOW_TOURNEY
+LANG_ENGLISH        "Show Tourney:"
+
+REFERENCE           MENU_SIGN_IN
+LANG_ENGLISH        "Sign In"
+
+REFERENCE           MENU_SINGLE_PLAYER
+LANG_ENGLISH        "Single Player"
+
+REFERENCE           MENU_SINGLE_PLAYER_CAPS
+LANG_ENGLISH        "SINGLE PLAYER"
+
+REFERENCE           MENU_SKILLED_DESC
+LANG_ENGLISH        "Your abilities in combat"
+
+REFERENCE           MENU_SKILLED_DESC_2
+LANG_ENGLISH        "will be tested."
+
+REFERENCE           MENU_SMALL
+LANG_ENGLISH        "Small"
+
+REFERENCE           MENU_SMGS_CAPS
+LANG_ENGLISH        "SUB MACHINE GUNS"
+
+REFERENCE           MENU_SMOOTH_MOUSE
+LANG_ENGLISH        "Smooth Mouse"
+
+REFERENCE           MENU_SNIPER_RIFLES_CAPS
+LANG_ENGLISH        "SNIPER RIFLES"
+
+REFERENCE           MENU_SOUND
+LANG_ENGLISH        "Sound"
+
+REFERENCE           MENU_SOUND_EQ
+LANG_ENGLISH        "EQ Filter"
+
+REFERENCE           MENU_SOUND_QUALITY
+LANG_ENGLISH        "Sound Quality"
+
+REFERENCE           MENU_SOUTHPAW
+LANG_ENGLISH        "Southpaw"
+
+REFERENCE           MENU_SPANISH
+LANG_ENGLISH        "Spanish"
+
+REFERENCE           MENU_SPEAKER_CONFIG
+LANG_ENGLISH        "Speaker Config"
+
+REFERENCE           MENU_SPECIAL_FEATURES
+LANG_ENGLISH        "Cheats"
+
+REFERENCE           MENU_SPECIAL_GRENADE_CAPS
+LANG_ENGLISH        "SPECIAL GRENADE"
+
+REFERENCE           MENU_SPECIAL_OPS
+LANG_ENGLISH        "Special Ops"
+
+REFERENCE           MENU_SPECIAL_OPS_CAPS
+LANG_ENGLISH        "SPECIAL OPS"
+
+REFERENCE           MENU_SPECOP_SELECT_AC130_PILOT
+LANG_ENGLISH        "Select AC130 Pilot"
+
+REFERENCE           MENU_SPECTATOR
+LANG_ENGLISH        "Spectator"
+
+REFERENCE           MENU_SPECTATOR_MODE
+LANG_ENGLISH        "Spectator Mode"
+
+REFERENCE           MENU_SPECULAR_MAP
+LANG_ENGLISH        "Specular Map"
+
+REFERENCE           MENU_SPECULAR_MAP_RESOLUTION
+LANG_ENGLISH        "Specular Map Resolution"
+
+REFERENCE           MENU_SPLITSCREEN_CAPS
+LANG_ENGLISH        "SPLIT SCREEN"
+
+REFERENCE           MENU_SPLIT_SCREEN
+LANG_ENGLISH        "Split Screen"
+
+REFERENCE           MENU_SPLIT_SCREEN_OFFLINE
+LANG_ENGLISH        "Split Screen Offline"
+
+REFERENCE           MENU_SPLIT_SCREEN_SETUP
+LANG_ENGLISH        "SPLIT SCREEN SETUP"
+
+REFERENCE           MENU_SPLIT_SCREEN_SIGNIN
+LANG_ENGLISH        "SPLIT SCREEN SIGN IN"
+
+REFERENCE           MENU_SPRINT
+LANG_ENGLISH        "Sprint"
+
+REFERENCE           MENU_SPRINT_HOLD_BREATH
+LANG_ENGLISH        "Sprint/Hold Breath"
+
+REFERENCE           MENU_SPRINT_STEADY_SNIPER_RIFLE
+LANG_ENGLISH        "Sprint/Steady Sniper Rifle"
+
+REFERENCE           MENU_SP_69STAR_GRATZ
+LANG_ENGLISH        "Congratulations! \nYou've completed Special Ops."
+
+REFERENCE           MENU_SP_ACT_III_CAPS
+LANG_ENGLISH        "ACT III"
+
+REFERENCE           MENU_SP_ACT_II_CAPS
+LANG_ENGLISH        "ACT II"
+
+REFERENCE           MENU_SP_ACT_I_CAPS
+LANG_ENGLISH        "ACT I"
+
+REFERENCE           MENU_SP_AFTERMATH_DESC
+LANG_ENGLISH        "..."
+
+REFERENCE           MENU_SP_AIRPLANE_DESC
+LANG_ENGLISH        "???"
+
+REFERENCE           MENU_SP_ARE_YOU_ABSOLUTELY_SURE
+LANG_ENGLISH        "Are you absolutely sure?"
+
+REFERENCE           MENU_SP_CAMPAIGN
+LANG_ENGLISH        "CAMPAIGN"
+
+REFERENCE           MENU_SP_CAMPAIGN_INCOMPLETE
+LANG_ENGLISH        "Campaign not complete"
+
+REFERENCE           MENU_SP_CHANGE_OP
+LANG_ENGLISH        "Change Op"
+
+REFERENCE           MENU_SP_CHANGE_OP_DESC
+LANG_ENGLISH        "Choose a different Operation."
+
+REFERENCE           MENU_SP_CHOOSE_A_DIFFERENT_OP
+LANG_ENGLISH        "Choose a different Op"
+
+REFERENCE           MENU_SP_CLASSIFIED
+LANG_ENGLISH        "Classified"
+
+REFERENCE           MENU_SP_COMPLETION
+LANG_ENGLISH        "completion"
+
+REFERENCE           MENU_SP_COMPLETION_DOT_PERCENT
+LANG_ENGLISH        "completion &&1.&&2%"
+
+REFERENCE           MENU_SP_COMPLETION_PERCENT
+LANG_ENGLISH        "completion &&1%"
+
+REFERENCE           MENU_SP_CONTINUE_TO_MULTIPLAYER
+LANG_ENGLISH        "Continue to Multiplayer"
+
+REFERENCE           MENU_SP_CONTINUE_TO_SPECIAL_OPS
+LANG_ENGLISH        "Continue to Special Ops"
+
+REFERENCE           MENU_SP_CREDITS_CAPS
+LANG_ENGLISH        "CREDITS"
+
+REFERENCE           MENU_SP_CURRENT_LEVEL_INTELS
+LANG_ENGLISH        "&&1/&&2 Intel Items found"
+
+REFERENCE           MENU_SP_CURRENT_LEVEL_INTEL_TITLE
+LANG_ENGLISH        "enemy intelligence"
+
+REFERENCE           MENU_SP_DESC_MULTIPLAYER
+LANG_ENGLISH        "Rank up, unlock new weapons, perks, killstreaks, and much more online and locally."
+
+REFERENCE           MENU_SP_DESC_SINGLEPLAYER
+LANG_ENGLISH        "Pick up the story where Modern Warfare™ ended and continue the single player experience."
+
+REFERENCE           MENU_SP_DESC_SPECIALOPS
+LANG_ENGLISH        "Collect all 69 stars alone or with a friend in a variety of custom challenging missions."
+
+REFERENCE           MENU_SP_DIFFERENT_DIFF
+LANG_ENGLISH        "Different difficulties selected."
+
+REFERENCE           MENU_SP_DIFF_RANKING_0
+LANG_ENGLISH        "None"
+
+REFERENCE           MENU_SP_DIFF_RANKING_1
+LANG_ENGLISH        "Minimal"
+
+REFERENCE           MENU_SP_DIFF_RANKING_2
+LANG_ENGLISH        "Light"
+
+REFERENCE           MENU_SP_DIFF_RANKING_3
+LANG_ENGLISH        "Medium"
+
+REFERENCE           MENU_SP_DIFF_RANKING_4
+LANG_ENGLISH        "Heavy"
+
+REFERENCE           MENU_SP_DIFF_RANKING_5
+LANG_ENGLISH        "Massive"
+
+REFERENCE           MENU_SP_FIRST_DIFFICULTY_STAR
+LANG_ENGLISH        "Complete this Op on Hardened or Veteran difficulty to earn additional stars."
+
+REFERENCE           MENU_SP_FOR_THE_RECORD
+LANG_ENGLISH        "\"For the Record\""
+
+REFERENCE           MENU_SP_FRIEND_LOCK_GROUP_DESC
+LANG_ENGLISH        "Partner has not unlocked this group."
+
+REFERENCE           MENU_SP_FRIEND_LOCK_OP_DESC
+LANG_ENGLISH        "Partner has not unlocked this Op and will not earn any Stars for completing it."
+
+REFERENCE           MENU_SP_FRIEND_UNLOCK_GROUP_HAS
+LANG_ENGLISH        "Has: &&1"
+
+REFERENCE           MENU_SP_FRIEND_UNLOCK_GROUP_REQ
+LANG_ENGLISH        "Requires: &&1"
+
+REFERENCE           MENU_SP_INVITE_FRIEND_PC_CPU
+LANG_ENGLISH        "The player with the fastest CPU should invite."
+
+REFERENCE           MENU_SP_IW_BEST_TIME
+LANG_ENGLISH        "IW Best Time: "
+
+REFERENCE           MENU_SP_IW_INTEL
+LANG_ENGLISH        "Infinity Ward Intel"
+
+REFERENCE           MENU_SP_JEEPRIDE_DESC
+LANG_ENGLISH        "Get the hell out of there!"
+
+REFERENCE           MENU_SP_LAST_CHECKPOINT_CONFIRMATION
+LANG_ENGLISH        "Return to the last checkpoint?"
+
+REFERENCE           MENU_SP_LEAVELOBBY
+LANG_ENGLISH        "Leave Lobby?"
+
+REFERENCE           MENU_SP_LEVEL_AVG_TIME
+LANG_ENGLISH        "Est. Completion Time: "
+
+REFERENCE           MENU_SP_LEVEL_TYPE
+LANG_ENGLISH        "Classification: "
+
+REFERENCE           MENU_SP_LEVEL_YOUR_BEST_TIME
+LANG_ENGLISH        "Your Best Time: "
+
+REFERENCE           MENU_SP_MARGIN_HORIZONTAL_DESC
+LANG_ENGLISH        "Move the slider to adjust the horizontal margin."
+
+REFERENCE           MENU_SP_MARGIN_VERTICAL_DESC
+LANG_ENGLISH        "Move the slider to adjust the vertical margin."
+
+REFERENCE           MENU_SP_MAX_REWARD
+LANG_ENGLISH        "Max reward: "
+
+REFERENCE           MENU_SP_MUSEUM_CAPS
+LANG_ENGLISH        "MUSEUM"
+
+REFERENCE           MENU_SP_NA_FOR_THIS_OP
+LANG_ENGLISH        "Not available for this Operation."
+
+REFERENCE           MENU_SP_NEED_ONE_MORE_PLAYER
+LANG_ENGLISH        "Need one more player..."
+
+REFERENCE           MENU_SP_NEW_BESTTIME
+LANG_ENGLISH        "New Best Time!"
+
+REFERENCE           MENU_SP_NEXT_UNLOCK
+LANG_ENGLISH        "NEXT UNLOCK: "
+
+REFERENCE           MENU_SP_NOTE_CIVILIAN
+LANG_ENGLISH        "Civilians"
+
+REFERENCE           MENU_SP_NOTE_EXPLOSIVES_KNIVES_ONLY
+LANG_ENGLISH        "Explosives & Knives Only"
+
+REFERENCE           MENU_SP_NOTE_SLOW_MO_BREACH
+LANG_ENGLISH        "Slow-mo Breach"
+
+REFERENCE           MENU_SP_NOTE_TWO_PLAYERS_REQUIRED
+LANG_ENGLISH        "Two Players Required"
+
+REFERENCE           MENU_SP_NOT_SIGNED_IN
+LANG_ENGLISH        "Not signed in"
+
+REFERENCE           MENU_SP_NO_STARS_FOR_LOCKED_OP
+LANG_ENGLISH        "No Stars rewarded since you don't have this Op unlocked."
+
+REFERENCE           MENU_SP_OFFENSIVE_ARE_YOU_SURE
+LANG_ENGLISH        "Are you sure you want to skip this mission?"
+
+REFERENCE           MENU_SP_OFFENSIVE_SKIP_1
+LANG_ENGLISH        "The following mission may be disturbing or offensive to some players. You may skip this mission at anytime in the pause menu."
+
+REFERENCE           MENU_SP_OFFENSIVE_SKIP_2
+LANG_ENGLISH        "Some players may find one of the missions disturbing or offensive. Would you like to have the option to skip this mission?"
+
+REFERENCE           MENU_SP_OFFENSIVE_SKIP_3
+LANG_ENGLISH        "If you answer yes you will never be asked about skipping levels again."
+
+REFERENCE           MENU_SP_OFFENSIVE_SKIP_4
+LANG_ENGLISH        "(The skip level option will be available in the pause menu.)"
+
+REFERENCE           MENU_SP_OFFENSIVE_SKIP_NOW
+LANG_ENGLISH        "Skip this mission now"
+
+REFERENCE           MENU_SP_OFFENSIVE_SKIP_NO_WONT_GET_OFFENDED
+LANG_ENGLISH        "No, I will not be offended"
+
+REFERENCE           MENU_SP_OFFENSIVE_SKIP_YES_ASK_LATER
+LANG_ENGLISH        "Yes, ask me later"
+
+REFERENCE           MENU_SP_OFFENSIVE_SKIP_YES_NEVER_ASK
+LANG_ENGLISH        "Yes, never ask me again"
+
+REFERENCE           MENU_SP_OFFENSIVE_TITLE
+LANG_ENGLISH        "Disturbing Content Notice"
+
+REFERENCE           MENU_SP_ONLY_HOST_CAN_CHOOSE
+LANG_ENGLISH        "Only host can change the Op."
+
+REFERENCE           MENU_SP_OPPOSITION_FORCE
+LANG_ENGLISH        "Est. Opposition:"
+
+REFERENCE           MENU_SP_PERCENTAGE_COMPLETED
+LANG_ENGLISH        "PERCENTAGE COMPLETED"
+
+REFERENCE           MENU_SP_PLAY_STORY
+LANG_ENGLISH        "Play Story"
+
+REFERENCE           MENU_SP_PROFILE_WARNING
+LANG_ENGLISH        "You are not signed in to a profile. \nDo you wish to sign in?"
+
+REFERENCE           MENU_SP_PROFILE_WARNING_SP
+LANG_ENGLISH        "You are not signed in to a profile. \nYou will not be able to save your progress. \nDo you wish to sign in?"
+
+REFERENCE           MENU_SP_RECOMMENDATION
+LANG_ENGLISH        "We strongly recommend you play Campaign first."
+
+REFERENCE           MENU_SP_SELECT_SAVE_DEVICE_CAPS
+LANG_ENGLISH        "SELECT SAVE DEVICE"
+
+REFERENCE           MENU_SP_SELECT_YOUR_DIFF
+LANG_ENGLISH        "Select your difficulty."
+
+REFERENCE           MENU_SP_SHOW_TIMER
+LANG_ENGLISH        "Show Timer"
+
+REFERENCE           MENU_SP_SKIP_MISSION
+LANG_ENGLISH        "Skip Mission"
+
+REFERENCE           MENU_SP_SOLO_PLAY_CAPS
+LANG_ENGLISH        "SOLO PLAY"
+
+REFERENCE           MENU_SP_SPECIAL_OPS_CAPS
+LANG_ENGLISH        "SPECIAL OPS"
+
+REFERENCE           MENU_SP_SP_AF_CAVES
+LANG_ENGLISH        "Just Like Old Times"
+
+REFERENCE           MENU_SP_SP_AF_CAVES_DESC
+LANG_ENGLISH        "Search the Afghan cave network for General Shepherd."
+
+REFERENCE           MENU_SP_SP_AF_CHASE
+LANG_ENGLISH        "Endgame"
+
+REFERENCE           MENU_SP_SP_AF_CHASE_DESC
+LANG_ENGLISH        "Kill General Shepherd."
+
+REFERENCE           MENU_SP_SP_AIRPORT
+LANG_ENGLISH        "No Russian"
+
+REFERENCE           MENU_SP_SP_AIRPORT_DESC
+LANG_ENGLISH        "Earn Makarov's trust."
+
+REFERENCE           MENU_SP_SP_ARCADIA
+LANG_ENGLISH        "Exodus"
+
+REFERENCE           MENU_SP_SP_ARCADIA_DESC
+LANG_ENGLISH        "Assist in the evacuation of civilians and key personnel in the suburbs."
+
+REFERENCE           MENU_SP_SP_BONEYARD
+LANG_ENGLISH        "The Enemy of My Enemy"
+
+REFERENCE           MENU_SP_SP_BONEYARD_DESC
+LANG_ENGLISH        "Escape from General Shepherd's trap in the boneyard."
+
+REFERENCE           MENU_SP_SP_CLIFFHANGER
+LANG_ENGLISH        "Cliffhanger"
+
+REFERENCE           MENU_SP_SP_CLIFFHANGER_DESC
+LANG_ENGLISH        "Locate and retrieve the ACS module from a crashed satellite."
+
+REFERENCE           MENU_SP_SP_CONTINGENCY
+LANG_ENGLISH        "Contingency"
+
+REFERENCE           MENU_SP_SP_CONTINGENCY_DESC
+LANG_ENGLISH        "Help Captain Price reach the Russian submarine."
+
+REFERENCE           MENU_SP_SP_DCBURNING
+LANG_ENGLISH        "Of Their Own Accord"
+
+REFERENCE           MENU_SP_SP_DCBURNING_DESC
+LANG_ENGLISH        "Protect the evacuation site at the Washington Monument."
+
+REFERENCE           MENU_SP_SP_DCEMP
+LANG_ENGLISH        "Second Sun"
+
+REFERENCE           MENU_SP_SP_DCEMP_DESC
+LANG_ENGLISH        "Get to Whiskey Hotel."
+
+REFERENCE           MENU_SP_SP_DC_WHITEHOUSE
+LANG_ENGLISH        "Whiskey Hotel"
+
+REFERENCE           MENU_SP_SP_DC_WHITEHOUSE_DESC
+LANG_ENGLISH        "Retake Whiskey Hotel."
+
+REFERENCE           MENU_SP_SP_ESTATE
+LANG_ENGLISH        "Loose Ends"
+
+REFERENCE           MENU_SP_SP_ESTATE_DESC
+LANG_ENGLISH        "Find and kill Makarov at his safe house on the Georgian-Russian border."
+
+REFERENCE           MENU_SP_SP_FAVELA
+LANG_ENGLISH        "Takedown"
+
+REFERENCE           MENU_SP_SP_FAVELA_DESC
+LANG_ENGLISH        "Find and capture arms-dealer Alejandro Rojas, hiding somewhere in the favela."
+
+REFERENCE           MENU_SP_SP_FAVELA_ESCAPE
+LANG_ENGLISH        "The Hornet's Nest"
+
+REFERENCE           MENU_SP_SP_FAVELA_ESCAPE_DESC
+LANG_ENGLISH        "Escape the favela."
+
+REFERENCE           MENU_SP_SP_GULAG
+LANG_ENGLISH        "The Gulag"
+
+REFERENCE           MENU_SP_SP_GULAG_DESC
+LANG_ENGLISH        "Rescue Prisoner #627."
+
+REFERENCE           MENU_SP_SP_INVASION
+LANG_ENGLISH        "Wolverines!"
+
+REFERENCE           MENU_SP_SP_INVASION_DESC
+LANG_ENGLISH        "Locate and protect codename Raptor during the beginning of the invasion."
+
+REFERENCE           MENU_SP_SP_OILRIG
+LANG_ENGLISH        "The Only Easy Day... Was Yesterday"
+
+REFERENCE           MENU_SP_SP_OILRIG_DESC
+LANG_ENGLISH        "Board the oilrig, rescue the hostages, and clear the route to the gulag."
+
+REFERENCE           MENU_SP_SP_ROADKILL
+LANG_ENGLISH        "Team Player"
+
+REFERENCE           MENU_SP_SP_ROADKILL_DESC
+LANG_ENGLISH        "Search and destroy enemy forces in Afghanistan."
+
+REFERENCE           MENU_SP_SP_TRAINER
+LANG_ENGLISH        "S.S.D.D."
+
+REFERENCE           MENU_SP_SP_TRAINER_DESC
+LANG_ENGLISH        "Demonstrate proper fire control for the local trainees."
+
+REFERENCE           MENU_SP_STARS_EARNED
+LANG_ENGLISH        "Stars Earned!"
+
+REFERENCE           MENU_SP_START_OP
+LANG_ENGLISH        "Start Op"
+
+REFERENCE           MENU_SP_START_OP_DESC
+LANG_ENGLISH        "Start the Operation."
+
+REFERENCE           MENU_SP_STAT_GAME_PROGRESSION
+LANG_ENGLISH        "Game Progression:"
+
+REFERENCE           MENU_SP_STAT_HARDENED_PROGRESS
+LANG_ENGLISH        "Hardened Progress:"
+
+REFERENCE           MENU_SP_STAT_INTEL_ITEMS
+LANG_ENGLISH        "Intel Items:"
+
+REFERENCE           MENU_SP_STAT_MP_PLAY_TIME
+LANG_ENGLISH        "Multiplayer Play Time:"
+
+REFERENCE           MENU_SP_STAT_MP_PROGRESSION
+LANG_ENGLISH        "Multiplayer Progress:"
+
+REFERENCE           MENU_SP_STAT_NUM_DOT_PERCENT
+LANG_ENGLISH        "&&1.&&2%"
+
+REFERENCE           MENU_SP_STAT_NUM_PERCENT
+LANG_ENGLISH        "&&1%"
+
+REFERENCE           MENU_SP_STAT_NUM_RATIO
+LANG_ENGLISH        "&&1/&&2"
+
+REFERENCE           MENU_SP_STAT_PLAY_TIME
+LANG_ENGLISH        "Play Time:"
+
+REFERENCE           MENU_SP_STAT_SO_PLAY_TIME
+LANG_ENGLISH        "Special Ops Play Time:"
+
+REFERENCE           MENU_SP_STAT_SO_PROGRESSION
+LANG_ENGLISH        "Special Ops Progress:"
+
+REFERENCE           MENU_SP_STAT_SP_EASY_REGULAR_PROGRESSION
+LANG_ENGLISH        "Recruit & Regular Progress:"
+
+REFERENCE           MENU_SP_STAT_SP_PLAY_TIME
+LANG_ENGLISH        "Campaign Play Time:"
+
+REFERENCE           MENU_SP_STAT_SP_PROGRESSION
+LANG_ENGLISH        "Campaign Progress:"
+
+REFERENCE           MENU_SP_STAT_STARS_EARNED
+LANG_ENGLISH        "Stars Earned:"
+
+REFERENCE           MENU_SP_STAT_TIME_FORMAT
+LANG_ENGLISH        "D      H        M       S"
+
+REFERENCE           MENU_SP_STAT_TOTAL
+LANG_ENGLISH        "Total:"
+
+REFERENCE           MENU_SP_STAT_TOTAL_PLAY_TIME
+LANG_ENGLISH        "Total Play Time:"
+
+REFERENCE           MENU_SP_STAT_TOTAL_STARS
+LANG_ENGLISH        "Total Stars:"
+
+REFERENCE           MENU_SP_STAT_VETERAN_PROGRESS
+LANG_ENGLISH        "Veteran Progress:"
+
+REFERENCE           MENU_SP_STEAM_CHAT_HINT
+LANG_ENGLISH        "Double click your friend's name in Steam to voice chat."
+
+REFERENCE           MENU_SP_STORY_CAPS
+LANG_ENGLISH        "STORY"
+
+REFERENCE           MENU_SP_TIMER_NIGHT_VISION
+LANG_ENGLISH        "Timer/Night Vision"
+
+REFERENCE           MENU_SP_TIME_PLAYED
+LANG_ENGLISH        "TIME PLAYED"
+
+REFERENCE           MENU_SP_TOTAL_PROGRESS
+LANG_ENGLISH        "TOTAL PROGRESS: "
+
+REFERENCE           MENU_SP_TWO_PLAYER_ONLINE
+LANG_ENGLISH        "Two Player Online"
+
+REFERENCE           MENU_SP_TWO_PLAYER_ONLINE_CAPS
+LANG_ENGLISH        "TWO PLAYER ONLINE"
+
+REFERENCE           MENU_SP_TWO_PLAYER_SPLIT_SCREEN
+LANG_ENGLISH        "Two Player Split Screen"
+
+REFERENCE           MENU_SP_TWO_PLAYER_SPLIT_SCREEN_CAPS
+LANG_ENGLISH        "TWO PLAYER SPLIT SCREEN"
+
+REFERENCE           MENU_SP_TYPE_ASSAULT
+LANG_ENGLISH        "Assault"
+
+REFERENCE           MENU_SP_TYPE_ASSAULT_DEFEND
+LANG_ENGLISH        "Assault & Defend"
+
+REFERENCE           MENU_SP_TYPE_DRIVING
+LANG_ENGLISH        "Driving"
+
+REFERENCE           MENU_SP_TYPE_ESCORT
+LANG_ENGLISH        "Escort"
+
+REFERENCE           MENU_SP_TYPE_KILLSPREE
+LANG_ENGLISH        "Elimination"
+
+REFERENCE           MENU_SP_TYPE_STEALTH
+LANG_ENGLISH        "Stealth"
+
+REFERENCE           MENU_SP_TYPE_TIMED_DRIVING
+LANG_ENGLISH        "Timed Driving"
+
+REFERENCE           MENU_SP_TYPE_TIMED_ESCORT
+LANG_ENGLISH        "Timed Escort"
+
+REFERENCE           MENU_SP_TYPE_TIME_ASSAULT
+LANG_ENGLISH        "Timed Assault"
+
+REFERENCE           MENU_SP_TYPE_VEHICLE_KILLSPREE
+LANG_ENGLISH        "Vehicle Killspree"
+
+REFERENCE           MENU_SP_TYPE_WAVE_DEFENSE
+LANG_ENGLISH        "Wave Defense"
+
+REFERENCE           MENU_SP_UNLOCK_DESC
+LANG_ENGLISH        "Cheats are available from the in-game pause menu.\nArcade Mode is available from the main menu."
+
+REFERENCE           MENU_SP_UNLOCK_INFO
+LANG_ENGLISH        "You have unlocked Arcade Mode and Cheats."
+
+REFERENCE           MENU_SP_UNLOCK_TITLE
+LANG_ENGLISH        "Congratulations!"
+
+REFERENCE           MENU_SP_VETERAN_IS_EXTREMELY_DIFFICULT
+LANG_ENGLISH        "Veteran is extremely difficult, are you certain you want to play at Veteran Difficulty?"
+
+REFERENCE           MENU_SP_VIEW_OP
+LANG_ENGLISH        "Browse Ops"
+
+REFERENCE           MENU_SP_VIEW_OP_DESC
+LANG_ENGLISH        "View unlocked Ops."
+
+REFERENCE           MENU_SP_WAITING_FOR_HOST
+LANG_ENGLISH        "Waiting for host to start..."
+
+REFERENCE           MENU_SP_YOU_LOCK_OP_DESC
+LANG_ENGLISH        "You have not unlocked this Op and will not earn any Stars for completing it."
+
+REFERENCE           MENU_STANCE_DOWN
+LANG_ENGLISH        "Stance Down"
+
+REFERENCE           MENU_STANCE_UP
+LANG_ENGLISH        "Stance Up"
+
+REFERENCE           MENU_STANCE_UP_JUMP
+LANG_ENGLISH        "Stance Up/Jump"
+
+REFERENCE           MENU_STAND
+LANG_ENGLISH        "Stand"
+
+REFERENCE           MENU_STANDARD_4_3
+LANG_ENGLISH        "Standard 4:3"
+
+REFERENCE           MENU_STANDJUMP
+LANG_ENGLISH        "Stand/Jump"
+
+REFERENCE           MENU_START
+LANG_ENGLISH        "Start"
+
+REFERENCE           MENU_STARTTRAINING
+LANG_ENGLISH        "Start training?"
+
+REFERENCE           MENU_START_GAME
+LANG_ENGLISH        "Start Game"
+
+REFERENCE           MENU_START_GAME_CAPS
+LANG_ENGLISH        "START GAME"
+
+REFERENCE           MENU_START_GAME_LOBBY
+LANG_ENGLISH        "Start Game Lobby"
+
+REFERENCE           MENU_START_MATCH
+LANG_ENGLISH        "Start Match"
+
+REFERENCE           MENU_START_MATCH_CAPS
+LANG_ENGLISH        "START MATCH"
+
+REFERENCE           MENU_START_NEW_SERVER
+LANG_ENGLISH        "Start New Server"
+
+REFERENCE           MENU_STATS
+LANG_ENGLISH        "Stats"
+
+REFERENCE           MENU_STATS_CAPS
+LANG_ENGLISH        "STATS"
+
+REFERENCE           MENU_STATS_RESET_NO
+LANG_ENGLISH        "Cancel"
+
+REFERENCE           MENU_STATS_RESET_YES
+LANG_ENGLISH        "Reset Rank"
+
+REFERENCE           MENU_STATS_WRONG_VERSION_WARNING
+LANG_ENGLISH        "Your data is from an old version of the game.\n\nYou must reset your rank and unlocks to continue."
+
+REFERENCE           MENU_STATUS
+LANG_ENGLISH        "Status:"
+
+REFERENCE           MENU_STAYINPARTY
+LANG_ENGLISH        "Stay In This Party"
+
+REFERENCE           MENU_STEADY_SNIPER_RIFLE
+LANG_ENGLISH        "Steady Sniper Rifle"
+
+REFERENCE           MENU_STEREO
+LANG_ENGLISH        "Stereo"
+
+REFERENCE           MENU_STICK_LAYOUT_CAP
+LANG_ENGLISH        "STICK LAYOUT"
+
+REFERENCE           MENU_STRAFE
+LANG_ENGLISH        "Hold Strafe"
+
+REFERENCE           MENU_STRAFE_LEFT_RIGHT
+LANG_ENGLISH        "Strafe Left/Right"
+
+REFERENCE           MENU_STREAK
+LANG_ENGLISH        "Streak"
+
+REFERENCE           MENU_SUBTITLES
+LANG_ENGLISH        "Subtitles"
+
+REFERENCE           MENU_SUBTITLES_CAPS
+LANG_ENGLISH        "SUBTITLES"
+
+REFERENCE           MENU_SWITCHTOMULTIPLAYER
+LANG_ENGLISH        "Switch to Multiplayer?"
+
+REFERENCE           MENU_SWITCH_CHARACTER
+LANG_ENGLISH        "Switch Character"
+
+REFERENCE           MENU_SWITCH_TO_SINGLE_PLAYER
+LANG_ENGLISH        "Switch to Main Menu?"
+
+REFERENCE           MENU_SWITCH_WEAPON
+LANG_ENGLISH        "Switch Weapon"
+
+REFERENCE           MENU_SYNC_EVERY_FRAME
+LANG_ENGLISH        "Sync Every Frame"
+
+REFERENCE           MENU_SYSTEM
+LANG_ENGLISH        "System"
+
+REFERENCE           MENU_SYSTEM_LINK
+LANG_ENGLISH        "System Link"
+
+REFERENCE           MENU_SYSTEM_LINK_SETUP
+LANG_ENGLISH        "SYSTEM LINK SETUP"
+
+REFERENCE           MENU_TACTICAL
+LANG_ENGLISH        "Tactical"
+
+REFERENCE           MENU_TACTICAL_ALT
+LANG_ENGLISH        "Tactical Flipped"
+
+REFERENCE           MENU_TAIWANESE
+LANG_ENGLISH        "Taiwanese"
+
+REFERENCE           MENU_TEAMS_TAKE_TURNS_CAPTURING
+LANG_ENGLISH        "Teams take turns defending and capturing an objective."
+
+REFERENCE           MENU_TEAMS_TAKE_TURNS_DEFENDING
+LANG_ENGLISH        "Teams take turns defending and destroying an objective.  "
+
+REFERENCE           MENU_TEAM_CHAT
+LANG_ENGLISH        "Team Chat"
+
+REFERENCE           MENU_TEAM_DEATHMATCH
+LANG_ENGLISH        "Team Deathmatch"
+
+REFERENCE           MENU_TEAM_OVERLAY
+LANG_ENGLISH        "Team Overlay:"
+
+REFERENCE           MENU_TESTINGBANDWIDTH
+LANG_ENGLISH        "Testing matches: &&1.&&2% - &&3/&&4 good games"
+
+REFERENCE           MENU_TEXTURE_ANISOTROPY
+LANG_ENGLISH        "Anisotropic Filtering"
+
+REFERENCE           MENU_TEXTURE_FILTER
+LANG_ENGLISH        "Texture Filter"
+
+REFERENCE           MENU_TEXTURE_MIPMAPS
+LANG_ENGLISH        "Texture Filtering"
+
+REFERENCE           MENU_TEXTURE_QUALITY
+LANG_ENGLISH        "Texture Quality"
+
+REFERENCE           MENU_TEXTURE_RESOLUTION
+LANG_ENGLISH        "Texture Resolution"
+
+REFERENCE           MENU_TEXTURE_SETTINGS
+LANG_ENGLISH        "Texture Settings"
+
+REFERENCE           MENU_TEXT_CHAT
+LANG_ENGLISH        "Text Chat"
+
+REFERENCE           MENU_TEXT_TEAM_CHAT
+LANG_ENGLISH        "Text Team Chat"
+
+REFERENCE           MENU_THAI
+LANG_ENGLISH        "Thai"
+
+REFERENCE           MENU_THE_SERVER_IS_STARTED
+LANG_ENGLISH        "the game is started."
+
+REFERENCE           MENU_THIS_WILL_APPLY_SOUND
+LANG_ENGLISH        "This will apply sound"
+
+REFERENCE           MENU_THIS_WILL_APPLY_THE
+LANG_ENGLISH        "This will apply the"
+
+REFERENCE           MENU_THIS_WILL_APPLY_VIDEO
+LANG_ENGLISH        "This will apply video"
+
+REFERENCE           MENU_THIS_WILL_RESTORE_ALL_SETTINGS
+LANG_ENGLISH        "Each setting will be restored"
+
+REFERENCE           MENU_THIS_WILL_SET
+LANG_ENGLISH        "This will set"
+
+REFERENCE           MENU_THROW_FRAG_GRENADE
+LANG_ENGLISH        "Throw Frag Grenade"
+
+REFERENCE           MENU_THROW_GRENADE
+LANG_ENGLISH        "Throw Grenade"
+
+REFERENCE           MENU_THROW_SMOKE_GRENADE
+LANG_ENGLISH        "Throw Smoke Grenade"
+
+REFERENCE           MENU_THROW_SPECIAL_GRENADE
+LANG_ENGLISH        "Throw Special Grenade"
+
+REFERENCE           MENU_THUMBSTICK_LAYOUT
+LANG_ENGLISH        "Stick Layout"
+
+REFERENCE           MENU_THUMBSTICK_LAYOUT_CAPS
+LANG_ENGLISH        "STICK LAYOUT"
+
+REFERENCE           MENU_TIED
+LANG_ENGLISH        "Tied"
+
+REFERENCE           MENU_TIME_LIMIT
+LANG_ENGLISH        "Time Limit (minutes):  "
+
+REFERENCE           MENU_TIME_LIMIT1
+LANG_ENGLISH        "Time Limit"
+
+REFERENCE           MENU_TIME_LIMIT2
+LANG_ENGLISH        "Time Limit:"
+
+REFERENCE           MENU_TIME_PLAYED
+LANG_ENGLISH        "Time Played"
+
+REFERENCE           MENU_TINY
+LANG_ENGLISH        "Tiny"
+
+REFERENCE           MENU_TITLE_CAPS
+LANG_ENGLISH        "TITLE"
+
+REFERENCE           MENU_TM
+LANG_ENGLISH        "TM"
+
+REFERENCE           MENU_TOGGLE_AIM_DOWN_THE_SIGHT
+LANG_ENGLISH        "Toggle Aim Down the Sight"
+
+REFERENCE           MENU_TOGGLE_CROUCH
+LANG_ENGLISH        "Toggle Crouch"
+
+REFERENCE           MENU_TOGGLE_PRONE
+LANG_ENGLISH        "Toggle Prone"
+
+REFERENCE           MENU_TOGGLE_SEMIAUTOMATIC
+LANG_ENGLISH        "Toggle Semi-Automatic "
+
+REFERENCE           MENU_TOP_PLAYER
+LANG_ENGLISH        "Top Player"
+
+REFERENCE           MENU_TO_ITS_OPTIMAL_VALUE
+LANG_ENGLISH        "to its optimal value."
+
+REFERENCE           MENU_TO_THEIR_DEFAULT_VALUE
+LANG_ENGLISH        "to its default value."
+
+REFERENCE           MENU_TO_THEIR_ORIGINAL_DEFAULT_VALUES
+LANG_ENGLISH        "to their original default values."
+
+REFERENCE           MENU_TO_THE_GAME
+LANG_ENGLISH        "to the game."
+
+REFERENCE           MENU_TO_THE_MAIN_MENU
+LANG_ENGLISH        "to the Main Menu."
+
+REFERENCE           MENU_TRAINING
+LANG_ENGLISH        "Training"
+
+REFERENCE           MENU_TRAINING1
+LANG_ENGLISH        "Training"
+
+REFERENCE           MENU_TRIAL_FRIENDS_CAP
+LANG_ENGLISH        "TIME TRIAL :: FRIENDS"
+
+REFERENCE           MENU_TRIAL_GLOBAL_CAP
+LANG_ENGLISH        "TIME TRIAL :: GLOBAL"
+
+REFERENCE           MENU_TRILINEAR
+LANG_ENGLISH        "Trilinear"
+
+REFERENCE           MENU_TRY_AGAIN
+LANG_ENGLISH        "Try Again"
+
+REFERENCE           MENU_TRY_AGAIN_CAPS
+LANG_ENGLISH        "TRY AGAIN"
+
+REFERENCE           MENU_TRY_AGAIN_DESC
+LANG_ENGLISH        "Restart the time trial."
+
+REFERENCE           MENU_TURN_LEFT
+LANG_ENGLISH        "Turn Left"
+
+REFERENCE           MENU_TURN_RIGHT
+LANG_ENGLISH        "Turn Right"
+
+REFERENCE           MENU_TYPE
+LANG_ENGLISH        "Type:"
+
+REFERENCE           MENU_TYPE1
+LANG_ENGLISH        "Type"
+
+REFERENCE           MENU_UNABLE_TO_APPLY
+LANG_ENGLISH        "Unable to apply settings while connected to a server."
+
+REFERENCE           MENU_UNLIMITED
+LANG_ENGLISH        "Unlimited"
+
+REFERENCE           MENU_UNLOCK
+LANG_ENGLISH        "Unlock"
+
+REFERENCE           MENU_UNRANKED_DESCRIPTION
+LANG_ENGLISH        "Find an unranked match in which you can invite friends."
+
+REFERENCE           MENU_UNTIL_MATCH_BEGIN
+LANG_ENGLISH        "Until match begins."
+
+REFERENCE           MENU_UPGRADE_CAPS
+LANG_ENGLISH        "UPGRADE"
+
+REFERENCE           MENU_UPLOADING_STATS
+LANG_ENGLISH        "Uploading Stats"
+
+REFERENCE           MENU_USE
+LANG_ENGLISH        "Use"
+
+REFERENCE           MENU_USE_EQUIPMENT
+LANG_ENGLISH        "Use Equipment"
+
+REFERENCE           MENU_USE_ITEM
+LANG_ENGLISH        "Use Item:  "
+
+REFERENCE           MENU_USE_RELOAD
+LANG_ENGLISH        "Use/Reload"
+
+REFERENCE           MENU_VERIFY
+LANG_ENGLISH        "Verify"
+
+REFERENCE           MENU_VERSION_AVAILABLE
+LANG_ENGLISH        "Version Available:"
+
+REFERENCE           MENU_VERSION_INSTALLED
+LANG_ENGLISH        "Version Installed:"
+
+REFERENCE           MENU_VERY_HIGH
+LANG_ENGLISH        "Very High"
+
+REFERENCE           MENU_VERY_LOW
+LANG_ENGLISH        "Very Low"
+
+REFERENCE           MENU_VETERAN
+LANG_ENGLISH        "Veteran"
+
+REFERENCE           MENU_VETERAN_CAPS
+LANG_ENGLISH        "VETERAN"
+
+REFERENCE           MENU_VETERAN_DESC
+LANG_ENGLISH        "You will not survive."
+
+REFERENCE           MENU_VIDEO
+LANG_ENGLISH        "Video"
+
+REFERENCE           MENU_VIDEO_MODE
+LANG_ENGLISH        "Resolution"
+
+REFERENCE           MENU_VIEW_EMPTY
+LANG_ENGLISH        "View Empty:"
+
+REFERENCE           MENU_VIEW_FRIENDLY_FIRE
+LANG_ENGLISH        "Friendly Fire:"
+
+REFERENCE           MENU_VIEW_FULL
+LANG_ENGLISH        "View Full:"
+
+REFERENCE           MENU_VIEW_KILLCAM
+LANG_ENGLISH        "Killcam:"
+
+REFERENCE           MENU_VIEW_NOPASSWORD
+LANG_ENGLISH        "Without Password:"
+
+REFERENCE           MENU_VIEW_PASSWORD
+LANG_ENGLISH        "With Password:"
+
+REFERENCE           MENU_VIEW_PURE
+LANG_ENGLISH        "Pure Servers only:"
+
+REFERENCE           MENU_VIP
+LANG_ENGLISH        "Take turns escorting the VIP to the extraction zone."
+
+REFERENCE           MENU_VIP_DESC
+LANG_ENGLISH        "VIP"
+
+REFERENCE           MENU_VOICE
+LANG_ENGLISH        "Voice"
+
+REFERENCE           MENU_VOICECHAT
+LANG_ENGLISH        "Voice Chat"
+
+REFERENCE           MENU_VOICECHATCOLON
+LANG_ENGLISH        "Voice Chat:  "
+
+REFERENCE           MENU_VOICECHAT_LEVEL_ADJUST
+LANG_ENGLISH        "Level Adjust"
+
+REFERENCE           MENU_VOICECHAT_LEVEL_INDICATOR
+LANG_ENGLISH        "Level Indicator"
+
+REFERENCE           MENU_VOICECHAT_RECORD_LEVEL
+LANG_ENGLISH        "Record Level"
+
+REFERENCE           MENU_VOICE_CHAT
+LANG_ENGLISH        "Voice Chat"
+
+REFERENCE           MENU_VOICE_CHAT_BUTTON
+LANG_ENGLISH        "Voice Chat"
+
+REFERENCE           MENU_VOICE_CHAT_ENABLE
+LANG_ENGLISH        "Voice Chat:"
+
+REFERENCE           MENU_VOICE_CHAT_WILL_BE_DISABLED_BECAUSE
+LANG_ENGLISH        "Voice chat will be disabled because"
+
+REFERENCE           MENU_VOICE_VOLUME
+LANG_ENGLISH        "Voice Volume"
+
+REFERENCE           MENU_VOICE_VOLUME_CAPS
+LANG_ENGLISH        "VOICE VOLUME"
+
+REFERENCE           MENU_VOLUME
+LANG_ENGLISH        "Game Volume"
+
+REFERENCE           MENU_VOLUME_CAPS
+LANG_ENGLISH        "GAME VOLUME"
+
+REFERENCE           MENU_VOTESKIPCONFIRM
+LANG_ENGLISH        "Vote to skip?"
+
+REFERENCE           MENU_VOTE_NO
+LANG_ENGLISH        "Vote No"
+
+REFERENCE           MENU_VOTE_TO_SKIP_CAPS
+LANG_ENGLISH        "VOTE TO SKIP"
+
+REFERENCE           MENU_VOTE_YES
+LANG_ENGLISH        "Vote Yes"
+
+REFERENCE           MENU_WAITING
+LANG_ENGLISH        "Waiting"
+
+REFERENCE           MENU_WAITING_FOR_1_MORE_PLAYER
+LANG_ENGLISH        "Waiting for 1 more player"
+
+REFERENCE           MENU_WAITING_FOR_HOST
+LANG_ENGLISH        "Waiting for the host"
+
+REFERENCE           MENU_WAITING_FOR_MORE_PLAYERS
+LANG_ENGLISH        "We need to find &&1 more players"
+
+REFERENCE           MENU_WAITING_FOR_MORE_PLAYERS1
+LANG_ENGLISH        "Waiting for more players"
+
+REFERENCE           MENU_WAITING_FOR_MORE_PLAYERS_TEAMS
+LANG_ENGLISH        "Finding more players to balance teams"
+
+REFERENCE           MENU_WAITING_FOR_PLAYERS_TO_BE_READY
+LANG_ENGLISH        "Need &&1 players to be ready"
+
+REFERENCE           MENU_WAITING_FOR_PLAYER_TO_BE_READY
+LANG_ENGLISH        "Need 1 more player to be ready"
+
+REFERENCE           MENU_WALL_MARKS
+LANG_ENGLISH        "Wall Marks"
+
+REFERENCE           MENU_WARNING
+LANG_ENGLISH        "Warning"
+
+REFERENCE           MENU_WARNING_AUTOSAVE
+LANG_ENGLISH        "This game saves data automatically at certain points. Do not switch off the\npower when the HDD access indicator is flashing."
+
+REFERENCE           MENU_WARNING_CHECKPOINT_RESET
+LANG_ENGLISH        "This will overwrite your current mission's progress.  Do you wish to continue?"
+
+REFERENCE           MENU_WARNING_CHECKPOINT_RESET2
+LANG_ENGLISH        "If you continue, the progress in your \nlast mission will be overwritten."
+
+REFERENCE           MENU_WATER_DETAIL
+LANG_ENGLISH        "Water Detail"
+
+REFERENCE           MENU_WEAPONS_CAPS
+LANG_ENGLISH        "WEAPONS"
+
+REFERENCE           MENU_WEAPON_ATTACHMENT
+LANG_ENGLISH        "Weapon Attachment"
+
+REFERENCE           MENU_WEAPON_CLASSES_CAPS
+LANG_ENGLISH        "WEAPON CLASSES"
+
+REFERENCE           MENU_WEAPON_CLASS_CAPS
+LANG_ENGLISH        "WEAPON CLASS"
+
+REFERENCE           MENU_WEAPON_MENU
+LANG_ENGLISH        "Weapon Menu"
+
+REFERENCE           MENU_WHILE_RUNNING_A_SERVER
+LANG_ENGLISH        "while running a server."
+
+REFERENCE           MENU_WIDE_16_10
+LANG_ENGLISH        "Wide 16:10"
+
+REFERENCE           MENU_WIDE_16_9
+LANG_ENGLISH        "Wide 16:9"
+
+REFERENCE           MENU_WINDOWS_DEFAULT
+LANG_ENGLISH        "Windows Default"
+
+REFERENCE           MENU_WINNING
+LANG_ENGLISH        "Winning"
+
+REFERENCE           MENU_WINS
+LANG_ENGLISH        "Wins"
+
+REFERENCE           MENU_WINS_FRIENDS_CAP
+LANG_ENGLISH        "LEADERBOARD - WINS (FRIENDS)"
+
+REFERENCE           MENU_WINS_GLOBAL_CAP
+LANG_ENGLISH        "LEADERBOARD - WINS (GLOBAL)"
+
+REFERENCE           MENU_WLRATIO
+LANG_ENGLISH        "Win/Loss"
+
+REFERENCE           MENU_WORLD_DYNAMIC_LIGHT_QUALITY
+LANG_ENGLISH        "World Dynamic Light Quality"
+
+REFERENCE           MENU_WORLD_ONLY
+LANG_ENGLISH        "World Only"
+
+REFERENCE           MENU_XBOX_LIVE
+LANG_ENGLISH        "Xbox LIVE"
+
+REFERENCE           MENU_XBOX_LIVE_LOBBY
+LANG_ENGLISH        "Xbox LIVE Lobby"
+
+REFERENCE           MENU_XP_REWARD
+LANG_ENGLISH        "XP Reward:"
+
+REFERENCE           MENU_YES
+LANG_ENGLISH        "Yes"
+
+REFERENCE           MENU_YES_CAPS
+LANG_ENGLISH        "YES"
+
+REFERENCE           MENU_YOUR_CLASSES_CAPS
+LANG_ENGLISH        "CUSTOM CLASSES"
+
+REFERENCE           MENU_YOUR_CONTROLS_ARE_NOW_SET
+LANG_ENGLISH        "Your controls are now set"
+
+REFERENCE           MENU_YOUR_NETWORK_SETTINGS
+LANG_ENGLISH        "your network settings"
+
+REFERENCE           MENU_YOUR_SETTINGS_ARE_NOW_SET
+LANG_ENGLISH        "Your settings are now set"
+
+REFERENCE           MENU_YOU_ARE_ALL_ALONE_ELIMINATE_EVERYONE_ELSE
+LANG_ENGLISH        "You are all alone.  Eliminate everyone else."
+
+REFERENCE           MENU_YOU_MUST_SPECIFY_A_FILENAME
+LANG_ENGLISH        "You must specify a filename!"
+
+REFERENCE           MENU_ZFEATHER_SMOKE
+LANG_ENGLISH        "Soften Smoke Edges"
+
+REFERENCE           NULL_EMPTY
+LANG_ENGLISH        ""
+
+REFERENCE           PLATFORM_ACCEPT_INVITE
+LANG_ENGLISH        "Accept Invite"
+
+REFERENCE           PLATFORM_BACK
+LANG_ENGLISH        "Back"
+
+REFERENCE           PLATFORM_BACK_CAPS
+LANG_ENGLISH        "BACK ^0- ^3ESC^7"
+
+REFERENCE           PLATFORM_CALL_NUKE
+LANG_ENGLISH        "Press and hold ^3&&1^7 for Nuclear Strike."
+
+REFERENCE           PLATFORM_CHANGE_PROFILE_CAPS
+LANG_ENGLISH        "CHANGE PROFILE"
+
+REFERENCE           PLATFORM_CLOSE_CAPS
+LANG_ENGLISH        "CLOSE"
+
+REFERENCE           PLATFORM_CONTINUE_CAPS
+LANG_ENGLISH        "CONTINUE"
+
+REFERENCE           PLATFORM_COWARDS_WAY_OUT
+LANG_ENGLISH        "Hold^3 [{+activate}] ^7Coward's way out"
+
+REFERENCE           PLATFORM_DESC_FIND_GAME
+LANG_ENGLISH        "Pick a game mode and quickly join a game online."
+
+REFERENCE           PLATFORM_DESC_FIND_GAME_LOCKED
+LANG_ENGLISH        "Only the party host can find games."
+
+REFERENCE           PLATFORM_DETONATE
+LANG_ENGLISH        "Press [{+activate}] to detonate"
+
+REFERENCE           PLATFORM_DISCONNECTED_FROM_SERVER
+LANG_ENGLISH        "Disconnected from server"
+
+REFERENCE           PLATFORM_DOWNLOADDISCONNECTED
+LANG_ENGLISH        "Client dropped to download files."
+
+REFERENCE           PLATFORM_DYK_IW4_MSG1
+LANG_ENGLISH        "Complete Perk challenges to unlock upgraded Perks."
+
+REFERENCE           PLATFORM_DYK_IW4_MSG10
+LANG_ENGLISH        "Edit your Callsign to show off Titles and Emblems you've earned."
+
+REFERENCE           PLATFORM_DYK_IW4_MSG11
+LANG_ENGLISH        "Scroll left and right on the Game Summary for more detailed info."
+
+REFERENCE           PLATFORM_DYK_IW4_MSG12
+LANG_ENGLISH        "Titles and Emblems you've earned don't reset after entering Prestige Mode."
+
+REFERENCE           PLATFORM_DYK_IW4_MSG13
+LANG_ENGLISH        "Shutting down mid-game will cause you to lose your Match Bonus."
+
+REFERENCE           PLATFORM_DYK_IW4_MSG14
+LANG_ENGLISH        "Care Package is an airdrop that awards a random killstreak reward or ammo."
+
+REFERENCE           PLATFORM_DYK_IW4_MSG15
+LANG_ENGLISH        "Tactical Insertion is a flare that marks where your next respawn will be."
+
+REFERENCE           PLATFORM_DYK_IW4_MSG16
+LANG_ENGLISH        "Destroy red flares to prevent an enemy Tactical Insertion."
+
+REFERENCE           PLATFORM_DYK_IW4_MSG17
+LANG_ENGLISH        "Semtex will stick to your enemy."
+
+REFERENCE           PLATFORM_DYK_IW4_MSG18
+LANG_ENGLISH        "Blast Shield increases your resistance to explosions but limits your view."
+
+REFERENCE           PLATFORM_DYK_IW4_MSG19
+LANG_ENGLISH        "Even when your Riot Shield is on your back it blocks bullets."
+
+REFERENCE           PLATFORM_DYK_IW4_MSG2
+LANG_ENGLISH        "Get Killstreak Rewards by getting consecutive kills without dying."
+
+REFERENCE           PLATFORM_DYK_IW4_MSG20
+LANG_ENGLISH        "The Heartbeat Sensor attachment detects enemies that are close by."
+
+REFERENCE           PLATFORM_DYK_IW4_MSG21
+LANG_ENGLISH        "The Cold-Blooded perk makes you invisible to thermal vision, UAV, and enemy air support."
+
+REFERENCE           PLATFORM_DYK_IW4_MSG22
+LANG_ENGLISH        "Hardline makes killstreak rewards require 1 less kill."
+
+REFERENCE           PLATFORM_DYK_IW4_MSG23
+LANG_ENGLISH        "You can crawl while in Last Stand."
+
+REFERENCE           PLATFORM_DYK_IW4_MSG24
+LANG_ENGLISH        "Crouch with the Riot Shield to protect your feet."
+
+REFERENCE           PLATFORM_DYK_IW4_MSG25
+LANG_ENGLISH        "The Painkiller Deathstreak gives you extra protection when you respawn."
+
+REFERENCE           PLATFORM_DYK_IW4_MSG26
+LANG_ENGLISH        "Point your Riot Shield directly at the person shooting you for maximum effectiveness."
+
+REFERENCE           PLATFORM_DYK_IW4_MSG27
+LANG_ENGLISH        "Sentry Guns can be temporarily disabled by using Flashbangs or Stun Grenades on them."
+
+REFERENCE           PLATFORM_DYK_IW4_MSG28
+LANG_ENGLISH        "The Predator Missile lets you control a missile fired from above."
+
+REFERENCE           PLATFORM_DYK_IW4_MSG29
+LANG_ENGLISH        "Crouch with the Riot Shield to cover your feet and get maximum protection."
+
+REFERENCE           PLATFORM_DYK_IW4_MSG3
+LANG_ENGLISH        "Use weapon attachments to unlock special weapon attachments."
+
+REFERENCE           PLATFORM_DYK_IW4_MSG30
+LANG_ENGLISH        "Killstreak Rewards are unlocked in the order you choose."
+
+REFERENCE           PLATFORM_DYK_IW4_MSG31
+LANG_ENGLISH        "3rd Person modes allow you to experience tactical gameplay from an over the shoulder perspective."
+
+REFERENCE           PLATFORM_DYK_IW4_MSG32
+LANG_ENGLISH        "The default Classes contain items unlocked at later levels, giving you a preview of things to come."
+
+REFERENCE           PLATFORM_DYK_IW4_MSG33
+LANG_ENGLISH        "The Scavenger Perk lets you resupply your loadout by taking it from fallen foes."
+
+REFERENCE           PLATFORM_DYK_IW4_MSG34
+LANG_ENGLISH        "Steal your killer's loadout during killcam with the Copycat Deathstreak."
+
+REFERENCE           PLATFORM_DYK_IW4_MSG35
+LANG_ENGLISH        "The Tactical Knife attachment for Handguns speeds up your melee."
+
+REFERENCE           PLATFORM_DYK_IW4_MSG36
+LANG_ENGLISH        "The Bling Perk allows you to have 2 attachments on your primary weapon."
+
+REFERENCE           PLATFORM_DYK_IW4_MSG37
+LANG_ENGLISH        "Survive a Final Stand bleedout and you stand back up."
+
+REFERENCE           PLATFORM_DYK_IW4_MSG38
+LANG_ENGLISH        "Killstreak Rewards attained from airdrop crates do not count towards your killstreak count."
+
+REFERENCE           PLATFORM_DYK_IW4_MSG39
+LANG_ENGLISH        "Akimbo weapons give you more firepower but restrict your ability to aim down the sight."
+
+REFERENCE           PLATFORM_DYK_IW4_MSG4
+LANG_ENGLISH        "Some killstreak rewards are controllable but leave you vulnerable on the ground."
+
+REFERENCE           PLATFORM_DYK_IW4_MSG5
+LANG_ENGLISH        "Check out all of your Accolades in the Barracks."
+
+REFERENCE           PLATFORM_DYK_IW4_MSG6
+LANG_ENGLISH        "Private Matches allow you to play with friends on a LAN or online."
+
+REFERENCE           PLATFORM_DYK_IW4_MSG7
+LANG_ENGLISH        "Swap out Frag grenades for Tactical Insertion, Blast Shield, and other equipment."
+
+REFERENCE           PLATFORM_DYK_IW4_MSG8
+LANG_ENGLISH        "Deathstreaks give you a boost when things aren't going your way."
+
+REFERENCE           PLATFORM_DYK_IW4_MSG9
+LANG_ENGLISH        "Bullets can ricochet off of Riot Shields and kill!"
+
+REFERENCE           PLATFORM_DYK_MSG1
+LANG_ENGLISH        "Gain XP! You get experience points(XP) for getting kills, completing challenges, and completing matches on Ranked servers."
+
+REFERENCE           PLATFORM_DYK_MSG10
+LANG_ENGLISH        "Listen in... You can hear the enemy team's voice chat with the Eavesdrop perk."
+
+REFERENCE           PLATFORM_DYK_MSG11
+LANG_ENGLISH        "Be aware... You can spot enemy explosive devices like claymores and C4 with the Bomb Squad perk."
+
+REFERENCE           PLATFORM_DYK_MSG12
+LANG_ENGLISH        "Take a stand!  Pull out your pistol and make that last ditch effort to get some kills before you die with the Last Stand perk."
+
+REFERENCE           PLATFORM_DYK_MSG13
+LANG_ENGLISH        "Combine your air support!  Call in an airstrike in combination with a UAV for a pinpoint accurate carpet bomb."
+
+REFERENCE           PLATFORM_DYK_MSG14
+LANG_ENGLISH        "Chopper down!  Don't be afraid to fire at enemy choppers with your primary weapon.  It may do less damage than a rocket, but it definitely hurts."
+
+REFERENCE           PLATFORM_DYK_MSG15
+LANG_ENGLISH        "Find the enemy!  Calling in a UAV shows enemies on your radar as red dots.  Knowing the enemy position is a big advantage."
+
+REFERENCE           PLATFORM_DYK_MSG17
+LANG_ENGLISH        "Defend your flags!  In the Domination game mode, holding marked objectives gives your team points.  The more objectives you hold, the more points you get."
+
+REFERENCE           PLATFORM_DYK_MSG18
+LANG_ENGLISH        "Watch those corners!  Be careful playing Search and Destroy - when you die you don't respawn."
+
+REFERENCE           PLATFORM_DYK_MSG19
+LANG_ENGLISH        "Escort the bomb!  Protect the bomb carrier in Sabotage.  It takes teamwork to get to the enemy objective."
+
+REFERENCE           PLATFORM_DYK_MSG2
+LANG_ENGLISH        "Level up! As you gain XP, you earn promotions, unlockables, and new challenges."
+
+REFERENCE           PLATFORM_DYK_MSG20
+LANG_ENGLISH        "Call in radar!  You can earn radar for you and your team by getting 3 kills in a row without dying."
+
+REFERENCE           PLATFORM_DYK_MSG21
+LANG_ENGLISH        "Call in an airstrike!  Get 5 kills in a row without dying and you can call in an air strike on the position of your choice."
+
+REFERENCE           PLATFORM_DYK_MSG22
+LANG_ENGLISH        "Call in a chopper!  You can earn helicopter air support by getting 7 kills in a row without dying."
+
+REFERENCE           PLATFORM_DYK_MSG23
+LANG_ENGLISH        "Back to basics... The Old School game modes don't have classes.  Everyone starts with the same weapons and must pick up new weapons and perks in the level."
+
+REFERENCE           PLATFORM_DYK_MSG24
+LANG_ENGLISH        "Pick your shots!  When you fire a weapon WITHOUT a silencer, you appear as a red dot on your enemies' compass."
+
+REFERENCE           PLATFORM_DYK_MSG25
+LANG_ENGLISH        "Get quiet...  Using a silencer doesn't show your shots as a red dot on the enemy compass, but your weapon's range is reduced."
+
+REFERENCE           PLATFORM_DYK_MSG26
+LANG_ENGLISH        "Stealth technology.  Using the UAV Jammer perk will prevent you from showing as a red dot on the enemy compass."
+
+REFERENCE           PLATFORM_DYK_MSG27
+LANG_ENGLISH        "Grenades from a rifle mounted grenade launcher need to travel before they are armed.  They do damage if they hit your enemy, but only explode at a distance."
+
+REFERENCE           PLATFORM_DYK_MSG28
+LANG_ENGLISH        "Create your own game mode!  Start your own server and tweak game mode settings to whatever you like."
+
+REFERENCE           PLATFORM_DYK_MSG29
+LANG_ENGLISH        "Dominate with teamwork!  Domination flags capture faster with multiple teammates capturing together."
+
+REFERENCE           PLATFORM_DYK_MSG3
+LANG_ENGLISH        "Customize your weapon! You can add a camouflage pattern or attachment to your weapons in Create-a-class."
+
+REFERENCE           PLATFORM_DYK_MSG30
+LANG_ENGLISH        "Use your knife!  Melee the enemy with your knife for a fast and humiliating kill."
+
+REFERENCE           PLATFORM_DYK_MSG31
+LANG_ENGLISH        "Run faster!  Pressing sprint will allow you to run faster for a short amount of time, but you can't use your weapon."
+
+REFERENCE           PLATFORM_DYK_MSG32
+LANG_ENGLISH        "Hold your breath!  Hold your breath with scoped weapons for increased accuracy."
+
+REFERENCE           PLATFORM_DYK_MSG33
+LANG_ENGLISH        "Throw back grenades!  Look for the grenade throwback icon when a grenade is near you.  You can throw back the enemy's grenades."
+
+REFERENCE           PLATFORM_DYK_MSG34
+LANG_ENGLISH        "Shoot through walls!  Different weapons can fire through many different surfaces with reduced damage."
+
+REFERENCE           PLATFORM_DYK_MSG35
+LANG_ENGLISH        "Use your inventory!  Items like grenade launchers, RPGs, claymores, and C4 are stored in your inventory."
+
+REFERENCE           PLATFORM_DYK_MSG36
+LANG_ENGLISH        "Explosive shortcut!  Double tap the use key to detonate thrown C4 while using another weapon."
+
+REFERENCE           PLATFORM_DYK_MSG4
+LANG_ENGLISH        "Design your own class! Create-a-class lets you choose your weapons and perks, then name the class to your liking."
+
+REFERENCE           PLATFORM_DYK_MSG5
+LANG_ENGLISH        "Use teamwork! If you damage an enemy but someone else gets the kill, you are awarded assist points."
+
+REFERENCE           PLATFORM_DYK_MSG6
+LANG_ENGLISH        "Get hardcore.  Hardcore modes remove your hud and make weapons even more deadly."
+
+REFERENCE           PLATFORM_DYK_MSG7
+LANG_ENGLISH        "Custom games!  Unranked games can play any game mode with custom rules."
+
+REFERENCE           PLATFORM_DYK_MSG8
+LANG_ENGLISH        "Challenges are rewarding.  Weapon challenges unlock attachments and camouflage patterns for use in Create-a-class."
+
+REFERENCE           PLATFORM_DYK_MSG9
+LANG_ENGLISH        "Get more XP!  You get extra XP bonuses for completing Challenges, located in Rank and Challenges."
+
+REFERENCE           PLATFORM_EOG_PRESS_ESC
+LANG_ENGLISH        "Press^3 ESC ^7to^2 Create a Class ^7and more"
+
+REFERENCE           PLATFORM_FIND_GAME
+LANG_ENGLISH        "Find Game"
+
+REFERENCE           PLATFORM_FIND_GAME_CAPS
+LANG_ENGLISH        "FIND GAME"
+
+REFERENCE           PLATFORM_FOLLOWNEXTPLAYER
+LANG_ENGLISH        "^3&&1^7 - Next player"
+
+REFERENCE           PLATFORM_FOLLOWPREVIOUSPLAYER
+LANG_ENGLISH        "^3&&1^7 - Previous player"
+
+REFERENCE           PLATFORM_FOLLOWSTOP
+LANG_ENGLISH        "^3&&1^7 - Stop following"
+
+REFERENCE           PLATFORM_GAME_SUMMARY_CAPS
+LANG_ENGLISH        "GAME SUMMARY ^0- ^3F1^7"
+
+REFERENCE           PLATFORM_GET_AUTO_SHOT
+LANG_ENGLISH        "[{+activate}]Auto_Shot"
+
+REFERENCE           PLATFORM_GET_KILLSTREAK
+LANG_ENGLISH        "[{+activate}] Killstreak"
+
+REFERENCE           PLATFORM_GET_KIT
+LANG_ENGLISH        "[{+activate}] New kit"
+
+REFERENCE           PLATFORM_GET_RANDOM
+LANG_ENGLISH        "[{+activate}] Random Item"
+
+REFERENCE           PLATFORM_GET_SENTRY
+LANG_ENGLISH        "[{+activate}]Sentry"
+
+REFERENCE           PLATFORM_GET_THUMPER
+LANG_ENGLISH        "[{+activate}]Thumper"
+
+REFERENCE           PLATFORM_HOLD_BREATH
+LANG_ENGLISH        "Hold^3 &&1 ^7to steady"
+
+REFERENCE           PLATFORM_HOLD_TO_DEFUSE_EXPLOSIVES
+LANG_ENGLISH        "Hold^3 &&1 ^7to defuse explosives  "
+
+REFERENCE           PLATFORM_HOLD_TO_DROP
+LANG_ENGLISH        "Press^3 &&1 ^7to drop"
+
+REFERENCE           PLATFORM_HOLD_TO_PLANT_EXPLOSIVES
+LANG_ENGLISH        "Hold^3 &&1 ^7to plant explosives  "
+
+REFERENCE           PLATFORM_HOLD_TO_USE
+LANG_ENGLISH        "Press^3 &&1 ^7to use"
+
+REFERENCE           PLATFORM_JOIN_FRIEND_FAILED
+LANG_ENGLISH        "Failed to join friend's game."
+
+REFERENCE           PLATFORM_LOCSEL_DIR_CONTROLS
+LANG_ENGLISH        "Hold [Right Mouse] to set direction"
+
+REFERENCE           PLATFORM_LOCSEL_POSITION_CONTROLS
+LANG_ENGLISH        "Use the mouse to select a target"
+
+REFERENCE           PLATFORM_LOW_AMMO_NO_RELOAD
+LANG_ENGLISH        "Low Ammo"
+
+REFERENCE           PLATFORM_MANTLE
+LANG_ENGLISH        "Press^3 &&1 ^7to  "
+
+REFERENCE           PLATFORM_NO
+LANG_ENGLISH        "No"
+
+REFERENCE           PLATFORM_NOMOTD
+LANG_ENGLISH        "Go online to get Modern Warfare 2 news and updates"
+
+REFERENCE           PLATFORM_NOMOTD_MP
+LANG_ENGLISH        "Welcome to Modern Warfare 2 multiplayer"
+
+REFERENCE           PLATFORM_NOTSIGNEDINTOPROFILE
+LANG_ENGLISH        "You have not chosen a profile yet."
+
+REFERENCE           PLATFORM_OFFENSIVE_NO_PANELTY
+LANG_ENGLISH        "(You will not be penalized in terms of game completion.)"
+
+REFERENCE           PLATFORM_PICKUPNEWWEAPON
+LANG_ENGLISH        "Press^3 &&1 ^7to pick up"
+
+REFERENCE           PLATFORM_PICK_UP_DOUBLE_TAP
+LANG_ENGLISH        "Press^3 &&1 ^7to pick up Double Tap"
+
+REFERENCE           PLATFORM_PICK_UP_JUGGERNAUT
+LANG_ENGLISH        "Press^3 &&1 ^7to pick up Juggernaut"
+
+REFERENCE           PLATFORM_PICK_UP_LAST_STAND
+LANG_ENGLISH        "Press^3 &&1 ^7to pick up Last Stand"
+
+REFERENCE           PLATFORM_PICK_UP_MARTYRDOM
+LANG_ENGLISH        "Press^3 &&1 ^7to pick up Martyrdom"
+
+REFERENCE           PLATFORM_PICK_UP_SLEIGHT_OF_HAND
+LANG_ENGLISH        "Press^3 &&1 ^7to pick up Sleight of Hand"
+
+REFERENCE           PLATFORM_PICK_UP_STOPPING_POWER
+LANG_ENGLISH        "Press^3 &&1 ^7to pick up Stopping Power"
+
+REFERENCE           PLATFORM_PLAY_ONLINE
+LANG_ENGLISH        "Play Online"
+
+REFERENCE           PLATFORM_PLAY_ONLINE_CAPS
+LANG_ENGLISH        "PLAY"
+
+REFERENCE           PLATFORM_POPUP_CONNECTION
+LANG_ENGLISH        "Connecting to IWNet"
+
+REFERENCE           PLATFORM_PREDATOR_MISSILE_AIM
+LANG_ENGLISH        "Steer"
+
+REFERENCE           PLATFORM_PREDATOR_MISSILE_BOOST
+LANG_ENGLISH        "[{+attack}] Boost"
+
+REFERENCE           PLATFORM_PRESS_BUTTON_TO_CONFIRM_TARGET
+LANG_ENGLISH        "Press ^3[Left Mouse]^7 to confirm target"
+
+REFERENCE           PLATFORM_PRESS_TO_COPYCAT
+LANG_ENGLISH        "Press^3 [{weapnext}] ^7 Steal their class!"
+
+REFERENCE           PLATFORM_PRESS_TO_RESPAWN
+LANG_ENGLISH        "Press^3 [{+activate}] ^7to respawn"
+
+REFERENCE           PLATFORM_PRESS_TO_SAFESPAWN
+LANG_ENGLISH        "[{+frag}] Safe Spawn"
+
+REFERENCE           PLATFORM_PRESS_TO_SET_AIRSTRIKE
+LANG_ENGLISH        "Press Fire to set Air Strike location"
+
+REFERENCE           PLATFORM_PRESS_TO_SKIP
+LANG_ENGLISH        "Press^3 [{+activate}] ^7to skip"
+
+REFERENCE           PLATFORM_PRESS_TO_SPAWN
+LANG_ENGLISH        "Press^3 [{+activate}] ^7to spawn"
+
+REFERENCE           PLATFORM_QUIT
+LANG_ENGLISH        "Quit"
+
+REFERENCE           PLATFORM_RELOAD
+LANG_ENGLISH        "Reload"
+
+REFERENCE           PLATFORM_RESUPPLY
+LANG_ENGLISH        "[{+activate}] Resupply"
+
+REFERENCE           PLATFORM_REVIVE
+LANG_ENGLISH        "[{+activate}] Revive player"
+
+REFERENCE           PLATFORM_SAVE_AND_QUIT
+LANG_ENGLISH        "Save and Quit"
+
+REFERENCE           PLATFORM_STANCEHINT_CROUCH
+LANG_ENGLISH        "Press^3 &&1 ^7to crouch"
+
+REFERENCE           PLATFORM_STANCEHINT_JUMP
+LANG_ENGLISH        "Press^3 &&1 ^7to jump"
+
+REFERENCE           PLATFORM_STANCEHINT_PRONE
+LANG_ENGLISH        "Press^3 &&1 ^7to go prone"
+
+REFERENCE           PLATFORM_STANCEHINT_STAND
+LANG_ENGLISH        "Press^3 &&1 ^7to stand"
+
+REFERENCE           PLATFORM_STATSREADERROR
+LANG_ENGLISH        "An error occurred while reading the stats data. Your stats have been reset."
+
+REFERENCE           PLATFORM_STEAM_AUTH_DENIED
+LANG_ENGLISH        "Steam authorization failed."
+
+REFERENCE           PLATFORM_STEAM_CONNECT_FAIL
+LANG_ENGLISH        "Steam connect failed."
+
+REFERENCE           PLATFORM_STEAM_DISCONNECTED
+LANG_ENGLISH        "Disconnected from Steam."
+
+REFERENCE           PLATFORM_STEAM_JOIN_FAIL
+LANG_ENGLISH        "Failed to join Steam lobby."
+
+REFERENCE           PLATFORM_STEAM_KICK_CHEAT
+LANG_ENGLISH        "Cheat detected."
+
+REFERENCE           PLATFORM_STEAM_OFFLINE
+LANG_ENGLISH        "Must be signed in to Steam in Online mode to play."
+
+REFERENCE           PLATFORM_SWAPWEAPONS
+LANG_ENGLISH        "Press^3 &&1 ^7to swap for"
+
+REFERENCE           PLATFORM_SYSTEM_LINK_CAPS
+LANG_ENGLISH        "LAN PARTY"
+
+REFERENCE           PLATFORM_SYSTEM_LINK_TITLE
+LANG_ENGLISH        "LAN PARTY"
+
+REFERENCE           PLATFORM_THROWBACKGRENADE
+LANG_ENGLISH        "^3&&1 ^7throw back"
+
+REFERENCE           PLATFORM_UNEXPECTEDDOWNLOADMESSAGE
+LANG_ENGLISH        "Unexpected www download message."
+
+REFERENCE           PLATFORM_UNLOCK_KILLSTREAK
+LANG_ENGLISH        "Click to unlock killstreak."
+
+REFERENCE           PLATFORM_USEAION30CAL
+LANG_ENGLISH        "Press USE^3 &&1 ^7to commandeer the .30 cal"
+
+REFERENCE           PLATFORM_USEONLINESTATS_FALSE
+LANG_ENGLISH        "IwNet Unlocks: Off"
+
+REFERENCE           PLATFORM_USEONLINESTATS_TRUE
+LANG_ENGLISH        "IwNet Unlocks: On"
+
+REFERENCE           PLATFORM_USE_BUTTONLOOK_TO_AIM
+LANG_ENGLISH        "Hold ^3[Right Mouse]^7 to aim"
+
+REFERENCE           PLATFORM_USE_BUTTONMOVE_TO_POSITION
+LANG_ENGLISH        "Use the mouse to position"
+
+REFERENCE           PLATFORM_VEH_BOOST
+LANG_ENGLISH        "[Space] Boost"
+
+REFERENCE           PLATFORM_VEH_BRAKE
+LANG_ENGLISH        "[S] Reverse"
+
+REFERENCE           PLATFORM_VEH_FIRE
+LANG_ENGLISH        "[Left Mouse] Fire"
+
+REFERENCE           PLATFORM_VEH_THROTTLE
+LANG_ENGLISH        "[W] Throttle"
+
+REFERENCE           PLATFORM_VIEW_CHALLENGES
+LANG_ENGLISH        "^3F2^0-^7 View Challenges"
+
+REFERENCE           PLATFORM_VIEW_CHALLENGE_DETAILS
+LANG_ENGLISH        "^3F2^0-^7 Challenge Details"
+
+REFERENCE           PLATFORM_YES
+LANG_ENGLISH        "Yes"
+
+ENDMARKER

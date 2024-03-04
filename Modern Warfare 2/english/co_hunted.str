@@ -1,0 +1,112 @@
+// Dumped from fastfile "co_hunted".
+// In their original format the strings might have been separated in multiple files.
+VERSION             "1"
+CONFIG              "C:/trees/cod3/cod3/bin/StringEd.cfg"
+FILENOTES           ""
+
+REFERENCE           AC130_CIVILIAN_FIRE
+LANG_ENGLISH        "You harmed a civilian! Mission failed."
+
+REFERENCE           AC130_CIVILIAN_FIRE_VEHICLE
+LANG_ENGLISH        "You attacked a civilian vehicle! Mission failed."
+
+REFERENCE           AC130_DEBUG_FRIENDLY_COUNT
+LANG_ENGLISH        "Friendlies: &&1"
+
+REFERENCE           AC130_DO_NOT_ENGAGE
+LANG_ENGLISH        "You have not been cleared to fire. Mission failed."
+
+REFERENCE           AC130_FRIENDLIES_DEAD
+LANG_ENGLISH        "Too many friendlies have been KIA. Mission failed."
+
+REFERENCE           AC130_FRIENDLY_FIRE
+LANG_ENGLISH        "Friendly fire will not be tolerated!\nWatch for blinking IR strobes on friendly units!"
+
+REFERENCE           AC130_FRIENDLY_FIRE_HELICOPTER
+LANG_ENGLISH        "You attacked a friendly helicopter!"
+
+REFERENCE           AC130_HINT_CYCLE_WEAPONS
+LANG_ENGLISH        "Press ^3[{weapnext}]^7 to cycle through weapons."
+
+REFERENCE           AC130_HUD_AGL
+LANG_ENGLISH        "&&1 AGL"
+
+REFERENCE           AC130_HUD_BOTTOM_BLOCK
+LANG_ENGLISH        "L1514    RDY"
+
+REFERENCE           AC130_HUD_LEFT_BLOCK
+LANG_ENGLISH        "RAY\nFF 30\nLIR\n\nBORE"
+
+REFERENCE           AC130_HUD_RIGHT_BLOCK
+LANG_ENGLISH        "N\nT\n\nS\nF\n\nQ\nZ\n\nT\nG\nT"
+
+REFERENCE           AC130_HUD_RIGHT_BLOCK_SHORT
+LANG_ENGLISH        "N\nT\n\nS\nF\n\nQ\nZ"
+
+REFERENCE           AC130_HUD_THERMAL_BHOT
+LANG_ENGLISH        "BHOT"
+
+REFERENCE           AC130_HUD_THERMAL_WHOT
+LANG_ENGLISH        "WHOT"
+
+REFERENCE           AC130_HUD_TOP_BAR
+LANG_ENGLISH        "\n0         A-G        MAN    NARO"
+
+REFERENCE           AC130_HUD_WEAPON_105MM
+LANG_ENGLISH        "105 mm"
+
+REFERENCE           AC130_HUD_WEAPON_25MM
+LANG_ENGLISH        "25 mm"
+
+REFERENCE           AC130_HUD_WEAPON_40MM
+LANG_ENGLISH        "40 mm"
+
+REFERENCE           AC130_OBJECTIVE_SUPPORT_FRIENDLIES
+LANG_ENGLISH        "Provide AC-130 air support for friendly SAS ground units."
+
+REFERENCE           AC130_RELOADING
+LANG_ENGLISH        "Reloading"
+
+REFERENCE           CO_HUNTED_HINT_LASER
+LANG_ENGLISH        "Press ^3[{+actionslot 4}]^7 to toggle laser targeting device."
+
+REFERENCE           CO_HUNTED_MISSED_CHECKPOINT_A
+LANG_ENGLISH        "Checkpoint A time expired."
+
+REFERENCE           CO_HUNTED_MISSED_CHECKPOINT_B
+LANG_ENGLISH        "Checkpoint B time expired."
+
+REFERENCE           CO_HUNTED_MISSED_CHECKPOINT_C
+LANG_ENGLISH        "Checkpoint C time expired."
+
+REFERENCE           CO_HUNTED_MISSED_CHECKPOINT_D
+LANG_ENGLISH        "Checkpoint D time expired."
+
+REFERENCE           CO_HUNTED_OBJ_CROSS_BRIDGE
+LANG_ENGLISH        "Cross the bridge to safety before it is destroyed."
+
+REFERENCE           CO_HUNTED_OBJ_REACH_BARN
+LANG_ENGLISH        "Reach the Safe House."
+
+REFERENCE           CO_HUNTED_TIMER_EXPIRED
+LANG_ENGLISH        "Mission failed. Enemy destroyed the bridge."
+
+REFERENCE           CO_HUNTED_TIME_TILL_CHECKPOINT_A
+LANG_ENGLISH        "Checkpoint A: "
+
+REFERENCE           CO_HUNTED_TIME_TILL_CHECKPOINT_B
+LANG_ENGLISH        "Checkpoint B: "
+
+REFERENCE           CO_HUNTED_TIME_TILL_CHECKPOINT_C
+LANG_ENGLISH        "Checkpoint C: "
+
+REFERENCE           CO_HUNTED_TIME_TILL_CHECKPOINT_D
+LANG_ENGLISH        "Checkpoint D: "
+
+REFERENCE           CO_HUNTED_TIME_TILL_CHECKPOINT_E
+LANG_ENGLISH        "Checkpoint E: "
+
+REFERENCE           CO_HUNTED_TIME_TILL_EXPLOSION
+LANG_ENGLISH        "Cross the bridge in: "
+
+ENDMARKER

@@ -1,0 +1,34 @@
+// Dumped from fastfile "dc_whitehouse".
+// In their original format the strings might have been separated in multiple files.
+VERSION             "1"
+CONFIG              "C:/trees/cod3/cod3/bin/StringEd.cfg"
+FILENOTES           ""
+
+REFERENCE           DC_WHITEHOUSE_FLARE_DEADQUOTE
+LANG_ENGLISH        "You failed to deploy flares in time to stop the Hammerdown."
+
+REFERENCE           DC_WHITEHOUSE_INTROSCREEN_1
+LANG_ENGLISH        "\"Whiskey Hotel\""
+
+REFERENCE           DC_WHITEHOUSE_INTROSCREEN_2
+LANG_ENGLISH        "Day 5 - 19:28:[{FAKE_INTRO_SECONDS:22}]"
+
+REFERENCE           DC_WHITEHOUSE_INTROSCREEN_3
+LANG_ENGLISH        "Pvt. James Ramirez"
+
+REFERENCE           DC_WHITEHOUSE_INTROSCREEN_4
+LANG_ENGLISH        "1st Bn., 75th Ranger Regiment"
+
+REFERENCE           DC_WHITEHOUSE_INTROSCREEN_5
+LANG_ENGLISH        "Washington, D.C., U.S.A."
+
+REFERENCE           DC_WHITEHOUSE_OBJ_BREACH_WH
+LANG_ENGLISH        "Enter the West Wing."
+
+REFERENCE           DC_WHITEHOUSE_OBJ_DEPLOY_FLARE
+LANG_ENGLISH        "Deploy green flares on the roof."
+
+REFERENCE           DC_WHITEHOUSE_OBJ_WHISKEY_HOTEL
+LANG_ENGLISH        "Follow Sgt. Foley to Whiskey Hotel."
+
+ENDMARKER

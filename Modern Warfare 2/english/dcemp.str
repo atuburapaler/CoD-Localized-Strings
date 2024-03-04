@@ -1,0 +1,64 @@
+// Dumped from fastfile "dcemp".
+// In their original format the strings might have been separated in multiple files.
+VERSION             "1"
+CONFIG              "C:/trees/cod3/cod3/bin/StringEd.cfg"
+FILENOTES           ""
+
+REFERENCE           DCEMP_FLARE_DEADQUOTE
+LANG_ENGLISH        "You failed to deploy flares in time to stop the Hammerdown."
+
+REFERENCE           DCEMP_INTROSCREEN_1
+LANG_ENGLISH        "\"Second Sun\""
+
+REFERENCE           DCEMP_INTROSCREEN_2
+LANG_ENGLISH        "Day 5 - 18:57:[{FAKE_INTRO_SECONDS:17}]"
+
+REFERENCE           DCEMP_INTROSCREEN_3
+LANG_ENGLISH        "Pvt. James Ramirez"
+
+REFERENCE           DCEMP_INTROSCREEN_4
+LANG_ENGLISH        "1st Bn., 75th Ranger Regiment"
+
+REFERENCE           DCEMP_INTROSCREEN_5
+LANG_ENGLISH        "Washington, D.C., U.S.A."
+
+REFERENCE           DCEMP_ISS_INTROSCREEN1
+LANG_ENGLISH        "Cpl. D. Hicks"
+
+REFERENCE           DCEMP_ISS_INTROSCREEN2
+LANG_ENGLISH        "The International Space Station"
+
+REFERENCE           DCEMP_ISS_INTROSCREEN3
+LANG_ENGLISH        "350 KM above the Earth's surface"
+
+REFERENCE           DCEMP_MISSIONFAIL_LEFT_CHOPPER
+LANG_ENGLISH        "Take cover inside the crashed helicopter."
+
+REFERENCE           DCEMP_OBJ_BREACH_WH
+LANG_ENGLISH        "Breach the White House."
+
+REFERENCE           DCEMP_OBJ_CRASH_SITE
+LANG_ENGLISH        "Defend the crash site."
+
+REFERENCE           DCEMP_OBJ_DEPLOY_FLARE
+LANG_ENGLISH        "Deploy green flares on the roof."
+
+REFERENCE           DCEMP_OBJ_FIND_SHELTER
+LANG_ENGLISH        "Get off the street and find shelter."
+
+REFERENCE           DCEMP_OBJ_FOLLOW_SGT_FOLEY
+LANG_ENGLISH        "Follow Sgt. Foley."
+
+REFERENCE           DCEMP_OBJ_HELI_RIDE
+LANG_ENGLISH        "Eliminate all ground resistance"
+
+REFERENCE           DCEMP_OBJ_WHISKEY_HOTEL
+LANG_ENGLISH        "Follow Sgt. Foley to Whiskey Hotel."
+
+REFERENCE           DCEMP_RAN_OUT_OF_TIME
+LANG_ENGLISH        "You did not reach the rooftop helicopter in time."
+
+REFERENCE           DCEMP_SWITCH_HEARTBEAT
+LANG_ENGLISH        "Press^3 [{+actionslot 3}] ^7to activate heartbeat sensor."
+
+ENDMARKER
