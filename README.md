@@ -4,6 +4,7 @@
   <source media="(prefers-color-scheme: light)" srcset="https://github.com/atuburapaler/CoD-Localized-Strings/blob/main/Header-Alt.png">
   <img alt="Main header." src="https://github.com/atuburapaler/CoD-Localized-Strings/blob/main/Header-Alt.png">
 </picture>
+
 Compilation of Localized Strings from Call of Duty games. Currently on English and Spanish (Spain).
 # Note
 If you are editing strings that contain Latin characters, please first save the file in the ISO 8859-1 (Western) encoder.
