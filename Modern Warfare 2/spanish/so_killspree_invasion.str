@@ -1,0 +1,76 @@
+// Dumped from fastfile "so_killspree_invasion".
+// In their original format the strings might have been separated in multiple files.
+VERSION             "1"
+CONFIG              "C:/trees/cod3/cod3/bin/StringEd.cfg"
+FILENOTES           ""
+
+REFERENCE           SO_KILLSPREE_INVASION_DEADQUOTE_HINT1
+LANG_ENGLISH        "INFORMACIÓN DE OPERACIÓN\n Cuantas más bajas enemigas consecutivas consigas, mayor será la bonificación por combo recibida."
+
+REFERENCE           SO_KILLSPREE_INVASION_DEADQUOTE_HINT2
+LANG_ENGLISH        "INFORMACIÓN DE OPERACIÓN\n Los enemigos caídos valen menos puntos, a menos que les claves un cuchillo."
+
+REFERENCE           SO_KILLSPREE_INVASION_DEADQUOTE_HINT3
+LANG_ENGLISH        "INFORMACIÓN DE OPERACIÓN\n Busca la forma de matar a muchos enemigos rápidamente y ve a por blancos con valores altos."
+
+REFERENCE           SO_KILLSPREE_INVASION_DEADQUOTE_HINT4
+LANG_ENGLISH        "INFORMACIÓN DE OPERACIÓN\n Los BTR80 te arrebatarán el blanco si consiguen el tiro de gracia. ¡Elimínalos!"
+
+REFERENCE           SO_KILLSPREE_INVASION_DEADQUOTE_HINT5
+LANG_ENGLISH        "INFORMACIÓN DE OPERACIÓN\n Para que una muerte cuente, el tiro de gracia tendrá que ser tuyo."
+
+REFERENCE           SO_KILLSPREE_INVASION_EOG_COMBOS
+LANG_ENGLISH        "Combo más largo"
+
+REFERENCE           SO_KILLSPREE_INVASION_EOG_COMBOS_X
+LANG_ENGLISH        "x"
+
+REFERENCE           SO_KILLSPREE_INVASION_EOG_HEARTLESS
+LANG_ENGLISH        "Bajas despiadadas"
+
+REFERENCE           SO_KILLSPREE_INVASION_EOG_SCORE
+LANG_ENGLISH        "Puntuación total"
+
+REFERENCE           SO_KILLSPREE_INVASION_EOG_SOLID
+LANG_ENGLISH        "Bajas fáciles/buenas"
+
+REFERENCE           SO_KILLSPREE_INVASION_HUD_REMAINING
+LANG_ENGLISH        "Restantes: "
+
+REFERENCE           SO_KILLSPREE_INVASION_OBJ_HARDENED
+LANG_ENGLISH        "Acumula 30.000 puntos. Las bajas rápidas valen puntos de bonificación."
+
+REFERENCE           SO_KILLSPREE_INVASION_OBJ_REGULAR
+LANG_ENGLISH        "Acumula 30.000 puntos. Las bajas rápidas valen puntos de bonificación."
+
+REFERENCE           SO_KILLSPREE_INVASION_OBJ_VETERAN
+LANG_ENGLISH        "Acumula 30.000 puntos. Las bajas rápidas valen puntos de bonificación."
+
+REFERENCE           SO_KILLSPREE_INVASION_PLAYER_LINE
+LANG_ENGLISH        "&&1: "
+
+REFERENCE           SO_KILLSPREE_INVASION_SCORE_ASSIST
+LANG_ENGLISH        "¡Asistencia!"
+
+REFERENCE           SO_KILLSPREE_INVASION_SCORE_BRUTAL
+LANG_ENGLISH        "¡Baja despiadada!"
+
+REFERENCE           SO_KILLSPREE_INVASION_SCORE_BTR80
+LANG_ENGLISH        "¡Megabaja con BTR80!"
+
+REFERENCE           SO_KILLSPREE_INVASION_SCORE_DOWNED
+LANG_ENGLISH        "¡Incapacitado!"
+
+REFERENCE           SO_KILLSPREE_INVASION_SCORE_FINISHED
+LANG_ENGLISH        "¡Baja fácil!"
+
+REFERENCE           SO_KILLSPREE_INVASION_SCORE_KILL
+LANG_ENGLISH        "¡Buena baja!"
+
+REFERENCE           SO_KILLSPREE_INVASION_SPLASH_BONUS
+LANG_ENGLISH        "Bonificación:"
+
+REFERENCE           SO_KILLSPREE_INVASION_SPLASH_COMBO
+LANG_ENGLISH        "Combo x"
+
+ENDMARKER

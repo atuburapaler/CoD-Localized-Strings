@@ -1,0 +1,76 @@
+// Dumped from fastfile "roadkill".
+// In their original format the strings might have been separated in multiple files.
+VERSION             "1"
+CONFIG              "C:/trees/cod3/cod3/bin/StringEd.cfg"
+FILENOTES           ""
+
+REFERENCE           ROADKILL_BRIDGELAYER_DESTROYED
+LANG_ENGLISH        "Han destruido el puente móvil."
+
+REFERENCE           ROADKILL_GOT_SNIPED
+LANG_ENGLISH        "Sería más seguro ir en el convoy."
+
+REFERENCE           ROADKILL_HOLD_TO_BOARD
+LANG_ENGLISH        "Mantén pulsado ^3&&1^7 para subir."
+
+REFERENCE           ROADKILL_LINE_1
+LANG_ENGLISH        "\"Jugador de equipo\""
+
+REFERENCE           ROADKILL_LINE_2
+LANG_ENGLISH        "Día 1 - 16:08:[{FAKE_INTRO_SECONDS:32}]"
+
+REFERENCE           ROADKILL_LINE_3
+LANG_ENGLISH        "Sol. 1ª Joseph Allen"
+
+REFERENCE           ROADKILL_LINE_4
+LANG_ENGLISH        "1er Bn, 75º regimiento de Rangers"
+
+REFERENCE           ROADKILL_LINE_5
+LANG_ENGLISH        "La zona roja, Afganistán"
+
+REFERENCE           ROADKILL_OBJECTIVE_AIRSTRIKE
+LANG_ENGLISH        "Espera el ataque aéreo."
+
+REFERENCE           ROADKILL_OBJECTIVE_BRIDGELAYER
+LANG_ENGLISH        "Protege el puente móvil."
+
+REFERENCE           ROADKILL_OBJECTIVE_DISMOUNT
+LANG_ENGLISH        "Busca el colegio."
+
+REFERENCE           ROADKILL_OBJECTIVE_EXFIL
+LANG_ENGLISH        "Infíltrate y llega hasta el punto de enlace."
+
+REFERENCE           ROADKILL_OBJECTIVE_HUMVEE
+LANG_ENGLISH        "Súbete al Humvee."
+
+REFERENCE           ROADKILL_OBJECTIVE_JAVELIN
+LANG_ENGLISH        "Destruye los vehículos blindados del otro lado del río."
+
+REFERENCE           ROADKILL_OBJECTIVE_REPORT
+LANG_ENGLISH        "Informa al general Shepherd en el punto de reunión."
+
+REFERENCE           ROADKILL_OBJECTIVE_RIVERBANK
+LANG_ENGLISH        "Acaba con los observadores enemigos."
+
+REFERENCE           ROADKILL_OBJECTIVE_SCAN
+LANG_ENGLISH        "Busca actividad enemiga. No dispares si no te disparan."
+
+REFERENCE           ROADKILL_OBJECTIVE_SCHOOL
+LANG_ENGLISH        "Acaba con la presencia enemiga en el colegio."
+
+REFERENCE           ROADKILL_OBJECTIVE_SHEPHERD
+LANG_ENGLISH        "Informa al coronel Shepherd."
+
+REFERENCE           ROADKILL_OBJECTIVE_TARGETS
+LANG_ENGLISH        "Destruye los objetivos de oportunidad."
+
+REFERENCE           ROADKILL_ONE_YEAR_AGO
+LANG_ENGLISH        "Hace 1 año..."
+
+REFERENCE           ROADKILL_SHOT_TOO_MUCH
+LANG_ENGLISH        "No se tolerarán las descargas no sancionadas."
+
+REFERENCE           ROADKILL_SHOT_UNARMED
+LANG_ENGLISH        "No estás autorizado a disparar contra objetivos no blindados."
+
+ENDMARKER

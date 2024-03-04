@@ -1,0 +1,391 @@
+// Dumped from fastfile "patch_mp".
+// In their original format the strings might have been separated in multiple files.
+VERSION             "1"
+CONFIG              "C:/trees/cod3/cod3/bin/StringEd.cfg"
+FILENOTES           ""
+
+REFERENCE           DLC_1
+LANG_ENGLISH        "Descarga de contenido 1"
+
+REFERENCE           DLC_2
+LANG_ENGLISH        "Descarga de contenido 2"
+
+REFERENCE           DLC_NOTEVERYONEHASREQUIREDDLC
+LANG_ENGLISH        "Esta lista de partidas requiere un paquete de mapas que tú sí tienes, pero otros miembros del grupo no."
+
+REFERENCE           DLC_PLAYER_DOESNT_HAVE_MAP_PACK
+LANG_ENGLISH        "¡Se ha desactivado a &&2!\n&&1 no tiene el paquete de mapas."
+
+REFERENCE           DLC_PLAYLIST_MAPS_NOT_ENABLED
+LANG_ENGLISH        "Esta lista de partidas requiere paquetes de mapas que estén desactivados."
+
+REFERENCE           DLC_UNKNOWN
+LANG_ENGLISH        "Paquete de contenido desconocido"
+
+REFERENCE           KEY_DOWNARROW
+LANG_ENGLISH        "Abajo"
+
+REFERENCE           KEY_LEFTARROW
+LANG_ENGLISH        "Izda."
+
+REFERENCE           KEY_MOUSE3
+LANG_ENGLISH        "Ratón cent."
+
+REFERENCE           KEY_OR
+LANG_ENGLISH        "o"
+
+REFERENCE           KEY_RIGHTARROW
+LANG_ENGLISH        "Dcha."
+
+REFERENCE           KEY_SHIFT
+LANG_ENGLISH        "Shift"
+
+REFERENCE           KEY_SPACE
+LANG_ENGLISH        "Espacio"
+
+REFERENCE           KEY_UNBOUND
+LANG_ENGLISH        "No estab."
+
+REFERENCE           KEY_UPARROW
+LANG_ENGLISH        "Arriba"
+
+REFERENCE           MPUI_DESC_BARRACKS
+LANG_ENGLISH        "Desafíos, galardones y opciones."
+
+REFERENCE           MPUI_RULES_KILLSTREAK_REWARDS
+LANG_ENGLISH        "Recompensas racha bajas:"
+
+REFERENCE           PATCH_ABANDON
+LANG_ENGLISH        "Carnival"
+
+REFERENCE           PATCH_CHANGEHOSTTITLE
+LANG_ENGLISH        "Cambiar líder del grupo"
+
+REFERENCE           PATCH_COMPACT
+LANG_ENGLISH        "Salvage"
+
+REFERENCE           PATCH_COMPLEX
+LANG_ENGLISH        "Bailout"
+
+REFERENCE           PATCH_CRASH
+LANG_ENGLISH        "Crash"
+
+REFERENCE           PATCH_DESC_BARRACKS
+LANG_ENGLISH        "Desafíos, galardones y opciones."
+
+REFERENCE           PATCH_DESC_MAP_ABANDON
+LANG_ENGLISH        "Enorme parque de atracciones abandonado. Genial para todos los modos de juego."
+
+REFERENCE           PATCH_DESC_MAP_COMPACT
+LANG_ENGLISH        "Un desguace cubierto por la nieve. Acción trepidante a raudales."
+
+REFERENCE           PATCH_DESC_MAP_COMPLEX
+LANG_ENGLISH        "Complejo de apartamentos infestado. Amplias líneas de tiro con geniales rutas de flanqueo."
+
+REFERENCE           PATCH_DESC_MAP_CRASH
+LANG_ENGLISH        "Sea Knight derribado en una ciudad desértica. Fantástico para las partidas por equipos."
+
+REFERENCE           PATCH_DESC_MAP_FUEL2
+LANG_ENGLISH        "Gigantesca refinería petrolífera con buen equilibrio de enfrentamientos a media y a larga distancia."
+
+REFERENCE           PATCH_DESC_MAP_OVERGROWN
+LANG_ENGLISH        "Zona rural rusa extensa. Los trajes de camuflaje para francotiradores resultan útiles."
+
+REFERENCE           PATCH_DESC_MAP_STORM
+LANG_ENGLISH        "Violento distrito de almacenes. Intensos combates en equipo."
+
+REFERENCE           PATCH_DESC_MAP_STRIKE
+LANG_ENGLISH        "Ciudad desértica grande. Excelente para las partidas por equipos."
+
+REFERENCE           PATCH_DESC_MAP_TRAILERPARK
+LANG_ENGLISH        "Parque de caravanas de tamaño medio con corredores laterales y muchas coberturas. Se lucha desde todos los ángulos.\n\n"
+
+REFERENCE           PATCH_DESC_MAP_VACANT
+LANG_ENGLISH        "Oficina abandonada rusa. Luchas intensas en interiores."
+
+REFERENCE           PATCH_DLCMAPS
+LANG_ENGLISH        "Mapas descargados de Steam."
+
+REFERENCE           PATCH_DLC_MAPS
+LANG_ENGLISH        "Mapas adicionales"
+
+REFERENCE           PATCH_DLC_MAPS_DESC
+LANG_ENGLISH        "Mapas multijugador adicionales."
+
+REFERENCE           PATCH_DLC_MAPS_DESC_LOCKED
+LANG_ENGLISH        "Descarga mapas multijugador adicionales."
+
+REFERENCE           PATCH_DOWNLOAD_CONTENT
+LANG_ENGLISH        "Descargar contenido"
+
+REFERENCE           PATCH_DOWNLOAD_CONTENT_CAPS
+LANG_ENGLISH        "DESCARGAR CONTENIDO"
+
+REFERENCE           PATCH_DOWNLOAD_MAPS
+LANG_ENGLISH        "Descargar mapas"
+
+REFERENCE           PATCH_DOWNLOAD_MAPS_CAPS
+LANG_ENGLISH        "DESCARGAR MAPAS"
+
+REFERENCE           PATCH_FUEL2
+LANG_ENGLISH        "Fuel"
+
+REFERENCE           PATCH_INVALIDPASSWORD
+LANG_ENGLISH        "Contraseña no válida."
+
+REFERENCE           PATCH_INVITE_FRIEND_TO_PARTY
+LANG_ENGLISH        "Invitar a un amigo al grupo"
+
+REFERENCE           PATCH_INVITE_TO_PARTY
+LANG_ENGLISH        "Invitar al grupo"
+
+REFERENCE           PATCH_MAKEHOSTQUESTION
+LANG_ENGLISH        "¿Nombrar a &&1 como nuevo líder del grupo?"
+
+REFERENCE           PATCH_MISSINGMAP
+LANG_ENGLISH        "No tienes este mapa. Puedes descargar paquetes de mapas de Steam."
+
+REFERENCE           PATCH_OVERGROWN
+LANG_ENGLISH        "Overgrown"
+
+REFERENCE           PATCH_PARTY_INVITE_ACCEPT
+LANG_ENGLISH        "Unirse al grupo"
+
+REFERENCE           PATCH_PARTY_INVITE_DECLINE
+LANG_ENGLISH        "Rechazar"
+
+REFERENCE           PATCH_PARTY_INVITE_QUESTION
+LANG_ENGLISH        "&&1 te ha invitado a su grupo."
+
+REFERENCE           PATCH_PARTY_INVITE_QUESTION_PARTY_HOST
+LANG_ENGLISH        "&&1 te ha invitado a su grupo.\nSi aceptas, disolverás tu grupo."
+
+REFERENCE           PATCH_PARTY_INVITE_TITLE
+LANG_ENGLISH        "Invitación de grupo"
+
+REFERENCE           PATCH_PLAYLIST_REQUIRES_DLC
+LANG_ENGLISH        "Esta lista de partidas requiere un paquete de mapas que no tienes. Puedes descargar paquetes de mapas desde Steam."
+
+REFERENCE           PATCH_PRESTIGE_RESET_WARNING1
+LANG_ENGLISH        "Cambia todos tus logros por un poco de prestigio. Además de recibir un icono de rango de prestigio, podrás acceder a nuevos títulos, emblemas y desafíos.\n\nOtros jugadores verán tu nuevo icono de rango de prestigio en el punto de encuentro y en el juego."
+
+REFERENCE           PATCH_PRESTIGE_RESET_WARNING2
+LANG_ENGLISH        "El prestigio tiene un precio: todo lo que has desbloqueado, incluidos los desafíos, la experiencia y las armas, se reiniciará; tendrás que volver a ascender de rango para recuperarlo.\n\nTus títulos, emblemas y listas de reproducción no se verán afectados."
+
+REFERENCE           PATCH_SEARCHINGFORGAMES_NMS
+LANG_ENGLISH        "Buscando partidas: <&&1 ms de ping"
+
+REFERENCE           PATCH_SETASHOST
+LANG_ENGLISH        "Nombrar líder"
+
+REFERENCE           PATCH_STORM
+LANG_ENGLISH        "Storm"
+
+REFERENCE           PATCH_STRICTHINT
+LANG_ENGLISH        "Visita ^2www.infinityward.com/nat^7 para ABRIR el NAT de tu router.\n"
+
+REFERENCE           PATCH_STRICTHINT_COOP
+LANG_ENGLISH        "Los demás jugadores quizás tengan dificultades para conectarse contigo. Puede que los jugadores que has invitado al punto de encuentro no logren acceder. Visita ^2www.infinityward.com/nat^7 para ABRIR el NAT de tu router."
+
+REFERENCE           PATCH_STRIKE
+LANG_ENGLISH        "Strike"
+
+REFERENCE           PATCH_TRAILERPARK
+LANG_ENGLISH        "Trailer Park"
+
+REFERENCE           PATCH_VACANT
+LANG_ENGLISH        "Vacant"
+
+REFERENCE           PATCH_YOUAREHOST
+LANG_ENGLISH        "Ahora eres el líder del grupo."
+
+REFERENCE           PLATFORM_PLAY_ONLINE_CAPS
+LANG_ENGLISH        "JUGAR"
+
+REFERENCE           XBOXLIVE_AWAY
+LANG_ENGLISH        "Ausente"
+
+REFERENCE           XBOXLIVE_BUSY
+LANG_ENGLISH        "Ocupado"
+
+REFERENCE           XBOXLIVE_CANTJOINSESSION
+LANG_ENGLISH        "No es posible unirse a la partida"
+
+REFERENCE           XBOXLIVE_CLANSETTINGS
+LANG_ENGLISH        "Ajustes del clan"
+
+REFERENCE           XBOXLIVE_DESTROYPARTY
+LANG_ENGLISH        "¿Finalizar grupo?"
+
+REFERENCE           XBOXLIVE_DOWNLOAD_FAIL
+LANG_ENGLISH        "No se ha podido completar la descarga de la actualización en línea."
+
+REFERENCE           XBOXLIVE_EDITCLANINFO
+LANG_ENGLISH        "Editar datos del clan"
+
+REFERENCE           XBOXLIVE_ENDOFMATCH
+LANG_ENGLISH        "Fin de la partida"
+
+REFERENCE           XBOXLIVE_EXTERNALMUTE
+LANG_ENGLISH        "El jugador está silenciado externamente."
+
+REFERENCE           XBOXLIVE_EXTERNALMUTE_TITLE
+LANG_ENGLISH        "No se puede activar silencio"
+
+REFERENCE           XBOXLIVE_FINDGAME
+LANG_ENGLISH        " buscar partida"
+
+REFERENCE           XBOXLIVE_FINDGAMELOBBY
+LANG_ENGLISH        " Buscar punto de encuentro"
+
+REFERENCE           XBOXLIVE_FRIENDSLIST
+LANG_ENGLISH        " amigos"
+
+REFERENCE           XBOXLIVE_FRIENDSLISTONX
+LANG_ENGLISH        " amigos"
+
+REFERENCE           XBOXLIVE_HOSTKICKPLAYER
+LANG_ENGLISH        " Expulsar jugador"
+
+REFERENCE           XBOXLIVE_INVALIDPERMISSIONS
+LANG_ENGLISH        "El usuario &&1 no tiene permiso para realizar esa operación"
+
+REFERENCE           XBOXLIVE_INVITE
+LANG_ENGLISH        " invitar a amigos"
+
+REFERENCE           XBOXLIVE_INVITE_ONLY
+LANG_ENGLISH        "El punto de encuentro es solo con invitación"
+
+REFERENCE           XBOXLIVE_KICK
+LANG_ENGLISH        "Expulsar"
+
+REFERENCE           XBOXLIVE_KICKPLAYER
+LANG_ENGLISH        "¿Expulsar a &&1?"
+
+REFERENCE           XBOXLIVE_KICKPLAYERINLIST
+LANG_ENGLISH        " EXPULSAR JUGADOR"
+
+REFERENCE           XBOXLIVE_LEADERBOARDS
+LANG_ENGLISH        "Marcadores"
+
+REFERENCE           XBOXLIVE_LEAVELOBBY
+LANG_ENGLISH        "¿Abandonar punto de encuentro?"
+
+REFERENCE           XBOXLIVE_LEAVEPARTY
+LANG_ENGLISH        "¿Abandonar grupo?"
+
+REFERENCE           XBOXLIVE_LEAVEPARTYANDLOBBY
+LANG_ENGLISH        "¿Abandonar punto de encuentro y grupo?"
+
+REFERENCE           XBOXLIVE_LEAVEPARTYBUTTON
+LANG_ENGLISH        " Abandonar grupo"
+
+REFERENCE           XBOXLIVE_LIVEERROR
+LANG_ENGLISH        "Se ha interrumpido la comunicación con los servidores de IWNet."
+
+REFERENCE           XBOXLIVE_LOBBYENDED
+LANG_ENGLISH        "Punto de encuentro cerrado"
+
+REFERENCE           XBOXLIVE_LOBBYGAMERCARD
+LANG_ENGLISH        " Ver la tarjeta de jugador"
+
+REFERENCE           XBOXLIVE_LOCAL_SERVER
+LANG_ENGLISH        "Servidor local"
+
+REFERENCE           XBOXLIVE_LOGGEDOFF
+LANG_ENGLISH        "Se ha cerrado la sesión de IWNet"
+
+REFERENCE           XBOXLIVE_MPNOTALLOWED
+LANG_ENGLISH        "El perfil actual no tiene permiso para jugar en IWNet."
+
+REFERENCE           XBOXLIVE_MUSTLOGIN
+LANG_ENGLISH        "Debes iniciar sesión para poder jugar en Modern Warfare 2"
+
+REFERENCE           XBOXLIVE_NOTSIGNEDIN
+LANG_ENGLISH        "No has iniciado sesión con un perfil"
+
+REFERENCE           XBOXLIVE_NOTSIGNEDINLIVE
+LANG_ENGLISH        "No has iniciado sesión con un perfil de IWNet"
+
+REFERENCE           XBOXLIVE_ONLINE
+LANG_ENGLISH        "En línea"
+
+REFERENCE           XBOXLIVE_PARTYDETAILS
+LANG_ENGLISH        " detalles del grupo"
+
+REFERENCE           XBOXLIVE_PARTYENDED
+LANG_ENGLISH        "El grupo ya no está activo"
+
+REFERENCE           XBOXLIVE_PLAYER0
+LANG_ENGLISH        "Invitado 1"
+
+REFERENCE           XBOXLIVE_PLAYER1
+LANG_ENGLISH        "Invitado 2"
+
+REFERENCE           XBOXLIVE_PLAYER2
+LANG_ENGLISH        "Invitado 3"
+
+REFERENCE           XBOXLIVE_PLAYER3
+LANG_ENGLISH        "Invitado 4"
+
+REFERENCE           XBOXLIVE_PLAYER_MUTE
+LANG_ENGLISH        "Activar silencio"
+
+REFERENCE           XBOXLIVE_PLAYLISTISNEW
+LANG_ENGLISH        "Los datos de tu lista de partidas son más recientes que los del host. No podrás jugar con ellos hasta que reinicien para obtener las nuevas listas de partidas."
+
+REFERENCE           XBOXLIVE_PLAYLISTISOLD
+LANG_ENGLISH        "Los datos de tu lista de partidas son más antiguos que los del host. Tienes que reiniciar el juego o volverte a conectar para obtener las nuevas listas de partidas."
+
+REFERENCE           XBOXLIVE_PLAYLISTUSERCOUNT
+LANG_ENGLISH        "&&1/&&2 Total jugadores en listas de partidas"
+
+REFERENCE           XBOXLIVE_RESTRICTEDCLAN
+LANG_ENGLISH        "Este servidor solo permite que jueguen los miembros de determinados clanes."
+
+REFERENCE           XBOXLIVE_SAVE_FAIL
+LANG_ENGLISH        "No se ha podido completar el acceso al dispositivo de almacenamiento para actualizar en línea."
+
+REFERENCE           XBOXLIVE_SELECTBUTTON
+LANG_ENGLISH        "¡Haz clic aquí!"
+
+REFERENCE           XBOXLIVE_SERVICENAME
+LANG_ENGLISH        "IWNet"
+
+REFERENCE           XBOXLIVE_SIGNEDINAS
+LANG_ENGLISH        "Conectado como: &&1"
+
+REFERENCE           XBOXLIVE_SIGNEDOUT
+LANG_ENGLISH        "Tu perfil ha sido desconectado"
+
+REFERENCE           XBOXLIVE_SIGNEDOUTOFLIVE
+LANG_ENGLISH        "Para jugar partidas en línea tienes que iniciar sesión en IWNet."
+
+REFERENCE           XBOXLIVE_SIGNIN
+LANG_ENGLISH        "Iniciar sesión en IWNet"
+
+REFERENCE           XBOXLIVE_SIGNINCHANGED
+LANG_ENGLISH        "Tu estado de inicio de sesión ha cambiado, volviendo al menú principal"
+
+REFERENCE           XBOXLIVE_SIGNOUT
+LANG_ENGLISH        "Salir de IWNet"
+
+REFERENCE           XBOXLIVE_SIGN_IN_TO_SAVE
+LANG_ENGLISH        "Inicia sesión para guardar tus progresos."
+
+REFERENCE           XBOXLIVE_SPLITSCREEN_SIGN_IN
+LANG_ENGLISH        "Iniciar sesión en pantalla dividida"
+
+REFERENCE           XBOXLIVE_TOTALUSERCOUNT
+LANG_ENGLISH        "&&1 Total de jugadores en línea"
+
+REFERENCE           XBOXLIVE_VIEWCLANINFO
+LANG_ENGLISH        "Información del clan"
+
+REFERENCE           XBOXLIVE_VIEW_GAMER_CARD
+LANG_ENGLISH        " ver jugador"
+
+REFERENCE           XBOXLIVE_VIEW_PROFILE
+LANG_ENGLISH        "Ver tarjeta de jugador"
+
+ENDMARKER

@@ -1,0 +1,118 @@
+// Dumped from fastfile "af_caves".
+// In their original format the strings might have been separated in multiple files.
+VERSION             "1"
+CONFIG              "C:/trees/cod3/cod3/bin/StringEd.cfg"
+FILENOTES           ""
+
+REFERENCE           AF_CAVES_DEADQUOTE_ABANDONED_PRICE
+LANG_ENGLISH        "Has abandonado al capitán Price."
+
+REFERENCE           AF_CAVES_DESCEND
+LANG_ENGLISH        "Mantén pulsado ^3[{+attack}]^7 para frenar."
+
+REFERENCE           AF_CAVES_FELL_TO_DEATH
+LANG_ENGLISH        "No has frenado a tiempo."
+
+REFERENCE           AF_CAVES_FOLLOW_PRICE
+LANG_ENGLISH        "Sigue al capitán Price."
+
+REFERENCE           AF_CAVES_HINT_C4_DETONATE
+LANG_ENGLISH        "Pulsa ^3[{+attack}]^7 para activar el C4."
+
+REFERENCE           AF_CAVES_HINT_C4_SWITCH
+LANG_ENGLISH        "Pulsa ^3[{+actionslot 2}]^7 para cambiar al detonador de C4."
+
+REFERENCE           AF_CAVES_LINE1
+LANG_ENGLISH        "\"Como en los viejos tiempos\""
+
+REFERENCE           AF_CAVES_LINE2
+LANG_ENGLISH        "Día 7 - [{FAKE_INTRO_TIME:17:32:22}]"
+
+REFERENCE           AF_CAVES_LINE3
+LANG_ENGLISH        "\"Soap\" MacTavish"
+
+REFERENCE           AF_CAVES_LINE4
+LANG_ENGLISH        "Hotel Bravo, Afganistán"
+
+REFERENCE           AF_CAVES_LOCATE_SHEPHERD
+LANG_ENGLISH        "Localiza a Shepherd.\n"
+
+REFERENCE           AF_CAVES_MISSIONFAIL_EXPLOSIVES
+LANG_ENGLISH        "Misión fallida.\nHas alcanzado los explosivos con un disparo y éstos han estallado."
+
+REFERENCE           AF_CAVES_OBJ_AMBUSH
+LANG_ENGLISH        "Reúnete con Price y tiende una emboscada al enemigo."
+
+REFERENCE           AF_CAVES_OBJ_BREACH
+LANG_ENGLISH        "Llega al control de Shepherd."
+
+REFERENCE           AF_CAVES_OBJ_DOOR_CONTROLS
+LANG_ENGLISH        "Anula los controles de la puerta."
+
+REFERENCE           AF_CAVES_OBJ_ESCAPE
+LANG_ENGLISH        "Escapa de la cueva."
+
+REFERENCE           AF_CAVES_OBJ_FLANK_AND_KILL
+LANG_ENGLISH        "Elimina la resistencia enemiga."
+
+REFERENCE           AF_CAVES_OBJ_GET_C4
+LANG_ENGLISH        "Busca C4 para tender una emboscada a la patrulla enemiga."
+
+REFERENCE           AF_CAVES_OBJ_HUMMER
+LANG_ENGLISH        "Sube a la torreta Humvee."
+
+REFERENCE           AF_CAVES_OBJ_HUMMER_GUNNER
+LANG_ENGLISH        "Elimina a toda la resistencia enemiga."
+
+REFERENCE           AF_CAVES_OBJ_LEDGE_TRAVERSE
+LANG_ENGLISH        "Cruza el puente de piedra."
+
+REFERENCE           AF_CAVES_OBJ_MARKER_C4
+LANG_ENGLISH        "C4"
+
+REFERENCE           AF_CAVES_OBJ_MARKER_C4_PLANT
+LANG_ENGLISH        "Coloca C4."
+
+REFERENCE           AF_CAVES_OBJ_MARKER_SUPPORT
+LANG_ENGLISH        "Apoyo"
+
+REFERENCE           AF_CAVES_OBJ_PLANT_C4
+LANG_ENGLISH        "Coloca C4 cerca de la puerta."
+
+REFERENCE           AF_CAVES_RAN_OUT_OF_TIME
+LANG_ENGLISH        "No has llegado a la salida de la cueva a tiempo."
+
+REFERENCE           AF_CAVES_RAPPEL
+LANG_ENGLISH        "Engánchate al guardarraíl."
+
+REFERENCE           AF_CAVES_RAPPEL_HINT
+LANG_ENGLISH        "Mantén pulsado ^3&&1^7 para engancharte."
+
+REFERENCE           AF_CAVES_REGROUP_WITH_PRICE
+LANG_ENGLISH        "Reagrúpate con Price."
+
+REFERENCE           AF_CAVES_SUPPORT_PRICE
+LANG_ENGLISH        "Apoya al capitán Price."
+
+REFERENCE           AF_CAVES_TIME_REMAINING
+LANG_ENGLISH        "Llega a la salida en: "
+
+REFERENCE           AF_CAVES_USE_KEYBOARD
+LANG_ENGLISH        "Mantén pulsado ^3&&1^7 para anular el bloqueo de la puerta."
+
+REFERENCE           SENTRY_CANNOT_PLACE
+LANG_ENGLISH        "Mueve la torreta a una ubicación válida."
+
+REFERENCE           SENTRY_DEBUG_SPAWN_ENEMIES
+LANG_ENGLISH        "Los enemigos reaparecen en 10 segundos"
+
+REFERENCE           SENTRY_MOVE
+LANG_ENGLISH        "Mantén pulsado ^3&&1^7 para mover la torreta."
+
+REFERENCE           SENTRY_PICKUP
+LANG_ENGLISH        "Mantén pulsado ^3&&1^7 para recoger la torreta."
+
+REFERENCE           SENTRY_PLACE
+LANG_ENGLISH        "Pulsa ^3[{+attack}]^7 para colocar la torreta."
+
+ENDMARKER

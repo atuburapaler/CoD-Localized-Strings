@@ -1,0 +1,52 @@
+// Dumped from fastfile "airport".
+// In their original format the strings might have been separated in multiple files.
+VERSION             "1"
+CONFIG              "C:/trees/cod3/cod3/bin/StringEd.cfg"
+FILENOTES           ""
+
+REFERENCE           AIRPORT_EXPLODING_JET_ENGINE_DEATH
+LANG_ENGLISH        "Has muerto tras la explosión de un reactor.\nLos reactores que arden suelen explotar."
+
+REFERENCE           AIRPORT_FAIL_BLEW_COVER_FIRE
+LANG_ENGLISH        "Te has descubierto... No dispares al pelotón de Makarov."
+
+REFERENCE           AIRPORT_FAIL_BLEW_COVER_WANDER
+LANG_ENGLISH        "Te has descubierto... Convence a Makarov de que eres fiel a su causa."
+
+REFERENCE           AIRPORT_FAIL_POLICE_BARRICADE
+LANG_ENGLISH        "No podemos enfrentarnos al fuego de la barricada de la policía."
+
+REFERENCE           AIRPORT_LINE1
+LANG_ENGLISH        "\"Nada de ruso\""
+
+REFERENCE           AIRPORT_LINE2
+LANG_ENGLISH        "Día 3 - 08:40:[{FAKE_INTRO_SECONDS:32}]"
+
+REFERENCE           AIRPORT_LINE3
+LANG_ENGLISH        "Sol. 1ª Joseph Allen, alias Alexei Borodin"
+
+REFERENCE           AIRPORT_LINE4
+LANG_ENGLISH        "Aeropuerto Internacional Zakhaev"
+
+REFERENCE           AIRPORT_LINE5
+LANG_ENGLISH        "Moscú, Rusia"
+
+REFERENCE           AIRPORT_OBJ_COVER
+LANG_ENGLISH        "No te descubras."
+
+REFERENCE           AIRPORT_OBJ_COVER_COST
+LANG_ENGLISH        "No te descubras... Pase lo que pase."
+
+REFERENCE           AIRPORT_OBJ_COVER_TRUST
+LANG_ENGLISH        "No te descubras y gánate la confianza de Makarov."
+
+REFERENCE           AIRPORT_OBJ_GET_IN_VAN
+LANG_ENGLISH        "Sube a la furgoneta."
+
+REFERENCE           AIRPORT_OBJ_TRUST
+LANG_ENGLISH        "Gánate la confianza de Makarov."
+
+REFERENCE           AIRPORT_OBJ_TRUST_COST
+LANG_ENGLISH        "Sigue la pista de Makarov."
+
+ENDMARKER

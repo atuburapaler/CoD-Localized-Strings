@@ -1,0 +1,91 @@
+// Dumped from fastfile "contingency".
+// In their original format the strings might have been separated in multiple files.
+VERSION             "1"
+CONFIG              "C:/trees/cod3/cod3/bin/StringEd.cfg"
+FILENOTES           ""
+
+REFERENCE           CONTINGENCY_DONT_LEAVE
+LANG_ENGLISH        "Vuelve a ver al capitán Price."
+
+REFERENCE           CONTINGENCY_DONT_LEAVE_FAILURE
+LANG_ENGLISH        "Has salido del área de la misión."
+
+REFERENCE           CONTINGENCY_LINE1
+LANG_ENGLISH        "\"Contingencia\""
+
+REFERENCE           CONTINGENCY_LINE2
+LANG_ENGLISH        "Día 5 - 11:22:[{FAKE_INTRO_SECONDS:32}]"
+
+REFERENCE           CONTINGENCY_LINE3
+LANG_ENGLISH        "Sgt. Gary \"Roach\" Sanderson"
+
+REFERENCE           CONTINGENCY_LINE4
+LANG_ENGLISH        "Fuerza operativa 141"
+
+REFERENCE           CONTINGENCY_LINE5
+LANG_ENGLISH        "14 millas al SSE de Petropavlovsk, Rusia"
+
+REFERENCE           CONTINGENCY_OBJ_CONTROL_SUB
+LANG_ENGLISH        "Toma el control del submarino."
+
+REFERENCE           CONTINGENCY_OBJ_DEFEND
+LANG_ENGLISH        "Defiende"
+
+REFERENCE           CONTINGENCY_OBJ_DEFEND_SUB
+LANG_ENGLISH        "Mantén al enemigo lejos del submarino."
+
+REFERENCE           CONTINGENCY_OBJ_ENTER_BASE
+LANG_ENGLISH        "Busca una entrada a la base de submarinos."
+
+REFERENCE           CONTINGENCY_OBJ_ENTER_SUB
+LANG_ENGLISH        "Entra en el submarino antes de que zarpe."
+
+REFERENCE           CONTINGENCY_OBJ_EXIT_SUB
+LANG_ENGLISH        "Huye."
+
+REFERENCE           CONTINGENCY_OBJ_PRICE
+LANG_ENGLISH        "Sigue al capitán Price."
+
+REFERENCE           CONTINGENCY_OBJ_TURN_KEY
+LANG_ENGLISH        "Gira tu llave."
+
+REFERENCE           CONTINGENCY_SUB_TIMER_EXPIRED
+LANG_ENGLISH        "Misión fallida. No has llegado al submarino a tiempo."
+
+REFERENCE           CONTINGENCY_TIME_TO_ENTER_SUB
+LANG_ENGLISH        "Llega al submarino en: "
+
+REFERENCE           CONTINGENCY_TURN_KEY
+LANG_ENGLISH        "Mantén pulsado ^3&&1^7 para lanzar una bomba nuclear."
+
+REFERENCE           CONTINGENCY_USE_DRONE
+LANG_ENGLISH        "Pulsa ^3 [{+actionslot 4}] ^7 para controlar el UAV."
+
+REFERENCE           HELLFIRE_DESTROYED
+LANG_ENGLISH        "El dron Predator ha sido destruido."
+
+REFERENCE           HELLFIRE_DRONE_NOT_AVAILABLE
+LANG_ENGLISH        "El dron Predator no está disponible."
+
+REFERENCE           HELLFIRE_DRONE_VIEW
+LANG_ENGLISH        "CÁMARA: UAV_DRONE_011"
+
+REFERENCE           HELLFIRE_FIRE
+LANG_ENGLISH        "-MISIL LANZADO-"
+
+REFERENCE           HELLFIRE_MISSILE_VIEW
+LANG_ENGLISH        "CÁMARA: MISSILE"
+
+REFERENCE           HELLFIRE_RELOADING
+LANG_ENGLISH        "-EL MISIL ESTÁ RECARGANDO-"
+
+REFERENCE           HELLFIRE_RELOADING_WITH_TIME
+LANG_ENGLISH        "MISIL RECARGADO EN: "
+
+REFERENCE           HELLFIRE_USE_DRONE
+LANG_ENGLISH        "Pulsa ^3 [{+actionslot 4}] ^7 para controlar el dron Predator."
+
+REFERENCE           HELLFIRE_USE_DRONE_2
+LANG_ENGLISH        "Pulsa ^3 [{+actionslot 2}] ^7 para controlar el dron Predator."
+
+ENDMARKER

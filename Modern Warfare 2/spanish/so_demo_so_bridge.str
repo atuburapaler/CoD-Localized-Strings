@@ -1,0 +1,79 @@
+// Dumped from fastfile "so_demo_so_bridge".
+// In their original format the strings might have been separated in multiple files.
+VERSION             "1"
+CONFIG              "C:/trees/cod3/cod3/bin/StringEd.cfg"
+FILENOTES           ""
+
+REFERENCE           SENTRY_CANNOT_PLACE
+LANG_ENGLISH        "Mueve la torreta a una ubicación válida."
+
+REFERENCE           SENTRY_DEBUG_SPAWN_ENEMIES
+LANG_ENGLISH        "Los enemigos reaparecen en 10 segundos"
+
+REFERENCE           SENTRY_MOVE
+LANG_ENGLISH        "Mantén pulsado ^3&&1^7 para mover la torreta."
+
+REFERENCE           SENTRY_PICKUP
+LANG_ENGLISH        "Mantén pulsado ^3&&1^7 para recoger la torreta."
+
+REFERENCE           SENTRY_PLACE
+LANG_ENGLISH        "Pulsa ^3[{+attack}]^7 para colocar la torreta."
+
+REFERENCE           SO_DEMO_SO_BRIDGE_DEADQUOTE_HINT1
+LANG_ENGLISH        "INFORMACIÓN DE OPERACIÓN\nLa munición infinita te convierte en una máquina de matar. ¡A por ellos!"
+
+REFERENCE           SO_DEMO_SO_BRIDGE_DEADQUOTE_HINT2
+LANG_ENGLISH        "INFORMACIÓN DE OPERACIÓN\nRestos se activa por cada cinco vehículos que destruyes."
+
+REFERENCE           SO_DEMO_SO_BRIDGE_DEADQUOTE_HINT3
+LANG_ENGLISH        "INFORMACIÓN DE OPERACIÓN\nIntenta encadenar Restos manteniendo Munición infinita en todo momento."
+
+REFERENCE           SO_DEMO_SO_BRIDGE_DEADQUOTE_HINT4
+LANG_ENGLISH        "INFORMACIÓN DE OPERACIÓN\nEn Restos, el reloj de la misión no se activa de inmediato. Piénsatelo bien."
+
+REFERENCE           SO_DEMO_SO_BRIDGE_DEADQUOTE_HINT5
+LANG_ENGLISH        "INFORMACIÓN DE OPERACIÓN\nMunición infinita no recarga tus armas. Evita vaciar tus preferidas."
+
+REFERENCE           SO_DEMO_SO_BRIDGE_INFINITE_AMMO
+LANG_ENGLISH        "Munición infinita: "
+
+REFERENCE           SO_DEMO_SO_BRIDGE_INFINITE_AMMO_AMOUNT
+LANG_ENGLISH        "+&&1s munición infinita"
+
+REFERENCE           SO_DEMO_SO_BRIDGE_INFINITE_AMMO_PERCENT
+LANG_ENGLISH        "Tiempo de munición infinita"
+
+REFERENCE           SO_DEMO_SO_BRIDGE_OBJ_DESTROY
+LANG_ENGLISH        "Destruir"
+
+REFERENCE           SO_DEMO_SO_BRIDGE_OBJ_HARDENED
+LANG_ENGLISH        "Destruye todos los vehículos del puente."
+
+REFERENCE           SO_DEMO_SO_BRIDGE_OBJ_REGULAR
+LANG_ENGLISH        "Destruye todos los vehículos del puente."
+
+REFERENCE           SO_DEMO_SO_BRIDGE_OBJ_VETERAN
+LANG_ENGLISH        "Destruye todos los vehículos del puente."
+
+REFERENCE           SO_DEMO_SO_BRIDGE_STAT_OTHER
+LANG_ENGLISH        "Restos de enemigo"
+
+REFERENCE           SO_DEMO_SO_BRIDGE_STAT_PARTNER
+LANG_ENGLISH        "Restos de aliado"
+
+REFERENCE           SO_DEMO_SO_BRIDGE_STAT_YOU
+LANG_ENGLISH        "Tus restos"
+
+REFERENCE           SO_DEMO_SO_BRIDGE_TIMEBONUS
+LANG_ENGLISH        "Bonificación de tiempo: "
+
+REFERENCE           SO_DEMO_SO_BRIDGE_VEHICLES
+LANG_ENGLISH        "Vehículos: "
+
+REFERENCE           SO_DEMO_SO_BRIDGE_WRECKAGE_ACTIVE
+LANG_ENGLISH        "¡Restos activado!"
+
+REFERENCE           SO_DEMO_SO_BRIDGE_WRECKAGE_IN
+LANG_ENGLISH        "Restos en: "
+
+ENDMARKER

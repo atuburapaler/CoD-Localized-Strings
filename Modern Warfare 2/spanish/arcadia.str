@@ -1,0 +1,55 @@
+// Dumped from fastfile "arcadia".
+// In their original format the strings might have been separated in multiple files.
+VERSION             "1"
+CONFIG              "C:/trees/cod3/cod3/bin/StringEd.cfg"
+FILENOTES           ""
+
+REFERENCE           ARCADIA_INTROSCREEN_LINE_1
+LANG_ENGLISH        "\"Éxodo\""
+
+REFERENCE           ARCADIA_INTROSCREEN_LINE_2
+LANG_ENGLISH        "Día 4 - 18:51:[{FAKE_INTRO_SECONDS:28}]"
+
+REFERENCE           ARCADIA_INTROSCREEN_LINE_3
+LANG_ENGLISH        "Sol. James Ramírez"
+
+REFERENCE           ARCADIA_INTROSCREEN_LINE_4
+LANG_ENGLISH        "1er Bn, 75º regimiento de Rangers"
+
+REFERENCE           ARCADIA_INTROSCREEN_LINE_5
+LANG_ENGLISH        "Nordeste de Virginia, EE. UU."
+
+REFERENCE           ARCADIA_LASER_HINT
+LANG_ENGLISH        "Pulsa ^3[{+actionslot 4}]^7 para buscar objetivos para el Stryker.\nUsa ^3[{+attack}]^7 para confirmar el área objetivo."
+
+REFERENCE           ARCADIA_LASER_HINT_GOLFCOURSE
+LANG_ENGLISH        "Pulsa ^3 [{+actionslot 4}]^7 para buscar cañones antiaéreos para la artillería.\nUsa ^3 [{+attack}]^7 para confirmar los vehículos enemigos."
+
+REFERENCE           ARCADIA_OBJECTIVE_AA_GUNS
+LANG_ENGLISH        "Localiza y neutraliza los cañones antiaéreos."
+
+REFERENCE           ARCADIA_OBJECTIVE_BROOKMERE
+LANG_ENGLISH        "Ve al 4677 de Brookmere Road."
+
+REFERENCE           ARCADIA_OBJECTIVE_INTEL
+LANG_ENGLISH        "Recupera la información de la \"sala del pánico\" del 4677 de Brookmere Road."
+
+REFERENCE           ARCADIA_PICK_UP_BRIEFCASE_HINT
+LANG_ENGLISH        "Mantén pulsado ^3&&1^7 para recoger el maletín."
+
+REFERENCE           SENTRY_CANNOT_PLACE
+LANG_ENGLISH        "Mueve la torreta a una ubicación válida."
+
+REFERENCE           SENTRY_DEBUG_SPAWN_ENEMIES
+LANG_ENGLISH        "Los enemigos reaparecen en 10 segundos"
+
+REFERENCE           SENTRY_MOVE
+LANG_ENGLISH        "Mantén pulsado ^3&&1^7 para mover la torreta."
+
+REFERENCE           SENTRY_PICKUP
+LANG_ENGLISH        "Mantén pulsado ^3&&1^7 para recoger la torreta."
+
+REFERENCE           SENTRY_PLACE
+LANG_ENGLISH        "Pulsa ^3[{+attack}]^7 para colocar la torreta."
+
+ENDMARKER

@@ -1,0 +1,40 @@
+// Dumped from fastfile "favela".
+// In their original format the strings might have been separated in multiple files.
+VERSION             "1"
+CONFIG              "C:/trees/cod3/cod3/bin/StringEd.cfg"
+FILENOTES           ""
+
+REFERENCE           FAVELA_INTROSCREEN_LINE_1
+LANG_ENGLISH        "\"Aterrizaje\""
+
+REFERENCE           FAVELA_INTROSCREEN_LINE_2
+LANG_ENGLISH        "Día 4 - 15:08:[{FAKE_INTRO_SECONDS:16}]"
+
+REFERENCE           FAVELA_INTROSCREEN_LINE_3
+LANG_ENGLISH        "Sgt. Gary \"Roach\" Sanderson"
+
+REFERENCE           FAVELA_INTROSCREEN_LINE_4
+LANG_ENGLISH        "Fuerza operativa 141"
+
+REFERENCE           FAVELA_INTROSCREEN_LINE_5
+LANG_ENGLISH        "Río de Janeiro, Brasil"
+
+REFERENCE           FAVELA_KILLED_RUNNER
+LANG_ENGLISH        "Has matado a la mano derecha de Rojas. ¡Derríbalo con un ataque no letal!"
+
+REFERENCE           FAVELA_OBJ_CAPTURE
+LANG_ENGLISH        "Captura"
+
+REFERENCE           FAVELA_OBJ_CATCH_RUNNER
+LANG_ENGLISH        "Captura con vida a la mano derecha de Rojas."
+
+REFERENCE           FAVELA_OBJ_REACH_TOP
+LANG_ENGLISH        "Ábrete paso hasta lo alto de las favelas y captura a Rojas."
+
+REFERENCE           FAVELA_ROJAS_KILLED
+LANG_ENGLISH        "Has matado a Rojas. ¡Lo necesitamos vivo!"
+
+REFERENCE           FAVELA_RUNNER_GOT_AWAY
+LANG_ENGLISH        "¡La mano derecha de Rojas ha escapado!"
+
+ENDMARKER

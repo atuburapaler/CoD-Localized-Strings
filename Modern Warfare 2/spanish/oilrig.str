@@ -1,0 +1,85 @@
+// Dumped from fastfile "oilrig".
+// In their original format the strings might have been separated in multiple files.
+VERSION             "1"
+CONFIG              "C:/trees/cod3/cod3/bin/StringEd.cfg"
+FILENOTES           ""
+
+REFERENCE           OILRIG_DEBUG_STEALTHKILLS
+LANG_ENGLISH        "Saltando sección de baja sigilosa...\n(esperando animaciones)"
+
+REFERENCE           OILRIG_DEBUG_UNDERWATER
+LANG_ENGLISH        "Saltando secuencia submarina...\n(esperando animaciones)"
+
+REFERENCE           OILRIG_HINT_AMBUSH_COVER
+LANG_ENGLISH        "Ocúltate en los andamios y tiende una emboscada al enemigo."
+
+REFERENCE           OILRIG_HINT_C4_DETONATE
+LANG_ENGLISH        "Pulsa ^3[{+speed_throw}]^7 para detonar el C4."
+
+REFERENCE           OILRIG_HINT_C4_SWITCH
+LANG_ENGLISH        "Pulsa ^3 [{+actionslot 2}] ^7 para cambiar al detonador de C4."
+
+REFERENCE           OILRIG_HINT_THERMAL_WEAPON_FIND
+LANG_ENGLISH        "Busca un arma con una mira térmica para atacar a los enemigos ocultos tras el humo."
+
+REFERENCE           OILRIG_HINT_THERMAL_WEAPON_USE
+LANG_ENGLISH        "Usa la mira térmica de las armas para atacar a los enemigos ocultos tras el humo."
+
+REFERENCE           OILRIG_INTROSCREEN_LINE_1
+LANG_ENGLISH        "\"El único día sencillo... fue ayer\""
+
+REFERENCE           OILRIG_INTROSCREEN_LINE_2
+LANG_ENGLISH        "Día 5 - [{FAKE_INTRO_TIME:05:47:10}]"
+
+REFERENCE           OILRIG_INTROSCREEN_LINE_3
+LANG_ENGLISH        "Sgt. Gary \"Roach\" Sanderson"
+
+REFERENCE           OILRIG_INTROSCREEN_LINE_4
+LANG_ENGLISH        "Fuerza operativa 141"
+
+REFERENCE           OILRIG_INTROSCREEN_LINE_5
+LANG_ENGLISH        "Plataforma petrolífera Vikhorevka 36, Rusia"
+
+REFERENCE           OILRIG_MISSIONFAIL_ENEMIES_ALERTED_HOSTAGES_KILLED
+LANG_ENGLISH        "Misión fallida. Has alertado al enemigo y los rehenes han sido ejecutados."
+
+REFERENCE           OILRIG_MISSIONFAIL_EXPLOSIVES
+LANG_ENGLISH        "Misión fallida.\nHas alcanzado los explosivos con un disparo y éstos han estallado."
+
+REFERENCE           OILRIG_MISSIONFAIL_EXPLOSIVES_NOTPLANTED
+LANG_ENGLISH        "Misión fallida.\nNo has colocado el C4 a tiempo."
+
+REFERENCE           OILRIG_MISSIONFAIL_HELI_DEATH
+LANG_ENGLISH        "Te ha matado un helicóptero enemigo.\nSe pueden derribar con cohetes."
+
+REFERENCE           OILRIG_MISSIONFAIL_WATER_DEATH
+LANG_ENGLISH        "Misión fallida.\nNo te caigas al agua."
+
+REFERENCE           OILRIG_OBJ_AMBUSH
+LANG_ENGLISH        "Tiende una emboscada al enemigo cerca de los andamios."
+
+REFERENCE           OILRIG_OBJ_C4_AMBUSH_PLANT
+LANG_ENGLISH        "Coloca C4 en los cadáveres."
+
+REFERENCE           OILRIG_OBJ_ESCAPE
+LANG_ENGLISH        "Ve al helipuerto del exterior."
+
+REFERENCE           OILRIG_OBJ_EXPLOSIVES_LOCATE
+LANG_ENGLISH        "Asegura la torre perforadora de la cubierta superior."
+
+REFERENCE           OILRIG_OBJ_GHOST
+LANG_ENGLISH        "Fantasma"
+
+REFERENCE           OILRIG_OBJ_HOSTAGES_SECURE
+LANG_ENGLISH        "Rehenes salvados (quedan &&1)"
+
+REFERENCE           OILRIG_OBJ_HOSTAGES_SECURE_DONE
+LANG_ENGLISH        "Salva a los rehenes."
+
+REFERENCE           OILRIG_OBJ_SOAP
+LANG_ENGLISH        "Capt. MacTavish"
+
+REFERENCE           OILRIG_OBJ_STEALTHKILL
+LANG_ENGLISH        "Acaba discretamente con los guardias."
+
+ENDMARKER

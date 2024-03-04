@@ -1,0 +1,121 @@
+// Dumped from fastfile "cliffhanger".
+// In their original format the strings might have been separated in multiple files.
+VERSION             "1"
+CONFIG              "C:/trees/cod3/cod3/bin/StringEd.cfg"
+FILENOTES           ""
+
+REFERENCE           CLIFFHANGER_ACTIVATE_HEARTBEAT
+LANG_ENGLISH        "Pulsa ^3[{weapnext}]^7 para activar el sensor de ritmo cardiaco."
+
+REFERENCE           CLIFFHANGER_BOARD
+LANG_ENGLISH        "Mantén pulsado ^3&&1^7 para subir."
+
+REFERENCE           CLIFFHANGER_E3_INTEREST_OF_TIME
+LANG_ENGLISH        "Para ahorrar tiempo."
+
+REFERENCE           CLIFFHANGER_E3_NOT_AS_PLANNED
+LANG_ENGLISH        "Las cosas no siempre salen como estaba planeado."
+
+REFERENCE           CLIFFHANGER_FAIL_PRICE_DEAD
+LANG_ENGLISH        "Has abandonado al capitán MacTavish a su suerte."
+
+REFERENCE           CLIFFHANGER_FAIL_STEALTH_COUNT
+LANG_ENGLISH        "Has alertado a demasiados enemigos."
+
+REFERENCE           CLIFFHANGER_FAIL_STEALTH_TIME
+LANG_ENGLISH        "Has tardado demasiado y ha saltado la alarma."
+
+REFERENCE           CLIFFHANGER_HINT_PRONE
+LANG_ENGLISH        "Pulsa ^3[{goprone}]^7 para ponerte cuerpo a tierra."
+
+REFERENCE           CLIFFHANGER_HOLD_ON_TIGHT
+LANG_ENGLISH        "Agárrate para salvar la vida."
+
+REFERENCE           CLIFFHANGER_HOW_TO_CLIMB
+LANG_ENGLISH        "Aproxímate al hielo y mantén pulsado ^3Right Mouse^7 para trepar."
+
+REFERENCE           CLIFFHANGER_LEFT_ICEPICK
+LANG_ENGLISH        "Mantén pulsado ^3Left Mouse^7 para mover el piolet izquierdo."
+
+REFERENCE           CLIFFHANGER_LINE1
+LANG_ENGLISH        "\"Máximo riesgo\""
+
+REFERENCE           CLIFFHANGER_LINE2
+LANG_ENGLISH        "Día 2 - 07:35:[{FAKE_INTRO_SECONDS:32}]"
+
+REFERENCE           CLIFFHANGER_LINE3
+LANG_ENGLISH        "Sgt. Gary \"Roach\" Sanderson"
+
+REFERENCE           CLIFFHANGER_LINE4
+LANG_ENGLISH        "Fuerza operativa 141"
+
+REFERENCE           CLIFFHANGER_LINE5
+LANG_ENGLISH        "Cordillera de Tian Shan, Kazajstán"
+
+REFERENCE           CLIFFHANGER_MAKES_FIRST_JUMP
+LANG_ENGLISH        "Nadie lo logra a la primera..."
+
+REFERENCE           CLIFFHANGER_MISSION_ABORT
+LANG_ENGLISH        "El capitán MacTavish ha anulado la misión."
+
+REFERENCE           CLIFFHANGER_MRHR
+LANG_ENGLISH        "&&1 mR/hr"
+
+REFERENCE           CLIFFHANGER_OBJ_BASE
+LANG_ENGLISH        "Encuentra una forma de entrar en la base."
+
+REFERENCE           CLIFFHANGER_OBJ_C4
+LANG_ENGLISH        "Coloca explosivos en los tanques de combustible."
+
+REFERENCE           CLIFFHANGER_OBJ_C4_MIG
+LANG_ENGLISH        "Coloca explosivos en el caza MiG-29."
+
+REFERENCE           CLIFFHANGER_OBJ_COMPUTER
+LANG_ENGLISH        "Recupera el módulo ACS."
+
+REFERENCE           CLIFFHANGER_OBJ_EVACUATE
+LANG_ENGLISH        "Escapa con el capitán MacTavish."
+
+REFERENCE           CLIFFHANGER_OBJ_EXTRACT
+LANG_ENGLISH        "Llegar al punto de extracción."
+
+REFERENCE           CLIFFHANGER_OBJ_FIND_FUEL
+LANG_ENGLISH        "Encuentra los tanques de combustible."
+
+REFERENCE           CLIFFHANGER_OBJ_FOLLOW
+LANG_ENGLISH        "Sigue al capitán MacTavish."
+
+REFERENCE           CLIFFHANGER_OBJ_FUEL_STATION
+LANG_ENGLISH        "Coloca explosivos en la estación de servicio."
+
+REFERENCE           CLIFFHANGER_OBJ_GOTO_HANGER
+LANG_ENGLISH        "Llega hasta el satélite."
+
+REFERENCE           CLIFFHANGER_OBJ_PACKAGE
+LANG_ENGLISH        "Recupera el \"paquete\"."
+
+REFERENCE           CLIFFHANGER_OBJ_SNOWMOBILE
+LANG_ENGLISH        "Hazte con una moto de nieve."
+
+REFERENCE           CLIFFHANGER_OBJ_STEALTH
+LANG_ENGLISH        "Te han detectado. Debes eliminar a quienes lo han hecho."
+
+REFERENCE           CLIFFHANGER_OBJ_USE_SATELITE
+LANG_ENGLISH        "Extrae el DSM (módulo de almacenamiento de datos) del satélite."
+
+REFERENCE           CLIFFHANGER_PRICE_DIED
+LANG_ENGLISH        "Han ejecutado al capitán MacTavish."
+
+REFERENCE           CLIFFHANGER_RIGHT_ICEPICK
+LANG_ENGLISH        "Mantén pulsado ^3Right Mouse^7 para mover el piolet derecho."
+
+REFERENCE           CLIFFHANGER_RUN_OVER
+LANG_ENGLISH        "Han atropellado al capitán MacTavish."
+
+REFERENCE           CLIFFHANGER_SWITCH_HEARTBEAT
+LANG_ENGLISH        "Pulsa ^3 [{+actionslot 3}] ^7 para activar el sensor de ritmo cardiaco."
+
+REFERENCE           CLIFFHANGER_USE_SATELITE
+LANG_ENGLISH        "Mantén pulsado ^3&&1^7 para recuperar el ACS."
+
+ENDMARKER

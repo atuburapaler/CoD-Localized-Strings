@@ -1,0 +1,28 @@
+// Dumped from fastfile "so_sabotage_cliffhanger".
+// In their original format the strings might have been separated in multiple files.
+VERSION             "1"
+CONFIG              "C:/trees/cod3/cod3/bin/StringEd.cfg"
+FILENOTES           ""
+
+REFERENCE           SO_SABOTAGE_CLIFFHANGER_AA12_HELP
+LANG_ENGLISH        "INFORMACIÓN DE OPERACIÓN\nTu arma inicial, la escopeta automática AA12, es letal en distancias cortas. Ten cuidado con su amplio alcance."
+
+REFERENCE           SO_SABOTAGE_CLIFFHANGER_LEAVING_WHILE_INCOMPLETE
+LANG_ENGLISH        "No has conseguido colocar todos los explosivos."
+
+REFERENCE           SO_SABOTAGE_CLIFFHANGER_LEAVING_WHILE_INCOMPLETE_WARNING
+LANG_ENGLISH        "Te marchas sin colocar todos los explosivos."
+
+REFERENCE           SO_SABOTAGE_CLIFFHANGER_OBJ_ESCAPE
+LANG_ENGLISH        "Sal del recinto hacia el punto de extracción."
+
+REFERENCE           SO_SABOTAGE_CLIFFHANGER_OBJ_HARDENED
+LANG_ENGLISH        "Coloca los explosivos en los objetivos sin que te vean."
+
+REFERENCE           SO_SABOTAGE_CLIFFHANGER_OBJ_REGULAR
+LANG_ENGLISH        "Coloca los explosivos en los objetivos sin que te vean."
+
+REFERENCE           SO_SABOTAGE_CLIFFHANGER_OBJ_VETERAN
+LANG_ENGLISH        "Coloca los explosivos en los objetivos sin que te vean."
+
+ENDMARKER

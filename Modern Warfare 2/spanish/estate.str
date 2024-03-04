@@ -1,0 +1,145 @@
+// Dumped from fastfile "estate".
+// In their original format the strings might have been separated in multiple files.
+VERSION             "1"
+CONFIG              "C:/trees/cod3/cod3/bin/StringEd.cfg"
+FILENOTES           ""
+
+REFERENCE           ESTATE_DSM_BYPASS
+LANG_ENGLISH        "... superado."
+
+REFERENCE           ESTATE_DSM_DESTROYED_BY_AI_GUNFIRE
+LANG_ENGLISH        "El enemigo ha abierto fuego contra el DSM y lo ha destruido."
+
+REFERENCE           ESTATE_DSM_DESTROYED_BY_DESERTION
+LANG_ENGLISH        "El DSM ha sido destruido. Defiende el objetivo."
+
+REFERENCE           ESTATE_DSM_DESTROYED_BY_PLAYER
+LANG_ENGLISH        "¡Cuidado dónde disparas! Has destruido el DSM."
+
+REFERENCE           ESTATE_DSM_DLRATE
+LANG_ENGLISH        "Mbps"
+
+REFERENCE           ESTATE_DSM_DLTIMELEFT
+LANG_ENGLISH        "Faltan"
+
+REFERENCE           ESTATE_DSM_DLTIMELEFT_MINS
+LANG_ENGLISH        "min"
+
+REFERENCE           ESTATE_DSM_DLTIMELEFT_SECS
+LANG_ENGLISH        "seg"
+
+REFERENCE           ESTATE_DSM_DL_RATEMETER
+LANG_ENGLISH        "a"
+
+REFERENCE           ESTATE_DSM_FRAME
+LANG_ENGLISH        "DSM v6.04"
+
+REFERENCE           ESTATE_DSM_IRONBOX
+LANG_ENGLISH        "...ironbox ubicada..."
+
+REFERENCE           ESTATE_DSM_NETWORK_FOUND
+LANG_ENGLISH        "... red encontrada..."
+
+REFERENCE           ESTATE_DSM_PICKUP_HINT
+LANG_ENGLISH        "Mantén pulsado ^3&&1^7 para recuperar el DSM."
+
+REFERENCE           ESTATE_DSM_PROGRESS
+LANG_ENGLISH        "Copia datos:"
+
+REFERENCE           ESTATE_DSM_SLASH_TOTALFILES
+LANG_ENGLISH        "/2067"
+
+REFERENCE           ESTATE_DSM_USE_HINT
+LANG_ENGLISH        "Mantén pulsado ^3&&1^7 para conectar el DSM al ordenador de Makarov."
+
+REFERENCE           ESTATE_DSM_WORKING
+LANG_ENGLISH        "... trabajando..."
+
+REFERENCE           ESTATE_FAKE_DEATH_QUOTE
+LANG_ENGLISH        "\"¡Lucharé contigo hasta el final, te heriré desde el corazón del infierno!\" - Herman Melville"
+
+REFERENCE           ESTATE_INTROSCREEN_LINE_1
+LANG_ENGLISH        "\"Cabos sueltos\""
+
+REFERENCE           ESTATE_INTROSCREEN_LINE_2
+LANG_ENGLISH        "Día 6 - [{FAKE_INTRO_TIME:15:36:07}]"
+
+REFERENCE           ESTATE_INTROSCREEN_LINE_3
+LANG_ENGLISH        "Sgt. Gary \"Roach\" Sanderson"
+
+REFERENCE           ESTATE_INTROSCREEN_LINE_4
+LANG_ENGLISH        "Fuerza operativa 141"
+
+REFERENCE           ESTATE_INTROSCREEN_LINE_5
+LANG_ENGLISH        "Frontera ruso-georgiana"
+
+REFERENCE           ESTATE_LEARN_PRONE
+LANG_ENGLISH        "¡Mantén pulsado ^3 [{+stance}] ^7 para esquivar las minas terrestres!"
+
+REFERENCE           ESTATE_LEARN_PRONE_HOLDDOWN
+LANG_ENGLISH        "¡Mantén pulsado ^3[{+prone}]^7 para esquivar la mina terrestre!"
+
+REFERENCE           ESTATE_LEARN_PRONE_TOGGLE
+LANG_ENGLISH        "¡Pulsa ^3[{toggleprone}]^7 para esquivar la mina terrestre!"
+
+REFERENCE           ESTATE_OBJ_ASSASSINATE
+LANG_ENGLISH        "Neutraliza a Vladimir Makarov."
+
+REFERENCE           ESTATE_OBJ_BREACH
+LANG_ENGLISH        "Ataca y despeja el refugio de Makarov."
+
+REFERENCE           ESTATE_OBJ_DOWNLOAD
+LANG_ENGLISH        "Protege el DSM hasta que se complete la transferencia."
+
+REFERENCE           ESTATE_OBJ_EXFIL
+LANG_ENGLISH        "Ve a la ZA alternativa para tu extracción."
+
+REFERENCE           ESTATE_OBJ_INTEL
+LANG_ENGLISH        "Conecta el DSM a la red del ordenador de Makarov."
+
+REFERENCE           ESTATE_OBJ_LZ
+LANG_ENGLISH        "Llega a la zona de aterrizaje para la extracción."
+
+REFERENCE           ESTATE_OBJ_POINTER_PROTECT
+LANG_ENGLISH        "Proteger"
+
+REFERENCE           ESTATE_OBJ_POINTER_RETRIEVE
+LANG_ENGLISH        "Recuperar"
+
+REFERENCE           ESTATE_OBJ_REGROUP
+LANG_ENGLISH        "Reagrúpate con Ghost."
+
+REFERENCE           ESTATE_OBJ_RETRIEVE
+LANG_ENGLISH        "Recupera el DSM."
+
+REFERENCE           ESTATE_REMIND_PRONE_LINE1
+LANG_ENGLISH        "¡Te ha matado una mina!"
+
+REFERENCE           ESTATE_REMIND_PRONE_LINE2
+LANG_ENGLISH        "Mantén pulsado ^3 [{+stance}] ^7 para esquivar."
+
+REFERENCE           ESTATE_REMIND_PRONE_LINE2_HOLDDOWN
+LANG_ENGLISH        "Mantén pulsado ^3[{+prone}]^7 para esquivar."
+
+REFERENCE           ESTATE_REMIND_PRONE_LINE2_TOGGLE
+LANG_ENGLISH        "Pulsa ^3[{toggleprone}]^7 para esquivar."
+
+REFERENCE           ESTATE_USE_CLAYMORE_HINT
+LANG_ENGLISH        "Pulsa ^3[{+actionslot 4}]^7 para usar claymore."
+
+REFERENCE           SENTRY_CANNOT_PLACE
+LANG_ENGLISH        "Mueve la torreta a una ubicación válida."
+
+REFERENCE           SENTRY_DEBUG_SPAWN_ENEMIES
+LANG_ENGLISH        "Los enemigos reaparecen en 10 segundos"
+
+REFERENCE           SENTRY_MOVE
+LANG_ENGLISH        "Mantén pulsado ^3&&1^7 para mover la torreta."
+
+REFERENCE           SENTRY_PICKUP
+LANG_ENGLISH        "Mantén pulsado ^3&&1^7 para recoger la torreta."
+
+REFERENCE           SENTRY_PLACE
+LANG_ENGLISH        "Pulsa ^3[{+attack}]^7 para colocar la torreta."
+
+ENDMARKER

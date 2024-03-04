@@ -1,0 +1,373 @@
+// Dumped from fastfile "so_takeover_estate".
+// In their original format the strings might have been separated in multiple files.
+VERSION             "1"
+CONFIG              "C:/trees/cod3/cod3/bin/StringEd.cfg"
+FILENOTES           ""
+
+REFERENCE           PMC_CACHE_USE_HINT
+LANG_ENGLISH        "Pulsa ^3&&1^7 para recargar."
+
+REFERENCE           PMC_CHARACTER_ASSAULT
+LANG_ENGLISH        "Asalto"
+
+REFERENCE           PMC_CHARACTER_DEMOLITION
+LANG_ENGLISH        "Demolición"
+
+REFERENCE           PMC_CHARACTER_GHOST
+LANG_ENGLISH        "Fantasma"
+
+REFERENCE           PMC_CHARACTER_GRENADIER
+LANG_ENGLISH        "Asalto"
+
+REFERENCE           PMC_CHARACTER_GUNNER
+LANG_ENGLISH        "Artillero pesado"
+
+REFERENCE           PMC_CHARACTER_SNIPER
+LANG_ENGLISH        "Francotirador"
+
+REFERENCE           PMC_CLAYMORE_PICKUP
+LANG_ENGLISH        "Mantén pulsado ^3&&1^7 para recoger una claymore."
+
+REFERENCE           PMC_DEBUG_ENEMY_COUNT
+LANG_ENGLISH        "Enemigos vivos: &&1"
+
+REFERENCE           PMC_DEBUG_SPAWNER_COUNT
+LANG_ENGLISH        "Reapariciones enemigas: &&1"
+
+REFERENCE           PMC_DEBUG_VEHICLE_COUNT
+LANG_ENGLISH        "Vehículos supervivientes: &&1"
+
+REFERENCE           PMC_DEFEND_FAILED
+LANG_ENGLISH        "¡Mantén al enemigo lejos del objetivo!"
+
+REFERENCE           PMC_DIFFICULTY_HEAVY
+LANG_ENGLISH        "Importante"
+
+REFERENCE           PMC_DIFFICULTY_HEAVY_DESC
+LANG_ENGLISH        "La presencia de enemigos es elevada. Hay muchos en el nivel. Puede que no sobrevivas."
+
+REFERENCE           PMC_DIFFICULTY_LIGHT
+LANG_ENGLISH        "Leve"
+
+REFERENCE           PMC_DIFFICULTY_LIGHT_DESC
+LANG_ENGLISH        "La presencia enemiga no es muy elevada."
+
+REFERENCE           PMC_DIFFICULTY_MAXIMUM
+LANG_ENGLISH        "Máxima"
+
+REFERENCE           PMC_DIFFICULTY_MAXIMUM_DESC
+LANG_ENGLISH        "La presencia enemiga es sumamente alta. Ésta es una misión para tropas de élite."
+
+REFERENCE           PMC_DIFFICULTY_MODERATE
+LANG_ENGLISH        "Moderada"
+
+REFERENCE           PMC_DIFFICULTY_MODERATE_DESC
+LANG_ENGLISH        "La presencia enemiga es moderada. Procede con precaución."
+
+REFERENCE           PMC_ENEMIES_REMAINING
+LANG_ENGLISH        "Enemigos restantes: &&1"
+
+REFERENCE           PMC_HINT_USELAPTOP
+LANG_ENGLISH        "Mantén pulsado ^3&&1^7 para usar el portátil."
+
+REFERENCE           PMC_HQ_DAMAGE
+LANG_ENGLISH        "Daños al cuartel general"
+
+REFERENCE           PMC_HQ_RECOVERING_INTEL
+LANG_ENGLISH        "Recuperando información..."
+
+REFERENCE           PMC_OBJECTIVE_ABORT_CODES
+LANG_ENGLISH        "Recupera la información enemiga."
+
+REFERENCE           PMC_OBJECTIVE_DEFEND
+LANG_ENGLISH        "Sobrevive hasta que se agote el tiempo."
+
+REFERENCE           PMC_OBJECTIVE_EXTRACT
+LANG_ENGLISH        "Llega a la zona de extracción."
+
+REFERENCE           PMC_OBJECTIVE_FAILED
+LANG_ENGLISH        "Misión fallida. No se ha completado a tiempo el objetivo."
+
+REFERENCE           PMC_OBJECTIVE_KILL_ENEMIES
+LANG_ENGLISH        "Elimina a todos los enemigos."
+
+REFERENCE           PMC_OBJECTIVE_KILL_ENEMIES_REMAINING
+LANG_ENGLISH        "Elimina a todos los enemigos [quedan &&1]."
+
+REFERENCE           PMC_OBJECTIVE_SETUP_DEFENSES
+LANG_ENGLISH        "Establece una posición defensiva antes del ataque enemigo."
+
+REFERENCE           PMC_PMC_CONTRACT_1_DESC
+LANG_ENGLISH        "Misión de limpieza. Encuentra y elimina a 25 enemigos. Cuidado con las torretas y los helicópteros."
+
+REFERENCE           PMC_PMC_CONTRACT_1_NAME
+LANG_ENGLISH        "Contrato de eliminación de 500 $"
+
+REFERENCE           PMC_PMC_CONTRACT_1_PLAYERS
+LANG_ENGLISH        "1-2 jugadores"
+
+REFERENCE           PMC_PMC_CONTRACT_1_PRIZE
+LANG_ENGLISH        "100 $ por enemigo\n500 $ de bonificación por completar la misión"
+
+REFERENCE           PMC_PMC_CONTRACT_1_THREAT
+LANG_ENGLISH        "^2Nivel de amenaza verde"
+
+REFERENCE           PMC_PMC_CONTRACT_1_UNLOCK
+LANG_ENGLISH        "Este contrato se desbloquea por defecto"
+
+REFERENCE           PMC_PMC_CONTRACT_2_DESC
+LANG_ENGLISH        "Misión cronometrada. Infíltrate en la posición enemiga, roba un portátil con información y sal."
+
+REFERENCE           PMC_PMC_CONTRACT_2_NAME
+LANG_ENGLISH        "Misión de reconocimiento de 2.000 $"
+
+REFERENCE           PMC_PMC_CONTRACT_2_PLAYERS
+LANG_ENGLISH        "1-2 jugadores"
+
+REFERENCE           PMC_PMC_CONTRACT_2_PRIZE
+LANG_ENGLISH        "100 $ por enemigo\n2.000 $ de bonificación por completar la misión"
+
+REFERENCE           PMC_PMC_CONTRACT_2_THREAT
+LANG_ENGLISH        "^1Nivel de amenaza rojo"
+
+REFERENCE           PMC_PMC_CONTRACT_2_UNLOCK
+LANG_ENGLISH        "Este contrato se desbloquea por defecto"
+
+REFERENCE           PMC_PMC_CONTRACT_3_DESC
+LANG_ENGLISH        "Contén el contraataque enemigo hasta la llegada de los refuerzos. Coloca torretas y usa reservas de armas para preparar la defensa."
+
+REFERENCE           PMC_PMC_CONTRACT_3_NAME
+LANG_ENGLISH        "Contrato de contención de 1.500 $"
+
+REFERENCE           PMC_PMC_CONTRACT_3_PLAYERS
+LANG_ENGLISH        "1-2 jugadores"
+
+REFERENCE           PMC_PMC_CONTRACT_3_PRIZE
+LANG_ENGLISH        "25 $ por enemigo\n1.500 $ de bonificación por completar la misión"
+
+REFERENCE           PMC_PMC_CONTRACT_3_THREAT
+LANG_ENGLISH        "^3Nivel de amenaza amarillo"
+
+REFERENCE           PMC_PMC_CONTRACT_3_UNLOCK
+LANG_ENGLISH        "Este contrato se desbloquea por defecto"
+
+REFERENCE           PMC_PMC_CONTRACT_4_DESC
+LANG_ENGLISH        "Misión de limpieza. Encuentra y elimina a 85 enemigos. Cuidado con las torretas y los helicópteros."
+
+REFERENCE           PMC_PMC_CONTRACT_4_NAME
+LANG_ENGLISH        "Contrato de eliminación de 2.000 $"
+
+REFERENCE           PMC_PMC_CONTRACT_4_PLAYERS
+LANG_ENGLISH        "1-2 jugadores"
+
+REFERENCE           PMC_PMC_CONTRACT_4_PRIZE
+LANG_ENGLISH        "100 $ por enemigo\n2.000 $ de bonificación por completar la misión"
+
+REFERENCE           PMC_PMC_CONTRACT_4_THREAT
+LANG_ENGLISH        "^1Nivel de amenaza rojo"
+
+REFERENCE           PMC_PMC_CONTRACT_4_UNLOCK
+LANG_ENGLISH        "Este contrato se desbloquea por defecto"
+
+REFERENCE           PMC_PMC_CONTRACT_5_DESC
+LANG_ENGLISH        "Escolta a las tropas amigas hasta su objetivo y proporciónales apoyo con un avión artillero AC-130."
+
+REFERENCE           PMC_PMC_CONTRACT_5_NAME
+LANG_ENGLISH        "Escolta con AC-130 de 3.000 $"
+
+REFERENCE           PMC_PMC_CONTRACT_5_PLAYERS
+LANG_ENGLISH        "1-2 jugadores"
+
+REFERENCE           PMC_PMC_CONTRACT_5_PRIZE
+LANG_ENGLISH        "25 $ por enemigo\n3.000 $ de bonificación por completar la misión"
+
+REFERENCE           PMC_PMC_CONTRACT_5_THREAT
+LANG_ENGLISH        "^3Nivel de amenaza amarillo"
+
+REFERENCE           PMC_PMC_CONTRACT_5_UNLOCK
+LANG_ENGLISH        "Este contrato se desbloquea por defecto"
+
+REFERENCE           PMC_PMC_CONTRACT_6_DESC
+LANG_ENGLISH        "Acaba discretamente con el enemigo disfrazado con un traje de camuflaje."
+
+REFERENCE           PMC_PMC_CONTRACT_6_NAME
+LANG_ENGLISH        "Contrato de francotirador de 3.000 $"
+
+REFERENCE           PMC_PMC_CONTRACT_6_PLAYERS
+LANG_ENGLISH        "1-2 jugadores"
+
+REFERENCE           PMC_PMC_CONTRACT_6_PRIZE
+LANG_ENGLISH        "150 $ por enemigo\n3.000 $ de bonificación por completar la misión"
+
+REFERENCE           PMC_PMC_CONTRACT_6_THREAT
+LANG_ENGLISH        "^3Nivel de amenaza amarillo"
+
+REFERENCE           PMC_PMC_CONTRACT_6_UNLOCK
+LANG_ENGLISH        "Este contrato se desbloquea por defecto"
+
+REFERENCE           PMC_PMC_CONTRACT_7_DESC
+LANG_ENGLISH        "Colabora con los rusos \"buenos\" para rescatar a tu informador, Nikolai."
+
+REFERENCE           PMC_PMC_CONTRACT_7_NAME
+LANG_ENGLISH        "Contrato de apagón de 2.500 $"
+
+REFERENCE           PMC_PMC_CONTRACT_7_PLAYERS
+LANG_ENGLISH        "1-2 jugadores"
+
+REFERENCE           PMC_PMC_CONTRACT_7_PRIZE
+LANG_ENGLISH        "50 $ por enemigo\n2.500 $ de bonificación por completar la misión"
+
+REFERENCE           PMC_PMC_CONTRACT_7_THREAT
+LANG_ENGLISH        "^3Nivel de amenaza amarillo"
+
+REFERENCE           PMC_PMC_CONTRACT_7_UNLOCK
+LANG_ENGLISH        "Este contrato se desbloquea por defecto"
+
+REFERENCE           PMC_PMC_CONTRACT_8_DESC
+LANG_ENGLISH        "Descripción de la misión 8"
+
+REFERENCE           PMC_PMC_CONTRACT_8_NAME
+LANG_ENGLISH        "Contrato de infiltración de 15.000 $"
+
+REFERENCE           PMC_PMC_CONTRACT_8_PLAYERS
+LANG_ENGLISH        "1-2 jugadores"
+
+REFERENCE           PMC_PMC_CONTRACT_8_PRIZE
+LANG_ENGLISH        "100 $ por enemigo\n15.000 $ de bonificación por completar la misión"
+
+REFERENCE           PMC_PMC_CONTRACT_8_THREAT
+LANG_ENGLISH        "^1Nivel de amenaza rojo"
+
+REFERENCE           PMC_PMC_CONTRACT_8_UNLOCK
+LANG_ENGLISH        "Este contrato se desbloquea al cumplir un contrato con 2 minutos de margen o más."
+
+REFERENCE           PMC_PMC_CONTRACT_9_DESC
+LANG_ENGLISH        "Los tiempos desesperados exigen medidas desesperadas. Asesina al líder ruso sin que te cojan."
+
+REFERENCE           PMC_PMC_CONTRACT_9_NAME
+LANG_ENGLISH        "Contrato de asesinato de 50.000 $"
+
+REFERENCE           PMC_PMC_CONTRACT_9_PLAYERS
+LANG_ENGLISH        "1-2 jugadores"
+
+REFERENCE           PMC_PMC_CONTRACT_9_PRIZE
+LANG_ENGLISH        "50 $ por enemigo\n50.000 $ de bonificación por completar la misión"
+
+REFERENCE           PMC_PMC_CONTRACT_9_THREAT
+LANG_ENGLISH        "^1Nivel de amenaza rojo"
+
+REFERENCE           PMC_PMC_CONTRACT_9_UNLOCK
+LANG_ENGLISH        "Este contrato se desbloquea completando Fuga de francotirador en dificultad veterano."
+
+REFERENCE           PMC_PMC_CONTRACT_CUSTOM
+LANG_ENGLISH        "Crea un contrato"
+
+REFERENCE           PMC_PMC_CONTRACT_CUSTOM_DESC
+LANG_ENGLISH        "Crea tu propio contrato con una PMC (compañía militar privada). Elige el mapa, el modo y los ajustes de juego."
+
+REFERENCE           PMC_PMC_CONTRACT_CUSTOM_NAME
+LANG_ENGLISH        "Crea un contrato"
+
+REFERENCE           PMC_PMC_CRASH
+LANG_ENGLISH        "Colisión de PMC"
+
+REFERENCE           PMC_PMC_CROSSFIRE
+LANG_ENGLISH        "Fuego cruzado de PMC"
+
+REFERENCE           PMC_PMC_CUSTOM_CONTRACT_DEFEND
+LANG_ENGLISH        "Defensa"
+
+REFERENCE           PMC_PMC_CUSTOM_CONTRACT_DENSITY
+LANG_ENGLISH        "Presencia enemiga"
+
+REFERENCE           PMC_PMC_CUSTOM_CONTRACT_DENSITY_HEAVY
+LANG_ENGLISH        "Importante"
+
+REFERENCE           PMC_PMC_CUSTOM_CONTRACT_DENSITY_LIGHT
+LANG_ENGLISH        "Leve"
+
+REFERENCE           PMC_PMC_CUSTOM_CONTRACT_DENSITY_MAXIMUM
+LANG_ENGLISH        "Máxima"
+
+REFERENCE           PMC_PMC_CUSTOM_CONTRACT_DENSITY_MODERATE
+LANG_ENGLISH        "Moderada"
+
+REFERENCE           PMC_PMC_CUSTOM_CONTRACT_ELIMINATION
+LANG_ENGLISH        "Eliminación"
+
+REFERENCE           PMC_PMC_CUSTOM_CONTRACT_ENABLE_VEHICLES
+LANG_ENGLISH        "Vehículos enemigos"
+
+REFERENCE           PMC_PMC_CUSTOM_CONTRACT_OBJECTIVE
+LANG_ENGLISH        "Objetivo"
+
+REFERENCE           PMC_PMC_CUSTOM_CONTRACT_TYPE
+LANG_ENGLISH        "Tipo de contrato"
+
+REFERENCE           PMC_PMC_GAME_SETTINGS
+LANG_ENGLISH        "Ajustes de partida PMC"
+
+REFERENCE           PMC_PMC_HIGHRISE
+LANG_ENGLISH        "Torre de PMC"
+
+REFERENCE           PMC_PMC_MAP
+LANG_ENGLISH        "Mapa"
+
+REFERENCE           PMC_PMC_START_CONTRACT
+LANG_ENGLISH        "Despliegue"
+
+REFERENCE           PMC_PMC_STRIKE
+LANG_ENGLISH        "Ataque de PMC"
+
+REFERENCE           PMC_SELECT_DENSITY
+LANG_ENGLISH        "Elige la presencia enemiga"
+
+REFERENCE           PMC_SELECT_GAMETYPE
+LANG_ENGLISH        "Elige el tipo de partida"
+
+REFERENCE           PMC_SPECTATING
+LANG_ENGLISH        "Espectador"
+
+REFERENCE           PMC_START_ATTACK_HINT
+LANG_ENGLISH        "Acércate al portátil para omitir el establecimiento de la hora."
+
+REFERENCE           PMC_START_ATTACK_USE_HINT
+LANG_ENGLISH        "Mantén pulsado ^3&&1^7 en el portátil para omitir el establecimiento de la hora."
+
+REFERENCE           PMC_TIME_REMAINING
+LANG_ENGLISH        "Tiempo restante: &&1"
+
+REFERENCE           PMC_TIME_UNTIL_ATTACK
+LANG_ENGLISH        "Tiempo hasta el ataque: &&1"
+
+REFERENCE           PMC_TYPE_DEFEND
+LANG_ENGLISH        "Defensa"
+
+REFERENCE           PMC_TYPE_DEFEND_DESC
+LANG_ENGLISH        "Establece una posición defensiva y trata de permanecer con vida hasta que se agote el tiempo."
+
+REFERENCE           PMC_TYPE_ELIMINATION
+LANG_ENGLISH        "Eliminación"
+
+REFERENCE           PMC_TYPE_ELIMINATION_DESC
+LANG_ENGLISH        "Elimina todas las amenazas del nivel sin límite de tiempo."
+
+REFERENCE           PMC_TYPE_OBJECTIVE
+LANG_ENGLISH        "Objetivo"
+
+REFERENCE           PMC_TYPE_OBJECTIVE_DESC
+LANG_ENGLISH        "Completa un objetivo y dirígete a la zona de extracción antes de que se agote el tiempo."
+
+REFERENCE           SO_TAKEOVER_ESTATE_OBJ_EASY
+LANG_ENGLISH        "Mata a los 40 enemigos."
+
+REFERENCE           SO_TAKEOVER_ESTATE_OBJ_HARDENED
+LANG_ENGLISH        "Mata a los 40 enemigos."
+
+REFERENCE           SO_TAKEOVER_ESTATE_OBJ_REGULAR
+LANG_ENGLISH        "Mata a los 40 enemigos."
+
+REFERENCE           SO_TAKEOVER_ESTATE_OBJ_VETERAN
+LANG_ENGLISH        "Mata a los 40 enemigos."
+
+ENDMARKER

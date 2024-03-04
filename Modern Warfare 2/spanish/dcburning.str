@@ -1,0 +1,79 @@
+// Dumped from fastfile "dcburning".
+// In their original format the strings might have been separated in multiple files.
+VERSION             "1"
+CONFIG              "C:/trees/cod3/cod3/bin/StringEd.cfg"
+FILENOTES           ""
+
+REFERENCE           DCBURNING_HINT_JAVELIN_FIRE
+LANG_ENGLISH        "Dispara el Javelin a vehículos enemigos."
+
+REFERENCE           DCBURNING_HINT_JAVELIN_PICKUP
+LANG_ENGLISH        "Busca un Javelin para usar contra los vehículos enemigos."
+
+REFERENCE           DCBURNING_HINT_JAVELIN_SWITCH
+LANG_ENGLISH        "Pulsa ^3[{weapnext}]^7 para cambiar al Javelin."
+
+REFERENCE           DCBURNING_INFO_EVAC_SITE_HEALTH
+LANG_ENGLISH        "Daño de evacuación: "
+
+REFERENCE           DCBURNING_INTROSCREEN_1
+LANG_ENGLISH        "\"Por propia voluntad\""
+
+REFERENCE           DCBURNING_INTROSCREEN_2
+LANG_ENGLISH        "Día 5 - [{FAKE_INTRO_TIME:18:34:27}]"
+
+REFERENCE           DCBURNING_INTROSCREEN_3
+LANG_ENGLISH        "Sol. James Ramírez"
+
+REFERENCE           DCBURNING_INTROSCREEN_4
+LANG_ENGLISH        "1er Bn, 75º regimiento de Rangers"
+
+REFERENCE           DCBURNING_INTROSCREEN_5
+LANG_ENGLISH        "Washington, D. C., EE. UU."
+
+REFERENCE           DCBURNING_MISSIONFAIL_CROWSNEST_SNIPE
+LANG_ENGLISH        "Misión fallida.\nEl punto de evacuación ha sido destruido."
+
+REFERENCE           DCBURNING_MISSIONFAIL_LEFT_CHOPPER
+LANG_ENGLISH        "Cúbrete dentro del helicóptero estrellado."
+
+REFERENCE           DCBURNING_OBJ_COMMERCE
+LANG_ENGLISH        "Asegura el nido enemigo en la sexta planta."
+
+REFERENCE           DCBURNING_OBJ_COMMERCE_DEFEND_CROW
+LANG_ENGLISH        "Defiende el nido enemigo."
+
+REFERENCE           DCBURNING_OBJ_COMMERCE_DEFEND_JAVELIN
+LANG_ENGLISH        "Usa Javelins para destruir vehículos enemigos."
+
+REFERENCE           DCBURNING_OBJ_COMMERCE_DEFEND_SNIPE
+LANG_ENGLISH        "Mata enemigos disparando al punto de evacuación."
+
+REFERENCE           DCBURNING_OBJ_CRASH_SITE
+LANG_ENGLISH        "Defiende el lugar del impacto."
+
+REFERENCE           DCBURNING_OBJ_FOLLOW_SGT_MACEY
+LANG_ENGLISH        "Sigue al sargento Foley."
+
+REFERENCE           DCBURNING_OBJ_HELI_MOUNT
+LANG_ENGLISH        "Controla la ametralladora del helicóptero."
+
+REFERENCE           DCBURNING_OBJ_HELI_RIDE
+LANG_ENGLISH        "Destruye los objetivos de oportunidad."
+
+REFERENCE           DCBURNING_OBJ_ROOFTOP
+LANG_ENGLISH        "Sube al helicóptero del tejado."
+
+REFERENCE           DCBURNING_OBJ_TEXT_DEFEND
+LANG_ENGLISH        "Defiende"
+
+REFERENCE           DCBURNING_RAN_OUT_OF_TIME
+LANG_ENGLISH        "No has llegado al helicóptero del tejado a tiempo."
+
+REFERENCE           DCBURNING_SWITCH_HEARTBEAT
+LANG_ENGLISH        "Pulsa ^3 [{+actionslot 3}] ^7 para activar el sensor de ritmo cardiaco."
+
+REFERENCE           DCBURNING_TIME_REMAINING
+LANG_ENGLISH        "Llega al tejado en: "
+
+ENDMARKER

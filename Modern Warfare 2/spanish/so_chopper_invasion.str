@@ -1,0 +1,22 @@
+// Dumped from fastfile "so_chopper_invasion".
+// In their original format the strings might have been separated in multiple files.
+VERSION             "1"
+CONFIG              "C:/trees/cod3/cod3/bin/StringEd.cfg"
+FILENOTES           ""
+
+REFERENCE           SO_CHOPPER_INVASION_DEADQUOTE_HINT1
+LANG_ENGLISH        "El artillero de helicóptero necesita ofrecer cobertura a la fuerza terrestre."
+
+REFERENCE           SO_CHOPPER_INVASION_DEADQUOTE_HINT2
+LANG_ENGLISH        "Las comunicaciones son fundamentales, usa marcas para indicar la posición del enemigo."
+
+REFERENCE           SO_CHOPPER_INVASION_HINT_ADS_SLOWDOWN
+LANG_ENGLISH        "Mantén pulsado ^3[{+activate}]^7 para frenar el helicóptero."
+
+REFERENCE           SO_CHOPPER_INVASION_OBJ_FINAL
+LANG_ENGLISH        "Llega hasta el helicóptero."
+
+REFERENCE           SO_CHOPPER_INVASION_OBJ_REGULAR
+LANG_ENGLISH        "Reúnete con tu aliado en el punto de extracción."
+
+ENDMARKER

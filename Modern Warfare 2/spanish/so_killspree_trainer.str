@@ -1,0 +1,106 @@
+// Dumped from fastfile "so_killspree_trainer".
+// In their original format the strings might have been separated in multiple files.
+VERSION             "1"
+CONFIG              "C:/trees/cod3/cod3/bin/StringEd.cfg"
+FILENOTES           ""
+
+REFERENCE           SO_KILLSPREE_TRAINER_AREA_CLEARED
+LANG_ENGLISH        "Vía libre"
+
+REFERENCE           SO_KILLSPREE_TRAINER_CIVILIAN_HIT
+LANG_ENGLISH        "¡Impacto civil!"
+
+REFERENCE           SO_KILLSPREE_TRAINER_CIVVIES
+LANG_ENGLISH        "Civiles: "
+
+REFERENCE           SO_KILLSPREE_TRAINER_CIVVIES_COUNT
+LANG_ENGLISH        "&&1/5"
+
+REFERENCE           SO_KILLSPREE_TRAINER_DEADQUOTE_FRIENDLIES1
+LANG_ENGLISH        "Les has dado a 5 objetivos amigos. Evita disparar a civiles si quieres terminar el circuito."
+
+REFERENCE           SO_KILLSPREE_TRAINER_DEADQUOTE_FRIENDLIES2
+LANG_ENGLISH        "Has alcanzado a demasiados objetivos amigos."
+
+REFERENCE           SO_KILLSPREE_TRAINER_DEADQUOTE_HINT1
+LANG_ENGLISH        "INFORMACIÓN DE OPERACIÓN\nPara conseguir 3 estrellas debes llegar al final en 35 segundos."
+
+REFERENCE           SO_KILLSPREE_TRAINER_DEADQUOTE_HINT2
+LANG_ENGLISH        "INFORMACIÓN DE OPERACIÓN\nDominar las pistolas puede ahorrarte tiempo."
+
+REFERENCE           SO_KILLSPREE_TRAINER_DEADQUOTE_HINT3
+LANG_ENGLISH        "INFORMACIÓN DE OPERACIÓN\nIntenta alinear objetivos múltiples y abatirlos con una sola bala."
+
+REFERENCE           SO_KILLSPREE_TRAINER_DEADQUOTE_HINT4
+LANG_ENGLISH        "INFORMACIÓN DE OPERACIÓN\nEsprinta todo lo que puedas para superar el circuito rápidamente."
+
+REFERENCE           SO_KILLSPREE_TRAINER_DEADQUOTE_HINT5
+LANG_ENGLISH        "INFORMACIÓN DE OPERACIÓN\nSi disparas a un civil, no conseguirás las 3 estrellas."
+
+REFERENCE           SO_KILLSPREE_TRAINER_DEADQUOTE_MISSED1
+LANG_ENGLISH        "Trata de dar a todos los objetivos enemigos."
+
+REFERENCE           SO_KILLSPREE_TRAINER_DEADQUOTE_MISSED_END
+LANG_ENGLISH        "Debes dar a todos los objetivos enemigos para completar el circuito."
+
+REFERENCE           SO_KILLSPREE_TRAINER_DEADQUOTE_MISSED_HALFWAY
+LANG_ENGLISH        "Tienes que disparar a todos los objetivos enemigos para proceder al final del circuito."
+
+REFERENCE           SO_KILLSPREE_TRAINER_DEADQUOTE_TIMEOUT
+LANG_ENGLISH        "Debes terminar en cinco minutos para completar el circuito."
+
+REFERENCE           SO_KILLSPREE_TRAINER_ENEMIES
+LANG_ENGLISH        "Enemigos: "
+
+REFERENCE           SO_KILLSPREE_TRAINER_ENEMIES_COUNT
+LANG_ENGLISH        "&&1/24"
+
+REFERENCE           SO_KILLSPREE_TRAINER_HINT_MISSED_TARGET
+LANG_ENGLISH        "Has fallado un blanco, retrocede."
+
+REFERENCE           SO_KILLSPREE_TRAINER_HINT_MISSED_TARGETS
+LANG_ENGLISH        "Has fallado blancos, retrocede."
+
+REFERENCE           SO_KILLSPREE_TRAINER_HINT_MISSED_TARGETS_JUMP
+LANG_ENGLISH        "Has fallado blancos, retrocede antes de saltar."
+
+REFERENCE           SO_KILLSPREE_TRAINER_HINT_MISSED_TARGET_JUMP
+LANG_ENGLISH        "Has fallado un blanco, retrocede antes de saltar."
+
+REFERENCE           SO_KILLSPREE_TRAINER_OBJ_MAIN
+LANG_ENGLISH        "Elimina a todos los enemigos tan rápido como puedas."
+
+REFERENCE           SO_KILLSPREE_TRAINER_SCOREBOARD_CIVS_HIT
+LANG_ENGLISH        "Objetivos civiles alcanzados"
+
+REFERENCE           SO_KILLSPREE_TRAINER_SCOREBOARD_CIVS_KILLED
+LANG_ENGLISH        "Obtén más estrellas evitando impactos civiles"
+
+REFERENCE           SO_KILLSPREE_TRAINER_SCOREBOARD_CIVS_SPACE
+LANG_ENGLISH        " "
+
+REFERENCE           SO_KILLSPREE_TRAINER_SCOREBOARD_CIVS_TIME
+LANG_ENGLISH        "Penalización tiempo civil"
+
+REFERENCE           SO_KILLSPREE_TRAINER_SCOREBOARD_ENEMIES_HIT
+LANG_ENGLISH        "Objetivos enemigos alcanzados"
+
+REFERENCE           SO_KILLSPREE_TRAINER_SCOREBOARD_FINAL_TIME
+LANG_ENGLISH        "Tiempo final"
+
+REFERENCE           SO_KILLSPREE_TRAINER_SCOREBOARD_FINISH_TIME
+LANG_ENGLISH        "Tiempo de finalización"
+
+REFERENCE           SO_KILLSPREE_TRAINER_SCOREBOARD_MISSED_TIME
+LANG_ENGLISH        "Penalización objetivo fallado"
+
+REFERENCE           SO_KILLSPREE_TRAINER_SCOREBOARD_NA
+LANG_ENGLISH        "N/D"
+
+REFERENCE           SO_KILLSPREE_TRAINER_SCOREBOARD_PLUS
+LANG_ENGLISH        "+"
+
+REFERENCE           SO_KILLSPREE_TRAINER_SCOREBOARD_TIMETOBEAT
+LANG_ENGLISH        "Hora de ir a por más estrellas"
+
+ENDMARKER

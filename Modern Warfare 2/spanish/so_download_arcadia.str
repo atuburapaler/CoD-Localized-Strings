@@ -1,0 +1,226 @@
+// Dumped from fastfile "so_download_arcadia".
+// In their original format the strings might have been separated in multiple files.
+VERSION             "1"
+CONFIG              "C:/trees/cod3/cod3/bin/StringEd.cfg"
+FILENOTES           ""
+
+REFERENCE           ARCADIA_INTROSCREEN_LINE_1
+LANG_ENGLISH        "\"Éxodo\""
+
+REFERENCE           ARCADIA_INTROSCREEN_LINE_2
+LANG_ENGLISH        "Día 4 - 18:51:[{FAKE_INTRO_SECONDS:28}]"
+
+REFERENCE           ARCADIA_INTROSCREEN_LINE_3
+LANG_ENGLISH        "Sol. James Ramírez"
+
+REFERENCE           ARCADIA_INTROSCREEN_LINE_4
+LANG_ENGLISH        "1er Bn, 75º regimiento de Rangers"
+
+REFERENCE           ARCADIA_INTROSCREEN_LINE_5
+LANG_ENGLISH        "Nordeste de Virginia, EE. UU."
+
+REFERENCE           ARCADIA_LASER_HINT
+LANG_ENGLISH        "Pulsa ^3[{+actionslot 4}]^7 para buscar objetivos para el Stryker.\nUsa ^3[{+attack}]^7 para confirmar el área objetivo."
+
+REFERENCE           ARCADIA_LASER_HINT_GOLFCOURSE
+LANG_ENGLISH        "Pulsa ^3 [{+actionslot 4}]^7 para buscar cañones antiaéreos para la artillería.\nUsa ^3 [{+attack}]^7 para confirmar los vehículos enemigos."
+
+REFERENCE           ARCADIA_OBJECTIVE_AA_GUNS
+LANG_ENGLISH        "Localiza y neutraliza los cañones antiaéreos."
+
+REFERENCE           ARCADIA_OBJECTIVE_BROOKMERE
+LANG_ENGLISH        "Ve al 4677 de Brookmere Road."
+
+REFERENCE           ARCADIA_OBJECTIVE_INTEL
+LANG_ENGLISH        "Recupera la información de la \"sala del pánico\" del 4677 de Brookmere Road."
+
+REFERENCE           ARCADIA_PICK_UP_BRIEFCASE_HINT
+LANG_ENGLISH        "Mantén pulsado ^3&&1^7 para recoger el maletín."
+
+REFERENCE           ESTATE_DSM_BYPASS
+LANG_ENGLISH        "... superado."
+
+REFERENCE           ESTATE_DSM_DESTROYED_BY_AI_GUNFIRE
+LANG_ENGLISH        "El enemigo ha abierto fuego contra el DSM y lo ha destruido."
+
+REFERENCE           ESTATE_DSM_DESTROYED_BY_DESERTION
+LANG_ENGLISH        "El DSM ha sido destruido. Defiende el objetivo."
+
+REFERENCE           ESTATE_DSM_DESTROYED_BY_PLAYER
+LANG_ENGLISH        "¡Cuidado dónde disparas! Has destruido el DSM."
+
+REFERENCE           ESTATE_DSM_DLRATE
+LANG_ENGLISH        "Mbps"
+
+REFERENCE           ESTATE_DSM_DLTIMELEFT
+LANG_ENGLISH        "Faltan"
+
+REFERENCE           ESTATE_DSM_DLTIMELEFT_MINS
+LANG_ENGLISH        "min"
+
+REFERENCE           ESTATE_DSM_DLTIMELEFT_SECS
+LANG_ENGLISH        "seg"
+
+REFERENCE           ESTATE_DSM_DL_RATEMETER
+LANG_ENGLISH        "a"
+
+REFERENCE           ESTATE_DSM_FRAME
+LANG_ENGLISH        "DSM v6.04"
+
+REFERENCE           ESTATE_DSM_IRONBOX
+LANG_ENGLISH        "...ironbox ubicada..."
+
+REFERENCE           ESTATE_DSM_NETWORK_FOUND
+LANG_ENGLISH        "... red encontrada..."
+
+REFERENCE           ESTATE_DSM_PICKUP_HINT
+LANG_ENGLISH        "Mantén pulsado ^3&&1^7 para recuperar el DSM."
+
+REFERENCE           ESTATE_DSM_PROGRESS
+LANG_ENGLISH        "Copia datos:"
+
+REFERENCE           ESTATE_DSM_SLASH_TOTALFILES
+LANG_ENGLISH        "/2067"
+
+REFERENCE           ESTATE_DSM_USE_HINT
+LANG_ENGLISH        "Mantén pulsado ^3&&1^7 para conectar el DSM al ordenador de Makarov."
+
+REFERENCE           ESTATE_DSM_WORKING
+LANG_ENGLISH        "... trabajando..."
+
+REFERENCE           ESTATE_FAKE_DEATH_QUOTE
+LANG_ENGLISH        "\"¡Lucharé contigo hasta el final, te heriré desde el corazón del infierno!\" - Herman Melville"
+
+REFERENCE           ESTATE_INTROSCREEN_LINE_1
+LANG_ENGLISH        "\"Cabos sueltos\""
+
+REFERENCE           ESTATE_INTROSCREEN_LINE_2
+LANG_ENGLISH        "Día 6 - [{FAKE_INTRO_TIME:15:36:07}]"
+
+REFERENCE           ESTATE_INTROSCREEN_LINE_3
+LANG_ENGLISH        "Sgt. Gary \"Roach\" Sanderson"
+
+REFERENCE           ESTATE_INTROSCREEN_LINE_4
+LANG_ENGLISH        "Fuerza operativa 141"
+
+REFERENCE           ESTATE_INTROSCREEN_LINE_5
+LANG_ENGLISH        "Frontera ruso-georgiana"
+
+REFERENCE           ESTATE_LEARN_PRONE
+LANG_ENGLISH        "¡Mantén pulsado ^3 [{+stance}] ^7 para esquivar las minas terrestres!"
+
+REFERENCE           ESTATE_LEARN_PRONE_HOLDDOWN
+LANG_ENGLISH        "¡Mantén pulsado ^3[{+prone}]^7 para esquivar la mina terrestre!"
+
+REFERENCE           ESTATE_LEARN_PRONE_TOGGLE
+LANG_ENGLISH        "¡Pulsa ^3[{toggleprone}]^7 para esquivar la mina terrestre!"
+
+REFERENCE           ESTATE_OBJ_ASSASSINATE
+LANG_ENGLISH        "Neutraliza a Vladimir Makarov."
+
+REFERENCE           ESTATE_OBJ_BREACH
+LANG_ENGLISH        "Ataca y despeja el refugio de Makarov."
+
+REFERENCE           ESTATE_OBJ_DOWNLOAD
+LANG_ENGLISH        "Protege el DSM hasta que se complete la transferencia."
+
+REFERENCE           ESTATE_OBJ_EXFIL
+LANG_ENGLISH        "Ve a la ZA alternativa para tu extracción."
+
+REFERENCE           ESTATE_OBJ_INTEL
+LANG_ENGLISH        "Conecta el DSM a la red del ordenador de Makarov."
+
+REFERENCE           ESTATE_OBJ_LZ
+LANG_ENGLISH        "Llega a la zona de aterrizaje para la extracción."
+
+REFERENCE           ESTATE_OBJ_POINTER_PROTECT
+LANG_ENGLISH        "Proteger"
+
+REFERENCE           ESTATE_OBJ_POINTER_RETRIEVE
+LANG_ENGLISH        "Recuperar"
+
+REFERENCE           ESTATE_OBJ_REGROUP
+LANG_ENGLISH        "Reagrúpate con Ghost."
+
+REFERENCE           ESTATE_OBJ_RETRIEVE
+LANG_ENGLISH        "Recupera el DSM."
+
+REFERENCE           ESTATE_REMIND_PRONE_LINE1
+LANG_ENGLISH        "¡Te ha matado una mina!"
+
+REFERENCE           ESTATE_REMIND_PRONE_LINE2
+LANG_ENGLISH        "Mantén pulsado ^3 [{+stance}] ^7 para esquivar."
+
+REFERENCE           ESTATE_REMIND_PRONE_LINE2_HOLDDOWN
+LANG_ENGLISH        "Mantén pulsado ^3[{+prone}]^7 para esquivar."
+
+REFERENCE           ESTATE_REMIND_PRONE_LINE2_TOGGLE
+LANG_ENGLISH        "Pulsa ^3[{toggleprone}]^7 para esquivar."
+
+REFERENCE           ESTATE_USE_CLAYMORE_HINT
+LANG_ENGLISH        "Pulsa ^3[{+actionslot 4}]^7 para usar claymore."
+
+REFERENCE           SO_DOWNLOAD_ARCADIA_DEADQUOTE_HINT1
+LANG_ENGLISH        "INFORMACIÓN DE OPERACIÓN\n¡Mantén a los enemigos lejos del DSM mientras está descargando!\nSi lo interrumpen, tendrás que comenzar de nuevo la descarga."
+
+REFERENCE           SO_DOWNLOAD_ARCADIA_DEADQUOTE_HINT2
+LANG_ENGLISH        "INFORMACIÓN DE OPERACIÓN\nDebes proteger el DSM durante la descarga. Usa minas claymore y torretas."
+
+REFERENCE           SO_DOWNLOAD_ARCADIA_DEADQUOTE_HINT3
+LANG_ENGLISH        "INFORMACIÓN DE OPERACIÓN\nPulsa ^3[{+actionslot 4}]^7 para activar el detector de objetivos y luego pulsa ^3[{+attack}]^7 para ordenar al Stryker que elimine al objetivo.\n"
+
+REFERENCE           SO_DOWNLOAD_ARCADIA_DEADQUOTE_HINT4
+LANG_ENGLISH        "INFORMACIÓN DE OPERACIÓN\nPrepara las defensas antes de descargar los archivos."
+
+REFERENCE           SO_DOWNLOAD_ARCADIA_DOWNLOAD_COMPLETE
+LANG_ENGLISH        "¡DESCARGA COMPLETA!"
+
+REFERENCE           SO_DOWNLOAD_ARCADIA_DOWNLOAD_INTERRUPTED
+LANG_ENGLISH        "¡DESCARGA INTERRUMPIDA!"
+
+REFERENCE           SO_DOWNLOAD_ARCADIA_DOWNLOAD_STOPPED
+LANG_ENGLISH        "El enemigo ha desconectado el DSM del ordenador."
+
+REFERENCE           SO_DOWNLOAD_ARCADIA_DSM_CONNECTING
+LANG_ENGLISH        "Conectando... &&1%"
+
+REFERENCE           SO_DOWNLOAD_ARCADIA_DSM_FRAME
+LANG_ENGLISH        "DSM (v6.05): "
+
+REFERENCE           SO_DOWNLOAD_ARCADIA_DSM_INIT
+LANG_ENGLISH        "Iniciando... &&1%"
+
+REFERENCE           SO_DOWNLOAD_ARCADIA_DSM_LOCATE
+LANG_ENGLISH        "Buscando datos... &&1%"
+
+REFERENCE           SO_DOWNLOAD_ARCADIA_DSM_LOGIN
+LANG_ENGLISH        "Evitando acceso... &&1%"
+
+REFERENCE           SO_DOWNLOAD_ARCADIA_DSM_PROGRESS
+LANG_ENGLISH        "Copia datos:"
+
+REFERENCE           SO_DOWNLOAD_ARCADIA_DSM_TOTALFILES
+LANG_ENGLISH        "/&&1"
+
+REFERENCE           SO_DOWNLOAD_ARCADIA_DSM_USE_HINT
+LANG_ENGLISH        "Mantén pulsado ^3&&1^7 para iniciar la descarga."
+
+REFERENCE           SO_DOWNLOAD_ARCADIA_LASER_HINT1
+LANG_ENGLISH        "Pulsa ^3 [{+actionslot 4}] ^7 para buscar objetivos para el Stryker."
+
+REFERENCE           SO_DOWNLOAD_ARCADIA_LASER_HINT2
+LANG_ENGLISH        "Usa ^3 [{+attack}] ^7 para confirmar el área objetivo."
+
+REFERENCE           SO_DOWNLOAD_ARCADIA_OBJ_EXTRACT
+LANG_ENGLISH        "Vuelve al Stryker para la extracción."
+
+REFERENCE           SO_DOWNLOAD_ARCADIA_OBJ_HARDENED
+LANG_ENGLISH        "Descarga los datos de cada ordenador."
+
+REFERENCE           SO_DOWNLOAD_ARCADIA_OBJ_REGULAR
+LANG_ENGLISH        "Descarga los datos de cada ordenador."
+
+REFERENCE           SO_DOWNLOAD_ARCADIA_OBJ_VETERAN
+LANG_ENGLISH        "Descarga los datos de cada ordenador."
+
+ENDMARKER

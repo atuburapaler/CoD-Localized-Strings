@@ -1,0 +1,43 @@
+// Dumped from fastfile "boneyard".
+// In their original format the strings might have been separated in multiple files.
+VERSION             "1"
+CONFIG              "C:/trees/cod3/cod3/bin/StringEd.cfg"
+FILENOTES           ""
+
+REFERENCE           BONEYARD_DEADQUOTE_CRASH
+LANG_ENGLISH        "No has conseguido tomar el control del vehículo."
+
+REFERENCE           BONEYARD_DEADQUOTE_MOUNT
+LANG_ENGLISH        "No has conseguido subir al vehículo de escapada."
+
+REFERENCE           BONEYARD_DEADQUOTE_TAKEOFF
+LANG_ENGLISH        "No has conseguido coger el avión."
+
+REFERENCE           BONEYARD_INTROSCREEN_LINE_1
+LANG_ENGLISH        "\"El enemigo de mi enemigo\""
+
+REFERENCE           BONEYARD_INTROSCREEN_LINE_2
+LANG_ENGLISH        "Día 6 - [{FAKE_INTRO_TIME:16:03:21}]"
+
+REFERENCE           BONEYARD_INTROSCREEN_LINE_3
+LANG_ENGLISH        "Capitán \"Soap\" MacTavish"
+
+REFERENCE           BONEYARD_INTROSCREEN_LINE_4
+LANG_ENGLISH        "160 millas al SO de Kandahar, Afganistán"
+
+REFERENCE           BONEYARD_INTROSCREEN_LINE_5
+LANG_ENGLISH        "Desguace de vehículos de los EE. UU. 437"
+
+REFERENCE           BONEYARD_OBJ_C130
+LANG_ENGLISH        "Súbete al avión de Nikolai."
+
+REFERENCE           BONEYARD_OBJ_RALLYPOINT
+LANG_ENGLISH        "Llega al punto de reunión."
+
+REFERENCE           BONEYARD_OBJ_RIDE
+LANG_ENGLISH        "Sube al UAZ."
+
+REFERENCE           BONEYARD_OBJ_RIDE_ICON
+LANG_ENGLISH        "Móntate"
+
+ENDMARKER

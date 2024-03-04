@@ -1,0 +1,64 @@
+// Dumped from fastfile "favela_escape".
+// In their original format the strings might have been separated in multiple files.
+VERSION             "1"
+CONFIG              "C:/trees/cod3/cod3/bin/StringEd.cfg"
+FILENOTES           ""
+
+REFERENCE           FAVELA_ESCAPE_CHOPPER_TIMER
+LANG_ENGLISH        "Despegue en: "
+
+REFERENCE           FAVELA_ESCAPE_CHOPPER_TIMER_EXPIRED
+LANG_ENGLISH        "Misión fallida: no has conseguido llegar al Pave Low a tiempo para la extracción."
+
+REFERENCE           FAVELA_ESCAPE_DEADQUOTE_FAILED_CHOPPER_JUMP
+LANG_ENGLISH        "Corre y salta en la dirección a la escalera para subirte al Pave Low."
+
+REFERENCE           FAVELA_ESCAPE_HINT_SPRINT
+LANG_ENGLISH        "Pulsa ^3[{+breath_sprint}]^7 mientras avanzas para esprintar."
+
+REFERENCE           FAVELA_ESCAPE_HINT_SPRINT_PC
+LANG_ENGLISH        "Pulsa ^3[{+sprint}]^7 mientras avanzas para esprintar."
+
+REFERENCE           FAVELA_ESCAPE_HINT_SPRINT_PC_ALT
+LANG_ENGLISH        "Pulsa ^3[{+breath_sprint}]^7 mientras avanzas para esprintar."
+
+REFERENCE           FAVELA_ESCAPE_INTROSCREEN_LINE_1
+LANG_ENGLISH        "\"Avispero\""
+
+REFERENCE           FAVELA_ESCAPE_INTROSCREEN_LINE_2
+LANG_ENGLISH        "Día 4 - 16:19:[{FAKE_INTRO_SECONDS:40}]"
+
+REFERENCE           FAVELA_ESCAPE_INTROSCREEN_LINE_3
+LANG_ENGLISH        "Sgt. Gary \"Roach\" Sanderson"
+
+REFERENCE           FAVELA_ESCAPE_INTROSCREEN_LINE_4
+LANG_ENGLISH        "Fuerza operativa 141"
+
+REFERENCE           FAVELA_ESCAPE_INTROSCREEN_LINE_5
+LANG_ENGLISH        "Río de Janeiro, 518 metros (s.n.m.)"
+
+REFERENCE           FAVELA_ESCAPE_OBJ_FLEE_RADIOTOWER
+LANG_ENGLISH        "Dirígete a la ZA al sudeste del mercado."
+
+REFERENCE           FAVELA_ESCAPE_OBJ_FOLLOW_MARKER
+LANG_ENGLISH        "Apoya"
+
+REFERENCE           FAVELA_ESCAPE_OBJ_FOLLOW_SOAP
+LANG_ENGLISH        "Ayuda al capitán MacTavish mientras el pelotón se dirige a la zona de aterrizaje."
+
+REFERENCE           FAVELA_ESCAPE_OBJ_GET_BACK_TO_ROOF
+LANG_ENGLISH        "Encuentra el modo de volver a los tejados."
+
+REFERENCE           FAVELA_ESCAPE_OBJ_GET_TO_CHOPPER
+LANG_ENGLISH        "Llega al Pave Low en el extremo sur de los tejados."
+
+REFERENCE           FAVELA_ESCAPE_OBJ_JUMP_MARKER
+LANG_ENGLISH        "Saltar"
+
+REFERENCE           FAVELA_ESCAPE_OBJ_MARKET_ESCAPE
+LANG_ENGLISH        "Escapa hacia la ZA secundaria por los tejados."
+
+REFERENCE           FAVELA_ESCAPE_SOLORUN_KEEP_MOVING
+LANG_ENGLISH        "Estás herido. ¡Corre por tu vida!"
+
+ENDMARKER

@@ -1,0 +1,10 @@
+// Dumped from fastfile "so_crossing_so_bridge".
+// In their original format the strings might have been separated in multiple files.
+VERSION             "1"
+CONFIG              "C:/trees/cod3/cod3/bin/StringEd.cfg"
+FILENOTES           ""
+
+REFERENCE           SO_CROSSING_SO_BRIDGE_OBJECTIVE
+LANG_ENGLISH        "Llega al punto de extracción con vida."
+
+ENDMARKER

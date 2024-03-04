@@ -1,0 +1,25 @@
+// Dumped from fastfile "so_ac130_co_hunted".
+// In their original format the strings might have been separated in multiple files.
+VERSION             "1"
+CONFIG              "C:/trees/cod3/cod3/bin/StringEd.cfg"
+FILENOTES           ""
+
+REFERENCE           SO_AC130_CO_HUNTED_OBJ_EASY
+LANG_ENGLISH        "Ponte a salvo en 3 minutos y 30 segundos o menos."
+
+REFERENCE           SO_AC130_CO_HUNTED_OBJ_HARDENED
+LANG_ENGLISH        "Ponte a salvo en 5 minutos o menos."
+
+REFERENCE           SO_AC130_CO_HUNTED_OBJ_REGULAR
+LANG_ENGLISH        "Ponte a salvo en 3 minutos y 30 segundos o menos."
+
+REFERENCE           SO_AC130_CO_HUNTED_OBJ_VETERAN
+LANG_ENGLISH        "Ponte a salvo en 7 minutos o menos."
+
+REFERENCE           SO_AC130_CO_HUNTED_SPECOP_TIMER
+LANG_ENGLISH        "Alcanza tu objetivo en: "
+
+REFERENCE           SO_AC130_CO_HUNTED_TIMER_EXPIRED_SPECOP
+LANG_ENGLISH        "Misión fallida. Se te ha acabado el tiempo."
+
+ENDMARKER

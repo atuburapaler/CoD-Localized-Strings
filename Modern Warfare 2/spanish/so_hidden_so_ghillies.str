@@ -1,0 +1,40 @@
+// Dumped from fastfile "so_hidden_so_ghillies".
+// In their original format the strings might have been separated in multiple files.
+VERSION             "1"
+CONFIG              "C:/trees/cod3/cod3/bin/StringEd.cfg"
+FILENOTES           ""
+
+REFERENCE           SO_HIDDEN_SO_GHILLIES_HINT_TIME
+LANG_ENGLISH        "Pulsa arriba en el mando D para ver tu tiempo y tus bajas."
+
+REFERENCE           SO_HIDDEN_SO_GHILLIES_KILL_BASIC
+LANG_ENGLISH        "Media: "
+
+REFERENCE           SO_HIDDEN_SO_GHILLIES_KILL_NOFIRE
+LANG_ENGLISH        "Bien: "
+
+REFERENCE           SO_HIDDEN_SO_GHILLIES_KILL_STEALTH
+LANG_ENGLISH        "Perfecto: "
+
+REFERENCE           SO_HIDDEN_SO_GHILLIES_OBJ_HARDENED
+LANG_ENGLISH        "Llega al punto de extracción. Sé paciente y sigiloso."
+
+REFERENCE           SO_HIDDEN_SO_GHILLIES_OBJ_REGULAR
+LANG_ENGLISH        "Llega al punto de extracción. Sé paciente y sigiloso."
+
+REFERENCE           SO_HIDDEN_SO_GHILLIES_OBJ_VETERAN
+LANG_ENGLISH        "Llega al punto de extracción. Sé paciente y sigiloso."
+
+REFERENCE           SO_HIDDEN_SO_GHILLIES_STAT_BASIC
+LANG_ENGLISH        "Bajas normales"
+
+REFERENCE           SO_HIDDEN_SO_GHILLIES_STAT_NOFIRE
+LANG_ENGLISH        "Bajas buenas"
+
+REFERENCE           SO_HIDDEN_SO_GHILLIES_STAT_SKIPPED
+LANG_ENGLISH        "Sin bajas"
+
+REFERENCE           SO_HIDDEN_SO_GHILLIES_STAT_STEALTH
+LANG_ENGLISH        "Bajas perfectas"
+
+ENDMARKER

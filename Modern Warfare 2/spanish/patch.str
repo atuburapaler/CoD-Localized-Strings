@@ -1,0 +1,226 @@
+// Dumped from fastfile "patch".
+// In their original format the strings might have been separated in multiple files.
+VERSION             "1"
+CONFIG              "C:/trees/cod3/cod3/bin/StringEd.cfg"
+FILENOTES           ""
+
+REFERENCE           AF_CHASE_HINT_CRAWL_LEFT
+LANG_ENGLISH        "^3Ratón izquierdo^7"
+
+REFERENCE           AF_CHASE_HINT_CRAWL_RIGHT
+LANG_ENGLISH        "^3Ratón derecho^7"
+
+REFERENCE           CLIFFHANGER_HOW_TO_CLIMB
+LANG_ENGLISH        "Aproxímate al hielo y mantén pulsado ^3Ratón derecho^7 para trepar."
+
+REFERENCE           CLIFFHANGER_LEFT_ICEPICK
+LANG_ENGLISH        "Mantén pulsado ^3Ratón izquierdo^7 para mover el piolet izquierdo."
+
+REFERENCE           CLIFFHANGER_RIGHT_ICEPICK
+LANG_ENGLISH        "Mantén pulsado ^3Ratón derecho^7 para mover el piolet derecho."
+
+REFERENCE           KEY_DOWNARROW
+LANG_ENGLISH        "Abajo"
+
+REFERENCE           KEY_LEFTARROW
+LANG_ENGLISH        "Izda."
+
+REFERENCE           KEY_MOUSE3
+LANG_ENGLISH        "Ratón cent."
+
+REFERENCE           KEY_OR
+LANG_ENGLISH        "o"
+
+REFERENCE           KEY_RIGHTARROW
+LANG_ENGLISH        "Dcha."
+
+REFERENCE           KEY_SHIFT
+LANG_ENGLISH        "Shift"
+
+REFERENCE           KEY_SPACE
+LANG_ENGLISH        "Espacio"
+
+REFERENCE           KEY_UNBOUND
+LANG_ENGLISH        "No estab."
+
+REFERENCE           KEY_UPARROW
+LANG_ENGLISH        "Arriba"
+
+REFERENCE           MENU_SP_STEAM_CHAT_HINT
+LANG_ENGLISH        "Doble clic en el nombre de tu amigo en Steam para hablar."
+
+REFERENCE           NETWORK_MODERATE
+LANG_ENGLISH        "Moderada"
+
+REFERENCE           NETWORK_MODERATELOBBYWARNING
+LANG_ENGLISH        "Tu tipo de NAT es Moderado, lo que significa que los jugadores podrían tener problemas al conectarse a ti y unirse a tu partida privada."
+
+REFERENCE           NETWORK_MODERATEPARTYWARNING
+LANG_ENGLISH        "Tu tipo de NAT es Moderado, lo que significa que los jugadores podrían tener problemas al conectarse a ti y unirse a tu grupo."
+
+REFERENCE           NETWORK_OPEN
+LANG_ENGLISH        "Abierto"
+
+REFERENCE           NETWORK_STRICT
+LANG_ENGLISH        "Estricto"
+
+REFERENCE           NETWORK_STRICTLOBBYWARNING
+LANG_ENGLISH        "Tu tipo de NAT es Estricto, lo que significa que a los jugadores les costará conectarse a ti, así que si invitas a gente, podrían no conseguir unirse a tu partida privada.  "
+
+REFERENCE           NETWORK_STRICTPARTYWARNING
+LANG_ENGLISH        "Tu tipo de NAT es Estricto, lo que significa que a los jugadores les costará conectarse a ti, así que si invitas a gente, podrían no conseguir unirse a tu grupo.  "
+
+REFERENCE           NETWORK_YOURNATTYPE
+LANG_ENGLISH        "Tu tipo de NAT:"
+
+REFERENCE           PATCH_ABANDON
+LANG_ENGLISH        "Carnival"
+
+REFERENCE           PATCH_CHANGEHOSTTITLE
+LANG_ENGLISH        "Cambiar líder del grupo"
+
+REFERENCE           PATCH_COMPACT
+LANG_ENGLISH        "Salvage"
+
+REFERENCE           PATCH_COMPLEX
+LANG_ENGLISH        "Bailout"
+
+REFERENCE           PATCH_CRASH
+LANG_ENGLISH        "Crash"
+
+REFERENCE           PATCH_DESC_BARRACKS
+LANG_ENGLISH        "Desafíos, galardones y opciones."
+
+REFERENCE           PATCH_DESC_MAP_ABANDON
+LANG_ENGLISH        "Enorme parque de atracciones abandonado. Genial para todos los modos de juego."
+
+REFERENCE           PATCH_DESC_MAP_COMPACT
+LANG_ENGLISH        "Un desguace cubierto por la nieve. Acción trepidante a raudales."
+
+REFERENCE           PATCH_DESC_MAP_COMPLEX
+LANG_ENGLISH        "Complejo de apartamentos infestado. Amplias líneas de tiro con geniales rutas de flanqueo."
+
+REFERENCE           PATCH_DESC_MAP_CRASH
+LANG_ENGLISH        "Sea Knight derribado en una ciudad desértica. Fantástico para las partidas por equipos."
+
+REFERENCE           PATCH_DESC_MAP_FUEL2
+LANG_ENGLISH        "Gigantesca refinería petrolífera con buen equilibrio de enfrentamientos a media y a larga distancia."
+
+REFERENCE           PATCH_DESC_MAP_OVERGROWN
+LANG_ENGLISH        "Zona rural rusa extensa. Los trajes de camuflaje para francotiradores resultan útiles."
+
+REFERENCE           PATCH_DESC_MAP_STORM
+LANG_ENGLISH        "Violento distrito de almacenes. Intensos combates en equipo."
+
+REFERENCE           PATCH_DESC_MAP_STRIKE
+LANG_ENGLISH        "Ciudad desértica grande. Excelente para las partidas por equipos."
+
+REFERENCE           PATCH_DESC_MAP_TRAILERPARK
+LANG_ENGLISH        "Parque de caravanas de tamaño medio con corredores laterales y muchas coberturas. Se lucha desde todos los ángulos.\n\n"
+
+REFERENCE           PATCH_DESC_MAP_VACANT
+LANG_ENGLISH        "Oficina abandonada rusa. Luchas intensas en interiores."
+
+REFERENCE           PATCH_DLCMAPS
+LANG_ENGLISH        "Mapas descargados de Steam."
+
+REFERENCE           PATCH_DLC_MAPS
+LANG_ENGLISH        "Mapas adicionales"
+
+REFERENCE           PATCH_DLC_MAPS_DESC
+LANG_ENGLISH        "Mapas multijugador adicionales."
+
+REFERENCE           PATCH_DLC_MAPS_DESC_LOCKED
+LANG_ENGLISH        "Descarga mapas multijugador adicionales."
+
+REFERENCE           PATCH_DOWNLOAD_CONTENT
+LANG_ENGLISH        "Descargar contenido"
+
+REFERENCE           PATCH_DOWNLOAD_CONTENT_CAPS
+LANG_ENGLISH        "DESCARGAR CONTENIDO"
+
+REFERENCE           PATCH_DOWNLOAD_MAPS
+LANG_ENGLISH        "Descargar mapas"
+
+REFERENCE           PATCH_DOWNLOAD_MAPS_CAPS
+LANG_ENGLISH        "DESCARGAR MAPAS"
+
+REFERENCE           PATCH_FUEL2
+LANG_ENGLISH        "Fuel"
+
+REFERENCE           PATCH_INVALIDPASSWORD
+LANG_ENGLISH        "Contraseña no válida."
+
+REFERENCE           PATCH_INVITE_FRIEND_TO_PARTY
+LANG_ENGLISH        "Invitar a un amigo al grupo"
+
+REFERENCE           PATCH_INVITE_TO_PARTY
+LANG_ENGLISH        "Invitar al grupo"
+
+REFERENCE           PATCH_MAKEHOSTQUESTION
+LANG_ENGLISH        "¿Nombrar a &&1 como nuevo líder del grupo?"
+
+REFERENCE           PATCH_MISSINGMAP
+LANG_ENGLISH        "No tienes este mapa. Puedes descargar paquetes de mapas de Steam."
+
+REFERENCE           PATCH_OVERGROWN
+LANG_ENGLISH        "Overgrown"
+
+REFERENCE           PATCH_PARTY_INVITE_ACCEPT
+LANG_ENGLISH        "Unirse al grupo"
+
+REFERENCE           PATCH_PARTY_INVITE_DECLINE
+LANG_ENGLISH        "Rechazar"
+
+REFERENCE           PATCH_PARTY_INVITE_QUESTION
+LANG_ENGLISH        "&&1 te ha invitado a su grupo."
+
+REFERENCE           PATCH_PARTY_INVITE_QUESTION_PARTY_HOST
+LANG_ENGLISH        "&&1 te ha invitado a su grupo.\nSi aceptas, disolverás tu grupo."
+
+REFERENCE           PATCH_PARTY_INVITE_TITLE
+LANG_ENGLISH        "Invitación de grupo"
+
+REFERENCE           PATCH_PLAYLIST_REQUIRES_DLC
+LANG_ENGLISH        "Esta lista de partidas requiere un paquete de mapas que no tienes. Puedes descargar paquetes de mapas desde Steam."
+
+REFERENCE           PATCH_PRESTIGE_RESET_WARNING1
+LANG_ENGLISH        "Cambia todos tus logros por un poco de prestigio. Además de recibir un icono de rango de prestigio, podrás acceder a nuevos títulos, emblemas y desafíos.\n\nOtros jugadores verán tu nuevo icono de rango de prestigio en el punto de encuentro y en el juego."
+
+REFERENCE           PATCH_PRESTIGE_RESET_WARNING2
+LANG_ENGLISH        "El prestigio tiene un precio: todo lo que has desbloqueado, incluidos los desafíos, la experiencia y las armas, se reiniciará; tendrás que volver a ascender de rango para recuperarlo.\n\nTus títulos, emblemas y listas de reproducción no se verán afectados."
+
+REFERENCE           PATCH_SEARCHINGFORGAMES_NMS
+LANG_ENGLISH        "Buscando partidas: <&&1 ms de ping"
+
+REFERENCE           PATCH_SETASHOST
+LANG_ENGLISH        "Nombrar líder"
+
+REFERENCE           PATCH_STORM
+LANG_ENGLISH        "Storm"
+
+REFERENCE           PATCH_STRICTHINT
+LANG_ENGLISH        "Visita ^2www.infinityward.com/nat^7 para ABRIR el NAT de tu router.\n"
+
+REFERENCE           PATCH_STRICTHINT_COOP
+LANG_ENGLISH        "Los demás jugadores quizás tengan dificultades para conectarse contigo. Puede que los jugadores que has invitado al punto de encuentro no logren acceder. Visita ^2www.infinityward.com/nat^7 para ABRIR el NAT de tu router."
+
+REFERENCE           PATCH_STRIKE
+LANG_ENGLISH        "Strike"
+
+REFERENCE           PATCH_TRAILERPARK
+LANG_ENGLISH        "Trailer Park"
+
+REFERENCE           PATCH_VACANT
+LANG_ENGLISH        "Vacant"
+
+REFERENCE           PATCH_YOUAREHOST
+LANG_ENGLISH        "Ahora eres el líder del grupo."
+
+REFERENCE           PLATFORM_PLAY_ONLINE_CAPS
+LANG_ENGLISH        "JUGAR"
+
+REFERENCE           TRAINER_HINT_STOP_ADS_TOGGLE_THROW
+LANG_ENGLISH        "Alcanza los blancos mientras disparas desde la cadera.\nPulsa ^3[{+toggleads_throw}]^7 para dejar de apuntar con la mira."
+
+ENDMARKER

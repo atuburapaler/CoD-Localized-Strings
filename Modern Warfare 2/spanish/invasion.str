@@ -1,0 +1,160 @@
+// Dumped from fastfile "invasion".
+// In their original format the strings might have been separated in multiple files.
+VERSION             "1"
+CONFIG              "C:/trees/cod3/cod3/bin/StringEd.cfg"
+FILENOTES           ""
+
+REFERENCE           HELLFIRE_DESTROYED
+LANG_ENGLISH        "El dron Predator ha sido destruido."
+
+REFERENCE           HELLFIRE_DRONE_NOT_AVAILABLE
+LANG_ENGLISH        "El dron Predator no está disponible."
+
+REFERENCE           HELLFIRE_DRONE_VIEW
+LANG_ENGLISH        "CÁMARA: UAV_DRONE_011"
+
+REFERENCE           HELLFIRE_FIRE
+LANG_ENGLISH        "-MISIL LANZADO-"
+
+REFERENCE           HELLFIRE_MISSILE_VIEW
+LANG_ENGLISH        "CÁMARA: MISSILE"
+
+REFERENCE           HELLFIRE_RELOADING
+LANG_ENGLISH        "-EL MISIL ESTÁ RECARGANDO-"
+
+REFERENCE           HELLFIRE_RELOADING_WITH_TIME
+LANG_ENGLISH        "MISIL RECARGADO EN: "
+
+REFERENCE           HELLFIRE_USE_DRONE
+LANG_ENGLISH        "Pulsa ^3 [{+actionslot 4}] ^7 para controlar el dron Predator."
+
+REFERENCE           HELLFIRE_USE_DRONE_2
+LANG_ENGLISH        "Pulsa ^3 [{+actionslot 2}] ^7 para controlar el dron Predator."
+
+REFERENCE           INVASION_ADS_WITH_STINGER
+LANG_ENGLISH        "Mantén pulsado ^3[{+speed_throw}]^7 al usar un Stinger."
+
+REFERENCE           INVASION_DRONE_PICKUP
+LANG_ENGLISH        "Mantén pulsado ^3&&1^7 para recoger la plataforma de control del dron Predator."
+
+REFERENCE           INVASION_FAIL_ABANDONED
+LANG_ENGLISH        "Has abandonado a tu pelotón."
+
+REFERENCE           INVASION_FAIL_PREZ
+LANG_ENGLISH        "El presidente ha muerto."
+
+REFERENCE           INVASION_FAIL_SENTRY
+LANG_ENGLISH        "Torreta M-5 destruida."
+
+REFERENCE           INVASION_GET_SEMTEX
+LANG_ENGLISH        "Mantén pulsado ^3[{+activate}]^7 sobre el cargamento de suministros\npara conseguir más \"granadas Semtex\"."
+
+REFERENCE           INVASION_GET_SMOKE
+LANG_ENGLISH        "Mantén pulsado ^3[{+activate}]^7 sobre los suministros para conseguir más granadas de humo."
+
+REFERENCE           INVASION_HELLFIRE_DRONE_VIEW
+LANG_ENGLISH        "CÁMARA: UAV_DRONE_011"
+
+REFERENCE           INVASION_HELLFIRE_FIRE
+LANG_ENGLISH        "-MISIL LANZADO-"
+
+REFERENCE           INVASION_HELLFIRE_MISSILE_VIEW
+LANG_ENGLISH        "CÁMARA: MISSILE"
+
+REFERENCE           INVASION_LINE1
+LANG_ENGLISH        "\"¡Wolverines!\""
+
+REFERENCE           INVASION_LINE2
+LANG_ENGLISH        "Día 4 - 17:45:[{FAKE_INTRO_SECONDS:32}]"
+
+REFERENCE           INVASION_LINE3
+LANG_ENGLISH        "Sol. James Ramírez"
+
+REFERENCE           INVASION_LINE4
+LANG_ENGLISH        "1er Bn, 75º regimiento de Rangers"
+
+REFERENCE           INVASION_LINE5
+LANG_ENGLISH        "Nordeste de Virginia, EE. UU."
+
+REFERENCE           INVASION_OBJ_ATTACK_HELI
+LANG_ENGLISH        "Neutraliza el helicóptero enemigo."
+
+REFERENCE           INVASION_OBJ_BMPS
+LANG_ENGLISH        "Destruye los BTR80."
+
+REFERENCE           INVASION_OBJ_BURGERTOWN
+LANG_ENGLISH        "Asegura el Burgertown."
+
+REFERENCE           INVASION_OBJ_BURGERTOWN_DEFEND
+LANG_ENGLISH        "Neutraliza a las fuerzas enemigas."
+
+REFERENCE           INVASION_OBJ_CONVOY
+LANG_ENGLISH        "Repliégate en el convoy."
+
+REFERENCE           INVASION_OBJ_CRASH
+LANG_ENGLISH        "Registra el lugar del impacto."
+
+REFERENCE           INVASION_OBJ_DEFEND
+LANG_ENGLISH        "Elimina el asalto enemigo."
+
+REFERENCE           INVASION_OBJ_FOLEY
+LANG_ENGLISH        "Sigue al sargento Foley."
+
+REFERENCE           INVASION_OBJ_NATES_REGROUP
+LANG_ENGLISH        "Repliégate en el Nate's Restaurant."
+
+REFERENCE           INVASION_OBJ_PREDATOR
+LANG_ENGLISH        "Toma el control del dron Predator."
+
+REFERENCE           INVASION_OBJ_REGROUP
+LANG_ENGLISH        "Repliégate en el Nate's Restaurant."
+
+REFERENCE           INVASION_OBJ_ROOF
+LANG_ENGLISH        "Sube al tejado del Nate's Restaurant."
+
+REFERENCE           INVASION_OBJ_SENTRY
+LANG_ENGLISH        "Mueve la torreta M-5 a la zona sur del tejado."
+
+REFERENCE           INVASION_OBJ_VIP_ESCORT
+LANG_ENGLISH        "Protege al VIP."
+
+REFERENCE           INVASION_SMOKE_TOO_FAR
+LANG_ENGLISH        "Granada de humo demasiado lejos del vehículo."
+
+REFERENCE           INVASION_THROW_SEMTEX
+LANG_ENGLISH        "Pulsa ^3[{+smoke}]^7 para lanzar una granada Semtex adhesiva."
+
+REFERENCE           INVASION_THROW_SMOKE
+LANG_ENGLISH        "Pulsa ^3[{+smoke}]^7 para lanzar una granada de humo."
+
+REFERENCE           INVASION_TOGGLE_ADS_WITH_STINGER
+LANG_ENGLISH        "Pulsa ^3[{+toggleads_throw}]^7 al usar un Stinger."
+
+REFERENCE           INVASION_USE_DRONE
+LANG_ENGLISH        "Pulsa ^3 [{+actionslot 4}] ^7 para controlar el dron Predator."
+
+REFERENCE           INVASION_WAYPOINT_DEFEND
+LANG_ENGLISH        "Defiende"
+
+REFERENCE           INVASION_WAYPOINT_HOSTILES
+LANG_ENGLISH        "Blancos"
+
+REFERENCE           INVASION_WAYPOINT_PROTECT
+LANG_ENGLISH        "Proteger"
+
+REFERENCE           SENTRY_CANNOT_PLACE
+LANG_ENGLISH        "Mueve la torreta a una ubicación válida."
+
+REFERENCE           SENTRY_DEBUG_SPAWN_ENEMIES
+LANG_ENGLISH        "Los enemigos reaparecen en 10 segundos"
+
+REFERENCE           SENTRY_MOVE
+LANG_ENGLISH        "Mantén pulsado ^3&&1^7 para mover la torreta."
+
+REFERENCE           SENTRY_PICKUP
+LANG_ENGLISH        "Mantén pulsado ^3&&1^7 para recoger la torreta."
+
+REFERENCE           SENTRY_PLACE
+LANG_ENGLISH        "Pulsa ^3[{+attack}]^7 para colocar la torreta."
+
+ENDMARKER

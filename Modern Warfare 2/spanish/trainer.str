@@ -1,0 +1,523 @@
+// Dumped from fastfile "trainer".
+// In their original format the strings might have been separated in multiple files.
+VERSION             "1"
+CONFIG              "C:/trees/cod3/cod3/bin/StringEd.cfg"
+FILENOTES           ""
+
+REFERENCE           TRAINER_ACCURACY_BONUS
+LANG_ENGLISH        "Bono por precisión: -&&1 seg"
+
+REFERENCE           TRAINER_ACCURACY_BONUS_ZERO
+LANG_ENGLISH        "Bono por precisión: 0,0"
+
+REFERENCE           TRAINER_ACCURACY_LABEL
+LANG_ENGLISH        "Precisión: &&1%"
+
+REFERENCE           TRAINER_AXIS_OPTION_MENU1
+LANG_ENGLISH        "¿Quieres invertir los controles"
+
+REFERENCE           TRAINER_AXIS_OPTION_MENU1B
+LANG_ENGLISH        "para alzar y bajar la vista?"
+
+REFERENCE           TRAINER_AXIS_OPTION_MENU1_ALL
+LANG_ENGLISH        "¿Quieres invertir los controles para alzar y bajar la vista?"
+
+REFERENCE           TRAINER_AXIS_OPTION_MENU2
+LANG_ENGLISH        "¿Quieres dejar los controles"
+
+REFERENCE           TRAINER_AXIS_OPTION_MENU2B
+LANG_ENGLISH        "tal y como estaban antes?"
+
+REFERENCE           TRAINER_AXIS_OPTION_MENU2_ALL
+LANG_ENGLISH        "¿Quieres mantener los controles así?"
+
+REFERENCE           TRAINER_C4_OBJECTIVE
+LANG_ENGLISH        "Cuando tu objetivo sea colocar C4, verás un marcador\nbrillante en el mundo que te indica dónde colocarlo."
+
+REFERENCE           TRAINER_C4_PICKUP
+LANG_ENGLISH        "Mantén pulsado ^3 &&1 ^7 para recoger el explosivo C4."
+
+REFERENCE           TRAINER_CIVVIES_KILLED
+LANG_ENGLISH        "Civiles muertos: &&1/11"
+
+REFERENCE           TRAINER_CLEAR_THE_CARGOSHIP_BRIDGE
+LANG_ENGLISH        "Despeja el puente del carguero."
+
+REFERENCE           TRAINER_CLIMB_THE_LADDER
+LANG_ENGLISH        "Trepa por la escalera."
+
+REFERENCE           TRAINER_CLIMB_THE_LADDER1
+LANG_ENGLISH        "Trepa por la escalera."
+
+REFERENCE           TRAINER_COMPLETE_THE_DECK_MOCKUP
+LANG_ENGLISH        "Despeja la cubierta."
+
+REFERENCE           TRAINER_DEBRIEF_WITH_CPT_PRICE
+LANG_ENGLISH        "Presenta informe ante el capitán Price."
+
+REFERENCE           TRAINER_DECK_LABEL
+LANG_ENGLISH        "Cubierta del carguero"
+
+REFERENCE           TRAINER_DETONATE_C4
+LANG_ENGLISH        "Pulsa ^3[{+attack}]^7 para hacerlo explotar."
+
+REFERENCE           TRAINER_ENEMIES_KILLED
+LANG_ENGLISH        "Enemigos muertos: &&1/24"
+
+REFERENCE           TRAINER_ENTER_STATION_NUMBER
+LANG_ENGLISH        "Entra en la estación número 1 y apunta con la mira."
+
+REFERENCE           TRAINER_ENTER_THE_SAFETY_PIT
+LANG_ENGLISH        "Entra en el foso de seguridad."
+
+REFERENCE           TRAINER_EQUIP_THE_MP5_AND_PICK
+LANG_ENGLISH        "Coge el MP5 y 4 granadas cegadoras."
+
+REFERENCE           TRAINER_FIRED_NEAR_FRIENDLY
+LANG_ENGLISH        "Has puesto en peligro a un compañero de equipo."
+
+REFERENCE           TRAINER_FIRE_AT_THE_WALL_WITH
+LANG_ENGLISH        "Dispara al muro que tiene el número uno."
+
+REFERENCE           TRAINER_FIRE_YOUR_GRENADE_LAUNCHER
+LANG_ENGLISH        "Dispara tu lanzagranadas a las ventanas cinco, seis y siete."
+
+REFERENCE           TRAINER_GET_A_PISTOL_FROM_THE
+LANG_ENGLISH        "Coge una pistola de la mesa."
+
+REFERENCE           TRAINER_GO_OUTSIDE_AND_REPORT
+LANG_ENGLISH        "Sal fuera y preséntate ante el sargento Newcastle."
+
+REFERENCE           TRAINER_HINT_ADS
+LANG_ENGLISH        "Mantén pulsado ^3[{+speed}]^7 para apuntar con la mira de tu arma."
+
+REFERENCE           TRAINER_HINT_ADS_360
+LANG_ENGLISH        "Mantén pulsado ^3[{+speed}]^7 para apuntar con la mira de tu arma."
+
+REFERENCE           TRAINER_HINT_ADS_ACCURACY
+LANG_ENGLISH        "Disparar desde la cadera no es\ntan preciso como apuntar con la mira."
+
+REFERENCE           TRAINER_HINT_ADS_SWITCH
+LANG_ENGLISH        "Suelta y pulsa ^3[{+speed}]^7 para pasar\nautomáticamente a un objetivo cercano."
+
+REFERENCE           TRAINER_HINT_ADS_SWITCH_SHOULDER
+LANG_ENGLISH        "Suelta y luego mantén pulsado ^3[{+speed}]^7 para pasar\nrápidamente a un objetivo cercano."
+
+REFERENCE           TRAINER_HINT_ADS_SWITCH_THROW
+LANG_ENGLISH        "Suelta y pulsa ^3[{+speed_throw}]^7 para pasar\nautomáticamente a un objetivo cercano."
+
+REFERENCE           TRAINER_HINT_ADS_SWITCH_THROW_SHOULDER
+LANG_ENGLISH        "Suelta y luego mantén pulsado ^3[{+speed_throw}]^7 para pasar\nrápidamente a un objetivo cercano."
+
+REFERENCE           TRAINER_HINT_ADS_THROW
+LANG_ENGLISH        "Mantén pulsado ^3[{+speed_throw}]^7 para apuntar con la mira de tu arma."
+
+REFERENCE           TRAINER_HINT_ADS_THROW_360
+LANG_ENGLISH        "Mantén pulsado ^3[{+speed_throw}]^7 para apuntar con la mira de tu arma."
+
+REFERENCE           TRAINER_HINT_ADS_TOGGLE
+LANG_ENGLISH        "Pulsa ^3[{toggleads}]^7 para apuntar con la mira."
+
+REFERENCE           TRAINER_HINT_ADS_TOGGLE_THROW
+LANG_ENGLISH        "Pulsa ^3[{+toggleads_throw}]^7 para apuntar con la mira de tu arma."
+
+REFERENCE           TRAINER_HINT_APPROACH_C4_THROW
+LANG_ENGLISH        "Acércate al coche."
+
+REFERENCE           TRAINER_HINT_APPROACH_MELEE
+LANG_ENGLISH        "Acércate a la sandía."
+
+REFERENCE           TRAINER_HINT_ATTACK
+LANG_ENGLISH        "Pulsa ^3[{+attack}]^7 para disparar tu arma."
+
+REFERENCE           TRAINER_HINT_ATTACK_PC
+LANG_ENGLISH        "Pulsa ^3[{+attack}]^7 para disparar tu arma."
+
+REFERENCE           TRAINER_HINT_BREATH_BINOCULARS
+LANG_ENGLISH        "Mantén pulsado ^3[{+breath_binoculars}]^7 para aguantar la respiración."
+
+REFERENCE           TRAINER_HINT_BREATH_MELEE
+LANG_ENGLISH        "Mantén pulsado ^3[{+melee_breath}]^7 para aguantar la respiración."
+
+REFERENCE           TRAINER_HINT_BREATH_SPRINT
+LANG_ENGLISH        "Mantén pulsado ^3[{+breath_sprint}]^7 para aguantar la respiración."
+
+REFERENCE           TRAINER_HINT_C4_ICON
+LANG_ENGLISH        "Ahora tienes el icono del C4 en tu pantalla."
+
+REFERENCE           TRAINER_HINT_CHECK_OBJECTIVES_PAUSED
+LANG_ENGLISH        "Pulsa ^3[{pause}]^7 para comprobar los objetivos."
+
+REFERENCE           TRAINER_HINT_CHECK_OBJECTIVES_SCORES
+LANG_ENGLISH        "Pulsa ^3[{+scores}]^7 para comprobar los objetivos."
+
+REFERENCE           TRAINER_HINT_CHECK_OBJECTIVES_SCORES_PS3
+LANG_ENGLISH        "Pulsa el botón START para comprobar los objetivos."
+
+REFERENCE           TRAINER_HINT_CROSSHAIR_CHANGES
+LANG_ENGLISH        "El punto de mira se agranda mientras disparas.\nSi se hace grande, tu precisión se resentirá."
+
+REFERENCE           TRAINER_HINT_CROUCH
+LANG_ENGLISH        "Pulsa ^3[{gocrouch}]^7 para agacharte y disparar con más precisión."
+
+REFERENCE           TRAINER_HINT_CROUCH_HOLD
+LANG_ENGLISH        "Mantén pulsado ^3[{+movedown}]^7 para agacharte y disparar con más precisión."
+
+REFERENCE           TRAINER_HINT_CROUCH_STANCE
+LANG_ENGLISH        "Pulsa ^3[{+stance}]^7 para agacharte y disparar con más precisión."
+
+REFERENCE           TRAINER_HINT_CROUCH_TOGGLE
+LANG_ENGLISH        "Pulsa ^3[{togglecrouch}]^7 para agacharte y disparar con más precisión."
+
+REFERENCE           TRAINER_HINT_EQUIP_C4
+LANG_ENGLISH        "Pulsa ^3[{+actionslot 2}]^7 para equiparte con el C4."
+
+REFERENCE           TRAINER_HINT_EXPLOSIVES
+LANG_ENGLISH        "Acércate a las cargas explosivas y mantén pulsado ^3[{+activate}]^7 para cogerlas."
+
+REFERENCE           TRAINER_HINT_EXPLOSIVES_PLANT
+LANG_ENGLISH        "Acércate a la marca brillante de los explosivos y pulsa ^3[{+activate}]^7 para colocar el C4."
+
+REFERENCE           TRAINER_HINT_EXPLOSIVES_PLANT_RELOAD
+LANG_ENGLISH        "Acércate a la marca brillante de los explosivos y pulsa ^3[{+activate}]^7 para colocar el C4."
+
+REFERENCE           TRAINER_HINT_EXPLOSIVES_RELOAD
+LANG_ENGLISH        "Acércate a las cargas explosivas y mantén pulsado ^3[{+activate}]^7 para cogerlas."
+
+REFERENCE           TRAINER_HINT_FIREMODE
+LANG_ENGLISH        "Pulsa ^3[{+actionslot 3}]^7 para cambiar al lanzagranadas acoplado."
+
+REFERENCE           TRAINER_HINT_FLASH
+LANG_ENGLISH        "Pulsa ^3[{+smoke}]^7 para lanzar una granada cegadora."
+
+REFERENCE           TRAINER_HINT_FRAG
+LANG_ENGLISH        "Pulsa ^3[{+frag}]^7 para lanzar una granada\nhacia los objetivos."
+
+REFERENCE           TRAINER_HINT_GL_TOO_LOW
+LANG_ENGLISH        "Tienes que apuntar el lanzagranadas por encima del objetivo."
+
+REFERENCE           TRAINER_HINT_GRENADE_TOO_LOW
+LANG_ENGLISH        "Tienes que apuntar las granadas por encima del objetivo."
+
+REFERENCE           TRAINER_HINT_HIP_ATTACK
+LANG_ENGLISH        "Pulsa ^3[{+attack}]^7 para disparar desde la cadera."
+
+REFERENCE           TRAINER_HINT_HIP_ATTACK_PC
+LANG_ENGLISH        "Pulsa ^3[{+attack}]^7 para disparar desde la cadera."
+
+REFERENCE           TRAINER_HINT_HOLDING_SPRINT
+LANG_ENGLISH        "No tienes que mantener pulsado ^3[{+sprint}]^7 para seguir esprintando."
+
+REFERENCE           TRAINER_HINT_HOLDING_SPRINT_BREATH
+LANG_ENGLISH        "No tienes que mantener pulsado ^3[{+breath_sprint}]^7 para seguir esprintando."
+
+REFERENCE           TRAINER_HINT_HUD_CHANGES
+LANG_ENGLISH        "Fíjate en que tu pantalla cambia para indicar\ncon qué objeto del inventario te has equipado."
+
+REFERENCE           TRAINER_HINT_JUMP
+LANG_ENGLISH        "Mientras estés en pie, pulsa ^3[{+moveup}]^7 para saltar."
+
+REFERENCE           TRAINER_HINT_JUMP_STAND
+LANG_ENGLISH        "Mientras estés en pie, pulsa ^3[{+gostand}]^7 para saltar."
+
+REFERENCE           TRAINER_HINT_LADDER
+LANG_ENGLISH        "Mira a la parte superior de la escalera y avanza para subir."
+
+REFERENCE           TRAINER_HINT_LAUNCHER_ATTACK
+LANG_ENGLISH        "Pulsa y suelta ^3[{+attack}]^7 para disparar una granada de 40 mm."
+
+REFERENCE           TRAINER_HINT_LAUNCHER_ICON
+LANG_ENGLISH        "Fíjate en que ahora tienes un icono de lanzagranadas en tu pantalla."
+
+REFERENCE           TRAINER_HINT_MANTLE
+LANG_ENGLISH        "Toca el obstáculo y pulsa ^3[{+gostand}]^7 para franquearlo."
+
+REFERENCE           TRAINER_HINT_MELEE
+LANG_ENGLISH        "Pulsa ^3[{+melee}]^7 para atacar cuerpo a cuerpo."
+
+REFERENCE           TRAINER_HINT_MELEE_BREATH
+LANG_ENGLISH        "Pulsa ^3[{+breath_binoculars}]^7 para atacar cuerpo a cuerpo."
+
+REFERENCE           TRAINER_HINT_MELEE_BREATH_CLICK
+LANG_ENGLISH        "Haz clic en ^3[{+breath_binoculars}]^7 para atacar cuerpo a cuerpo."
+
+REFERENCE           TRAINER_HINT_MELEE_CLICK
+LANG_ENGLISH        "Haz clic en ^3[{+melee}]^7 para atacar cuerpo a cuerpo."
+
+REFERENCE           TRAINER_HINT_OBJECTIVE_MARKER
+LANG_ENGLISH        "El indicador del objetivo es el marcador\nblanco del/centro de la pantalla."
+
+REFERENCE           TRAINER_HINT_OBJECTIVE_MARKER_OLD
+LANG_ENGLISH        "El indicador del objetivo está en la parte\ncentral inferior de tu pantalla."
+
+REFERENCE           TRAINER_HINT_OBJECTIVE_REMINDER
+LANG_ENGLISH        "Sigue el marcador blanco para\nencontrar tu objetivo."
+
+REFERENCE           TRAINER_HINT_OBJECTIVE_REMINDER2
+LANG_ENGLISH        "Gira hasta que el círculo amarillo de la brújula esté alineado\ncon las marcas blancas y ve hacia allí\npara localizar tu objetivo actual."
+
+REFERENCE           TRAINER_HINT_OBJECTIVE_REMINDER_OLD
+LANG_ENGLISH        "Cuando el círculo amarillo esté en el centro de\nla brújula, estarás frente a tu objetivo."
+
+REFERENCE           TRAINER_HINT_PRIMARY_SWAP
+LANG_ENGLISH        "Pulsa ^3[{weapnext}]^7 para cambiar al arma principal."
+
+REFERENCE           TRAINER_HINT_PRONE
+LANG_ENGLISH        "Pulsa ^3[{goprone}]^7 para ponerte cuerpo a tierra."
+
+REFERENCE           TRAINER_HINT_PRONE_DOUBLE
+LANG_ENGLISH        "Pulsa dos veces ^3[{lowerstacnce}]^7 para ponerte cuerpo a tierra."
+
+REFERENCE           TRAINER_HINT_PRONE_HOLD
+LANG_ENGLISH        "Mantén pulsado ^3[{+prone}]^7 para ponerte cuerpo a tierra."
+
+REFERENCE           TRAINER_HINT_PRONE_STANCE
+LANG_ENGLISH        "Mantén pulsado ^3[{+stance}]^7 para tumbarte."
+
+REFERENCE           TRAINER_HINT_PRONE_TOGGLE
+LANG_ENGLISH        "Pulsa ^3[{toggleprone}]^7 para ponerte cuerpo a tierra."
+
+REFERENCE           TRAINER_HINT_RELOAD
+LANG_ENGLISH        "Pulsa ^3[{+reload}]^7 para recargar tu arma."
+
+REFERENCE           TRAINER_HINT_RELOAD_USE
+LANG_ENGLISH        "Pulsa ^3[{+activate}]^7 para recargar tu arma."
+
+REFERENCE           TRAINER_HINT_SIDEARM
+LANG_ENGLISH        "Pulsa ^3[{weaponslot primaryb}]^7 para cambiar al arma corta."
+
+REFERENCE           TRAINER_HINT_SIDEARM_RELOAD
+LANG_ENGLISH        "Pulsa ^3[{+reload}]^7 para cargar el arma corta."
+
+REFERENCE           TRAINER_HINT_SIDEARM_RELOAD_USE
+LANG_ENGLISH        "Pulsa ^3[{+activate}]^7 para cargar el arma corta."
+
+REFERENCE           TRAINER_HINT_SIDEARM_SWAP
+LANG_ENGLISH        "Pulsa ^3[{weapnext}]^7 para cambiar al arma corta."
+
+REFERENCE           TRAINER_HINT_SPRINT
+LANG_ENGLISH        "Pulsa ^3[{+sprint}]^7 mientras avanzas para esprintar."
+
+REFERENCE           TRAINER_HINT_SPRINT_BREATH
+LANG_ENGLISH        "Pulsa ^3[{+breath_sprint}]^7 mientras avanzas para esprintar."
+
+REFERENCE           TRAINER_HINT_SPRINT_BREATH_PC
+LANG_ENGLISH        "Pulsa ^3[{+breath_sprint}]^7 mientras avanzas para esprintar."
+
+REFERENCE           TRAINER_HINT_SPRINT_PC
+LANG_ENGLISH        "Pulsa ^3[{+sprint}]^7 mientras avanzas para esprintar."
+
+REFERENCE           TRAINER_HINT_STAND
+LANG_ENGLISH        "Pulsa ^3[{+gostand}]^7 para levantarte."
+
+REFERENCE           TRAINER_HINT_STAND_STANCE
+LANG_ENGLISH        "Pulsa ^3[{+stance}]^7 para levantarte."
+
+REFERENCE           TRAINER_HINT_STAND_UP
+LANG_ENGLISH        "Pulsa ^3[{+moveup}]^7 para levantarte."
+
+REFERENCE           TRAINER_HINT_STOP_ADS
+LANG_ENGLISH        "Alcanza los blancos mientras disparas desde la cadera.\nSuelta ^3[{+speed}]^7 para dejar de apuntar con la mira."
+
+REFERENCE           TRAINER_HINT_STOP_ADS_THROW
+LANG_ENGLISH        "Alcanza los blancos mientras disparas desde la cadera.\nSuelta ^3[{+speed_throw}]^7 para dejar de apuntar con la mira."
+
+REFERENCE           TRAINER_HINT_STOP_ADS_TOGGLE
+LANG_ENGLISH        "Alcanza los blancos mientras disparas desde la cadera.\nPulsa ^3[{toggleads}]^7 para dejar de apuntar con la mira."
+
+REFERENCE           TRAINER_HINT_STOP_ADS_TOGGLE_THROW
+LANG_ENGLISH        "Alcanza los blancos mientras disparas desde la cadera.\nPulsa ^3[{toggleads_throw}]^7 para dejar de apuntar con la mira."
+
+REFERENCE           TRAINER_HINT_SWAP
+LANG_ENGLISH        "Acércate al fusil con el lanzagranadas y mantén pulsado ^3[{+activate}]^7."
+
+REFERENCE           TRAINER_HINT_SWAP_RELOAD
+LANG_ENGLISH        "Acércate al fusil con el lanzagranadas y mantén pulsado ^3[{+activate}]^7."
+
+REFERENCE           TRAINER_HINT_THROW_C4
+LANG_ENGLISH        "Pulsa ^3[{+throw}]^7 para lanzar el C4."
+
+REFERENCE           TRAINER_HINT_THROW_C4_SPEED
+LANG_ENGLISH        "Pulsa ^3[{+speed_throw}]^7 para lanzar el C4."
+
+REFERENCE           TRAINER_HINT_THROW_C4_TOGGLE
+LANG_ENGLISH        "Pulsa ^3[{+toggleads_throw}]^7 para lanzar el C4."
+
+REFERENCE           TRAINER_HINT_TURN_AROUND
+LANG_ENGLISH        "Vuélvete hacia los objetivos del campo de tiro."
+
+REFERENCE           TRAINER_HIT_FRIENDLY
+LANG_ENGLISH        "Has alcanzado a un objetivo amigo."
+
+REFERENCE           TRAINER_INTROSCREEN_LINE_1
+LANG_ENGLISH        "\"Otro día, la misma mierda\""
+
+REFERENCE           TRAINER_INTROSCREEN_LINE_2
+LANG_ENGLISH        "Día 1 - 15:30:[{FAKE_INTRO_SECONDS:25}]"
+
+REFERENCE           TRAINER_INTROSCREEN_LINE_3
+LANG_ENGLISH        "Sol. 1ª Joseph Allen"
+
+REFERENCE           TRAINER_INTROSCREEN_LINE_4
+LANG_ENGLISH        "1er Bn, 75º regimiento de Rangers"
+
+REFERENCE           TRAINER_INTROSCREEN_LINE_5
+LANG_ENGLISH        "Base de artillería Phoenix, Afganistán"
+
+REFERENCE           TRAINER_IW_BEST_TIME
+LANG_ENGLISH        "Mejor tiempo de IW:     "
+
+REFERENCE           TRAINER_IW_DECK_TIME
+LANG_ENGLISH        "Tiempo de cubierta de IW: "
+
+REFERENCE           TRAINER_KILLED_CIVVIES_NONE
+LANG_ENGLISH        "Civiles muertos: N/D"
+
+REFERENCE           TRAINER_KILLED_CIVVIES_PENALTY
+LANG_ENGLISH        "Civiles muertos: +&&1 seg"
+
+REFERENCE           TRAINER_LOOK_DOWN
+LANG_ENGLISH        "Baja la vista."
+
+REFERENCE           TRAINER_LOOK_UP
+LANG_ENGLISH        "Alza la vista."
+
+REFERENCE           TRAINER_MARINE3_USE_SIDEARM
+LANG_ENGLISH        "¡Carver! ¡Use su arma corta!"
+
+REFERENCE           TRAINER_MELEE_THE_WATERMELON
+LANG_ENGLISH        "Apuñala la sandía con tu cuchillo."
+
+REFERENCE           TRAINER_MISSED_ENEMY_PENALTY
+LANG_ENGLISH        "Enemigos fallados: +&&1 seg"
+
+REFERENCE           TRAINER_MISSED_ENEMY_PENALTY_NONE
+LANG_ENGLISH        "Enemigos fallados: N/D"
+
+REFERENCE           TRAINER_MISSION_FAIL_FIRE_IN_CAMP
+LANG_ENGLISH        "No se tolera el uso de armas en zonas no autorizadas."
+
+REFERENCE           TRAINER_OBJ_COURSE
+LANG_ENGLISH        "Alcanza todos los objetivos que puedas en el mínimo tiempo posible."
+
+REFERENCE           TRAINER_OBJ_EXIT_THE_PIT
+LANG_ENGLISH        "Reagrúpate con tu equipo en el piso de arriba."
+
+REFERENCE           TRAINER_OBJ_GO_TO_THE_PIT
+LANG_ENGLISH        "Usa el indicador del objetivo para localizar el foso."
+
+REFERENCE           TRAINER_PICK_UP_A_RIFLE_FROM
+LANG_ENGLISH        "Recoge el arma de la mesa."
+
+REFERENCE           TRAINER_PICK_UP_THE_C4_EXPLOSIVE
+LANG_ENGLISH        "Recoge el explosivo C4."
+
+REFERENCE           TRAINER_PICK_UP_THE_FRAG_GRENADES
+LANG_ENGLISH        "Recoge las granadas de fragmentación."
+
+REFERENCE           TRAINER_PICK_UP_THE_RIFLE_WITH
+LANG_ENGLISH        "Recoge el fusil con el accesorio de lanzagranadas."
+
+REFERENCE           TRAINER_PIT_TRY_AGAIN
+LANG_ENGLISH        "Buena suerte."
+
+REFERENCE           TRAINER_PLANT_THE_C4_EXPLOSIVE
+LANG_ENGLISH        "Coloca el explosivo C4 en el punto brillante."
+
+REFERENCE           TRAINER_RECOMMENDED_EASY
+LANG_ENGLISH        "Recluta"
+
+REFERENCE           TRAINER_RECOMMENDED_HARD
+LANG_ENGLISH        "Curtido"
+
+REFERENCE           TRAINER_RECOMMENDED_LABEL
+LANG_ENGLISH        "Dificultad"
+
+REFERENCE           TRAINER_RECOMMENDED_LABEL2
+LANG_ENGLISH        "recomendada:"
+
+REFERENCE           TRAINER_RECOMMENDED_NORMAL
+LANG_ENGLISH        "Normal"
+
+REFERENCE           TRAINER_RECOMMENDED_TRY_AGAIN
+LANG_ENGLISH        "Reintentar"
+
+REFERENCE           TRAINER_RECOMMENDED_VETERAN
+LANG_ENGLISH        "Veterano"
+
+REFERENCE           TRAINER_REPORT_TO_CAPTAIN_PRICE
+LANG_ENGLISH        "Usa el indicador del objetivo para encontrar al capitán Price."
+
+REFERENCE           TRAINER_RETURN_TO_THE_SAFETY
+LANG_ENGLISH        "Vuelve al foso de seguridad y equipa el lanzagranadas."
+
+REFERENCE           TRAINER_RUN_THE_OBSTACLE_COURSE
+LANG_ENGLISH        "Corre por el circuito de obstáculos."
+
+REFERENCE           TRAINER_SHIP_DIDNT_SPRINT
+LANG_ENGLISH        "No has esprintado."
+
+REFERENCE           TRAINER_SHIP_JUMPED_OFF
+LANG_ENGLISH        "No has alcanzado la cuerda."
+
+REFERENCE           TRAINER_SHIP_JUMPED_TOO_EARLY
+LANG_ENGLISH        "Has saltado muy pronto."
+
+REFERENCE           TRAINER_SHIP_LABEL
+LANG_ENGLISH        "Puente del carguero"
+
+REFERENCE           TRAINER_SHIP_OUT_OF_FLASH
+LANG_ENGLISH        "No tienes suficientes granadas cegadoras para acabar."
+
+REFERENCE           TRAINER_SHIP_TOO_SLOW
+LANG_ENGLISH        "Has sido muy lento."
+
+REFERENCE           TRAINER_SHIP_TRY_AGAIN
+LANG_ENGLISH        "Buena suerte."
+
+REFERENCE           TRAINER_SHOOT_A_TARGET_THROUGH
+LANG_ENGLISH        "Dispara a un blanco a través de la madera."
+
+REFERENCE           TRAINER_SHOOT_EACH_TARGET_AS
+LANG_ENGLISH        "Dispara a cada blanco lo más rápido posible."
+
+REFERENCE           TRAINER_SHOOT_EACH_TARGET_WHILE
+LANG_ENGLISH        "Alcanza a tres objetivos apuntando con la mira."
+
+REFERENCE           TRAINER_SHOOT_EACH_TARGET_WHILE1
+LANG_ENGLISH        "Alcanza objetivos disparando desde la cadera."
+
+REFERENCE           TRAINER_SHOOT_THE_TARGET_THROUGH
+LANG_ENGLISH        "Alcanza al objetivo a través de la madera."
+
+REFERENCE           TRAINER_SLIDE_DOWN_THE_ROPE
+LANG_ENGLISH        "Deslízate por la cuerda.\n"
+
+REFERENCE           TRAINER_SWITCH_TO_YOUR_RIFLE
+LANG_ENGLISH        "Cambia a tu fusil y después de nuevo a tu pistola."
+
+REFERENCE           TRAINER_THROW_A_GRENADE_INTO
+LANG_ENGLISH        "Lanza una granada hacia los objetivos."
+
+REFERENCE           TRAINER_TRY_SPRINT_AGAIN
+LANG_ENGLISH        "Vuelve al círculo rojo\ny corre hasta la salida."
+
+REFERENCE           TRAINER_USE_ROPE
+LANG_ENGLISH        "Mantén pulsado ^3&&1^7 para bajar por la cuerda."
+
+REFERENCE           TRAINER_USE_YOUR_OBJECTIVE_INDICATOR
+LANG_ENGLISH        "Usa tu indicador de objetivo para encontrar el campo de tiro."
+
+REFERENCE           TRAINER_YOUR_DECK_TIME
+LANG_ENGLISH        "Tu tiempo en la cubierta: "
+
+REFERENCE           TRAINER_YOUR_FINAL_TIME
+LANG_ENGLISH        "Tu tiempo final: &&1 seg"
+
+REFERENCE           TRAINER_YOUR_TIME
+LANG_ENGLISH        "Tu tiempo: "
+
+REFERENCE           TRAINER_YOUR_TIME_IN_SECONDS
+LANG_ENGLISH        "Tu tiempo: &&1 seg"
+
+ENDMARKER
