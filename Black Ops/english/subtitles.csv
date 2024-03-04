@@ -1,0 +1,156 @@
+creek_1_load,3.4,13.4,"^1INTERROGATOR: ^7Hudson's mission in Kowloon was accomplished. He had discovered Dragovich's end game. Nova 6. A nerve toxin so deadly, that if exposed you'd be dead before you hit the floor."
+creek_1_load,13.4,15.4,^1MASON: ^7Dragovich's weapon.
+creek_1_load,16.5,22.5,"^1INTERROGATOR: ^7Go back to Vietnam, Mason. Was Viktor Reznov still with you after you escaped from the MACV compound?"
+creek_1_load,22.5,25.5,^1MASON: ^7Ahh... Reznov was with me the whole time.
+creek_1_load,25.5,26.8,^1INTERROGATOR: ^7Are you sure?
+creek_1_load,26.8,36.7,"^1MASON: ^7North, we went North. The Viet Cong. We were shot down. And Reznov even survived that!"
+creek_1_load,37,42,^1MASON: ^7Dragovich's lapdog Kravchenko was there. He knew we were comin'.
+cuba_load,4.1,5.7,^1MASON: ^7No --
+cuba_load,5.8,9,"^1INTERROGATOR: ^7Do not $&#* with me, Mason. I know when you're lying."
+cuba_load,9.1,12.5,^1INTERROGATOR: ^7'61. Bay of Pigs. What happened?
+cuba_load,12.6,16.1,^1MASON: ^7[laughs] We all got killed.
+cuba_load,16.1,20.5,"^1INTERROGATOR: ^7There's no use lying, Mason. We know you went in with Woods and Bowman."
+cuba_load,21.8,25.1,^1MASON: ^7Woods... And Bowman.
+cuba_load,34.2,36.8,^1INTERROGATOR: ^7Dragovich. Do you remember Dragovich?
+cuba_load,36.8,41.6,^1MASON: ^7Castro... We went in to kill Castro.
+flashpoint_load,1.5,10.1,"^1INTERROGATOR: ^7Executive order, Operation Flashpoint... Rip out the heart of their Space Program. Eradicate their long range missile project."
+flashpoint_load,12.5,17.9,"^1INTERROGATOR: ^7Take out the Ascension Group. Nazis, scientists, co-opted by the Russians after the war."
+flashpoint_load,17.9,22.1,^1MASON: ^7Yes... He needed their knowledge. What they'd learned...
+flashpoint_load,22.1,26.3,^1INTERROGATOR: ^7Operation 40 had planted a double agent working with the Ascension Group.
+flashpoint_load,26.3,30.4,^1MASON: ^7Grigori Weaver. His mission was to sabotage the rocket.
+flashpoint_load,30.4,32.4,^1INTERROGATOR: ^7But something went wrong Mason.
+flashpoint_load,32.4,35.3,^1MASON: ^7I can't get these $&#**^% numbers out of my head!
+fullahead_load,1.5,5.5,^1MASON: ^7Vorkuta. Reznov told me at Vorkuta.
+fullahead_load,5.5,6.8,^1INTERROGATOR: ^7What did he tell you?
+fullahead_load,6.8,10.3,^1REZNOV: ^7Mason... listen to me...
+fullahead_load,10.3,14,^1MASON: ^7It was a long time ago... Far away...
+fullahead_load,14,20.3,^1REZNOV: ^7Dragovich. Steiner. Kravchenko. All must die.
+fullahead_load,20.3,22.9,^1MASON: ^7...But he told me what they did.
+fullahead_load,22.9,25.3,^1MASON: ^7What kind of men they were...
+fullahead_load,25.4,28.1,^1MASON: ^7Why they all must die.
+hue_city_load,5.7,9.9,^1INTERROGATOR: ^7The TET Offensive was the beginning of the end. When America really started losing the war.
+hue_city_load,10,14.5,"^1INTERROGATOR: ^7Inside the MACV compound in Hue City, you established contact with the Russian defector."
+hue_city_load,15.2,16,^1MASON: ^7NO!
+hue_city_load,16.1,23.5,"^1INTERROGATOR: ^7We know you did. He turned himself in at MACV. You were there, Mason. He had intel on Dragovich. Everything. But it was a lost cause."
+hue_city_load,23.7,24.4,^1MASON: ^7Shut the $&#* up!
+hue_city_load,24.5,31,^1INTERROGATOR: ^7The NVA had surrounded the city.  MACV had all but burned to the ground. The defector was surely dead.
+hue_city_load,31.2,32,^1MASON: ^7He wasn't dead!
+hue_city_load,33,36,^1INTERROGATOR: ^7It was a lost cause and you still went in - why?
+hue_city_load,36,41.8,^1MASON: ^7His protection team had gone dark. I couldn't accept that he was dead. I needed that $&#**^% dossier!
+int_escape_load,.1,2.9,"^1REZNOV: ^7Mason, my friend... Tell me..."
+int_escape_load,2.9,8.2,"^1REZNOV: ^7What is left to believe in, when you are betrayed by your own?"
+int_escape_load,8.3,16,"^1REZNOV: ^7When all that you are, all that you have done, is buried beneath the lies and the deceit of corrupt men."
+int_escape_load,16.7,25,^1REZNOV: ^7I will die in this wretched place... The only thing that keeps me alive is the thirst for Vengeance.
+int_escape_load,25.2,26.9,"^1REZNOV: ^7They must be stopped, Mason."
+int_escape_load,27,33.3,^1REZNOV: ^7Dragovich... Steiner... Kravchenko... All MUST die...
+khe_sanh_load,1.9,7.2,"^1INTERROGATOR: ^7Take us back again, Mason. After Baikonur, where did Washington send you next?"
+khe_sanh_load,13,16.3,^1MASON: ^7Vietnam. $&#**^% Khe Sanh.
+khe_sanh_load,16.5,18.2,^1INTERROGATOR: ^7This was in 1968?
+khe_sanh_load,18.5,25.1,^1MASON: ^7Yeah. I was part of the SOG unit led by Frank Woods. It was recon on covert Russian activity in Laos.
+khe_sanh_load,26,31.7,"^1INTERROGATOR: ^7What about your CIA handler, Hudson. Was he in Khe Sanh? Do you remember him there?"
+khe_sanh_load,31.8,38.9,^1MASON: ^7Hudson... [laughs] Yeah. Mr. Shades. That guy was an ice cube.
+kowloon_load,.1,3.2,^1INTERROGATOR: ^7We have the dossier that the defector gave you at MACV.
+kowloon_load,3.2,7.7,"^1INTERROGATOR: ^7We've ID'd all of Dragovich's men. Kravchenko, Steiner, Clarke."
+kowloon_load,7.8,10.6,^1INTERROGATOR: ^7You know them. Masterminds of Project Nova.
+kowloon_load,10.7,14.4,^1MASON: ^7Nova 6. Reznov called it Nova 6.
+kowloon_load,14.5,16.4,^1MASON: ^7Dragovich...
+kowloon_load,16.7,18.3,^1INTERROGATOR: ^7What do you know about Doctor Clarke?
+kowloon_load,18.3,25.4,^1INTERROGATOR: ^7We know that Clarke was the chemical engineer who helped formulated Nova 6. Malignant narcissist. Degenerate prodigy.
+kowloon_load,25.4,30.1,^1INTERROGATOR: ^7Your handler Jason Hudson was sent to Kowloon to interrogate Clarke. Do you remember?
+kowloon_load,30.3,33.5,^1MASON: ^7Why keep asking? You already know everything.
+kowloon_load,33.5,38.9,^1INTERROGATOR: ^7No Mason. We don't know what the numbers mean. We don't know where they're broadcast from.
+kowloon_load,38.9,44,^1MASON: ^7Why don't you ask Hudson? Kowloon was his mission. He interrogated Clarke.
+pentagon_load,.1,9,"^1INTERROGATOR: ^7After your escape, you were assigned to Jason Hudson at the CIA. How could he trust you when he knew that Viktor Reznov helped you break out of Vorkuta?"
+pentagon_load,9,17,^1MASON: ^7Reznov...was my friend...but he didn't make it out.
+pentagon_load,17,21.5,^1INTERROGATOR: ^7Viktor Reznov was a communist. How did the CIA know you weren't compromised?
+pentagon_load,22,27.5,^1MASON: ^7They tested me. They knew I wouldn't break and I won't break now.
+pentagon_load,27.5,30.5,^1INTERROGATOR: ^7The government wanted Dragovich. They wanted you to kill him.
+pentagon_load,31,36,"^1MASON: ^7Yeah, and there were others. Others I was supposed to kill."
+pentagon_load,36,38,"^1INTERROGATOR: ^7Who? Who, Mason?"
+pow_load,.1,6,^1INTERROGATOR: ^7Dragovich has fully weaponized and deployed Nova 6. He has sleeper cell agents all over the US just waiting for the signal...
+pow_load,6.1,7.1,^1MASON: ^7[interrupts] We've been invaded.
+pow_load,7.1,11.8,^1INTERROGATOR: ^7The US was invaded decades ago Mason. The communists have been waiting. Now they're ready to strike.
+pow_load,11.9,13.4,^1MASON: ^7What the $&#* am I supposed to do?
+pow_load,13.5,14.9,^1INTERROGATOR: ^7You know about the sleeper cells...
+pow_load,15,16.2,^1MASON: ^7I'm trying to help you.
+pow_load,16.3,23.5,"^1INTERROGATOR: ^7Dragovich uses number sequences to communicate with the sleeper cells. Those numbers are broadcast from one location, Mason."
+pow_load,23.8,25,^1MASON: ^7Why the Hell do you think I know where it is?
+pow_load,25.6,32,"^1INTERROGATOR: ^7You were in Vorkuta, Mason. We know what happens at Vorkuta. They programmed you. You can translate the codes."
+pow_load,32,33.5,^1MASON: ^7But Reznov was never...
+pow_load,34,40.5,^1INTERROGATOR: ^7STOP! Mason. We are on the brink of war. Where is the broadcast station? Where is the broadcast station?
+pow_load,41,43,^1MASON: ^7Dragovich had us like rats in cages...
+pow_load,44,45.5,^1INTERROGATOR: ^7Mason! We're losing him.
+pow_load,46,48.5,^1MASON: ^7We are all brothers...we are all prisoners...Laos...
+pow_load,49.5,52,^1INTERROGATOR: ^7He's gone.
+rebirth_load,1.5,17.7,^1INTERROGATOR: ^7Dragovich's sleeper cells are on US soil. Nova 6 is weaponized. They will use it. Moscow has gone dark. We are out of options. A pre-emptive strike on Russia is prepared. The President WILL authorize.
+rebirth_load,19.2,25.5,^1INTERROGATOR: ^7Mason! For the last time! Where is the numbers station?!
+rebirth_load,25.5,30.6,^1MASON: ^7How many times!... Steiner was at Rebirth Island. We had to kill Steiner.
+rebirth_load,30.7,33.8,^1INTERROGATOR: ^7We? Viktor Reznov?
+rebirth_load,33.9,37.4,^1MASON: ^7We wanted the same thing. The same.
+rebirth_load,38.7,45.1,"^1INTERROGATOR: ^7We're losing him again. Aw, God... He's back at Rebirth."
+river_load,.5,6,"^1INTERROGATOR: ^7You were in the Mekong, heading North to Kravchenko's compound. You were heading for Laos."
+river_load,7,18.3,^1MASON: ^7Laos... Kravchenko... The $&#**^% psycho was spraying nerve gas all over Vietnam. I had to kill him! Do you understand? I have to kill 'em all.
+river_load,18.4,25.9,^1INTERROGATOR: ^7Laos! Mason! You were heading up the Mekong River into Laos. You received word from Jason Hudson. What did he tell you?
+river_load,26,27.9,"^1MASON: ^7My handler, Hudson."
+river_load,28.2,36.3,^1MASON: ^7The CIA downed a Soviet cargo plane carrying Nova 6. It... It went down in Laos. Our SOG team went in.
+river_load,36.4,37,^1INTERROGATOR: ^7What happened?
+river_load,37.1,39,^1MASON: ^7I...keep...hearing...the $&#**^%...numbers...
+river_load,39.1,42.9,"^1INTERROGATOR: ^7It's a broadcast, Mason. The broadcast."
+so_narrative5_frontend_load,6,9,^1INTERROGATOR: ^7You killed Kravchenko. You obliterated their base. Mason?
+so_narrative5_frontend_load,10,17,"^1INTERROGATOR: ^7Woods and Bowman were both killed. Your entire SOG team, wiped out. Only you survived, Mason. You. No one else."
+so_narrative5_frontend_load,18,19,"^1MASON: ^7No, Reznov surivived."
+so_narrative5_frontend_load,19,20,^1INTERROGATOR: ^7Just you Mason.
+so_narrative5_frontend_load,20,24,"^1MASON: ^7No, no... Reznov is still with me...since Vorkuta."
+underwaterbase_load,4,10.5,^1KENNEDY: ^7We are in grave danger from the communists. Our freedom... Our very way of life is at risk.
+underwaterbase_load,10.7,15.5,^1DRAGOVICH: ^7Our plan to strike at the very heart of the West is now in motion.
+underwaterbase_load,15.5,18,"^1REZNOV: ^7He must be stopped, Mason."
+underwaterbase_load,18.6,23.2,^1MCNAMARA: ^7He has no fear. No conscience. No weakness.
+underwaterbase_load,23.4,31.8,"^1STEINER: ^7All across America, Dragovich has sleeper cells waiting for the signal to release the Nova 6."
+underwaterbase_load,32.9,37.5,^1KENNEDY: ^7I'm told that you are the very best that we have. Anywhere.
+underwaterbase_load,39.1,43.2,^1REZNOV: ^7Dragovich... Kravchenko... Steiner...
+underwaterbase_load,43.3,44.4,^1KENNEDY: ^7You will need to be.
+underwaterbase_load,44.5,47.8,^1REZNOV: ^7These 'men' must die...
+underwaterbase_load,48,49.2,^1KENNEDY: ^7Mr. Mason...
+vorkuta_load,3.8,8.3,^1INTERROGATOR: ^7Why didn't Castro just kill you? Why did he give you to Dragovich?
+vorkuta_load,8.4,11,"^1MASON: ^7Cause, Castro and Dragovich were working together."
+vorkuta_load,11.1,12.5,^1INTERROGATOR: ^7Eh... You were a gift.
+vorkuta_load,12.8,14.6,^1MASON: ^7Eh... Right...
+vorkuta_load,14.7,16.4,^1INTERROGATOR: ^7Where did Dragovich take you?
+vorkuta_load,17,23,^1MASON: ^7Vorkuta...had to fight...just to survive.
+vorkuta_load,23.1,24.8,"^1INTERROGATOR: ^7What happened in Vorkuta, Mason?"
+vorkuta_load,25.6,29.8,^1MASON: ^7I was on my own -- almost a year.
+vorkuta_load,29.9,32.6,"^1INTERROGATOR: ^7Think, Mason...what did they do to you?"
+vorkuta_load,32.7,39.5,^1MASON: ^7I'd given up hope of ever getting out...but Viktor Reznov found a way.
+wmd_load,3,5.8,^1INTERROGATOR: ^7Jason Hudson led the attack on Yamantau.
+wmd_load,7,13,^1MASON: ^7Yeah. 20 degrees below zero. $&#**^% ice cube was in his element.
+wmd_sr71_load,1,10,"^1INTERROGATOR: ^7You were captured by Dragovich a second time. Your unit was MIA in Laos, presumed dead. Your handler, Hudson, had no choice but to continue the hunt for Nova 6 without you --"
+wmd_sr71_load,11.7,15,^1MASON: ^7He went to Mt. Yamantau -- $&#**^% Soviet doomsday bunker --
+wmd_sr71_load,15.1,19.9,^1INTERROGATOR: ^7That's right. A fully operational military complex buried deep in the Ural Mountains.
+wmd_sr71_load,20,26.5,^1MASON: ^7That's where Hudson was contacted by Friedrich Steiner -- the Nazi scientist that developed the initial strain of Nova 6 for Dragovich --
+wmd_sr71_load,27,32,"^1INTERROGATOR: ^7Hudson learned about the numbers there. The broadcasts -- I've been there, Mason. I've been to the Yamantau complex."
+wmd_sr71_load,33.3,35.8,^1MASON: ^7My God... The numbers are REAL...
+wmd_sr71_load,35.9,43.5,"^1INTERROGATOR: ^7They've always been real, Mason. This isn't a game. We face annihilation unless you cooperate. Where is the broadcast station?!"
+zombie_pentagon_load,0.4,14.6,^1KENNEDY: ^7For time and the world do not stand still. Change is the law of life. And those who look only to the past or the present are certain to miss the future.
+zombie_pentagon_load,15,17.8,"^1KENNEDY: ^7I said, 'are certain to miss the future'!"
+zombie_pentagon_load,17.9,20,^1CASTRO: ^7[laughs] Coño... I missed that.
+zombie_pentagon_load,20.8,27.8,"^1MCNAMARA: ^7Prime Minister Castro, this missile crisis was the last straw. We almost blew ourselves up. Now we invited you here today..."
+zombie_pentagon_load,28,28.5,^1KENNEDY: ^7In good faith!
+zombie_pentagon_load,29,30.8,"^1MCNAMARA: ^7...in good faith, to sort this thing out."
+zombie_pentagon_load,31,35.2,^1CASTRO: ^7And why is he here? He lost!
+zombie_pentagon_load,35.3,40.2,"^1KENNEDY: ^7As I always say, forgive your enemies, but remember their names. "
+zombie_pentagon_load,40.3,47,"^1KENNEDY: ^7Now gentlemen, as I like to think, in the long history of the world, that there are only a few generations..."
+zombie_pentagon_load,47,48.8,^1NIXON: ^7Sounds like someone breaking in...
+zombie_pentagon_load,49,51.3,"^1KENNEDY: ^7Just the storm, Dick. Sit down."
+zombie_pentagon_load,55,57,^1NIXON: ^7Oh my God!
+zombie_pentagon_load,57,60,^1MCNAMARA: ^7It appears the Pentagon has been breached.
+zombie_pentagon_load,60,68,"^1KENNEDY: ^7Zombies. Gentlemen, at times like these our capacity to retaliate must be and has to be massive, to deter all forms of aggression."
+zombie_pentagon_load,71.2,73.5,"^1KENNEDY: ^7Gentlemen, lock and load!"
+zombie_pentagon_load,75,76.5,^1CASTRO: ^7Viva la Revolucion.
+zombie_pentagon_load,76.7,79,"^1MCNAMARA: ^7Any last words, Mr. President?"
+zombie_pentagon_load,79.2,83.7,"^1NIXON: ^7Yes Jack, any superlative words of inspiration for your humble troops?"
+zombie_pentagon_load,84.7,90,"^1KENNEDY: ^7Do not pray for easy lives, my friends. Pray to be stronger men."
+zombie_theater_load,.1,4,^1RICHTOFAN: ^7[static] Entry 741021!
+zombie_theater_load,4,13.5,"^1RICHTOFAN: ^7Perhaps the station will hold the key to the real goals of group 935. I still do not trust my unconventional allies, but they are of great use to me. But, I digress. "
+zombie_theater_load,14,21.5,^1RICHTOFAN: ^7Who would have thought the MDT was capable of time travel.
+How many stations does this group have? Where did that little girl disappear to? 
+zombie_theater_load,22,29.5,^1RICHTOFAN: ^7Only time will tell what new questions await us in this... THEATER OF THE DAMNED! [static]
