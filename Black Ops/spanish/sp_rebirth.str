@@ -1,0 +1,658 @@
+// Dumped from fastfile "sp_rebirth".
+// In their original format the strings might have been separated in multiple files.
+VERSION             "1"
+CONFIG              "C:/projects/cod/t5/bin/StringEd.cfg"
+FILENOTES           ""
+
+REFERENCE           REBIRTH_BASH_WINDOW
+LANG_ENGLISH        "Pulsa ^3[{+speed_throw}]^7 y ^3[{+attack}]^7 para romper la ventana."
+
+REFERENCE           REBIRTH_BTR_20_AGENTS
+LANG_ENGLISH        "Agentes Hudson y Weaver"
+
+REFERENCE           REBIRTH_BTR_20_BODY
+LANG_ENGLISH        "Al sur de la isla"
+
+REFERENCE           REBIRTH_BTR_20_TITLE
+LANG_ENGLISH        "20 MINUTOS ANTES"
+
+REFERENCE           REBIRTH_BTR_HINT_ADS
+LANG_ENGLISH        "Mantén ^3[{+speed_throw}]^7 para hacer zoom."
+
+REFERENCE           REBIRTH_BTR_HINT_GRENADE
+LANG_ENGLISH        "Mantén ^3[{+smoke}]^7 o ^3[{+frag}]^7 para disparar el lanzagranadas."
+
+REFERENCE           REBIRTH_BTR_HINT_GUN
+LANG_ENGLISH        "Mantén ^3[{+attack}]^7 para disparar la ametralladora."
+
+REFERENCE           REBIRTH_CLIMB_STEALTH_KILL
+LANG_ENGLISH        "Pulsa ^3[{+melee}]^7 para cuerpo a cuerpo."
+
+REFERENCE           REBIRTH_FOLLOW
+LANG_ENGLISH        "Sigue"
+
+REFERENCE           REBIRTH_HATCHET_THROW
+LANG_ENGLISH        "Pulsa ^3[{+frag}]^7 para lanzar un tomahawk."
+
+REFERENCE           REBIRTH_HAZMAT_PUNCTURED
+LANG_ENGLISH        "Tu traje NRBQ ha sido perforado.\n¡Has sido expuesto al Nova 6!"
+
+REFERENCE           REBIRTH_HUDSON_INTROSCREEN_1
+LANG_ENGLISH        "^LTransmisión núm. 8-5-19-1-25-19. Designación: ALFA^L"
+
+REFERENCE           REBIRTH_HUDSON_INTROSCREEN_2
+LANG_ENGLISH        "^LCreemos que Mason se dirige al centro de armas biológicas ruso^L"
+
+REFERENCE           REBIRTH_HUDSON_INTROSCREEN_3
+LANG_ENGLISH        "^Lde Vozrozhdeniya ^L^C1Isla Renacimiento, URSS^C"
+
+REFERENCE           REBIRTH_HUDSON_INTROSCREEN_4
+LANG_ENGLISH        "^C1Hudson^C^L y Weaver han sido insertados para atacar y extraer a Steiner^L"
+
+REFERENCE           REBIRTH_HUDSON_INTROSCREEN_5
+LANG_ENGLISH        "^L22:00, ^L^C123 de febrero de 1968^C"
+
+REFERENCE           REBIRTH_MASON_INTROSCREEN_1
+LANG_ENGLISH        "^LTransmisión núm. 8-5-19-1-25-19. Designación: ECHO^L"
+
+REFERENCE           REBIRTH_MASON_INTROSCREEN_2
+LANG_ENGLISH        "^LCreemos que ^L^C1Mason^C^L se dirige al centro de armas biológicas ruso^L"
+
+REFERENCE           REBIRTH_MASON_INTROSCREEN_3
+LANG_ENGLISH        "^Lde Vozrozhdeniya ^L^C1Isla \"Renacimiento\", URSS^C"
+
+REFERENCE           REBIRTH_MASON_INTROSCREEN_4
+LANG_ENGLISH        "^LHudson y equipo 2 insertados para asalto y extracción de Steiner^L"
+
+REFERENCE           REBIRTH_MASON_INTROSCREEN_5
+LANG_ENGLISH        "^L22:30, ^L^C123 de febrero de 1968^C"
+
+REFERENCE           REBIRTH_NOVA6_EXPOSED
+LANG_ENGLISH        "¡Has sido expuesto al Nova 6!"
+
+REFERENCE           REBIRTH_OBJECTIVE_1
+LANG_ENGLISH        "Infíltrate en el laboratorio soviético y haz frente al Dr. Steiner"
+
+REFERENCE           REBIRTH_OBJECTIVE_2
+LANG_ENGLISH        "Infíltrate en el laboratorio soviético y captura al Dr. Steiner"
+
+REFERENCE           REBIRTH_OBJECTIVE_3A
+LANG_ENGLISH        "Derriba los helicópteros enemigos (quedan 2 de 2)"
+
+REFERENCE           REBIRTH_OBJECTIVE_3B
+LANG_ENGLISH        "Derriba los helicópteros enemigos (queda 1 de 2)"
+
+REFERENCE           REBIRTH_OBJECTIVE_4
+LANG_ENGLISH        "Escapa de la isla"
+
+REFERENCE           REBIRTH_OPEN_CRATE
+LANG_ENGLISH        "Mantén ^3[{+activate}]^7 para abrir la puerta."
+
+REFERENCE           REBIRTH_OPEN_DOOR
+LANG_ENGLISH        "Mantén ^3[{+activate}]^7 para abrir la puerta."
+
+REFERENCE           REBIRTH_OPEN_STEINER_DOOR
+LANG_ENGLISH        "Mantén ^3[{+activate}]^7 para abrir la puerta."
+
+REFERENCE           REBIRTH_PROMPT_AND
+LANG_ENGLISH        "y"
+
+REFERENCE           REBIRTH_PROMPT_ATTACK
+LANG_ENGLISH        "^3[{+attack}]^7"
+
+REFERENCE           REBIRTH_PROMPT_PRESS
+LANG_ENGLISH        "Pulsa"
+
+REFERENCE           REBIRTH_PROMPT_SPEED_THROW
+LANG_ENGLISH        "^3[{+speed_throw}]^7"
+
+REFERENCE           REBIRTH_PROMPT_TO_BASH_WINDOW
+LANG_ENGLISH        "para romper la ventana"
+
+REFERENCE           REBIRTH_PULL_DOWN_GUARD
+LANG_ENGLISH        "Pulsa ^3[{+melee}]^7 para cuerpo a cuerpo."
+
+REFERENCE           REBIRTH_RETRIEVE_HATCHET
+LANG_ENGLISH        "Mantén ^3[{+activate}]^7 para recuperar el tomahawk."
+
+REFERENCE           REBIRTH_STEALTH_FAIL
+LANG_ENGLISH        "Te han detectado."
+
+REFERENCE           REBIRTH_TACKLE_MASON
+LANG_ENGLISH        "Pulsa ^3[{+melee}]^7 para placar a Mason."
+
+REFERENCE           REBIRTH_VOX_REB1_S01_002A_REZN_M
+LANG_ENGLISH        "^1REZNOV: ^7Hemos llegado."
+
+REFERENCE           REBIRTH_VOX_REB1_S01_004A_REZN_M
+LANG_ENGLISH        "^1REZNOV: ^7Isla Renacimiento... Origen del veneno de Dragovich."
+
+REFERENCE           REBIRTH_VOX_REB1_S01_006A_REZN_M
+LANG_ENGLISH        "^1REZNOV: ^7Están preparando una entrega del Nova 6."
+
+REFERENCE           REBIRTH_VOX_REB1_S01_011A_REZN_M
+LANG_ENGLISH        "^1REZNOV: ^7Mátelo, Mason."
+
+REFERENCE           REBIRTH_VOX_REB1_S01_012A_REZN
+LANG_ENGLISH        "^1REZNOV: ^7Estamos en inferioridad, Mason."
+
+REFERENCE           REBIRTH_VOX_REB1_S01_013A_REZN
+LANG_ENGLISH        "^1REZNOV: ^7No debemos llamar la atención."
+
+REFERENCE           REBIRTH_VOX_REB1_S01_014A_REZN
+LANG_ENGLISH        "^1REZNOV: ^7Vaya por las sombras. Evite el foco del helicóptero."
+
+REFERENCE           REBIRTH_VOX_REB1_S01_015A_REZN
+LANG_ENGLISH        "^1REZNOV: ^7Espere a que pase."
+
+REFERENCE           REBIRTH_VOX_REB1_S01_016A_REZN
+LANG_ENGLISH        "^1REZNOV: ^7Vamos. Deprisa."
+
+REFERENCE           REBIRTH_VOX_REB1_S01_017A_REZN
+LANG_ENGLISH        "^1REZNOV: ^7¡Mason, quédese conmigo!"
+
+REFERENCE           REBIRTH_VOX_REB1_S01_018A_REZN
+LANG_ENGLISH        "^1REZNOV: ^7¡Mason, lo van a ver! ¡No se aleje!"
+
+REFERENCE           REBIRTH_VOX_REB1_S01_019A_REZN
+LANG_ENGLISH        "^1REZNOV: ^7¿Adónde va? ¡Siga el plan de la misión!"
+
+REFERENCE           REBIRTH_VOX_REB1_S01_020A_REZN
+LANG_ENGLISH        "^1REZNOV: ^7¡No podemos permitir que nos vean! ¡Agáchese!"
+
+REFERENCE           REBIRTH_VOX_REB1_S01_024A_REZN
+LANG_ENGLISH        "^1REZNOV: ^7Están empezando a evacuar las instalaciones..."
+
+REFERENCE           REBIRTH_VOX_REB1_S01_025A_MASO
+LANG_ENGLISH        "^1MASON: ^7Saben que estamos aquí..."
+
+REFERENCE           REBIRTH_VOX_REB1_S01_028A_REZN
+LANG_ENGLISH        "^1REZNOV: ^7Mason... Siléncielo."
+
+REFERENCE           REBIRTH_VOX_REB1_S01_029A_REZN
+LANG_ENGLISH        "^1REZNOV: ^7¡Mason!"
+
+REFERENCE           REBIRTH_VOX_REB1_S01_030A_REZN
+LANG_ENGLISH        "^1REZNOV: ^7Bien, amigo. Sígame."
+
+REFERENCE           REBIRTH_VOX_REB1_S01_031A_REZN
+LANG_ENGLISH        "^1REZNOV: ^7El helicóptero está dando la vuelta."
+
+REFERENCE           REBIRTH_VOX_REB1_S01_032A_REZN
+LANG_ENGLISH        "^1REZNOV: ^7Debemos encontrar otro escondite."
+
+REFERENCE           REBIRTH_VOX_REB1_S01_033A_REZN
+LANG_ENGLISH        "^1REZNOV: ^7Aléjese de la luz."
+
+REFERENCE           REBIRTH_VOX_REB1_S01_034A_REZN
+LANG_ENGLISH        "^1REZNOV: ^7Espere... No se mueva de ahí."
+
+REFERENCE           REBIRTH_VOX_REB1_S01_035A_REZN
+LANG_ENGLISH        "^1REZNOV: ^7No nos ha visto."
+
+REFERENCE           REBIRTH_VOX_REB1_S01_036A_REZN
+LANG_ENGLISH        "^1REZNOV: ^7Subamos por las escaleras."
+
+REFERENCE           REBIRTH_VOX_REB1_S01_040A_REZN
+LANG_ENGLISH        "^1REZNOV: ^7Bien... Muy bien."
+
+REFERENCE           REBIRTH_VOX_REB1_S01_041A_REZN
+LANG_ENGLISH        "^1REZNOV: ^7Podemos acceder al laboratorio de Steiner desde el tejado..."
+
+REFERENCE           REBIRTH_VOX_REB1_S01_042A_REZN
+LANG_ENGLISH        "^1REZNOV: ^7Nos estamos acercando, Mason."
+
+REFERENCE           REBIRTH_VOX_REB1_S01_044A_REZN
+LANG_ENGLISH        "^1REZNOV: ^7Han pasado a alerta máxima."
+
+REFERENCE           REBIRTH_VOX_REB1_S01_045A_MASO
+LANG_ENGLISH        "^1MASON: ^7Es la CIA... Quieren a Steiner vivo."
+
+REFERENCE           REBIRTH_VOX_REB1_S01_046A_REZN
+LANG_ENGLISH        "^1REZNOV: ^7Debemos llegar hasta él antes."
+
+REFERENCE           REBIRTH_VOX_REB1_S01_047A_REZN
+LANG_ENGLISH        "^1REZNOV: ^7Aproveche ese blanco, Mason. Apunte bien."
+
+REFERENCE           REBIRTH_VOX_REB1_S01_049A_REZN
+LANG_ENGLISH        "^1REZNOV: ^7Sígame. Usaremos el hueco del ascensor."
+
+REFERENCE           REBIRTH_VOX_REB1_S01_700A_MASO
+LANG_ENGLISH        "^1MASON: ^7Llegué con Reznov a Isla Renacimiento. Por fin. Steiner era nuestro."
+
+REFERENCE           REBIRTH_VOX_REB1_S01_701A_MASO
+LANG_ENGLISH        "^1MASON: ^7Juro por Dios que Steiner murió así. ¡Reznov lo mató ante mí!"
+
+REFERENCE           REBIRTH_VOX_REB1_S01_702A_INTE
+LANG_ENGLISH        "^1INTERROGADOR: ^7Miente, Mason. Usted mató a Steiner. Sabemos que lo hizo."
+
+REFERENCE           REBIRTH_VOX_REB1_S01_702B_INTE
+LANG_ENGLISH        "^1INTERROGADOR: ^7Miente, Mason. Usted mató a Steiner. Sabemos que lo hizo."
+
+REFERENCE           REBIRTH_VOX_REB1_S01_703A_MASO
+LANG_ENGLISH        "^1MASON: ^7Reznov obtuvo lo que buscaba. Venganza."
+
+REFERENCE           REBIRTH_VOX_REB1_S01_704A_INTE
+LANG_ENGLISH        "^1INTERROGADOR: ^7Jason Hudson presentó un informe, Mason. Viktor Reznov no mató a Friedrich Steiner. Hudson vio lo que ocurrió."
+
+REFERENCE           REBIRTH_VOX_REB1_S01_704B_INTE
+LANG_ENGLISH        "^1INTERROGATOR: ^7Jason Hudson presentó un informe, Mason. Viktor Reznov no mató a Friedrich Steiner. Hudson vio lo que ocurrió."
+
+REFERENCE           REBIRTH_VOX_REB1_S01_705A_MASO
+LANG_ENGLISH        "^1MASON: ^7¡Reznov!"
+
+REFERENCE           REBIRTH_VOX_REB1_S01_706A_MASO
+LANG_ENGLISH        "^1MASON: ^7No en mi guardia."
+
+REFERENCE           REBIRTH_VOX_REB1_S01_707A_HUDS_F
+LANG_ENGLISH        "^1HUDSON: ^7Mason, soy Hudson. Sabemos que está en Isla Renacimiento. Responda, Mason."
+
+REFERENCE           REBIRTH_VOX_REB1_S02_051A_REZN
+LANG_ENGLISH        "^1REZNOV: ^7Por aquí..."
+
+REFERENCE           REBIRTH_VOX_REB1_S02_056A_REZN_M
+LANG_ENGLISH        "^1REZNOV: ^7¡Dispare! Ahora..."
+
+REFERENCE           REBIRTH_VOX_REB1_S02_059A_REZN
+LANG_ENGLISH        "^1REZNOV: ^7Hay que abrir esta puerta."
+
+REFERENCE           REBIRTH_VOX_REB1_S02_060A_MASO
+LANG_ENGLISH        "^1MASON: ^7Yo me ocupo."
+
+REFERENCE           REBIRTH_VOX_REB1_S02_061A_REZN
+LANG_ENGLISH        "^1REZNOV: ^7Cuidado, amigo..."
+
+REFERENCE           REBIRTH_VOX_REB1_S02_063A_REZN_M
+LANG_ENGLISH        "^1REZNOV: ^7Acabemos con esto..."
+
+REFERENCE           REBIRTH_VOX_REB1_S02_064A_STEI_M
+LANG_ENGLISH        "^1STEINER: ^7Los hombres de Dragovich están reuniendo a todo el personal..."
+
+REFERENCE           REBIRTH_VOX_REB1_S02_065A_STEI_M
+LANG_ENGLISH        "^1STEINER: ^7¡Están ejecutando a todos los que ya no son necesarios!"
+
+REFERENCE           REBIRTH_VOX_REB1_S02_066A_STEI_M
+LANG_ENGLISH        "^1STEINER: ^7¡Deben apresurarse antes de que me maten!"
+
+REFERENCE           REBIRTH_VOX_REB1_S02_067A_MASO_M
+LANG_ENGLISH        "^1MASON: ^7Friedrich Steiner. Se acabó."
+
+REFERENCE           REBIRTH_VOX_REB1_S02_068A_STEI_M
+LANG_ENGLISH        "^1STEINER: ^7¿Usted...?"
+
+REFERENCE           REBIRTH_VOX_REB1_S02_069A_STEI_M
+LANG_ENGLISH        "^1STEINER: ^7¡Aaagh!"
+
+REFERENCE           REBIRTH_VOX_REB1_S02_069B_STEI_M
+LANG_ENGLISH        "^1STEINER: ^7¡Arrggh!"
+
+REFERENCE           REBIRTH_VOX_REB1_S02_070A_STEI_M
+LANG_ENGLISH        "^1STEINER: ^7Lo conozco... ¡Vorkuta!"
+
+REFERENCE           REBIRTH_VOX_REB1_S02_071A_STEI_M
+LANG_ENGLISH        "^1STEINER: ^7Usted no sabe..."
+
+REFERENCE           REBIRTH_VOX_REB1_S02_072A_STEI_M
+LANG_ENGLISH        "^1STEINER: ^7Lo que le hicimos..."
+
+REFERENCE           REBIRTH_VOX_REB1_S02_074A_HUDS_F_M
+LANG_ENGLISH        "^1HUDSON: ^7¡Mason, hábleme!"
+
+REFERENCE           REBIRTH_VOX_REB1_S02_074B_HUDS_F_M
+LANG_ENGLISH        "^1HUDSON: ^7¡Soy Hudson! ¡Mason, hábleme!"
+
+REFERENCE           REBIRTH_VOX_REB1_S02_075A_REZN_M
+LANG_ENGLISH        "^1REZNOV: ^7Su maldad ha destruido a muchos hombres buenos..."
+
+REFERENCE           REBIRTH_VOX_REB1_S02_076A_REZN_M
+LANG_ENGLISH        "^1REZNOV: ^7Eso se acabó."
+
+REFERENCE           REBIRTH_VOX_REB1_S02_077A_STEI_M
+LANG_ENGLISH        "^1STEINER: ^7¡Matarme no detendrá el Nova!"
+
+REFERENCE           REBIRTH_VOX_REB1_S02_078A_REZN_M
+LANG_ENGLISH        "^1REZNOV: ^7Me da igual el Nova."
+
+REFERENCE           REBIRTH_VOX_REB1_S02_079A_REZN_M
+LANG_ENGLISH        "^1REZNOV: ^7Me llamo Viktor Reznov."
+
+REFERENCE           REBIRTH_VOX_REB1_S02_080A_STEI_M
+LANG_ENGLISH        "^1STEINER: ^7No..."
+
+REFERENCE           REBIRTH_VOX_REB1_S02_081A_REZN_M
+LANG_ENGLISH        "^1REZNOV: ^7Y voy a vengarme."
+
+REFERENCE           REBIRTH_VOX_REB1_S03_082A_HUDS
+LANG_ENGLISH        "^1HUDSON: ^7¡Weaver!"
+
+REFERENCE           REBIRTH_VOX_REB1_S03_083A_WEAV_F_M
+LANG_ENGLISH        "^1WEAVER: ^7Adelante, Hudson."
+
+REFERENCE           REBIRTH_VOX_REB1_S03_084A_HUDS
+LANG_ENGLISH        "^1HUDSON: ^7Mason sigue oculto. Hay que abrirse paso hasta el centro de investigación. ¡Cúbranos!"
+
+REFERENCE           REBIRTH_VOX_REB1_S03_085A_HUDS
+LANG_ENGLISH        "^1HUDSON: ^7Mason sigue oculto. Iremos al centro de investigación y sacaremos a Steiner. Tengan cuidado."
+
+REFERENCE           REBIRTH_VOX_REB1_S03_086A_WEAV_F
+LANG_ENGLISH        "^1WEAVER: ^7¡Pelotón Yankee, en marcha!"
+
+REFERENCE           REBIRTH_VOX_REB1_S03_087A_HUDS
+LANG_ENGLISH        "^1HUDSON: ^7Pelotón Alpha, nos vamos."
+
+REFERENCE           REBIRTH_VOX_REB1_S03_088A_USS1_F
+LANG_ENGLISH        "^1US SOLDIER: ^7Recibido. En marcha."
+
+REFERENCE           REBIRTH_VOX_REB1_S03_089A_WEAV_F
+LANG_ENGLISH        "^1WEAVER: ^7Ya han empezado a evacuar."
+
+REFERENCE           REBIRTH_VOX_REB1_S03_090A_HUDS
+LANG_ENGLISH        "^1HUDSON: ^7No es una evacuación... Es una masacre."
+
+REFERENCE           REBIRTH_VOX_REB1_S03_091A_HUDS
+LANG_ENGLISH        "^1HUDSON: ^7Se aseguran de que no quede nadie vivo para hablar."
+
+REFERENCE           REBIRTH_VOX_REB1_S03_092A_WEAV_F
+LANG_ENGLISH        "^1WEAVER: ^7¡Derecha! Eso lleva al biolaboratorio."
+
+REFERENCE           REBIRTH_VOX_REB1_S03_093A_WEAV_F
+LANG_ENGLISH        "^1WEAVER: ^7Vehículo enemigo a las 12."
+
+REFERENCE           REBIRTH_VOX_REB1_S03_094A_WEAV_F
+LANG_ENGLISH        "^1WEAVER: ^7Ese es el camino a los laboratorios. El pelotón Yankee flanqueará por el oeste y se reunirán allí."
+
+REFERENCE           REBIRTH_VOX_REB1_S03_095A_HUDS
+LANG_ENGLISH        "^1HUDSON: ^7Entendido. ¡Pelotón Alpha, vamos!"
+
+REFERENCE           REBIRTH_VOX_REB1_S03_096A_USS1_F
+LANG_ENGLISH        "^1US SOLDIER: ^7En camino."
+
+REFERENCE           REBIRTH_VOX_REB1_S03_097A_USS1_F
+LANG_ENGLISH        "^1US SOLDIER: ^7Blancos enemigos en el balcón."
+
+REFERENCE           REBIRTH_VOX_REB1_S03_098A_WEAV_F
+LANG_ENGLISH        "^1WEAVER: ^7¡Molotov! ¡En el tejado!"
+
+REFERENCE           REBIRTH_VOX_REB1_S03_099A_HUDS
+LANG_ENGLISH        "^1HUDSON: ^7¡Mason! ¡Acabe con los Molotov!"
+
+REFERENCE           REBIRTH_VOX_REB1_S03_100A_HUDS
+LANG_ENGLISH        "^1HUDSON: ^7¡RPG!"
+
+REFERENCE           REBIRTH_VOX_REB1_S03_101A_HUDS
+LANG_ENGLISH        "^1HUDSON: ^7¡Acabe con los putos RPG!"
+
+REFERENCE           REBIRTH_VOX_REB1_S03_102A_WEAV_F
+LANG_ENGLISH        "^1WEAVER: ^7¡A la izquierda!"
+
+REFERENCE           REBIRTH_VOX_REB1_S03_103A_WEAV_F
+LANG_ENGLISH        "^1WEAVER: ^7¡A la derecha!"
+
+REFERENCE           REBIRTH_VOX_REB1_S03_104A_USS1_F
+LANG_ENGLISH        "^1US SOLDIER: ^7Contactos en la carretera."
+
+REFERENCE           REBIRTH_VOX_REB1_S03_105A_USS1_F
+LANG_ENGLISH        "^1US SOLDIER: ^7Hudson, nos informan de que vienen Mi-8 hacia aquí."
+
+REFERENCE           REBIRTH_VOX_REB1_S03_106A_HUDS
+LANG_ENGLISH        "^1HUDSON: ^7Entendido. Nos ocuparemos."
+
+REFERENCE           REBIRTH_VOX_REB1_S03_107A_USS1_F
+LANG_ENGLISH        "^1US SOLDIER: ^7¡Mi-8 al frente!"
+
+REFERENCE           REBIRTH_VOX_REB1_S03_108A_RED1
+LANG_ENGLISH        "^1US MARINE: ^7¡A cubierto!"
+
+REFERENCE           REBIRTH_VOX_REB1_S03_109A_USS1_F
+LANG_ENGLISH        "^1US SOLDIER: ^7¡Va a disparar! ¡Deprisa!"
+
+REFERENCE           REBIRTH_VOX_REB1_S03_110A_USS1_F
+LANG_ENGLISH        "^1US SOLDIER: ^7¡Nos atacan!"
+
+REFERENCE           REBIRTH_VOX_REB1_S03_111A_RED2
+LANG_ENGLISH        "^1US MARINE: ^7¡Nova 6! ¡Los trajes NRBQ!"
+
+REFERENCE           REBIRTH_VOX_REB1_S03_112A_RED1_M
+LANG_ENGLISH        "^1US MARINE: ^7¡Mierda! ¡Ayuda! ¡Aaaargh!"
+
+REFERENCE           REBIRTH_VOX_REB1_S03_112A_RED1_M_S
+LANG_ENGLISH        "^1MARINE EE. UU.: ^7¡Mierda! ¡Ayuda! ¡Aaaargh!"
+
+REFERENCE           REBIRTH_VOX_REB1_S03_113A_HUDS
+LANG_ENGLISH        "^1HUDSON: ^7¡Pelotón Alpha, vamos a avanzar! ¡Protejan sus trajes NRBQ!"
+
+REFERENCE           REBIRTH_VOX_REB1_S03_114A_HUDS
+LANG_ENGLISH        "^1HUDSON: ^7Si el traje se rompe, ¡morirán en unos minutos!"
+
+REFERENCE           REBIRTH_VOX_REB1_S03_115A_RED2
+LANG_ENGLISH        "^1US MARINE: ^7¡Ya lo han oído! ¡Cuidado con los trajes! ¡Vamos!"
+
+REFERENCE           REBIRTH_VOX_REB1_S03_116A_RED2
+LANG_ENGLISH        "^1US MARINE: ^7¡Spetsnaz!"
+
+REFERENCE           REBIRTH_VOX_REB1_S03_117A_RED3
+LANG_ENGLISH        "^1US MARINE: ^7Los vemos."
+
+REFERENCE           REBIRTH_VOX_REB1_S03_118A_RED3
+LANG_ENGLISH        "^1US MARINE: ^7¡A sus 6!"
+
+REFERENCE           REBIRTH_VOX_REB1_S03_119A_RED3
+LANG_ENGLISH        "^1US MARINE: ^7Yo me ocupo."
+
+REFERENCE           REBIRTH_VOX_REB1_S03_120A_RED2
+LANG_ENGLISH        "^1US MARINE: ^7¡Nos está friendo! ¡Fuera de la calle!"
+
+REFERENCE           REBIRTH_VOX_REB1_S03_121A_WEAV_F
+LANG_ENGLISH        "^1WEAVER: ^7El pelotón Yankee ha despejado el perímetro oeste. Vamos al norte."
+
+REFERENCE           REBIRTH_VOX_REB1_S03_122A_RED2
+LANG_ENGLISH        "^1US MARINE: ^7¡Sigan hacia el oeste! ¡Por ese callejón!"
+
+REFERENCE           REBIRTH_VOX_REB1_S03_123A_HUDS
+LANG_ENGLISH        "^1HUDSON: ^7Avanzamos por el flanco. ¡Sigan hacia el norte!"
+
+REFERENCE           REBIRTH_VOX_REB1_S03_124A_WEAV_F
+LANG_ENGLISH        "^1WEAVER: ^7Entendido. Los helicópteros nos están machacando."
+
+REFERENCE           REBIRTH_VOX_REB1_S03_125A_HUDS
+LANG_ENGLISH        "^1HUDSON: ^7Resistan. Estamos a medio kilómetro al sur del laboratorio."
+
+REFERENCE           REBIRTH_VOX_REB1_S03_126A_WEAV_F
+LANG_ENGLISH        "^1WEAVER: ^7Pelotón Alpha, el enemigo nos está acribillando. Solicitamos apoyo. Cambio."
+
+REFERENCE           REBIRTH_VOX_REB1_S03_127A_HUDS
+LANG_ENGLISH        "^1HUDSON: ^7Ya llegamos, Weaver. ¡Resistan!"
+
+REFERENCE           REBIRTH_VOX_REB1_S03_128A_WEAV_F
+LANG_ENGLISH        "^1WEAVER: ^7¡Pelotón Yankee, salga del BTR! Nos van a..."
+
+REFERENCE           REBIRTH_VOX_REB1_S03_129A_HUDS
+LANG_ENGLISH        "^1HUDSON: ^7¡Weaver!"
+
+REFERENCE           REBIRTH_VOX_REB1_S03_130A_WEAV_F
+LANG_ENGLISH        "^1WEAVER: ^7Estamos vivos, Hudson. Pero nos tienen inmovilizados. Están en nuestro flanco este."
+
+REFERENCE           REBIRTH_VOX_REB1_S03_131A_HUDS
+LANG_ENGLISH        "^1HUDSON: ^7Entendido."
+
+REFERENCE           REBIRTH_VOX_REB1_S03_132A_WEAV_F
+LANG_ENGLISH        "^1WEAVER: ^7¡Hudson! No podemos movernos hasta que nos carguemos los helicópteros."
+
+REFERENCE           REBIRTH_VOX_REB1_S03_133A_HUDS
+LANG_ENGLISH        "^1HUDSON: ^7Sí, yo me ocupo."
+
+REFERENCE           REBIRTH_VOX_REB1_S03_134A_WEAV_F
+LANG_ENGLISH        "^1WEAVER: ^7¡Use el Strela contra los helicópteros!"
+
+REFERENCE           REBIRTH_VOX_REB1_S03_135A_WEAV_F
+LANG_ENGLISH        "^1WEAVER: ^7¡Hudson, tiene que derribar los helicópteros!"
+
+REFERENCE           REBIRTH_VOX_REB1_S03_136A_HUDS
+LANG_ENGLISH        "^1HUDSON: ^7Necesito fijar el blanco para disparar."
+
+REFERENCE           REBIRTH_VOX_REB1_S03_137A_HUDS
+LANG_ENGLISH        "^1HUDSON: ^7Hay que fijar el blanco."
+
+REFERENCE           REBIRTH_VOX_REB1_S03_138A_WEAV_F
+LANG_ENGLISH        "^1WEAVER: ^7¡Ahí tienes, hijo de puta! ¡Otro más, Hudson!"
+
+REFERENCE           REBIRTH_VOX_REB1_S03_138A_WEAV_S_F_S
+LANG_ENGLISH        "^1WEAVER: ^7¡Ahí tienes, hijo de puta! ¡Otro más, Hudson!"
+
+REFERENCE           REBIRTH_VOX_REB1_S03_139A_WEAV
+LANG_ENGLISH        "^1WEAVER: ^7Ya casi hemos llegado a los laboratorios."
+
+REFERENCE           REBIRTH_VOX_REB1_S03_140A_WEAV
+LANG_ENGLISH        "^1WEAVER: ^7Ese es el biolaboratorio. Parece que nos esperan."
+
+REFERENCE           REBIRTH_VOX_REB1_S03_141A_HUDS
+LANG_ENGLISH        "^1HUDSON: ^7En marcha. Agáchense."
+
+REFERENCE           REBIRTH_VOX_REB1_S03_142A_WEAV
+LANG_ENGLISH        "^1WEAVER: ^7¡Fuego a discreción!"
+
+REFERENCE           REBIRTH_VOX_REB1_S03_143A_WEAV
+LANG_ENGLISH        "^1WEAVER: ^7Hudson, flanco izquierdo conmigo. ¡Cobertura!"
+
+REFERENCE           REBIRTH_VOX_REB1_S03_144A_WEAV
+LANG_ENGLISH        "^1WEAVER: ^7Aquí. Aquí es donde estará Steiner."
+
+REFERENCE           REBIRTH_VOX_REB1_S03_145A_WEAV
+LANG_ENGLISH        "^1WEAVER: ^7El biolaboratorio está debajo."
+
+REFERENCE           REBIRTH_VOX_REB1_S03_146A_WEAV
+LANG_ENGLISH        "^1WEAVER: ^7Hay que pasar por descontaminación."
+
+REFERENCE           REBIRTH_VOX_REB1_S03_147A_WEAV
+LANG_ENGLISH        "^1WEAVER: ^7Busquemos a Steiner."
+
+REFERENCE           REBIRTH_VOX_REB1_S03_148A_HUDS
+LANG_ENGLISH        "^1HUDSON: ^7Mason, aquí Hudson. ¿Está ahí?"
+
+REFERENCE           REBIRTH_VOX_REB1_S03_149A_HUDS
+LANG_ENGLISH        "^1HUDSON: ^7Es Mason..."
+
+REFERENCE           REBIRTH_VOX_REB1_S03_150A_WEAV
+LANG_ENGLISH        "^1WEAVER: ^7¿Qué coño está haciendo?"
+
+REFERENCE           REBIRTH_VOX_REB1_S03_151A_HUDS
+LANG_ENGLISH        "^1HUDSON: ^7Matar a todos para llegar hasta Steiner."
+
+REFERENCE           REBIRTH_VOX_REB1_S03_153A_HUDS
+LANG_ENGLISH        "^1HUDSON: ^7¡Mason!"
+
+REFERENCE           REBIRTH_VOX_REB1_S03_154A_WEAV
+LANG_ENGLISH        "^1WEAVER: ^7¡Tenemos que detenerlo!"
+
+REFERENCE           REBIRTH_VOX_REB1_S03_155A_HUDS
+LANG_ENGLISH        "^1HUDSON: ^7¡Maldición! ¡Es antibalas! ¡Mason! ¿Qué hace? ¡Lo necesitamos vivo! Quieto. ¡Quieto, Mason!"
+
+REFERENCE           REBIRTH_VOX_REB1_S03_156A_WEAV_M
+LANG_ENGLISH        "^1WEAVER: ^7¡Aaargh! ¡Ayuda!"
+
+REFERENCE           REBIRTH_VOX_REB1_S03_157A_MASO
+LANG_ENGLISH        "^1MASON: ^7Me llamo Viktor Reznov. ¡Y me vengaré!"
+
+REFERENCE           REBIRTH_VOX_REB1_S03_157B_MASO
+LANG_ENGLISH        "^1MASON: ^7Me llamo Viktor Reznov. ¡Y me vengaré!"
+
+REFERENCE           REBIRTH_VOX_REB1_S03_158A_HUDS
+LANG_ENGLISH        "^1HUDSON: ^7Mason. ¡No!"
+
+REFERENCE           REBIRTH_VOX_REB1_S03_159A_WEAV_M
+LANG_ENGLISH        "^1WEAVER: ^7Estoy bien. ¿Y Steiner?"
+
+REFERENCE           REBIRTH_VOX_REB1_S03_160A_RED2_M
+LANG_ENGLISH        "^1US MARINE: ^7Muerto."
+
+REFERENCE           REBIRTH_VOX_REB1_S03_161A_WEAV_M
+LANG_ENGLISH        "^1WEAVER: ^7¿Qué hay de Reznov, el desertor? Tenemos que encontrarlo."
+
+REFERENCE           REBIRTH_VOX_REB1_S03_162A_HUDS_M
+LANG_ENGLISH        "^1HUDSON: ^7Nada. Nunca estuvo aquí."
+
+REFERENCE           REBIRTH_VOX_REB1_S03_163A_HUDS_M
+LANG_ENGLISH        "^1HUDSON: ^7No me lo creía hasta que lo vi con mis propios ojos..."
+
+REFERENCE           REBIRTH_VOX_REB1_S03_164A_HUDS_M
+LANG_ENGLISH        "^1HUDSON: ^7¿Qué le hicieron en Vorkuta, Mason?"
+
+REFERENCE           REBIRTH_VOX_REB1_S03_165A_WEAV_M
+LANG_ENGLISH        "^1WEAVER: ^7Con Steiner muerto, Mason es la única conexión con los números transmitidos."
+
+REFERENCE           REBIRTH_VOX_REB1_S03_166A_HUDS_M
+LANG_ENGLISH        "^1HUDSON: ^7Tenemos que llevárnoslo..."
+
+REFERENCE           REBIRTH_VOX_REB1_S03_167A_WEAV_M
+LANG_ENGLISH        "^1WEAVER: ^7Vamos."
+
+REFERENCE           REBIRTH_VOX_REB1_S03_168A_WEAV
+LANG_ENGLISH        "^1WEAVER: ^7Por aquí. Nos llevará al muelle. Aquí Weaver. Tenemos el paquete... Estamos en camino."
+
+REFERENCE           REBIRTH_VOX_REB1_S03_169A_USP1_F
+LANG_ENGLISH        "^1US PILOT: ^7Recibido. Estamos tomando los muelles."
+
+REFERENCE           REBIRTH_VOX_REB1_S03_170A_USP1_F
+LANG_ENGLISH        "^1US PILOT: ^7Todo despejado."
+
+REFERENCE           REBIRTH_VOX_REB1_S03_171A_WEAV
+LANG_ENGLISH        "^1WEAVER: ^7En marcha. Vámonos."
+
+REFERENCE           REBIRTH_VOX_REB1_S03_172A_WEAV
+LANG_ENGLISH        "^1WEAVER: ^7Vigílelo..."
+
+REFERENCE           REBIRTH_VOX_REB1_S03_173A_HUDS
+LANG_ENGLISH        "^1HUDSON: ^7¿Qué demonios le hicieron, Mason?"
+
+REFERENCE           REBIRTH_VOX_REB1_S03_300A_STEI_F
+LANG_ENGLISH        "^1STEINER: ^7Los hombres de Dragovich están reuniendo a todo el personal..."
+
+REFERENCE           REBIRTH_VOX_REB1_S03_301A_STEI_F
+LANG_ENGLISH        "^1STEINER: ^7¡Están ejecutando a todos los que ya no son necesarios!"
+
+REFERENCE           REBIRTH_VOX_REB1_S03_302A_STEI_F
+LANG_ENGLISH        "^1STEINER: ^7¡Deben apresurarse antes de que me maten!"
+
+REFERENCE           REBIRTH_VOX_REB1_S03_303A_MASO_F_M
+LANG_ENGLISH        "^1MASON: ^7Friedrich Steiner. Se acabó."
+
+REFERENCE           REBIRTH_VOX_REB1_S03_707A_HUDS
+LANG_ENGLISH        "^1HUDSON: ^7Mason, soy Hudson. Sabemos que está en Isla Renacimiento. Responda, Mason."
+
+REFERENCE           REBIRTH_VOX_REB1_S03_708A_HUDS
+LANG_ENGLISH        "^1HUDSON: ^7No es una evacuación... Steiner tenía razón. Se aseguran de que no quede nadie vivo para hablar."
+
+REFERENCE           REBIRTH_VOX_REB1_S99_308A_REZN
+LANG_ENGLISH        "^1REZNOV: ^7Coja el hacha."
+
+REFERENCE           REBIRTH_VOX_REB1_S99_309A_REZN
+LANG_ENGLISH        "^1REZNOV: ^7¡Está muy cerca del foco!"
+
+REFERENCE           REBIRTH_VOX_REB1_S99_310A_REZN
+LANG_ENGLISH        "^1REZNOV: ^7¡Mason, lo están viendo!"
+
+REFERENCE           REBIRTH_VOX_REB1_S99_311A_REZN
+LANG_ENGLISH        "^1REZNOV: ^7¡Lo han visto!"
+
+REFERENCE           REBIRTH_VOX_REB1_S99_312A_REZN
+LANG_ENGLISH        "^1REZNOV: ^7¡Que no lo vean!"
+
+REFERENCE           REBIRTH_VOX_REB1_S99_313A_WEAV
+LANG_ENGLISH        "^1WEAVER: ^7Hudson, ¿adónde van?"
+
+REFERENCE           REBIRTH_VOX_REB1_S99_314A_WEAV
+LANG_ENGLISH        "^1WEAVER: ^7No nos han visto."
+
+REFERENCE           REBIRTH_VOX_REB1_S99_315A_HUDS
+LANG_ENGLISH        "^1HUDSON: ^7Hay que encontrar a Steiner antes de que sea tarde."
+
+REFERENCE           REBIRTH_VOX_REB1_S99_316A_WEAV_F
+LANG_ENGLISH        "^1WEAVER: ^7¿Qué coño era eso?"
+
+REFERENCE           REBIRTH_VOX_REB1_S99_317A_HUDS
+LANG_ENGLISH        "^1HUDSON: ^7Es Steiner. Intenta ponerse en contacto. Steiner, ¿qué ocurre?"
+
+REFERENCE           REBIRTH_VOX_REB1_S99_317B_HUDS
+LANG_ENGLISH        "^1HUDSON: ^7Steiner! What's the situation?"
+
+ENDMARKER

@@ -1,0 +1,232 @@
+// Dumped from fastfile "sp_zombietron".
+// In their original format the strings might have been separated in multiple files.
+VERSION             "1"
+CONFIG              "C:/projects/cod/t5/bin/StringEd.cfg"
+FILENOTES           ""
+
+REFERENCE           ZOMBIETRON_1ST
+LANG_ENGLISH        "1.: &&1"
+
+REFERENCE           ZOMBIETRON_2ND
+LANG_ENGLISH        "2.: &&1"
+
+REFERENCE           ZOMBIETRON_3RD
+LANG_ENGLISH        "3.: &&1"
+
+REFERENCE           ZOMBIETRON_4TH
+LANG_ENGLISH        "4.: &&1"
+
+REFERENCE           ZOMBIETRON_APE_BOSS
+LANG_ENGLISH        "Gorila cósmico"
+
+REFERENCE           ZOMBIETRON_ARMORY
+LANG_ENGLISH        "Arsenal descubierto"
+
+REFERENCE           ZOMBIETRON_BONUS
+LANG_ENGLISH        "Sala extra descubierta"
+
+REFERENCE           ZOMBIETRON_BOSS_ROUND
+LANG_ENGLISH        "Ronda de jefe"
+
+REFERENCE           ZOMBIETRON_BOSS_ROUND_VICTORY
+LANG_ENGLISH        "¡VICTORIA!"
+
+REFERENCE           ZOMBIETRON_BUBBLE_BIGMONEY
+LANG_ENGLISH        "¡Mucho dinero!"
+
+REFERENCE           ZOMBIETRON_BUBBLE_BIGPRIZES
+LANG_ENGLISH        "¡Grandes premios!"
+
+REFERENCE           ZOMBIETRON_BUBBLE_DEAD
+LANG_ENGLISH        "¿Estoy muerto?"
+
+REFERENCE           ZOMBIETRON_BUBBLE_FCUK
+LANG_ENGLISH        "¡J@$€*!"
+
+REFERENCE           ZOMBIETRON_BUBBLE_GRUMBLE
+LANG_ENGLISH        "<QUEJIDO>"
+
+REFERENCE           ZOMBIETRON_BUBBLE_HAHA
+LANG_ENGLISH        "¡JA, JA, JA!"
+
+REFERENCE           ZOMBIETRON_BUBBLE_HAHADOH
+LANG_ENGLISH        "¡Hasta la vista!"
+
+REFERENCE           ZOMBIETRON_BUBBLE_IMBACK
+LANG_ENGLISH        "¡He vuelto!"
+
+REFERENCE           ZOMBIETRON_BUBBLE_NEXTTIME
+LANG_ENGLISH        "¡Otra vez será!"
+
+REFERENCE           ZOMBIETRON_BUBBLE_NOOO
+LANG_ENGLISH        "¡NOOOOOOO!"
+
+REFERENCE           ZOMBIETRON_BUBBLE_NOTBAD
+LANG_ENGLISH        "No está mal..."
+
+REFERENCE           ZOMBIETRON_BUBBLE_OHNO
+LANG_ENGLISH        "¡No!"
+
+REFERENCE           ZOMBIETRON_BUBBLE_OHYEAH
+LANG_ENGLISH        "¡Sí!"
+
+REFERENCE           ZOMBIETRON_BUBBLE_RELAX
+LANG_ENGLISH        "¡Hora de relajarse!"
+
+REFERENCE           ZOMBIETRON_BUBBLE_RICH
+LANG_ENGLISH        "¡Somos ricos!"
+
+REFERENCE           ZOMBIETRON_BUBBLE_TREASURE
+LANG_ENGLISH        "¡Mi tesoro!"
+
+REFERENCE           ZOMBIETRON_BUBBLE_WHAT
+LANG_ENGLISH        "¿Qué diablos...?"
+
+REFERENCE           ZOMBIETRON_BUBBLE_WINNER
+LANG_ENGLISH        "¡Ganador!"
+
+REFERENCE           ZOMBIETRON_CHALLENGE
+LANG_ENGLISH        "Ronda de desafío"
+
+REFERENCE           ZOMBIETRON_CHALLENGE_COW
+LANG_ENGLISH        "¡Estampida!"
+
+REFERENCE           ZOMBIETRON_CHALLENGE_DOG
+LANG_ENGLISH        "¿Quién ha dado falsa alarma?"
+
+REFERENCE           ZOMBIETRON_CHALLENGE_ENGINEER
+LANG_ENGLISH        "¡Chaparrón!"
+
+REFERENCE           ZOMBIETRON_CHALLENGE_PIG
+LANG_ENGLISH        "Pez en un barril"
+
+REFERENCE           ZOMBIETRON_CHALLENGE_QUAD
+LANG_ENGLISH        "Bichejos espeluznantes"
+
+REFERENCE           ZOMBIETRON_CHALLENGE_SERGEI
+LANG_ENGLISH        "¡Fuga de prisión!"
+
+REFERENCE           ZOMBIETRON_CHALLENGE_SNOW
+LANG_ENGLISH        "Mártir abominable"
+
+REFERENCE           ZOMBIETRON_COSMIC_SB
+LANG_ENGLISH        "El gorila cósmico"
+
+REFERENCE           ZOMBIETRON_COSMIC_SB_DEFEATED
+LANG_ENGLISH        "¡El gorila cósmico, DERROTADO!"
+
+REFERENCE           ZOMBIETRON_COSMIC_SB_DEFEATED2
+LANG_ENGLISH        "... ¿O no? ... "
+
+REFERENCE           ZOMBIETRON_FATE_EXIT
+LANG_ENGLISH        "Tu destino está decidido"
+
+REFERENCE           ZOMBIETRON_FATE_FIREPOWER
+LANG_ENGLISH        "Se te ha concedido el don Potencia de fuego"
+
+REFERENCE           ZOMBIETRON_FATE_FORTUNE
+LANG_ENGLISH        "Se te han concedido los dones Fortuna y Fortaleza\n"
+
+REFERENCE           ZOMBIETRON_FATE_FRIENDSHIP
+LANG_ENGLISH        "Se te ha concedido el don Amistad\n"
+
+REFERENCE           ZOMBIETRON_FATE_FURIOUS_FEET
+LANG_ENGLISH        "Se te ha concedido el don Pies frenéticos"
+
+REFERENCE           ZOMBIETRON_FATE_HURRY
+LANG_ENGLISH        "Los hados no esperarán eternamente"
+
+REFERENCE           ZOMBIETRON_FATE_INTRO
+LANG_ENGLISH        "La sala del destino"
+
+REFERENCE           ZOMBIETRON_FATE_INTRO2
+LANG_ENGLISH        "Elige una salida y decide tu destino"
+
+REFERENCE           ZOMBIETRON_GAMEOVER
+LANG_ENGLISH        "Fin del juego"
+
+REFERENCE           ZOMBIETRON_INSTRUCTION1
+LANG_ENGLISH        "El objetivo final de este juego es hacer frente al malvado gorila cósmico y vengar la muerte de la princesa."
+
+REFERENCE           ZOMBIETRON_INSTRUCTION10
+LANG_ENGLISH        "Encontrarás tesoros por el camino. Recógelos siempre que puedas."
+
+REFERENCE           ZOMBIETRON_INSTRUCTION11
+LANG_ENGLISH        "El tesoro se agrega a tu multiplicador de puntuación. Cada &&1 puntos, recibirás una vida extra."
+
+REFERENCE           ZOMBIETRON_INSTRUCTION12
+LANG_ENGLISH        "Verás una serie de armas y objetos especiales. ¡Cógelos! Todos ofrecen sus propias ventajas y son potentes."
+
+REFERENCE           ZOMBIETRON_INSTRUCTION13
+LANG_ENGLISH        "Ahora dirígete a la flecha de salida y buena suerte en tu misión de derrotar al gorila cósmico."
+
+REFERENCE           ZOMBIETRON_INSTRUCTION2
+LANG_ENGLISH        "El gorila cósmico no te pondrá fácil el viaje. Entre tú y él hay todo un ejército de no muertos."
+
+REFERENCE           ZOMBIETRON_INSTRUCTION3
+LANG_ENGLISH        "¡No te desanimes! Por el camino encontrarás potentes armas y objetos que te ayudarán a luchar."
+
+REFERENCE           ZOMBIETRON_INSTRUCTION4
+LANG_ENGLISH        "Usa  para moverte."
+
+REFERENCE           ZOMBIETRON_INSTRUCTION5
+LANG_ENGLISH        "Usa  para disparar."
+
+REFERENCE           ZOMBIETRON_INSTRUCTION6
+LANG_ENGLISH        "Pulsa  para lanzar una bomba táctica que despeje toda una zona de enemigos."
+
+REFERENCE           ZOMBIETRON_INSTRUCTION7
+LANG_ENGLISH        "Pulsa  para usar un acelerón. Resulta útil para salir de situaciones peliagudas."
+
+REFERENCE           ZOMBIETRON_INSTRUCTION8
+LANG_ENGLISH        "Para reponer tu inventario de bombas tácticas, recoge objetos que se parezcan a ellas.\nSe guardarán para más tarde."
+
+REFERENCE           ZOMBIETRON_INSTRUCTION9
+LANG_ENGLISH        "De forma similar a la reposición de bombas tácticas, puedes acumular acelerones. Haré aparecer unos cuantos. \nFíjate cómo se acumulan."
+
+REFERENCE           ZOMBIETRON_NAME
+LANG_ENGLISH        "&&1"
+
+REFERENCE           ZOMBIETRON_NEXT_PAGE
+LANG_ENGLISH        "PULSA ^3[{+activate}]^7 PARA PASAR LA PÁGINA."
+
+REFERENCE           ZOMBIETRON_PAGE
+LANG_ENGLISH        "Página &&1 de &&2"
+
+REFERENCE           ZOMBIETRON_PICK_A_PATH
+LANG_ENGLISH        "Elige tu camino"
+
+REFERENCE           ZOMBIETRON_ROUND
+LANG_ENGLISH        "Ronda: &&1"
+
+REFERENCE           ZOMBIETRON_ROUND_COMPLETE
+LANG_ENGLISH        "Ronda &&1 terminada."
+
+REFERENCE           ZOMBIETRON_SCORE
+LANG_ENGLISH        "Puntos: &&1"
+
+REFERENCE           ZOMBIETRON_SKIP_SCENE
+LANG_ENGLISH        "PULSA ^3[{+activate}]^7 PARA OMITIR."
+
+REFERENCE           ZOMBIETRON_SURVIVED_ROUNDS
+LANG_ENGLISH        "Has llegado a la ronda &&1"
+
+REFERENCE           ZOMBIETRON_TELEPORTER
+LANG_ENGLISH        "Súbete al teletransporte para ir a una nueva arena\n"
+
+REFERENCE           ZOMBIETRON_TITLE
+LANG_ENGLISH        "ZOMBIETRON"
+
+REFERENCE           ZOMBIETRON_TUTORIAL1
+LANG_ENGLISH        "¡El gorila cósmico ha huido! ¡Dale caza!"
+
+REFERENCE           ZOMBIETRON_TUTORIAL2
+LANG_ENGLISH        "O sube a la plataforma de teletransporte para recibir instrucciones."
+
+REFERENCE           ZOMBIETRON_TUTORIAL3
+LANG_ENGLISH        "Instrucciones"
+
+REFERENCE           ZOMBIETRON_WINNER_SKIP
+LANG_ENGLISH        "GANADOR PUEDE PULSAR ^3[{+activate}]^7 PARA OMITIR."
+
+ENDMARKER

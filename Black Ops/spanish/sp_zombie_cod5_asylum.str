@@ -1,0 +1,754 @@
+// Dumped from fastfile "sp_zombie_cod5_asylum".
+// In their original format the strings might have been separated in multiple files.
+VERSION             "1"
+CONFIG              "C:/projects/cod/t5/bin/StringEd.cfg"
+FILENOTES           ""
+
+REFERENCE           WAW_WEAPON_30CAL
+LANG_ENGLISH        "Browning M1919"
+
+REFERENCE           WAW_WEAPON_30CAL_UPGRADED
+LANG_ENGLISH        "Acelerador de B115"
+
+REFERENCE           WAW_WEAPON_357MAGNUM
+LANG_ENGLISH        ".357 Magnum"
+
+REFERENCE           WAW_WEAPON_357MAGNUM_UPGRADED
+LANG_ENGLISH        ".357 Plus 1 K1L-u"
+
+REFERENCE           WAW_WEAPON_ANTITANK_GUNNER
+LANG_ENGLISH        "Artillero antitanque"
+
+REFERENCE           WAW_WEAPON_BAR
+LANG_ENGLISH        "BAR"
+
+REFERENCE           WAW_WEAPON_BAR_BIPOD
+LANG_ENGLISH        "BAR desplegable"
+
+REFERENCE           WAW_WEAPON_BAR_UPGRADED
+LANG_ENGLISH        "Widow Maker"
+
+REFERENCE           WAW_WEAPON_BAZOOKA
+LANG_ENGLISH        "Bazuca M9A1"
+
+REFERENCE           WAW_WEAPON_COLT45
+LANG_ENGLISH        "Colt M1911"
+
+REFERENCE           WAW_WEAPON_COLT45_UPGRADED
+LANG_ENGLISH        "C-3000 b1at-ch35"
+
+REFERENCE           WAW_WEAPON_FG42
+LANG_ENGLISH        "FG42"
+
+REFERENCE           WAW_WEAPON_FG42_UPGRADED
+LANG_ENGLISH        "420 Impulsor"
+
+REFERENCE           WAW_WEAPON_FLAMETHROWER_GUNNER
+LANG_ENGLISH        "Lanzallamas"
+
+REFERENCE           WAW_WEAPON_FRAGGRENADE
+LANG_ENGLISH        "Fragmentación"
+
+REFERENCE           WAW_WEAPON_GERMANGRENADE
+LANG_ENGLISH        "Stielhandgranate"
+
+REFERENCE           WAW_WEAPON_GEWEHR43
+LANG_ENGLISH        "Gewehr 43"
+
+REFERENCE           WAW_WEAPON_GEWEHR43_UPGRADED
+LANG_ENGLISH        "G115 Compresor"
+
+REFERENCE           WAW_WEAPON_KAR98K
+LANG_ENGLISH        "Kar98k"
+
+REFERENCE           WAW_WEAPON_KAR98K_SCOPED_SP
+LANG_ENGLISH        "Kar98k con mira óptica"
+
+REFERENCE           WAW_WEAPON_KAR98K_UPGRADED
+LANG_ENGLISH        "Armagedón"
+
+REFERENCE           WAW_WEAPON_M1A1CARBINE
+LANG_ENGLISH        "Carabina M1"
+
+REFERENCE           WAW_WEAPON_M1A1CARBINE_UPGRADED
+LANG_ENGLISH        "Widdershins RC-1"
+
+REFERENCE           WAW_WEAPON_M1GARAND
+LANG_ENGLISH        "M1 Garand"
+
+REFERENCE           WAW_WEAPON_M1GARAND_GL
+LANG_ENGLISH        "M1 Garand con lanzador"
+
+REFERENCE           WAW_WEAPON_M1GARAND_UPGRADED
+LANG_ENGLISH        "M1000"
+
+REFERENCE           WAW_WEAPON_M2_FLAMETHROWER
+LANG_ENGLISH        "Lanzallamas M2"
+
+REFERENCE           WAW_WEAPON_M2_FLAMETHROWER_UPGRADED
+LANG_ENGLISH        "FIW refrigerado con nitrógeno\n"
+
+REFERENCE           WAW_WEAPON_M7_LAUNCHER
+LANG_ENGLISH        "Lanzagranadas M7"
+
+REFERENCE           WAW_WEAPON_M7_LAUNCHER_UPGRADED
+LANG_ENGLISH        "El implosionador"
+
+REFERENCE           WAW_WEAPON_M7_LAUNCHER_UPGRADED_NONADE
+LANG_ENGLISH        "El implosionador"
+
+REFERENCE           WAW_WEAPON_MG42
+LANG_ENGLISH        "MG42"
+
+REFERENCE           WAW_WEAPON_MG42_UPGRADED
+LANG_ENGLISH        "Barracuda FU-A11"
+
+REFERENCE           WAW_WEAPON_MINE_BOUNCING_BETTY
+LANG_ENGLISH        "Bouncing Betty"
+
+REFERENCE           WAW_WEAPON_MOLOTOV
+LANG_ENGLISH        "Cóctel Molotov"
+
+REFERENCE           WAW_WEAPON_MOSIN_LAUNCHER
+LANG_ENGLISH        "Mosin-Nagant con lanzador"
+
+REFERENCE           WAW_WEAPON_MOSIN_RIFLE_SCOPED_SP
+LANG_ENGLISH        "Mosin-Nagant con mira óptica"
+
+REFERENCE           WAW_WEAPON_MP40
+LANG_ENGLISH        "MP40"
+
+REFERENCE           WAW_WEAPON_MP40_UPGRADED
+LANG_ENGLISH        "Posquemador"
+
+REFERENCE           WAW_WEAPON_NO_FRAG_GRENADE
+LANG_ENGLISH        "No quedan granadas básicas"
+
+REFERENCE           WAW_WEAPON_PANZERSCHREK
+LANG_ENGLISH        "Panzerschrek"
+
+REFERENCE           WAW_WEAPON_PANZERSCHREK_UPGRADED
+LANG_ENGLISH        "Longinus"
+
+REFERENCE           WAW_WEAPON_PPSH
+LANG_ENGLISH        "PPSh-41"
+
+REFERENCE           WAW_WEAPON_PPSH_UPGRADED
+LANG_ENGLISH        "La parca"
+
+REFERENCE           WAW_WEAPON_PTRS41
+LANG_ENGLISH        "PTRS-41"
+
+REFERENCE           WAW_WEAPON_PTRS41_UPGRADED
+LANG_ENGLISH        "El penetrador"
+
+REFERENCE           WAW_WEAPON_RAY_GUN
+LANG_ENGLISH        "Arma de rayos"
+
+REFERENCE           WAW_WEAPON_RAY_GUN_UPGRADED
+LANG_ENGLISH        "Arma de rayos X2 de Porter"
+
+REFERENCE           WAW_WEAPON_RIFLEMAN
+LANG_ENGLISH        "Fusilero"
+
+REFERENCE           WAW_WEAPON_SHOTGUN
+LANG_ENGLISH        "Escopeta M1897"
+
+REFERENCE           WAW_WEAPON_SHOTGUNNER
+LANG_ENGLISH        "Escopetero"
+
+REFERENCE           WAW_WEAPON_SHOTGUN_DOUBLE_BARRELED
+LANG_ENGLISH        "Escopeta de dos cañones"
+
+REFERENCE           WAW_WEAPON_SHOTGUN_DOUBLE_BARRELED_SAWED_GRIP
+LANG_ENGLISH        "Recortada de dos cañones con empuñadura"
+
+REFERENCE           WAW_WEAPON_SHOTGUN_DOUBLE_BARRELED_SAWED_GRIP_UPGRADED
+LANG_ENGLISH        "Caja de rapé"
+
+REFERENCE           WAW_WEAPON_SHOTGUN_DOUBLE_BARRELED_UPGRADED
+LANG_ENGLISH        "Calibre 24 de largo alcance"
+
+REFERENCE           WAW_WEAPON_SHOTGUN_UPGRADED
+LANG_ENGLISH        "Tiro en la barriga"
+
+REFERENCE           WAW_WEAPON_SNIPER
+LANG_ENGLISH        "Francotirador"
+
+REFERENCE           WAW_WEAPON_SPRINGFIELD
+LANG_ENGLISH        "Springfield"
+
+REFERENCE           WAW_WEAPON_SPRINGFIELD_SCOPED_SP
+LANG_ENGLISH        "Springfield con mira óptica"
+
+REFERENCE           "WAW_WEAPON_STG-44"
+LANG_ENGLISH        "STG-44"
+
+REFERENCE           "WAW_WEAPON_STG-44_UPGRADED"
+LANG_ENGLISH        "Spatz-447 +"
+
+REFERENCE           WAW_WEAPON_SUBMACHINEGUNNER
+LANG_ENGLISH        "Subfusilero"
+
+REFERENCE           WAW_WEAPON_SUPPORTGUNNER
+LANG_ENGLISH        "Artillero de apoyo"
+
+REFERENCE           WAW_WEAPON_TESLA_GUN
+LANG_ENGLISH        "Wunderwaffe DG-2"
+
+REFERENCE           WAW_WEAPON_TESLA_GUN_UPGRADED
+LANG_ENGLISH        "Wunderwaffe DG-3 JZ"
+
+REFERENCE           WAW_WEAPON_THOMPSON
+LANG_ENGLISH        "Thompson"
+
+REFERENCE           WAW_WEAPON_THOMPSON_UPGRADED
+LANG_ENGLISH        "Gibs-o-matic"
+
+REFERENCE           WAW_WEAPON_TYPE100_SMG
+LANG_ENGLISH        "Type 100"
+
+REFERENCE           WAW_WEAPON_TYPE100_SMG_UPGRADED
+LANG_ENGLISH        "1.001 samuráis"
+
+REFERENCE           WAW_WEAPON_TYPE99_RIFLE
+LANG_ENGLISH        "Arisaka"
+
+REFERENCE           WAW_WEAPON_TYPE99_RIFLE_SCOPED_SP
+LANG_ENGLISH        "Arisaka con mira óptica"
+
+REFERENCE           WAW_WEAPON_TYPE99_RIFLE_UPGRADED
+LANG_ENGLISH        "El destripador"
+
+REFERENCE           WAW_ZOMBIE_ACTIVATE_TELEPORTER
+LANG_ENGLISH        "Mantén ^3&&1^7 para activar el teletransporte."
+
+REFERENCE           WAW_ZOMBIE_ACTIVATE_TRAP
+LANG_ENGLISH        "Mantén ^3&&1^7 para activar la trampa (coste: 750)."
+
+REFERENCE           WAW_ZOMBIE_AMMO_BOX
+LANG_ENGLISH        "Mantén ^3&&1^7 para comprar munición máxima (cuesta todo lo que tienes; mínimo 10.000)"
+
+REFERENCE           WAW_ZOMBIE_AUTO_TURRET
+LANG_ENGLISH        "Mantén ^3[{+activate}]^7 para activar la torreta automática (coste: &&1)."
+
+REFERENCE           WAW_ZOMBIE_BETTY_ALREADY_PURCHASED
+LANG_ENGLISH        "Ya has adquirido las Bouncing Bettys."
+
+REFERENCE           WAW_ZOMBIE_BETTY_HOWTO
+LANG_ENGLISH        "Pulsa ^3[{+actionslot 4}]^7 y luego ^3[{+attack}]^7 para colocar una Bouncing Betty."
+
+REFERENCE           WAW_ZOMBIE_BETTY_PURCHASE
+LANG_ENGLISH        "Mantén ^3[{+activate}]^7 para comprar Bouncing Bettys (coste: 1.000 - una única vez)."
+
+REFERENCE           WAW_ZOMBIE_BUILD_BRIDGE
+LANG_ENGLISH        "Mantén ^3&&1^7 para construir el puente (coste: 1.000)."
+
+REFERENCE           WAW_ZOMBIE_BUTTON_BUY_BACK_BARRIER_10
+LANG_ENGLISH        "Mantén ^3&&1^7 para volver a comprar la barrera (coste: 10)."
+
+REFERENCE           WAW_ZOMBIE_BUTTON_BUY_BACK_BARRIER_100
+LANG_ENGLISH        "Mantén ^3&&1^7 para volver a comprar la barrera (coste: 100)."
+
+REFERENCE           WAW_ZOMBIE_BUTTON_BUY_BACK_BARRIER_20
+LANG_ENGLISH        "Mantén ^3&&1^7 para volver a comprar la barrera (coste: 20)."
+
+REFERENCE           WAW_ZOMBIE_BUTTON_BUY_BACK_BARRIER_50
+LANG_ENGLISH        "Mantén ^3&&1^7 para volver a comprar la barrera (coste: 50)."
+
+REFERENCE           WAW_ZOMBIE_BUTTON_BUY_CLEAR_DEBRIS_100
+LANG_ENGLISH        "Mantén ^3&&1^7 para quitar los escombros (coste: 100)."
+
+REFERENCE           WAW_ZOMBIE_BUTTON_BUY_CLEAR_DEBRIS_1000
+LANG_ENGLISH        "Mantén ^3&&1^7 para quitar los escombros (coste: 1.000)."
+
+REFERENCE           WAW_ZOMBIE_BUTTON_BUY_CLEAR_DEBRIS_1250
+LANG_ENGLISH        "Mantén ^3&&1^7 para quitar los escombros (coste: 1.250)."
+
+REFERENCE           WAW_ZOMBIE_BUTTON_BUY_CLEAR_DEBRIS_1500
+LANG_ENGLISH        "Mantén ^3&&1^7 para quitar los escombros (coste: 1.500)."
+
+REFERENCE           WAW_ZOMBIE_BUTTON_BUY_CLEAR_DEBRIS_1750
+LANG_ENGLISH        "Mantén ^3&&1^7 para quitar los escombros (coste: 1.750)."
+
+REFERENCE           WAW_ZOMBIE_BUTTON_BUY_CLEAR_DEBRIS_200
+LANG_ENGLISH        "Mantén ^3&&1^7 para quitar los escombros (coste: 200)."
+
+REFERENCE           WAW_ZOMBIE_BUTTON_BUY_CLEAR_DEBRIS_2000
+LANG_ENGLISH        "Mantén ^3&&1^7 para quitar los escombros (coste: 2.000)."
+
+REFERENCE           WAW_ZOMBIE_BUTTON_BUY_CLEAR_DEBRIS_250
+LANG_ENGLISH        "Mantén ^3&&1^7 para quitar los escombros (coste: 250)."
+
+REFERENCE           WAW_ZOMBIE_BUTTON_BUY_CLEAR_DEBRIS_500
+LANG_ENGLISH        "Mantén ^3&&1^7 para quitar los escombros (coste: 500)."
+
+REFERENCE           WAW_ZOMBIE_BUTTON_BUY_CLEAR_DEBRIS_750
+LANG_ENGLISH        "Mantén ^3&&1^7 para quitar los escombros (coste: 750)."
+
+REFERENCE           WAW_ZOMBIE_BUTTON_BUY_OPEN_AREA_100
+LANG_ENGLISH        "Mantén ^3&&1^7 para abrir la zona (coste: 100)."
+
+REFERENCE           WAW_ZOMBIE_BUTTON_BUY_OPEN_AREA_1000
+LANG_ENGLISH        "Mantén ^3&&1^7 para abrir la zona (coste: 1.000)."
+
+REFERENCE           WAW_ZOMBIE_BUTTON_BUY_OPEN_AREA_1250
+LANG_ENGLISH        "Mantén ^3&&1^7 para abrir la zona (coste: 1.250)."
+
+REFERENCE           WAW_ZOMBIE_BUTTON_BUY_OPEN_AREA_1500
+LANG_ENGLISH        "Mantén ^3&&1^7 para abrir la zona (coste: 1.500)."
+
+REFERENCE           WAW_ZOMBIE_BUTTON_BUY_OPEN_AREA_1750
+LANG_ENGLISH        "Mantén ^3&&1^7 para abrir la zona (coste: 1.750)."
+
+REFERENCE           WAW_ZOMBIE_BUTTON_BUY_OPEN_AREA_200
+LANG_ENGLISH        "Mantén ^3&&1^7 para abrir la zona (coste: 200)."
+
+REFERENCE           WAW_ZOMBIE_BUTTON_BUY_OPEN_AREA_2000
+LANG_ENGLISH        "Mantén ^3&&1^7 para abrir la zona (coste: 2.000)."
+
+REFERENCE           WAW_ZOMBIE_BUTTON_BUY_OPEN_AREA_250
+LANG_ENGLISH        "Mantén ^3&&1^7 para abrir la zona (coste: 250)."
+
+REFERENCE           WAW_ZOMBIE_BUTTON_BUY_OPEN_AREA_2500
+LANG_ENGLISH        "Mantén ^3&&1^7 para abrir la zona (coste: 2500)."
+
+REFERENCE           WAW_ZOMBIE_BUTTON_BUY_OPEN_AREA_500
+LANG_ENGLISH        "Mantén ^3&&1^7 para abrir la zona (coste: 500)."
+
+REFERENCE           WAW_ZOMBIE_BUTTON_BUY_OPEN_AREA_750
+LANG_ENGLISH        "Mantén ^3&&1^7 para abrir la zona (coste: 750)."
+
+REFERENCE           WAW_ZOMBIE_BUTTON_BUY_OPEN_DOOR_100
+LANG_ENGLISH        "Mantén ^3&&1^7 para abrir la puerta (coste: 100)."
+
+REFERENCE           WAW_ZOMBIE_BUTTON_BUY_OPEN_DOOR_1000
+LANG_ENGLISH        "Mantén ^3&&1^7 para abrir la puerta (coste: 1.000)."
+
+REFERENCE           WAW_ZOMBIE_BUTTON_BUY_OPEN_DOOR_1250
+LANG_ENGLISH        "Mantén ^3&&1^7 para abrir la puerta (coste: 1.250)."
+
+REFERENCE           WAW_ZOMBIE_BUTTON_BUY_OPEN_DOOR_1500
+LANG_ENGLISH        "Mantén ^3&&1^7 para abrir la puerta (coste: 1.500)."
+
+REFERENCE           WAW_ZOMBIE_BUTTON_BUY_OPEN_DOOR_1750
+LANG_ENGLISH        "Mantén ^3&&1^7 para abrir la puerta (coste: 1.750)."
+
+REFERENCE           WAW_ZOMBIE_BUTTON_BUY_OPEN_DOOR_200
+LANG_ENGLISH        "Mantén ^3&&1^7 para abrir la puerta (coste: 200)."
+
+REFERENCE           WAW_ZOMBIE_BUTTON_BUY_OPEN_DOOR_2000
+LANG_ENGLISH        "Mantén ^3&&1^7 para abrir la puerta (coste: 2.000)."
+
+REFERENCE           WAW_ZOMBIE_BUTTON_BUY_OPEN_DOOR_250
+LANG_ENGLISH        "Mantén ^3&&1^7 para abrir la puerta (coste: 250)."
+
+REFERENCE           WAW_ZOMBIE_BUTTON_BUY_OPEN_DOOR_2500
+LANG_ENGLISH        "Mantén ^3&&1^7 para abrir la puerta (coste: 2.500)."
+
+REFERENCE           WAW_ZOMBIE_BUTTON_BUY_OPEN_DOOR_500
+LANG_ENGLISH        "Mantén ^3&&1^7 para abrir la puerta (coste: 500)."
+
+REFERENCE           WAW_ZOMBIE_BUTTON_BUY_OPEN_DOOR_750
+LANG_ENGLISH        "Mantén ^3&&1^7 para abrir la puerta (coste: 750)."
+
+REFERENCE           WAW_ZOMBIE_BUTTON_NORTH_FLAMES
+LANG_ENGLISH        "Mantén ^3&&1^7 para activar barrera eléctrica (coste: 1.000)."
+
+REFERENCE           WAW_ZOMBIE_BUTTON_REWARD_BARRIER
+LANG_ENGLISH        "Mantén ^3&&1^7 para reconstruir la barrera."
+
+REFERENCE           WAW_ZOMBIE_BUTTON_REWARD_BARRIER_10
+LANG_ENGLISH        "Mantén ^3&&1^7 para reconstruir la barrera (premio: 10)."
+
+REFERENCE           WAW_ZOMBIE_BUTTON_REWARD_BARRIER_20
+LANG_ENGLISH        "Mantén ^3&&1^7 para reconstruir la barrera (premio: 20)."
+
+REFERENCE           WAW_ZOMBIE_BUTTON_REWARD_BARRIER_30
+LANG_ENGLISH        "Mantén ^3&&1^7 para reconstruir la barrera (premio: 30)."
+
+REFERENCE           WAW_ZOMBIE_BUTTON_REWARD_BARRIER_40
+LANG_ENGLISH        "Mantén ^3&&1^7 para reconstruir la barrera (premio: 40)."
+
+REFERENCE           WAW_ZOMBIE_BUTTON_REWARD_BARRIER_50
+LANG_ENGLISH        "Mantén ^3&&1^7 para reconstruir la barrera (premio: 50)."
+
+REFERENCE           WAW_ZOMBIE_BUTTON_SOUTH_FLAMES
+LANG_ENGLISH        "Mantén ^3&&1^7 para activar la barrera de fuego (coste: 500)."
+
+REFERENCE           WAW_ZOMBIE_BUY_TESLA
+LANG_ENGLISH        "Mantén ^3&&1^7 para comprar arma Tesla (coste: 10)."
+
+REFERENCE           WAW_ZOMBIE_CABINET_OPEN_1000
+LANG_ENGLISH        "Mantén ^3&&1^7 para abrir el archivador (coste: 1.000)."
+
+REFERENCE           WAW_ZOMBIE_CABINET_OPEN_1500
+LANG_ENGLISH        "Mantén ^3[{+activate}]^7 para usar el módulo lunar (coste: 1.500)."
+
+REFERENCE           WAW_ZOMBIE_CABINET_OPEN_2000
+LANG_ENGLISH        "Mantén ^3&&1^7 para abrir el archivador (coste: 2.000)."
+
+REFERENCE           WAW_ZOMBIE_CABINET_OPEN_500
+LANG_ENGLISH        "Mantén ^3&&1^7 para abrir el archivador (coste: 500)."
+
+REFERENCE           WAW_ZOMBIE_CLEAR_DEBRIS
+LANG_ENGLISH        "Antes hay que abrir la puerta."
+
+REFERENCE           WAW_ZOMBIE_COAST_ZIPLINE
+LANG_ENGLISH        "Mantén ^3&&1^7 para usar la tirolina (coste: 1.000)."
+
+REFERENCE           WAW_ZOMBIE_COAST_ZIPLINE_ACTIVATE
+LANG_ENGLISH        "Mantén ^3&&1^7 para activar la tirolina."
+
+REFERENCE           WAW_ZOMBIE_COAST_ZIPLINE_WAIT
+LANG_ENGLISH        "Primero hay que activar la tirolina."
+
+REFERENCE           WAW_ZOMBIE_ELECTRIC_SWITCH
+LANG_ENGLISH        "Mantén ^3&&1^7 para conectar la electricidad."
+
+REFERENCE           WAW_ZOMBIE_FLAMES_UNAVAILABLE
+LANG_ENGLISH        "Primero hay que activar la energía."
+
+REFERENCE           WAW_ZOMBIE_GAME_OVER
+LANG_ENGLISH        "FIN DEL JUEGO"
+
+REFERENCE           WAW_ZOMBIE_GET_UPGRADED
+LANG_ENGLISH        "Mantén ^3&&1^7 para coger el arma mejorada."
+
+REFERENCE           WAW_ZOMBIE_INACTIVE_TPAD
+LANG_ENGLISH        "Hay que activar la plataforma de teletransporte."
+
+REFERENCE           WAW_ZOMBIE_INTRO_ASYLUM_LEVEL_BERLIN
+LANG_ENGLISH        "Berlín, Alemania"
+
+REFERENCE           WAW_ZOMBIE_INTRO_ASYLUM_LEVEL_HIMMLER
+LANG_ENGLISH        "Sanatorio de Wittenau "
+
+REFERENCE           WAW_ZOMBIE_INTRO_ASYLUM_LEVEL_SEPTEMBER
+LANG_ENGLISH        "Septiembre de 1945"
+
+REFERENCE           WAW_ZOMBIE_INTRO_FACTORY_LEVEL_DATE
+LANG_ENGLISH        "Fecha: desconocida"
+
+REFERENCE           WAW_ZOMBIE_INTRO_FACTORY_LEVEL_PLACE
+LANG_ENGLISH        "Alrededores de Breslau, Alemania"
+
+REFERENCE           WAW_ZOMBIE_INTRO_FACTORY_LEVEL_TIME
+LANG_ENGLISH        "Hora: desconocida"
+
+REFERENCE           WAW_ZOMBIE_LINK_ACTIVE
+LANG_ENGLISH        "Enlace activado."
+
+REFERENCE           WAW_ZOMBIE_LINK_TPAD
+LANG_ENGLISH        "Mantén ^3&&1^7 para enlazar la plataforma de teletransporte al ordenador central."
+
+REFERENCE           WAW_ZOMBIE_PAY_TURRET
+LANG_ENGLISH        "Mantén ^3[{+activate}]^7 para usar la torreta (coste: &&1)."
+
+REFERENCE           WAW_ZOMBIE_PERK_DOUBLETAP
+LANG_ENGLISH        "Mantén ^3[{+activate}]^7 para comprar Doble tiro (coste: 2.000)."
+
+REFERENCE           WAW_ZOMBIE_PERK_FASTRELOAD
+LANG_ENGLISH        "Mantén ^3[{+activate}]^7 para comprar Cola rápida (coste: 3.000)."
+
+REFERENCE           WAW_ZOMBIE_PERK_GENERIC
+LANG_ENGLISH        "Mantén ^3&&1^7 para comprar "
+
+REFERENCE           WAW_ZOMBIE_PERK_JUGGERNAUT
+LANG_ENGLISH        "Mantén ^3[{+activate}]^7 para comprar Titán (coste: 2.500)."
+
+REFERENCE           WAW_ZOMBIE_PERK_PACKAPUNCH
+LANG_ENGLISH        "Mantén ^3[{+activate}]^7 para comprar mejora de potenciación (coste: 5.000)."
+
+REFERENCE           WAW_ZOMBIE_PERK_QUICKREVIVE
+LANG_ENGLISH        "Mantén ^3[{+activate}]^7 para comprar Reanimación (coste: 1.500)."
+
+REFERENCE           WAW_ZOMBIE_PLAYERZOMBIE_DOWNED
+LANG_ENGLISH        "¡Zombi abatido!"
+
+REFERENCE           WAW_ZOMBIE_POWERUP_DOUBLE_POINTS
+LANG_ENGLISH        "Doble puntuación: "
+
+REFERENCE           WAW_ZOMBIE_POWERUP_INSTA_KILL
+LANG_ENGLISH        "Baja instantánea: "
+
+REFERENCE           WAW_ZOMBIE_POWERUP_MAX_AMMO
+LANG_ENGLISH        "¡Munición máxima!"
+
+REFERENCE           WAW_ZOMBIE_POWERUP_NUKE
+LANG_ENGLISH        "¡Bombazo zombi!"
+
+REFERENCE           WAW_ZOMBIE_POWER_UP_TPAD
+LANG_ENGLISH        "Mantén ^3&&1^7 para iniciar el enlace con el ordenador central."
+
+REFERENCE           WAW_ZOMBIE_PROJ_DOOR
+LANG_ENGLISH        "Mantén ^3&&1^7 para abrir la puerta."
+
+REFERENCE           WAW_ZOMBIE_PROJ_LIFT
+LANG_ENGLISH        "Mantén ^3&&1^7 para activar el elevador (coste: 500)."
+
+REFERENCE           WAW_ZOMBIE_RANDOM_WEAPON_650
+LANG_ENGLISH        "Pulsa ^3&&1^7 para arma aleatoria (coste: 650)."
+
+REFERENCE           WAW_ZOMBIE_RANDOM_WEAPON_750
+LANG_ENGLISH        "Pulsa ^3&&1^7 para arma aleatoria (coste: 750)."
+
+REFERENCE           WAW_ZOMBIE_RANDOM_WEAPON_850
+LANG_ENGLISH        "Pulsa ^3&&1^7 para arma aleatoria (coste: 850)."
+
+REFERENCE           WAW_ZOMBIE_RANDOM_WEAPON_950
+LANG_ENGLISH        "Pulsa ^3&&1^7 para arma aleatoria (coste: 950)."
+
+REFERENCE           WAW_ZOMBIE_ROUND
+LANG_ENGLISH        "Ronda"
+
+REFERENCE           WAW_ZOMBIE_ROUND_BEGIN
+LANG_ENGLISH        "Que comience el ataque"
+
+REFERENCE           WAW_ZOMBIE_ROUND_END
+LANG_ENGLISH        "Has sobrevivido al ataque"
+
+REFERENCE           WAW_ZOMBIE_START_TPAD
+LANG_ENGLISH        "Vuelve al núcleo."
+
+REFERENCE           WAW_ZOMBIE_SURVIVED_ROUND
+LANG_ENGLISH        "Has sobrevivido 1 ronda."
+
+REFERENCE           WAW_ZOMBIE_SURVIVED_ROUNDS
+LANG_ENGLISH        "Has sobrevivido &&1 rondas."
+
+REFERENCE           WAW_ZOMBIE_TELEPORT_COOLDOWN
+LANG_ENGLISH        "El teletransporte se está recuperando."
+
+REFERENCE           WAW_ZOMBIE_TELEPORT_TO_CORE
+LANG_ENGLISH        "Mantén ^3&&1^7 para teletransportarte al ordenador central (coste: 1.500)."
+
+REFERENCE           WAW_ZOMBIE_TRADE_WEAPONS
+LANG_ENGLISH        "Mantén ^3&&1^7 para cambiar de arma."
+
+REFERENCE           WAW_ZOMBIE_TRAP_DOOR
+LANG_ENGLISH        "Mantén ^3&&1^7 para activar la trampilla (coste: 1.000)."
+
+REFERENCE           WAW_ZOMBIE_UNDEFINED
+LANG_ENGLISH        "UNDEFINED!! PLEASE SET THE SCRIPT_HINT ON THE ENT PROPERLY!"
+
+REFERENCE           WAW_ZOMBIE_USE_AUTO_TURRET
+LANG_ENGLISH        "Mantén ^3&&1^7 para activar la torreta de la fuente (coste: 750)."
+
+REFERENCE           WAW_ZOMBIE_USE_TELEPORTER
+LANG_ENGLISH        "Mantén ^3&&1^7 para usar el teletransporte (coste: 1.500)."
+
+REFERENCE           WAW_ZOMBIE_WEAPONCOSTAMMO
+LANG_ENGLISH        "Mantén ^3[{+activate}]^7 arma (&&1), munición (&&2)."
+
+REFERENCE           WAW_ZOMBIE_WEAPONCOSTAMMO_UPGRADE
+LANG_ENGLISH        "Mantén ^3[{+activate}]^7 arma (&&1), munición (&&2),\n             munición mejorada (4.500)."
+
+REFERENCE           WAW_ZOMBIE_WEAPON_30CAL_3000
+LANG_ENGLISH        "Mantén ^3[{+activate}]^7 para comprar Browning M1919 (coste: &&1)."
+
+REFERENCE           WAW_ZOMBIE_WEAPON_30CAL_BIPOD_3500
+LANG_ENGLISH        "Mantén ^3[{+activate}]^7 para comprar Browning M1919 + patas (coste: 3.500)."
+
+REFERENCE           WAW_ZOMBIE_WEAPON_BAR_1800
+LANG_ENGLISH        "Mantén ^3[{+activate}]^7 para comprar BAR (coste: &&1)."
+
+REFERENCE           WAW_ZOMBIE_WEAPON_BAR_BIPOD_2500
+LANG_ENGLISH        "Mantén ^3[{+activate}]^7 para comprar BAR + patas (coste: &&1)."
+
+REFERENCE           WAW_ZOMBIE_WEAPON_BAZOOKA_2000
+LANG_ENGLISH        "Mantén ^3[{+activate}]^7 para comprar Bazuca M9A1 (coste: 2.000)."
+
+REFERENCE           WAW_ZOMBIE_WEAPON_BOWIE_BUY
+LANG_ENGLISH        "Mantén ^3[{+activate}]^7 para comprar cuchillo Bowie (coste: &&1)."
+
+REFERENCE           WAW_ZOMBIE_WEAPON_COLT_50
+LANG_ENGLISH        "Mantén ^3&&1^7 para comprar Colt (coste: 50)."
+
+REFERENCE           WAW_ZOMBIE_WEAPON_COLT_DH_100
+LANG_ENGLISH        "Mantén ^3&&1^7 para comprar Colt pesado (coste: 100)."
+
+REFERENCE           WAW_ZOMBIE_WEAPON_DOUBLEBARREL_1200
+LANG_ENGLISH        "Mantén ^3[{+activate}]^7 para comprar escopeta de dos cañones (coste: &&1)."
+
+REFERENCE           WAW_ZOMBIE_WEAPON_DOUBLEBARREL_SAWED_1200
+LANG_ENGLISH        "Mantén ^3[{+activate}]^7 para comprar escopeta recortada (coste: &&1)."
+
+REFERENCE           WAW_ZOMBIE_WEAPON_DP28_2250
+LANG_ENGLISH        "Mantén ^3[{+activate}]^7 para comprar DP-28 (coste: &&1)."
+
+REFERENCE           WAW_ZOMBIE_WEAPON_DP28_BIPOD_2500
+LANG_ENGLISH        "Mantén ^3[{+activate}]^7 para comprar DP-28 + patas (coste: 2.500)."
+
+REFERENCE           WAW_ZOMBIE_WEAPON_FG42_1500
+LANG_ENGLISH        "Mantén ^3[{+activate}]^7 para comprar FG42 (coste: &&1)."
+
+REFERENCE           WAW_ZOMBIE_WEAPON_FG42_BIPOD_2000
+LANG_ENGLISH        "Mantén ^3[{+activate}]^7 para comprar FG42 + patas (coste: 2.000)."
+
+REFERENCE           WAW_ZOMBIE_WEAPON_FG42_S_1500
+LANG_ENGLISH        "Mantén ^3[{+activate}]^7 para comprar FG42 + mira óptica (coste: 1.500)."
+
+REFERENCE           WAW_ZOMBIE_WEAPON_FRAGGRENADE_250
+LANG_ENGLISH        "Mantén ^3[{+activate}]^7 para comprar granadas de fragmentación M2 (coste: &&1)."
+
+REFERENCE           WAW_ZOMBIE_WEAPON_GEWEHR43_600
+LANG_ENGLISH        "Mantén ^3[{+activate}]^7 para comprar Gewehr 43 (coste: &&1)."
+
+REFERENCE           WAW_ZOMBIE_WEAPON_KAR98K_200
+LANG_ENGLISH        "Mantén ^3[{+activate}]^7 para comprar Kar98k (coste: &&1)."
+
+REFERENCE           WAW_ZOMBIE_WEAPON_KAR98K_B_200
+LANG_ENGLISH        "Mantén ^3[{+activate}]^7 para comprar Kar98k + bayoneta (coste: 200)."
+
+REFERENCE           WAW_ZOMBIE_WEAPON_KAR98K_S_750
+LANG_ENGLISH        "Mantén ^3[{+activate}]^7 para comprar Kar98k + mira óptica (coste: 750)."
+
+REFERENCE           WAW_ZOMBIE_WEAPON_KAR98K_S_B_750
+LANG_ENGLISH        "Mantén ^3[{+activate}]^7 para comprar Kar98k + mira óptica + bayoneta (coste: 750)."
+
+REFERENCE           WAW_ZOMBIE_WEAPON_M1CARBINE_600
+LANG_ENGLISH        "Mantén ^3[{+activate}]^7 para comprar carabina M1 (coste: &&1)."
+
+REFERENCE           WAW_ZOMBIE_WEAPON_M1CARBINE_B_600
+LANG_ENGLISH        "Mantén ^3[{+activate}]^7 para comprar carabina M1 + bayoneta (coste: 600)."
+
+REFERENCE           WAW_ZOMBIE_WEAPON_M1GARAND_600
+LANG_ENGLISH        "Mantén ^3[{+activate}]^7 para comprar M1 Garand (coste: &&1)."
+
+REFERENCE           WAW_ZOMBIE_WEAPON_M1GARAND_B_600
+LANG_ENGLISH        "Mantén ^3[{+activate}]^7 para comprar M1 Garand + bayoneta (coste: 600)."
+
+REFERENCE           WAW_ZOMBIE_WEAPON_M1GARAND_GL_1500
+LANG_ENGLISH        "Mantén ^3[{+activate}]^7 para comprar M1 Garand + granada propulsada (coste: 1.500)."
+
+REFERENCE           WAW_ZOMBIE_WEAPON_M2_FLAMETHROWER_3000
+LANG_ENGLISH        "Mantén ^3[{+activate}]^7 para comprar lanzallamas (coste: 3.000)."
+
+REFERENCE           WAW_ZOMBIE_WEAPON_MG42_3000
+LANG_ENGLISH        "Mantén ^3[{+activate}]^7 para comprar MG42 (coste: &&1)."
+
+REFERENCE           WAW_ZOMBIE_WEAPON_MG42_BIPOD_3500
+LANG_ENGLISH        "Mantén ^3[{+activate}]^7 para comprar MG42 + patas (coste: 3.500)."
+
+REFERENCE           WAW_ZOMBIE_WEAPON_MOLOTOV_200
+LANG_ENGLISH        "Mantén ^3[{+activate}]^7 para comprar Molotov (coste: &&1)."
+
+REFERENCE           WAW_ZOMBIE_WEAPON_MORTARROUND_2000
+LANG_ENGLISH        "Mantén ^3[{+activate}]^7 para comprar munición de mortero (coste: 2.000)."
+
+REFERENCE           WAW_ZOMBIE_WEAPON_MOSIN_200
+LANG_ENGLISH        "Mantén ^3[{+activate}]^7 para comprar Mosin-Nagant (coste: 200)."
+
+REFERENCE           WAW_ZOMBIE_WEAPON_MOSIN_B_200
+LANG_ENGLISH        "Mantén ^3[{+activate}]^7 para comprar Mosin-Nagant (coste: 200)."
+
+REFERENCE           WAW_ZOMBIE_WEAPON_MOSIN_GL_1500
+LANG_ENGLISH        "Mantén ^3[{+activate}]^7 para comprar Mosin-Nagant + granada propulsada (coste: 1.500)."
+
+REFERENCE           WAW_ZOMBIE_WEAPON_MOSIN_S_750
+LANG_ENGLISH        "Mantén ^3[{+activate}]^7 para comprar Mosin-Nagant + mira óptica (coste: 750)."
+
+REFERENCE           WAW_ZOMBIE_WEAPON_MOSIN_S_B_750
+LANG_ENGLISH        "Mantén ^3[{+activate}]^7 para comprar Mosin-Nagant + mira óptica + bayoneta (coste: 750)."
+
+REFERENCE           WAW_ZOMBIE_WEAPON_MP40_1000
+LANG_ENGLISH        "Mantén ^3[{+activate}]^7 para comprar MP40 (coste: &&1)."
+
+REFERENCE           WAW_ZOMBIE_WEAPON_NAMBU_50
+LANG_ENGLISH        "Mantén ^3&&1^7 para comprar Nambu (coste: 50)."
+
+REFERENCE           WAW_ZOMBIE_WEAPON_PANZERSCHREK_2000
+LANG_ENGLISH        "Mantén ^3[{+activate}]^7 para comprar Panzerschrek (coste: 2.000)."
+
+REFERENCE           WAW_ZOMBIE_WEAPON_PPSH_2000
+LANG_ENGLISH        "Mantén ^3[{+activate}]^7 para comprar PPSh-41 (coste: &&1)."
+
+REFERENCE           WAW_ZOMBIE_WEAPON_PTRS41_750
+LANG_ENGLISH        "Mantén ^3[{+activate}]^7 para comprar PTRS-41 (coste: &&1)."
+
+REFERENCE           WAW_ZOMBIE_WEAPON_RAYGUN_10000
+LANG_ENGLISH        "Mantén ^3[{+activate}]^7 para comprar arma de rayos (coste: 10.000)."
+
+REFERENCE           WAW_ZOMBIE_WEAPON_SATCHEL_2000
+LANG_ENGLISH        "Mantén ^3[{+activate}]^7 para comprar carga explosiva (coste: &&1)."
+
+REFERENCE           WAW_ZOMBIE_WEAPON_SHOTGUN_1500
+LANG_ENGLISH        "Mantén ^3[{+activate}]^7 para comprar escopeta M1897 (coste: &&1)."
+
+REFERENCE           WAW_ZOMBIE_WEAPON_SPRINGFIELD_200
+LANG_ENGLISH        "Mantén ^3[{+activate}]^7 para comprar Springfield (coste: &&1)."
+
+REFERENCE           WAW_ZOMBIE_WEAPON_SPRINGFIELD_B_200
+LANG_ENGLISH        "Mantén ^3[{+activate}]^7 para comprar Springfield + bayoneta (coste: 200)."
+
+REFERENCE           WAW_ZOMBIE_WEAPON_SPRINGFIELD_S_750
+LANG_ENGLISH        "Mantén ^3[{+activate}]^7 para comprar Springfield + mira óptica (coste: 750)."
+
+REFERENCE           WAW_ZOMBIE_WEAPON_SPRINGFIELD_S_B_750
+LANG_ENGLISH        "Mantén ^3[{+activate}]^7 para comprar Springfield + mira óptica + bayoneta (coste: 750)."
+
+REFERENCE           WAW_ZOMBIE_WEAPON_STG44_1200
+LANG_ENGLISH        "Mantén ^3[{+activate}]^7 para comprar STG-44 (coste: &&1)."
+
+REFERENCE           WAW_ZOMBIE_WEAPON_STICKGRENADE_250
+LANG_ENGLISH        "Mantén ^3[{+activate}]^7 para comprar granada de mango RGD-33 (coste: &&1)."
+
+REFERENCE           WAW_ZOMBIE_WEAPON_STICKY
+LANG_ENGLISH        "Mantén ^3&&1^7 para comprar granadas adhesivas (coste: 10)."
+
+REFERENCE           WAW_ZOMBIE_WEAPON_STIELHANDGRANATE_250
+LANG_ENGLISH        "Mantén ^3[{+activate}]^7 para comprar Stielhandgranate (coste: &&1)."
+
+REFERENCE           WAW_ZOMBIE_WEAPON_SVT40_600
+LANG_ENGLISH        "Mantén ^3[{+activate}]^7 para comprar SVT-40 (coste: &&1)."
+
+REFERENCE           WAW_ZOMBIE_WEAPON_SW357_100
+LANG_ENGLISH        "Mantén ^3&&1^7 para comprar .357 Magnum (coste: 100)."
+
+REFERENCE           WAW_ZOMBIE_WEAPON_THOMPSON_1200
+LANG_ENGLISH        "Mantén ^3[{+activate}]^7 para comprar Thompson (coste: &&1)."
+
+REFERENCE           WAW_ZOMBIE_WEAPON_TOKAREV_50
+LANG_ENGLISH        "Mantén ^3&&1^7 para comprar Tokarev TT-30 (coste: 50)."
+
+REFERENCE           WAW_ZOMBIE_WEAPON_TYPE100_1000
+LANG_ENGLISH        "Mantén ^3[{+activate}]^7 para comprar Type 100 (coste: &&1)."
+
+REFERENCE           WAW_ZOMBIE_WEAPON_TYPE97FRAG_250
+LANG_ENGLISH        "Mantén ^3[{+activate}]^7 para comprar granada Type 97 (coste: &&1)."
+
+REFERENCE           WAW_ZOMBIE_WEAPON_TYPE99_200
+LANG_ENGLISH        "Mantén ^3[{+activate}]^7 para comprar Arisaka (coste: &&1)."
+
+REFERENCE           WAW_ZOMBIE_WEAPON_TYPE99_B_200
+LANG_ENGLISH        "Mantén ^3[{+activate}]^7 para comprar Type 99 + bayoneta (coste: 200)."
+
+REFERENCE           WAW_ZOMBIE_WEAPON_TYPE99_LMG_1750
+LANG_ENGLISH        "Mantén ^3[{+activate}]^7 para comprar ametralladora ligera Type 99 (coste: &&1)."
+
+REFERENCE           WAW_ZOMBIE_WEAPON_TYPE99_LMG_BIPOD_2250
+LANG_ENGLISH        "Mantén ^3[{+activate}]^7 para comprar ametralladora ligera Type 99 + patas (coste: 2.250)."
+
+REFERENCE           WAW_ZOMBIE_WEAPON_TYPE99_S_750
+LANG_ENGLISH        "Mantén ^3[{+activate}]^7 para comprar Arisaka + mira óptica (coste: 750)."
+
+REFERENCE           WAW_ZOMBIE_WEAPON_TYPE99_S_B_750
+LANG_ENGLISH        "Mantén ^3[{+activate}]^7 para comprar Type 99 + mira óptica + bayoneta (coste: 750)."
+
+REFERENCE           WAW_ZOMBIE_WEAPON_WALTHER_50
+LANG_ENGLISH        "Mantén ^3&&1^7 para comprar Walther P38 (coste: 50)."
+
+REFERENCE           WAW_ZOMBIE_WEAPON_ZOMBIECOLT_25
+LANG_ENGLISH        "Mantén ^3&&1^7 para comprar Colt zombi (coste: 25)."
+
+REFERENCE           WAW_ZOMBIE_ZIPLINE_ACTIVATE
+LANG_ENGLISH        "Mantén ^3&&1^7 para activar la tirolina."
+
+REFERENCE           WAW_ZOMBIE_ZIPLINE_DEACTIVATED
+LANG_ENGLISH        "Hay que activar la tirolina antes de usarla"
+
+REFERENCE           WAW_ZOMBIE_ZIPLINE_USE
+LANG_ENGLISH        "Mantén ^3&&1^7 para activar la tirolina (coste: 1.500)."
+
+ENDMARKER

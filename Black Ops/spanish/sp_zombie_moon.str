@@ -1,0 +1,19 @@
+// Dumped from fastfile "sp_zombie_moon".
+// In their original format the strings might have been separated in multiple files.
+VERSION             "1"
+CONFIG              "C:/projects/cod/t5/bin/StringEd.cfg"
+FILENOTES           ""
+
+REFERENCE           ZOMBIE_MOON_DISABLE_DIGGER
+LANG_ENGLISH        "Mantén ^3[{+activate}]^7 para piratear la excavadora."
+
+REFERENCE           ZOMBIE_MOON_HACKING_DIGGER
+LANG_ENGLISH        "Pirateando"
+
+REFERENCE           ZOMBIE_MOON_NO_HACK
+LANG_ENGLISH        "Puesto excavador inactivo"
+
+REFERENCE           ZOMBIE_MOON_SYSTEM_ONLINE
+LANG_ENGLISH        "Acceso denegado: anulación de seguridad necesaria"
+
+ENDMARKER

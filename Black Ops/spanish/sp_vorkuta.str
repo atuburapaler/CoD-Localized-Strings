@@ -1,0 +1,1042 @@
+// Dumped from fastfile "sp_vorkuta".
+// In their original format the strings might have been separated in multiple files.
+VERSION             "1"
+CONFIG              "C:/projects/cod/t5/bin/StringEd.cfg"
+FILENOTES           ""
+
+REFERENCE           VORKUTA_BIKE_JUMP_LETGO
+LANG_ENGLISH        "Pulsa ^3[{+gostand}]^7 para saltar."
+
+REFERENCE           VORKUTA_BIKE_LEFT_TRIG
+LANG_ENGLISH        "Pulsa ^3[{+speed_throw}]^7 para disparar."
+
+REFERENCE           VORKUTA_BIKE_RIGHT_TRIG
+LANG_ENGLISH        "Pulsa ^3[{+attack}]^7 para acelerar."
+
+REFERENCE           VORKUTA_BIKE_SPEED_WARNING
+LANG_ENGLISH        "Vas demasiado lento para escapar, ¡date prisa!"
+
+REFERENCE           VORKUTA_BIKE_STEER
+LANG_ENGLISH        " para dirigir.\n"
+
+REFERENCE           VORKUTA_BUTTON_OPEN_DOOR
+LANG_ENGLISH        "Mantén ^3[{+activate}]^7 para abrir la puerta."
+
+REFERENCE           VORKUTA_DIRECTIONAL_WARNING1
+LANG_ENGLISH        "¡Te equivocas de camino, sigue a Reznov!"
+
+REFERENCE           VORKUTA_DIRECTIONAL_WARNING2
+LANG_ENGLISH        "¡Por ahí no! ¡Cíñete al plan y sigue a Reznov!"
+
+REFERENCE           VORKUTA_DIRECTIONAL_WARNING3
+LANG_ENGLISH        "¡Sigue a Reznov o te atraparán!"
+
+REFERENCE           VORKUTA_GENERIC_FAIL
+LANG_ENGLISH        "No has logrado seguir el plan de huida."
+
+REFERENCE           VORKUTA_HINT_GL
+LANG_ENGLISH        "Pulsa ^3[{+actionslot 3}]^7 para usar el lanzagranadas GP25."
+
+REFERENCE           VORKUTA_INTROSCREEN_DATE
+LANG_ENGLISH        "^L06:00,^L ^C16 de octubre de 1963^C"
+
+REFERENCE           VORKUTA_INTROSCREEN_EXTRA
+LANG_ENGLISH        "^LTransmisión núm. 9-19. Designación: ROMEO^L"
+
+REFERENCE           VORKUTA_INTROSCREEN_PLACE
+LANG_ENGLISH        "^LPero el paradero exacto de^L ^C1Mason^C ^Lse desconoce^L"
+
+REFERENCE           VORKUTA_INTROSCREEN_TITLE
+LANG_ENGLISH        "^LSospechamos que está retenido en el campo de trabajo de ^L ^C1Vorkuta^C ^L, en la^L ^C1URSS^C"
+
+REFERENCE           VORKUTA_KILL_GUARD
+LANG_ENGLISH        "^3[{+melee}]^7 para aplastar"
+
+REFERENCE           VORKUTA_KNIFE_HINT
+LANG_ENGLISH        "Pulsa ^3[{+melee}]^7 para usar el cuchillo."
+
+REFERENCE           VORKUTA_OBJ_DEACTIVATE_DOOR
+LANG_ENGLISH        "Desactiva la puerta de seguridad"
+
+REFERENCE           VORKUTA_OBJ_FOLLOW
+LANG_ENGLISH        "Sigue"
+
+REFERENCE           VORKUTA_OBJ_GET_TO_ARMORY
+LANG_ENGLISH        "Ve al arsenal"
+
+REFERENCE           VORKUTA_OBJ_GLOBAL
+LANG_ENGLISH        "Escapa de Vorkuta"
+
+REFERENCE           VORKUTA_OBJ_JUMP_ON_TRUCK
+LANG_ENGLISH        "Salta al camión"
+
+REFERENCE           VORKUTA_OBJ_MINI_GUN
+LANG_ENGLISH        "Consigue el cañón automático"
+
+REFERENCE           VORKUTA_OBJ_OBTAIN_SHOTGUN
+LANG_ENGLISH        "Consigue una escopeta"
+
+REFERENCE           VORKUTA_OBJ_PROTECT
+LANG_ENGLISH        "Protege"
+
+REFERENCE           VORKUTA_OBJ_PROTECT_REZNOV
+LANG_ENGLISH        "Protege a Reznov"
+
+REFERENCE           VORKUTA_OBJ_SHOOT_LOCK
+LANG_ENGLISH        "Dispara a la cerradura"
+
+REFERENCE           VORKUTA_OBJ_STEP_1
+LANG_ENGLISH        "Paso 1: hazte con las llaves"
+
+REFERENCE           VORKUTA_OBJ_STEP_2
+LANG_ENGLISH        "Paso 2: asciende de la oscuridad"
+
+REFERENCE           VORKUTA_OBJ_STEP_3
+LANG_ENGLISH        "Paso 3: lluvia de fuego"
+
+REFERENCE           VORKUTA_OBJ_STEP_4
+LANG_ENGLISH        "Paso 4: libera la horda"
+
+REFERENCE           VORKUTA_OBJ_STEP_5
+LANG_ENGLISH        "Paso 5: ensarta a la bestia alada"
+
+REFERENCE           VORKUTA_OBJ_STEP_6
+LANG_ENGLISH        "Paso 6: con puño de hierro"
+
+REFERENCE           VORKUTA_OBJ_STEP_7
+LANG_ENGLISH        "Paso 7: libera el infierno"
+
+REFERENCE           VORKUTA_OBJ_STEP_8
+LANG_ENGLISH        "Paso 8: libertad"
+
+REFERENCE           VORKUTA_OBJ_TARGET
+LANG_ENGLISH        "Blanco"
+
+REFERENCE           VORKUTA_OMAHA_FAIL_1
+LANG_ENGLISH        "Usa el vagón de carbón como protección."
+
+REFERENCE           VORKUTA_OMAHA_FAIL_2
+LANG_ENGLISH        "Quédate tras el vagón de carbón."
+
+REFERENCE           VORKUTA_PRISONER_RANK
+LANG_ENGLISH        "Prisionero &&1"
+
+REFERENCE           VORKUTA_PUNCH_REZ
+LANG_ENGLISH        "^3[{+attack}]^7 para dar un puñetazo"
+
+REFERENCE           VORKUTA_SERGEI_DOOR_FAIL
+LANG_ENGLISH        "No has logrado escapar."
+
+REFERENCE           VORKUTA_SLING_HINT
+LANG_ENGLISH        "Mueve hacia atrás  para preparar la honda y suelta para disparar."
+
+REFERENCE           VORKUTA_SPEED_FAIL
+LANG_ENGLISH        "No has logrado seguir a Reznov."
+
+REFERENCE           VORKUTA_TRUCK_JUMP_FAIL
+LANG_ENGLISH        "¡El camión ha escapado!"
+
+REFERENCE           VORKUTA_VOX_VOR1_S1_001A_REZN
+LANG_ENGLISH        "^1REZNOV: ^7¡Aaaargh!"
+
+REFERENCE           VORKUTA_VOX_VOR1_S1_001B_REZN
+LANG_ENGLISH        "^1REZNOV: ^7Demos un buen espectáculo."
+
+REFERENCE           VORKUTA_VOX_VOR1_S1_005A_REZN_M
+LANG_ENGLISH        "^1REZNOV: ^7Ya caerá, americano."
+
+REFERENCE           VORKUTA_VOX_VOR1_S1_009A_REZN_M
+LANG_ENGLISH        "^1REZNOV: ^7¡Eh, Svoloch!"
+
+REFERENCE           VORKUTA_VOX_VOR1_S1_011A_MASO
+LANG_ENGLISH        "^1MASON: ^7Reznov..."
+
+REFERENCE           VORKUTA_VOX_VOR1_S1_012A_REZN_M
+LANG_ENGLISH        "^1REZNOV: ^7¡Mason...!"
+
+REFERENCE           VORKUTA_VOX_VOR1_S1_013A_REZN_M
+LANG_ENGLISH        "^1REZNOV: ^7Todos los viajes empiezan con un primer paso..."
+
+REFERENCE           VORKUTA_VOX_VOR1_S1_014A_REZN_M
+LANG_ENGLISH        "^1REZNOV: ^7¡Este... es el paso uno!"
+
+REFERENCE           VORKUTA_VOX_VOR1_S1_015A_CROW_M
+LANG_ENGLISH        "^1CROWD: ^7¡Hacerse con las llaves!"
+
+REFERENCE           VORKUTA_VOX_VOR1_S1_016A_REZN
+LANG_ENGLISH        "^1REZNOV: ^7Cada hombre sabe lo que se espera de él... ¡Todos deben cumplir su parte!"
+
+REFERENCE           VORKUTA_VOX_VOR1_S1_017A_REZN_M
+LANG_ENGLISH        "^1REZNOV: ^7¡Vamos a tomar Vorkuta!"
+
+REFERENCE           VORKUTA_VOX_VOR1_S1_019A_REZN
+LANG_ENGLISH        "^1REZNOV: ^7¿Cuál es el paso dos?"
+
+REFERENCE           VORKUTA_VOX_VOR1_S1_020A_CROW
+LANG_ENGLISH        "^1CROWD: ^7¡Ascender de la oscuridad!"
+
+REFERENCE           VORKUTA_VOX_VOR1_S1_021A_REZN
+LANG_ENGLISH        "^1REZNOV: ^7¿Tres?"
+
+REFERENCE           VORKUTA_VOX_VOR1_S1_022A_CROW
+LANG_ENGLISH        "^1CROWD: ^7¡Lluvia de fuego!"
+
+REFERENCE           VORKUTA_VOX_VOR1_S1_023A_REZN
+LANG_ENGLISH        "^1REZNOV: ^7¿Cuatro?"
+
+REFERENCE           VORKUTA_VOX_VOR1_S1_024A_CROW
+LANG_ENGLISH        "^1CROWD: ^7¡Liberar la horda!"
+
+REFERENCE           VORKUTA_VOX_VOR1_S1_025A_REZN
+LANG_ENGLISH        "^1REZNOV: ^7¿Cinco?"
+
+REFERENCE           VORKUTA_VOX_VOR1_S1_026A_CROW
+LANG_ENGLISH        "^1CROWD: ^7¡Ensartar a la bestia alada!"
+
+REFERENCE           VORKUTA_VOX_VOR1_S1_027A_REZN
+LANG_ENGLISH        "^1REZNOV: ^7¿Seis?"
+
+REFERENCE           VORKUTA_VOX_VOR1_S1_028A_CROW
+LANG_ENGLISH        "^1CROWD: ^7¡Con puño de hierro!"
+
+REFERENCE           VORKUTA_VOX_VOR1_S1_029A_REZN
+LANG_ENGLISH        "^1REZNOV: ^7¿Siete?"
+
+REFERENCE           VORKUTA_VOX_VOR1_S1_030A_CROW
+LANG_ENGLISH        "^1CROWD: ^7¡Armar la gorda!"
+
+REFERENCE           VORKUTA_VOX_VOR1_S1_031A_REZN
+LANG_ENGLISH        "^1REZNOV: ^7¡Sergei!"
+
+REFERENCE           VORKUTA_VOX_VOR1_S1_032A_REZN_M
+LANG_ENGLISH        "^1REZNOV: ^7Permítame presentarle a Sergei Kozin, el monstruo de Magadan."
+
+REFERENCE           VORKUTA_VOX_VOR1_S1_032B_REZN_M
+LANG_ENGLISH        "^1REZNOV: ^7Permítame presentarle a Sergei Kozin, el monstruo de Magadan."
+
+REFERENCE           VORKUTA_VOX_VOR1_S1_033A_MASO
+LANG_ENGLISH        "^1MASON: ^7Me alegro de ser su amigo, Sergei."
+
+REFERENCE           VORKUTA_VOX_VOR1_S1_035A_REZN_M
+LANG_ENGLISH        "^1REZNOV: ^7Sergei se burló de Dragovich ante quien no debía..."
+
+REFERENCE           VORKUTA_VOX_VOR1_S1_036A_REZN_M
+LANG_ENGLISH        "^1REZNOV: ^7Por su insolencia, Dragovich le cortó la lengua con una hoz oxidada..."
+
+REFERENCE           VORKUTA_VOX_VOR1_S1_600A_MASO_M
+LANG_ENGLISH        "^1MASON: ^7¡Joder! ¿Me tenía que dar tan fuerte?"
+
+REFERENCE           VORKUTA_VOX_VOR1_S1_900A_INTE
+LANG_ENGLISH        "^1INTERROGATOR: ^7Viktor Reznov."
+
+REFERENCE           VORKUTA_VOX_VOR1_S1_902A_MASO
+LANG_ENGLISH        "^1MASON: ^7Amigo mío."
+
+REFERENCE           VORKUTA_VOX_VOR1_S1_903A_MASO
+LANG_ENGLISH        "^1MASON: ^7No podía respirar por el gas lacrimógeno."
+
+REFERENCE           VORKUTA_VOX_VOR1_S1_904A_INTE
+LANG_ENGLISH        "^1INTERROGADOR: ^7¿Viktor Reznov seguía con usted?"
+
+REFERENCE           VORKUTA_VOX_VOR1_S1_906A_MASO
+LANG_ENGLISH        "^1MASON: ^7Nunca me dejó."
+
+REFERENCE           VORKUTA_VOX_VOR1_S1_907A_INTE
+LANG_ENGLISH        "^1INTERROGATOR: ^7¿Y fue la última vez que vio a Viktor Reznov?"
+
+REFERENCE           VORKUTA_VOX_VOR1_S1_909A_MASO
+LANG_ENGLISH        "^1MASON: ^7Sí. Durante un tiempo..."
+
+REFERENCE           VORKUTA_VOX_VOR1_S2_037A_RRD4
+LANG_ENGLISH        "^1RUSSIAN PRISONER: ^7¡Hágalo, Reznov!"
+
+REFERENCE           VORKUTA_VOX_VOR1_S2_038A_RRD4
+LANG_ENGLISH        "^1RUSSIAN PRISONER: ^7¡Vamos! ¡Deprisa!"
+
+REFERENCE           VORKUTA_VOX_VOR1_S2_039A_REZN_M
+LANG_ENGLISH        "^1REZNOV: ^7Paciencia. ¡Paciencia, camaradas! Todo va según Mason y yo habíamos planeado."
+
+REFERENCE           VORKUTA_VOX_VOR1_S2_040A_REZN_M
+LANG_ENGLISH        "^1REZNOV: ^7¿Paso dos?"
+
+REFERENCE           VORKUTA_VOX_VOR1_S2_041A_CROW
+LANG_ENGLISH        "^1CROWD: ^7¡Ascender de la oscuridad!"
+
+REFERENCE           VORKUTA_VOX_VOR1_S2_042A_RRD2_M
+LANG_ENGLISH        "^1RUSSIAN PRISONER: ^7Reznov, ¿seguro que este americano es de fiar?"
+
+REFERENCE           VORKUTA_VOX_VOR1_S2_043A_REZN_M
+LANG_ENGLISH        "^1REZNOV: ^7Completamente."
+
+REFERENCE           VORKUTA_VOX_VOR1_S2_044A_REZN_M
+LANG_ENGLISH        "^1REZNOV: ^7No somos tan distintos... Fíense de Mason como se fiarían de mí."
+
+REFERENCE           VORKUTA_VOX_VOR1_S2_045A_REZN_M
+LANG_ENGLISH        "^1REZNOV: ^7Traicionados. Olvidados. Abandonados."
+
+REFERENCE           VORKUTA_VOX_VOR1_S2_046A_REZN_M
+LANG_ENGLISH        "^1REZNOV: ^7En Vorkuta, TODOS somos hermanos... Mason y yo somos iguales."
+
+REFERENCE           VORKUTA_VOX_VOR1_S2_047A_REZN
+LANG_ENGLISH        "^1REZNOV: ^7Mason. ¡Venga!"
+
+REFERENCE           VORKUTA_VOX_VOR1_S2_048A_MASO
+LANG_ENGLISH        "^1MASON: ^7Sus hombres deben de saber que esto es un suicidio."
+
+REFERENCE           VORKUTA_VOX_VOR1_S2_049A_REZN
+LANG_ENGLISH        "^1REZNOV: ^7La victoria no puede lograrse sin sacrificios, Mason..."
+
+REFERENCE           VORKUTA_VOX_VOR1_S2_050A_REZN
+LANG_ENGLISH        "^1REZNOV: ^7Los rusos lo sabemos mejor que nadie."
+
+REFERENCE           VORKUTA_VOX_VOR1_S2_051A_REZN
+LANG_ENGLISH        "^1REZNOV: ^7¡Prepárense!"
+
+REFERENCE           VORKUTA_VOX_VOR1_S2_054A_REZN_M
+LANG_ENGLISH        "^1REZNOV: ^7Atrás, Mason... ¡Espere a que el balcón esté despejado!"
+
+REFERENCE           VORKUTA_VOX_VOR1_S2_602A_REZN
+LANG_ENGLISH        "^1REZNOV: ^7Mason, coja el arma."
+
+REFERENCE           VORKUTA_VOX_VOR1_S3_055A_RRD2
+LANG_ENGLISH        "^1RUSSIAN PRISONER: ^7¡La torre nos va a hacer pedazos!"
+
+REFERENCE           VORKUTA_VOX_VOR1_S3_056A_REZN
+LANG_ENGLISH        "^1REZNOV: ^7¡Tenga fe, camarada!"
+
+REFERENCE           VORKUTA_VOX_VOR1_S3_057A_REZN
+LANG_ENGLISH        "^1REZNOV: ^7¡Mason, por aquí!"
+
+REFERENCE           VORKUTA_VOX_VOR1_S3_058A_REZN
+LANG_ENGLISH        "^1REZNOV: ^7¿Paso tres?"
+
+REFERENCE           VORKUTA_VOX_VOR1_S3_059A_MASO
+LANG_ENGLISH        "^1MASON: ^7¡Lluvia de fuego!"
+
+REFERENCE           VORKUTA_VOX_VOR1_S3_060A_REZN
+LANG_ENGLISH        "^1REZNOV: ^7El ingenio de Mason convierte la chatarra en armas..."
+
+REFERENCE           VORKUTA_VOX_VOR1_S3_062A_REZN
+LANG_ENGLISH        "^1REZNOV: ^7¡Ura! Nunca pierdan la fe, amigos... ¡Nunca!"
+
+REFERENCE           VORKUTA_VOX_VOR1_S3_063A_REZN
+LANG_ENGLISH        "^1REZNOV: ^7¡Vamos!"
+
+REFERENCE           VORKUTA_VOX_VOR1_S3_064A_REZN
+LANG_ENGLISH        "^1REZNOV: ^7¡Mason, cúbrase!"
+
+REFERENCE           VORKUTA_VOX_VOR1_S3_065A_REZN
+LANG_ENGLISH        "^1REZNOV: ^7¡Adelante!"
+
+REFERENCE           VORKUTA_VOX_VOR1_S3_066A_REZN
+LANG_ENGLISH        "^1REZNOV: ^7¡Flanco izquierdo!"
+
+REFERENCE           VORKUTA_VOX_VOR1_S3_067A_REZN
+LANG_ENGLISH        "^1REZNOV: ^7¡Flanco derecho!"
+
+REFERENCE           VORKUTA_VOX_VOR1_S3_068A_REZN
+LANG_ENGLISH        "^1REZNOV: ^7¡Allí! ¡La enfermería!"
+
+REFERENCE           VORKUTA_VOX_VOR1_S3_069A_REZN
+LANG_ENGLISH        "^1REZNOV: ^7¡En la planta procesadora!"
+
+REFERENCE           VORKUTA_VOX_VOR1_S3_070A_REZN
+LANG_ENGLISH        "^1REZNOV: ^7¡Todos los camaradas apoyarán nuestra causa en Vorkuta!"
+
+REFERENCE           VORKUTA_VOX_VOR1_S3_071A_REZN
+LANG_ENGLISH        "^1REZNOV: ^7¡Sí! ¡Sí, amigos!"
+
+REFERENCE           VORKUTA_VOX_VOR1_S3_072A_REZN
+LANG_ENGLISH        "^1REZNOV: ^7Meses de planificación, Mason."
+
+REFERENCE           VORKUTA_VOX_VOR1_S3_073A_REZN
+LANG_ENGLISH        "^1REZNOV: ^7No nos detendremos."
+
+REFERENCE           VORKUTA_VOX_VOR1_S3_074A_REZN
+LANG_ENGLISH        "^1REZNOV: ^7No desfalleceremos."
+
+REFERENCE           VORKUTA_VOX_VOR1_S3_075A_REZN
+LANG_ENGLISH        "^1REZNOV: ^7Seremos libres... ¡o moriremos!"
+
+REFERENCE           VORKUTA_VOX_VOR1_S3_076A_REZN
+LANG_ENGLISH        "^1REZNOV: ^7¡Por aquí!"
+
+REFERENCE           VORKUTA_VOX_VOR1_S3_077A_REZN_M
+LANG_ENGLISH        "^1REZNOV: ^7¡Sergei, rompa los armarios de las armas!"
+
+REFERENCE           VORKUTA_VOX_VOR1_S3_078A_REZN_M
+LANG_ENGLISH        "^1REZNOV: ^7¡Mason, suba a la torre y apoye el levantamiento del sur!"
+
+REFERENCE           VORKUTA_VOX_VOR1_S3_079A_MASO
+LANG_ENGLISH        "^1MASON: ^7¿Y usted, Reznov?"
+
+REFERENCE           VORKUTA_VOX_VOR1_S3_080A_REZN_M
+LANG_ENGLISH        "^1REZNOV: ^7Para que el plan funcione, todos debemos cumplir nuestro papel."
+
+REFERENCE           VORKUTA_VOX_VOR1_S3_081A_MASO
+LANG_ENGLISH        "^1MASON: ^7Paso cuatro... Liberar la horda."
+
+REFERENCE           VORKUTA_VOX_VOR1_S3_082A_REZN_M
+LANG_ENGLISH        "^1REZNOV: ^7¡Reuniré a los hombres!"
+
+REFERENCE           VORKUTA_VOX_VOR1_S3_083A_REZN_F
+LANG_ENGLISH        "^1REZNOV: ^7Valientes camaradas de Vorkuta, ¡ha llegado la hora de rebelarnos contra nuestros opresores!"
+
+REFERENCE           VORKUTA_VOX_VOR1_S3_084A_REZN_F
+LANG_ENGLISH        "^1REZNOV: ^7¡Hoy podrán ver el corazón de los auténticos rusos!"
+
+REFERENCE           VORKUTA_VOX_VOR1_S3_085A_REZN_F
+LANG_ENGLISH        "^1REZNOV: ^7Todos hemos derramado sangre por la Madre Patria."
+
+REFERENCE           VORKUTA_VOX_VOR1_S3_086A_REZN_F
+LANG_ENGLISH        "^1REZNOV: ^7Hemos respondido a sus llamadas sin cuestionarlas."
+
+REFERENCE           VORKUTA_VOX_VOR1_S3_087A_REZN_F
+LANG_ENGLISH        "^1REZNOV: ^7Hemos dado nuestra juventud, incluso nuestras almas, para protegerla..."
+
+REFERENCE           VORKUTA_VOX_VOR1_S3_088A_REZN_F
+LANG_ENGLISH        "^1REZNOV: ^7Como hermanos, hemos luchado unidos contra los fascistas alemanes."
+
+REFERENCE           VORKUTA_VOX_VOR1_S3_089A_REZN_F
+LANG_ENGLISH        "^1REZNOV: ^7Nos hemos arrastrado entre tierra y sangre para conseguir una gloriosa victoria..."
+
+REFERENCE           VORKUTA_VOX_VOR1_S3_090A_REZN_F
+LANG_ENGLISH        "^1REZNOV: ^7No por medallas ni por gloria, sino por lo correcto."
+
+REFERENCE           VORKUTA_VOX_VOR1_S3_091A_REZN_F
+LANG_ENGLISH        "^1REZNOV: ^7Luchamos para vengarnos..."
+
+REFERENCE           VORKUTA_VOX_VOR1_S3_092A_REZN_F
+LANG_ENGLISH        "^1REZNOV: ^7Y, cuando Berlín cayó, ¿cómo nos pagaron nuestros líderes?"
+
+REFERENCE           VORKUTA_VOX_VOR1_S3_093A_REZN_F
+LANG_ENGLISH        "^1REZNOV: ^7No nos encontramos con una gran bienvenida... sino con sospechas y persecución."
+
+REFERENCE           VORKUTA_VOX_VOR1_S3_094A_REZN_F
+LANG_ENGLISH        "^1REZNOV: ^7Para nuestros líderes, habíamos quedado ensuciados por el capitalismo occidental."
+
+REFERENCE           VORKUTA_VOX_VOR1_S3_095A_REZN_F
+LANG_ENGLISH        "^1REZNOV: ^7Alejados de nuestros seres queridos, nos encontramos aquí..."
+
+REFERENCE           VORKUTA_VOX_VOR1_S3_096A_REZN_F
+LANG_ENGLISH        "^1REZNOV: ^7En este lugar... En este terrible lugar..."
+
+REFERENCE           VORKUTA_VOX_VOR1_S3_097A_REZN_F
+LANG_ENGLISH        "^1REZNOV: ^7Aquí hemos languidecido sin esperanza de liberación... Sin esperanza de justicia."
+
+REFERENCE           VORKUTA_VOX_VOR1_S3_098A_REZN_F
+LANG_ENGLISH        "^1REZNOV: ^7Hemos trabajado en las minas de Dragovich hasta despellejarnos las manos..."
+
+REFERENCE           VORKUTA_VOX_VOR1_S3_099A_REZN_F
+LANG_ENGLISH        "^1REZNOV: ^7Hemos visto a nuestros camaradas sucumbir a las enfermedades..."
+
+REFERENCE           VORKUTA_VOX_VOR1_S3_100A_REZN_F
+LANG_ENGLISH        "^1REZNOV: ^7Hemos sufrido hambre, palizas... ¡Pero no cederemos ante ellos!"
+
+REFERENCE           VORKUTA_VOX_VOR1_S3_101A_REZN_F
+LANG_ENGLISH        "^1REZNOV: ^7Hoy enviaremos un mensaje a nuestros arrogantes y corruptos líderes."
+
+REFERENCE           VORKUTA_VOX_VOR1_S3_102A_REZN_F
+LANG_ENGLISH        "^1REZNOV: ^7No volverán a vivir en una comodidad basada en el trabajo del pueblo."
+
+REFERENCE           VORKUTA_VOX_VOR1_S3_103A_REZN_F
+LANG_ENGLISH        "^1REZNOV: ^7Ya no volverán a aplastar a la buena gente."
+
+REFERENCE           VORKUTA_VOX_VOR1_S3_104A_REZN_F
+LANG_ENGLISH        "^1REZNOV: ^7Ellos también caerán..."
+
+REFERENCE           VORKUTA_VOX_VOR1_S3_105A_REZN_F
+LANG_ENGLISH        "^1REZNOV: ^7No podrán olvidarnos."
+
+REFERENCE           VORKUTA_VOX_VOR1_S3_106A_REZN_F
+LANG_ENGLISH        "^1REZNOV: ^7Hoy, camaradas..."
+
+REFERENCE           VORKUTA_VOX_VOR1_S3_107A_REZN_F
+LANG_ENGLISH        "^1REZNOV: ^7Vorkuta... ¡ARDERÁ!"
+
+REFERENCE           VORKUTA_VOX_VOR1_S3_108A_RRD3
+LANG_ENGLISH        "^1RUSSIAN PRISONER: ^7¡Preparen la honda!"
+
+REFERENCE           VORKUTA_VOX_VOR1_S3_109A_RRD3
+LANG_ENGLISH        "^1RUSSIAN PRISONER: ^7¡Mason, vamos!"
+
+REFERENCE           VORKUTA_VOX_VOR1_S3_110A_RRD3
+LANG_ENGLISH        "^1RUSSIAN PRISONER: ^7¡Sufrimos bajas! ¡Corra!"
+
+REFERENCE           VORKUTA_VOX_VOR1_S3_111A_RRD3
+LANG_ENGLISH        "^1RUSSIAN PRISONER: ^7¡Mason, deprisa! ¡No podrán aguantar mucho más!"
+
+REFERENCE           VORKUTA_VOX_VOR1_S3_112A_RRD3
+LANG_ENGLISH        "^1RUSSIAN PRISONER: ^7¡Deprisa, Mason! ¡Lo necesitan!"
+
+REFERENCE           VORKUTA_VOX_VOR1_S3_113A_RRD3
+LANG_ENGLISH        "^1RUSSIAN PRISONER: ^7¡Dispare!"
+
+REFERENCE           VORKUTA_VOX_VOR1_S3_114A_RRD3
+LANG_ENGLISH        "^1RUSSIAN PRISONER: ^7¡Recargue!"
+
+REFERENCE           VORKUTA_VOX_VOR1_S3_115A_RRD3
+LANG_ENGLISH        "^1RUSSIAN PRISONER: ^7¡Al sur!"
+
+REFERENCE           VORKUTA_VOX_VOR1_S3_116A_MASO
+LANG_ENGLISH        "^1MASON: ^7¡Le he dado!"
+
+REFERENCE           VORKUTA_VOX_VOR1_S3_117A_RRD3
+LANG_ENGLISH        "^1RUSSIAN PRISONER: ^7¡En la central eléctrica!"
+
+REFERENCE           VORKUTA_VOX_VOR1_S3_118A_MASO
+LANG_ENGLISH        "^1MASON: ^7¡Es mío!"
+
+REFERENCE           VORKUTA_VOX_VOR1_S3_119A_RRD3
+LANG_ENGLISH        "^1RUSSIAN PRISONER: ^7¡En la torre de guardia!"
+
+REFERENCE           VORKUTA_VOX_VOR1_S3_120A_MASO
+LANG_ENGLISH        "^1MASON: ^7¡Ya lo veo!"
+
+REFERENCE           VORKUTA_VOX_VOR1_S3_121A_RRD3
+LANG_ENGLISH        "^1RUSSIAN PRISONER: ^7¡En los barracones, enfrente!"
+
+REFERENCE           VORKUTA_VOX_VOR1_S3_122A_MASO
+LANG_ENGLISH        "^1MASON: ^7Ya no."
+
+REFERENCE           VORKUTA_VOX_VOR1_S3_123A_RRD3
+LANG_ENGLISH        "^1RUSSIAN PRISONER: ^7¡Veo uno! ¡En los silos!"
+
+REFERENCE           VORKUTA_VOX_VOR1_S3_124A_MASO
+LANG_ENGLISH        "^1MASON: ^7¡Voy!"
+
+REFERENCE           VORKUTA_VOX_VOR1_S3_125A_RRD3
+LANG_ENGLISH        "^1RUSSIAN PRISONER: ^7¡Ahí hay otro! ¡En la ventana oeste!"
+
+REFERENCE           VORKUTA_VOX_VOR1_S3_126A_MASO
+LANG_ENGLISH        "^1MASON: ^7Fuego."
+
+REFERENCE           VORKUTA_VOX_VOR1_S3_127A_RRD3
+LANG_ENGLISH        "^1RUSSIAN PRISONER: ^7¡La fábrica! ¡Allí, en el tejado!"
+
+REFERENCE           VORKUTA_VOX_VOR1_S3_128A_MASO
+LANG_ENGLISH        "^1MASON: ^7¡Lo tengo!"
+
+REFERENCE           VORKUTA_VOX_VOR1_S3_129A_RRD3
+LANG_ENGLISH        "^1RUSSIAN PRISONER: ^7Al otro extremo. ¡La torre de guardia!"
+
+REFERENCE           VORKUTA_VOX_VOR1_S3_130A_MASO
+LANG_ENGLISH        "^1MASON: ^7Liquidado."
+
+REFERENCE           VORKUTA_VOX_VOR1_S3_131A_RRD3
+LANG_ENGLISH        "^1RUSSIAN PRISONER: ^7¡A la izquierda!"
+
+REFERENCE           VORKUTA_VOX_VOR1_S3_132A_RRD3
+LANG_ENGLISH        "^1RUSSIAN PRISONER: ^7¡A la derecha!"
+
+REFERENCE           VORKUTA_VOX_VOR1_S3_133A_RRD3
+LANG_ENGLISH        "^1RUSSIAN PRISONER: ^7¡Justo delante!"
+
+REFERENCE           VORKUTA_VOX_VOR1_S3_134A_RRD3
+LANG_ENGLISH        "^1RUSSIAN PRISONER: ^7¡Hombres atrapados!"
+
+REFERENCE           VORKUTA_VOX_VOR1_S3_135A_RRD3
+LANG_ENGLISH        "^1RUSSIAN PRISONER: ^7¡Ábrales un camino!"
+
+REFERENCE           VORKUTA_VOX_VOR1_S3_136A_RRD3
+LANG_ENGLISH        "^1RUSSIAN PRISONER: ^7¡Buen tiro, Mason!"
+
+REFERENCE           VORKUTA_VOX_VOR1_S3_137A_RRD3
+LANG_ENGLISH        "^1RUSSIAN PRISONER: ^7¡Le ha dado, Mason!"
+
+REFERENCE           VORKUTA_VOX_VOR1_S3_138A_RRD3
+LANG_ENGLISH        "^1RUSSIAN PRISONER: ^7Está muerto, pero podría haber más."
+
+REFERENCE           VORKUTA_VOX_VOR1_S3_139A_RRD3
+LANG_ENGLISH        "^1RUSSIAN PRISONER: ^7¡Excelente disparo, amigo!"
+
+REFERENCE           VORKUTA_VOX_VOR1_S3_140A_RRD3
+LANG_ENGLISH        "^1RUSSIAN PRISONER: ^7¡Bien hecho, Mason!"
+
+REFERENCE           VORKUTA_VOX_VOR1_S3_141A_RRD3
+LANG_ENGLISH        "^1RUSSIAN PRISONER: ^7¡Sí! ¡Otro menos!"
+
+REFERENCE           VORKUTA_VOX_VOR1_S3_142A_RRD3
+LANG_ENGLISH        "^1RUSSIAN PRISONER: ^7¡Eliminado!"
+
+REFERENCE           VORKUTA_VOX_VOR1_S3_143A_RRD3
+LANG_ENGLISH        "^1RUSSIAN PRISONER: ^7¡Ja, ja! ¡Impresionante!"
+
+REFERENCE           VORKUTA_VOX_VOR1_S3_400A_RRD3
+LANG_ENGLISH        "^1RUSSIAN PRISONER: ^7¡Tiene que tirar más hacia atrás!"
+
+REFERENCE           VORKUTA_VOX_VOR1_S3_401A_RRD3
+LANG_ENGLISH        "^1RUSSIAN PRISONER: ^7¡No disparará a no ser que tire!"
+
+REFERENCE           VORKUTA_VOX_VOR1_S3_402A_RRD3
+LANG_ENGLISH        "^1RUSSIAN PRISONER: ^7¡Tire hacia atrás!"
+
+REFERENCE           VORKUTA_VOX_VOR1_S3_603A_REZN
+LANG_ENGLISH        "^1REZNOV: ^7¡Cúbrase con la vagoneta!"
+
+REFERENCE           VORKUTA_VOX_VOR1_S3_604A_REZN
+LANG_ENGLISH        "^1REZNOV: ^7Sergei... ¡Empuje!"
+
+REFERENCE           VORKUTA_VOX_VOR1_S3_605A_REZN
+LANG_ENGLISH        "^1REZNOV: ^7¡Quédese con la vagoneta!"
+
+REFERENCE           VORKUTA_VOX_VOR1_S3_606A_REZN
+LANG_ENGLISH        "^1REZNOV: ^7¡Cúbrase con la vagoneta!"
+
+REFERENCE           VORKUTA_VOX_VOR1_S3_607A_REZN
+LANG_ENGLISH        "^1REZNOV: ^7¡Quédese con la vagoneta!"
+
+REFERENCE           VORKUTA_VOX_VOR1_S3_608A_REZN
+LANG_ENGLISH        "^1REZNOV: ^7¡Los guardias están confusos!"
+
+REFERENCE           VORKUTA_VOX_VOR1_S3_609A_REZN
+LANG_ENGLISH        "^1REZNOV: ^7¡Nunca se han enfrentado a un motín así!"
+
+REFERENCE           VORKUTA_VOX_VOR1_S3_610A_REZN
+LANG_ENGLISH        "^1REZNOV: ^7¡Elimínelos, Mason!"
+
+REFERENCE           VORKUTA_VOX_VOR1_S3_611A_REZN
+LANG_ENGLISH        "^1REZNOV: ^7¡Mate a los guardias!"
+
+REFERENCE           VORKUTA_VOX_VOR1_S3_612A_REZN
+LANG_ENGLISH        "^1REZNOV: ^7¡Mate a los guardias de la izquierda!"
+
+REFERENCE           VORKUTA_VOX_VOR1_S3_613A_REZN
+LANG_ENGLISH        "^1REZNOV: ^7Guardias a la derecha. ¡Mátelos!"
+
+REFERENCE           VORKUTA_VOX_VOR1_S3_614A_REZN
+LANG_ENGLISH        "^1REZNOV: ^7¡Más guardias! ¡Denos cobertura, Mason!"
+
+REFERENCE           VORKUTA_VOX_VOR1_S3_615A_REZN
+LANG_ENGLISH        "^1REZNOV: ^7¡A la izquierda!"
+
+REFERENCE           VORKUTA_VOX_VOR1_S3_616A_REZN
+LANG_ENGLISH        "^1REZNOV: ^7¡Derecha!"
+
+REFERENCE           VORKUTA_VOX_VOR1_S3_800A_MASO
+LANG_ENGLISH        "^1MASON: ^7Tenga cuidado, Reznov."
+
+REFERENCE           VORKUTA_VOX_VOR1_S4_145A_REZN
+LANG_ENGLISH        "^1REZNOV: ^7¡Por aquí!"
+
+REFERENCE           VORKUTA_VOX_VOR1_S4_146A_REZN
+LANG_ENGLISH        "^1REZNOV: ^7¡A las armas, camaradas!"
+
+REFERENCE           VORKUTA_VOX_VOR1_S4_147A_REZN
+LANG_ENGLISH        "^1REZNOV: ^7Pronto llegarán refuerzos para defender el arsenal principal..."
+
+REFERENCE           VORKUTA_VOX_VOR1_S4_148A_MASO
+LANG_ENGLISH        "^1MASON: ^7Justo como planeamos."
+
+REFERENCE           VORKUTA_VOX_VOR1_S4_149A_RRD3
+LANG_ENGLISH        "^1RUSSIAN PRISONER: ^7¿Cómo logramos el paso cinco?"
+
+REFERENCE           VORKUTA_VOX_VOR1_S4_150A_REZN
+LANG_ENGLISH        "^1REZNOV: ^7El arma de Mason pronto estará lista..."
+
+REFERENCE           VORKUTA_VOX_VOR1_S4_151A_REZN
+LANG_ENGLISH        "^1REZNOV: ^7¡Vuele la cerradura, Mason!"
+
+REFERENCE           VORKUTA_VOX_VOR1_S4_152A_REZN
+LANG_ENGLISH        "^1REZNOV: ^7¡Adelante! ¡Reduciremos este agujero infernal a cenizas!"
+
+REFERENCE           VORKUTA_VOX_VOR1_S4_155A_REZN
+LANG_ENGLISH        "^1REZNOV: ^7¡Sin piedad!"
+
+REFERENCE           VORKUTA_VOX_VOR1_S4_156A_REZN
+LANG_ENGLISH        "^1REZNOV: ^7¡Saboreen la venganza, camaradas!"
+
+REFERENCE           VORKUTA_VOX_VOR1_S4_157A_REZN
+LANG_ENGLISH        "^1REZNOV: ^7¡Pinten los muros con su sangre!"
+
+REFERENCE           VORKUTA_VOX_VOR1_S4_158A_REZN
+LANG_ENGLISH        "^1REZNOV: ^7¡Entierren a estos animales!"
+
+REFERENCE           VORKUTA_VOX_VOR1_S4_159A_REZN
+LANG_ENGLISH        "^1REZNOV: ^7¡Arránquenles cada miembro!"
+
+REFERENCE           VORKUTA_VOX_VOR1_S4_160A_REZN
+LANG_ENGLISH        "^1REZNOV: ^7¡Luchen!"
+
+REFERENCE           VORKUTA_VOX_VOR1_S4_161A_REZN
+LANG_ENGLISH        "^1REZNOV: ^7¡Ha llegado el helicóptero!"
+
+REFERENCE           VORKUTA_VOX_VOR1_S4_162A_RRD4
+LANG_ENGLISH        "^1RUSSIAN PRISONER: ^7¿Y eso no es malo?"
+
+REFERENCE           VORKUTA_VOX_VOR1_S4_163A_REZN
+LANG_ENGLISH        "^1REZNOV: ^7No. Es lo que esperábamos..."
+
+REFERENCE           VORKUTA_VOX_VOR1_S4_164A_REZN
+LANG_ENGLISH        "^1REZNOV: ^7Deprisa, Mason."
+
+REFERENCE           VORKUTA_VOX_VOR1_S4_165A_REZN
+LANG_ENGLISH        "^1REZNOV: ^7¡Por aquí!"
+
+REFERENCE           VORKUTA_VOX_VOR1_S4_166A_REZN
+LANG_ENGLISH        "^1REZNOV: ^7¡Arriba, deprisa!"
+
+REFERENCE           VORKUTA_VOX_VOR1_S4_167A_MASO
+LANG_ENGLISH        "^1MASON: ^7¡Maldición!"
+
+REFERENCE           VORKUTA_VOX_VOR1_S4_168A_MASO
+LANG_ENGLISH        "^1MASON: ^7Paso cinco..."
+
+REFERENCE           VORKUTA_VOX_VOR1_S4_169A_REZN
+LANG_ENGLISH        "^1REZNOV: ^7¡Ensartar a la bestia alada!"
+
+REFERENCE           VORKUTA_VOX_VOR1_S4_170A_MASO
+LANG_ENGLISH        "^1MASON: ^7¡Reznov, asegure la cuerda!"
+
+REFERENCE           VORKUTA_VOX_VOR1_S4_171A_REZN
+LANG_ENGLISH        "^1REZNOV: ^7Asegurada... ¿Listo, Mason?"
+
+REFERENCE           VORKUTA_VOX_VOR1_S4_172A_MASO
+LANG_ENGLISH        "^1MASON: ^7Siempre."
+
+REFERENCE           VORKUTA_VOX_VOR1_S4_173A_REZN
+LANG_ENGLISH        "^1REZNOV: ^7Elija el momento."
+
+REFERENCE           VORKUTA_VOX_VOR1_S4_174A_REZN
+LANG_ENGLISH        "^1REZNOV: ^7Espere..."
+
+REFERENCE           VORKUTA_VOX_VOR1_S4_175A_REZN
+LANG_ENGLISH        "^1REZNOV: ^7¡Aún no!"
+
+REFERENCE           VORKUTA_VOX_VOR1_S4_176A_REZN
+LANG_ENGLISH        "^1REZNOV: ^7¡Debe afinar la puntería!"
+
+REFERENCE           VORKUTA_VOX_VOR1_S4_177A_REZN
+LANG_ENGLISH        "^1REZNOV: ^7¡No! ¡Solo tiene un disparo!"
+
+REFERENCE           VORKUTA_VOX_VOR1_S4_178A_REZN
+LANG_ENGLISH        "^1REZNOV: ^7¡Ahora!"
+
+REFERENCE           VORKUTA_VOX_VOR1_S4_179A_REZN
+LANG_ENGLISH        "^1REZNOV: ^7¡Dispare!"
+
+REFERENCE           VORKUTA_VOX_VOR1_S4_182A_REZN
+LANG_ENGLISH        "^1REZNOV: ^7¡Todos saben qué hay que hacer!"
+
+REFERENCE           VORKUTA_VOX_VOR1_S4_183A_REZN
+LANG_ENGLISH        "^1REZNOV: ^7¡Avancen!"
+
+REFERENCE           VORKUTA_VOX_VOR1_S4_184A_REZN
+LANG_ENGLISH        "^1REZNOV: ^7¡Sin miedo!"
+
+REFERENCE           VORKUTA_VOX_VOR1_S4_185A_REZN
+LANG_ENGLISH        "^1REZNOV: ^7¡Por los flancos!"
+
+REFERENCE           VORKUTA_VOX_VOR1_S4_186A_REZN
+LANG_ENGLISH        "^1REZNOV: ^7¡Suban por las escaleras! ¡Sin supervivientes!"
+
+REFERENCE           VORKUTA_VOX_VOR1_S4_187A_RRD4
+LANG_ENGLISH        "^1RUSSIAN PRISONER: ^7¡Ya lo han oído, camaradas!"
+
+REFERENCE           VORKUTA_VOX_VOR1_S4_188A_RRD4
+LANG_ENGLISH        "^1RUSSIAN PRISONER: ^7¡Están intentando bloquear el arsenal!"
+
+REFERENCE           VORKUTA_VOX_VOR1_S4_189A_REZN
+LANG_ENGLISH        "^1REZNOV: ^7¡Deténganlos!"
+
+REFERENCE           VORKUTA_VOX_VOR1_S4_190A_REZN
+LANG_ENGLISH        "^1REZNOV: ^7¡Sigan disparando!"
+
+REFERENCE           VORKUTA_VOX_VOR1_S4_191A_REZN
+LANG_ENGLISH        "^1REZNOV: ^7¡A LUCHAR!"
+
+REFERENCE           VORKUTA_VOX_VOR1_S4_192A_REZN
+LANG_ENGLISH        "^1REZNOV: ^7¡Están intentando sellar la puerta!"
+
+REFERENCE           VORKUTA_VOX_VOR1_S4_193A_REZN
+LANG_ENGLISH        "^1REZNOV: ^7¡Sergei no podrá resistir mucho más!"
+
+REFERENCE           VORKUTA_VOX_VOR1_S4_194A_REZN
+LANG_ENGLISH        "^1REZNOV: ^7¡Deprisa, Mason! ¡Vamos!"
+
+REFERENCE           VORKUTA_VOX_VOR1_S4_195A_REZN
+LANG_ENGLISH        "^1REZNOV: ^7¡Nooo!"
+
+REFERENCE           VORKUTA_VOX_VOR1_S4_196A_REZN
+LANG_ENGLISH        "^1REZNOV: ^7¡Mason! ¡Abra la puerta!"
+
+REFERENCE           VORKUTA_VOX_VOR1_S4_197A_REZN
+LANG_ENGLISH        "^1REZNOV: ^7¡Mason! ¡Abra esa puerta!"
+
+REFERENCE           VORKUTA_VOX_VOR1_S4_198A_REZN
+LANG_ENGLISH        "^1REZNOV: ^7¡Mason, vienen más guardias! ¡Abra la puerta!"
+
+REFERENCE           VORKUTA_VOX_VOR1_S4_199A_REZN_M
+LANG_ENGLISH        "^1REZNOV: ^7Su muerte no será en vano, amigo... Su sacrificio no caerá en el olvido."
+
+REFERENCE           VORKUTA_VOX_VOR1_S4_200A_REZN_M
+LANG_ENGLISH        "^1REZNOV: ^7¡Arriba, vamos!"
+
+REFERENCE           VORKUTA_VOX_VOR1_S4_201A_RRD4
+LANG_ENGLISH        "^1RUSSIAN PRISONER: ^7¡El tejado! ¡Los oigo en el tejado!"
+
+REFERENCE           VORKUTA_VOX_VOR1_S4_202A_REZN
+LANG_ENGLISH        "^1REZNOV: ^7¡Caerán como corderos en el matadero!"
+
+REFERENCE           VORKUTA_VOX_VOR1_S4_203A_RRD4
+LANG_ENGLISH        "^1RUSSIAN PRISONER: ^7¡Reznov, han sellado la cámara!"
+
+REFERENCE           VORKUTA_VOX_VOR1_S4_204A_REZN
+LANG_ENGLISH        "^1REZNOV: ^7Poco importa."
+
+REFERENCE           VORKUTA_VOX_VOR1_S4_205A_MASO
+LANG_ENGLISH        "^1MASON: ^7Paso seis."
+
+REFERENCE           VORKUTA_VOX_VOR1_S4_206A_REZN_M
+LANG_ENGLISH        "^1REZNOV: ^7Con puño de hierro."
+
+REFERENCE           VORKUTA_VOX_VOR1_S4_207A_REZN_M
+LANG_ENGLISH        "^1REZNOV: ^7Mason y yo conseguiremos el equipo necesario para abrir la cámara."
+
+REFERENCE           VORKUTA_VOX_VOR1_S4_617A_REZN
+LANG_ENGLISH        "^1REZNOV: ^7¡Vamos! ¡Pronto entraremos en el arsenal!"
+
+REFERENCE           VORKUTA_VOX_VOR1_S4_618A_REZN
+LANG_ENGLISH        "^1REZNOV: ^7¡Mason, suba al tejado del taller! ¡Los hombres han preparado su arma!"
+
+REFERENCE           VORKUTA_VOX_VOR1_S4_619A_REZN
+LANG_ENGLISH        "^1REZNOV: ^7¡Arriba! ¡Al arpón!"
+
+REFERENCE           VORKUTA_VOX_VOR1_S4_620A_REZN
+LANG_ENGLISH        "^1REZNOV: ^7¡Mason, coja el arpón!"
+
+REFERENCE           VORKUTA_VOX_VOR1_S4_621A_REZN
+LANG_ENGLISH        "^1REZNOV: ^7¡Derribe el helicóptero!"
+
+REFERENCE           VORKUTA_VOX_VOR1_S4_622A_MASO
+LANG_ENGLISH        "^1MASON: ^7¡Esperemos que funcione!"
+
+REFERENCE           VORKUTA_VOX_VOR1_S4_623A_MASO
+LANG_ENGLISH        "^1MASON: ^7¡Sergei!"
+
+REFERENCE           VORKUTA_VOX_VOR1_S5_208A_REZN
+LANG_ENGLISH        "^1REZNOV: ^7¡Por aquí!"
+
+REFERENCE           VORKUTA_VOX_VOR1_S5_209A_REZN
+LANG_ENGLISH        "^1REZNOV: ^7¡Vamos, Mason!"
+
+REFERENCE           VORKUTA_VOX_VOR1_S5_210A_REZN
+LANG_ENGLISH        "^1REZNOV: ^7¡Más refuerzos!"
+
+REFERENCE           VORKUTA_VOX_VOR1_S5_211A_REZN
+LANG_ENGLISH        "^1REZNOV: ^7¡Tenemos poco tiempo!"
+
+REFERENCE           VORKUTA_VOX_VOR1_S5_212A_REZN_M
+LANG_ENGLISH        "^1REZNOV: ^7¡El soplete servirá para lo que queremos!"
+
+REFERENCE           VORKUTA_VOX_VOR1_S5_213A_RRD4_M
+LANG_ENGLISH        "^1RUSSIAN PRISONER: ^7¡Están intentando entrar!"
+
+REFERENCE           VORKUTA_VOX_VOR1_S5_214A_REZN_M
+LANG_ENGLISH        "^1REZNOV: ^7¡No lo permitan!"
+
+REFERENCE           VORKUTA_VOX_VOR1_S5_215A_REZN_M
+LANG_ENGLISH        "^1REZNOV: ^7¡Cúbrame!"
+
+REFERENCE           VORKUTA_VOX_VOR1_S5_216A_REZN
+LANG_ENGLISH        "^1REZNOV: ^7¡Despéjeme el camino, Mason!"
+
+REFERENCE           VORKUTA_VOX_VOR1_S5_217A_REZN
+LANG_ENGLISH        "^1REZNOV: ^7¡Quédese conmigo, Mason!"
+
+REFERENCE           VORKUTA_VOX_VOR1_S5_218A_REZN
+LANG_ENGLISH        "^1REZNOV: ^7¡Líbreme de ellos, Mason!"
+
+REFERENCE           VORKUTA_VOX_VOR1_S5_219A_REZN
+LANG_ENGLISH        "^1REZNOV: ^7¿Adónde va?"
+
+REFERENCE           VORKUTA_VOX_VOR1_S5_220A_REZN
+LANG_ENGLISH        "^1REZNOV: ^7¡Mason, líbreme de ellos!"
+
+REFERENCE           VORKUTA_VOX_VOR1_S5_220B_REZN
+LANG_ENGLISH        "^1REZNOV: ^7¡En el tejado!"
+
+REFERENCE           VORKUTA_VOX_VOR1_S5_221A_REZN
+LANG_ENGLISH        "^1REZNOV: ^7Ya casi está..."
+
+REFERENCE           VORKUTA_VOX_VOR1_S5_222A_REZN
+LANG_ENGLISH        "^1REZNOV: ^7¡El tanque está aquí!"
+
+REFERENCE           VORKUTA_VOX_VOR1_S5_223A_REZN
+LANG_ENGLISH        "^1REZNOV: ^7Ya casi está..."
+
+REFERENCE           VORKUTA_VOX_VOR1_S5_224A_RRD4
+LANG_ENGLISH        "^1RUSSIAN PRISONER: ^7Han entrado. ¡Retirada! ¡Retirada!"
+
+REFERENCE           VORKUTA_VOX_VOR1_S5_225A_REZN
+LANG_ENGLISH        "^1REZNOV: ^7¡Mantengan su posición!"
+
+REFERENCE           VORKUTA_VOX_VOR1_S5_226A_RRD4
+LANG_ENGLISH        "^1RUSSIAN PRISONER: ^7¡Aléjense de las ventanas!"
+
+REFERENCE           VORKUTA_VOX_VOR1_S5_227A_REZN
+LANG_ENGLISH        "^1REZNOV: ^7¡Necesito más tiempo!"
+
+REFERENCE           VORKUTA_VOX_VOR1_S5_228A_REZN
+LANG_ENGLISH        "^1REZNOV: ^7¡Concentre el fuego!"
+
+REFERENCE           VORKUTA_VOX_VOR1_S5_229A_MASO
+LANG_ENGLISH        "^1MASON: ^7¡Abra la cámara de una vez!"
+
+REFERENCE           VORKUTA_VOX_VOR1_S5_230A_REZN
+LANG_ENGLISH        "^1REZNOV: ^7¡Sí!"
+
+REFERENCE           VORKUTA_VOX_VOR1_S5_231A_REZN
+LANG_ENGLISH        "^1REZNOV: ^7¡Coja ese cañón automático!"
+
+REFERENCE           VORKUTA_VOX_VOR1_S5_232A_MASO
+LANG_ENGLISH        "^1MASON: ^7¡¿De dónde coño ha salido esto?!"
+
+REFERENCE           VORKUTA_VOX_VOR1_S5_232A_MASO_S
+LANG_ENGLISH        "^1MASON: ^7¡¿De dónde coño ha salido esto?!"
+
+REFERENCE           VORKUTA_VOX_VOR1_S5_233A_REZN
+LANG_ENGLISH        "^1REZNOV: ^7Un trofeo, arrancado de las manos de sus camaradas caídos..."
+
+REFERENCE           VORKUTA_VOX_VOR1_S5_234A_REZN
+LANG_ENGLISH        "^1REZNOV: ^7Estas armas son muy cotizadas entre los miserables burócratas que controlan Vorkuta."
+
+REFERENCE           VORKUTA_VOX_VOR1_S5_235A_REZN
+LANG_ENGLISH        "^1REZNOV: ^7¡Destroce esos camiones!"
+
+REFERENCE           VORKUTA_VOX_VOR1_S5_236A_MASO
+LANG_ENGLISH        "^1MASON: ^7¡Voy!"
+
+REFERENCE           VORKUTA_VOX_VOR1_S5_237A_MASO
+LANG_ENGLISH        "^1MASON: ^7¡Todavía queda uno!"
+
+REFERENCE           VORKUTA_VOX_VOR1_S5_238A_REZN
+LANG_ENGLISH        "^1REZNOV: ^7¡Así se hace, Mason!"
+
+REFERENCE           VORKUTA_VOX_VOR1_S5_624A_MASO
+LANG_ENGLISH        "^1MASON: ^7¡Así me gusta!"
+
+REFERENCE           VORKUTA_VOX_VOR1_S5_625A_REZN
+LANG_ENGLISH        "^1REZNOV: ^7¡Adelante! ¡Casi hemos llegado a las puertas!"
+
+REFERENCE           VORKUTA_VOX_VOR1_S6_239A_REZN
+LANG_ENGLISH        "^1REZNOV: ^7¿Paso siete, camaradas?"
+
+REFERENCE           VORKUTA_VOX_VOR1_S6_240A_CROW
+LANG_ENGLISH        "^1CROWD: ^7¡Armar la gorda!"
+
+REFERENCE           VORKUTA_VOX_VOR1_S6_241A_REZN
+LANG_ENGLISH        "^1REZNOV: ^7¡Quiero que arrasen este lugar, camaradas!"
+
+REFERENCE           VORKUTA_VOX_VOR1_S6_242A_REZN
+LANG_ENGLISH        "^1REZNOV: ^7¡Morid, escoria!"
+
+REFERENCE           VORKUTA_VOX_VOR1_S6_243A_REZN
+LANG_ENGLISH        "^1REZNOV: ^7¡Desaten el caos!"
+
+REFERENCE           VORKUTA_VOX_VOR1_S6_244A_REZN
+LANG_ENGLISH        "^1REZNOV: ^7Maten a quien se interponga."
+
+REFERENCE           VORKUTA_VOX_VOR1_S6_245A_REZN
+LANG_ENGLISH        "^1REZNOV: ^7¡Sin piedad!"
+
+REFERENCE           VORKUTA_VOX_VOR1_S6_246A_REZN
+LANG_ENGLISH        "^1REZNOV: ^7¡Maten a todos!"
+
+REFERENCE           VORKUTA_VOX_VOR1_S6_247A_REZN
+LANG_ENGLISH        "^1REZNOV: ^7¡Por el honor!"
+
+REFERENCE           VORKUTA_VOX_VOR1_S6_248A_REZN
+LANG_ENGLISH        "^1REZNOV: ^7¡Por la venganza!"
+
+REFERENCE           VORKUTA_VOX_VOR1_S6_249A_REZN
+LANG_ENGLISH        "^1REZNOV: ^7¡Por Rusia!"
+
+REFERENCE           VORKUTA_VOX_VOR1_S6_251A_REZN
+LANG_ENGLISH        "^1REZNOV: ^7¡Gas lacrimógeno!"
+
+REFERENCE           VORKUTA_VOX_VOR1_S6_252A_REZN
+LANG_ENGLISH        "^1REZNOV: ^7¡Mason!"
+
+REFERENCE           VORKUTA_VOX_VOR1_S6_253A_MASO
+LANG_ENGLISH        "^1MASON: ^7Espere... ¡Hay que ayudar a los demás!"
+
+REFERENCE           VORKUTA_VOX_VOR1_S6_254A_REZN
+LANG_ENGLISH        "^1REZNOV: ^7¡No podemos hacer nada!"
+
+REFERENCE           VORKUTA_VOX_VOR1_S6_255A_REZN
+LANG_ENGLISH        "^1REZNOV: ^7Estamos muy cerca de nuestro objetivo, Mason... Sobrevivirá... ¡Debe lograrlo!"
+
+REFERENCE           VORKUTA_VOX_VOR1_S6_256A_REZN_M
+LANG_ENGLISH        "^1REZNOV: ^7La puerta no los detendrá eternamente... No tenemos mucho tiempo..."
+
+REFERENCE           VORKUTA_VOX_VOR1_S6_257A_REZN_M
+LANG_ENGLISH        "^1REZNOV: ^7Dentro de este templo de la decadencia hipócrita de los líderes de Vorkuta está la llave hacia el paso ocho."
+
+REFERENCE           VORKUTA_VOX_VOR1_S6_258A_MASO
+LANG_ENGLISH        "^1MASON: ^7La libertad."
+
+REFERENCE           VORKUTA_VOX_VOR1_S6_635A_MASO
+LANG_ENGLISH        "^1MASON: ^7Vale, ya estoy."
+
+REFERENCE           VORKUTA_VOX_VOR1_S7_259A_REZN
+LANG_ENGLISH        "^1REZNOV: ^7¡Esto no ha acabado! Dragovich me las pagará."
+
+REFERENCE           VORKUTA_VOX_VOR1_S7_260A_REZN
+LANG_ENGLISH        "^1REZNOV: ^7¡Venga, Mason! ¡Deprisa!"
+
+REFERENCE           VORKUTA_VOX_VOR1_S7_261A_REZN
+LANG_ENGLISH        "^1REZNOV: ^7¡Ahí está el tren! ¡Deprisa, Mason!"
+
+REFERENCE           VORKUTA_VOX_VOR1_S7_262A_MASO
+LANG_ENGLISH        "^1MASON: ^7¡No dejarán que nos vayamos sin pelear!"
+
+REFERENCE           VORKUTA_VOX_VOR1_S7_263A_REZN
+LANG_ENGLISH        "^1REZNOV: ^7¡Ametralladora!"
+
+REFERENCE           VORKUTA_VOX_VOR1_S7_264A_REZN
+LANG_ENGLISH        "^1REZNOV: ^7¡Salte al camión!"
+
+REFERENCE           VORKUTA_VOX_VOR1_S7_265A_REZN
+LANG_ENGLISH        "^1REZNOV: ^7¡Mason! ¡Salte!"
+
+REFERENCE           VORKUTA_VOX_VOR1_S7_266A_REZN
+LANG_ENGLISH        "^1REZNOV: ^7¡A la ametralladora!"
+
+REFERENCE           VORKUTA_VOX_VOR1_S7_267A_REZN
+LANG_ENGLISH        "^1REZNOV: ^7¡Insista!"
+
+REFERENCE           VORKUTA_VOX_VOR1_S7_268A_MASO
+LANG_ENGLISH        "^1MASON: ^7¿Dónde coño está el tren?"
+
+REFERENCE           VORKUTA_VOX_VOR1_S7_268A_MASO_S
+LANG_ENGLISH        "^1MASON: ^7¿Dónde coño está el tren?"
+
+REFERENCE           VORKUTA_VOX_VOR1_S7_269A_REZN
+LANG_ENGLISH        "^1REZNOV: ^7¡Allí!"
+
+REFERENCE           VORKUTA_VOX_VOR1_S7_270A_REZN
+LANG_ENGLISH        "^1REZNOV: ^7¡Vamos, Mason! ¡Vamos!"
+
+REFERENCE           VORKUTA_VOX_VOR1_S7_271A_REZN
+LANG_ENGLISH        "^1REZNOV: ^7¡Salte, Mason! ¡Salte!"
+
+REFERENCE           VORKUTA_VOX_VOR1_S7_272A_MASO
+LANG_ENGLISH        "^1MASON: ^7¡Su turno!"
+
+REFERENCE           VORKUTA_VOX_VOR1_S7_273A_MASO
+LANG_ENGLISH        "^1MASON: ^7¡Vamos!"
+
+REFERENCE           VORKUTA_VOX_VOR1_S7_274A_MASO
+LANG_ENGLISH        "^1MASON: ^7Paso ocho, Reznov... ¡Libertad!"
+
+REFERENCE           VORKUTA_VOX_VOR1_S7_275A_REZN_M
+LANG_ENGLISH        "^1REZNOV: ^7Por usted, Mason..."
+
+REFERENCE           VORKUTA_VOX_VOR1_S7_276A_REZN_M
+LANG_ENGLISH        "^1REZNOV: ^7No por mí..."
+
+REFERENCE           VORKUTA_VOX_VOR1_S7_277A_MASO
+LANG_ENGLISH        "^1MASON: ^7¡Reznov!"
+
+ENDMARKER

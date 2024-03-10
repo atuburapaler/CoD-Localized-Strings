@@ -1,0 +1,82 @@
+// Dumped from fastfile "sp_zombie_cosmodrome".
+// In their original format the strings might have been separated in multiple files.
+VERSION             "1"
+CONFIG              "C:/projects/cod/t5/bin/StringEd.cfg"
+FILENOTES           ""
+
+REFERENCE           ZOMBIE_COSMODROME_DOOR_CLOSED
+LANG_ENGLISH        "Primero hay que abrir la puerta."
+
+REFERENCE           ZOMBIE_COSMODROME_LANDER
+LANG_ENGLISH        "Mantén ^3[{+activate}]^7 para usar el módulo lunar (coste: 250)."
+
+REFERENCE           ZOMBIE_COSMODROME_LANDER_AT_STATION
+LANG_ENGLISH        "El módulo lunar ya está en esta base."
+
+REFERENCE           ZOMBIE_COSMODROME_LANDER_CALL
+LANG_ENGLISH        "Mantén ^3[{+activate}]^7 para que el módulo lunar acuda a tu posición."
+
+REFERENCE           ZOMBIE_COSMODROME_LANDER_COOLDOWN
+LANG_ENGLISH        "El módulo lunar se está enfriando."
+
+REFERENCE           ZOMBIE_COSMODROME_LANDER_INACTIVE
+LANG_ENGLISH        "Mantén ^3[{+activate}]^7 para activar la estación del módulo lunar."
+
+REFERENCE           ZOMBIE_COSMODROME_LANDER_IN_USE
+LANG_ENGLISH        "El módulo lunar se está utilizando."
+
+REFERENCE           ZOMBIE_COSMODROME_LANDER_NO_CONNECTIONS
+LANG_ENGLISH        "No hay destinos del módulo lunar disponibles."
+
+REFERENCE           ZOMBIE_COSMODROME_LANDER_NO_MANS_LAND
+LANG_ENGLISH        "Mantén ^3[{+activate}]^7 para ir a Tierra de nadie (coste: GRATIS)."
+
+REFERENCE           ZOMBIE_COSMODROME_LANDER_NO_MANS_LAND_WAIT
+LANG_ENGLISH        "Esperando &&1 conexiones..."
+
+REFERENCE           ZOMBIE_COSMODROME_LANDER_NO_MANS_LAND_WAIT_ONE
+LANG_ENGLISH        "Esperando &&1 conexión..."
+
+REFERENCE           ZOMBIE_COSMODROME_LANDER_ON_WAY
+LANG_ENGLISH        "Se ha llamado al módulo lunar."
+
+REFERENCE           ZOMBIE_COSMODROME_LANDER_REFUEL
+LANG_ENGLISH        "El módulo lunar está repostando."
+
+REFERENCE           ZOMBIE_COSMODROME_LANDER_WAITING_FOR_CREW
+LANG_ENGLISH        "Todos los jugadores deben estar a bordo del módulo."
+
+REFERENCE           ZOMBIE_COSMODROME_LAUNCH_AVAILABLE
+LANG_ENGLISH        "Mantén ^3[{+activate}]^7 para activar la secuencia de lanzamiento."
+
+REFERENCE           ZOMBIE_COSMODROME_NEED_POWER_CENTRIFUGE
+LANG_ENGLISH        "¡La trampa centrífuga precisa energía!"
+
+REFERENCE           ZOMBIE_COSMODROME_NEED_POWER_ROCKET
+LANG_ENGLISH        "¡La trampa cohete precisa energía!"
+
+REFERENCE           ZOMBIE_COSMODROME_ROCKET_ACTIVATED
+LANG_ENGLISH        "El cohete se está utilizando."
+
+REFERENCE           ZOMBIE_COSMODROME_ROCKET_COOLING_DOWN
+LANG_ENGLISH        "El cohete se está recuperando."
+
+REFERENCE           ZOMBIE_COSMODROME_ROCKET_MOVING
+LANG_ENGLISH        "El cohete está en marcha."
+
+REFERENCE           ZOMBIE_COSMODROME_ROCKET_SET
+LANG_ENGLISH        "Mantén ^3[{+activate}]^7 para poner el cohete en posición."
+
+REFERENCE           ZOMBIE_COSMODROME_WAITING_AUTHORIZAION
+LANG_ENGLISH        "Se necesita autorización para el lanzamiento."
+
+REFERENCE           ZOMBIE_COSMODROME_WAITING_FOR_ONE
+LANG_ENGLISH        "Falta 1 jugador en la plataforma."
+
+REFERENCE           ZOMBIE_COSMODROME_WAITING_FOR_THREE
+LANG_ENGLISH        "Faltan 3 jugadores en la plataforma."
+
+REFERENCE           ZOMBIE_COSMODROME_WAITING_FOR_TWO
+LANG_ENGLISH        "Faltan 2 jugadores en la plataforma."
+
+ENDMARKER

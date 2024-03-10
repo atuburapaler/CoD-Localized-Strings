@@ -1,0 +1,211 @@
+// Dumped from fastfile "sp_code_pre_gfx_mp".
+// In their original format the strings might have been separated in multiple files.
+VERSION             "1"
+CONFIG              "C:/projects/cod/t5/bin/StringEd.cfg"
+FILENOTES           ""
+
+REFERENCE           CLASS_ANTIARMOR
+LANG_ENGLISH        "Asalto"
+
+REFERENCE           CLASS_ANTIARMOR_UC
+LANG_ENGLISH        "Asalto"
+
+REFERENCE           CLASS_ASSAULT
+LANG_ENGLISH        "Granadero"
+
+REFERENCE           CLASS_ASSAULT_UC
+LANG_ENGLISH        "Granadero"
+
+REFERENCE           CLASS_CLASS
+LANG_ENGLISH        "Clase"
+
+REFERENCE           CLASS_CLASS1
+LANG_ENGLISH        "Subfusil"
+
+REFERENCE           CLASS_CLASS2
+LANG_ENGLISH        "CaC"
+
+REFERENCE           CLASS_CLASS3
+LANG_ENGLISH        "Asalto"
+
+REFERENCE           CLASS_CLASS4
+LANG_ENGLISH        "Ametralladora"
+
+REFERENCE           CLASS_CLASS5
+LANG_ENGLISH        "Francotirador"
+
+REFERENCE           CLASS_CLOSEQUARTERS
+LANG_ENGLISH        "Cuerpo a cuerpo"
+
+REFERENCE           CLASS_CLOSEQUARTERS_UC
+LANG_ENGLISH        "CaC"
+
+REFERENCE           CLASS_CUSTOM1
+LANG_ENGLISH        "Asalto"
+
+REFERENCE           CLASS_CUSTOM10
+LANG_ENGLISH        "Índice de prestigio 5"
+
+REFERENCE           CLASS_CUSTOM2
+LANG_ENGLISH        "Artillero ligero"
+
+REFERENCE           CLASS_CUSTOM3
+LANG_ENGLISH        "Artillero pesado"
+
+REFERENCE           CLASS_CUSTOM4
+LANG_ENGLISH        "Asalto cercano"
+
+REFERENCE           CLASS_CUSTOM5
+LANG_ENGLISH        "Francotirador"
+
+REFERENCE           CLASS_CUSTOM6
+LANG_ENGLISH        "Índice de prestigio 1"
+
+REFERENCE           CLASS_CUSTOM7
+LANG_ENGLISH        "Índice de prestigio 2"
+
+REFERENCE           CLASS_CUSTOM8
+LANG_ENGLISH        "Índice de prestigio 3"
+
+REFERENCE           CLASS_CUSTOM9
+LANG_ENGLISH        "Índice de prestigio 4"
+
+REFERENCE           CLASS_DEFAULT_ASSAULT
+LANG_ENGLISH        "Asalto predeterminado"
+
+REFERENCE           CLASS_DEFAULT_HEAVYGUNNER
+LANG_ENGLISH        "Artillero pesado predeterminado"
+
+REFERENCE           CLASS_DEFAULT_SPECOPS
+LANG_ENGLISH        "Artillero ligero predeterminado"
+
+REFERENCE           CLASS_ENGINEER_UC
+LANG_ENGLISH        "Reconocimiento"
+
+REFERENCE           CLASS_GRENADIER
+LANG_ENGLISH        "Granadero"
+
+REFERENCE           CLASS_MARINES_CLASSES_CAPS
+LANG_ENGLISH        "CLASES SOG"
+
+REFERENCE           CLASS_NEWPROF
+LANG_ENGLISH        "Has adquirido una nueva competencia:"
+
+REFERENCE           CLASS_OFFLINE_CLASS1
+LANG_ENGLISH        "Experto en demoliciones"
+
+REFERENCE           CLASS_OFFLINE_CLASS10
+LANG_ENGLISH        "Tirador"
+
+REFERENCE           CLASS_OFFLINE_CLASS11
+LANG_ENGLISH        "M1 Garand"
+
+REFERENCE           CLASS_OFFLINE_CLASS2
+LANG_ENGLISH        "Infiltrador"
+
+REFERENCE           CLASS_OFFLINE_CLASS3
+LANG_ENGLISH        "Especialista"
+
+REFERENCE           CLASS_OFFLINE_CLASS4
+LANG_ENGLISH        "Vanguardia"
+
+REFERENCE           CLASS_OFFLINE_CLASS5
+LANG_ENGLISH        "Infante"
+
+REFERENCE           CLASS_OFFLINE_CLASS6
+LANG_ENGLISH        "Veterano"
+
+REFERENCE           CLASS_OFFLINE_CLASS7
+LANG_ENGLISH        "Vengador"
+
+REFERENCE           CLASS_OFFLINE_CLASS8
+LANG_ENGLISH        "Impositor"
+
+REFERENCE           CLASS_OFFLINE_CLASS9
+LANG_ENGLISH        "Guardián"
+
+REFERENCE           CLASS_OPFOR_CLASSES_CAPS
+LANG_ENGLISH        "CLASES ENEMIGAS"
+
+REFERENCE           CLASS_PRESTIGE1
+LANG_ENGLISH        "Personaliz. 6"
+
+REFERENCE           CLASS_PRESTIGE1_CAPS
+LANG_ENGLISH        "PERSONALIZ. 6"
+
+REFERENCE           CLASS_PRESTIGE2
+LANG_ENGLISH        "Personaliz. 7"
+
+REFERENCE           CLASS_PRESTIGE2_CAPS
+LANG_ENGLISH        "PERSONALIZ. 7"
+
+REFERENCE           CLASS_PRESTIGE3
+LANG_ENGLISH        "Personaliz. 8"
+
+REFERENCE           CLASS_PRESTIGE3_CAPS
+LANG_ENGLISH        "PERSONALIZ. 8"
+
+REFERENCE           CLASS_PRESTIGE4
+LANG_ENGLISH        "Personaliz. 9"
+
+REFERENCE           CLASS_PRESTIGE4_CAPS
+LANG_ENGLISH        "PERSONALIZ. 9"
+
+REFERENCE           CLASS_PRESTIGE5
+LANG_ENGLISH        "Personaliz. 10"
+
+REFERENCE           CLASS_PRESTIGE5_CAPS
+LANG_ENGLISH        "PERSONALIZ. 10"
+
+REFERENCE           CLASS_PRESTIGE_UNCLASSIFY_DESC
+LANG_ENGLISH        "Sin clasificar en nivel de prestigio &&1."
+
+REFERENCE           CLASS_PRESTIGE_UNLOCK_DESC
+LANG_ENGLISH        "Desbloqueado en nivel de prestigio &&1."
+
+REFERENCE           CLASS_PROFICIENCY
+LANG_ENGLISH        "Competencia"
+
+REFERENCE           CLASS_PROFICIENCY_EXPERT
+LANG_ENGLISH        "Experto"
+
+REFERENCE           CLASS_PROFICIENCY_MARKSMAN
+LANG_ENGLISH        "Tirador"
+
+REFERENCE           CLASS_PROFICIENCY_SHARPSHOOTER
+LANG_ENGLISH        "Francotirador"
+
+REFERENCE           CLASS_PURCHASE_TO_UNLOCK
+LANG_ENGLISH        "Compra &&1 para ver el desafío."
+
+REFERENCE           CLASS_RIFLEMAN
+LANG_ENGLISH        "Fusilero"
+
+REFERENCE           CLASS_SLOT1_CAPS
+LANG_ENGLISH        "PERSONALIZ. 1"
+
+REFERENCE           CLASS_SLOT2_CAPS
+LANG_ENGLISH        "PERSONALIZ. 2"
+
+REFERENCE           CLASS_SLOT3_CAPS
+LANG_ENGLISH        "PERSONALIZ. 3"
+
+REFERENCE           CLASS_SLOT4_CAPS
+LANG_ENGLISH        "PERSONALIZ. 4"
+
+REFERENCE           CLASS_SLOT5_CAPS
+LANG_ENGLISH        "PERSONALIZ. 5"
+
+REFERENCE           CLASS_SNIPER
+LANG_ENGLISH        "Francotirador"
+
+REFERENCE           CLASS_SNIPER_UC
+LANG_ENGLISH        "Francotirador"
+
+REFERENCE           CLASS_SUPPORT
+LANG_ENGLISH        "Apoyo"
+
+REFERENCE           CLASS_SUPPORT_UC
+LANG_ENGLISH        "Apoyo"
+
+ENDMARKER
