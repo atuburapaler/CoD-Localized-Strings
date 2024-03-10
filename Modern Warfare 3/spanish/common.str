@@ -1,0 +1,5482 @@
+// Dumped from fastfile "common".
+// In their original format the strings might have been separated in multiple files.
+VERSION             "1"
+CONFIG              "C:/trees/cod3/cod3/bin/StringEd.cfg"
+FILENOTES           ""
+
+REFERENCE           CLANS_CLANNAME
+LANG_ENGLISH        "Nombre del clan:"
+
+REFERENCE           CLANS_INVALIDCHARS
+LANG_ENGLISH        "Se han eliminado los caracteres incompatibles."
+
+REFERENCE           CLANS_OFFENSIVENAME
+LANG_ENGLISH        "Nombre del clan rechazado por presencia de texto prohibido"
+
+REFERENCE           CLAYMORE_CANNOT_PLANT_CLAYMORE
+LANG_ENGLISH        "Aquí no se puede colocar una Claymore."
+
+REFERENCE           CLAYMORE_CLAYMORE_HOLDING_CLAYMORE
+LANG_ENGLISH        "^5(sosteniendo una Claymore)"
+
+REFERENCE           CLAYMORE_CLAYMORE_HOLDING_DETONATOR
+LANG_ENGLISH        "^1(sosteniendo un detonador)"
+
+REFERENCE           CLAYMORE_CLAYMORE_PRESS_TO_SWITCH_TO_CLAYMORE
+LANG_ENGLISH        "(Pulsa Usar para cambiar a la Claymore)"
+
+REFERENCE           CLAYMORE_CLAYMORE_PRESS_TO_SWITCH_TO_DETONATOR
+LANG_ENGLISH        "(Pulsa Usar para cambiar al detonador)"
+
+REFERENCE           CLAYMORE_PLANTING_CLAYMORE
+LANG_ENGLISH        "Colocando Claymore..."
+
+REFERENCE           COOP_CLIENTDROP
+LANG_ENGLISH        "Se ha perdido la conexión con el otro jugador de Operaciones especiales."
+
+REFERENCE           COOP_CLIENT_END_GAME
+LANG_ENGLISH        "El cliente terminó la partida"
+
+REFERENCE           COOP_FULL
+LANG_ENGLISH        "Esta partida de Operaciones especiales ya tiene 2 jugadores."
+
+REFERENCE           COOP_HOSTDISCONNECT
+LANG_ENGLISH        "Sala de Operaciones especiales cerrada."
+
+REFERENCE           COOP_HOSTTIMEOUT
+LANG_ENGLISH        "Hace &&1 segundos que se ha perdido la conexión con el otro jugador de Operaciones especiales."
+
+REFERENCE           COOP_HOST_END_GAME
+LANG_ENGLISH        "El host terminó la partida"
+
+REFERENCE           COOP_TOOFARBEHIND
+LANG_ENGLISH        "Estamos mucho más atrás que el otro jugador de Operaciones especiales."
+
+REFERENCE           COOP_WAITINGFORPLAYER
+LANG_ENGLISH        "Falta tu compañero…"
+
+REFERENCE           COOP_WRONGCHECKSUM
+LANG_ENGLISH        "No se ha podido conectar con el host de Operaciones especiales porque utiliza otra versión del juego."
+
+REFERENCE           COOP_WRONGPROTOCOL
+LANG_ENGLISH        "No se ha podido conectar con el host de Operaciones especiales porque utiliza otra versión del protocolo."
+
+REFERENCE           COOP_WRONGSTATE
+LANG_ENGLISH        "No se ha podido conectar con el host de Operaciones especiales porque actualmente no está desconectado a la espera de conexiones cooperativas."
+
+REFERENCE           DEADQUOTE_BREAKING_RULES
+LANG_ENGLISH        "\"Se te recordará por las reglas quebrantadas, no por las obedecidas\". - General Douglas MacArthur"
+
+REFERENCE           DEADQUOTE_DOING_EVIL_FOR_GOOD
+LANG_ENGLISH        "\"En la guerra siempre se hace el mal con la esperanza de que el resultado sea bueno\". - Sir Basil H. Liddel-Hart"
+
+REFERENCE           DEADQUOTE_DO_NOTHING
+LANG_ENGLISH        "\"Lo único que hace falta para que el mal triunfe es que los hombres buenos no hagan nada\". - Edmund Burke"
+
+REFERENCE           DEADQUOTE_ENTRUST_FREEDOM
+LANG_ENGLISH        "\"La historia no suele confiar el cuidado de la libertad a los débiles ni a los tímidos por mucho tiempo\". - Dwight D. Eisenhower"
+
+REFERENCE           DEADQUOTE_GOD_TAKES_SIDES
+LANG_ENGLISH        "\"Dios está del lado del bando con la mejor artillería\". - Napoleón Bonaparte"
+
+REFERENCE           DEADQUOTE_GOING_TOO_FAR
+LANG_ENGLISH        "\"Solo los que se arriesgan a ir demasiado lejos pueden averiguar hasta dónde es posible llegar\". - T.S. Eliot"
+
+REFERENCE           DEADQUOTE_HONOR_THE_DEAD
+LANG_ENGLISH        "\"Honra a los muertos y lucha hasta el último aliento por los vivos\". - Anónimo"
+
+REFERENCE           DEADQUOTE_JUGGERNAUT_CORNERED
+LANG_ENGLISH        "No te dejes arrinconar por un Juggernaut. Mantén la distancia."
+
+REFERENCE           DEADQUOTE_JUGGERNAUT_EXPLOSIVES
+LANG_ENGLISH        "Los explosivos son muy eficaces contra los Juggernauts."
+
+REFERENCE           DEADQUOTE_JUGGERNAUT_FLASHBANGS
+LANG_ENGLISH        "Usa ^3[{+smoke}]^7 cegadoras para frenar a los Juggernauts."
+
+REFERENCE           DEADQUOTE_JUGGERNAUT_HEADSHOTS
+LANG_ENGLISH        "Apunta a la cabeza cuando te enfrentes a Juggernauts."
+
+REFERENCE           DEADQUOTE_MEDAL_OR_BODYBAG
+LANG_ENGLISH        "\"Te garantizamos una medalla, un bolsa para cadáveres o ambas cosas\". - Delta"
+
+REFERENCE           DEADQUOTE_NOT_FIT_TO_LIVE
+LANG_ENGLISH        "\"Un hombre incapaz de morir por algo no merece vivir\". - Martin Luther King, Jr."
+
+REFERENCE           DEADQUOTE_NOT_TAKEN_LIGHTLY
+LANG_ENGLISH        "\"Quitar la vida a otra persona es un gran paso. No debe darse a la ligera\". - Teniente coronel Tim Collins"
+
+REFERENCE           DEADQUOTE_PREVENT_AND_PREPARE
+LANG_ENGLISH        "\"Uno no puede evitar la guerra y prepararse para ella al mismo tiempo\". - Albert Einstein"
+
+REFERENCE           DEADQUOTE_RIOTSHIELD_DONT_CHARGE
+LANG_ENGLISH        "¡Mantén la distancia! Cargar contra un enemigo con un escudo antidisturbios no es una buena idea."
+
+REFERENCE           DEADQUOTE_RIOTSHIELD_OUT_FLANK
+LANG_ENGLISH        "¡Los escudos antidisturbios solo protegen por delante! Rodéalos y tendrás un enemigo normal y corriente."
+
+REFERENCE           DEADQUOTE_RIOTSHIELD_USE_EXPLOSIVE
+LANG_ENGLISH        "Usa granadas, RPG y lanzagranadas contra enemigos con escudos antidisturbios."
+
+REFERENCE           DEADQUOTE_ROUGH_MEN_READY
+LANG_ENGLISH        "\"Dormimos tranquilos en nuestras camas porque hay hombres duros que velan para enfrentarse a los que nos harían daño\". - George Orwell"
+
+REFERENCE           DEADQUOTE_SO_BEAT_BEST_TIME
+LANG_ENGLISH        "Intenta batir tu mejor tiempo.\nExperimenta con distintos caminos y estrategias."
+
+REFERENCE           DEADQUOTE_SO_BLED_OUT
+LANG_ENGLISH        "Un compañero ha muerto desangrado. Cuando alguien caiga, colaborad y reanimaos unos a otros."
+
+REFERENCE           DEADQUOTE_SO_CLAYMORE_ENEMIES_SHOOT
+LANG_ENGLISH        "Los enemigos dispararán a las Claymores expuestas. Guarda las tuyas a cubierto."
+
+REFERENCE           DEADQUOTE_SO_CLAYMORE_POINT_ENEMY
+LANG_ENGLISH        "Coloca las Claymores de forma que los rayos rojos miren hacia la zona desde la que se acercará el enemigo."
+
+REFERENCE           DEADQUOTE_SO_CRAWL_TO_TEAMMATE
+LANG_ENGLISH        "Si caes, intenta arrastrarte hacia tu compañero."
+
+REFERENCE           DEADQUOTE_SO_FIND_FRIEND_COOP
+LANG_ENGLISH        "¡Nadie lucha solo!\nJuega con un amigo con la pantalla dividida o dos jugadores en línea."
+
+REFERENCE           DEADQUOTE_SO_FRIENDLY_FIRE_HINT
+LANG_ENGLISH        "¡Puedes herir a tu compañero! Evita el fuego amigo."
+
+REFERENCE           DEADQUOTE_SO_FRIENDLY_FIRE_KILL
+LANG_ENGLISH        "Misión fallida por fuego amigo."
+
+REFERENCE           DEADQUOTE_SO_GRENADES_ROLL
+LANG_ENGLISH        "¡Cuidado! Las granadas ruedan cuesta abajo."
+
+REFERENCE           DEADQUOTE_SO_ICON_OBJ
+LANG_ENGLISH        "El punto blanco indica la ubicación de tu objetivo."
+
+REFERENCE           DEADQUOTE_SO_ICON_OBJ_OFFSCREEN
+LANG_ENGLISH        "Si tu objetivo no está a la vista, su icono cambiará."
+
+REFERENCE           DEADQUOTE_SO_ICON_PARTNER
+LANG_ENGLISH        "Busca el nombre de tu compañero para localizarlo. Si no está en la pantalla, la flecha verde apuntará hacia él."
+
+REFERENCE           DEADQUOTE_SO_LEFT_PLAY_AREA
+LANG_ENGLISH        "¡Mantén tu puesto!\nHas abandonado la misión."
+
+REFERENCE           DEADQUOTE_SO_RED_FIND_COVER
+LANG_ENGLISH        "Cuando todo se pone rojo, es momento de ponerse a cubierto."
+
+REFERENCE           DEADQUOTE_SO_RUN_OVER_BY_VEHICLE
+LANG_ENGLISH        "Te han arrollado. Ten cuidado con los vehículos enemigos en movimiento."
+
+REFERENCE           DEADQUOTE_SO_SEARCH_FOR_WEAPONS
+LANG_ENGLISH        "Atento a las armas especiales que pueden servirte de ayuda."
+
+REFERENCE           DEADQUOTE_SO_STAR_RANKINGS
+LANG_ENGLISH        "Superar una operación en curtido vale 2 estrellas. En veterano vale 3."
+
+REFERENCE           DEADQUOTE_SO_STAY_NEAR_TEAMMATE
+LANG_ENGLISH        "No te alejes de tu compañero y colabora con él."
+
+REFERENCE           DEADQUOTE_SO_STEALTH_LOOK_FOR_ENEMIES
+LANG_ENGLISH        "Atento a enemigos cercanos o que estén mirando hacia tu blanco antes de disparar. Elimina a todo el grupo rápidamente para mantener el sigilo."
+
+REFERENCE           DEADQUOTE_SO_STEALTH_STAY_LOW
+LANG_ENGLISH        "Agáchate. Serás más fácil de ver y de oír si estás de pie o corriendo."
+
+REFERENCE           DEADQUOTE_SO_STEALTH_USE_SILENCERS
+LANG_ENGLISH        "Usa los silenciadores. Las granadas y las armas sin silenciador llamarán mucho la atención."
+
+REFERENCE           DEADQUOTE_SO_SURVIVAL_AMMO_REFILL
+LANG_ENGLISH        "\"Reponer munición\", en el arsenal de armas, reabastecerá todas las armas que lleves."
+
+REFERENCE           DEADQUOTE_SO_SURVIVAL_ARMORY_UNLOCK
+LANG_ENGLISH        "Busca nuevos objetos en los arsenales al subir de rango."
+
+REFERENCE           DEADQUOTE_SO_SURVIVAL_ARMOR_RESTOCK
+LANG_ENGLISH        "Armadura corporal protege del daño. Cuando se acabe, puedes volver a comprarla en el arsenal de equipo."
+
+REFERENCE           DEADQUOTE_SO_SURVIVAL_ATTACHMENT
+LANG_ENGLISH        "Puede que tu arma disponga de accesorios. Cómpralos en el arsenal de armas."
+
+REFERENCE           DEADQUOTE_SO_SURVIVAL_BUY_NEW_WEAPON
+LANG_ENGLISH        "Cuando tengas que recargar munición, piensa si merece la pena comprar un arma nueva, ya que vendrá con el cargador lleno."
+
+REFERENCE           DEADQUOTE_SO_SURVIVAL_CHALLENGE_REWARD
+LANG_ENGLISH        "Completar un minidesafío más de una vez en una oleada aumentará su recompensa."
+
+REFERENCE           DEADQUOTE_SO_SURVIVAL_FRIENDLY_RIOTSHIELD
+LANG_ENGLISH        "También puedes aprovechar los escudos antidisturbios aliados si alguien deja caer el suyo en combate."
+
+REFERENCE           DEADQUOTE_SO_SURVIVAL_KILL_CHEMICAL_ENEMIES
+LANG_ENGLISH        "Conviene matar a un enemigo portador de gas tóxico cuando esté cerca de otros enemigos."
+
+REFERENCE           DEADQUOTE_SO_SURVIVAL_LAST_STAND
+LANG_ENGLISH        "Autorreanimar te permite volver a levantarte si matas a un enemigo. Puedes volver a comprarla en el arsenal de equipo."
+
+REFERENCE           DEADQUOTE_SO_SURVIVAL_RIOT_SHIELD_DAMAGE
+LANG_ENGLISH        "El escudo antidisturbios termina por romperse con el daño, pero seguirá protegiéndote un poco."
+
+REFERENCE           DEADQUOTE_SO_SURVIVAL_SENTRY_UNATTENDED
+LANG_ENGLISH        "Si abandonas tus torretas automáticas, es más probable que el enemigo vaya a por ellas."
+
+REFERENCE           DEADQUOTE_SO_SURVIVAL_STAR_RANKINGS
+LANG_ENGLISH        "Sobrevive hasta la oleada 5 para conseguir 1 estrella, hasta la 10 para conseguir 2 y hasta la 20 para conseguir 3."
+
+REFERENCE           DEADQUOTE_SO_SURVIVAL_WAVE_BONUS
+LANG_ENGLISH        "Los tiros a la cabeza, la precisión, el daño recibido y el tiempo contribuyen a la bonificación de oleada."
+
+REFERENCE           DEADQUOTE_SO_TEXT_COLOR_DIFFICULTY
+LANG_ENGLISH        "Al elegir misiones, el texto rojo indica una dificultad mayor que el texto verde."
+
+REFERENCE           DEADQUOTE_SO_THROW_FLASHBANG
+LANG_ENGLISH        "Pulsa ^3[{+smoke}]^7 para lanzar cegadoras y aturdir al enemigo."
+
+REFERENCE           DEADQUOTE_SO_TOGGLE_TIMER
+LANG_ENGLISH        "Pulsa ^3[{+actionslot 1}]^7 para alternar el tiempo y las estadísticas de la misión."
+
+REFERENCE           DEADQUOTE_SO_TOGGLE_WEAP_ALT_MODE
+LANG_ENGLISH        "Pulsa ^3[{+actionslot 3}]^7 para usar lanzagranadas y acoples con escopeta."
+
+REFERENCE           DEADQUOTE_SO_TRY_NEW_DIFFICULTY
+LANG_ENGLISH        "Si una misión de Operaciones especiales es demasiado fácil o difícil, prueba con otro nivel de dificultad."
+
+REFERENCE           DEADQUOTE_SO_TURRET_PLACEMENT
+LANG_ENGLISH        "¡Protege tus torretas! Colócalas protegidas en posiciones donde no puedan ser flanqueadas."
+
+REFERENCE           DEADQUOTE_THE_END_OF_WAR
+LANG_ENGLISH        "\"Solo los muertos han visto el final de la guerra\". - Platón"
+
+REFERENCE           DEADQUOTE_THE_WILL_TO_WIN
+LANG_ENGLISH        "\"Entrar en una guerra sin intención de ganarla es fatídico\". - General Douglas MacArthur"
+
+REFERENCE           DEADQUOTE_UNDERSTANDING_WAR
+LANG_ENGLISH        "\"El punto de partida para entender la guerra es comprender la naturaleza humana\". - S. L. A. Marshall"
+
+REFERENCE           DEADQUOTE_WAR_IS_DESTRUCTION
+LANG_ENGLISH        "\"La guerra es la ciencia de la destrucción\". - John S. C. Abbot"
+
+REFERENCE           DEADQUOTE_WAR_IS_FEAR
+LANG_ENGLISH        "\"La guerra es miedo enmascarado de valor\". - General William C. Westmoreland"
+
+REFERENCE           DEADQUOTE_WAR_IS_TERRIBLE
+LANG_ENGLISH        "\"Es bueno que las guerras sean tan terribles. De otra forma, nos aficionaríamos\". - General Robert E. Lee"
+
+REFERENCE           DEADQUOTE_WORLD_WAR_IV
+LANG_ENGLISH        "\"No sé con qué armas se luchará la III Guerra Mundial, pero la IV Guerra Mundial se librará con palos y piedras\". Albert Einstein"
+
+REFERENCE           EXE_ALL
+LANG_ENGLISH        "Todo"
+
+REFERENCE           EXE_AUTODL_CLIENTDISABLED
+LANG_ENGLISH        "No se puede descargar &&1 porque la autodescarga está desactivada en el cliente.\n\nTendrás que conseguir este archivo en otro lugar, o activar la autodescarga en tus ajustes, para conectarte al servidor."
+
+REFERENCE           EXE_AUTODL_FILENOTONSERVER
+LANG_ENGLISH        "No se ha encontrado el archivo &&1 en el servidor para autodescargarlo."
+
+REFERENCE           EXE_AUTODL_SERVERDISABLED
+LANG_ENGLISH        "No se puede descargar &&1 porque la autodescarga está desactivada en el servidor.\n\nDesactiva la autodescarga en tus ajustes y quizá puedas conectarte si tienes el archivo."
+
+REFERENCE           EXE_AUTODL_SERVERDISABLED_PURE
+LANG_ENGLISH        "No se puede descargar &&1 porque la autodescarga está desactivada en el servidor.\n\nTendrás que conseguir este archivo en otro lugar para poder conectarte a este servidor puro."
+
+REFERENCE           EXE_AWAITINGCHALLENGE
+LANG_ENGLISH        "Esperando el desafío...&&1"
+
+REFERENCE           EXE_AWAITINGCONNECTION
+LANG_ENGLISH        "Esperando la conexión...&&1"
+
+REFERENCE           EXE_AWAITINGGAMESTATE
+LANG_ENGLISH        "Configurando partida"
+
+REFERENCE           EXE_AWAITINGHOST
+LANG_ENGLISH        "Esperando a más jugadores"
+
+REFERENCE           EXE_BADSERVERADDRESS
+LANG_ENGLISH        "Dirección de servidor errónea."
+
+REFERENCE           EXE_BAD_CHALLENGE
+LANG_ENGLISH        "En la dirección no hay ningún desafío o hay un desafío erróneo."
+
+REFERENCE           EXE_BYTES
+LANG_ENGLISH        "bytes"
+
+REFERENCE           EXE_CANNOTKICKHOSTPLAYER
+LANG_ENGLISH        "No se puede expulsar al host."
+
+REFERENCE           EXE_CANNOTVALIDATEPURECLIENT
+LANG_ENGLISH        "¡No se puede validar como cliente puro!"
+
+REFERENCE           EXE_CANTAUTODLGAMEPAK
+LANG_ENGLISH        "No se puede descargar automáticamente el archivo de juego IWD &&1."
+
+REFERENCE           EXE_CHECKPOINT_REACHED
+LANG_ENGLISH        "Punto de control alcanzado."
+
+REFERENCE           EXE_COD_MULTIPLAYER
+LANG_ENGLISH        "Multijugador de Modern Warfare 3"
+
+REFERENCE           EXE_CONFIGSTRINGMISMATCH
+LANG_ENGLISH        "¡Nuestro archivo del nivel es diferente al del servidor! Anulando conexión"
+
+REFERENCE           EXE_CONNECTINGTO
+LANG_ENGLISH        "Conectando a &&1"
+
+REFERENCE           EXE_COPIED
+LANG_ENGLISH        "copiado"
+
+REFERENCE           EXE_DEMONWARE_DISCONNECT
+LANG_ENGLISH        "El servidor de Call of Duty: Modern Warfare 3 no está disponible en este momento. Vuelve a intentarlo más tarde o visita http://www.callofduty.com/mw3/status para conocer las últimas actualizaciones."
+
+REFERENCE           EXE_DISCONNECTED
+LANG_ENGLISH        "Conexión con el host perdida."
+
+REFERENCE           EXE_DISCONNECTEDFROMOWNLISTENSERVER
+LANG_ENGLISH        "El cliente ha recibido la orden de desconectarse de su servidor pasivo."
+
+REFERENCE           EXE_DNSFAILURE
+LANG_ENGLISH        "Error de DNS al intentar localizar los servidores de Activision. No podrás jugar partidas en línea hasta que reinicies."
+
+REFERENCE           EXE_DOWNLOADING
+LANG_ENGLISH        "Descargando:"
+
+REFERENCE           EXE_DOWNLOADINGUPDATE
+LANG_ENGLISH        "Descargando actualización: &&1"
+
+REFERENCE           EXE_ENDOFGAME
+LANG_ENGLISH        "Fin de la partida"
+
+REFERENCE           EXE_ERR_ARB_MULTITEX_BAD_MAX
+LANG_ENGLISH        "GL_ARB_multitexture encontrada, pero no permite múltiples texturas."
+
+REFERENCE           EXE_ERR_ARB_MULTITEX_INIT_FAILED
+LANG_ENGLISH        "GL_ARB_multitexture encontrada, pero no ha podido inicializarse."
+
+REFERENCE           EXE_ERR_BAD_GAME_FOLDER
+LANG_ENGLISH        "Carpeta de juego no válida"
+
+REFERENCE           EXE_ERR_BAD_WINDOWS_VER
+LANG_ENGLISH        "Tu versión de Microsoft Windows(TM) no es compatible con Modern Warfare 3."
+
+REFERENCE           EXE_ERR_BANNED_PERM
+LANG_ENGLISH        "Has sido excluido de este servidor de forma permanente."
+
+REFERENCE           EXE_ERR_BANNED_TEMP
+LANG_ENGLISH        "Has sido excluido de este servidor de forma temporal."
+
+REFERENCE           EXE_ERR_CANT_CREATE
+LANG_ENGLISH        "No se ha podido crear &&1."
+
+REFERENCE           EXE_ERR_CANT_WRITE
+LANG_ENGLISH        "No se ha podido escribir en &&1."
+
+REFERENCE           EXE_ERR_CLIENT_CMD_OVERFLOW
+LANG_ENGLISH        "Desbordamiento de órdenes al cliente"
+
+REFERENCE           EXE_ERR_CORRECT_FOLDER
+LANG_ENGLISH        "Asegúrate de que Modern Warfare 3 se está ejecutando desde la carpeta correcta."
+
+REFERENCE           EXE_ERR_COULDNT_CONFIGURE
+LANG_ENGLISH        "No se ha podido configurar:"
+
+REFERENCE           EXE_ERR_COULDNT_CREATE_WINDOW
+LANG_ENGLISH        "No se ha podido crear una ventana. Este es un error de Microsoft Windows(TM). Es posible que tengas que reiniciar."
+
+REFERENCE           EXE_ERR_COULDNT_INIT_REFRESH
+LANG_ENGLISH        "No se ha podido inicializar la actualización."
+
+REFERENCE           EXE_ERR_COULDNT_LOAD
+LANG_ENGLISH        "No se ha podido cargar &&1."
+
+REFERENCE           EXE_ERR_COULDNT_LOAD_OPENGL
+LANG_ENGLISH        "No se ha podido cargar OpenGL. Asegúrate de disponer de los controladores más recientes para tu tarjeta de vídeo en el sitio web del fabricante."
+
+REFERENCE           EXE_ERR_COULDNT_OPEN_URL
+LANG_ENGLISH        "No se ha podido acceder a la dirección: '&&1'"
+
+REFERENCE           EXE_ERR_COULDNT_REGISTER_WINDOW
+LANG_ENGLISH        "No se ha podido registrar una clase de ventana. Este es un error de Microsoft Windows(TM). Es posible que tengas que reiniciar."
+
+REFERENCE           EXE_ERR_COULDNT_START_PROCESS
+LANG_ENGLISH        "No se ha podido iniciar el proceso: &&1"
+
+REFERENCE           EXE_ERR_GAME_FAILED_PURE_CHECK
+LANG_ENGLISH        "El código del juego (&&1) no ha superado la comprobación del servidor puro"
+
+REFERENCE           EXE_ERR_GET_NEWEST_DRIVERS
+LANG_ENGLISH        "Debes instalar los controladores más recientes para tu tarjeta de vídeo, después de desinstalar los anteriores. Si ya has instalado los controladores más recientes, desinstálalos por completo y vuelve a instalarlos. Así se soluciona la mayoría de los problemas. Si el juego sigue sin funcionar, puede que tu tarjeta de vídeo no cumpla con los requisitos mínimos necesarios. Encontrarás más información en el archivo Readme (Léame), incluida una lista de tarjetas de vídeo compatibles."
+
+REFERENCE           EXE_ERR_HIGH_PING_ONLY
+LANG_ENGLISH        "Servidor exclusivo para jugadores con ping alto."
+
+REFERENCE           EXE_ERR_HUNGUSAGE_CORRUPT
+LANG_ENGLISH        "El archivo hunkusage.dat está dañado."
+
+REFERENCE           EXE_ERR_HUNKUSAGE_CANT_WRITE
+LANG_ENGLISH        "No se ha podido escribir en hunkusage.dat. Comprueba si el disco está lleno."
+
+REFERENCE           EXE_ERR_HUNK_ALLOC_FAILED
+LANG_ENGLISH        "El bloque de datos no ha conseguido asignar &&1 megas."
+
+REFERENCE           EXE_ERR_INVALID_CD_KEY
+LANG_ENGLISH        "La clave de producto no es válida.\nPor favor, introduce tu clave en el menú Opciones multijugador/Introducir clave, y trata de conectarte de nuevo al servidor."
+
+REFERENCE           EXE_ERR_INVALID_DEMO_FILE
+LANG_ENGLISH        "Has elegido un vídeo o clip no válido."
+
+REFERENCE           EXE_ERR_JOURNAL_FILE_READ
+LANG_ENGLISH        "Error al leer en el archivo del diario."
+
+REFERENCE           EXE_ERR_JOURNAL_FILE_WRITE
+LANG_ENGLISH        "Error al escribir en el archivo del diario."
+
+REFERENCE           EXE_ERR_LOW_PING_ONLY
+LANG_ENGLISH        "Servidor exclusivo para jugadores con ping bajo."
+
+REFERENCE           EXE_ERR_MULTITEX_BAD_MAX
+LANG_ENGLISH        "Multitextura OpenGL 1.3 encontrada, pero no permite múltiples texturas."
+
+REFERENCE           EXE_ERR_MULTITEX_INIT_FAIL
+LANG_ENGLISH        "Multitextura OpenGL 1.3 encontrada, pero no ha podido inicializarse."
+
+REFERENCE           EXE_ERR_NOT_A_DEMO_SERVER
+LANG_ENGLISH        "El servidor no es un servidor demo."
+
+REFERENCE           EXE_ERR_NOT_FOUND
+LANG_ENGLISH        "No se ha podido encontrar &&1."
+
+REFERENCE           EXE_ERR_NOT_RECEIVED
+LANG_ENGLISH        "Se ha solicitado un comando no recibido."
+
+REFERENCE           EXE_ERR_NO_LAST_SAVE
+LANG_ENGLISH        "La última partida guardada parece haberse borrado. Carga otra partida distinta en el menú Cargar partida o empieza una nueva."
+
+REFERENCE           EXE_ERR_ONLINE_DATA
+LANG_ENGLISH        "El servidor de Call of Duty: Modern Warfare 3 no está disponible en este momento. Vuelve a intentarlo más tarde o visita http://www.callofduty.com/mw3/status para conocer las últimas actualizaciones.\n\nCódigo de error: &&1"
+
+REFERENCE           EXE_ERR_OPENING_SCREENSHOT
+LANG_ENGLISH        "Se ha producido un error al abrir la captura."
+
+REFERENCE           EXE_ERR_OUT_OF_MEMORY
+LANG_ENGLISH        "Memoria agotada."
+
+REFERENCE           EXE_ERR_PROCESS_DEMO_FILE_FAILED
+LANG_ENGLISH        "Se ha producido un error al procesar este vídeo o clip."
+
+REFERENCE           EXE_ERR_QPORT
+LANG_ENGLISH        "No es posible conectar. Qport duplicado en el servidor."
+
+REFERENCE           EXE_ERR_READING_DEMO
+LANG_ENGLISH        "Se ha producido un error al leer este vídeo o clip."
+
+REFERENCE           EXE_ERR_RELIABLE_CYCLED_OUT
+LANG_ENGLISH        "Ha expirado el ciclo de un comando fiable."
+
+REFERENCE           EXE_ERR_SERVER_TIMEOUT
+LANG_ENGLISH        "Agotado el tiempo de conexión con el servidor."
+
+REFERENCE           EXE_ERR_SHOULD_BE
+LANG_ENGLISH        "debería ser"
+
+REFERENCE           EXE_ERR_UNREGISTERED_CONNECTION
+LANG_ENGLISH        "El servidor ha rechazado la solicitud de conexión."
+
+REFERENCE           EXE_ERR_VIDEOCARD_MISSING_FEATURE
+LANG_ENGLISH        "Tu tarjeta de vídeo no cumple uno o más de los requisitos necesarios para ejecutar Modern Warfare 3."
+
+REFERENCE           EXE_ERR_WRONG_MAP_VERSION_NUM
+LANG_ENGLISH        "El número de versión del mapa &&1 es incorrecto."
+
+REFERENCE           EXE_ESTIMATING
+LANG_ENGLISH        "estimando"
+
+REFERENCE           EXE_EST_TIME_LEFT
+LANG_ENGLISH        "Tiempo estimado restante:"
+
+REFERENCE           EXE_FAVORITEADDED
+LANG_ENGLISH        "Servidor favorito añadido."
+
+REFERENCE           EXE_FAVORITEADDRESSEMPTY
+LANG_ENGLISH        "La dirección del servidor está vacía."
+
+REFERENCE           EXE_FAVORITEINLIST
+LANG_ENGLISH        "Este servidor ya es un servidor favorito."
+
+REFERENCE           EXE_FAVORITELISTFULL
+LANG_ENGLISH        "La lista de favoritos ya está llena."
+
+REFERENCE           EXE_FAVORITENAMEEMPTY
+LANG_ENGLISH        "El nombre del servidor está vacío."
+
+REFERENCE           EXE_FAVORITES
+LANG_ENGLISH        "Favoritos"
+
+REFERENCE           EXE_FEATURE_PERM_BAN_CONSOLE
+LANG_ENGLISH        "Esta consola ha sido excluida permanentemente de usar esta función. Para más información, visita http://www.callofduty.com/mw3/help."
+
+REFERENCE           EXE_FEATURE_PERM_BAN_PLAYER
+LANG_ENGLISH        "&&1 ha sido excluido permanentemente de usar esta función. Para más información, visita http://www.callofduty.com/mw3/help."
+
+REFERENCE           EXE_FEATURE_TEMP_BAN_CONSOLE
+LANG_ENGLISH        "Esta consola ha sido excluida temporalmente de usar esta función. Para más información, visita http://www.callofduty.com/mw3/help."
+
+REFERENCE           EXE_FEATURE_TEMP_BAN_PLAYER
+LANG_ENGLISH        "&&1 ha sido excluido temporalmente de usar esta función. Para más información, visita http://www.callofduty.com/mw3/help."
+
+REFERENCE           EXE_GAMEISENDING
+LANG_ENGLISH        "No has podido unirte. La partida está a punto de acabar."
+
+REFERENCE           EXE_GAMESAVED
+LANG_ENGLISH        "Partida guardada"
+
+REFERENCE           EXE_GETTINGINFOFORSERVERS
+LANG_ENGLISH        "Obteniendo información de &&1/&&2 servidores (ESC para cancelar)"
+
+REFERENCE           EXE_GIGABYTE
+LANG_ENGLISH        "GB"
+
+REFERENCE           EXE_HOSTUNREACH
+LANG_ENGLISH        "No se ha podido conectar con el host"
+
+REFERENCE           EXE_HOURS
+LANG_ENGLISH        "h"
+
+REFERENCE           EXE_INTERNET
+LANG_ENGLISH        "Internet"
+
+REFERENCE           EXE_INVALIDUPDATESERVERDOWNLOAD
+LANG_ENGLISH        "Descarga no válida del servidor de actualización"
+
+REFERENCE           EXE_KEYCHANGE
+LANG_ENGLISH        "Pulsa INTRO o haz CLIC para cambiar"
+
+REFERENCE           EXE_KEYWAIT
+LANG_ENGLISH        "Pulsa ESCAPE para cancelar o RETROCESO para borrar"
+
+REFERENCE           EXE_KILOBYTE
+LANG_ENGLISH        "KB"
+
+REFERENCE           EXE_LEADERBOARD_WRITE_BAN
+LANG_ENGLISH        "Has sido excluido de aparecer en este marcador."
+
+REFERENCE           EXE_LEFTGAME
+LANG_ENGLISH        "ha abandonado la partida."
+
+REFERENCE           EXE_LOCAL
+LANG_ENGLISH        "Local"
+
+REFERENCE           EXE_LOSTCONNECTION
+LANG_ENGLISH        "Conexión con la red perdida"
+
+REFERENCE           EXE_LOSTRELIABLECOMMANDS
+LANG_ENGLISH        "Pérdida de comandos fiables"
+
+REFERENCE           EXE_MATCHENDED
+LANG_ENGLISH        "La partida ha acabado"
+
+REFERENCE           EXE_MEGABYTE
+LANG_ENGLISH        "MB"
+
+REFERENCE           EXE_MIGRATIONABORTED
+LANG_ENGLISH        "Migración de host cancelada. No hay un buen host disponible."
+
+REFERENCE           EXE_MIGRATIONABORTED_BACKOUT
+LANG_ENGLISH        "Migración de host cancelada. No hay un buen host disponible."
+
+REFERENCE           EXE_MIGRATIONDROPPED
+LANG_ENGLISH        "Migración fallida. El host ha abandonado."
+
+REFERENCE           EXE_MIGRATIONLIMIT
+LANG_ENGLISH        "Se ha alcanzado el límite de migración."
+
+REFERENCE           EXE_MIGRATION_IN_PROGRESS
+LANG_ENGLISH        "No es posible unirse a la partida porque hay una migración de host en curso."
+
+REFERENCE           EXE_MINUTES
+LANG_ENGLISH        "min"
+
+REFERENCE           EXE_MONTH_ABV_APRIL
+LANG_ENGLISH        "Abr"
+
+REFERENCE           EXE_MONTH_ABV_AUGUST
+LANG_ENGLISH        "Ago"
+
+REFERENCE           EXE_MONTH_ABV_DECEMBER
+LANG_ENGLISH        "Dic"
+
+REFERENCE           EXE_MONTH_ABV_FEBRUARY
+LANG_ENGLISH        "Feb"
+
+REFERENCE           EXE_MONTH_ABV_JANUARY
+LANG_ENGLISH        "Ene"
+
+REFERENCE           EXE_MONTH_ABV_JULY
+LANG_ENGLISH        "Jul"
+
+REFERENCE           EXE_MONTH_ABV_JUN
+LANG_ENGLISH        "Jun"
+
+REFERENCE           EXE_MONTH_ABV_JUNE
+LANG_ENGLISH        "Jun"
+
+REFERENCE           EXE_MONTH_ABV_MARCH
+LANG_ENGLISH        "Mar"
+
+REFERENCE           EXE_MONTH_ABV_MAY
+LANG_ENGLISH        "May"
+
+REFERENCE           EXE_MONTH_ABV_NOVEMBER
+LANG_ENGLISH        "Nov"
+
+REFERENCE           EXE_MONTH_ABV_OCTOBER
+LANG_ENGLISH        "Oct"
+
+REFERENCE           EXE_MONTH_ABV_SEPTEMBER
+LANG_ENGLISH        "Sep"
+
+REFERENCE           EXE_NEEDSTATS
+LANG_ENGLISH        "Error al sincronizar ajustes de juego"
+
+REFERENCE           EXE_NETSOURCE
+LANG_ENGLISH        "Fuente:     &&1"
+
+REFERENCE           EXE_NO
+LANG_ENGLISH        "No"
+
+REFERENCE           EXE_NOSAVEGAMES
+LANG_ENGLISH        "(Sin partidas guardadas)"
+
+REFERENCE           EXE_OF
+LANG_ENGLISH        "de"
+
+REFERENCE           EXE_ONLINE_PERM_BAN_CONSOLE
+LANG_ENGLISH        "Esta consola ha sido excluida permanentemente de jugar en los servidores de Call of Duty: MW3. Para más información, visita http://www.callofduty.com/mw3/help."
+
+REFERENCE           EXE_ONLINE_PERM_BAN_PLAYER
+LANG_ENGLISH        "&&1 ha sido excluido permanentemente de jugar en los servidores de Call of Duty: MW3. Para más información, visita http://www.callofduty.com/mw3/help."
+
+REFERENCE           EXE_ONLINE_PERM_BAN_PLAYER_NO_NAME
+LANG_ENGLISH        "Has sido excluido permanentemente de jugar en los servidores de Call of Duty: MW3. Para más información, visita http://www.callofduty.com/mw3/help."
+
+REFERENCE           EXE_ONLINE_TEMP_BAN_CONSOLE
+LANG_ENGLISH        "Esta consola ha sido excluida temporalmente de jugar en los servidores de Call of Duty: MW3. Para más información, visita http://www.callofduty.com/mw3/help."
+
+REFERENCE           EXE_ONLINE_TEMP_BAN_PLAYER
+LANG_ENGLISH        "&&1 ha sido excluido temporalmente de jugar en los servidores de Call of Duty: MW3. Para más información, visita http://www.callofduty.com/mw3/help."
+
+REFERENCE           EXE_ONLINE_TEMP_BAN_PLAYER_NO_NAME
+LANG_ENGLISH        "Has sido excluido temporalmente de jugar en los servidores de Call of Duty: MW3. Para más información, visita http://www.callofduty.com/mw3/help."
+
+REFERENCE           EXE_PLAYERKICKED
+LANG_ENGLISH        "Jugador expulsado."
+
+REFERENCE           EXE_PLAYERKICKED_INACTIVE
+LANG_ENGLISH        "Expulsado por inactividad."
+
+REFERENCE           EXE_REFRESHTIME
+LANG_ENGLISH        "Tiempo de actualización: &&1"
+
+REFERENCE           EXE_SAY
+LANG_ENGLISH        "decir"
+
+REFERENCE           EXE_SAYTEAM
+LANG_ENGLISH        "decir_equipo"
+
+REFERENCE           EXE_SECONDS
+LANG_ENGLISH        "seg"
+
+REFERENCE           EXE_SERVERCOMMANDOVERFLOW
+LANG_ENGLISH        "Desbordamiento de comandos del servidor"
+
+REFERENCE           EXE_SERVERDIDNTHAVECD
+LANG_ENGLISH        "El servidor no tenía CD"
+
+REFERENCE           EXE_SERVERDISCONNECTREASON
+LANG_ENGLISH        "&&1"
+
+REFERENCE           EXE_SERVERFILTER
+LANG_ENGLISH        "Filtro: &&1"
+
+REFERENCE           EXE_SERVERISFULL
+LANG_ENGLISH        "El servidor está lleno."
+
+REFERENCE           EXE_SERVERKILLED
+LANG_ENGLISH        "Servidor muerto."
+
+REFERENCE           EXE_SERVERMESSAGEOVERFLOW
+LANG_ENGLISH        "Desbordamiento de mensajes del servidor"
+
+REFERENCE           EXE_SERVERQUIT
+LANG_ENGLISH        "El servidor ha abandonado"
+
+REFERENCE           EXE_SERVERRESTARTMISC
+LANG_ENGLISH        "Reiniciando el servidor debido al desfase de &&1."
+
+REFERENCE           EXE_SERVERRESTARTTIMEWRAP
+LANG_ENGLISH        "Reiniciando el servidor debido al desfase temporal"
+
+REFERENCE           EXE_SERVERSHUTDOWNMISC
+LANG_ENGLISH        "Deteniendo la partida debido al desfase de &&1."
+
+REFERENCE           EXE_SERVERSHUTDOWNTIMEWRAP
+LANG_ENGLISH        "Deteniendo la partida debido al desfase."
+
+REFERENCE           EXE_SERVER_DISCONNECTED
+LANG_ENGLISH        "Servidor desconectado"
+
+REFERENCE           EXE_SERVER_FATAL_CRASHED
+LANG_ENGLISH        "Bloqueo fatal del servidor:"
+
+REFERENCE           EXE_SERVER_IS_DIFFERENT_VER
+LANG_ENGLISH        "El servidor es de una versión distinta:\n&&1"
+
+REFERENCE           EXE_SV_INFO_ADDRESS
+LANG_ENGLISH        "Dirección IP"
+
+REFERENCE           EXE_SV_INFO_ALLOWANON
+LANG_ENGLISH        "Permitir anónimos"
+
+REFERENCE           EXE_SV_INFO_ANTILAG
+LANG_ENGLISH        "Antirretardo"
+
+REFERENCE           EXE_SV_INFO_CLIENT_CONSOLE
+LANG_ENGLISH        "Consola cliente"
+
+REFERENCE           EXE_SV_INFO_COMPASS_ENEMIES
+LANG_ENGLISH        "Brújula de los enemigos"
+
+REFERENCE           EXE_SV_INFO_FLOODPROTECT
+LANG_ENGLISH        "Protección de saturación"
+
+REFERENCE           EXE_SV_INFO_FRIENDLY_FIRE
+LANG_ENGLISH        "Fuego amigo"
+
+REFERENCE           EXE_SV_INFO_GAMENAME
+LANG_ENGLISH        "Nombre de la partida"
+
+REFERENCE           EXE_SV_INFO_GAMETYPE
+LANG_ENGLISH        "Tipo de partida"
+
+REFERENCE           EXE_SV_INFO_HARDCORE
+LANG_ENGLISH        "Extremo"
+
+REFERENCE           EXE_SV_INFO_KILLCAM
+LANG_ENGLISH        "Cámara de muerte"
+
+REFERENCE           EXE_SV_INFO_MAP
+LANG_ENGLISH        "Mapa"
+
+REFERENCE           EXE_SV_INFO_MAXCLIENTS
+LANG_ENGLISH        "Máx. clientes"
+
+REFERENCE           EXE_SV_INFO_MAXPING
+LANG_ENGLISH        "Ping máx."
+
+REFERENCE           EXE_SV_INFO_MAXRATE
+LANG_ENGLISH        "Tasa máx."
+
+REFERENCE           EXE_SV_INFO_MINPING
+LANG_ENGLISH        "Ping mín."
+
+REFERENCE           EXE_SV_INFO_MOD
+LANG_ENGLISH        "Mod"
+
+REFERENCE           EXE_SV_INFO_NAME
+LANG_ENGLISH        "nombre"
+
+REFERENCE           EXE_SV_INFO_NUM
+LANG_ENGLISH        "núm."
+
+REFERENCE           EXE_SV_INFO_PASSWORD
+LANG_ENGLISH        "Con contraseña"
+
+REFERENCE           EXE_SV_INFO_PING
+LANG_ENGLISH        "ping"
+
+REFERENCE           EXE_SV_INFO_PRIVATECLIENTS
+LANG_ENGLISH        "Clientes privados"
+
+REFERENCE           EXE_SV_INFO_PROTOCOL
+LANG_ENGLISH        "Versión del protocolo"
+
+REFERENCE           EXE_SV_INFO_PURE
+LANG_ENGLISH        "Servidor puro"
+
+REFERENCE           EXE_SV_INFO_SCORE
+LANG_ENGLISH        "puntuación"
+
+REFERENCE           EXE_SV_INFO_SERVERNAME
+LANG_ENGLISH        "Nombre del servidor"
+
+REFERENCE           EXE_SV_INFO_VERSION
+LANG_ENGLISH        "Versión"
+
+REFERENCE           EXE_SV_INFO_VOICE
+LANG_ENGLISH        "Voz"
+
+REFERENCE           EXE_TEMP_BAN_DAYS
+LANG_ENGLISH        "Quedan &&1 días para poder disponer de acceso."
+
+REFERENCE           EXE_TEMP_BAN_HOURS
+LANG_ENGLISH        "Quedan &&1 horas para poder disponer de acceso."
+
+REFERENCE           EXE_TIMEDOUT
+LANG_ENGLISH        "Tiempo agotado"
+
+REFERENCE           EXE_TRANSMITERROR
+LANG_ENGLISH        "Desconectado a causa de un error de transmisión"
+
+REFERENCE           EXE_TRANS_RATE
+LANG_ENGLISH        "Tasa de transferencia:"
+
+REFERENCE           EXE_UNPURECLIENTDETECTED
+LANG_ENGLISH        "Cliente impuro detectado. ¡Se han encontrado archivos .IWD no válidos!"
+
+REFERENCE           EXE_UPLOADINGSTATS
+LANG_ENGLISH        "Sincronizando ajustes de juego"
+
+REFERENCE           EXE_WAITINGFORMASTERSERVERRESPONSE
+LANG_ENGLISH        "Esperando la respuesta del servidor maestro"
+
+REFERENCE           EXE_YES
+LANG_ENGLISH        "Sí"
+
+REFERENCE           GAME_BADCLIENTSLOT
+LANG_ENGLISH        "Espacio de usuario defectuoso:"
+
+REFERENCE           GAME_CALLEDAVOTE
+LANG_ENGLISH        "&&1 ha solicitado una votación."
+
+REFERENCE           GAME_CANT_GET_GRENADE_WEAP_MESSAGE
+LANG_ENGLISH        "Para recoger granadas de otro tipo, debes tener seleccionadas las granadas."
+
+REFERENCE           GAME_CANT_GET_PISTOL_WEAP_MESSAGE
+LANG_ENGLISH        "Para recoger otra pistola, debes tener seleccionada la pistola."
+
+REFERENCE           GAME_CANT_GET_SMOKER_WEAP_MESSAGE
+LANG_ENGLISH        "Para recoger un tipo de granada de humo diferente, debes tener seleccionadas las granadas de humo."
+
+REFERENCE           GAME_CHANGEDTO
+LANG_ENGLISH        "ha cambiado a"
+
+REFERENCE           GAME_CHEATSNOTENABLED
+LANG_ENGLISH        "En este servidor no se permiten cheats."
+
+REFERENCE           GAME_CLIENTNOTACTIVE
+LANG_ENGLISH        "El cliente &&1 no está activo."
+
+REFERENCE           GAME_CLIENTNOTONSERVER
+LANG_ENGLISH        "El cliente no está en el servidor."
+
+REFERENCE           GAME_COMPLAINTFILEDAGAINST
+LANG_ENGLISH        "Se ha formulado una queja contra ti. (&&1 hasta tu expulsión)"
+
+REFERENCE           GAME_CROUCH_BLOCKED
+LANG_ENGLISH        "Aquí no puedes estar agachado"
+
+REFERENCE           GAME_CROUCH_BLOCKED_WEAPON
+LANG_ENGLISH        "No puedes agacharte para usar esta arma aquí."
+
+REFERENCE           GAME_CUSTOM_GAMEMODE
+LANG_ENGLISH        "Modo de juego personalizado de Modern Warfare 3"
+
+REFERENCE           GAME_DEAD
+LANG_ENGLISH        "Muerto"
+
+REFERENCE           GAME_DEMI_GODMODE_OFF
+LANG_ENGLISH        "Modo demigod NO"
+
+REFERENCE           GAME_DEMI_GODMODE_ON
+LANG_ENGLISH        "Modo demigod SÍ"
+
+REFERENCE           GAME_DIFFICULTY_FU
+LANG_ENGLISH        "Dificultad: veterano"
+
+REFERENCE           GAME_DIFFICULTY_HARD
+LANG_ENGLISH        "Dificultad: curtido"
+
+REFERENCE           GAME_DIFFICULTY_MEDIUM
+LANG_ENGLISH        "Dificultad: profesional"
+
+REFERENCE           GAME_DIFFICULTY_UNKNOWN
+LANG_ENGLISH        "Dificultad: desconocida"
+
+REFERENCE           GAME_DROPPEDFORINACTIVITY
+LANG_ENGLISH        "Expulsado del servidor por inactividad."
+
+REFERENCE           GAME_ERR_SAVEGAME_BAD
+LANG_ENGLISH        "La partida guardada ha caducado o está dañada."
+
+REFERENCE           GAME_GC_COMEHERE
+LANG_ENGLISH        "Aquí."
+
+REFERENCE           GAME_GC_COVERME
+LANG_ENGLISH        "Fuego de cobertura."
+
+REFERENCE           GAME_GC_GUARDLOCATION
+LANG_ENGLISH        "Protege esta posición."
+
+REFERENCE           GAME_GC_HOLDTHISPOSITION
+LANG_ENGLISH        "Defiende esta posición."
+
+REFERENCE           GAME_GC_HOLDYOURPOSITION
+LANG_ENGLISH        "Defiende tu posición."
+
+REFERENCE           GAME_GC_REPORT
+LANG_ENGLISH        "Informa."
+
+REFERENCE           GAME_GC_SEARCHDESTROY
+LANG_ENGLISH        "Busca y destruye."
+
+REFERENCE           GAME_GET_TO_COVER
+LANG_ENGLISH        "Estás herido. ¡A cubierto!"
+
+REFERENCE           GAME_GODMODE_OFF
+LANG_ENGLISH        "godmode NO"
+
+REFERENCE           GAME_GODMODE_ON
+LANG_ENGLISH        "godmode SÍ"
+
+REFERENCE           GAME_HEALTH
+LANG_ENGLISH        "Salud"
+
+REFERENCE           GAME_INACTIVEDROPWARNING
+LANG_ENGLISH        "Aviso: estás a punto de ser expulsado por inactividad."
+
+REFERENCE           GAME_INVALIDGAMETYPE
+LANG_ENGLISH        "Tipo de partida no válido."
+
+REFERENCE           GAME_INVALIDPASSWORD
+LANG_ENGLISH        "Contraseña no válida."
+
+REFERENCE           GAME_INVALIDSERVER
+LANG_ENGLISH        "Servidor no válido."
+
+REFERENCE           GAME_INVALIDVOTESTRING
+LANG_ENGLISH        "Cadena de voto no válida."
+
+REFERENCE           GAME_KICKEDFROMCOMPLAINTS
+LANG_ENGLISH        "expulsado tras numerosas quejas."
+
+REFERENCE           GAME_LAST_STAND_GET_BACK_UP
+LANG_ENGLISH        "¡Mata a un enemigo para recuperarte!"
+
+REFERENCE           GAME_LEVELTIME
+LANG_ENGLISH        "Duración del nivel"
+
+REFERENCE           GAME_MARINES
+LANG_ENGLISH        "Marines"
+
+REFERENCE           GAME_MAXVOTESCALLED
+LANG_ENGLISH        "Ya has solicitado el número máximo de votaciones."
+
+REFERENCE           GAME_MISSIONFAILED
+LANG_ENGLISH        "Misión fallida"
+
+REFERENCE           GAME_MPOFF
+LANG_ENGLISH        "Previsualizar modelo NO"
+
+REFERENCE           GAME_MPON
+LANG_ENGLISH        "Previsualizar modelo Sí"
+
+REFERENCE           GAME_MUSTBEALIVECOMMAND
+LANG_ENGLISH        "Para usar este comando tienes que estar vivo."
+
+REFERENCE           GAME_NEXTMAPNOTSET
+LANG_ENGLISH        "nextmap no especificado."
+
+REFERENCE           GAME_NOCLIPOFF
+LANG_ENGLISH        "noclip NO"
+
+REFERENCE           GAME_NOCLIPON
+LANG_ENGLISH        "noclip SÍ"
+
+REFERENCE           GAME_NOSPECTATORCALLVOTE
+LANG_ENGLISH        "No se puede solicitar una votación como espectador."
+
+REFERENCE           GAME_NOSPECTATORVOTE
+LANG_ENGLISH        "No se puede votar como espectador."
+
+REFERENCE           GAME_NOTARGETOFF
+LANG_ENGLISH        "notarget NO"
+
+REFERENCE           GAME_NOTARGETON
+LANG_ENGLISH        "notarget SÍ"
+
+REFERENCE           GAME_NOVOTEINPROGRESS
+LANG_ENGLISH        "No hay ninguna votación en marcha."
+
+REFERENCE           GAME_OBJECTIVECOMPLETED
+LANG_ENGLISH        "Objetivo cumplido."
+
+REFERENCE           GAME_OBJECTIVEFAILED
+LANG_ENGLISH        "Objetivo fallido."
+
+REFERENCE           GAME_OBJECTIVESUPDATED
+LANG_ENGLISH        "Objetivos actualizados."
+
+REFERENCE           GAME_OFFLINE_STATS
+LANG_ENGLISH        "Progresos multijugador de \"&&1\""
+
+REFERENCE           GAME_ONLINE_UPDATE_DESCRIPTION
+LANG_ENGLISH        "Actualización en línea de Modern Warfare 3"
+
+REFERENCE           GAME_OPFOR
+LANG_ENGLISH        "Rivales"
+
+REFERENCE           GAME_PICKUP_AMMO
+LANG_ENGLISH        "Has conseguido munición para &&1."
+
+REFERENCE           GAME_PICKUP_CANTCARRYMOREAMMO
+LANG_ENGLISH        "Munición para &&1 llena."
+
+REFERENCE           GAME_PICKUP_CLIPONLY_AMMO
+LANG_ENGLISH        "Has conseguido munición para &&1"
+
+REFERENCE           GAME_REPLAY_FILE
+LANG_ENGLISH        "Archivo de repeticiÃ³n"
+
+REFERENCE           GAME_SAVE_DESCRIPTION
+LANG_ENGLISH        "Partida guardada de Modern Warfare 3"
+
+REFERENCE           GAME_SAVE_INSUFFICIENT_FREE_DISK
+LANG_ENGLISH        "No hay espacio suficiente libre en el disco.\n\nLibera al menos 5 MB de espacio en la unidad del juego."
+
+REFERENCE           GAME_SAVE_UNABLE_TO_ACCESS_DEVICE
+LANG_ENGLISH        "No se ha podido acceder al dispositivo de guardado. Comprueba que tienes un perfil de usuario válido (cuenta Xbox LIVE; utiliza \"Herramientas\" en el programa de inicio Xbox 360)."
+
+REFERENCE           GAME_SAVE_UNABLE_TO_READ_FROM_DEVICE
+LANG_ENGLISH        "No se ha podido leer del dispositivo de memoria. Comprueba que el dispositivo está correctamente insertado."
+
+REFERENCE           GAME_SERVER
+LANG_ENGLISH        "Servidor"
+
+REFERENCE           GAME_SPAMPROTECT
+LANG_ENGLISH        "Protección contra spam"
+
+REFERENCE           GAME_SPECTATOR
+LANG_ENGLISH        "Espectador"
+
+REFERENCE           GAME_STAND_BLOCKED
+LANG_ENGLISH        "Aquí no puedes levantarte"
+
+REFERENCE           GAME_STAND_BLOCKED_WEAPON
+LANG_ENGLISH        "No puedes ponerte de pie para usar esta arma aquí."
+
+REFERENCE           GAME_TYPEMAP_NOCHANGE
+LANG_ENGLISH        "La votación no cambiará el tipo de partida ni el mapa."
+
+REFERENCE           GAME_UFOOFF
+LANG_ENGLISH        "ufomode NO"
+
+REFERENCE           GAME_UFOON
+LANG_ENGLISH        "ufomode SÍ"
+
+REFERENCE           GAME_UNKNOWNCLIENTCOMMAND
+LANG_ENGLISH        "Comando desconocido &&1"
+
+REFERENCE           GAME_USAGE
+LANG_ENGLISH        "uso"
+
+REFERENCE           GAME_USERNOTONSERVER
+LANG_ENGLISH        "El usuario &&1 no está en el servidor."
+
+REFERENCE           GAME_VOICECHATIGNORED
+LANG_ENGLISH        "Charla de voz ignorada"
+
+REFERENCE           GAME_VOTEALREADYCAST
+LANG_ENGLISH        "Voto ya emitido."
+
+REFERENCE           GAME_VOTEALREADYINPROGRESS
+LANG_ENGLISH        "Se está realizando una votación."
+
+REFERENCE           GAME_VOTECAST
+LANG_ENGLISH        "Voto emitido."
+
+REFERENCE           GAME_VOTECOMMANDSARE
+LANG_ENGLISH        "Los comandos de voto son:"
+
+REFERENCE           GAME_VOTEFAILED
+LANG_ENGLISH        "Votación rechazada."
+
+REFERENCE           GAME_VOTEPASSED
+LANG_ENGLISH        "Votación aprobada."
+
+REFERENCE           GAME_VOTE_GAMETYPE
+LANG_ENGLISH        "Tipo de partida: "
+
+REFERENCE           GAME_VOTE_KICK
+LANG_ENGLISH        "Expulsar jugador: &&1"
+
+REFERENCE           GAME_VOTE_MAP
+LANG_ENGLISH        "Mapa: "
+
+REFERENCE           GAME_VOTE_MAPRESTART
+LANG_ENGLISH        "Reiniciar mapa"
+
+REFERENCE           GAME_VOTE_NEXTMAP
+LANG_ENGLISH        "Mapa siguiente"
+
+REFERENCE           GAME_VOTINGNOTENABLED
+LANG_ENGLISH        "En este servidor no se admiten votaciones."
+
+REFERENCE           GAME_VOTINGNOTENOUGHPLAYERS
+LANG_ENGLISH        "No hay suficientes jugadores para solicitar una votación."
+
+REFERENCE           GAME_WARNING
+LANG_ENGLISH        "ADVERTENCIA"
+
+REFERENCE           KEY_ALT
+LANG_ENGLISH        "Alt"
+
+REFERENCE           KEY_AUX1
+LANG_ENGLISH        "Auxiliar 1"
+
+REFERENCE           KEY_AUX10
+LANG_ENGLISH        "Auxiliar 10"
+
+REFERENCE           KEY_AUX11
+LANG_ENGLISH        "Auxiliar 11"
+
+REFERENCE           KEY_AUX12
+LANG_ENGLISH        "Auxiliar 12"
+
+REFERENCE           KEY_AUX13
+LANG_ENGLISH        "Auxiliar 13"
+
+REFERENCE           KEY_AUX14
+LANG_ENGLISH        "Auxiliar 14"
+
+REFERENCE           KEY_AUX15
+LANG_ENGLISH        "Auxiliar 15"
+
+REFERENCE           KEY_AUX16
+LANG_ENGLISH        "Auxiliar 16"
+
+REFERENCE           KEY_AUX2
+LANG_ENGLISH        "Auxiliar 2"
+
+REFERENCE           KEY_AUX3
+LANG_ENGLISH        "Auxiliar 3"
+
+REFERENCE           KEY_AUX4
+LANG_ENGLISH        "Auxiliar 4"
+
+REFERENCE           KEY_AUX5
+LANG_ENGLISH        "Auxiliar 5"
+
+REFERENCE           KEY_AUX6
+LANG_ENGLISH        "Auxiliar 6"
+
+REFERENCE           KEY_AUX7
+LANG_ENGLISH        "Auxiliar 7"
+
+REFERENCE           KEY_AUX8
+LANG_ENGLISH        "Auxiliar 8"
+
+REFERENCE           KEY_AUX9
+LANG_ENGLISH        "Auxiliar 9"
+
+REFERENCE           KEY_BACKSPACE
+LANG_ENGLISH        "Retroceso"
+
+REFERENCE           KEY_CAPSLOCK
+LANG_ENGLISH        "Bloq Mayús"
+
+REFERENCE           KEY_COMMAND
+LANG_ENGLISH        "Control"
+
+REFERENCE           KEY_CTRL
+LANG_ENGLISH        "Ctrl"
+
+REFERENCE           KEY_DEL
+LANG_ENGLISH        "Supr"
+
+REFERENCE           KEY_DOWNARROW
+LANG_ENGLISH        "Cursor abajo"
+
+REFERENCE           KEY_END
+LANG_ENGLISH        "Fin"
+
+REFERENCE           KEY_ENTER
+LANG_ENGLISH        "Intro"
+
+REFERENCE           KEY_ESCAPE
+LANG_ENGLISH        "Escape"
+
+REFERENCE           KEY_F1
+LANG_ENGLISH        "F1"
+
+REFERENCE           KEY_F10
+LANG_ENGLISH        "F10"
+
+REFERENCE           KEY_F11
+LANG_ENGLISH        "F11"
+
+REFERENCE           KEY_F12
+LANG_ENGLISH        "F12"
+
+REFERENCE           KEY_F2
+LANG_ENGLISH        "F2"
+
+REFERENCE           KEY_F3
+LANG_ENGLISH        "F3"
+
+REFERENCE           KEY_F4
+LANG_ENGLISH        "F4"
+
+REFERENCE           KEY_F5
+LANG_ENGLISH        "F5"
+
+REFERENCE           KEY_F6
+LANG_ENGLISH        "F6"
+
+REFERENCE           KEY_F7
+LANG_ENGLISH        "F7"
+
+REFERENCE           KEY_F8
+LANG_ENGLISH        "F8"
+
+REFERENCE           KEY_F9
+LANG_ENGLISH        "F9"
+
+REFERENCE           KEY_HOME
+LANG_ENGLISH        "Inicio"
+
+REFERENCE           KEY_INS
+LANG_ENGLISH        "Insert"
+
+REFERENCE           KEY_JOY1
+LANG_ENGLISH        "Joystick 1"
+
+REFERENCE           KEY_JOY10
+LANG_ENGLISH        "Joystick 10"
+
+REFERENCE           KEY_JOY11
+LANG_ENGLISH        "Joystick 11"
+
+REFERENCE           KEY_JOY12
+LANG_ENGLISH        "Joystick 12"
+
+REFERENCE           KEY_JOY13
+LANG_ENGLISH        "Joystick 13"
+
+REFERENCE           KEY_JOY14
+LANG_ENGLISH        "Joystick 14"
+
+REFERENCE           KEY_JOY15
+LANG_ENGLISH        "Joystick 15"
+
+REFERENCE           KEY_JOY16
+LANG_ENGLISH        "Joystick 16"
+
+REFERENCE           KEY_JOY17
+LANG_ENGLISH        "Joystick 17"
+
+REFERENCE           KEY_JOY18
+LANG_ENGLISH        "Joystick 18"
+
+REFERENCE           KEY_JOY19
+LANG_ENGLISH        "Joystick 19"
+
+REFERENCE           KEY_JOY2
+LANG_ENGLISH        "Joystick 2"
+
+REFERENCE           KEY_JOY20
+LANG_ENGLISH        "Joystick 20"
+
+REFERENCE           KEY_JOY21
+LANG_ENGLISH        "Joystick 21"
+
+REFERENCE           KEY_JOY22
+LANG_ENGLISH        "Joystick 22"
+
+REFERENCE           KEY_JOY23
+LANG_ENGLISH        "Joystick 23"
+
+REFERENCE           KEY_JOY24
+LANG_ENGLISH        "Joystick 24"
+
+REFERENCE           KEY_JOY25
+LANG_ENGLISH        "Joystick 25"
+
+REFERENCE           KEY_JOY26
+LANG_ENGLISH        "Joystick 26"
+
+REFERENCE           KEY_JOY27
+LANG_ENGLISH        "Joystick 27"
+
+REFERENCE           KEY_JOY28
+LANG_ENGLISH        "Joystick 28"
+
+REFERENCE           KEY_JOY29
+LANG_ENGLISH        "Joystick 29"
+
+REFERENCE           KEY_JOY3
+LANG_ENGLISH        "Joystick 3"
+
+REFERENCE           KEY_JOY30
+LANG_ENGLISH        "Joystick 30"
+
+REFERENCE           KEY_JOY31
+LANG_ENGLISH        "Joystick 31"
+
+REFERENCE           KEY_JOY32
+LANG_ENGLISH        "Joystick 32"
+
+REFERENCE           KEY_JOY4
+LANG_ENGLISH        "Joystick 4"
+
+REFERENCE           KEY_JOY5
+LANG_ENGLISH        "Joystick 5"
+
+REFERENCE           KEY_JOY6
+LANG_ENGLISH        "Joystick 6"
+
+REFERENCE           KEY_JOY7
+LANG_ENGLISH        "Joystick 7"
+
+REFERENCE           KEY_JOY8
+LANG_ENGLISH        "Joystick 8"
+
+REFERENCE           KEY_JOY9
+LANG_ENGLISH        "Joystick 9"
+
+REFERENCE           KEY_KP_5
+LANG_ENGLISH        "Num 5"
+
+REFERENCE           KEY_KP_DEL
+LANG_ENGLISH        "Num Supr"
+
+REFERENCE           KEY_KP_DOWNARROW
+LANG_ENGLISH        "Num C. abajo"
+
+REFERENCE           KEY_KP_END
+LANG_ENGLISH        "Num Fin"
+
+REFERENCE           KEY_KP_ENTER
+LANG_ENGLISH        "Num Intro"
+
+REFERENCE           KEY_KP_EQUALS
+LANG_ENGLISH        "Num Igual"
+
+REFERENCE           KEY_KP_HOME
+LANG_ENGLISH        "Num Inicio"
+
+REFERENCE           KEY_KP_INS
+LANG_ENGLISH        "Num Ins"
+
+REFERENCE           KEY_KP_LEFTARROW
+LANG_ENGLISH        "Num C. izda."
+
+REFERENCE           KEY_KP_MINUS
+LANG_ENGLISH        "Num Menos"
+
+REFERENCE           KEY_KP_NUMLOCK
+LANG_ENGLISH        "Bloq Num"
+
+REFERENCE           KEY_KP_PGDN
+LANG_ENGLISH        "Num Av Pág"
+
+REFERENCE           KEY_KP_PGUP
+LANG_ENGLISH        "Num Re Pág"
+
+REFERENCE           KEY_KP_PLUS
+LANG_ENGLISH        "Num Más"
+
+REFERENCE           KEY_KP_RIGHTARROW
+LANG_ENGLISH        "Num C. dcha."
+
+REFERENCE           KEY_KP_SLASH
+LANG_ENGLISH        "Num Barra"
+
+REFERENCE           KEY_KP_STAR
+LANG_ENGLISH        "Num Asterisco"
+
+REFERENCE           KEY_KP_UPARROW
+LANG_ENGLISH        "Num C. arriba"
+
+REFERENCE           KEY_LEFTARROW
+LANG_ENGLISH        "Cursor izda."
+
+REFERENCE           KEY_MOUSE1
+LANG_ENGLISH        "Ratón izda."
+
+REFERENCE           KEY_MOUSE2
+LANG_ENGLISH        "Ratón dcha."
+
+REFERENCE           KEY_MOUSE3
+LANG_ENGLISH        "Ratón central"
+
+REFERENCE           KEY_MOUSE4
+LANG_ENGLISH        "Ratón 4"
+
+REFERENCE           KEY_MOUSE5
+LANG_ENGLISH        "Ratón 5"
+
+REFERENCE           KEY_MWHEELDOWN
+LANG_ENGLISH        "Rueda abajo"
+
+REFERENCE           KEY_MWHEELUP
+LANG_ENGLISH        "Rueda arriba"
+
+REFERENCE           KEY_OR
+LANG_ENGLISH        "o"
+
+REFERENCE           KEY_PAUSE
+LANG_ENGLISH        "Pausa"
+
+REFERENCE           KEY_PGDN
+LANG_ENGLISH        "Av Pág"
+
+REFERENCE           KEY_PGUP
+LANG_ENGLISH        "Re Pág"
+
+REFERENCE           KEY_RIGHTARROW
+LANG_ENGLISH        "Cursor dcha."
+
+REFERENCE           KEY_SEMICOLON
+LANG_ENGLISH        "ñ"
+
+REFERENCE           KEY_SHIFT
+LANG_ENGLISH        "Mayúsculas"
+
+REFERENCE           KEY_SPACE
+LANG_ENGLISH        "Espacio"
+
+REFERENCE           KEY_TAB
+LANG_ENGLISH        "Tab"
+
+REFERENCE           KEY_UNBOUND
+LANG_ENGLISH        "Sin establecer"
+
+REFERENCE           KEY_UPARROW
+LANG_ENGLISH        "Cursor arriba"
+
+REFERENCE           KEY_USE
+LANG_ENGLISH        "usar"
+
+REFERENCE           MESSAGEBOX_CALL_OF_DUTY_COULDNT
+LANG_ENGLISH        "Modern Warfare 3 no pudo escribir un archivo. Parece que el disco duro está lleno."
+
+REFERENCE           MESSAGEBOX_FILE_WRITE_ERROR
+LANG_ENGLISH        "Error al escribir archivo"
+
+REFERENCE           MESSAGEBOX_HARDWARE_CHANGE_DETECTED
+LANG_ENGLISH        "Detectado cambio en el hardware"
+
+REFERENCE           MESSAGEBOX_IMPROPER_QUIT_DETECTED
+LANG_ENGLISH        "Detectada salida inadecuada"
+
+REFERENCE           MESSAGEBOX_IT_APPEARS_THAT_CALL
+LANG_ENGLISH        "Parece que Modern Warfare 3 no se cerró correctamente la última vez que lo ejecutaste. ¿Quieres ejecutar el juego en modo seguro? Esta opción es recomendable casi siempre. Cambiarán los ajustes del sistema pero no tus controles."
+
+REFERENCE           MESSAGEBOX_IT_IS_HIGHLY_UNLIKELY
+LANG_ENGLISH        "Es poco probable que puedas inicializar una ventana del tamaño correcto con el ajuste de vista de escritorio actual. Selecciona \"Aceptar\" para intentarlo de todas formas. Pulsa \"Cancelar\" si quieres salir."
+
+REFERENCE           MESSAGEBOX_IT_LOOKS_LIKE_YOU_ARE
+LANG_ENGLISH        "Parece que te queda poca memoria virtual. Esto puede provocar que el juego se ejecute lentamente o incluso que se pare por completo. Es recomendable que cierres algunos programas antes de ejecutar Modern Warfare 3. ¿Quieres ejecutar Modern Warfare 3 de todas formas?"
+
+REFERENCE           MESSAGEBOX_LOW_DESKTOP_COLOR_DEPTH
+LANG_ENGLISH        "Profundidad de color de escritorio baja"
+
+REFERENCE           MESSAGEBOX_LOW_MEMORY
+LANG_ENGLISH        "Poca memoria"
+
+REFERENCE           MESSAGEBOX_RECOMMENDED_SETTINGS
+LANG_ENGLISH        "Ajustes recomendados actualizados"
+
+REFERENCE           MESSAGEBOX_THE_RECOMMENDED_SETTINGS
+LANG_ENGLISH        "Los ajustes recomendados se han actualizado desde la última vez que ejecutaste Modern Warfare 3. ¿Quieres que el juego se configure óptimamente con estos nuevos ajustes? Esta opción es recomendable casi siempre. Cambiarán los ajustes del sistema pero no tus controles."
+
+REFERENCE           MESSAGEBOX_YOUR_COMPUTER_APPEARS
+LANG_ENGLISH        "Parece que tu ordenador ha cambiado desde la última vez que ejecutaste Modern Warfare 3. ¿Quieres que el juego se configure óptimamente para tu nuevo hardware? Esta opción es recomendable casi siempre. Cambiarán los ajustes del sistema pero no tus controles."
+
+REFERENCE           NEW_DOG_DEATH_DO_NOTHING_ALT
+LANG_ENGLISH        "Pulsa ^3[{+melee}]^7 cuando aparezca la indicación para agarrar a un perro."
+
+REFERENCE           NEW_DOG_DEATH_TOO_LATE_ALT
+LANG_ENGLISH        "Demasiado tarde. Pulsa ^3[{+melee}]^7 cuando aparezca la indicación para agarrar a un perro."
+
+REFERENCE           NEW_DOG_DEATH_TOO_SOON_ALT
+LANG_ENGLISH        "Demasiado pronto. Pulsa ^3[{+melee}]^7 cuando aparezca la indicación para agarrar a un perro."
+
+REFERENCE           NEW_HYENA_DEATH_DO_NOTHING_ALT
+LANG_ENGLISH        "Pulsa ^3[{+melee}]^7 cuando aparezca la indicación para agarrar a una hiena."
+
+REFERENCE           NEW_HYENA_DEATH_TOO_LATE_ALT
+LANG_ENGLISH        "Demasiado tarde. Pulsa ^3[{+melee}]^7 cuando aparezca la indicación para agarrar a una hiena."
+
+REFERENCE           NEW_HYENA_DEATH_TOO_SOON_ALT
+LANG_ENGLISH        "Demasiado pronto. Pulsa ^3[{+melee}]^7 cuando aparezca la indicación para agarrar a una hiena."
+
+REFERENCE           PAINTER_2A1B7_
+LANG_ENGLISH        "^2A/^1B^7: "
+
+REFERENCE           PAINTER_4X3Y_
+LANG_ENGLISH        "^4X/^3Y: "
+
+REFERENCE           PAINTER_5DENSITY_
+LANG_ENGLISH        "^5Espaciado: "
+
+REFERENCE           PAINTER_5PLACED_MODELS_
+LANG_ENGLISH        "^5Modelos colocados: "
+
+REFERENCE           PAINTER_5RADIUS_
+LANG_ENGLISH        "^5Radio: "
+
+REFERENCE           PAINTER_8DPADL7DPADR7_
+LANG_ENGLISH        "^8DPadL/^7DpadR^7: "
+
+REFERENCE           PAINTER_8DPADU7DPADD7_
+LANG_ENGLISH        "^8DPadU/^7DpadD^7: "
+
+REFERENCE           PAINTER_8F5_
+LANG_ENGLISH        "^8F: "
+
+REFERENCE           PAINTER_8LBUTTON7RBUTTON7_
+LANG_ENGLISH        "^8Lbutton/^7Rbutton^7: "
+
+REFERENCE           PAINTER_8LSTICK7RSTICK7_
+LANG_ENGLISH        "^8LStick/^7RStick^7: "
+
+REFERENCE           PAINTER_BLANK
+LANG_ENGLISH        "-"
+
+REFERENCE           PAINTER_DBL_BLANK
+LANG_ENGLISH        " -- -- "
+
+REFERENCE           PAINTER_DENSITY_DOWN_UP
+LANG_ENGLISH        "Densidad menos/más"
+
+REFERENCE           PAINTER_DOT
+LANG_ENGLISH        "."
+
+REFERENCE           PAINTER_DUMP_3MAPSOURCEXENONEXPORTLEVELSCRIPTMODELDUMPMAP
+LANG_ENGLISH        "(dump) ^3map_source/xenon_export/<levelname>_modeldump.map"
+
+REFERENCE           PAINTER_GROUP_UP_DOWN
+LANG_ENGLISH        "Grupo arriba/abajo"
+
+REFERENCE           PAINTER_HEIGHT_DOWN_UP
+LANG_ENGLISH        "Altura abajo/arriba"
+
+REFERENCE           PAINTER_RADIUS_DOWN_UP
+LANG_ENGLISH        "Radio abajo/arriba"
+
+REFERENCE           PAINTER_ROTATEOTHER_UP_DOWN
+LANG_ENGLISH        "Rotar otros arriba/abajo"
+
+REFERENCE           PAINTER_ROTATION_CLEAR_SET
+LANG_ENGLISH        "Rotación libre/fija"
+
+REFERENCE           PAINTER_SPAM_REMOVE_PLACE
+LANG_ENGLISH        "Quitar/Colocar"
+
+REFERENCE           PAINTER_ZOFFSET_CLEAR_SET
+LANG_ENGLISH        "Z-Offset libre/fijo"
+
+REFERENCE           PAINTER__SET
+LANG_ENGLISH        " - / Fijo"
+
+REFERENCE           PAINTER__SET_
+LANG_ENGLISH        " Fijo / -"
+
+REFERENCE           RANK_1STLT
+LANG_ENGLISH        "Tte."
+
+REFERENCE           RANK_1STLT_FULL
+LANG_ENGLISH        "Teniente"
+
+REFERENCE           RANK_1STLT_FULL2
+LANG_ENGLISH        "Teniente I"
+
+REFERENCE           RANK_1STLT_FULL3
+LANG_ENGLISH        "Teniente II"
+
+REFERENCE           RANK_1STLT_FULL4
+LANG_ENGLISH        "Teniente III"
+
+REFERENCE           RANK_1STLT_FULL_N
+LANG_ENGLISH        "Teniente &&1"
+
+REFERENCE           RANK_1STSGT
+LANG_ENGLISH        "Sgto. 1ª"
+
+REFERENCE           RANK_1STSGT_FULL
+LANG_ENGLISH        "Sargento de primera"
+
+REFERENCE           RANK_1STSGT_FULL2
+LANG_ENGLISH        "Sargento de primera I"
+
+REFERENCE           RANK_1STSGT_FULL3
+LANG_ENGLISH        "Sargento de primera II"
+
+REFERENCE           RANK_1STSGT_FULL4
+LANG_ENGLISH        "Sargento de primera III"
+
+REFERENCE           RANK_1STSGT_FULL_N
+LANG_ENGLISH        "Sargento de primera &&1"
+
+REFERENCE           RANK_2NDLT
+LANG_ENGLISH        "Alfz."
+
+REFERENCE           RANK_2NDLT_FULL
+LANG_ENGLISH        "Alférez"
+
+REFERENCE           RANK_2NDLT_FULL2
+LANG_ENGLISH        "Alférez I"
+
+REFERENCE           RANK_2NDLT_FULL3
+LANG_ENGLISH        "Alférez II"
+
+REFERENCE           RANK_2NDLT_FULL4
+LANG_ENGLISH        "Alférez III"
+
+REFERENCE           RANK_2NDLT_FULL_N
+LANG_ENGLISH        "Alférez &&1"
+
+REFERENCE           RANK_BGEN
+LANG_ENGLISH        "Gral. Brig."
+
+REFERENCE           RANK_BGEN_FULL
+LANG_ENGLISH        "General de brigada"
+
+REFERENCE           RANK_BGEN_FULL2
+LANG_ENGLISH        "General de brigada I"
+
+REFERENCE           RANK_BGEN_FULL3
+LANG_ENGLISH        "General de brigada II"
+
+REFERENCE           RANK_BGEN_FULL4
+LANG_ENGLISH        "General de brigada III"
+
+REFERENCE           RANK_BGEN_FULL_N
+LANG_ENGLISH        "General de brigada &&1"
+
+REFERENCE           RANK_CAPT
+LANG_ENGLISH        "Cap."
+
+REFERENCE           RANK_CAPT_FULL
+LANG_ENGLISH        "Capitán"
+
+REFERENCE           RANK_CAPT_FULL2
+LANG_ENGLISH        "Capitán I"
+
+REFERENCE           RANK_CAPT_FULL3
+LANG_ENGLISH        "Capitán II"
+
+REFERENCE           RANK_CAPT_FULL4
+LANG_ENGLISH        "Capitán III"
+
+REFERENCE           RANK_CAPT_FULL_N
+LANG_ENGLISH        "Capitán &&1"
+
+REFERENCE           RANK_CHALLENGES_PRE
+LANG_ENGLISH        "Desafío superado:"
+
+REFERENCE           RANK_COL
+LANG_ENGLISH        "Cnel."
+
+REFERENCE           RANK_COL_FULL
+LANG_ENGLISH        "Coronel"
+
+REFERENCE           RANK_COL_FULL2
+LANG_ENGLISH        "Coronel I"
+
+REFERENCE           RANK_COL_FULL3
+LANG_ENGLISH        "Coronel II"
+
+REFERENCE           RANK_COL_FULL4
+LANG_ENGLISH        "Coronel III"
+
+REFERENCE           RANK_COL_FULL_N
+LANG_ENGLISH        "Coronel &&1"
+
+REFERENCE           RANK_COMM
+LANG_ENGLISH        "Cap. frag."
+
+REFERENCE           RANK_COMM_FULL
+LANG_ENGLISH        "Capitán general"
+
+REFERENCE           RANK_COMM_FULL2
+LANG_ENGLISH        "Capitán general I"
+
+REFERENCE           RANK_COMM_FULL3
+LANG_ENGLISH        "Capitán general II"
+
+REFERENCE           RANK_COMM_FULL_N
+LANG_ENGLISH        "Capitán general &&1"
+
+REFERENCE           RANK_CPL
+LANG_ENGLISH        "Cabo 1o"
+
+REFERENCE           RANK_CPL_FULL
+LANG_ENGLISH        "Cabo primero"
+
+REFERENCE           RANK_CPL_FULL2
+LANG_ENGLISH        "Cabo primero I"
+
+REFERENCE           RANK_CPL_FULL3
+LANG_ENGLISH        "Cabo primero II"
+
+REFERENCE           RANK_CPL_FULL_N
+LANG_ENGLISH        "Cabo primero &&1"
+
+REFERENCE           RANK_CSM
+LANG_ENGLISH        "SOM."
+
+REFERENCE           RANK_CSM_FULL
+LANG_ENGLISH        "Suboficial mayor"
+
+REFERENCE           RANK_CSM_FULL2
+LANG_ENGLISH        "Suboficial mayor I"
+
+REFERENCE           RANK_CSM_FULL3
+LANG_ENGLISH        "Suboficial mayor II"
+
+REFERENCE           RANK_CSM_FULL4
+LANG_ENGLISH        "Suboficial mayor III"
+
+REFERENCE           RANK_CSM_FULL_N
+LANG_ENGLISH        "Suboficial mayor &&1"
+
+REFERENCE           RANK_DELETE
+LANG_ENGLISH        "BÓRRAME"
+
+REFERENCE           RANK_GAME_SUMMARY
+LANG_ENGLISH        "Resumen de juego"
+
+REFERENCE           RANK_GEN
+LANG_ENGLISH        "Gral. ejé."
+
+REFERENCE           RANK_GEN_FULL
+LANG_ENGLISH        "Disposiciones generales"
+
+REFERENCE           RANK_GEN_FULL2
+LANG_ENGLISH        "General de ejército I"
+
+REFERENCE           RANK_GEN_FULL3
+LANG_ENGLISH        "General de ejército II"
+
+REFERENCE           RANK_GEN_FULL4
+LANG_ENGLISH        "General del ejército III"
+
+REFERENCE           RANK_GEN_FULL_N
+LANG_ENGLISH        "General del ejército &&1"
+
+REFERENCE           RANK_GYSGT
+LANG_ENGLISH        "Sgto. 1o"
+
+REFERENCE           RANK_GYSGT_FULL
+LANG_ENGLISH        "Sargento primero"
+
+REFERENCE           RANK_GYSGT_FULL2
+LANG_ENGLISH        "Sargento primero I"
+
+REFERENCE           RANK_GYSGT_FULL3
+LANG_ENGLISH        "Sargento primero II"
+
+REFERENCE           RANK_GYSGT_FULL_N
+LANG_ENGLISH        "Sargento primero &&1"
+
+REFERENCE           RANK_KILL_STREAK_N
+LANG_ENGLISH        "¡&&1 tiene una racha de bajas de &&2!"
+
+REFERENCE           RANK_LCPL
+LANG_ENGLISH        "Cabo"
+
+REFERENCE           RANK_LCPL_FULL
+LANG_ENGLISH        "Cabo"
+
+REFERENCE           RANK_LCPL_FULL2
+LANG_ENGLISH        "Cabo I"
+
+REFERENCE           RANK_LCPL_FULL3
+LANG_ENGLISH        "Cabo II"
+
+REFERENCE           RANK_LCPL_FULL_N
+LANG_ENGLISH        "Cabo &&1"
+
+REFERENCE           RANK_LTCOL
+LANG_ENGLISH        "Tte. Cnel."
+
+REFERENCE           RANK_LTCOL_FULL
+LANG_ENGLISH        "Teniente coronel"
+
+REFERENCE           RANK_LTCOL_FULL2
+LANG_ENGLISH        "Teniente coronel I"
+
+REFERENCE           RANK_LTCOL_FULL3
+LANG_ENGLISH        "Teniente coronel II"
+
+REFERENCE           RANK_LTCOL_FULL4
+LANG_ENGLISH        "Teniente coronel III"
+
+REFERENCE           RANK_LTCOL_FULL_N
+LANG_ENGLISH        "Teniente coronel &&1"
+
+REFERENCE           RANK_LTGEN
+LANG_ENGLISH        "Tte. gral."
+
+REFERENCE           RANK_LTGEN_FULL
+LANG_ENGLISH        "Teniente general"
+
+REFERENCE           RANK_LTGEN_FULL2
+LANG_ENGLISH        "Teniente general I"
+
+REFERENCE           RANK_LTGEN_FULL3
+LANG_ENGLISH        "Teniente general II"
+
+REFERENCE           RANK_LTGEN_FULL4
+LANG_ENGLISH        "Teniente general III"
+
+REFERENCE           RANK_LTGEN_FULL_N
+LANG_ENGLISH        "Teniente general &&1"
+
+REFERENCE           RANK_MAJ
+LANG_ENGLISH        "Cmte."
+
+REFERENCE           RANK_MAJGEN
+LANG_ENGLISH        "Gral. div."
+
+REFERENCE           RANK_MAJGEN_FULL
+LANG_ENGLISH        "General de división"
+
+REFERENCE           RANK_MAJGEN_FULL2
+LANG_ENGLISH        "General de división I"
+
+REFERENCE           RANK_MAJGEN_FULL3
+LANG_ENGLISH        "General de división II"
+
+REFERENCE           RANK_MAJGEN_FULL4
+LANG_ENGLISH        "General de división III"
+
+REFERENCE           RANK_MAJGEN_FULL_N
+LANG_ENGLISH        "General de división &&1"
+
+REFERENCE           RANK_MAJ_FULL
+LANG_ENGLISH        "Comandante"
+
+REFERENCE           RANK_MAJ_FULL2
+LANG_ENGLISH        "Comandante I"
+
+REFERENCE           RANK_MAJ_FULL3
+LANG_ENGLISH        "Comandante II"
+
+REFERENCE           RANK_MAJ_FULL4
+LANG_ENGLISH        "Comandante III"
+
+REFERENCE           RANK_MAJ_FULL_N
+LANG_ENGLISH        "Comandante &&1"
+
+REFERENCE           RANK_MATCHBONUS
+LANG_ENGLISH        "Bonificación de la partida"
+
+REFERENCE           RANK_MATCHBONUS_PRE
+LANG_ENGLISH        "Bonificación de la partida:"
+
+REFERENCE           RANK_MGYSGT
+LANG_ENGLISH        "Subof. m."
+
+REFERENCE           RANK_MGYSGT_FULL
+LANG_ENGLISH        "Suboficial mayor"
+
+REFERENCE           RANK_MGYSGT_FULL2
+LANG_ENGLISH        "Suboficial mayor I"
+
+REFERENCE           RANK_MGYSGT_FULL3
+LANG_ENGLISH        "Suboficial mayor II"
+
+REFERENCE           RANK_MGYSGT_FULL_N
+LANG_ENGLISH        "Suboficial mayor &&1"
+
+REFERENCE           RANK_MSGT
+LANG_ENGLISH        "Brig."
+
+REFERENCE           RANK_MSGT_FULL
+LANG_ENGLISH        "Brigada"
+
+REFERENCE           RANK_MSGT_FULL2
+LANG_ENGLISH        "Brigada I"
+
+REFERENCE           RANK_MSGT_FULL3
+LANG_ENGLISH        "Brigada II"
+
+REFERENCE           RANK_MSGT_FULL4
+LANG_ENGLISH        "Brigada III"
+
+REFERENCE           RANK_MSGT_FULL_N
+LANG_ENGLISH        "Brigada &&1"
+
+REFERENCE           RANK_NEWRANK
+LANG_ENGLISH        "Has conseguido un nuevo rango:"
+
+REFERENCE           RANK_NEWREF
+LANG_ENGLISH        "Nuevo texto"
+
+REFERENCE           RANK_NEXT_RANK_PRE
+LANG_ENGLISH        "Rango siguiente:"
+
+REFERENCE           RANK_PFC
+LANG_ENGLISH        "Sol. 1o"
+
+REFERENCE           RANK_PFC_FULL
+LANG_ENGLISH        "Soldado primero"
+
+REFERENCE           RANK_PFC_FULL2
+LANG_ENGLISH        "Soldado primero I"
+
+REFERENCE           RANK_PFC_FULL3
+LANG_ENGLISH        "Soldado primero II"
+
+REFERENCE           RANK_PFC_FULL_N
+LANG_ENGLISH        "Soldado primero &&1"
+
+REFERENCE           RANK_PLAYER_WAS_PROMOTED
+LANG_ENGLISH        "¡&&1 ha ascendido a &&2!"
+
+REFERENCE           RANK_PLAYER_WAS_PROMOTED_N
+LANG_ENGLISH        "¡&&1 ha ascendido a &&2 &&3!"
+
+REFERENCE           RANK_PROMOTED
+LANG_ENGLISH        "¡Has sido ascendido!"
+
+REFERENCE           RANK_PROMOTED_WEAPON
+LANG_ENGLISH        "¡Tu rango de arma ha aumentado!"
+
+REFERENCE           RANK_PVT
+LANG_ENGLISH        "Sol."
+
+REFERENCE           RANK_PVT_FULL
+LANG_ENGLISH        "Soldado"
+
+REFERENCE           RANK_PVT_FULL2
+LANG_ENGLISH        "Soldado I"
+
+REFERENCE           RANK_PVT_FULL3
+LANG_ENGLISH        "Soldado II"
+
+REFERENCE           RANK_PVT_FULL_N
+LANG_ENGLISH        "Soldado &&1"
+
+REFERENCE           RANK_RANK_PRE
+LANG_ENGLISH        "Rango:"
+
+REFERENCE           RANK_REC
+LANG_ENGLISH        "Rec."
+
+REFERENCE           RANK_REC_FULL
+LANG_ENGLISH        "Recluta"
+
+REFERENCE           RANK_REC_FULL2
+LANG_ENGLISH        "Recluta I"
+
+REFERENCE           RANK_REC_FULL3
+LANG_ENGLISH        "Recluta II"
+
+REFERENCE           RANK_ROMANI
+LANG_ENGLISH        "I"
+
+REFERENCE           RANK_ROMANII
+LANG_ENGLISH        "II"
+
+REFERENCE           RANK_ROMANIII
+LANG_ENGLISH        "III"
+
+REFERENCE           RANK_SCORE_PRE
+LANG_ENGLISH        "Puntuación:"
+
+REFERENCE           RANK_SFC
+LANG_ENGLISH        "SPC."
+
+REFERENCE           RANK_SFC_FULL
+LANG_ENGLISH        "Sargento de primera clase"
+
+REFERENCE           RANK_SFC_FULL2
+LANG_ENGLISH        "Sargento de primera clase I"
+
+REFERENCE           RANK_SFC_FULL3
+LANG_ENGLISH        "Sargento de primera clase II"
+
+REFERENCE           RANK_SFC_FULL4
+LANG_ENGLISH        "Sargento de primera clase III"
+
+REFERENCE           RANK_SFC_FULL_N
+LANG_ENGLISH        "Sargento de primera clase &&1"
+
+REFERENCE           RANK_SGT
+LANG_ENGLISH        "CaM."
+
+REFERENCE           RANK_SGTMAJ
+LANG_ENGLISH        "Subtte."
+
+REFERENCE           RANK_SGTMAJ_FULL
+LANG_ENGLISH        "Subteniente"
+
+REFERENCE           RANK_SGTMAJ_FULL2
+LANG_ENGLISH        "Subteniente I"
+
+REFERENCE           RANK_SGTMAJ_FULL3
+LANG_ENGLISH        "Subteniente II"
+
+REFERENCE           RANK_SGTMAJ_FULL4
+LANG_ENGLISH        "Subteniente III"
+
+REFERENCE           RANK_SGTMAJ_FULL_N
+LANG_ENGLISH        "Subteniente &&1"
+
+REFERENCE           RANK_SGT_FULL
+LANG_ENGLISH        "Cabo mayor"
+
+REFERENCE           RANK_SGT_FULL2
+LANG_ENGLISH        "Cabo mayor I"
+
+REFERENCE           RANK_SGT_FULL3
+LANG_ENGLISH        "Cabo mayor II"
+
+REFERENCE           RANK_SGT_FULL_N
+LANG_ENGLISH        "Cabo mayor &&1"
+
+REFERENCE           RANK_SPC
+LANG_ENGLISH        "Espec."
+
+REFERENCE           RANK_SPC_FULL
+LANG_ENGLISH        "Especialista"
+
+REFERENCE           RANK_SPC_FULL2
+LANG_ENGLISH        "Especialista I"
+
+REFERENCE           RANK_SPC_FULL3
+LANG_ENGLISH        "Especialista II"
+
+REFERENCE           RANK_SPC_FULL_N
+LANG_ENGLISH        "Especialista &&1"
+
+REFERENCE           RANK_SSGT
+LANG_ENGLISH        "Sgto."
+
+REFERENCE           RANK_SSGT_FULL
+LANG_ENGLISH        "Sargento"
+
+REFERENCE           RANK_SSGT_FULL2
+LANG_ENGLISH        "Sargento I"
+
+REFERENCE           RANK_SSGT_FULL3
+LANG_ENGLISH        "Sargento II"
+
+REFERENCE           RANK_SSGT_FULL4
+LANG_ENGLISH        "Sargento III"
+
+REFERENCE           RANK_SSGT_FULL_N
+LANG_ENGLISH        "Sargento &&1"
+
+REFERENCE           RANK_TOTALXP_PRE
+LANG_ENGLISH        "Total de PX ganados:"
+
+REFERENCE           RANK_WEAPON_WAS_PROMOTED
+LANG_ENGLISH        "¡&&1 ha aumentado su rango de arma!"
+
+REFERENCE           RANK_XP_REQUIRED_PRE
+LANG_ENGLISH        "PX necesarios:"
+
+REFERENCE           SCRIPT_1UP
+LANG_ENGLISH        "J1"
+
+REFERENCE           SCRIPT_ARMOR_DAMAGE
+LANG_ENGLISH        "El blindaje solo se puede dañar\ncon C4 y cohetes."
+
+REFERENCE           SCRIPT_ARTILLERY_TOOFAR
+LANG_ENGLISH        "Estás demasiado lejos del operador de radio para usar la artillería."
+
+REFERENCE           SCRIPT_BREACH_ILLEGAL_WEAPON
+LANG_ENGLISH        "No puedes irrumpir con esta arma."
+
+REFERENCE           SCRIPT_BREACH_NEED_FRIENDLY
+LANG_ENGLISH        "Esperando a que tus aliados se coloquen en posición..."
+
+REFERENCE           SCRIPT_BREACH_NEED_PLAYER
+LANG_ENGLISH        "Ambos jugadores deben estar cerca de una puerta para irrumpir."
+
+REFERENCE           SCRIPT_BREACH_PARTNER_NOT_READY
+LANG_ENGLISH        "Los dos jugadores no están listos para entrar."
+
+REFERENCE           SCRIPT_BREACH_RELOADING
+LANG_ENGLISH        "No puedes irrumpir mientras recargas."
+
+REFERENCE           SCRIPT_BREACH_TOO_MANY_ENEMIES
+LANG_ENGLISH        "No puedes irrumpir. Despeja la zona de enemigos."
+
+REFERENCE           SCRIPT_BREACH_YOU_NOT_READY
+LANG_ENGLISH        "No estás listo para entrar."
+
+REFERENCE           SCRIPT_C4_USE
+LANG_ENGLISH        "Pulsa ^3[{+actionslot 2}]^7 para usar C4."
+
+REFERENCE           SCRIPT_CHECKPOINT
+LANG_ENGLISH        "¡PUNTO DE CONTROL!"
+
+REFERENCE           SCRIPT_CHECKPOINT_TIME
+LANG_ENGLISH        "Punto de control: "
+
+REFERENCE           SCRIPT_CLEARBUILDING
+LANG_ENGLISH        "Despeja el edificio con las ametralladoras de su interior."
+
+REFERENCE           SCRIPT_COLON
+LANG_ENGLISH        ":"
+
+REFERENCE           SCRIPT_COOP_BLEEDING_OUT
+LANG_ENGLISH        "Desangrándote"
+
+REFERENCE           SCRIPT_COOP_BLEEDING_OUT_PARTNER
+LANG_ENGLISH        "Compañero abatido"
+
+REFERENCE           SCRIPT_COOP_REVIVE
+LANG_ENGLISH        "Mantén ^3[{+activate}]^7 para revivir."
+
+REFERENCE           SCRIPT_COOP_REVIVING
+LANG_ENGLISH        "Te están reanimando..."
+
+REFERENCE           SCRIPT_COOP_REVIVING_PARTNER
+LANG_ENGLISH        "Reanimando a compañero..."
+
+REFERENCE           SCRIPT_DEBUG_LEVEL_END
+LANG_ENGLISH        "Fin del nivel actual."
+
+REFERENCE           SCRIPT_DIFFICULTY_BONUS_FOUR
+LANG_ENGLISH        "BONIFICACIÓN DIFICULTAD x4"
+
+REFERENCE           SCRIPT_DIFFICULTY_BONUS_ONEANDAHALF
+LANG_ENGLISH        "BONIFICACIÓN DIFICULTAD x1,5"
+
+REFERENCE           SCRIPT_DIFFICULTY_BONUS_THREE
+LANG_ENGLISH        "BONIFICACIÓN DIFICULTAD x3"
+
+REFERENCE           SCRIPT_DOLLAR
+LANG_ENGLISH        "$"
+
+REFERENCE           SCRIPT_ELIMINATE_THE_FLAK_88
+LANG_ENGLISH        "Elimina las dotaciones de Flak 88. [^3&&1 restantes^7]"
+
+REFERENCE           SCRIPT_ELIMINATE_THE_FLAK_88_DONE
+LANG_ENGLISH        "Elimina las dotaciones de Flak 88."
+
+REFERENCE           SCRIPT_EXPLODING_BARREL_DEATH
+LANG_ENGLISH        "Te ha matado la explosión de un barril.\nLos barriles rojos explotan cuando les disparan."
+
+REFERENCE           SCRIPT_EXPLODING_DESTRUCTIBLE_DEATH
+LANG_ENGLISH        "Te ha matado una explosión.\nAlgunos objetos pueden explotar."
+
+REFERENCE           SCRIPT_EXPLODING_VEHICLE_DEATH
+LANG_ENGLISH        "Te ha matado la explosión de un vehículo.\nLos vehículos en llamas suelen explotar."
+
+REFERENCE           SCRIPT_EXPLOSIVESPLANTED
+LANG_ENGLISH        "EXPLOSIVOS COLOCADOS. ¡ATRÁS!"
+
+REFERENCE           SCRIPT_EXTRA_LIFE
+LANG_ENGLISH        "VIDA EXTRA X "
+
+REFERENCE           SCRIPT_FIRE_TO_SKIP
+LANG_ENGLISH        "Haz clic en DISPARO para omitir."
+
+REFERENCE           SCRIPT_GAME_OVER
+LANG_ENGLISH        "FIN DEL JUEGO"
+
+REFERENCE           SCRIPT_GLOWING_MARKER
+LANG_ENGLISH        "Busca el indicador brillante en el vehículo antiaéreo alemán."
+
+REFERENCE           SCRIPT_GRENADE_DEATH
+LANG_ENGLISH        "Te ha matado una granada.\nAtento al indicador de peligro de granadas."
+
+REFERENCE           SCRIPT_GRENADE_SUICIDE_COMBINED
+LANG_ENGLISH        "Has muerto al sujetar demasiado tiempo una granada.\nMantener ^3[{+frag}]^7 te permite demorar las granadas."
+
+REFERENCE           SCRIPT_GRENADE_SUICIDE_LINE1
+LANG_ENGLISH        "Has muerto al sujetar demasiado tiempo una granada."
+
+REFERENCE           SCRIPT_GRENADE_SUICIDE_LINE2
+LANG_ENGLISH        "Mantén ^3[{+frag}]^7 para preparar granadas activadas."
+
+REFERENCE           SCRIPT_HINTSTR_GRENADESFULL
+LANG_ENGLISH        "No puedes llevar más granadas."
+
+REFERENCE           SCRIPT_HINT_CANT_OPEN_DOORS
+LANG_ENGLISH        "Esta puerta no se puede abrir. No te molestes en intentar abrir puertas cerradas."
+
+REFERENCE           SCRIPT_HINT_LEANINGSLOWMOVE
+LANG_ENGLISH        "Mientras estés inclinado, te moverás más lento."
+
+REFERENCE           SCRIPT_HINT_OBJECTIVEONCOMPASS
+LANG_ENGLISH        "La estrella de tu brújula señala tu siguiente objetivo."
+
+REFERENCE           SCRIPT_HINT_PICKUPAMMOKEY
+LANG_ENGLISH        "Para coger munición de otra arma, pasa cerca de ella o mírala y pulsa USAR^3 &&1^7."
+
+REFERENCE           SCRIPT_HINT_THROW_C4
+LANG_ENGLISH        "Pulsa ^3[{+throw}]^7 para lanzar C4."
+
+REFERENCE           SCRIPT_HINT_THROW_C4_SPEED
+LANG_ENGLISH        "Pulsa ^3[{+speed_throw}]^7 para lanzar C4."
+
+REFERENCE           SCRIPT_HINT_THROW_C4_SPEED_TRIGGER
+LANG_ENGLISH        "Usa ^3[{+speed_throw}]^7 para lanzar C4."
+
+REFERENCE           SCRIPT_HINT_THROW_C4_TOGGLE
+LANG_ENGLISH        "Pulsa ^3[{+toggleads_throw}]^7 para lanzar C4."
+
+REFERENCE           SCRIPT_HOLD_TO_USE
+LANG_ENGLISH        "Mantén ^3 &&1 ^7 para usar"
+
+REFERENCE           SCRIPT_INTELLIGENCE_FOUND
+LANG_ENGLISH        "Has encontrado datos de inteligencia enemigos."
+
+REFERENCE           SCRIPT_INTELLIGENCE_OF_FOURTYFIVE
+LANG_ENGLISH        "&&1/45 datos de inteligencia enemigos encontrados."
+
+REFERENCE           SCRIPT_INTELLIGENCE_OF_FOURTYSIX
+LANG_ENGLISH        "&&1/46 datos de inteligencia enemigos encontrados."
+
+REFERENCE           SCRIPT_INTELLIGENCE_OF_MAX
+LANG_ENGLISH        "&&1/54 datos de inteligencia enemigos encontrados."
+
+REFERENCE           SCRIPT_INTELLIGENCE_OF_SIXTY
+LANG_ENGLISH        "&&1/60 datos de inteligencia enemigos encontrados."
+
+REFERENCE           SCRIPT_INTELLIGENCE_OF_THIRTY
+LANG_ENGLISH        "&&1/30 datos de inteligencia enemigos encontrados."
+
+REFERENCE           SCRIPT_INTELLIGENCE_ONEREMAINING
+LANG_ENGLISH        "Queda &&1 dato de inteligencia enemigo."
+
+REFERENCE           SCRIPT_INTELLIGENCE_PICKUP
+LANG_ENGLISH        "Mantén ^3 &&1 ^7 para obtener inteligencia del enemigo."
+
+REFERENCE           SCRIPT_INTELLIGENCE_PREV_FOUND
+LANG_ENGLISH        "Inteligencia enemiga ya encontrada."
+
+REFERENCE           SCRIPT_INTELLIGENCE_PTS
+LANG_ENGLISH        "Has encontrado &&1 datos de inteligencia enemigos."
+
+REFERENCE           SCRIPT_INTELLIGENCE_REMAINING
+LANG_ENGLISH        "Quedan &&1 datos de inteligencia enemigos."
+
+REFERENCE           SCRIPT_INVULERABLE_BULLETS
+LANG_ENGLISH        "Las balas no pueden dañar este vehículo."
+
+REFERENCE           SCRIPT_INVULERABLE_FRAGS
+LANG_ENGLISH        "Las granadas de fragmentación no pueden dañar este vehículo."
+
+REFERENCE           SCRIPT_LEARN_CHOPPER_AIR_SUPPORT1
+LANG_ENGLISH        "¡Apoyo aéreo a la espera!"
+
+REFERENCE           SCRIPT_LEARN_CHOPPER_AIR_SUPPORT1_PC
+LANG_ENGLISH        "¡Apoyo aéreo a la espera! Pulsa ^3[{+actionslot 4}]."
+
+REFERENCE           SCRIPT_LEARN_CLAYMORES
+LANG_ENGLISH        "Pulsa ^3 [{+actionslot 4}] ^7 para usar las Claymore."
+
+REFERENCE           SCRIPT_LEARN_CLAYMORE_PLACEMENT
+LANG_ENGLISH        "Pulsa ^3 [{+attack}] ^7 para colocar minas Claymore."
+
+REFERENCE           SCRIPT_LEARN_GRENADE_LAUNCHER
+LANG_ENGLISH        "Pulsa ^3 [{+actionslot 3}] ^7 para usar el lanzagranadas M203."
+
+REFERENCE           SCRIPT_LEARN_JAVELIN
+LANG_ENGLISH        "Pulsa ^3[{weapnext}]^7 para cambiar al Javelin."
+
+REFERENCE           SCRIPT_LEARN_M14_SWITCH
+LANG_ENGLISH        "Pulsa ^3[{weapnext}]^7 para cambiar a tu fusil de precisión M21."
+
+REFERENCE           SCRIPT_MANTLE
+LANG_ENGLISH        "Pulsa ^3[{+gostand}]^7 para "
+
+REFERENCE           SCRIPT_MINUS
+LANG_ENGLISH        "-"
+
+REFERENCE           SCRIPT_MINUS_AMOUNT
+LANG_ENGLISH        "-%s"
+
+REFERENCE           SCRIPT_MINUS_DOLLAR
+LANG_ENGLISH        "-$"
+
+REFERENCE           SCRIPT_MISSIONFAIL_CIVILIAN_KILLED
+LANG_ENGLISH        "Has matado a un civil. ¡Mira adónde disparas!"
+
+REFERENCE           SCRIPT_MISSIONFAIL_HOSTAGEEXECUTED
+LANG_ENGLISH        "Misión fallida. Han ejecutado a un rehén."
+
+REFERENCE           SCRIPT_MISSIONFAIL_HOSTAGEEXECUTED_USEMULTIDOOR
+LANG_ENGLISH        "Misión fallida. Han ejecutado a un rehén.\nIntenta entrar desde otras puertas."
+
+REFERENCE           SCRIPT_MISSIONFAIL_KILLEDHOSTAGE
+LANG_ENGLISH        "Misión fallida. Has matado a un rehén."
+
+REFERENCE           SCRIPT_MISSIONFAIL_KILLEDHOSTAGE_THROUGH_ENEMY
+LANG_ENGLISH        "Misión fallida. Le has dado a un rehén a través de un enemigo.\nAlgunas armas tienen una elevada capacidad de penetración."
+
+REFERENCE           SCRIPT_MISSIONFAIL_KILLTEAM_AMERICAN
+LANG_ENGLISH        "¡No se permitirá el fuego amigo!"
+
+REFERENCE           SCRIPT_MISSIONFAIL_KILLTEAM_BRITISH
+LANG_ENGLISH        "¡No se permitirá el fuego amigo!"
+
+REFERENCE           SCRIPT_MISSIONFAIL_KILLTEAM_RUSSIAN
+LANG_ENGLISH        "¡Eres un traidor a la Madre Patria!"
+
+REFERENCE           SCRIPT_MISSION_COMPLETE
+LANG_ENGLISH        "MISIÓN CUMPLIDA"
+
+REFERENCE           SCRIPT_MISSION_SCORE
+LANG_ENGLISH        "PUNTUACIÓN DE LA MISIÓN:"
+
+REFERENCE           SCRIPT_NEW_HIGH_SCORE
+LANG_ENGLISH        "¡NUEVO RÉCORD!"
+
+REFERENCE           SCRIPT_NIGHTVISION_STOP_USE
+LANG_ENGLISH        "Pulsa ^3 [{+actionslot 1}] ^7 para desactivar la visión nocturna."
+
+REFERENCE           SCRIPT_NIGHTVISION_USE
+LANG_ENGLISH        "Pulsa ^3 [{+actionslot 1}] ^7 para activar la visión nocturna."
+
+REFERENCE           SCRIPT_OBJ_DESTROYFLAKPANZERS
+LANG_ENGLISH        "Destruye los tanques antiaéreos FlakPanzer.^3 [quedan &&1] ^7"
+
+REFERENCE           SCRIPT_OBJ_FOLEYDEBRIEF
+LANG_ENGLISH        "Entrevístate con el capitán Foley en el cruce de caminos"
+
+REFERENCE           SCRIPT_PICKUPSTIELHANDGRANATES
+LANG_ENGLISH        "Stielhandgranates recogidas."
+
+REFERENCE           SCRIPT_PLATFORM_AC130_HINT_TOGGLE_THERMAL
+LANG_ENGLISH        "Pulsa ^3[{+activate}]^7 para alternar la visión térmica\nentre imágenes en blanco y en negro."
+
+REFERENCE           SCRIPT_PLATFORM_AC130_HINT_ZOOM_AND_FIRE
+LANG_ENGLISH        "Pulsa ^3[{+speed}]^7 para controlar el zoom y pulsa ^3[{+attack}]^7 para disparar."
+
+REFERENCE           SCRIPT_PLATFORM_BREACH_ACTIVATE
+LANG_ENGLISH        "Pulsa ^3 [{+activate}] ^7 para irrumpir."
+
+REFERENCE           SCRIPT_PLATFORM_CHEAT_USETOSLOWMO
+LANG_ENGLISH        "Usa ^3[{+melee}]^7 para iniciar o detener la cámara lenta."
+
+REFERENCE           SCRIPT_PLATFORM_DOG_DEATH_DO_NOTHING
+LANG_ENGLISH        "Realiza un ataque cuerpo a cuerpo cuando el perro muerda para cogerlo de la garganta. ^3( [{+melee}] )^7 "
+
+REFERENCE           SCRIPT_PLATFORM_DOG_DEATH_TOO_LATE
+LANG_ENGLISH        "Realiza un ataque cuerpo a cuerpo antes de que muerda para coger al perro de la garganta. ^3( [{+melee}] )^7 "
+
+REFERENCE           SCRIPT_PLATFORM_DOG_DEATH_TOO_SOON
+LANG_ENGLISH        "Espera a que el perro muerda para agarrarlo por la garganta. ^3( [{+melee}] )^7 "
+
+REFERENCE           SCRIPT_PLATFORM_DOG_HINT
+LANG_ENGLISH        "Pulsa ^3( [{+melee}] )^7"
+
+REFERENCE           SCRIPT_PLATFORM_EXITCRASHTANK
+LANG_ENGLISH        "Pulsa ^3[{+activate}]^7 para salir del tanque."
+
+REFERENCE           SCRIPT_PLATFORM_FIRE_TO_SKIP
+LANG_ENGLISH        "Haz clic en DISPARO para omitir."
+
+REFERENCE           SCRIPT_PLATFORM_HINTSTR_PICKUPEXPLOSIVES
+LANG_ENGLISH        "Pulsa ^3&&1^7 para recoger los explosivos."
+
+REFERENCE           SCRIPT_PLATFORM_HINTSTR_PICKUPGRENADES
+LANG_ENGLISH        "Pulsa ^3&&1^7 para recoger las granadas."
+
+REFERENCE           SCRIPT_PLATFORM_HINTSTR_PLANTEXPLOSIVES
+LANG_ENGLISH        "Pulsa ^3&&1^7 para colocar los explosivos."
+
+REFERENCE           SCRIPT_PLATFORM_HINTSTR_POPFLARE
+LANG_ENGLISH        "Pulsa ^3[{+attack}]^7 para usar la bengala."
+
+REFERENCE           SCRIPT_PLATFORM_HINTSTR_TAKEEXPLOSIVES
+LANG_ENGLISH        "Pulsa ^3&&1^7 para coger los explosivos."
+
+REFERENCE           SCRIPT_PLATFORM_HINT_ADSKEY
+LANG_ENGLISH        "Pulsa ^3&&1^7 para apuntar con la mira."
+
+REFERENCE           SCRIPT_PLATFORM_HINT_ADSSTOP
+LANG_ENGLISH        "Pulsa ^3&&1^7 una segunda vez para dejar de apuntar con la mira."
+
+REFERENCE           SCRIPT_PLATFORM_HINT_CHECKCURRENTOBJECTIVE
+LANG_ENGLISH        "Pulsa ^3&&1^7 para comprobar tu objetivo actual."
+
+REFERENCE           SCRIPT_PLATFORM_HINT_CROUCHKEY
+LANG_ENGLISH        "Pulsa ^3&&1^7 para agacharte."
+
+REFERENCE           SCRIPT_PLATFORM_HINT_CROUCHTOGGLEFROM
+LANG_ENGLISH        "Pulsa ^3&&1^7 una segunda vez para levantarte desde la posición agachada."
+
+REFERENCE           SCRIPT_PLATFORM_HINT_DOUBLETAPPRONEKEY
+LANG_ENGLISH        "Pulsa dos veces ^3&&1^7 para ponerte cuerpo a tierra."
+
+REFERENCE           SCRIPT_PLATFORM_HINT_DOUBLETAPSTANDKEY
+LANG_ENGLISH        "Pulsa dos veces ^3&&1^7 para levantarte del suelo."
+
+REFERENCE           SCRIPT_PLATFORM_HINT_FIRSTOBJECTIVE
+LANG_ENGLISH        "Mira tu primer objetivo y pulsa USAR ^3&&1^7 para retomarlo."
+
+REFERENCE           SCRIPT_PLATFORM_HINT_FIRSTWEAPONKEY
+LANG_ENGLISH        "Pulsa ^3&&1^7 para cambiar a tu primera arma."
+
+REFERENCE           SCRIPT_PLATFORM_HINT_FLASH
+LANG_ENGLISH        "Pulsa ^3[{+smoke}]^7 para arrojar una granada cegadora."
+
+REFERENCE           SCRIPT_PLATFORM_HINT_GET_DETONATOR
+LANG_ENGLISH        "Mantén ^3&&1^7 para recoger el detonador."
+
+REFERENCE           SCRIPT_PLATFORM_HINT_HOLDDOWNADSKEY
+LANG_ENGLISH        "Mantén ^3&&1^7 para apuntar con la mira."
+
+REFERENCE           SCRIPT_PLATFORM_HINT_HOLDDOWNCROUCHKEY
+LANG_ENGLISH        "Mantén ^3&&1^7 para agacharte."
+
+REFERENCE           SCRIPT_PLATFORM_HINT_HOLDDOWNPRONEKEY
+LANG_ENGLISH        "Mantén ^3&&1^7 para ponerte cuerpo a tierra."
+
+REFERENCE           SCRIPT_PLATFORM_HINT_JUMPSTANDKEY
+LANG_ENGLISH        "Mientras estés erguido, pulsa ^3&&1^7 para saltar."
+
+REFERENCE           SCRIPT_PLATFORM_HINT_LEANLEFTKEY
+LANG_ENGLISH        "Mantén ^3&&1^7 para inclinarte a la izquierda."
+
+REFERENCE           SCRIPT_PLATFORM_HINT_LEANOUTWINDOW
+LANG_ENGLISH        "Pulsa USAR ^3&&1^7 para asomarte a la ventana."
+
+REFERENCE           SCRIPT_PLATFORM_HINT_LEANRIGHTKEY
+LANG_ENGLISH        "Mantén ^3&&1^7 para inclinarte a la derecha."
+
+REFERENCE           SCRIPT_PLATFORM_HINT_MELEEATTACK
+LANG_ENGLISH        "Pulsa ^3&&1^7 para hacer un ataque cuerpo a cuerpo."
+
+REFERENCE           SCRIPT_PLATFORM_HINT_MOVEBACKWARD
+LANG_ENGLISH        "Pulsa tu tecla de Retroceder ^3&&1^7 para moverte hacia atrás."
+
+REFERENCE           SCRIPT_PLATFORM_HINT_MOVEFORWARD
+LANG_ENGLISH        "Pulsa tu tecla de Avanzar ^3&&1^7 para moverte hacia delante."
+
+REFERENCE           SCRIPT_PLATFORM_HINT_OBJECTIVEKEY
+LANG_ENGLISH        "Pulsa ^3&&1^7 para ver los objetivos."
+
+REFERENCE           SCRIPT_PLATFORM_HINT_PICKUPWEAPONKEY
+LANG_ENGLISH        "Para coger un arma, mírala y pulsa USAR ^3&&1]."
+
+REFERENCE           SCRIPT_PLATFORM_HINT_PLANTBEACON
+LANG_ENGLISH        "Pulsa ^3&&1^7para colocar la baliza IR."
+
+REFERENCE           SCRIPT_PLATFORM_HINT_PLANTEXPLOSIVES
+LANG_ENGLISH        "Mira hacia el punto de los explosivos y pulsa ^3&&1^7 para colocarlos."
+
+REFERENCE           SCRIPT_PLATFORM_HINT_PRONEKEY
+LANG_ENGLISH        "Pulsa ^3&&1^7 para echarte cuerpo a tierra."
+
+REFERENCE           SCRIPT_PLATFORM_HINT_RAISEFROMCROUCHTOSTAND
+LANG_ENGLISH        "Pulsa una vez ^3&&1^7 para levantarte desde agachado."
+
+REFERENCE           SCRIPT_PLATFORM_HINT_RAISEFROMPRONETOCROUCH
+LANG_ENGLISH        "Pulsa ^3&&1^7 para cambiar de agachado a cuerpo a tierra."
+
+REFERENCE           SCRIPT_PLATFORM_HINT_RELOAD
+LANG_ENGLISH        "Pulsa ^3&&1^7 para recargar en cualquier momento."
+
+REFERENCE           SCRIPT_PLATFORM_HINT_SECONDWEAPONKEY
+LANG_ENGLISH        "Pulsa ^3&&1^7 para cambiar a tu segunda arma."
+
+REFERENCE           SCRIPT_PLATFORM_HINT_STANDFROMCROUCHKEY
+LANG_ENGLISH        "Pulsa dos veces ^3&&1^7 para levantarte desde la posición agachada."
+
+REFERENCE           SCRIPT_PLATFORM_HINT_STANDFROMPRONEKEY
+LANG_ENGLISH        "Pulsa ^3&&1^7 para levantarte del suelo"
+
+REFERENCE           SCRIPT_PLATFORM_HINT_STANDKEY
+LANG_ENGLISH        "Pulsa ^3&&1^7 para levantarte."
+
+REFERENCE           SCRIPT_PLATFORM_HINT_STANDLETGOCROUCHKEY
+LANG_ENGLISH        "Suelta ^3&&1^7 para dejar de agacharte."
+
+REFERENCE           SCRIPT_PLATFORM_HINT_STANDLETGOPRONEKEY
+LANG_ENGLISH        "Suelta ^3&&1^7 para dejar de estar cuerpo a tierra."
+
+REFERENCE           SCRIPT_PLATFORM_HINT_STANDLETGOSECONDKEY
+LANG_ENGLISH        "Si esto te hace ponerte cuerpo a tierra, pulsa dos veces ^3&&1]."
+
+REFERENCE           SCRIPT_PLATFORM_HINT_STRAFELEFT
+LANG_ENGLISH        "Pulsa la tecla de Moverse a la izquierda ^3&&1^7 para moverte a la izquierda."
+
+REFERENCE           SCRIPT_PLATFORM_HINT_STRAFERIGHT
+LANG_ENGLISH        "Pulsa la tecla de Moverse a la derecha ^3&&1^7 para moverte a la derecha."
+
+REFERENCE           SCRIPT_PLATFORM_HINT_SWAPWEAPONSKEY
+LANG_ENGLISH        "Mantén USAR ^3&&1^7 para cambiar tu arma actual por otra que estés mirando."
+
+REFERENCE           SCRIPT_PLATFORM_HINT_SWITCHTOGRENADE
+LANG_ENGLISH        "Pulsa ^3&&1^7 para cambiar a las granadas."
+
+REFERENCE           SCRIPT_PLATFORM_HINT_SWITCHTOSECONDWEAPON
+LANG_ENGLISH        "Ahora tienes dos armas. Pulsa ^3&&1^7 para cambiar a tu segunda arma."
+
+REFERENCE           SCRIPT_PLATFORM_HINT_TRAINING_SWITCHTOGRENADE
+LANG_ENGLISH        "Pulsa ^3&&1^7 para cambiar a las granadas."
+
+REFERENCE           SCRIPT_PLATFORM_HOLD_TO_DROP
+LANG_ENGLISH        "Pulsa ^3[{+activate}]^7 para soltar."
+
+REFERENCE           SCRIPT_PLATFORM_HOLD_TO_DROP_XBOX360
+LANG_ENGLISH        "Pulsa ^3[{+usereload}]^7 para soltar."
+
+REFERENCE           SCRIPT_PLATFORM_LAUNCHFACILITY_A_HINT_PLANT_C4_GLOW
+LANG_ENGLISH        "Para colocar C4, acércate a la marca brillante de objetivo y pulsa ^3[{+activate}]^7."
+
+REFERENCE           SCRIPT_PLATFORM_LAUNCHFACILITY_A_HINT_SMOKE
+LANG_ENGLISH        "Lanza humo^3 [{+smoke}] ^7para acercarte con seguridad al vehículo enemigo."
+
+REFERENCE           SCRIPT_PLATFORM_LEARN_CHOPPER_AIR_SUPPORT2
+LANG_ENGLISH        "Pulsa ^3[{+attack}]^7 para dar las coordenadas de ataque."
+
+REFERENCE           SCRIPT_PLATFORM_MINIGUN_FIRE_HINT
+LANG_ENGLISH        "^3[{+attack}]^7 = Disparar"
+
+REFERENCE           SCRIPT_PLATFORM_MINIGUN_SPIN_HINT
+LANG_ENGLISH        "^3[{+speed}]^7 = Revolucionar"
+
+REFERENCE           SCRIPT_PLATFORM_OILRIG_HINT_STEALTH_KILL
+LANG_ENGLISH        "Pulsa ^3[{+melee}]^7 para eliminar al guardia."
+
+REFERENCE           SCRIPT_PLATFORM_SNOWMOBILE_ATTACK
+LANG_ENGLISH        "Mantén ^3[{+attack}]^7 para disparar."
+
+REFERENCE           SCRIPT_PLATFORM_SNOWMOBILE_DRIVE
+LANG_ENGLISH        "Mantén ^3[{+forward}]^7 para conducir."
+
+REFERENCE           SCRIPT_PLATFORM_SNOWMOBILE_REVERSE
+LANG_ENGLISH        "Pulsa ^3[{+back}]^7 para dar marcha atrás."
+
+REFERENCE           SCRIPT_PLATFORM_SPOOL_MINIGUN
+LANG_ENGLISH        "Mantén ^3[{+speed_throw}]^7 para poner en marcha la ametralladora."
+
+REFERENCE           SCRIPT_PLATFORM_STEER_DRONE
+LANG_ENGLISH        "Usa el ratón para dirigir el misil."
+
+REFERENCE           SCRIPT_PLATFORM_ZODIAC_STEADY
+LANG_ENGLISH        "Mantén ^3[{+stance}]^7 para estabilizar la lancha."
+
+REFERENCE           SCRIPT_PLUS
+LANG_ENGLISH        "+"
+
+REFERENCE           SCRIPT_PLUS_AMOUNT
+LANG_ENGLISH        "+%s"
+
+REFERENCE           SCRIPT_PLUS_DOLLAR
+LANG_ENGLISH        "+$"
+
+REFERENCE           SCRIPT_RADIATION_DEATH
+LANG_ENGLISH        "Evita las zonas de radiación.\nAtento a las señales del contador Geiger."
+
+REFERENCE           SCRIPT_SHOT_TEAMMATE
+LANG_ENGLISH        "¡Has disparado a un compañero de equipo!"
+
+REFERENCE           SCRIPT_STREAK_BONUS_LOST
+LANG_ENGLISH        "BONIFICACIÓN DE RACHA PERDIDA"
+
+REFERENCE           SCRIPT_STREAK_COMPLETE
+LANG_ENGLISH        "-RACHA COMPLETADA-"
+
+REFERENCE           SCRIPT_TAKELEFTFLANK
+LANG_ENGLISH        "Toma el flanco izquierdo."
+
+REFERENCE           SCRIPT_TIME_REMAINING
+LANG_ENGLISH        "TIEMPO RESTANTE:"
+
+REFERENCE           SCRIPT_TIME_UP
+LANG_ENGLISH        "SE ACABÓ EL TIEMPO"
+
+REFERENCE           SCRIPT_TOTAL_SCORE
+LANG_ENGLISH        "PUNTUACIÓN TOTAL:"
+
+REFERENCE           SCRIPT_USE_THE_PANZERFAUST_ANTITANK
+LANG_ENGLISH        "Usa las armas anticarro Panzerfaust de detrás del búnker para destruir los tanques."
+
+REFERENCE           SCRIPT_WAYPOINT_BREACH
+LANG_ENGLISH        "Incursión"
+
+REFERENCE           SCRIPT_WAYPOINT_COVER
+LANG_ENGLISH        "Cobertura"
+
+REFERENCE           SCRIPT_WAYPOINT_SHEPHERD
+LANG_ENGLISH        " "
+
+REFERENCE           SCRIPT_WAYPOINT_TARGETS
+LANG_ENGLISH        "Blancos"
+
+REFERENCE           SCRIPT_X
+LANG_ENGLISH        "x"
+
+REFERENCE           SCRIPT_X2
+LANG_ENGLISH        "x2"
+
+REFERENCE           SCRIPT_X3
+LANG_ENGLISH        "x3"
+
+REFERENCE           SCRIPT_ZERO_DEATHS
+LANG_ENGLISH        "BONIFICACIÓN POR CERO MUERTES x2"
+
+REFERENCE           SPECIAL_OPS_BEST_WAVE
+LANG_ENGLISH        "Mejor oleada: &&1"
+
+REFERENCE           SPECIAL_OPS_CHALLENGE_FAILURE
+LANG_ENGLISH        "Misión fallida."
+
+REFERENCE           SPECIAL_OPS_CHALLENGE_HURRY
+LANG_ENGLISH        "¡Deprisa!"
+
+REFERENCE           SPECIAL_OPS_CHALLENGE_SUCCESS
+LANG_ENGLISH        "¡Misión cumplida!"
+
+REFERENCE           SPECIAL_OPS_COUNT
+LANG_ENGLISH        "Cuenta"
+
+REFERENCE           SPECIAL_OPS_DASHDASH
+LANG_ENGLISH        "--"
+
+REFERENCE           SPECIAL_OPS_DUMMY
+LANG_ENGLISH        "dummy"
+
+REFERENCE           SPECIAL_OPS_DUMMY_DESC
+LANG_ENGLISH        "dummy"
+
+REFERENCE           SPECIAL_OPS_EMPTY
+LANG_ENGLISH        " "
+
+REFERENCE           SPECIAL_OPS_ESCAPE_MESSAGE
+LANG_ENGLISH        "Traidor. Has abandonado la misión."
+
+REFERENCE           SPECIAL_OPS_ESCAPE_SPLASH
+LANG_ENGLISH        "¡Advertencia!"
+
+REFERENCE           SPECIAL_OPS_ESCAPE_WARNING
+LANG_ENGLISH        "¡Vuelve y continúa con la misión!"
+
+REFERENCE           SPECIAL_OPS_EXPECTED_WAVE
+LANG_ENGLISH        "Supervivencia est.: &&1 oleadas"
+
+REFERENCE           SPECIAL_OPS_FAILURE_HINT_TIME
+LANG_ENGLISH        "Se te ha agotado el tiempo.\nPresta atención al reloj."
+
+REFERENCE           SPECIAL_OPS_HOSTILES
+LANG_ENGLISH        "Enemigos: "
+
+REFERENCE           SPECIAL_OPS_INTERMISSION_WAVEFINAL
+LANG_ENGLISH        "- Última oleada -"
+
+REFERENCE           SPECIAL_OPS_INTERMISSION_WAVENUM
+LANG_ENGLISH        "- Oleada &&1 -"
+
+REFERENCE           SPECIAL_OPS_KILL_COUNT
+LANG_ENGLISH        "Bajas: "
+
+REFERENCE           SPECIAL_OPS_MISSION_DIFFICULTY_LEVEL_0
+LANG_ENGLISH        "^1Incompleta^7"
+
+REFERENCE           SPECIAL_OPS_MISSION_DIFFICULTY_LEVEL_1
+LANG_ENGLISH        "Profesional"
+
+REFERENCE           SPECIAL_OPS_MISSION_DIFFICULTY_LEVEL_2
+LANG_ENGLISH        "Curtido"
+
+REFERENCE           SPECIAL_OPS_MISSION_DIFFICULTY_LEVEL_3
+LANG_ENGLISH        "Veterano"
+
+REFERENCE           SPECIAL_OPS_NEW_MISSION_UNLOCK
+LANG_ENGLISH        "¡Nuevo elemento desbloqueado!"
+
+REFERENCE           SPECIAL_OPS_NEW_SURVIVAL_UNLOCK
+LANG_ENGLISH        "¡Nuevo elemento desbloqueado! (Supervivencia)"
+
+REFERENCE           SPECIAL_OPS_PERFORMANCE_PARTNER
+LANG_ENGLISH        "Compañero"
+
+REFERENCE           SPECIAL_OPS_PERFORMANCE_YOU
+LANG_ENGLISH        "Tú"
+
+REFERENCE           SPECIAL_OPS_PLAYER_IS_NOT_READY
+LANG_ENGLISH        "&&1 no está listo."
+
+REFERENCE           SPECIAL_OPS_PLAYER_IS_READY
+LANG_ENGLISH        "¡&&1 está listo!"
+
+REFERENCE           SPECIAL_OPS_POINTS
+LANG_ENGLISH        "Puntos"
+
+REFERENCE           SPECIAL_OPS_PRESS_TO_CANCEL
+LANG_ENGLISH        "Pulsa ^3[{+stance}]^7 para indicar que no estás listo."
+
+REFERENCE           SPECIAL_OPS_PRESS_TO_START
+LANG_ENGLISH        "Pulsa ^3[{+gostand}]^7 para indicar que estás listo."
+
+REFERENCE           SPECIAL_OPS_RANKING_NOT_AVAILABLE_OFFLINE
+LANG_ENGLISH        "No disponible sin conexión"
+
+REFERENCE           SPECIAL_OPS_REVIVE_NAG_HINT
+LANG_ENGLISH        "Pulsa ^3[{weapnext}]^7 para llamar a tu compañero."
+
+REFERENCE           SPECIAL_OPS_SOLO_MISSION_LB
+LANG_ENGLISH        "Misión en solitario/&&1/&&2"
+
+REFERENCE           SPECIAL_OPS_SOLO_SURVIVAL_LB
+LANG_ENGLISH        "Supervivencia en solitario/&&1/&&2"
+
+REFERENCE           SPECIAL_OPS_SO_ALPHA_DESC
+LANG_ENGLISH        "Mercado saturado. Amenaza invisible."
+
+REFERENCE           SPECIAL_OPS_SO_ASSASSIN_PAYBACK
+LANG_ENGLISH        "Ataque relámpago"
+
+REFERENCE           SPECIAL_OPS_SO_ASSASSIN_PAYBACK_DESC
+LANG_ENGLISH        "Caciques locales tienen como rehenes al personal de nuestra embajada. Recordadles que no negociamos con terroristas."
+
+REFERENCE           SPECIAL_OPS_SO_ASSAULTMINE
+LANG_ENGLISH        "Fiebre de los diamantes"
+
+REFERENCE           SPECIAL_OPS_SO_ASSAULTMINE_DESC
+LANG_ENGLISH        "Llega al ascensor antes de que el apoyo aéreo ilumine la mina."
+
+REFERENCE           SPECIAL_OPS_SO_ASSAULT_RESCUE_2
+LANG_ENGLISH        "Misión de tiro"
+
+REFERENCE           SPECIAL_OPS_SO_ASSAULT_RESCUE_2_CHOOSEROLES
+LANG_ENGLISH        "Elige al artillero de AC-130."
+
+REFERENCE           SPECIAL_OPS_SO_ASSAULT_RESCUE_2_DESC
+LANG_ENGLISH        "Neutraliza la defensa antiaérea enemiga e infíltrate en su base con apoyo de AC-130."
+
+REFERENCE           SPECIAL_OPS_SO_BETA_DESC
+LANG_ENGLISH        "Hermanos pequeños"
+
+REFERENCE           SPECIAL_OPS_SO_BETA_UNLOCK_DESC
+LANG_ENGLISH        "Gana 4 estrellas para desbloquearlo."
+
+REFERENCE           SPECIAL_OPS_SO_BETA_UNLOCK_NOTICE
+LANG_ENGLISH        "¡Has desbloqueado las operaciones de código Bravo!"
+
+REFERENCE           SPECIAL_OPS_SO_BUTTON_ALPHA
+LANG_ENGLISH        "Alfa"
+
+REFERENCE           SPECIAL_OPS_SO_BUTTON_ALPHA_CAPS
+LANG_ENGLISH        "ALFA"
+
+REFERENCE           SPECIAL_OPS_SO_BUTTON_BETA
+LANG_ENGLISH        "Bravo"
+
+REFERENCE           SPECIAL_OPS_SO_BUTTON_BETA_CAPS
+LANG_ENGLISH        "BRAVO"
+
+REFERENCE           SPECIAL_OPS_SO_BUTTON_BETA_UNLOCKED
+LANG_ENGLISH        "Misión - Operaciones de nivel 2"
+
+REFERENCE           SPECIAL_OPS_SO_BUTTON_CHARLIE
+LANG_ENGLISH        "Charlie"
+
+REFERENCE           SPECIAL_OPS_SO_BUTTON_CHARLIE_CAPS
+LANG_ENGLISH        "CHARLIE"
+
+REFERENCE           SPECIAL_OPS_SO_BUTTON_CHARLIE_UNLOCKED
+LANG_ENGLISH        "Misión - Operaciones de nivel 3"
+
+REFERENCE           SPECIAL_OPS_SO_BUTTON_DELTA
+LANG_ENGLISH        "Delta"
+
+REFERENCE           SPECIAL_OPS_SO_BUTTON_DELTA_CAPS
+LANG_ENGLISH        "DELTA"
+
+REFERENCE           SPECIAL_OPS_SO_BUTTON_DELTA_UNLOCKED
+LANG_ENGLISH        "Misión - Operaciones de nivel 4"
+
+REFERENCE           SPECIAL_OPS_SO_BUTTON_ECHO
+LANG_ENGLISH        "Eco"
+
+REFERENCE           SPECIAL_OPS_SO_BUTTON_ECHO_CAPS
+LANG_ENGLISH        "ECO"
+
+REFERENCE           SPECIAL_OPS_SO_BUTTON_MW3
+LANG_ENGLISH        "Misión de MW3"
+
+REFERENCE           SPECIAL_OPS_SO_BUTTON_MW3_CAPS
+LANG_ENGLISH        "MISIÓN DE MW3"
+
+REFERENCE           SPECIAL_OPS_SO_BUTTON_TIER_1
+LANG_ENGLISH        "Nivel uno"
+
+REFERENCE           SPECIAL_OPS_SO_BUTTON_TIER_1_DESC
+LANG_ENGLISH        "Emplea bien tus recursos y tal vez dures un rato."
+
+REFERENCE           SPECIAL_OPS_SO_BUTTON_TIER_2
+LANG_ENGLISH        "Nivel dos"
+
+REFERENCE           SPECIAL_OPS_SO_BUTTON_TIER_2_DESC
+LANG_ENGLISH        "Una verdadera prueba de supervivencia."
+
+REFERENCE           SPECIAL_OPS_SO_BUTTON_TIER_2_UNLOCKED
+LANG_ENGLISH        "Supervivencia - Operaciones de nivel 2"
+
+REFERENCE           SPECIAL_OPS_SO_BUTTON_TIER_3
+LANG_ENGLISH        "Nivel tres"
+
+REFERENCE           SPECIAL_OPS_SO_BUTTON_TIER_3_DESC
+LANG_ENGLISH        "Puedes intentarlo, pero no durarás mucho."
+
+REFERENCE           SPECIAL_OPS_SO_BUTTON_TIER_3_UNLOCKED
+LANG_ENGLISH        "Supervivencia - Operaciones de nivel 3"
+
+REFERENCE           SPECIAL_OPS_SO_BUTTON_TIER_4
+LANG_ENGLISH        "Nivel cuatro"
+
+REFERENCE           SPECIAL_OPS_SO_BUTTON_TIER_4_DESC
+LANG_ENGLISH        "No sobrevivirás..."
+
+REFERENCE           SPECIAL_OPS_SO_BUTTON_TIER_4_UNLOCKED
+LANG_ENGLISH        "Supervivencia - Operaciones de nivel 4"
+
+REFERENCE           SPECIAL_OPS_SO_CHARLIE_DESC
+LANG_ENGLISH        "Over Reactor"
+
+REFERENCE           SPECIAL_OPS_SO_CHARLIE_UNLOCK_DESC
+LANG_ENGLISH        "Gana 8 estrellas para desbloquearlo."
+
+REFERENCE           SPECIAL_OPS_SO_CHARLIE_UNLOCK_NOTICE
+LANG_ENGLISH        "¡Has desbloqueado las operaciones de código Charlie!"
+
+REFERENCE           SPECIAL_OPS_SO_DELTACAMP
+LANG_ENGLISH        "Mucho ojo"
+
+REFERENCE           SPECIAL_OPS_SO_DELTACAMP_DESC
+LANG_ENGLISH        "Pon a prueba tus habilidades en el circuito de obstáculos."
+
+REFERENCE           SPECIAL_OPS_SO_DELTA_DESC
+LANG_ENGLISH        "Paraíso tóxico. Domingueros. Rescate nocturno."
+
+REFERENCE           SPECIAL_OPS_SO_DELTA_UNLOCK_DESC
+LANG_ENGLISH        "Gana 20 estrellas para desbloquearlo."
+
+REFERENCE           SPECIAL_OPS_SO_DELTA_UNLOCK_NOTICE
+LANG_ENGLISH        "¡Has desbloqueado las operaciones de código Delta!"
+
+REFERENCE           SPECIAL_OPS_SO_HELISWITCH_BERLIN
+LANG_ENGLISH        "Hermanos pequeños"
+
+REFERENCE           SPECIAL_OPS_SO_HELISWITCH_BERLIN_CHOOSEROLES
+LANG_ENGLISH        "Elegir apoyo aéreo."
+
+REFERENCE           SPECIAL_OPS_SO_HELISWITCH_BERLIN_DESC
+LANG_ENGLISH        "Destruye los datos comprometedores antes de que los rusos se apoderen de ellos."
+
+REFERENCE           SPECIAL_OPS_SO_IED_BERLIN
+LANG_ENGLISH        "Amenaza invisible"
+
+REFERENCE           SPECIAL_OPS_SO_IED_BERLIN_CHOOSEROLES
+LANG_ENGLISH        "Elegir desactivador de explosivos."
+
+REFERENCE           SPECIAL_OPS_SO_IED_BERLIN_DESC
+LANG_ENGLISH        "Utiliza el UAV y un Juggernaut para encontrar y desactivar artefactos explosivos caseros."
+
+REFERENCE           SPECIAL_OPS_SO_JEEP_PARIS_B
+LANG_ENGLISH        "Bloqueo de servidor"
+
+REFERENCE           SPECIAL_OPS_SO_JEEP_PARIS_B_DESC
+LANG_ENGLISH        "Ábrete camino hasta el escondite de Volk y descarga los datos de su plan maestro."
+
+REFERENCE           SPECIAL_OPS_SO_KILLSPREE_PARIS_A
+LANG_ENGLISH        "Paraíso tóxico"
+
+REFERENCE           SPECIAL_OPS_SO_KILLSPREE_PARIS_A_DESC
+LANG_ENGLISH        "Recoge muestras de una neurotoxina con una armadura Juggernaut."
+
+REFERENCE           SPECIAL_OPS_SO_LITTLEBIRD_PAYBACK
+LANG_ENGLISH        "Ciudad contrabandista"
+
+REFERENCE           SPECIAL_OPS_SO_LITTLEBIRD_PAYBACK_CHOOSEROLES
+LANG_ENGLISH        "Elegir apoyo terrestre."
+
+REFERENCE           SPECIAL_OPS_SO_LITTLEBIRD_PAYBACK_DESC
+LANG_ENGLISH        "Despoja a la milicia local de su material de contrabando."
+
+REFERENCE           SPECIAL_OPS_SO_MILEHIGH_HIJACK
+LANG_ENGLISH        "Vuelo secuestrado"
+
+REFERENCE           SPECIAL_OPS_SO_MILEHIGH_HIJACK_DESC
+LANG_ENGLISH        "Secuestra el avión del presidente Vorshevsky y captúralo para Makarov."
+
+REFERENCE           SPECIAL_OPS_SO_NYSE_NY_MANHATTAN
+LANG_ENGLISH        "Mercado saturado"
+
+REFERENCE           SPECIAL_OPS_SO_NYSE_NY_MANHATTAN_DESC
+LANG_ENGLISH        "Encuentra los códigos de cifrado en el edificio de la Bolsa y envíalos al mando central."
+
+REFERENCE           SPECIAL_OPS_SO_RESCUE_HIJACK
+LANG_ENGLISH        "Liberador"
+
+REFERENCE           SPECIAL_OPS_SO_RESCUE_HIJACK_DESC
+LANG_ENGLISH        "Usa el sigilo para salvar a la hija del presidente antes de que los hombres de Makarov la encuentren."
+
+REFERENCE           SPECIAL_OPS_SO_STEALTH_PRAGUE
+LANG_ENGLISH        "Movimiento de resistencia"
+
+REFERENCE           SPECIAL_OPS_SO_STEALTH_PRAGUE_DESC
+LANG_ENGLISH        "Lleva a todos los rebeldes que puedas a la zona de aterrizaje. Sé sigiloso."
+
+REFERENCE           SPECIAL_OPS_SO_STEALTH_WARLORD
+LANG_ENGLISH        "Extracción fatal"
+
+REFERENCE           SPECIAL_OPS_SO_STEALTH_WARLORD_DESC
+LANG_ENGLISH        "Intercepta la información enemiga para localizar y eliminar al VIP."
+
+REFERENCE           SPECIAL_OPS_SO_TIMETRIAL_LONDON
+LANG_ENGLISH        "Cortafuegos"
+
+REFERENCE           SPECIAL_OPS_SO_TIMETRIAL_LONDON_CHOOSEROLES
+LANG_ENGLISH        "Escoge al jugador que controlará el sistema de cámaras de la torreta."
+
+REFERENCE           SPECIAL_OPS_SO_TIMETRIAL_LONDON_DESC
+LANG_ENGLISH        "Piratea las torretas de seguridad enemigas y llega al metro a tiempo."
+
+REFERENCE           SPECIAL_OPS_SO_TRAINER2_SO_DELTACAMP
+LANG_ENGLISH        "Cargas colocadas"
+
+REFERENCE           SPECIAL_OPS_SO_TRAINER2_SO_DELTACAMP_DESC
+LANG_ENGLISH        "Otro paseo por el circuito de obstáculos con nuevas armas, más enemigos e irrupciones explosivas."
+
+REFERENCE           SPECIAL_OPS_SO_UNLOCK_DESC
+LANG_ENGLISH        "Gana estrellas para desbloquearlo."
+
+REFERENCE           SPECIAL_OPS_SO_ZODIAC2_NY_HARBOR
+LANG_ENGLISH        "Reacción excesiva"
+
+REFERENCE           SPECIAL_OPS_SO_ZODIAC2_NY_HARBOR_DESC
+LANG_ENGLISH        "Evita que el submarino ruso sufra una fusión del núcleo."
+
+REFERENCE           SPECIAL_OPS_STARTING_IN
+LANG_ENGLISH        "Empieza en: "
+
+REFERENCE           SPECIAL_OPS_SURVIVAL_ALPHA
+LANG_ENGLISH        "Lockdown"
+
+REFERENCE           SPECIAL_OPS_SURVIVAL_ALPHA_DESC
+LANG_ENGLISH        "Artificieros, guerra química, expertos en Claymores, helicópteros y Juggernauts blindados."
+
+REFERENCE           SPECIAL_OPS_SURVIVAL_BOOTLEG
+LANG_ENGLISH        "Bootleg"
+
+REFERENCE           SPECIAL_OPS_SURVIVAL_BOOTLEG_DESC
+LANG_ENGLISH        "Artificieros, expertos en Claymores, helicópteros y Juggernauts con escudos antidisturbios."
+
+REFERENCE           SPECIAL_OPS_SURVIVAL_BRAVO
+LANG_ENGLISH        "Mission"
+
+REFERENCE           SPECIAL_OPS_SURVIVAL_BRAVO_DESC
+LANG_ENGLISH        "Artificieros, guerra química, helicópteros y Juggernauts con escudos antidisturbios."
+
+REFERENCE           SPECIAL_OPS_SURVIVAL_CARBON
+LANG_ENGLISH        "Carbon"
+
+REFERENCE           SPECIAL_OPS_SURVIVAL_CARBON_DESC
+LANG_ENGLISH        "Artificieros, guerra química, helicópteros y Juggernauts con escudos antidisturbios."
+
+REFERENCE           SPECIAL_OPS_SURVIVAL_DIFFICULTY_LEVEL_0
+LANG_ENGLISH        "Fácil"
+
+REFERENCE           SPECIAL_OPS_SURVIVAL_DIFFICULTY_LEVEL_1
+LANG_ENGLISH        "Profesional"
+
+REFERENCE           SPECIAL_OPS_SURVIVAL_DIFFICULTY_LEVEL_2
+LANG_ENGLISH        "Difícil"
+
+REFERENCE           SPECIAL_OPS_SURVIVAL_DIFFICULTY_LEVEL_3
+LANG_ENGLISH        "Descabellada"
+
+REFERENCE           SPECIAL_OPS_SURVIVAL_DOME
+LANG_ENGLISH        "Dome"
+
+REFERENCE           SPECIAL_OPS_SURVIVAL_DOME_DESC
+LANG_ENGLISH        "Artificieros, guerra química, helicópteros y Juggernauts con escudos antidisturbios."
+
+REFERENCE           SPECIAL_OPS_SURVIVAL_EXCHANGE
+LANG_ENGLISH        "Downturn"
+
+REFERENCE           SPECIAL_OPS_SURVIVAL_EXCHANGE_DESC
+LANG_ENGLISH        "Artificieros, guerra química, expertos en Claymores, helicópteros y Juggernauts blindados."
+
+REFERENCE           SPECIAL_OPS_SURVIVAL_HARDHAT
+LANG_ENGLISH        "Hardhat"
+
+REFERENCE           SPECIAL_OPS_SURVIVAL_HARDHAT_DESC
+LANG_ENGLISH        "Artificieros, expertos en Claymores, helicópteros y Juggernauts con escudos antidisturbios."
+
+REFERENCE           SPECIAL_OPS_SURVIVAL_INTERCHANGE
+LANG_ENGLISH        "Interchange"
+
+REFERENCE           SPECIAL_OPS_SURVIVAL_INTERCHANGE_DESC
+LANG_ENGLISH        "Artificieros, perros de presa, helicópteros y Juggernauts."
+
+REFERENCE           SPECIAL_OPS_SURVIVAL_LAMBETH
+LANG_ENGLISH        "Fallen"
+
+REFERENCE           SPECIAL_OPS_SURVIVAL_LAMBETH_DESC
+LANG_ENGLISH        "Artificieros, expertos en Claymores, helicópteros y Juggernauts con escudos antidisturbios."
+
+REFERENCE           SPECIAL_OPS_SURVIVAL_MOGADISHU
+LANG_ENGLISH        "Bakaara"
+
+REFERENCE           SPECIAL_OPS_SURVIVAL_MOGADISHU_DESC
+LANG_ENGLISH        "Artificieros, guerra química, expertos en Claymores, helicópteros y Juggernauts blindados."
+
+REFERENCE           SPECIAL_OPS_SURVIVAL_PARIS
+LANG_ENGLISH        "Resistance"
+
+REFERENCE           SPECIAL_OPS_SURVIVAL_PARIS_DESC
+LANG_ENGLISH        "Artificieros, perros de presa, helicópteros y Juggernauts."
+
+REFERENCE           SPECIAL_OPS_SURVIVAL_PLAZA2
+LANG_ENGLISH        "Arkaden"
+
+REFERENCE           SPECIAL_OPS_SURVIVAL_PLAZA2_DESC
+LANG_ENGLISH        "Artificieros, guerra química, expertos en Claymores, helicópteros y Juggernauts blindados."
+
+REFERENCE           SPECIAL_OPS_SURVIVAL_RADAR
+LANG_ENGLISH        "Outpost"
+
+REFERENCE           SPECIAL_OPS_SURVIVAL_RADAR_DESC
+LANG_ENGLISH        "Artificieros, expertos en Claymores, helicópteros y Juggernauts con escudos antidisturbios."
+
+REFERENCE           SPECIAL_OPS_SURVIVAL_SEATOWN
+LANG_ENGLISH        "Seatown"
+
+REFERENCE           SPECIAL_OPS_SURVIVAL_SEATOWN_DESC
+LANG_ENGLISH        "Artificieros, guerra química, helicópteros y Juggernauts con escudos antidisturbios."
+
+REFERENCE           SPECIAL_OPS_SURVIVAL_UNDERGROUND
+LANG_ENGLISH        "Underground"
+
+REFERENCE           SPECIAL_OPS_SURVIVAL_UNDERGROUND_DESC
+LANG_ENGLISH        "Artificieros, perros de presa, helicópteros y Juggernauts."
+
+REFERENCE           SPECIAL_OPS_SURVIVAL_VILLAGE
+LANG_ENGLISH        "Village"
+
+REFERENCE           SPECIAL_OPS_SURVIVAL_VILLAGE_DESC
+LANG_ENGLISH        "Artificieros, perros de presa, helicópteros y Juggernauts."
+
+REFERENCE           SPECIAL_OPS_TEAM_MISSION_LB
+LANG_ENGLISH        "Misión en equipo/&&1/&&2"
+
+REFERENCE           SPECIAL_OPS_TEAM_SURVIVAL_LB
+LANG_ENGLISH        "Supervivencia en equipo/&&1/&&2"
+
+REFERENCE           SPECIAL_OPS_TIME
+LANG_ENGLISH        "Tiempo: "
+
+REFERENCE           SPECIAL_OPS_TIME_NULL
+LANG_ENGLISH        "-:--.-"
+
+REFERENCE           SPECIAL_OPS_UI_CHALLENGE_COMPLETE
+LANG_ENGLISH        "Terminado"
+
+REFERENCE           SPECIAL_OPS_UI_CHALLENGE_FAIL
+LANG_ENGLISH        "--"
+
+REFERENCE           SPECIAL_OPS_UI_DIFFICULTY
+LANG_ENGLISH        "Dificultad"
+
+REFERENCE           SPECIAL_OPS_UI_DIFFICULTY_OTHER
+LANG_ENGLISH        "Dificultad del compañero"
+
+REFERENCE           SPECIAL_OPS_UI_KILLS
+LANG_ENGLISH        "Bajas"
+
+REFERENCE           SPECIAL_OPS_UI_KILLS_OTHER
+LANG_ENGLISH        "Bajas del compañero"
+
+REFERENCE           SPECIAL_OPS_UI_KILLS_PARTNER
+LANG_ENGLISH        "Bajas del compañero"
+
+REFERENCE           SPECIAL_OPS_UI_MISSION_FAILED
+LANG_ENGLISH        "MISIÓN FALLIDA"
+
+REFERENCE           SPECIAL_OPS_UI_MISSION_SUCCESS
+LANG_ENGLISH        "¡Misión cumplida!"
+
+REFERENCE           SPECIAL_OPS_UI_PLAY_AGAIN
+LANG_ENGLISH        "VOLVER A JUGAR ^0- ^3ESC^7"
+
+REFERENCE           SPECIAL_OPS_UI_RETURN_TO_SPECIALOPS
+LANG_ENGLISH        "VOLVER A OPERACIONES ESPECIALES"
+
+REFERENCE           SPECIAL_OPS_UI_SCORE
+LANG_ENGLISH        "Punt."
+
+REFERENCE           SPECIAL_OPS_UI_SCORE_FINAL
+LANG_ENGLISH        "Puntuación final"
+
+REFERENCE           SPECIAL_OPS_UI_TEAM_SCORE
+LANG_ENGLISH        "Puntuación del equipo"
+
+REFERENCE           SPECIAL_OPS_UI_TIME
+LANG_ENGLISH        "Tiempo"
+
+REFERENCE           SPECIAL_OPS_UI_TIME_BONUS
+LANG_ENGLISH        "Bonificación de tiempo"
+
+REFERENCE           SPECIAL_OPS_UI_TIME_LEFT
+LANG_ENGLISH        "Tiempo restante"
+
+REFERENCE           SPECIAL_OPS_UI_XP_COMPLETION
+LANG_ENGLISH        "^8PX totales"
+
+REFERENCE           SPECIAL_OPS_UI_XP_COMPLETION_FRIST_TIME
+LANG_ENGLISH        "^8PX por completar"
+
+REFERENCE           SPECIAL_OPS_WAITING_OTHER_PLAYER
+LANG_ENGLISH        "Falta tu compañero"
+
+REFERENCE           SPECIAL_OPS_WAITING_P1
+LANG_ENGLISH        "Esperando al jugador 1..."
+
+REFERENCE           SPECIAL_OPS_WAITING_P2
+LANG_ENGLISH        "Esperando al jugador 2..."
+
+REFERENCE           SPECIAL_OPS_WAVEFINAL
+LANG_ENGLISH        "Última oleada"
+
+REFERENCE           SPECIAL_OPS_WAVENUM
+LANG_ENGLISH        "Oleada: "
+
+REFERENCE           VIDSUBTITLES_CASTLE_CINE_VIDEO110
+LANG_ENGLISH        "^2Baseplate: ^7Sí. Enviamos drones sobre un castillo sospechoso cuando lo de Zakhaev, pero nunca pillamos a los blancos visitando la zona."
+
+REFERENCE           VIDSUBTITLES_CASTLE_CINE_VIDEO110_1
+LANG_ENGLISH        "^2Price: ^7 ¿A qué me enfrento?"
+
+REFERENCE           VIDSUBTITLES_CASTLE_CINE_VIDEO111
+LANG_ENGLISH        "^2Baseplate: ^7 Es una fortaleza. Solo hay una forma de entrar o salir... a no ser que pueda volar."
+
+REFERENCE           VIDSUBTITLES_CASTLE_CINE_VIDEO112
+LANG_ENGLISH        "^2Baseplate: ^7 Una sala de seguridad al otro lado del complejo y un centro de mando al norte. Ambos muy protegidos."
+
+REFERENCE           VIDSUBTITLES_CASTLE_CINE_VIDEO113
+LANG_ENGLISH        "^2Baseplate: ^7 Si Makarov está allí, estará en la sala de control."
+
+REFERENCE           VIDSUBTITLES_CASTLE_CINE_VIDEO114
+LANG_ENGLISH        "^2Baseplate: ^7 ¿Qué es esto que me envía?"
+
+REFERENCE           VIDSUBTITLES_CASTLE_CINE_VIDEO115
+LANG_ENGLISH        "^2Price: ^7 Una lista de equipo."
+
+REFERENCE           VIDSUBTITLES_CASTLE_CINE_VIDEO116
+LANG_ENGLISH        "^2Baseplate: ^7 Es mucho material, John. ¿Qué planea hacer?"
+
+REFERENCE           VIDSUBTITLES_CASTLE_CINE_VIDEO117
+LANG_ENGLISH        "^2Price: ^7 Lo que usted me enseñó..."
+
+REFERENCE           VIDSUBTITLES_CASTLE_CINE_VIDEO118
+LANG_ENGLISH        "^2Price: ^7 Matarlos. "
+
+REFERENCE           VIDSUBTITLES_CASTLE_CINE_VIDEO11_1
+LANG_ENGLISH        "^2Price: ^7En la torre del reloj de Hereford se inscriben los nombres de los muertos."
+
+REFERENCE           VIDSUBTITLES_CASTLE_CINE_VIDEO11_2
+LANG_ENGLISH        "^2Price: ^7Intentamos honrar sus hazañas, aunque los rostros se borran de nuestra memoria."
+
+REFERENCE           VIDSUBTITLES_CASTLE_CINE_VIDEO11_3
+LANG_ENGLISH        "^2Price: ^7Esos recuerdos son lo único que queda cuando los cabrones se han llevado todo lo demás."
+
+REFERENCE           VIDSUBTITLES_CASTLE_CINE_VIDEO12
+LANG_ENGLISH        "^2Baseplate: ^7 ¿Qué ha pasado?"
+
+REFERENCE           VIDSUBTITLES_CASTLE_CINE_VIDEO13
+LANG_ENGLISH        "^2Price: ^7 Ha matado a Soap."
+
+REFERENCE           VIDSUBTITLES_CASTLE_CINE_VIDEO14
+LANG_ENGLISH        "^2Price: ^7 Ha muerto, Mac."
+
+REFERENCE           VIDSUBTITLES_CASTLE_CINE_VIDEO15
+LANG_ENGLISH        "^2Baseplate: ^7 ¿Qué puedo hacer por usted?"
+
+REFERENCE           VIDSUBTITLES_CASTLE_CINE_VIDEO16
+LANG_ENGLISH        "^2Price: ^7Darme una ubicación. Nuestro ruso dice que Makarov almacenaba armas en un castillo, en las montañas, cerca de Praga. No hay nada más."
+
+REFERENCE           VIDSUBTITLES_CASTLE_CINE_VIDEO17
+LANG_ENGLISH        "^2Baseplate: ^7 ¿Confía en él?"
+
+REFERENCE           VIDSUBTITLES_CASTLE_CINE_VIDEO17_1
+LANG_ENGLISH        "^2Price: ^7 ¿Qué opciones tengo?"
+
+REFERENCE           VIDSUBTITLES_CASTLE_CINE_VIDEO18
+LANG_ENGLISH        "^2Price: ^7 Tiene motivos para querer a Makarov muerto. "
+
+REFERENCE           VIDSUBTITLES_CASTLE_CINE_VIDEO19
+LANG_ENGLISH        "^2Price: ^7 ¿Le suena el lugar?"
+
+REFERENCE           VIDSUBTITLES_HAMBURG_CINE_VIDEO110
+LANG_ENGLISH        "^2Ramstein AFB: ^7 ¡Todo el ejército ruso! Solicito apoyo inmediato."
+
+REFERENCE           VIDSUBTITLES_HAMBURG_CINE_VIDEO112
+LANG_ENGLISH        "^2Overlord: ^7Esto no ha sido terrorismo. Pretendían inutilizar nuestras defensas contra su invasión. "
+
+REFERENCE           VIDSUBTITLES_HAMBURG_CINE_VIDEO112_1
+LANG_ENGLISH        "^2Overlord: ^7 Debemos golpearlos con todo lo que tenemos."
+
+REFERENCE           VIDSUBTITLES_HAMBURG_CINE_VIDEO113
+LANG_ENGLISH        "^2Battle Captain: ^7 Hemos perdido el contacto con la delegación de Hamburgo."
+
+REFERENCE           VIDSUBTITLES_HAMBURG_CINE_VIDEO116
+LANG_ENGLISH        "^2Overlord: ^7 Metal 0-1, aquí Overlord jefe. Va a ser redirigido a Hamburgo."
+
+REFERENCE           VIDSUBTITLES_HAMBURG_CINE_VIDEO118
+LANG_ENGLISH        "^2Overlord: ^7 Tenemos un rescate de máximo nivel."
+
+REFERENCE           VIDSUBTITLES_HAMBURG_CINE_VIDEO119
+LANG_ENGLISH        "^2Sandman: ^7 ¿Quién es?"
+
+REFERENCE           VIDSUBTITLES_HAMBURG_CINE_VIDEO12
+LANG_ENGLISH        "^2Wallcroft: ^7 Repito: Downing Street está en la zona contaminada. ¡Cambio!"
+
+REFERENCE           VIDSUBTITLES_HAMBURG_CINE_VIDEO120
+LANG_ENGLISH        "^2Overlord: ^7 El vicepresidente."
+
+REFERENCE           VIDSUBTITLES_HAMBURG_CINE_VIDEO13_2
+LANG_ENGLISH        "^2GIGN Commander: ^7Aquí cuartel del GIGN. ¡Nos están masacrando! ¡Estoy expuesto!"
+
+REFERENCE           VIDSUBTITLES_HAMBURG_CINE_VIDEO14
+LANG_ENGLISH        "^2Ramstein AFB: ^7 ¡Aquí Ramstein! ¡Nos están atacando!"
+
+REFERENCE           VIDSUBTITLES_HAMBURG_CINE_VIDEO17
+LANG_ENGLISH        "^2Overlord: ^7 Sabemos lo del ataque con gas y estamos enviando unidades de descontaminación."
+
+REFERENCE           VIDSUBTITLES_HAMBURG_CINE_VIDEO18
+LANG_ENGLISH        "^2Ramstein AFB: ^7 ¡Nada de gas! ¡Nos están atacando fuerzas terrestres rusas!"
+
+REFERENCE           VIDSUBTITLES_HAMBURG_CINE_VIDEO19
+LANG_ENGLISH        "^2Overlord: ^7 Repita, Ramstein. ¿Qué fuerzas rusas?"
+
+REFERENCE           VIDSUBTITLES_HIJACK_CINEMATIC_VIDEO110
+LANG_ENGLISH        "^2Price: ^7 Lo único que sé es que este mundo es una enorme caja de cerillas."
+
+REFERENCE           VIDSUBTITLES_HIJACK_CINEMATIC_VIDEO110_1
+LANG_ENGLISH        "^2Price: ^7 Solo hace falta una persona para hacer saltar la chispa."
+
+REFERENCE           VIDSUBTITLES_HIJACK_CINEMATIC_VIDEO12
+LANG_ENGLISH        "^2Price: ^7 En la guerra, la primera baja es la verdad."
+
+REFERENCE           VIDSUBTITLES_HIJACK_CINEMATIC_VIDEO12_1
+LANG_ENGLISH        "^2Price: ^7Pero, ¿quién define lo que es cierto?"
+
+REFERENCE           VIDSUBTITLES_HIJACK_CINEMATIC_VIDEO12_2
+LANG_ENGLISH        "^2Price: ^7La verdad depende del punto de vista."
+
+REFERENCE           VIDSUBTITLES_HIJACK_CINEMATIC_VIDEO14
+LANG_ENGLISH        "^2Price: ^7 El deber de todo soldado es proteger a los inocentes. Y, a veces, eso implica perpetuar la mentira del bien y del mal... La guerra no es más que un proceso de selección natural a gran escala."
+
+REFERENCE           VIDSUBTITLES_HIJACK_CINEMATIC_VIDEO16
+LANG_ENGLISH        "^2Commander: ^7Informe general."
+
+REFERENCE           VIDSUBTITLES_LONDON_CINE_VIDEO11
+LANG_ENGLISH        "^2French Intel Officer: ^7Aquí estación Córcega. Estamos recibiendo un mensaje codificado."
+
+REFERENCE           VIDSUBTITLES_LONDON_CINE_VIDEO13
+LANG_ENGLISH        "^2French Intel Officer: ^7Alerten a la inteligencia británica de que tenemos un problema."
+
+REFERENCE           VIDSUBTITLES_LONDON_CINE_VIDEO21
+LANG_ENGLISH        "^2MI6 Officer: ^7Los franceses interceptaron un mensaje sobre un envío sospechoso dirigido a territorio británico. "
+
+REFERENCE           VIDSUBTITLES_LONDON_CINE_VIDEO22
+LANG_ENGLISH        "^2SIS Chief: ^7¿Se ha identificado el vehículo?"
+
+REFERENCE           VIDSUBTITLES_LONDON_CINE_VIDEO23
+LANG_ENGLISH        "^2MI6 Officer: ^7No, señor. La llamada vino de un número de la lista vigilada de Fregata Industries."
+
+REFERENCE           VIDSUBTITLES_LONDON_CINE_VIDEO26
+LANG_ENGLISH        "^2SIS Chief: ^7 Avisen al MI5 de que tenemos una amenaza inminente."
+
+REFERENCE           VIDSUBTITLES_LONDON_CINE_VIDEO31
+LANG_ENGLISH        "^2MI5 Director: ^7 Caballeros, ¿qué sabemos?"
+
+REFERENCE           VIDSUBTITLES_LONDON_CINE_VIDEO32
+LANG_ENGLISH        "^2MI6 Officer: ^7 Nada sólido. La rama especial está cribando los individuos de interés, pero recomendamos que el SAS investigue amenazas de nivel 1."
+
+REFERENCE           VIDSUBTITLES_LONDON_CINE_VIDEO33
+LANG_ENGLISH        "^2MI5 Director: ^7 Póngame con Hereford."
+
+REFERENCE           VIDSUBTITLES_LONDON_CINE_VIDEO41_1
+LANG_ENGLISH        "^2Baseplate: ^7 Señora, entiendo que hay enemigos desconocidos esperando un paquete."
+
+REFERENCE           VIDSUBTITLES_LONDON_CINE_VIDEO42
+LANG_ENGLISH        "^2MI5 Director: ^7Ahora estamos enviando posibles puntos de entrada. Recuerde, actualmente, la naturaleza de la carga se desconoce."
+
+REFERENCE           VIDSUBTITLES_LONDON_CINE_VIDEO43
+LANG_ENGLISH        "^2Baseplate: ^7 Recibido. Nos estamos preparando. Estaremos listos en una hora."
+
+REFERENCE           VIDSUBTITLES_LONDON_CINE_VIDEO44
+LANG_ENGLISH        "^2MI5 Director: ^7 Capitán, tramen lo que tramen... deténgalos."
+
+REFERENCE           VIDSUBTITLES_LONDON_CINE_VIDEO44_1
+LANG_ENGLISH        "^2Baseplate: ^7Tranquila. Tramen lo que tramen, los detendremos."
+
+REFERENCE           VIDSUBTITLES_OPENING_CINE_VIDEO11
+LANG_ENGLISH        "^2Makarov: ^7 Toda guerra se basa en la mentira."
+
+REFERENCE           VIDSUBTITLES_OPENING_CINE_VIDEO110
+LANG_ENGLISH        "^2Makarov: ^7 Las llamas se propagan y lo devoran todo a su paso."
+
+REFERENCE           VIDSUBTITLES_OPENING_CINE_VIDEO110_1
+LANG_ENGLISH        "^2F-16 Pilot: ^7¡Veo cazas sobre la I-95! ¿Cómo han conseguido pasar?"
+
+REFERENCE           VIDSUBTITLES_OPENING_CINE_VIDEO112
+LANG_ENGLISH        "^2U.S. President: ^7 Ha sido un acto de guerra contra los Estados Unidos por parte de Rusia y sus aliados. Pero no teman; venceremos."
+
+REFERENCE           VIDSUBTITLES_OPENING_CINE_VIDEO113
+LANG_ENGLISH        "^2Makarov: ^7 Nuestros enemigos creen que solo ellos controlan el curso de la historia."
+
+REFERENCE           VIDSUBTITLES_OPENING_CINE_VIDEO114
+LANG_ENGLISH        "^2Makarov: ^7 Pero solo se necesita la voluntad de un hombre."
+
+REFERENCE           VIDSUBTITLES_OPENING_CINE_VIDEO13
+LANG_ENGLISH        "^2Makarov: ^7 Durante años la hipocresía de Occidente ha sumido el mundo en guerra."
+
+REFERENCE           VIDSUBTITLES_OPENING_CINE_VIDEO14
+LANG_ENGLISH        "^2Makarov: ^7 Los corruptos hablan mientras los nuestros derraman su sangre."
+
+REFERENCE           VIDSUBTITLES_OPENING_CINE_VIDEO15
+LANG_ENGLISH        "^2Makarov: ^7 Pero la mentira tiene doble filo."
+
+REFERENCE           VIDSUBTITLES_OPENING_CINE_VIDEO16
+LANG_ENGLISH        "^2Makarov: ^7 Recuerde, nada de ruso."
+
+REFERENCE           VIDSUBTITLES_OPENING_CINE_VIDEO18
+LANG_ENGLISH        "^2Makarov: ^7 Cuanto mayor es la mentira, más probable es que la crean."
+
+REFERENCE           VIDSUBTITLES_OPENING_CINE_VIDEO19
+LANG_ENGLISH        "^2Makarov: ^7 Y cuando una nación clama venganza, la mentira es como un reguero de pólvora."
+
+REFERENCE           VIDSUBTITLES_PARIS_AC130_CINE_VIDEO11
+LANG_ENGLISH        "^2Presidential Aide: ^7 General, habla con el presidente y con el Consejo de Seguridad. "
+
+REFERENCE           VIDSUBTITLES_PARIS_AC130_CINE_VIDEO110
+LANG_ENGLISH        "\n^2Overlord: ^7Tendrán que llegar al punto de extracción por la fuerza."
+
+REFERENCE           VIDSUBTITLES_PARIS_AC130_CINE_VIDEO111
+LANG_ENGLISH        "^2U.S. President: ^7General, quiero a ese tal Volk vivo. Me da igual lo que cueste. Traiga a esos hombres a casa de una pieza."
+
+REFERENCE           VIDSUBTITLES_PARIS_AC130_CINE_VIDEO12
+LANG_ENGLISH        "^2Overlord: ^7 Presidente…"
+
+REFERENCE           VIDSUBTITLES_PARIS_AC130_CINE_VIDEO13
+LANG_ENGLISH        "^2U.S. President: ^7 General, ¿ha encontrado ya a Makarov?"
+
+REFERENCE           VIDSUBTITLES_PARIS_AC130_CINE_VIDEO14
+LANG_ENGLISH        "^2Overlord: ^7 No, pero su fabricante de bombas nos ha revelado su paradero. Estamos haciendo progresos."
+
+REFERENCE           VIDSUBTITLES_PARIS_AC130_CINE_VIDEO15
+LANG_ENGLISH        "^2U.S. President: ^7 ¿Progresos? ¿Lo tiene ya o no?"
+
+REFERENCE           VIDSUBTITLES_PARIS_AC130_CINE_VIDEO16
+LANG_ENGLISH        "^2Overlord: ^7Delta le ha capturado. Le estoy enviando las grabaciones."
+
+REFERENCE           VIDSUBTITLES_PARIS_AC130_CINE_VIDEO17
+LANG_ENGLISH        "^2U.S. President: ^7¿Cuál es su estado?"
+
+REFERENCE           VIDSUBTITLES_PARIS_AC130_CINE_VIDEO18
+LANG_ENGLISH        "^2Overlord: ^7 Tienen bajo custodia a Volk, pero su operación se ha visto comprometida."
+
+REFERENCE           VIDSUBTITLES_PARIS_AC130_CINE_VIDEO19
+LANG_ENGLISH        "\n^2U.S. President: ^7En castellano, General, por favor... "
+
+REFERENCE           VIDSUBTITLES_PRAGUE_ESCAPE_CINE_VIDEO110
+LANG_ENGLISH        "^2Soap: ^7 No hay ni Dios. Parece que Makarov llega tarde a su propio funeral."
+
+REFERENCE           VIDSUBTITLES_PRAGUE_ESCAPE_CINE_VIDEO111
+LANG_ENGLISH        "^2Price: ^7Espere a que tengamos vía libre. Después podrá llenarlo de plomo si le apetece."
+
+REFERENCE           VIDSUBTITLES_PRAGUE_ESCAPE_CINE_VIDEO112
+LANG_ENGLISH        "^2Soap: ^7 Con un tiro me sobra."
+
+REFERENCE           VIDSUBTITLES_PRAGUE_ESCAPE_CINE_VIDEO12
+LANG_ENGLISH        "^2Soap: ^7¿En qué vehículo irá él?"
+
+REFERENCE           VIDSUBTITLES_PRAGUE_ESCAPE_CINE_VIDEO13
+LANG_ENGLISH        "^2Yuri: ^7Siempre lo cambian por motivos de seguridad. No lo sabremos hasta que salga."
+
+REFERENCE           VIDSUBTITLES_PRAGUE_ESCAPE_CINE_VIDEO14
+LANG_ENGLISH        "^2Soap: ^7Parece saber mucho sobre Makarov... "
+
+REFERENCE           VIDSUBTITLES_PRAGUE_ESCAPE_CINE_VIDEO15
+LANG_ENGLISH        "^2Price: ^7Alpha 1, prueba de radio. Cambio."
+
+REFERENCE           VIDSUBTITLES_PRAGUE_ESCAPE_CINE_VIDEO16
+LANG_ENGLISH        "^2Soap: ^7Bravo 1, verifico. Atrincherados y en línea de tiro."
+
+REFERENCE           VIDSUBTITLES_PRAGUE_ESCAPE_CINE_VIDEO17
+LANG_ENGLISH        "^2Price: ^7 Bien. Kamarov es nuestros ojos y oídos dentro del hotel."
+
+REFERENCE           VIDSUBTITLES_PRAGUE_ESCAPE_CINE_VIDEO18
+LANG_ENGLISH        "^2Price: ^7 Empezaremos en cuanto nos dé el visto bueno."
+
+REFERENCE           VIDSUBTITLES_PRAGUE_ESCAPE_CINE_VIDEO19
+LANG_ENGLISH        "^2Price: ^7 ¿Ve algo? "
+
+REFERENCE           VIDSUBTITLES_PROLOGUE_SELECT_CINE_VIDEO11
+LANG_ENGLISH        "^2Price: ^7El mundo conocido... ya no existe. ¿Hasta dónde llegaría para recuperarlo?"
+
+REFERENCE           VIDSUBTITLES_PROLOGUE_SELECT_CINE_VIDEO12
+LANG_ENGLISH        "^2Price: ^7 Shepherd creó una guerra... y nosotros sabíamos la verdad."
+
+REFERENCE           VIDSUBTITLES_PROLOGUE_SELECT_CINE_VIDEO13
+LANG_ENGLISH        "^2Price: ^7¡Nikolai! ¡Saquemos a Soap de aquí!"
+
+REFERENCE           VIDSUBTITLES_PROLOGUE_SELECT_CINE_VIDEO14
+LANG_ENGLISH        "^2Nikolai: ^7 Da. Conozco un lugar."
+
+REFERENCE           VIDSUBTITLES_RESCUE_2_CINE_VIDEO11
+LANG_ENGLISH        "^2Sandman: ^7Hemos perdido a la chica. Parece que se la han llevado a una mina de diamantes de Siberia. "
+
+REFERENCE           VIDSUBTITLES_RESCUE_2_CINE_VIDEO111
+LANG_ENGLISH        "^2Grinch: ^7Y que lo diga."
+
+REFERENCE           VIDSUBTITLES_RESCUE_2_CINE_VIDEO113
+LANG_ENGLISH        "^2Sandman: ^7Procuraré no dejarlo atrás, viejo."
+
+REFERENCE           VIDSUBTITLES_RESCUE_2_CINE_VIDEO115
+LANG_ENGLISH        "^2Price: ^7A los yanquis les encanta llevarse el mérito, así que Yuri y yo mantendremos a raya a los vecinos mientras ustedes rescatan a los rehenes."
+
+REFERENCE           VIDSUBTITLES_RESCUE_2_CINE_VIDEO13
+LANG_ENGLISH        "^2Sandman: ^7Bien. Afinen la puntería. Nadie quiere un rehén muerto."
+
+REFERENCE           VIDSUBTITLES_RESCUE_2_CINE_VIDEO14
+LANG_ENGLISH        "^2Price: ^7Tenemos una oportunidad para coger al presidente antes de que revele los códigos de lanzamiento y Makarov acabe con Europa."
+
+REFERENCE           VIDSUBTITLES_RESCUE_2_CINE_VIDEO16
+LANG_ENGLISH        "^2Truck: ^7¿Cómo está la cosa, jefe?"
+
+REFERENCE           VIDSUBTITLES_RESCUE_2_CINE_VIDEO17
+LANG_ENGLISH        "^2Price: ^7La fiesta se va a animar en cuanto pisemos tierra firme."
+
+REFERENCE           VIDSUBTITLES_RESCUE_2_CINE_VIDEO19
+LANG_ENGLISH        "^2Sandman: ^7Todos son enemigos."
+
+REFERENCE           VIDSUBTITLES_SP_BERLIN_CINE_VIDEO11
+LANG_ENGLISH        "^2Overlord: ^7Makarov ha seguido a la hija de Vorshevsky hasta Berlín. Si encuentran a la chica, él no tardará en revelar los códigos nucleares."
+
+REFERENCE           VIDSUBTITLES_SP_BERLIN_CINE_VIDEO110
+LANG_ENGLISH        "^2Sandman: ^7 ¿En qué lado?"
+
+REFERENCE           VIDSUBTITLES_SP_BERLIN_CINE_VIDEO111
+LANG_ENGLISH        "^2Alena: ^7No lo sé. En el edificio de enfrente hay un letrero de Reisdorf en el techo. ¡Dense prisa!"
+
+REFERENCE           VIDSUBTITLES_SP_BERLIN_CINE_VIDEO114
+LANG_ENGLISH        "^2Sandman: ^7Bien. Cuelgue el teléfono y no se mueva. Iremos a buscarla."
+
+REFERENCE           VIDSUBTITLES_SP_BERLIN_CINE_VIDEO115
+LANG_ENGLISH        "^2Sandman: ^7Athena sigue con nosotros. Estad atentos y tened cuidado al disparar. "
+
+REFERENCE           VIDSUBTITLES_SP_BERLIN_CINE_VIDEO116
+LANG_ENGLISH        "^2Grinch: ^7 Podemos matar a cualquiera sin coleta..."
+
+REFERENCE           VIDSUBTITLES_SP_BERLIN_CINE_VIDEO12
+LANG_ENGLISH        "^2Sandman: ^7 ¿Tenemos su ubicación exacta?"
+
+REFERENCE           VIDSUBTITLES_SP_BERLIN_CINE_VIDEO12_1
+LANG_ENGLISH        "^2Battle Captain: ^7 Triangulando."
+
+REFERENCE           VIDSUBTITLES_SP_BERLIN_CINE_VIDEO13
+LANG_ENGLISH        "^2Overlord: ^7Los tiradores de la ISA han interceptado su llamada."
+
+REFERENCE           VIDSUBTITLES_SP_BERLIN_CINE_VIDEO14
+LANG_ENGLISH        "^2Sandman: ^7 Conécteme con esa línea."
+
+REFERENCE           VIDSUBTITLES_SP_BERLIN_CINE_VIDEO14_1
+LANG_ENGLISH        "^2Battle Captain: ^7Le paso en 3, 2, 1..."
+
+REFERENCE           VIDSUBTITLES_SP_BERLIN_CINE_VIDEO14_2
+LANG_ENGLISH        "^2Sandman: ^7¿Alena Vorshevsky?"
+
+REFERENCE           VIDSUBTITLES_SP_BERLIN_CINE_VIDEO15
+LANG_ENGLISH        "^2Alena: ^7 ¿Quién es?"
+
+REFERENCE           VIDSUBTITLES_SP_BERLIN_CINE_VIDEO16
+LANG_ENGLISH        "^2Sandman: ^7Fuerzas especiales estadounidenses. ¿Habla mi idioma?"
+
+REFERENCE           VIDSUBTITLES_SP_BERLIN_CINE_VIDEO17
+LANG_ENGLISH        "^2Alena: ^7Sí. Mi escolta ha muerto. Vienen a por mí. "
+
+REFERENCE           VIDSUBTITLES_SP_BERLIN_CINE_VIDEO18
+LANG_ENGLISH        "^2Sandman: ^7Mantenga la calma. Vamos a buscarla. ¿Dónde se encuentra?"
+
+REFERENCE           VIDSUBTITLES_SP_BERLIN_CINE_VIDEO19
+LANG_ENGLISH        "^2Alena: ^7 Armario. Suite de la quinta planta."
+
+REFERENCE           VIDSUBTITLES_SP_DUBAI_CINE_VIDEO11
+LANG_ENGLISH        "^2Price: ^7 En el fondo, la guerra es sencilla. El único secreto es atacar. Si uno se atreve, el mundo cede."
+
+REFERENCE           VIDSUBTITLES_SP_DUBAI_CINE_VIDEO110
+LANG_ENGLISH        "^2Price: ^7 No tendrá que buscar lejos..."
+
+REFERENCE           VIDSUBTITLES_SP_DUBAI_CINE_VIDEO13
+LANG_ENGLISH        "^2Price: ^7 Con qué rapidez se olvida que para cambiar el curso de la historia solo se necesita... la voluntad de un hombre."
+
+REFERENCE           VIDSUBTITLES_SP_DUBAI_CINE_VIDEO14
+LANG_ENGLISH        "^2Makarov: ^7 ¿Quién es?"
+
+REFERENCE           VIDSUBTITLES_SP_DUBAI_CINE_VIDEO15
+LANG_ENGLISH        "^2Price: ^7 El prisionero 6-2-7. Voy a por usted."
+
+REFERENCE           VIDSUBTITLES_SP_DUBAI_CINE_VIDEO16
+LANG_ENGLISH        "^2Makarov: ^7 La guerra ha terminado, ¿no se ha enterado?"
+
+REFERENCE           VIDSUBTITLES_SP_DUBAI_CINE_VIDEO17
+LANG_ENGLISH        "^2Price: ^7 La mía termina con usted."
+
+REFERENCE           VIDSUBTITLES_SP_DUBAI_CINE_VIDEO18
+LANG_ENGLISH        "^2Makarov: ^7 ¿Como terminó para el capitán MacTavish? Dígame, Price, ¿cuánto tardó en morir?"
+
+REFERENCE           VIDSUBTITLES_SP_DUBAI_CINE_VIDEO19
+LANG_ENGLISH        "^2Makarov: ^7 He destruido su mundo poco a poco. Encontrarlo solo es cuestión de tiempo."
+
+REFERENCE           VIDSUBTITLES_SP_INTRO_CINE_VIDEO11
+LANG_ENGLISH        "^2Overlord: ^7 A todos los aliados: ya no estamos a la defensiva. Repito: agrúpense y contraataquen."
+
+REFERENCE           VIDSUBTITLES_SP_INTRO_CINE_VIDEO110
+LANG_ENGLISH        "^2Nikolai: ^7Yuri. Fue Spetsnaz. Es la única persona que odia a Makarov más que usted."
+
+REFERENCE           VIDSUBTITLES_SP_INTRO_CINE_VIDEO111
+LANG_ENGLISH        "^2Price: ^7Llámelo."
+
+REFERENCE           VIDSUBTITLES_SP_INTRO_CINE_VIDEO112
+LANG_ENGLISH        "^2Price: ^7Se ocultarán tras los riscos y llegarán desde el sur."
+
+REFERENCE           VIDSUBTITLES_SP_INTRO_CINE_VIDEO113
+LANG_ENGLISH        "^2Nikolai: ^7¿Cómo lo sabe?"
+
+REFERENCE           VIDSUBTITLES_SP_INTRO_CINE_VIDEO114
+LANG_ENGLISH        "^2Price: ^7Es lo que yo haría."
+
+REFERENCE           VIDSUBTITLES_SP_INTRO_CINE_VIDEO12
+LANG_ENGLISH        "^2Green Beret: ^7 ¡Aquí ODA Foxtrot! ¡Los rusos dejan de atacar! ¡Les hemos hecho huir!"
+
+REFERENCE           VIDSUBTITLES_SP_INTRO_CINE_VIDEO13
+LANG_ENGLISH        "^2Price: ^7Más allá de la guerra, todavía quedaban rusos que rechazaban la locura de Makarov; hombres dispuestos a ir contracorriente."
+
+REFERENCE           VIDSUBTITLES_SP_INTRO_CINE_VIDEO14
+LANG_ENGLISH        "^2Nikolai: ^7 Price, tenemos constantes vitales, pero débiles. Soap no aguantará sin atención médica."
+
+REFERENCE           VIDSUBTITLES_SP_INTRO_CINE_VIDEO15
+LANG_ENGLISH        "^2Price: ^7 Es un cabrón resistente. Aguantará."
+
+REFERENCE           VIDSUBTITLES_SP_INTRO_CINE_VIDEO16
+LANG_ENGLISH        "^2Loyalist: ^7Señales aproximándose."
+
+REFERENCE           VIDSUBTITLES_SP_INTRO_CINE_VIDEO17
+LANG_ENGLISH        "^2Nikolai: ^7Tenemos compañía."
+
+REFERENCE           VIDSUBTITLES_SP_INTRO_CINE_VIDEO18
+LANG_ENGLISH        "^2Price: ^7Es Makarov. Está atando cabos sueltos."
+
+REFERENCE           VIDSUBTITLES_SP_INTRO_CINE_VIDEO19
+LANG_ENGLISH        "^2Price: ^7¿Quién es su mejor hombre?"
+
+REFERENCE           VIDSUBTITLES_SP_NY_HARBOR_CINE_VIDEO11
+LANG_ENGLISH        "^2F-22 Pilot: ^7Aquí Lightning 3-1. Sistemas de guía de nuevo en línea. A la espera con un cargamento de JDAM. Solicito permiso."
+
+REFERENCE           VIDSUBTITLES_SP_NY_HARBOR_CINE_VIDEO12
+LANG_ENGLISH        "^2Overlord: ^7Lightning 3-1, permiso para atacar."
+
+REFERENCE           VIDSUBTITLES_SP_NY_HARBOR_CINE_VIDEO13
+LANG_ENGLISH        "^2F-22 Pilot: ^7Descendiendo. Ataque en 5 segundos."
+
+REFERENCE           VIDSUBTITLES_SP_NY_HARBOR_CINE_VIDEO14
+LANG_ENGLISH        "^2F-22 Pilot: ^7 Armas lanzadas."
+
+REFERENCE           VIDSUBTITLES_SP_NY_HARBOR_CINE_VIDEO15
+LANG_ENGLISH        "^2Overlord: ^7 Verifique los impactos con el Predator."
+
+REFERENCE           VIDSUBTITLES_SP_NY_HARBOR_CINE_VIDEO16
+LANG_ENGLISH        "^2Battle Captain: ^7 Señor, blancos neutralizados."
+
+REFERENCE           VIDSUBTITLES_SP_NY_HARBOR_CINE_VIDEO21
+LANG_ENGLISH        "^2Overlord: ^7 Buen trabajo. Hemos recuperado el dominio aéreo y hemos hecho retroceder el frente."
+
+REFERENCE           VIDSUBTITLES_SP_NY_HARBOR_CINE_VIDEO22
+LANG_ENGLISH        "^2Sandman: ^7¿Siguiente blanco?"
+
+REFERENCE           VIDSUBTITLES_SP_NY_HARBOR_CINE_VIDEO23
+LANG_ENGLISH        "^2Overlord: ^7 El buque de mando ruso es un submarino de clase Oscar-II con misiles suficientes para arrasar toda la costa este. Debemos golpear antes de que puedan lanzar un contraataque."
+
+REFERENCE           VIDSUBTITLES_SP_NY_HARBOR_CINE_VIDEO26
+LANG_ENGLISH        "^2Sandman: ^7 Recibido. ¿Cuál es la misión?"
+
+REFERENCE           VIDSUBTITLES_SP_NY_HARBOR_CINE_VIDEO27
+LANG_ENGLISH        "^2Overlord: ^7Infíltrese en el buque, tome el puente y utilice las armas contra su propia flota. Conéctese con los SEAL y ejecute el plan. Suerte."
+
+REFERENCE           VIDSUBTITLES_SP_NY_HARBOR_CINE_VIDEO31
+LANG_ENGLISH        "^2 ^7"
+
+REFERENCE           VIDSUBTITLES_SP_NY_HARBOR_CINE_VIDEO32
+LANG_ENGLISH        "^2Grinch: ^7 ¿Por dónde entramos?"
+
+REFERENCE           VIDSUBTITLES_SP_NY_HARBOR_CINE_VIDEO33
+LANG_ENGLISH        "^2Sandman: ^7Por el túnel de Brooklyn-Battery."
+
+REFERENCE           VIDSUBTITLES_SP_NY_HARBOR_CINE_VIDEO34
+LANG_ENGLISH        "^2Truck: ^7Creí que se había colapsado."
+
+REFERENCE           VIDSUBTITLES_SP_NY_HARBOR_CINE_VIDEO35
+LANG_ENGLISH        "^2Sandman: ^7 Así es."
+
+REFERENCE           VIDSUBTITLES_SP_NY_MANHATTAN_CINE_VIDEO11
+LANG_ENGLISH        "^2Pilot: ^7 Aquí Lightning 1-1. ¡Nos han dado! ¡Nos han dado!"
+
+REFERENCE           VIDSUBTITLES_SP_NY_MANHATTAN_CINE_VIDEO21
+LANG_ENGLISH        "^2Overlord: ^7 ¿Tenemos noticias de Nueva York?"
+
+REFERENCE           VIDSUBTITLES_SP_NY_MANHATTAN_CINE_VIDEO22
+LANG_ENGLISH        "^2Battle Captain: ^7 Mientras controlen el cielo, será una lucha perdida. Los inhibidores rusos neutralizan nuestro apoyo aéreo."
+
+REFERENCE           VIDSUBTITLES_SP_NY_MANHATTAN_CINE_VIDEO22_1
+LANG_ENGLISH        "^2Overlord: ^7No podemos perder Nueva York."
+
+REFERENCE           VIDSUBTITLES_SP_NY_MANHATTAN_CINE_VIDEO23
+LANG_ENGLISH        "^2Overlord: ^7 ¿Hay fuerzas especiales en la zona que puedan ayudarnos?"
+
+REFERENCE           VIDSUBTITLES_SP_NY_MANHATTAN_CINE_VIDEO24
+LANG_ENGLISH        "^2Battle Captain: ^7 Hay un equipo de la Delta Force en Bennett Field. Código Metal."
+
+REFERENCE           VIDSUBTITLES_SP_NY_MANHATTAN_CINE_VIDEO31
+LANG_ENGLISH        "^2Battle Captain: ^7 Overlord, contacto con Metal 0-1."
+
+REFERENCE           VIDSUBTITLES_SP_NY_MANHATTAN_CINE_VIDEO312
+LANG_ENGLISH        "^2Overlord: ^7Los rusos están usando contramedidas electrónicas para interferir en nuestros sistemas."
+
+REFERENCE           VIDSUBTITLES_SP_NY_MANHATTAN_CINE_VIDEO313
+LANG_ENGLISH        "^2Overlord: ^7 La emisora principal está en el tejado del edificio de la Bolsa. Necesito que sea destruída."
+
+REFERENCE           VIDSUBTITLES_SP_NY_MANHATTAN_CINE_VIDEO314
+LANG_ENGLISH        "^2Overlord: ^7La radio no podrá ser utilizada hasta que el inhibidor haya sido destruido."
+
+REFERENCE           VIDSUBTITLES_SP_NY_MANHATTAN_CINE_VIDEO315
+LANG_ENGLISH        "^2Overlord: ^7Nosotros los acercaremos por tierra. Cambio."
+
+REFERENCE           VIDSUBTITLES_SP_NY_MANHATTAN_CINE_VIDEO316
+LANG_ENGLISH        "^2Sandman: ^7 Bien, cuente con nosotros."
+
+REFERENCE           VIDSUBTITLES_SP_NY_MANHATTAN_CINE_VIDEO33
+LANG_ENGLISH        "^2Sandman: ^7 Aquí Sandman. Tengo entendido que necesitan ayuda. Cambio."
+
+REFERENCE           VIDSUBTITLES_SP_NY_MANHATTAN_CINE_VIDEO34
+LANG_ENGLISH        "^2Overlord: ^7Me alegro de contar con ustedes."
+
+REFERENCE           VIDSUBTITLES_SP_PARIS_A_CINE_VIDEO11
+LANG_ENGLISH        "^2Operator: ^7 Identifíquese, por favor."
+
+REFERENCE           VIDSUBTITLES_SP_PARIS_A_CINE_VIDEO110
+LANG_ENGLISH        "^2Overlord: ^7Las fuerzas francesas han localizado a Volk. El GIGN lo sitúa tras las líneas enemigas, pero están inmovilizados. "
+
+REFERENCE           VIDSUBTITLES_SP_PARIS_A_CINE_VIDEO111
+LANG_ENGLISH        "^2Sandman: ^7 ¿Y quiere que los liberemos?"
+
+REFERENCE           VIDSUBTITLES_SP_PARIS_A_CINE_VIDEO113
+LANG_ENGLISH        "^2Overlord: ^7 Persiga al objetivo a discreción, pero capture vivo a Volk."
+
+REFERENCE           VIDSUBTITLES_SP_PARIS_A_CINE_VIDEO12
+LANG_ENGLISH        "^2Price: ^7Código de acceso Vikingo Negro. Quiero una línea segura con el operativo Metal 0-1."
+
+REFERENCE           VIDSUBTITLES_SP_PARIS_A_CINE_VIDEO13
+LANG_ENGLISH        "^2Sandman: ^7 Price, gracias por el soplo de Kingfish."
+
+REFERENCE           VIDSUBTITLES_SP_PARIS_A_CINE_VIDEO13_1
+LANG_ENGLISH        "^2Price: ^7El cabrón usaba Fregata Industries como tapadera para distribuir armas de destrucción masiva. Voy a su sede europea."
+
+REFERENCE           VIDSUBTITLES_SP_PARIS_A_CINE_VIDEO14
+LANG_ENGLISH        "^2Sandman: ^7 ¿Sabe que el tío Sam ha emitido una orden de busca y captura contra usted?"
+
+REFERENCE           VIDSUBTITLES_SP_PARIS_A_CINE_VIDEO15
+LANG_ENGLISH        "^2Price: ^7Que se ponga a la cola. "
+
+REFERENCE           VIDSUBTITLES_SP_PARIS_A_CINE_VIDEO16
+LANG_ENGLISH        "^2Price: ^7Volk, el fabricante de bombas de Makarov, está en París. Hay que actuar enseguida. Yo no llegaré a tiempo."
+
+REFERENCE           VIDSUBTITLES_SP_PARIS_A_CINE_VIDEO17
+LANG_ENGLISH        "^2Price: ^7 Solo puedo confiar en usted. "
+
+REFERENCE           VIDSUBTITLES_SP_PARIS_A_CINE_VIDEO18
+LANG_ENGLISH        "^2Sandman: ^7 Me encargaré."
+
+REFERENCE           VIDSUBTITLES_SP_PARIS_B_VIDEO13
+LANG_ENGLISH        "^2Sandman: ^7 Comprobando toxinas. Esperen."
+
+REFERENCE           VIDSUBTITLES_SP_PARIS_B_VIDEO14
+LANG_ENGLISH        "^2Sandman: ^7 Contaminación negativa en esta zona. Quítense las máscaras, pero abran bien los ojos."
+
+REFERENCE           VIDSUBTITLES_SP_PAYBACK_CINEMATIC_VIDEO21
+LANG_ENGLISH        "^2SAS Intel Officer: ^7Señor, alguien al teléfono quiere hablar con usted sobre los ataques químicos."
+
+REFERENCE           VIDSUBTITLES_SP_PAYBACK_CINEMATIC_VIDEO210
+LANG_ENGLISH        "^2Baseplate: ^7Está bien. El carguero pertenecía a una organización de Boosaaso, Somalia."
+
+REFERENCE           VIDSUBTITLES_SP_PAYBACK_CINEMATIC_VIDEO211
+LANG_ENGLISH        "^2Baseplate: ^7 La dirige un elemento de cuidado llamado Waraabe."
+
+REFERENCE           VIDSUBTITLES_SP_PAYBACK_CINEMATIC_VIDEO212
+LANG_ENGLISH        "^2Baseplate: ^7 La dirige una alimaña llamada Waraabe."
+
+REFERENCE           VIDSUBTITLES_SP_PAYBACK_CINEMATIC_VIDEO213
+LANG_ENGLISH        "^2Baseplate: ^7Estoy ocupado con el follón que tenemos en casa, así que está solo. Buena caza."
+
+REFERENCE           VIDSUBTITLES_SP_PAYBACK_CINEMATIC_VIDEO22
+LANG_ENGLISH        "^2Baseplate: ^7 Identifíquese."
+
+REFERENCE           VIDSUBTITLES_SP_PAYBACK_CINEMATIC_VIDEO24
+LANG_ENGLISH        "^2Price: ^7Mac, soy John."
+
+REFERENCE           VIDSUBTITLES_SP_PAYBACK_CINEMATIC_VIDEO25
+LANG_ENGLISH        "^2Baseplate: ^7Hemos inscrito muchos nombres en la torre del reloj... "
+
+REFERENCE           VIDSUBTITLES_SP_PAYBACK_CINEMATIC_VIDEO26
+LANG_ENGLISH        "^2Price: ^7Fue Makarov; ese cabrón se me escurrió de los dedos en Sierra Leona. ¿Qué sabe el MI6?"
+
+REFERENCE           VIDSUBTITLES_SP_PAYBACK_CINEMATIC_VIDEO27
+LANG_ENGLISH        "^2Baseplate: ^7 Está en la lista negra de todo el mundo, John. No puedo darle esa información."
+
+REFERENCE           VIDSUBTITLES_SP_PAYBACK_CINEMATIC_VIDEO27_1
+LANG_ENGLISH        "^2Price: ^7 ¡No me venga con eso!"
+
+REFERENCE           VIDSUBTITLES_SP_PAYBACK_CINEMATIC_VIDEO28
+LANG_ENGLISH        "^2Price: ^7 Aún me debe una por lo de Pripyat. Salde su deuda."
+
+REFERENCE           VIDSUBTITLES_SP_PAYBACK_CINEMATIC_VIDEO29
+LANG_ENGLISH        "^2Baseplate: ^7Tranquilo, hijo..."
+
+REFERENCE           VIDSUBTITLES_SP_PAYBACK_CINEMATIC_VIDEO31
+LANG_ENGLISH        "^2Soap: ^7 ¿Qué medidas de seguridad tienen?"
+
+REFERENCE           VIDSUBTITLES_SP_PAYBACK_CINEMATIC_VIDEO32
+LANG_ENGLISH        "^2Price: ^7De segunda. El recinto está custodiado por matones locales."
+
+REFERENCE           VIDSUBTITLES_SP_PAYBACK_CINEMATIC_VIDEO33
+LANG_ENGLISH        "^2Soap: ^7Nos verán llegar a un kilómetro. La discreción queda descartada."
+
+REFERENCE           VIDSUBTITLES_SP_PAYBACK_CINEMATIC_VIDEO34
+LANG_ENGLISH        "^2Price: ^7 Pues tendremos que echar la puerta abajo."
+
+REFERENCE           VIDSUBTITLES_SP_PAYBACK_CINEMATIC_VIDEO35
+LANG_ENGLISH        "^2Price: ^7 Dígale a Nikolai que se prepare."
+
+REFERENCE           VIDSUBTITLES_SP_PRAGUE_CINE_VIDEO11
+LANG_ENGLISH        "^2Price: ^7 ¿Ha hablado?"
+
+REFERENCE           VIDSUBTITLES_SP_PRAGUE_CINE_VIDEO110
+LANG_ENGLISH        "^2Price: ^7 Mucho."
+
+REFERENCE           VIDSUBTITLES_SP_PRAGUE_CINE_VIDEO111
+LANG_ENGLISH        "^2Price: ^7 Lo avisaré cuando terminemos."
+
+REFERENCE           VIDSUBTITLES_SP_PRAGUE_CINE_VIDEO112
+LANG_ENGLISH        "^2Yuri: ^7 ¿Toda la plantilla de Makarov en plena zona de guerra? Pero qué oportuno."
+
+REFERENCE           VIDSUBTITLES_SP_PRAGUE_CINE_VIDEO113
+LANG_ENGLISH        "^2Price: ^7 No se confíe o se volverá descuidado."
+
+REFERENCE           VIDSUBTITLES_SP_PRAGUE_CINE_VIDEO114
+LANG_ENGLISH        "^2Price: ^7 Nos infiltraremos por dos rutas separadas. Soap, usted y Yuri irán a la iglesia y nos cubrirán desde allí."
+
+REFERENCE           VIDSUBTITLES_SP_PRAGUE_CINE_VIDEO115
+LANG_ENGLISH        "^2Soap: ^7 La ciudad está muy vigilada. Necesitamos una vía trasera."
+
+REFERENCE           VIDSUBTITLES_SP_PRAGUE_CINE_VIDEO116
+LANG_ENGLISH        "^2Price: ^7 Déjemelo a mí. "
+
+REFERENCE           VIDSUBTITLES_SP_PRAGUE_CINE_VIDEO12
+LANG_ENGLISH        "^2Sandman: ^7 Siempre lo hacen."
+
+REFERENCE           VIDSUBTITLES_SP_PRAGUE_CINE_VIDEO13
+LANG_ENGLISH        "^2Sandman: ^7Tenemos nombres, fechas, lugares. Nos lo ha dado todo... incluso Fregata."
+
+REFERENCE           VIDSUBTITLES_SP_PRAGUE_CINE_VIDEO14
+LANG_ENGLISH        "^2Sandman: ^7 Parece que estaba en lo cierto, capitán."
+
+REFERENCE           VIDSUBTITLES_SP_PRAGUE_CINE_VIDEO15
+LANG_ENGLISH        "^2Price: ^7 Makarov ya está haciendo amigos."
+
+REFERENCE           VIDSUBTITLES_SP_PRAGUE_CINE_VIDEO16
+LANG_ENGLISH        "^2Price: ^7 Makarov está ganando adeptos rápidamente."
+
+REFERENCE           VIDSUBTITLES_SP_PRAGUE_CINE_VIDEO17
+LANG_ENGLISH        "^2Sandman: ^7Piensa reunirse con sus asesores dentro de seis horas en el hotel Lustig, en pleno centro de Praga. Junto a la plaza vieja."
+
+REFERENCE           VIDSUBTITLES_SP_PRAGUE_CINE_VIDEO18
+LANG_ENGLISH        "^2Sandman: ^7Asignamos grupos de nivel 1 a este operativo, pero no llegarán a tiempo."
+
+REFERENCE           VIDSUBTITLES_SP_PRAGUE_CINE_VIDEO19
+LANG_ENGLISH        "^2Sandman: ^7 Usted está cerca. "
+
+REFERENCE           VIDSUBTITLES_SP_WARLORD_CINE_VIDEO11
+LANG_ENGLISH        "^2News Reporter: ^7El presidente ruso no acudió a su cita en la cumbre por la paz de Hamburgo. Su desaparición podría tener repercusiones en el diálogo para el armisticio..."
+
+REFERENCE           VIDSUBTITLES_SP_WARLORD_CINE_VIDEO111
+LANG_ENGLISH        "^2Yuri: ^7No lo sé."
+
+REFERENCE           VIDSUBTITLES_SP_WARLORD_CINE_VIDEO112
+LANG_ENGLISH        "^2Yuri: ^7Pero es importante para él."
+
+REFERENCE           VIDSUBTITLES_SP_WARLORD_CINE_VIDEO113
+LANG_ENGLISH        "^2Price: ^7 Pues los quiero."
+
+REFERENCE           VIDSUBTITLES_SP_WARLORD_CINE_VIDEO114
+LANG_ENGLISH        "^2Soap: ^7Podemos acercarnos por el río. Hay una fábrica en el campamento donde almacenan el material."
+
+REFERENCE           VIDSUBTITLES_SP_WARLORD_CINE_VIDEO115
+LANG_ENGLISH        "^2Soap: ^7La milicia lleva meses exterminando a la etnia de las montañas. Eso está infestado."
+
+REFERENCE           VIDSUBTITLES_SP_WARLORD_CINE_VIDEO116
+LANG_ENGLISH        "^2Price: ^7Makarov no tomaría tantas precauciones si esto no tuviera un propósito."
+
+REFERENCE           VIDSUBTITLES_SP_WARLORD_CINE_VIDEO117
+LANG_ENGLISH        "^2Price: ^7 Y es posible que ese cabronazo lo supervise todo personalmente."
+
+REFERENCE           VIDSUBTITLES_SP_WARLORD_CINE_VIDEO118
+LANG_ENGLISH        "^2Price: ^7 Pues si asoma la cabeza, se la volaremos."
+
+REFERENCE           VIDSUBTITLES_SP_WARLORD_CINE_VIDEO12
+LANG_ENGLISH        "^2Soap: ^7 Creo que Makarov ya ha jugado su próxima baza."
+
+REFERENCE           VIDSUBTITLES_SP_WARLORD_CINE_VIDEO13
+LANG_ENGLISH        "^2Price: ^7Si ha asomado la cabeza, es que no tiene intención de esconderse."
+
+REFERENCE           VIDSUBTITLES_SP_WARLORD_CINE_VIDEO14
+LANG_ENGLISH        "^2Soap: ^7 ¿Por dónde buscamos?"
+
+REFERENCE           VIDSUBTITLES_SP_WARLORD_CINE_VIDEO15
+LANG_ENGLISH        "^2Yuri: ^7 Por África."
+
+REFERENCE           VIDSUBTITLES_SP_WARLORD_CINE_VIDEO16
+LANG_ENGLISH        "^2Yuri: ^7 Makarov ha utilizado paramilitares para enviar cargamentos a Sierra Leona."
+
+REFERENCE           VIDSUBTITLES_SP_WARLORD_CINE_VIDEO17
+LANG_ENGLISH        "^2Yuri: ^7Desde allí los traslada a Marruecos, y luego a España."
+
+REFERENCE           VIDSUBTITLES_SP_WARLORD_CINE_VIDEO18
+LANG_ENGLISH        "^2Soap: ^7 Los lleva hacia el norte..."
+
+REFERENCE           VIDSUBTITLES_SP_WARLORD_CINE_VIDEO19
+LANG_ENGLISH        "^2Price: ^7 Justo hasta la puerta de su majestad. ¿Cuál es la carga?"
+
+REFERENCE           VIDSUBTITLES_WARLORD_VIDEO27_1
+LANG_ENGLISH        "^2Price: ^7 Alto el fuego. Son demasiados."
+
+REFERENCE           WEAPON_44_MAGNUM
+LANG_ENGLISH        ".44 Magnum"
+
+REFERENCE           WEAPON_44_MAGNUM_AKIMBO
+LANG_ENGLISH        ".44 Magnum con Duales"
+
+REFERENCE           WEAPON_44_MAGNUM_BLING
+LANG_ENGLISH        ".44 Magnum con Brillante"
+
+REFERENCE           WEAPON_44_MAGNUM_TACTICAL
+LANG_ENGLISH        ".44 Magnum y cuchillo táctico"
+
+REFERENCE           WEAPON_AA12
+LANG_ENGLISH        "AA-12"
+
+REFERENCE           WEAPON_AA12SP
+LANG_ENGLISH        "Escopeta AA-12"
+
+REFERENCE           WEAPON_AA12SP_EOTECH
+LANG_ENGLISH        "Escopeta AA-12 y mira holográfica"
+
+REFERENCE           WEAPON_AA12SP_HB
+LANG_ENGLISH        "Escopeta AA-12 y sensor de latidos"
+
+REFERENCE           WEAPON_AA12SP_HB_SILENCER
+LANG_ENGLISH        "Escopeta AA-12 con sensor de latidos y silenciador"
+
+REFERENCE           WEAPON_AA12SP_REDDOT
+LANG_ENGLISH        "Escopeta AA-12 y mira de punto rojo"
+
+REFERENCE           WEAPON_AA12SP_SILENCER
+LANG_ENGLISH        "Escopeta AA-12 con silenciador"
+
+REFERENCE           WEAPON_AA12_BLING
+LANG_ENGLISH        "AA-12 con Brillante"
+
+REFERENCE           WEAPON_AA12_EOTECH
+LANG_ENGLISH        "AA-12 con mira holográfica"
+
+REFERENCE           WEAPON_AA12_GRIP
+LANG_ENGLISH        "AA-12 con empuñadura vertical"
+
+REFERENCE           WEAPON_AA12_HB
+LANG_ENGLISH        "AA-12 con sensor de latidos"
+
+REFERENCE           WEAPON_AA12_HB_SILENCER
+LANG_ENGLISH        "Escopeta AA-12 con sensor de latidos y silenciador"
+
+REFERENCE           WEAPON_AA12_REDDOT
+LANG_ENGLISH        "AA-12 con mira de punto rojo"
+
+REFERENCE           WEAPON_AA12_SILENCER
+LANG_ENGLISH        "AA-12 con silenciador"
+
+REFERENCE           WEAPON_AA12_XMAGS
+LANG_ENGLISH        "AA-12 con cargadores grandes"
+
+REFERENCE           WEAPON_ACOG
+LANG_ENGLISH        "Mira ACOG"
+
+REFERENCE           WEAPON_ACOG_ATTACHMENT
+LANG_ENGLISH        "Mira ACOG"
+
+REFERENCE           WEAPON_ACR
+LANG_ENGLISH        "ACR 6.8"
+
+REFERENCE           WEAPON_ACR_ACOG
+LANG_ENGLISH        "ACR 6.8 con mira ACOG"
+
+REFERENCE           WEAPON_ACR_BLING
+LANG_ENGLISH        "ACR 6.8 con Brillante"
+
+REFERENCE           WEAPON_ACR_EOTECH
+LANG_ENGLISH        "ACR 6.8 con mira holográfica"
+
+REFERENCE           WEAPON_ACR_GL
+LANG_ENGLISH        "ACR 6.8 con lanzagranadas"
+
+REFERENCE           WEAPON_ACR_GL_EOTECH
+LANG_ENGLISH        "ACR 6.8 con mira holográfica y lanzagranadas"
+
+REFERENCE           WEAPON_ACR_HYBRID
+LANG_ENGLISH        "ACR con mira híbrida"
+
+REFERENCE           WEAPON_ACR_HYBRID_REFLEX
+LANG_ENGLISH        "ACR con mira híbrida"
+
+REFERENCE           WEAPON_ACR_HYBRID_SILENCED
+LANG_ENGLISH        "ACR con silenciador y mira híbrida "
+
+REFERENCE           WEAPON_ACR_REDDOT
+LANG_ENGLISH        "ACR 6.8 con mira de punto rojo"
+
+REFERENCE           WEAPON_ACR_SHOTGUN
+LANG_ENGLISH        "ACR 6.8 con escopeta"
+
+REFERENCE           WEAPON_ACR_SILENCER
+LANG_ENGLISH        "ACR 6.8 con silenciador"
+
+REFERENCE           WEAPON_ACR_THERMAL
+LANG_ENGLISH        "ACR 6.8 con mira térmica"
+
+REFERENCE           WEAPON_ACR_XMAGS
+LANG_ENGLISH        "ACR 6.8 con cargadores grandes"
+
+REFERENCE           WEAPON_AIRBURST_HINT
+LANG_ENGLISH        "Usa &&1 para señalar la distancia."
+
+REFERENCE           WEAPON_AIRDROP_ESCORT_MARKER
+LANG_ENGLISH        "Marcador para lanzamiento de escolta"
+
+REFERENCE           WEAPON_AIRDROP_JUGGERNAUT_MARKER
+LANG_ENGLISH        "Marcador para lanzamiento de Juggernaut"
+
+REFERENCE           WEAPON_AIRDROP_MARKER
+LANG_ENGLISH        "Marcador para paquete de ayuda"
+
+REFERENCE           WEAPON_AIRDROP_MEGA_MARKER
+LANG_ENGLISH        "Marcador para lanzamiento de emergencia"
+
+REFERENCE           WEAPON_AIRDROP_SENTRY_MARKER
+LANG_ENGLISH        "Marcador para lanzamiento de torreta"
+
+REFERENCE           WEAPON_AIRDROP_TANK_MARKER
+LANG_ENGLISH        "Marcador para lanzamiento de dron de ataque"
+
+REFERENCE           WEAPON_AIRDROP_TRAP_MARKER
+LANG_ENGLISH        "Marcador para lanzamiento trampa"
+
+REFERENCE           WEAPON_AIR_SUPPORT_STROBE
+LANG_ENGLISH        "Marcador para apoyo aéreo"
+
+REFERENCE           WEAPON_AK47
+LANG_ENGLISH        "AK-47"
+
+REFERENCE           WEAPON_AK47_ACOG
+LANG_ENGLISH        "AK-47 con ACOG"
+
+REFERENCE           WEAPON_AK47_BLING
+LANG_ENGLISH        "AK-47 con Brillante"
+
+REFERENCE           WEAPON_AK47_EOTECH
+LANG_ENGLISH        "AK-47 con mira holográfica"
+
+REFERENCE           WEAPON_AK47_GP25
+LANG_ENGLISH        "AK-47 de granadero"
+
+REFERENCE           WEAPON_AK47_GP25_ACOG
+LANG_ENGLISH        "AK-47 de granadero con ACOG"
+
+REFERENCE           WEAPON_AK47_HEARTBEAT
+LANG_ENGLISH        "AK-47 con sensor de latidos"
+
+REFERENCE           WEAPON_AK47_REDDOT
+LANG_ENGLISH        "AK-47 con mira de punto rojo"
+
+REFERENCE           WEAPON_AK47_ROF
+LANG_ENGLISH        "AK-47 de fuego rápido"
+
+REFERENCE           WEAPON_AK47_SHOTGUN
+LANG_ENGLISH        "AK-47 con escopeta"
+
+REFERENCE           WEAPON_AK47_SILENCED_REDDOT
+LANG_ENGLISH        "AK-47 con silenciador y mira de punto rojo"
+
+REFERENCE           WEAPON_AK47_SILENCER
+LANG_ENGLISH        "AK-47 con silenciador"
+
+REFERENCE           WEAPON_AK47_SILENCER_ACOG
+LANG_ENGLISH        "AK-47 con silenciador y mira ACOG"
+
+REFERENCE           WEAPON_AK47_THERMAL
+LANG_ENGLISH        "AK-47 con mira térmica"
+
+REFERENCE           WEAPON_AK47_XMAGS
+LANG_ENGLISH        "AK-47 con cargadores grandes"
+
+REFERENCE           WEAPON_AK74U
+LANG_ENGLISH        "AK-74u"
+
+REFERENCE           WEAPON_AK74U_ACOG
+LANG_ENGLISH        "AK-74u con mira ACOG"
+
+REFERENCE           WEAPON_AK74U_REDDOT
+LANG_ENGLISH        "AK-74u con mira de punto rojo"
+
+REFERENCE           WEAPON_AK74U_SILENCER
+LANG_ENGLISH        "AK-74u con silenciador"
+
+REFERENCE           WEAPON_AKIMBO_ATTACHMENT
+LANG_ENGLISH        "Duales"
+
+REFERENCE           WEAPON_ANACONDA
+LANG_ENGLISH        ".44 Magnum"
+
+REFERENCE           WEAPON_ANACONDA_AKIMBO
+LANG_ENGLISH        ".44 Magnum con Duales"
+
+REFERENCE           WEAPON_ANACONDA_BLING
+LANG_ENGLISH        ".44 Magnum con Brillante"
+
+REFERENCE           WEAPON_ANACONDA_SILENCER
+LANG_ENGLISH        ".44 Magnum con silenciador"
+
+REFERENCE           WEAPON_ANACONDA_TACTICAL
+LANG_ENGLISH        ".44 Magnum y cuchillo táctico"
+
+REFERENCE           WEAPON_ANACONDA_XMAGS
+LANG_ENGLISH        ".44 Magnum con cargadores grandes"
+
+REFERENCE           WEAPON_AS50
+LANG_ENGLISH        "AS50"
+
+REFERENCE           WEAPON_AS50_ACOG
+LANG_ENGLISH        "AS50 con mira ACOG"
+
+REFERENCE           WEAPON_AS50_BLING
+LANG_ENGLISH        "AS50 con Brillante"
+
+REFERENCE           WEAPON_AS50_HEARTBEAT
+LANG_ENGLISH        "AS50 con sensor de latidos"
+
+REFERENCE           WEAPON_AS50_REDDOT
+LANG_ENGLISH        "AS50 con mira de punto rojo"
+
+REFERENCE           WEAPON_AS50_SILENCER
+LANG_ENGLISH        "AS50 con silenciador"
+
+REFERENCE           WEAPON_AS50_THERMAL
+LANG_ENGLISH        "AS50 con mira térmica"
+
+REFERENCE           WEAPON_AS50_XMAGS
+LANG_ENGLISH        "AS50 con cargadores grandes"
+
+REFERENCE           WEAPON_ASSAULTRIFLES
+LANG_ENGLISH        "Fusiles de asalto"
+
+REFERENCE           WEAPON_AT4
+LANG_ENGLISH        "AT4"
+
+REFERENCE           WEAPON_AT4_BLING
+LANG_ENGLISH        "AT4 con Brillante"
+
+REFERENCE           WEAPON_AT4_LOCKAIR
+LANG_ENGLISH        "AT4-HS"
+
+REFERENCE           WEAPON_BARRETT
+LANG_ENGLISH        "Barrett cal. 50"
+
+REFERENCE           WEAPON_BARRETT_ACOG
+LANG_ENGLISH        "Barrett cal. 50 con mira ACOG"
+
+REFERENCE           WEAPON_BARRETT_BLING
+LANG_ENGLISH        "Barrett cal. 50 con Brillante"
+
+REFERENCE           WEAPON_BARRETT_HEARTBEAT
+LANG_ENGLISH        "Barrett cal. 50 con sensor de latidos"
+
+REFERENCE           WEAPON_BARRETT_SILENCER
+LANG_ENGLISH        "Barrett cal. 50 con silenciador"
+
+REFERENCE           WEAPON_BARRETT_THERMAL
+LANG_ENGLISH        "Barrett cal. 50 con mira térmica"
+
+REFERENCE           WEAPON_BARRETT_USE
+LANG_ENGLISH        "Mantén ^3&&1^7 para usar el fusil de precisión M82 de calibre 50."
+
+REFERENCE           WEAPON_BARRETT_VZSCOPE
+LANG_ENGLISH        "Barrett cal. 50 con mira de zoom variable"
+
+REFERENCE           WEAPON_BARRETT_XMAGS
+LANG_ENGLISH        "Barrett cal. 50 con cargadores grandes"
+
+REFERENCE           WEAPON_BERETTA
+LANG_ENGLISH        "M9"
+
+REFERENCE           WEAPON_BERETTA_SILENCER
+LANG_ENGLISH        "M9 con silenciador"
+
+REFERENCE           WEAPON_BLUE_TIGER_CAMO
+LANG_ENGLISH        "Tigre azul"
+
+REFERENCE           WEAPON_C4
+LANG_ENGLISH        "C4"
+
+REFERENCE           WEAPON_C4_DETONATOR
+LANG_ENGLISH        "Detonador de C4"
+
+REFERENCE           WEAPON_CACHE_USE_HINT
+LANG_ENGLISH        "Pulsa ^3&&1^7 para reponer munición."
+
+REFERENCE           WEAPON_CAMO
+LANG_ENGLISH        "&&1 - Camuflaje"
+
+REFERENCE           WEAPON_CLAYMORE
+LANG_ENGLISH        "Claymore"
+
+REFERENCE           WEAPON_CLAYMORE_DETONATOR
+LANG_ENGLISH        "Detonador de Claymore"
+
+REFERENCE           WEAPON_CLAYMORE_PICKUP
+LANG_ENGLISH        "Mantén ^3&&1^7 para coger minas Claymore."
+
+REFERENCE           WEAPON_CM901
+LANG_ENGLISH        "CM901"
+
+REFERENCE           WEAPON_CONCUSSION_GRENADE
+LANG_ENGLISH        "Granada aturdidora"
+
+REFERENCE           WEAPON_COOKOFF
+LANG_ENGLISH        "Explosión prematura"
+
+REFERENCE           WEAPON_CURRENT_DISTANCE
+LANG_ENGLISH        "Metros actuales: "
+
+REFERENCE           WEAPON_CUSTOM_ATTACHMENT
+LANG_ENGLISH        "Personalizada"
+
+REFERENCE           WEAPON_DEFAULTWEAPON
+LANG_ENGLISH        "Arma predeterminada"
+
+REFERENCE           WEAPON_DEPLOYABLE_VEST_MARKER
+LANG_ENGLISH        "Petate de chalecos balísticos"
+
+REFERENCE           WEAPON_DESERTEAGLE
+LANG_ENGLISH        "Desert Eagle"
+
+REFERENCE           WEAPON_DESERTEAGLE_AKIMBO
+LANG_ENGLISH        "Desert Eagle con Duales"
+
+REFERENCE           WEAPON_DESERTEAGLE_BLING
+LANG_ENGLISH        "Desert Eagle con Brillante"
+
+REFERENCE           WEAPON_DESERTEAGLE_TACTICAL
+LANG_ENGLISH        "Desert Eagle con cuchillo táctico"
+
+REFERENCE           WEAPON_DESERTEAGLE_XMAGS
+LANG_ENGLISH        "Desert Eagle con cargadores grandes"
+
+REFERENCE           WEAPON_DESERT_CAMO
+LANG_ENGLISH        "Desértico"
+
+REFERENCE           WEAPON_DEVONLY
+LANG_ENGLISH        "DEVELOPMENT ONLY DONT USE THIS!"
+
+REFERENCE           WEAPON_DIGITAL_CAMO
+LANG_ENGLISH        "DIGITAL"
+
+REFERENCE           WEAPON_DRAGUNOV
+LANG_ENGLISH        "Dragunov"
+
+REFERENCE           WEAPON_DRAGUNOV_ACOG
+LANG_ENGLISH        "Dragunov con mira ACOG"
+
+REFERENCE           WEAPON_EOTECH_ATTACHMENT
+LANG_ENGLISH        "Mira holográfica"
+
+REFERENCE           WEAPON_FAD
+LANG_ENGLISH        "FAD"
+
+REFERENCE           WEAPON_FAD_ACOG
+LANG_ENGLISH        "FAD con mira ACOG"
+
+REFERENCE           WEAPON_FAD_BLING
+LANG_ENGLISH        "FAD con Brillante"
+
+REFERENCE           WEAPON_FAD_EOTECH
+LANG_ENGLISH        "FAD con mira holográfica"
+
+REFERENCE           WEAPON_FAD_GL
+LANG_ENGLISH        "FAD con lanzagranadas"
+
+REFERENCE           WEAPON_FAD_HEARTBEAT
+LANG_ENGLISH        "FAD con sensor de latidos"
+
+REFERENCE           WEAPON_FAD_REDDOT
+LANG_ENGLISH        "FAD con mira de punto rojo"
+
+REFERENCE           WEAPON_FAD_ROF
+LANG_ENGLISH        "FAD de fuego rápido"
+
+REFERENCE           WEAPON_FAD_SHOTGUN
+LANG_ENGLISH        "FAD con escopeta"
+
+REFERENCE           WEAPON_FAD_SILENCER
+LANG_ENGLISH        "FAD con silenciador"
+
+REFERENCE           WEAPON_FAD_THERMAL
+LANG_ENGLISH        "FAD con mira térmica"
+
+REFERENCE           WEAPON_FAD_XMAGS
+LANG_ENGLISH        "FAD con cargadores grandes"
+
+REFERENCE           WEAPON_FLARE
+LANG_ENGLISH        "Inserción táctica"
+
+REFERENCE           WEAPON_FLASH_GRENADE
+LANG_ENGLISH        "Granada cegadora"
+
+REFERENCE           WEAPON_FMG
+LANG_ENGLISH        "FMG9"
+
+REFERENCE           WEAPON_FMG9
+LANG_ENGLISH        "FMG9"
+
+REFERENCE           WEAPON_FMG9_AKIMBO
+LANG_ENGLISH        "FMG9 con Duales"
+
+REFERENCE           WEAPON_FMG9_BLING
+LANG_ENGLISH        "FMG9 con Brillante"
+
+REFERENCE           WEAPON_FMG9_EOTECH
+LANG_ENGLISH        "FMG9 con mira holográfica"
+
+REFERENCE           WEAPON_FMG9_REDDOT
+LANG_ENGLISH        "FMG9 con mira de punto rojo"
+
+REFERENCE           WEAPON_FMG9_SILENCER
+LANG_ENGLISH        "FMG9 con silenciador"
+
+REFERENCE           WEAPON_FMG9_XMAGS
+LANG_ENGLISH        "FMG9 con cargadores grandes"
+
+REFERENCE           WEAPON_FNFIVESEVEN
+LANG_ENGLISH        "5.7"
+
+REFERENCE           WEAPON_FNFIVESEVEN_SILENCED
+LANG_ENGLISH        "5.7 con silenciador"
+
+REFERENCE           WEAPON_FRAGGRENADE
+LANG_ENGLISH        "Fragmentación"
+
+REFERENCE           WEAPON_FRAG_GRENADE
+LANG_ENGLISH        "Granada de fragmentación"
+
+REFERENCE           WEAPON_FREERUNNER
+LANG_ENGLISH        "Ningún arma disponible"
+
+REFERENCE           WEAPON_G36
+LANG_ENGLISH        "G36C"
+
+REFERENCE           WEAPON_G36C
+LANG_ENGLISH        "G36C"
+
+REFERENCE           WEAPON_G36C_ACOG
+LANG_ENGLISH        "G36C con mira ACOG"
+
+REFERENCE           WEAPON_G36C_GL
+LANG_ENGLISH        "G36C con lanzagranadas"
+
+REFERENCE           WEAPON_G36C_REDDOT
+LANG_ENGLISH        "G36C con mira de punto rojo"
+
+REFERENCE           WEAPON_G36C_SILENCER
+LANG_ENGLISH        "G36C con silenciador"
+
+REFERENCE           WEAPON_G36_ACOG
+LANG_ENGLISH        "G36C con mira ACOG"
+
+REFERENCE           WEAPON_G36_BLING
+LANG_ENGLISH        "G36C con Brillante"
+
+REFERENCE           WEAPON_G36_EOTECH
+LANG_ENGLISH        "G36C con mira holográfica"
+
+REFERENCE           WEAPON_G36_GL
+LANG_ENGLISH        "G36C con lanzagranadas"
+
+REFERENCE           WEAPON_G36_HEARTBEAT
+LANG_ENGLISH        "G36C con sensor de latidos"
+
+REFERENCE           WEAPON_G36_REDDOT
+LANG_ENGLISH        "G36C con mira de punto rojo"
+
+REFERENCE           WEAPON_G36_ROF
+LANG_ENGLISH        "G36C de fuego rápido"
+
+REFERENCE           WEAPON_G36_SHOTGUN
+LANG_ENGLISH        "G36C con escopeta"
+
+REFERENCE           WEAPON_G36_SILENCER
+LANG_ENGLISH        "G36C con silenciador"
+
+REFERENCE           WEAPON_G36_THERMAL
+LANG_ENGLISH        "G36C con mira térmica"
+
+REFERENCE           WEAPON_G36_XMAGS
+LANG_ENGLISH        "G36C con cargadores grandes"
+
+REFERENCE           WEAPON_GLOCK
+LANG_ENGLISH        "G18"
+
+REFERENCE           WEAPON_GLOCK_18
+LANG_ENGLISH        "G18"
+
+REFERENCE           WEAPON_GLOCK_18_AKIMBO
+LANG_ENGLISH        "G18 con Duales"
+
+REFERENCE           WEAPON_GLOCK_18_BLING
+LANG_ENGLISH        "G18 con Brillante"
+
+REFERENCE           WEAPON_GLOCK_18_EOTECH
+LANG_ENGLISH        "G18 con mira holográfica"
+
+REFERENCE           WEAPON_GLOCK_18_REDDOT
+LANG_ENGLISH        "G18 con mira de punto rojo"
+
+REFERENCE           WEAPON_GLOCK_18_SILENCER
+LANG_ENGLISH        "G18 con silenciador"
+
+REFERENCE           WEAPON_GLOCK_18_XMAGS
+LANG_ENGLISH        "G18 con cargadores grandes"
+
+REFERENCE           WEAPON_GLOCK_AKIMBO
+LANG_ENGLISH        "G18 con Duales"
+
+REFERENCE           WEAPON_GLOCK_BLING
+LANG_ENGLISH        "G18 con Brillante"
+
+REFERENCE           WEAPON_GLOCK_EOTECH
+LANG_ENGLISH        "G18 con mira holográfica"
+
+REFERENCE           WEAPON_GLOCK_REDDOT
+LANG_ENGLISH        "G18 con mira de punto rojo"
+
+REFERENCE           WEAPON_GLOCK_SILENCER
+LANG_ENGLISH        "G18 con silenciador"
+
+REFERENCE           WEAPON_GLOCK_XMAGS
+LANG_ENGLISH        "G18 con cargadores grandes"
+
+REFERENCE           WEAPON_GL_ATTACHMENT
+LANG_ENGLISH        "Lanzagranadas"
+
+REFERENCE           WEAPON_GOLDEN_CAMO
+LANG_ENGLISH        "Dorado"
+
+REFERENCE           WEAPON_GP25
+LANG_ENGLISH        "GP-25"
+
+REFERENCE           WEAPON_GRENADE_LAUNCHER
+LANG_ENGLISH        "Lanzagranadas"
+
+REFERENCE           WEAPON_GRIP
+LANG_ENGLISH        "Empuñadura"
+
+REFERENCE           WEAPON_GRIP_ATTACHMENT
+LANG_ENGLISH        "Empuñadura vertical"
+
+REFERENCE           WEAPON_HAMR_ATTACHMENT
+LANG_ENGLISH        "Mira óptica HAMR"
+
+REFERENCE           WEAPON_HEARTBEAT_ATTACHMENT
+LANG_ENGLISH        "Sensor de latidos"
+
+REFERENCE           WEAPON_HOLDPIN
+LANG_ENGLISH        "Sujeción"
+
+REFERENCE           WEAPON_HYBRID_ATTACHMENT
+LANG_ENGLISH        "Mira híbrida"
+
+REFERENCE           WEAPON_JAVELIN
+LANG_ENGLISH        "Javelin"
+
+REFERENCE           WEAPON_JAVELIN_BLING
+LANG_ENGLISH        "Javelin con Brillante"
+
+REFERENCE           WEAPON_JAVELIN_LOCKAIR
+LANG_ENGLISH        "Javelin con fijación de objetivo"
+
+REFERENCE           WEAPON_KSG
+LANG_ENGLISH        "KSG del 12"
+
+REFERENCE           WEAPON_KSG_EOTECH
+LANG_ENGLISH        "KSG con mira holográfica"
+
+REFERENCE           WEAPON_KSG_GRIP
+LANG_ENGLISH        "KSG con empuñadura vertical"
+
+REFERENCE           WEAPON_KSG_HB
+LANG_ENGLISH        "KSG con sensor de latidos"
+
+REFERENCE           WEAPON_KSG_HEARTBEAT
+LANG_ENGLISH        "KSG con sensor de latidos"
+
+REFERENCE           WEAPON_KSG_REDDOT
+LANG_ENGLISH        "KSG con mira de punto rojo"
+
+REFERENCE           WEAPON_KSG_REFLEX
+LANG_ENGLISH        "KSG con mira de punto rojo"
+
+REFERENCE           WEAPON_KSG_SILENCER
+LANG_ENGLISH        "KSG con silenciador"
+
+REFERENCE           WEAPON_L96A1
+LANG_ENGLISH        "L118A"
+
+REFERENCE           WEAPON_LOCATION_SELECTOR
+LANG_ENGLISH        "Elige una ubicación"
+
+REFERENCE           WEAPON_LOCKON_REQUIRED
+LANG_ENGLISH        "Requiere fijar objetivo"
+
+REFERENCE           WEAPON_M1014_EOTECH
+LANG_ENGLISH        "M1014 con mira holográfica"
+
+REFERENCE           WEAPON_M14
+LANG_ENGLISH        "M14"
+
+REFERENCE           WEAPON_M14EBR
+LANG_ENGLISH        "M14 EBR"
+
+REFERENCE           WEAPON_M14EBR_SCOPED
+LANG_ENGLISH        "M14 EBR con mira óptica"
+
+REFERENCE           WEAPON_M14EBR_SCOPED_SILENCED
+LANG_ENGLISH        "M14 EBR con mira óptica y silenciador"
+
+REFERENCE           WEAPON_M14EBR_THERMAL
+LANG_ENGLISH        "M14 EBR con mira térmica"
+
+REFERENCE           WEAPON_M14_ACOG
+LANG_ENGLISH        "M14 con mira ACOG"
+
+REFERENCE           WEAPON_M14_GL
+LANG_ENGLISH        "M14 con lanzagranadas"
+
+REFERENCE           WEAPON_M14_REDDOT
+LANG_ENGLISH        "M14 con mira de punto rojo"
+
+REFERENCE           WEAPON_M14_SILENCER
+LANG_ENGLISH        "M14 con silenciador"
+
+REFERENCE           WEAPON_M16
+LANG_ENGLISH        "M16A4"
+
+REFERENCE           WEAPON_M16A4_GRENADIER
+LANG_ENGLISH        "M16A4 de granadero"
+
+REFERENCE           WEAPON_M16_ACOG
+LANG_ENGLISH        "M16A4 con mira ACOG"
+
+REFERENCE           WEAPON_M16_BLING
+LANG_ENGLISH        "M16A4 con Brillante"
+
+REFERENCE           WEAPON_M16_EOTECH
+LANG_ENGLISH        "M16A4 con mira holográfica"
+
+REFERENCE           WEAPON_M16_GL
+LANG_ENGLISH        "M16A4 con lanzagranadas"
+
+REFERENCE           WEAPON_M16_HEARTBEAT
+LANG_ENGLISH        "M16A4 con sensor de latidos"
+
+REFERENCE           WEAPON_M16_REDDOT
+LANG_ENGLISH        "M16A4 con mira de punto rojo"
+
+REFERENCE           WEAPON_M16_ROF
+LANG_ENGLISH        "M16A4 de fuego rápido"
+
+REFERENCE           WEAPON_M16_SHOTGUN
+LANG_ENGLISH        "M16A4 con escopeta"
+
+REFERENCE           WEAPON_M16_SILENCER
+LANG_ENGLISH        "M16A4 con silenciador"
+
+REFERENCE           WEAPON_M16_THERMAL
+LANG_ENGLISH        "M16A4 con mira térmica"
+
+REFERENCE           WEAPON_M16_XMAGS
+LANG_ENGLISH        "M16A4 con cargadores grandes"
+
+REFERENCE           WEAPON_M203
+LANG_ENGLISH        "M203"
+
+REFERENCE           WEAPON_M240
+LANG_ENGLISH        "M240"
+
+REFERENCE           WEAPON_M240_ACOG
+LANG_ENGLISH        "M240 con mira ACOG"
+
+REFERENCE           WEAPON_M240_EOTECH
+LANG_ENGLISH        "M240 con mira holográfica"
+
+REFERENCE           WEAPON_M240_HEARTBEAT_REDDOT
+LANG_ENGLISH        "M240 con sensor de latidos y mira de punto rojo"
+
+REFERENCE           WEAPON_M240_REDDOT
+LANG_ENGLISH        "M240 con mira de punto rojo"
+
+REFERENCE           WEAPON_M240_THERMAL
+LANG_ENGLISH        "M240 con mira térmica"
+
+REFERENCE           WEAPON_M2FRAGGRENADE
+LANG_ENGLISH        "Granada de fragmentación M2"
+
+REFERENCE           WEAPON_M320
+LANG_ENGLISH        "M320 GLM"
+
+REFERENCE           WEAPON_M320_ATTACHMENT
+LANG_ENGLISH        "M320"
+
+REFERENCE           WEAPON_M4
+LANG_ENGLISH        "M4A1"
+
+REFERENCE           WEAPON_M4M203
+LANG_ENGLISH        "M4A1 de granadero"
+
+REFERENCE           WEAPON_M4M203_ACOG
+LANG_ENGLISH        "M4A1 de granadero con mira ACOG"
+
+REFERENCE           WEAPON_M4M203_EOTECH
+LANG_ENGLISH        "M4A1 de granadero con mira holográfica"
+
+REFERENCE           WEAPON_M4M203_MOTION_TRACKER
+LANG_ENGLISH        "M4A1 de granadero con sensor de latidos"
+
+REFERENCE           WEAPON_M4M203_REFLEX
+LANG_ENGLISH        "M4A1 de granadero con mira de punto rojo"
+
+REFERENCE           WEAPON_M4M203_SILENCER
+LANG_ENGLISH        "M4A1 de granadero con silenciador"
+
+REFERENCE           WEAPON_M4M203_SILENCER_REFLEX
+LANG_ENGLISH        "M4A1 de granadero con silenciador y mira de punto rojo"
+
+REFERENCE           WEAPON_M4_CARBINE
+LANG_ENGLISH        "M4A1"
+
+REFERENCE           WEAPON_M4_CARBINE_ACOG
+LANG_ENGLISH        "M4A1 con mira ACOG"
+
+REFERENCE           WEAPON_M4_CARBINE_BLING
+LANG_ENGLISH        "M4A1 con Brillante"
+
+REFERENCE           WEAPON_M4_CARBINE_EOTECH
+LANG_ENGLISH        "M4A1 con mira holográfica"
+
+REFERENCE           WEAPON_M4_CARBINE_GL
+LANG_ENGLISH        "M4 con lanzagranadas"
+
+REFERENCE           WEAPON_M4_CARBINE_HEARTBEAT
+LANG_ENGLISH        "M4A1 con sensor de latidos"
+
+REFERENCE           WEAPON_M4_CARBINE_REDDOT
+LANG_ENGLISH        "M4A1 con mira de punto rojo"
+
+REFERENCE           WEAPON_M4_CARBINE_ROF
+LANG_ENGLISH        "M4A1 de fuego rápido"
+
+REFERENCE           WEAPON_M4_CARBINE_SHOTGUN
+LANG_ENGLISH        "M4A1 con escopeta"
+
+REFERENCE           WEAPON_M4_CARBINE_SILENCER
+LANG_ENGLISH        "M4A1 con silenciador"
+
+REFERENCE           WEAPON_M4_CARBINE_THERMAL
+LANG_ENGLISH        "M4A1 con mira térmica"
+
+REFERENCE           WEAPON_M4_CARBINE_XMAGS
+LANG_ENGLISH        "M4A1 con cargadores grandes"
+
+REFERENCE           WEAPON_M4_GRUNT_ACOG
+LANG_ENGLISH        "M4A1 con mira ACOG"
+
+REFERENCE           WEAPON_M4_GRUNT_EOTECH
+LANG_ENGLISH        "M4A1 con mira holográfica"
+
+REFERENCE           WEAPON_M4_GRUNT_REFLEX
+LANG_ENGLISH        "M4A1 con mira de punto rojo"
+
+REFERENCE           WEAPON_M4_HYBRID_GRUNT_REFLEX
+LANG_ENGLISH        "M4A1 con mira híbrida"
+
+REFERENCE           WEAPON_M4_SHOTGUN_REFLEX
+LANG_ENGLISH        "M4A1 con mira de punto rojo y escopeta"
+
+REFERENCE           WEAPON_M4_SILENCER
+LANG_ENGLISH        "M4A1 con silenciador"
+
+REFERENCE           WEAPON_M4_SILENCER_ACOG
+LANG_ENGLISH        "M4A1 con silenciador y mira ACOG"
+
+REFERENCE           WEAPON_M4_SILENCER_EOTECH
+LANG_ENGLISH        "M4A1 con silenciador y mira holográfica"
+
+REFERENCE           WEAPON_M4_SILENCER_REFLEX
+LANG_ENGLISH        "M4A1 con silenciador y mira de punto rojo"
+
+REFERENCE           WEAPON_M60
+LANG_ENGLISH        "M60E4"
+
+REFERENCE           WEAPON_M60_ACOG
+LANG_ENGLISH        "M60E4 con mira ACOG"
+
+REFERENCE           WEAPON_M60_BLING
+LANG_ENGLISH        "M60E4 con Brillante"
+
+REFERENCE           WEAPON_M60_EOTECH
+LANG_ENGLISH        "M60E4 con mira holográfica"
+
+REFERENCE           WEAPON_M60_GRIP
+LANG_ENGLISH        "M60E4 con empuñadura vertical"
+
+REFERENCE           WEAPON_M60_HEARTBEAT
+LANG_ENGLISH        "M60E4 con sensor de latidos"
+
+REFERENCE           WEAPON_M60_REDDOT
+LANG_ENGLISH        "M60E4 con mira de punto rojo"
+
+REFERENCE           WEAPON_M60_ROF
+LANG_ENGLISH        "M60E4 de fuego rápido"
+
+REFERENCE           WEAPON_M60_SILENCER
+LANG_ENGLISH        "M60E4 con silenciador"
+
+REFERENCE           WEAPON_M60_THERMAL
+LANG_ENGLISH        "M60E4 con mira térmica"
+
+REFERENCE           WEAPON_M60_XMAGS
+LANG_ENGLISH        "M60E4 con cargadores grandes"
+
+REFERENCE           WEAPON_M67FRAGGRENADE
+LANG_ENGLISH        "Granada de fragmentación M67"
+
+REFERENCE           WEAPON_MAGNUM
+LANG_ENGLISH        ".44 Magnum"
+
+REFERENCE           WEAPON_MAGNUM_AKIMBO
+LANG_ENGLISH        ".44 Magnum con Duales"
+
+REFERENCE           WEAPON_MAGNUM_BLING
+LANG_ENGLISH        ".44 Magnum con Brillante"
+
+REFERENCE           WEAPON_MAGNUM_TACTICAL
+LANG_ENGLISH        ".44 Magnum y cuchillo táctico"
+
+REFERENCE           WEAPON_MARKED_DISTANCE
+LANG_ENGLISH        "Metros marcados: "
+
+REFERENCE           WEAPON_MG36
+LANG_ENGLISH        "MG36"
+
+REFERENCE           WEAPON_MG36_GRIP
+LANG_ENGLISH        "MG36 con empuñadura vertical"
+
+REFERENCE           WEAPON_MK14
+LANG_ENGLISH        "MK14"
+
+REFERENCE           WEAPON_MK14_ACOG
+LANG_ENGLISH        "MK14 con mira ACOG"
+
+REFERENCE           WEAPON_MK14_BLING
+LANG_ENGLISH        "MK14 con Brillante"
+
+REFERENCE           WEAPON_MK14_EOTECH
+LANG_ENGLISH        "MK14 con mira holográfica"
+
+REFERENCE           WEAPON_MK14_GL
+LANG_ENGLISH        "MK14 con lanzagranadas"
+
+REFERENCE           WEAPON_MK14_REDDOT
+LANG_ENGLISH        "MK14 con mira de punto rojo"
+
+REFERENCE           WEAPON_MK14_SHOTGUN
+LANG_ENGLISH        "MK14 con escopeta"
+
+REFERENCE           WEAPON_MK14_SILENCER
+LANG_ENGLISH        "MK14 con silenciador"
+
+REFERENCE           WEAPON_MK14_THERMAL
+LANG_ENGLISH        "MK14 con mira térmica"
+
+REFERENCE           WEAPON_MK14_XMAGS
+LANG_ENGLISH        "MK14 con cargadores grandes"
+
+REFERENCE           WEAPON_MK46
+LANG_ENGLISH        "MK46"
+
+REFERENCE           WEAPON_MK46_ACOG
+LANG_ENGLISH        "MK46 con mira ACOG"
+
+REFERENCE           WEAPON_MK46_BLING
+LANG_ENGLISH        "MK46 con Brillante"
+
+REFERENCE           WEAPON_MK46_EOTECH
+LANG_ENGLISH        "MK46 con mira holográfica"
+
+REFERENCE           WEAPON_MK46_GRIP
+LANG_ENGLISH        "MK46 con empuñadura vertical"
+
+REFERENCE           WEAPON_MK46_HEARTBEAT
+LANG_ENGLISH        "MK46 con sensor de latidos"
+
+REFERENCE           WEAPON_MK46_REDDOT
+LANG_ENGLISH        "MK46 con mira de punto rojo"
+
+REFERENCE           WEAPON_MK46_ROF
+LANG_ENGLISH        "MK46 de fuego rápido"
+
+REFERENCE           WEAPON_MK46_SILENCER
+LANG_ENGLISH        "MK46 con silenciador"
+
+REFERENCE           WEAPON_MK46_THERMAL
+LANG_ENGLISH        "MK46 con mira térmica"
+
+REFERENCE           WEAPON_MK46_XMAGS
+LANG_ENGLISH        "MK46 con cargadores grandes"
+
+REFERENCE           WEAPON_MODEL1887
+LANG_ENGLISH        "Modelo 1887"
+
+REFERENCE           WEAPON_MODEL1887_AKIMBO
+LANG_ENGLISH        "Modelos 1887 con Duales"
+
+REFERENCE           WEAPON_MODEL1887_BLING
+LANG_ENGLISH        "Modelo 1887 con Brillante"
+
+REFERENCE           WEAPON_MODEL1887_XMAGS
+LANG_ENGLISH        "Modelo 1887 con cargadores grandes"
+
+REFERENCE           WEAPON_MP412
+LANG_ENGLISH        "MP412"
+
+REFERENCE           WEAPON_MP412_AKIMBO
+LANG_ENGLISH        "MP412 con Duales"
+
+REFERENCE           WEAPON_MP412_BLING
+LANG_ENGLISH        "MP412 con Brillante"
+
+REFERENCE           WEAPON_MP412_TACTICAL
+LANG_ENGLISH        "MP412 con cuchillo táctico"
+
+REFERENCE           WEAPON_MP5
+LANG_ENGLISH        "MP5"
+
+REFERENCE           WEAPON_MP5K
+LANG_ENGLISH        "MP5"
+
+REFERENCE           WEAPON_MP5K_ROF
+LANG_ENGLISH        "MP5K de fuego rápido"
+
+REFERENCE           WEAPON_MP5K_XMAGS
+LANG_ENGLISH        "MP5K con cargadores grandes"
+
+REFERENCE           WEAPON_MP5_ACOG
+LANG_ENGLISH        "MP5K con mira ACOG"
+
+REFERENCE           WEAPON_MP5_EOTECH
+LANG_ENGLISH        "MP5 con mira holográfica"
+
+REFERENCE           WEAPON_MP5_GRIP
+LANG_ENGLISH        "MP5K con empuñadura vertical"
+
+REFERENCE           WEAPON_MP5_REDDOT
+LANG_ENGLISH        "MP5 con mira de punto rojo"
+
+REFERENCE           WEAPON_MP5_SILENCED
+LANG_ENGLISH        "MP5K con silenciador"
+
+REFERENCE           WEAPON_MP5_SILENCED_REDDOT
+LANG_ENGLISH        "MP5 con silenciador y mira de punto rojo"
+
+REFERENCE           WEAPON_MP5_SILENCED_THERMAL
+LANG_ENGLISH        "MP5 con silenciador y mira térmica"
+
+REFERENCE           WEAPON_MP5_SILENCER
+LANG_ENGLISH        "MP5 con silenciador"
+
+REFERENCE           WEAPON_MP7
+LANG_ENGLISH        "MP7"
+
+REFERENCE           WEAPON_MP7_ACOG
+LANG_ENGLISH        "MP7 con mira ACOG"
+
+REFERENCE           WEAPON_MP7_AKIMBO
+LANG_ENGLISH        "MP7 con Duales"
+
+REFERENCE           WEAPON_MP7_BLING
+LANG_ENGLISH        "MP7 con mira térmica"
+
+REFERENCE           WEAPON_MP7_EOTECH
+LANG_ENGLISH        "MP7 con mira holográfica"
+
+REFERENCE           WEAPON_MP7_HEARTBEAT
+LANG_ENGLISH        "MP7 con sensor de latidos"
+
+REFERENCE           WEAPON_MP7_REDDOT
+LANG_ENGLISH        "MP7 con mira de punto rojo"
+
+REFERENCE           WEAPON_MP7_ROF
+LANG_ENGLISH        "MP7 de fuego rápido"
+
+REFERENCE           WEAPON_MP7_SILENCER
+LANG_ENGLISH        "MP7 con silenciador"
+
+REFERENCE           WEAPON_MP7_THERMAL
+LANG_ENGLISH        "MP7 con mira térmica"
+
+REFERENCE           WEAPON_MP7_XMAGS
+LANG_ENGLISH        "MP7 con cargadores grandes"
+
+REFERENCE           WEAPON_MP9
+LANG_ENGLISH        "MP9"
+
+REFERENCE           WEAPON_MP9_AKIMBO
+LANG_ENGLISH        "MP9 con Duales"
+
+REFERENCE           WEAPON_MP9_BLING
+LANG_ENGLISH        "MP9 con Brillante"
+
+REFERENCE           WEAPON_MP9_EOTECH
+LANG_ENGLISH        "MP9 con mira holográfica"
+
+REFERENCE           WEAPON_MP9_REDDOT
+LANG_ENGLISH        "MP9 con mira de punto rojo"
+
+REFERENCE           WEAPON_MP9_SILENCER
+LANG_ENGLISH        "MP9 con silenciador"
+
+REFERENCE           WEAPON_MP9_XMAGS
+LANG_ENGLISH        "MP9 con cargadores grandes"
+
+REFERENCE           WEAPON_MSR
+LANG_ENGLISH        "MSR"
+
+REFERENCE           WEAPON_NINEBANG_GRENADE
+LANG_ENGLISH        "Granada nueve destellos"
+
+REFERENCE           WEAPON_NO_AMMO
+LANG_ENGLISH        "Sin munición"
+
+REFERENCE           WEAPON_NO_ATTACHMENT
+LANG_ENGLISH        "Sin accesorio"
+
+REFERENCE           WEAPON_NO_CAMO
+LANG_ENGLISH        "Sin camuflaje"
+
+REFERENCE           WEAPON_NO_FRAG_GRENADE
+LANG_ENGLISH        "No quedan granadas de fragmentación"
+
+REFERENCE           WEAPON_NO_SPECIAL_GRENADE
+LANG_ENGLISH        "No quedan granadas especiales"
+
+REFERENCE           WEAPON_NO_WEAPON_AMMO
+LANG_ENGLISH        "No queda munición de &&1"
+
+REFERENCE           WEAPON_NO_WEAPON_AMMO_MP
+LANG_ENGLISH        "Ningún equipo disponible"
+
+REFERENCE           WEAPON_P90
+LANG_ENGLISH        "P90"
+
+REFERENCE           WEAPON_P90_ACOG
+LANG_ENGLISH        "P90 con mira ACOG"
+
+REFERENCE           WEAPON_P90_AKIMBO
+LANG_ENGLISH        "P90 con Duales"
+
+REFERENCE           WEAPON_P90_BLING
+LANG_ENGLISH        "P90 con Brillante"
+
+REFERENCE           WEAPON_P90_EOTECH
+LANG_ENGLISH        "P90 con mira holográfica"
+
+REFERENCE           WEAPON_P90_HEARTBEAT
+LANG_ENGLISH        "P90 con sensor de latidos"
+
+REFERENCE           WEAPON_P90_REDDOT
+LANG_ENGLISH        "P90 con mira de punto rojo"
+
+REFERENCE           WEAPON_P90_ROF
+LANG_ENGLISH        "P90 de fuego rápido"
+
+REFERENCE           WEAPON_P90_SILENCER
+LANG_ENGLISH        "P90 con silenciador"
+
+REFERENCE           WEAPON_P90_THERMAL
+LANG_ENGLISH        "P90 con mira térmica"
+
+REFERENCE           WEAPON_P90_XMAGS
+LANG_ENGLISH        "P90 con cargadores grandes"
+
+REFERENCE           WEAPON_P99
+LANG_ENGLISH        "P99"
+
+REFERENCE           WEAPON_P99_AKIMBO
+LANG_ENGLISH        "P99 con Duales"
+
+REFERENCE           WEAPON_P99_BLING
+LANG_ENGLISH        "P99 con Brillante"
+
+REFERENCE           WEAPON_P99_SILENCER
+LANG_ENGLISH        "P99 con silenciador"
+
+REFERENCE           WEAPON_P99_TACTICAL
+LANG_ENGLISH        "P99 táctica"
+
+REFERENCE           WEAPON_P99_XMAGS
+LANG_ENGLISH        "P99 con cargadores grandes"
+
+REFERENCE           WEAPON_PECHENEG
+LANG_ENGLISH        "PKP Pecheneg"
+
+REFERENCE           WEAPON_PECHENEG_ACOG
+LANG_ENGLISH        "PKP Pecheneg con mira ACOG"
+
+REFERENCE           WEAPON_PECHENEG_BLING
+LANG_ENGLISH        "PKP Pecheneg con Brillante"
+
+REFERENCE           WEAPON_PECHENEG_EOTECH
+LANG_ENGLISH        "PKP Pecheneg con mira holográfica"
+
+REFERENCE           WEAPON_PECHENEG_GRIP
+LANG_ENGLISH        "PKP Pecheneg con empuñadura vertical"
+
+REFERENCE           WEAPON_PECHENEG_HEARTBEAT
+LANG_ENGLISH        "PKP Pecheneg con sensor de latidos"
+
+REFERENCE           WEAPON_PECHENEG_REDDOT
+LANG_ENGLISH        "PKP Pecheneg con mira de punto rojo"
+
+REFERENCE           WEAPON_PECHENEG_ROF
+LANG_ENGLISH        "PKP Pecheneg de fuego rápido"
+
+REFERENCE           WEAPON_PECHENEG_SILENCER
+LANG_ENGLISH        "PKP Pecheneg con silenciador"
+
+REFERENCE           WEAPON_PECHENEG_THERMAL
+LANG_ENGLISH        "PKP Pecheneg con mira térmica"
+
+REFERENCE           WEAPON_PECHENEG_XMAGS
+LANG_ENGLISH        "Pecheneg con cargadores grandes"
+
+REFERENCE           WEAPON_PORTABLE_RADAR_ITEM
+LANG_ENGLISH        "Radar portátil"
+
+REFERENCE           WEAPON_PP90M1
+LANG_ENGLISH        "PP90M1"
+
+REFERENCE           WEAPON_PP90M1_ACOG
+LANG_ENGLISH        "PP90M1 con mira ACOG"
+
+REFERENCE           WEAPON_PP90M1_BLING
+LANG_ENGLISH        "PP90M1 con Brillante"
+
+REFERENCE           WEAPON_PP90M1_EOTECH
+LANG_ENGLISH        "PP90M1 con mira holográfica"
+
+REFERENCE           WEAPON_PP90M1_GL
+LANG_ENGLISH        "PP90M1 con lanzagranadas"
+
+REFERENCE           WEAPON_PP90M1_HEARTBEAT
+LANG_ENGLISH        "PP90M1 con sensor de latidos"
+
+REFERENCE           WEAPON_PP90M1_REDDOT
+LANG_ENGLISH        "PP90M1 con mira de punto rojo"
+
+REFERENCE           WEAPON_PP90M1_ROF
+LANG_ENGLISH        "PP90M1 de fuego rápido"
+
+REFERENCE           WEAPON_PP90M1_SHOTGUN
+LANG_ENGLISH        "PP90M1 con escopeta"
+
+REFERENCE           WEAPON_PP90M1_SILENCER
+LANG_ENGLISH        "PP90M1 con silenciador"
+
+REFERENCE           WEAPON_PP90M1_THERMAL
+LANG_ENGLISH        "PP90M1 con mira térmica"
+
+REFERENCE           WEAPON_PP90M1_XMAGS
+LANG_ENGLISH        "PP90M1 con cargadores grandes"
+
+REFERENCE           WEAPON_PRESS_FORWARDS_OR_BACKWARDS
+LANG_ENGLISH        "Mueve hacia delante para hacer zoom"
+
+REFERENCE           WEAPON_PRESTIGE_CAMO
+LANG_ENGLISH        "Prestigio"
+
+REFERENCE           WEAPON_RAPIDFIRE_ATTACHMENT
+LANG_ENGLISH        "Fuego rápido"
+
+REFERENCE           WEAPON_RAPPEL_KNIFE
+LANG_ENGLISH        "Cuchillo"
+
+REFERENCE           WEAPON_REDDOT
+LANG_ENGLISH        "Mira p. rojo"
+
+REFERENCE           WEAPON_RED_TIGER_CAMO
+LANG_ENGLISH        "Tigre rojo"
+
+REFERENCE           WEAPON_REFLEX_ATTACHMENT
+LANG_ENGLISH        "Mira p. rojo"
+
+REFERENCE           WEAPON_REMOTE_TURRET_MARKER
+LANG_ENGLISH        "Torreta remota"
+
+REFERENCE           WEAPON_RIOTSHIELD
+LANG_ENGLISH        "Escudo antidisturbios"
+
+REFERENCE           WEAPON_RPG
+LANG_ENGLISH        "RPG-7"
+
+REFERENCE           WEAPON_RPG_BLING
+LANG_ENGLISH        "RPG-7 con Brillante"
+
+REFERENCE           WEAPON_RPG_LAUNCHER
+LANG_ENGLISH        "Lanzacohetes"
+
+REFERENCE           WEAPON_RPG_LOCKAIR
+LANG_ENGLISH        "RPG-7 con fijación de objetivo"
+
+REFERENCE           WEAPON_RPG_X2
+LANG_ENGLISH        "RPG-7 x 2"
+
+REFERENCE           WEAPON_RSASS
+LANG_ENGLISH        "RSASS"
+
+REFERENCE           WEAPON_RSASS_HYBRID
+LANG_ENGLISH        "RSASS con mira híbrida"
+
+REFERENCE           WEAPON_RSASS_HYBRID_REFLEX
+LANG_ENGLISH        "RSASS con mira híbrida"
+
+REFERENCE           WEAPON_RSASS_HYBRID_SILENCED
+LANG_ENGLISH        "RSASS con silenciador y mira híbrida"
+
+REFERENCE           WEAPON_RSASS_SILENCED_THERMAL
+LANG_ENGLISH        "RSASS con silenciador y mira térmica"
+
+REFERENCE           WEAPON_RSASS_SILENCER
+LANG_ENGLISH        "RSASS con silenciador"
+
+REFERENCE           WEAPON_SA80
+LANG_ENGLISH        "L86 LSW "
+
+REFERENCE           WEAPON_SA80_ACOG
+LANG_ENGLISH        "L86 LSW con mira ACOG"
+
+REFERENCE           WEAPON_SA80_BLING
+LANG_ENGLISH        "L86 LSW con Brillante"
+
+REFERENCE           WEAPON_SA80_EOTECH
+LANG_ENGLISH        "L86 LSW con mira holográfica"
+
+REFERENCE           WEAPON_SA80_GRIP
+LANG_ENGLISH        "L86 LSW con empuñadura vertical"
+
+REFERENCE           WEAPON_SA80_HEARTBEAT
+LANG_ENGLISH        "L86 LSW con sensor de latidos"
+
+REFERENCE           WEAPON_SA80_REDDOT
+LANG_ENGLISH        "L86 LSW con mira de punto rojo"
+
+REFERENCE           WEAPON_SA80_REFLEX
+LANG_ENGLISH        "L86 LSW con mira de punto rojo"
+
+REFERENCE           WEAPON_SA80_ROF
+LANG_ENGLISH        "L86 LSW de fuego rápido"
+
+REFERENCE           WEAPON_SA80_SCOPE
+LANG_ENGLISH        "L86 LSW con mira óptica"
+
+REFERENCE           WEAPON_SA80_SILENCER
+LANG_ENGLISH        "L86 LSW con silenciador"
+
+REFERENCE           WEAPON_SA80_THERMAL
+LANG_ENGLISH        "L86 LSW con mira térmica"
+
+REFERENCE           WEAPON_SA80_XMAGS
+LANG_ENGLISH        "L86 LSW con cargadores grandes"
+
+REFERENCE           WEAPON_SCAR
+LANG_ENGLISH        "SCAR-L"
+
+REFERENCE           WEAPON_SCAR_ACOG
+LANG_ENGLISH        "SCAR-L con mira ACOG"
+
+REFERENCE           WEAPON_SCAR_BLING
+LANG_ENGLISH        "SCAR-L con Brillante"
+
+REFERENCE           WEAPON_SCAR_EOTECH
+LANG_ENGLISH        "SCAR-L con mira holográfica"
+
+REFERENCE           WEAPON_SCAR_GL
+LANG_ENGLISH        "SCAR-L con lanzagranadas"
+
+REFERENCE           WEAPON_SCAR_GL_REFLEX
+LANG_ENGLISH        "SCAR-L con lanzagranadas y mira de punto rojo"
+
+REFERENCE           WEAPON_SCAR_GRIP
+LANG_ENGLISH        "SCAR-L con empuñadura vertical"
+
+REFERENCE           WEAPON_SCAR_HEARTBEAT
+LANG_ENGLISH        "SCAR-L con sensor de latidos"
+
+REFERENCE           WEAPON_SCAR_REDDOT
+LANG_ENGLISH        "SCAR-L con mira de punto rojo"
+
+REFERENCE           WEAPON_SCAR_REFLEX
+LANG_ENGLISH        "SCAR-L con mira de punto rojo"
+
+REFERENCE           WEAPON_SCAR_REFLEX_SHOTGUN
+LANG_ENGLISH        "SCAR-L con mira de punto rojo y escopeta"
+
+REFERENCE           WEAPON_SCAR_ROF
+LANG_ENGLISH        "SCAR-L de fuego rápido"
+
+REFERENCE           WEAPON_SCAR_SHOTGUN
+LANG_ENGLISH        "SCAR-L con escopeta"
+
+REFERENCE           WEAPON_SCAR_SILENCER
+LANG_ENGLISH        "SCAR-L con silenciador"
+
+REFERENCE           WEAPON_SCAR_THERMAL
+LANG_ENGLISH        "SCAR-L con mira térmica"
+
+REFERENCE           WEAPON_SCAR_THERMAL_SILENCER
+LANG_ENGLISH        "SCAR-L con silenciador y mira térmica"
+
+REFERENCE           WEAPON_SCAR_XMAGS
+LANG_ENGLISH        "SCAR-L con cargadores grandes"
+
+REFERENCE           WEAPON_SCAVENGER_BAG
+LANG_ENGLISH        "Carroñero"
+
+REFERENCE           WEAPON_SCOPE_ATTACHMENT
+LANG_ENGLISH        " "
+
+REFERENCE           WEAPON_SCRAMBLER_ITEM
+LANG_ENGLISH        "Desmodulador"
+
+REFERENCE           WEAPON_SEMTEX
+LANG_ENGLISH        "SEMTEX"
+
+REFERENCE           WEAPON_SENTRY_GUN
+LANG_ENGLISH        "Torreta"
+
+REFERENCE           WEAPON_SENTRY_MINIGUN
+LANG_ENGLISH        "Cañón automático de torreta"
+
+REFERENCE           WEAPON_SHOTGUNS
+LANG_ENGLISH        "Escopetas"
+
+REFERENCE           WEAPON_SHOTGUN_ATTACHMENT
+LANG_ENGLISH        "Con escopeta"
+
+REFERENCE           WEAPON_SILENCER
+LANG_ENGLISH        "Silenciador"
+
+REFERENCE           WEAPON_SILENCER_ATTACHMENT
+LANG_ENGLISH        "Con silenciador"
+
+REFERENCE           WEAPON_SKORPION
+LANG_ENGLISH        "Skorpion"
+
+REFERENCE           WEAPON_SKORPION_ACOG
+LANG_ENGLISH        "Skorpion con mira ACOG"
+
+REFERENCE           WEAPON_SKORPION_REDDOT
+LANG_ENGLISH        "Skorpion con mira de punto rojo"
+
+REFERENCE           WEAPON_SKORPION_REFLEX
+LANG_ENGLISH        "Skorpion con mira de punto rojo"
+
+REFERENCE           WEAPON_SKORPION_SILENCER
+LANG_ENGLISH        "Skorpion con silenciador"
+
+REFERENCE           WEAPON_SMAW
+LANG_ENGLISH        "SMAW"
+
+REFERENCE           WEAPON_SMGS
+LANG_ENGLISH        "Subfusiles"
+
+REFERENCE           WEAPON_SMOKEGRENADE
+LANG_ENGLISH        "Humo"
+
+REFERENCE           WEAPON_SMOKE_GRENADE
+LANG_ENGLISH        "Granada de humo"
+
+REFERENCE           WEAPON_SNIPERRIFLES
+LANG_ENGLISH        "Fusiles de precisión"
+
+REFERENCE           WEAPON_SPAS12
+LANG_ENGLISH        "SPAS-12"
+
+REFERENCE           WEAPON_SPAS12_BLING
+LANG_ENGLISH        "SPAS-12 con Brillante"
+
+REFERENCE           WEAPON_SPAS12_EOTECH
+LANG_ENGLISH        "SPAS-12 con mira holográfica"
+
+REFERENCE           WEAPON_SPAS12_GRIP
+LANG_ENGLISH        "SPAS-12 con empuñadura vertical"
+
+REFERENCE           WEAPON_SPAS12_HEARTBEAT_SENSOR
+LANG_ENGLISH        "SPAS-12 con sensor de latidos"
+
+REFERENCE           WEAPON_SPAS12_REDDOT
+LANG_ENGLISH        "SPAS-12 con mira de punto rojo"
+
+REFERENCE           WEAPON_SPAS12_SILENCER
+LANG_ENGLISH        "SPAS-12 con silenciador"
+
+REFERENCE           WEAPON_SPAS12_XMAGS
+LANG_ENGLISH        "SPAS-12 con cargadores grandes"
+
+REFERENCE           WEAPON_STINGER
+LANG_ENGLISH        "Stinger"
+
+REFERENCE           WEAPON_STINGER_BLING
+LANG_ENGLISH        "Stinger con Brillante"
+
+REFERENCE           WEAPON_STINGER_LOCKAIR
+LANG_ENGLISH        "Stinger con fijación de objetivo"
+
+REFERENCE           WEAPON_STRIKER
+LANG_ENGLISH        "Striker"
+
+REFERENCE           WEAPON_STRIKER_BLING
+LANG_ENGLISH        "Striker con Brillante"
+
+REFERENCE           WEAPON_STRIKER_EOTECH
+LANG_ENGLISH        "Striker con mira holográfica"
+
+REFERENCE           WEAPON_STRIKER_GRIP
+LANG_ENGLISH        "Striker con empuñadura vertical"
+
+REFERENCE           WEAPON_STRIKER_REDDOT
+LANG_ENGLISH        "Striker con mira de punto rojo"
+
+REFERENCE           WEAPON_STRIKER_REFLEX
+LANG_ENGLISH        "Striker con mira de punto rojo"
+
+REFERENCE           WEAPON_STRIKER_SILENCER
+LANG_ENGLISH        "Striker con silenciador"
+
+REFERENCE           WEAPON_STRIKER_XMAGS
+LANG_ENGLISH        "Striker con cargadores grandes"
+
+REFERENCE           WEAPON_STRIKE_MARKER
+LANG_ENGLISH        "Marcador de ataque"
+
+REFERENCE           WEAPON_STUN_GRENADE
+LANG_ENGLISH        "Granada aturdidora"
+
+REFERENCE           WEAPON_TACTICAL_ATTACHMENT
+LANG_ENGLISH        "Cuchillo táctico"
+
+REFERENCE           WEAPON_TARGET_NOT_ENOUGH_CLEARANCE
+LANG_ENGLISH        "No hay espacio suficiente para disparar"
+
+REFERENCE           WEAPON_TARGET_TOO_CLOSE
+LANG_ENGLISH        "Demasiado cerca del objetivo"
+
+REFERENCE           WEAPON_THERMAL_ATTACHMENT
+LANG_ENGLISH        "Mira térmica"
+
+REFERENCE           WEAPON_THERMITE
+LANG_ENGLISH        "Detonador de termita"
+
+REFERENCE           WEAPON_THROWING_KNIFE
+LANG_ENGLISH        "Cuchillo arrojadizo"
+
+REFERENCE           WEAPON_TYPE95
+LANG_ENGLISH        "Type 95"
+
+REFERENCE           WEAPON_TYPE95_ACOG
+LANG_ENGLISH        "Type 95 con mira ACOG"
+
+REFERENCE           WEAPON_TYPE95_BLING
+LANG_ENGLISH        "Type 95 con Brillante"
+
+REFERENCE           WEAPON_TYPE95_EOTECH
+LANG_ENGLISH        "Type 95 con mira holográfica"
+
+REFERENCE           WEAPON_TYPE95_GL
+LANG_ENGLISH        "Type 95 con lanzagranadas"
+
+REFERENCE           WEAPON_TYPE95_HEARTBEAT
+LANG_ENGLISH        "Type 95 con sensor de latidos"
+
+REFERENCE           WEAPON_TYPE95_REDDOT
+LANG_ENGLISH        "Type 95 con mira de punto rojo"
+
+REFERENCE           WEAPON_TYPE95_ROF
+LANG_ENGLISH        "Type 95 de fuego rápido"
+
+REFERENCE           WEAPON_TYPE95_SHOTGUN
+LANG_ENGLISH        "Type 95 con escopeta"
+
+REFERENCE           WEAPON_TYPE95_SILENCER
+LANG_ENGLISH        "Type 95 con silenciador"
+
+REFERENCE           WEAPON_TYPE95_THERMAL
+LANG_ENGLISH        "Type 95 con mira térmica"
+
+REFERENCE           WEAPON_TYPE95_XMAGS
+LANG_ENGLISH        "Type 95 con cargadores grandes"
+
+REFERENCE           WEAPON_UAV_STRIKE
+LANG_ENGLISH        "Designador de zona 3"
+
+REFERENCE           WEAPON_UMP45
+LANG_ENGLISH        "UMP45"
+
+REFERENCE           WEAPON_UMP45_ACOG
+LANG_ENGLISH        "UMP45 con mira ACOG"
+
+REFERENCE           WEAPON_UMP45_BLING
+LANG_ENGLISH        "UMP45 personalizada"
+
+REFERENCE           WEAPON_UMP45_EOTECH
+LANG_ENGLISH        "UMP45 con mira holográfica"
+
+REFERENCE           WEAPON_UMP45_REDDOT
+LANG_ENGLISH        "UMP45 con mira de punto rojo"
+
+REFERENCE           WEAPON_UMP45_ROF
+LANG_ENGLISH        "UMP45 de fuego rápido"
+
+REFERENCE           WEAPON_UMP45_SILENCER
+LANG_ENGLISH        "UMP45 con silenciador"
+
+REFERENCE           WEAPON_UMP45_XMAGS
+LANG_ENGLISH        "U45 con cargadores grandes"
+
+REFERENCE           WEAPON_UPGRADE
+LANG_ENGLISH        "&&1 - &&2"
+
+REFERENCE           WEAPON_USAS12
+LANG_ENGLISH        "USAS 12"
+
+REFERENCE           WEAPON_USAS12_EOTECH
+LANG_ENGLISH        "USAS 12 con mira holográfica"
+
+REFERENCE           WEAPON_USAS12_GRIP
+LANG_ENGLISH        "USAS 12 con empuñadura vertical"
+
+REFERENCE           WEAPON_USAS12_HB
+LANG_ENGLISH        "USAS 12 con sensor de latidos"
+
+REFERENCE           WEAPON_USAS12_REDDOT
+LANG_ENGLISH        "USAS 12 con mira de punto rojo"
+
+REFERENCE           WEAPON_USAS12_SILENCER
+LANG_ENGLISH        "USAS 12 con silenciador"
+
+REFERENCE           WEAPON_USP
+LANG_ENGLISH        "USP del 45 táctica"
+
+REFERENCE           WEAPON_USP_AKIMBO
+LANG_ENGLISH        "USP del 45 con Duales"
+
+REFERENCE           WEAPON_USP_BLING
+LANG_ENGLISH        "USP del 45 con Brillante"
+
+REFERENCE           WEAPON_USP_SCRIPTED
+LANG_ENGLISH        "USP del 45"
+
+REFERENCE           WEAPON_USP_SILENCER
+LANG_ENGLISH        "USP del 45 táctica con silenciador"
+
+REFERENCE           WEAPON_USP_TACTICAL
+LANG_ENGLISH        "USP del 45 con cuchillo táctico"
+
+REFERENCE           WEAPON_USP_XMAGS
+LANG_ENGLISH        "USP del 45 con cargadores grandes"
+
+REFERENCE           WEAPON_UZI
+LANG_ENGLISH        "PM-9"
+
+REFERENCE           WEAPON_UZIM9
+LANG_ENGLISH        "PM-9"
+
+REFERENCE           WEAPON_UZI_ACOG
+LANG_ENGLISH        "PM-9 con mira ACOG"
+
+REFERENCE           WEAPON_UZI_AKIMBO
+LANG_ENGLISH        "PM-9 con Duales"
+
+REFERENCE           WEAPON_UZI_BLING
+LANG_ENGLISH        "PM-9 con Brillante"
+
+REFERENCE           WEAPON_UZI_EOTECH
+LANG_ENGLISH        "PM-9 con mira holográfica"
+
+REFERENCE           WEAPON_UZI_REDDOT
+LANG_ENGLISH        "PM-9 con mira de punto rojo"
+
+REFERENCE           WEAPON_UZI_ROF
+LANG_ENGLISH        "PM-9 de fuego rápido"
+
+REFERENCE           WEAPON_UZI_SILENCER
+LANG_ENGLISH        "PM-9 con silenciador"
+
+REFERENCE           WEAPON_UZI_THERMAL
+LANG_ENGLISH        "PM-9 con mira térmica"
+
+REFERENCE           WEAPON_UZI_XMAGS
+LANG_ENGLISH        "PM-9 con cargadores grandes"
+
+REFERENCE           WEAPON_VZSCOPE_ATTACHMENT
+LANG_ENGLISH        "Mira zoom variable"
+
+REFERENCE           WEAPON_WOODLAND_CAMO
+LANG_ENGLISH        "Boscoso"
+
+REFERENCE           WEAPON_XM25
+LANG_ENGLISH        "XM25"
+
+REFERENCE           WEAPON_XMAGS_ATTACHMENT
+LANG_ENGLISH        "Cargadores grandes"
+
+ENDMARKER

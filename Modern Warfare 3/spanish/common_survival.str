@@ -1,0 +1,502 @@
+// Dumped from fastfile "common_survival".
+// In their original format the strings might have been separated in multiple files.
+VERSION             "1"
+CONFIG              "C:/trees/cod3/cod3/bin/StringEd.cfg"
+FILENOTES           ""
+
+REFERENCE           HELLFIRE_DESTROYED
+LANG_ENGLISH        "El dron Predator ha sido destruido."
+
+REFERENCE           HELLFIRE_DRONE_NOT_AVAILABLE
+LANG_ENGLISH        "El dron Predator no está disponible."
+
+REFERENCE           HELLFIRE_DRONE_VIEW
+LANG_ENGLISH        "CÁMARA: UAV_DRONE_011"
+
+REFERENCE           HELLFIRE_FIRE
+LANG_ENGLISH        "-MISIL LANZADO-"
+
+REFERENCE           HELLFIRE_MISSILE_VIEW
+LANG_ENGLISH        "CÁMARA: MISIL"
+
+REFERENCE           HELLFIRE_RELOADING
+LANG_ENGLISH        "-MISIL RECARGANDO-"
+
+REFERENCE           HELLFIRE_RELOADING_WITH_TIME
+LANG_ENGLISH        "RECARGA DE MISIL: "
+
+REFERENCE           HELLFIRE_USE_DRONE
+LANG_ENGLISH        "Pulsa ^3[{+actionslot 4}]^7 para controlar el dron Predator."
+
+REFERENCE           HELLFIRE_USE_DRONE_2
+LANG_ENGLISH        "Pulsa ^3[{+actionslot 2}]^7 para controlar el dron Predator."
+
+REFERENCE           KILLSTREAKS_A10_SUPPORT
+LANG_ENGLISH        "Apoyo de A-10"
+
+REFERENCE           KILLSTREAKS_A10_SUPPORT_DESC
+LANG_ENGLISH        "Solicita un ametrallamiento con A-10 Warthog."
+
+REFERENCE           KILLSTREAKS_AASTRIKE
+LANG_ENGLISH        "Superioridad aérea"
+
+REFERENCE           KILLSTREAKS_AASTRIKE_DESC
+LANG_ENGLISH        "Destruye aeronaves enemigas."
+
+REFERENCE           KILLSTREAKS_AA_MISSILE
+LANG_ENGLISH        "Misil antiaéreo"
+
+REFERENCE           KILLSTREAKS_AA_MISSILE_DESC
+LANG_ENGLISH        "Controla un misil antiaéreo para derribar aeronaves."
+
+REFERENCE           KILLSTREAKS_AC130
+LANG_ENGLISH        "AC-130"
+
+REFERENCE           KILLSTREAKS_AC130_DESC
+LANG_ENGLISH        "Conviértete en el artillero de un AC-130."
+
+REFERENCE           KILLSTREAKS_AIRDROP
+LANG_ENGLISH        "Paquete de ayuda"
+
+REFERENCE           KILLSTREAKS_AIRDROP_DESC
+LANG_ENGLISH        "Lanza una racha de bajas aleatoria."
+
+REFERENCE           KILLSTREAKS_AIRDROP_JUGGERNAUT
+LANG_ENGLISH        "Juggernaut"
+
+REFERENCE           KILLSTREAKS_AIRDROP_JUGGERNAUT_DESC
+LANG_ENGLISH        "Recibe blindaje avanzado mediante un paquete de ayuda."
+
+REFERENCE           KILLSTREAKS_AIRDROP_JUGGERNAUT_GL
+LANG_ENGLISH        "Juggernaut con lanzagranadas"
+
+REFERENCE           KILLSTREAKS_AIRDROP_JUGGERNAUT_GL_DESC
+LANG_ENGLISH        "Recibe blindaje avanzado mediante un paquete de ayuda."
+
+REFERENCE           KILLSTREAKS_AIRDROP_JUGGERNAUT_RECON
+LANG_ENGLISH        "Juggernaut recon."
+
+REFERENCE           KILLSTREAKS_AIRDROP_JUGGERNAUT_RECON_DESC
+LANG_ENGLISH        "Recibe blindaje avanzado mediante un paquete de ayuda."
+
+REFERENCE           KILLSTREAKS_AIRDROP_MEGA
+LANG_ENGLISH        "Lanzamiento de emergencia"
+
+REFERENCE           KILLSTREAKS_AIRDROP_MEGA_DESC
+LANG_ENGLISH        "Lanza 4 rachas de bajas o munición al azar."
+
+REFERENCE           KILLSTREAKS_AIRDROP_PREDATOR
+LANG_ENGLISH        "Paquete ayuda (Predator)"
+
+REFERENCE           KILLSTREAKS_AIRDROP_PREDATOR_DESC
+LANG_ENGLISH        "Lanza un misil Predator."
+
+REFERENCE           KILLSTREAKS_AIRDROP_REMOTE_TANK
+LANG_ENGLISH        "Dron de ataque"
+
+REFERENCE           KILLSTREAKS_AIRDROP_REMOTE_TANK_DESC
+LANG_ENGLISH        "Lanza un dron de ataque."
+
+REFERENCE           KILLSTREAKS_AIRDROP_SENTRY
+LANG_ENGLISH        "Torreta"
+
+REFERENCE           KILLSTREAKS_AIRDROP_SENTRY_DESC
+LANG_ENGLISH        "Lanza una torreta desplegable."
+
+REFERENCE           KILLSTREAKS_AIRDROP_TEAM_AMMO
+LANG_ENGLISH        "Lanzamiento reponedor munición equipo"
+
+REFERENCE           KILLSTREAKS_AIRDROP_TEAM_AMMO_DESC
+LANG_ENGLISH        "Reabastece al equipo de munición mediante un paquete de ayuda."
+
+REFERENCE           KILLSTREAKS_AIRDROP_TRAP
+LANG_ENGLISH        "Lanzamiento trampa"
+
+REFERENCE           KILLSTREAKS_AIRDROP_TRAP_DESC
+LANG_ENGLISH        "Mata a los enemigos con una caja trampa lanzada."
+
+REFERENCE           KILLSTREAKS_AIRDROP_TROPHY
+LANG_ENGLISH        "Lanzamiento torreta defensiva"
+
+REFERENCE           KILLSTREAKS_AIRSTRIKE
+LANG_ENGLISH        "Ataque aéreo"
+
+REFERENCE           KILLSTREAKS_AIRSTRIKE_DESC
+LANG_ENGLISH        "Solicita un ataque aéreo sobre la posición designada."
+
+REFERENCE           KILLSTREAKS_AMMO
+LANG_ENGLISH        "Munición"
+
+REFERENCE           KILLSTREAKS_AMMO_DESC
+LANG_ENGLISH        "Recibe munición."
+
+REFERENCE           KILLSTREAKS_COUNTER_UAV
+LANG_ENGLISH        "UAV de respuesta"
+
+REFERENCE           KILLSTREAKS_COUNTER_UAV_DESC
+LANG_ENGLISH        "Desactiva temporalmente el radar enemigo."
+
+REFERENCE           KILLSTREAKS_DEPLOYABLE_AMMO
+LANG_ENGLISH        "Caja de munición"
+
+REFERENCE           KILLSTREAKS_DEPLOYABLE_AMMO_DESC
+LANG_ENGLISH        "Despliega una caja de munición para tu equipo."
+
+REFERENCE           KILLSTREAKS_DEPLOYABLE_EXP_AMMO
+LANG_ENGLISH        "Caja de munición explosiva"
+
+REFERENCE           KILLSTREAKS_DEPLOYABLE_EXP_AMMO_DESC
+LANG_ENGLISH        "Despliega una caja de munición explosiva para tu equipo."
+
+REFERENCE           KILLSTREAKS_DEPLOYABLE_VEST
+LANG_ENGLISH        "Chalecos balísticos"
+
+REFERENCE           KILLSTREAKS_DEPLOYABLE_VEST_DESC
+LANG_ENGLISH        "Despliega un petate con chalecos balísticos para tu equipo."
+
+REFERENCE           KILLSTREAKS_DIRECTIONAL_UAV
+LANG_ENGLISH        "UAV direccional"
+
+REFERENCE           KILLSTREAKS_DIRECTIONAL_UAV_DESC
+LANG_ENGLISH        "Solicita un UAV que muestra hacia dónde mira el enemigo."
+
+REFERENCE           KILLSTREAKS_DOUBLE_UAV
+LANG_ENGLISH        "UAV avanzado"
+
+REFERENCE           KILLSTREAKS_DOUBLE_UAV_DESC
+LANG_ENGLISH        "UAV con tiempo de barrido menor."
+
+REFERENCE           KILLSTREAKS_EARNED_AIRDROP_MEGA
+LANG_ENGLISH        "Pulsa [{+actionslot 4}] para LANZAMIENTO DE EMERGENCIA.\n"
+
+REFERENCE           KILLSTREAKS_EMP
+LANG_ENGLISH        "PEM"
+
+REFERENCE           KILLSTREAKS_EMP_DESC
+LANG_ENGLISH        "Inutiliza temporalmente los dispositivos electrónicos enemigos."
+
+REFERENCE           KILLSTREAKS_ESCORT_AIRDROP
+LANG_ENGLISH        "Lanzamiento escolta"
+
+REFERENCE           KILLSTREAKS_ESCORT_AIRDROP_DESC
+LANG_ENGLISH        "Un Osprey entrega y defiende varios paquetes de ayuda."
+
+REFERENCE           KILLSTREAKS_EXPLOSIVE_AMMO
+LANG_ENGLISH        "Munición explosiva"
+
+REFERENCE           KILLSTREAKS_EXPLOSIVE_AMMO_DESC
+LANG_ENGLISH        "Cambia tus balas por munición explosiva."
+
+REFERENCE           KILLSTREAKS_GL_TURRET
+LANG_ENGLISH        "Torreta lanzagranadas"
+
+REFERENCE           KILLSTREAKS_GL_TURRET_DESC
+LANG_ENGLISH        "Coloca y usa una torreta lanzagranadas."
+
+REFERENCE           KILLSTREAKS_HARRIER_AIRSTRIKE
+LANG_ENGLISH        "Ataque con Harrier"
+
+REFERENCE           KILLSTREAKS_HARRIER_AIRSTRIKE_DESC
+LANG_ENGLISH        "Ataque aéreo con un Harrier.\n"
+
+REFERENCE           KILLSTREAKS_HELICOPTER
+LANG_ENGLISH        "Helicóp. de ataque"
+
+REFERENCE           KILLSTREAKS_HELICOPTER_BLACKBOX
+LANG_ENGLISH        "Caja negra de helicóptero"
+
+REFERENCE           KILLSTREAKS_HELICOPTER_BLACKBOX_DESC
+LANG_ENGLISH        "Helicóptero más duradero."
+
+REFERENCE           KILLSTREAKS_HELICOPTER_DESC
+LANG_ENGLISH        "Solicita un helicóptero de apoyo."
+
+REFERENCE           KILLSTREAKS_HELICOPTER_FLARES
+LANG_ENGLISH        "Helicóptero defensivo"
+
+REFERENCE           KILLSTREAKS_HELICOPTER_FLARES_DESC
+LANG_ENGLISH        "Helicóptero con bengalas."
+
+REFERENCE           KILLSTREAKS_HELICOPTER_MINIGUN
+LANG_ENGLISH        "Artillero"
+
+REFERENCE           KILLSTREAKS_HELICOPTER_MINIGUN_DESC
+LANG_ENGLISH        "Conviértete en el artillero de un helicóptero de ataque."
+
+REFERENCE           KILLSTREAKS_HELICOPTER_MK19
+LANG_ENGLISH        "Artillero de helicóptero"
+
+REFERENCE           KILLSTREAKS_HELICOPTER_MK19_DESC
+LANG_ENGLISH        "Controla a distancia el lanzagranadas de un helicóptero."
+
+REFERENCE           KILLSTREAKS_HELI_MINIGUNNER
+LANG_ENGLISH        "Miniartillero de helicóptero"
+
+REFERENCE           KILLSTREAKS_HELI_MINIGUNNER_DESC
+LANG_ENGLISH        "Monta en un helicóptero y usa el cañón automático."
+
+REFERENCE           KILLSTREAKS_HELI_SNIPER
+LANG_ENGLISH        "Francotirador de helicóptero"
+
+REFERENCE           KILLSTREAKS_HELI_SNIPER_DESC
+LANG_ENGLISH        "Monta en un helicóptero y dispara desde el aire."
+
+REFERENCE           KILLSTREAKS_IMS
+LANG_ENGLISH        "SMI"
+
+REFERENCE           KILLSTREAKS_IMS_DESC
+LANG_ENGLISH        "El sistema de munición inteligente detecta y elimina a los combatientes enemigos."
+
+REFERENCE           KILLSTREAKS_JUGGERNAUT
+LANG_ENGLISH        "Juggernaut"
+
+REFERENCE           KILLSTREAKS_LITTLEBIRD_FLOCK
+LANG_ENGLISH        "Ametrallamiento"
+
+REFERENCE           KILLSTREAKS_LITTLEBIRD_FLOCK_DESC
+LANG_ENGLISH        "Ametrallamiento con 5 helicópteros de ataque."
+
+REFERENCE           KILLSTREAKS_LITTLEBIRD_SUPPORT
+LANG_ENGLISH        "Apoyo de AH-6"
+
+REFERENCE           KILLSTREAKS_LITTLEBIRD_SUPPORT_DESC
+LANG_ENGLISH        "Obtén apoyo aéreo personal de un AH-6."
+
+REFERENCE           KILLSTREAKS_MINIGUN_TURRET
+LANG_ENGLISH        "Torreta con cañón automático"
+
+REFERENCE           KILLSTREAKS_MINIGUN_TURRET_DESC
+LANG_ENGLISH        "Coloca y usa una torreta con cañón automático."
+
+REFERENCE           KILLSTREAKS_MOBILE_MORTAR
+LANG_ENGLISH        "Mortero móvil"
+
+REFERENCE           KILLSTREAKS_MOBILE_MORTAR_DESC
+LANG_ENGLISH        "Solicita apoyo terrestre con mortero defendible."
+
+REFERENCE           KILLSTREAKS_NONE
+LANG_ENGLISH        "Ninguna"
+
+REFERENCE           KILLSTREAKS_NONE_DESC
+LANG_ENGLISH        "No hay ninguna racha de bajas seleccionada."
+
+REFERENCE           KILLSTREAKS_OSPREY_GUNNER
+LANG_ENGLISH        "Artillero de Osprey"
+
+REFERENCE           KILLSTREAKS_OSPREY_GUNNER_DESC
+LANG_ENGLISH        "Conviértete en el artillero de un Osprey que entrega diversos paquetes de ayuda."
+
+REFERENCE           KILLSTREAKS_PAVELOW
+LANG_ENGLISH        "Pave Low"
+
+REFERENCE           KILLSTREAKS_PAVELOW_DESC
+LANG_ENGLISH        "Helicóptero de asalto con blindaje pesado."
+
+REFERENCE           KILLSTREAKS_PRECISION_AIRSTRIKE
+LANG_ENGLISH        "Atq. aéreo de precisión"
+
+REFERENCE           KILLSTREAKS_PRECISION_AIRSTRIKE_DESC
+LANG_ENGLISH        "Solicita un ataque aéreo direccional."
+
+REFERENCE           KILLSTREAKS_PREDATOR_MISSILE
+LANG_ENGLISH        "Misil Predator"
+
+REFERENCE           KILLSTREAKS_PREDATOR_MISSILE_DESC
+LANG_ENGLISH        "Misil con control remoto."
+
+REFERENCE           KILLSTREAKS_REMOTE_MG_TURRET
+LANG_ENGLISH        "Torreta remota"
+
+REFERENCE           KILLSTREAKS_REMOTE_MG_TURRET_DESC
+LANG_ENGLISH        "Lanza una pequeña torreta y contrólala a distancia."
+
+REFERENCE           KILLSTREAKS_REMOTE_MORTAR
+LANG_ENGLISH        "Reaper"
+
+REFERENCE           KILLSTREAKS_REMOTE_MORTAR_DESC
+LANG_ENGLISH        "Marca blancos para misiles a distancia desde el UAV Reaper."
+
+REFERENCE           KILLSTREAKS_REMOTE_TANK
+LANG_ENGLISH        "Dron de ataque"
+
+REFERENCE           KILLSTREAKS_REMOTE_TANK_DESC
+LANG_ENGLISH        "Controla a distancia un vehículo de ataque terrestre."
+
+REFERENCE           KILLSTREAKS_REMOTE_UAV
+LANG_ENGLISH        "Dron reconocimiento"
+
+REFERENCE           KILLSTREAKS_REMOTE_UAV_DESC
+LANG_ENGLISH        "Controla un dron de reconocimiento y marca enemigos para tu equipo."
+
+REFERENCE           KILLSTREAKS_SAM_TURRET
+LANG_ENGLISH        "Torreta SAM"
+
+REFERENCE           KILLSTREAKS_SAM_TURRET_DESC
+LANG_ENGLISH        "Torreta SAM automática que destruye rachas de bajas aéreas."
+
+REFERENCE           KILLSTREAKS_SENTRY
+LANG_ENGLISH        "Torreta"
+
+REFERENCE           KILLSTREAKS_SENTRY_DESC
+LANG_ENGLISH        "Coloca una torreta automática."
+
+REFERENCE           KILLSTREAKS_STEALTH_AIRSTRIKE
+LANG_ENGLISH        "Bombardero sigiloso"
+
+REFERENCE           KILLSTREAKS_STEALTH_AIRSTRIKE_DESC
+LANG_ENGLISH        "Ataque aéreo indetectable en los mapas enemigos."
+
+REFERENCE           KILLSTREAKS_SUPER_AIRSTRIKE
+LANG_ENGLISH        "Superataque aéreo"
+
+REFERENCE           KILLSTREAKS_SUPER_AIRSTRIKE_DESC
+LANG_ENGLISH        "Ataque aéreo con potencia adicional."
+
+REFERENCE           KILLSTREAKS_TACTICAL_NUKE
+LANG_ENGLISH        "MOAB"
+
+REFERENCE           KILLSTREAKS_TACTICAL_NUKE_DESC
+LANG_ENGLISH        "Termina el juego a lo grande."
+
+REFERENCE           KILLSTREAKS_TANK
+LANG_ENGLISH        "Tanque"
+
+REFERENCE           KILLSTREAKS_TANK_DESC
+LANG_ENGLISH        "Un tanque."
+
+REFERENCE           KILLSTREAKS_TEAM_AMMO_REFILL
+LANG_ENGLISH        "Reponer munición del equipo"
+
+REFERENCE           KILLSTREAKS_TEAM_AMMO_REFILL_DESC
+LANG_ENGLISH        "Todo tu equipo se reabastece de munición al instante."
+
+REFERENCE           KILLSTREAKS_TRIPLE_UAV
+LANG_ENGLISH        "UAV avanzado"
+
+REFERENCE           KILLSTREAKS_TRIPLE_UAV_DESC
+LANG_ENGLISH        "Solicita un reconocimiento orbital que muestra hacia dónde mira el enemigo."
+
+REFERENCE           KILLSTREAKS_UAV
+LANG_ENGLISH        "UAV"
+
+REFERENCE           KILLSTREAKS_UAV_DESC
+LANG_ENGLISH        "Muestra a los enemigos en el minimapa."
+
+REFERENCE           KILLSTREAKS_UAV_STRIKE
+LANG_ENGLISH        "Ataque marcado con láser"
+
+REFERENCE           KILLSTREAKS_UAV_STRIKE_DESC
+LANG_ENGLISH        "Marca el blanco y disfruta de los fuegos artificiales."
+
+REFERENCE           SENTRY_CANNOT_PLACE
+LANG_ENGLISH        "Mueve la torreta a una posición válida."
+
+REFERENCE           SENTRY_DEBUG_SPAWN_ENEMIES
+LANG_ENGLISH        "Los enemigos se rinden en 10 segundos."
+
+REFERENCE           SENTRY_MOVE
+LANG_ENGLISH        "Mantén ^3&&1^7 para mover la torreta."
+
+REFERENCE           SENTRY_PICKUP
+LANG_ENGLISH        "Mantén ^3&&1^7 para recoger la torreta."
+
+REFERENCE           SENTRY_PLACE
+LANG_ENGLISH        "Pulsa ^3[{+attack}]^7 para colocar la torreta."
+
+REFERENCE           SP_KILLSTREAKS_C4_PICKUP
+LANG_ENGLISH        "Mantén [{+activate}] para coger el C4."
+
+REFERENCE           SP_KILLSTREAKS_CAPTURING_CRATE
+LANG_ENGLISH        "Tomando..."
+
+REFERENCE           SP_KILLSTREAKS_CRATE_HIJACK_DESC
+LANG_ENGLISH        "El enemigo ha tomado tu paquete de ayuda."
+
+REFERENCE           SP_KILLSTREAKS_CRATE_HIJACK_TITLE
+LANG_ENGLISH        "¡Robado!"
+
+REFERENCE           SP_KILLSTREAKS_EARNED_AIRDROP
+LANG_ENGLISH        "Pulsa [{+actionslot 4}] para ^3PAQUETE DE AYUDA^7."
+
+REFERENCE           SP_KILLSTREAKS_EARNED_AIRDROP_C4
+LANG_ENGLISH        "Pulsa [{+actionslot 4}] para ^3LANZAMIENTO DE C4^7."
+
+REFERENCE           SP_KILLSTREAKS_EARNED_AIRDROP_SENTRY
+LANG_ENGLISH        "Pulsa [{+actionslot 4}] para ^3LANZAMIENTO DE TORRETA^7."
+
+REFERENCE           SP_KILLSTREAKS_EARNED_NUKE
+LANG_ENGLISH        "Pulsa [{+actionslot 4}] para ^1LANZAMIENTO NUCLEAR TÁCTICO^7."
+
+REFERENCE           SP_KILLSTREAKS_EARNED_PARADROP
+LANG_ENGLISH        "Pulsa [{+actionslot 4}] para ^3APOYO DE PARACAIDISTAS^7."
+
+REFERENCE           SP_KILLSTREAKS_EARNED_PRECISION_AIRSTRIKE
+LANG_ENGLISH        "Pulsa [{+actionslot 4}] para ^3ATAQUE AÉREO DE PRECISIÓN^7."
+
+REFERENCE           SP_KILLSTREAKS_EARNED_PREDATOR_MISSILE
+LANG_ENGLISH        "Pulsa [{+actionslot 4}] para ^3MISIL PREDATOR^7."
+
+REFERENCE           SP_KILLSTREAKS_EARNED_STEALTH_AIRSTRIKE
+LANG_ENGLISH        "Pulsa [{+actionslot 4}] para ^3BOMBARDERO SIGILOSO^7."
+
+REFERENCE           SP_KILLSTREAKS_PRECISION_AIRSTRIKE_PICKUP
+LANG_ENGLISH        "Mantén [{+activate}] para ataque aéreo de precisión."
+
+REFERENCE           SP_KILLSTREAKS_REMOTEMISSILE_PICKUP
+LANG_ENGLISH        "Mantén [{+activate}] para misil Predator."
+
+REFERENCE           SP_KILLSTREAKS_REWARDNAME_AIRDROP
+LANG_ENGLISH        "Premio: paquete de ayuda"
+
+REFERENCE           SP_KILLSTREAKS_REWARDNAME_AIRDROP_AMMO
+LANG_ENGLISH        "Premio: lanzamiento de caja de munición"
+
+REFERENCE           SP_KILLSTREAKS_REWARDNAME_AIRDROP_C4
+LANG_ENGLISH        "Premio: lanzamiento de C4"
+
+REFERENCE           SP_KILLSTREAKS_REWARDNAME_AIRDROP_SENTRY
+LANG_ENGLISH        "Premio: lanzamiento de torreta"
+
+REFERENCE           SP_KILLSTREAKS_REWARDNAME_PRECISION_AIRSTRIKE
+LANG_ENGLISH        "Premio: ataque aéreo de precisión"
+
+REFERENCE           SP_KILLSTREAKS_REWARDNAME_REMOTEMISSILE
+LANG_ENGLISH        "Premio: misil Predator"
+
+REFERENCE           SP_KILLSTREAKS_REWARDNAME_SENTRY
+LANG_ENGLISH        "Premio: torreta"
+
+REFERENCE           SP_KILLSTREAKS_REWARDNAME_STEALTH_AIRSTRIKE
+LANG_ENGLISH        "Premio: bombardero sigiloso"
+
+REFERENCE           SP_KILLSTREAKS_SENTRY_PICKUP
+LANG_ENGLISH        "Mantén [{+activate}] para una torreta."
+
+REFERENCE           SP_KILLSTREAKS_SHAREPACKAGE_DESC
+LANG_ENGLISH        "¡Uno de tus compañeros ha salvado tu paquete de ayuda del enemigo!"
+
+REFERENCE           SP_KILLSTREAKS_SHAREPACKAGE_TITLE
+LANG_ENGLISH        "¡Compartir paquete!"
+
+REFERENCE           SP_KILLSTREAKS_SPECIALTY_BULLETACCURACY_PICKUP
+LANG_ENGLISH        "Mantén [{+activate}] para ventaja: Puntería estable."
+
+REFERENCE           SP_KILLSTREAKS_SPECIALTY_DETECTEXPLOSIVE_PICKUP
+LANG_ENGLISH        "Mantén [{+activate}] para ventaja: Informe de situación."
+
+REFERENCE           SP_KILLSTREAKS_SPECIALTY_FASTRELOAD_PICKUP
+LANG_ENGLISH        "Mantén [{+activate}] para ventaja: Prestidigitación."
+
+REFERENCE           SP_KILLSTREAKS_SPECIALTY_LONGERSPRINT_PICKUP
+LANG_ENGLISH        "Mantén [{+activate}] para ventaja: Condicionamiento extremo."
+
+REFERENCE           SP_KILLSTREAKS_SPECIALTY_QUICKDRAW_PICKUP
+LANG_ENGLISH        "Mantén [{+activate}] para ventaja: Desenfundado rápido."
+
+REFERENCE           SP_KILLSTREAKS_SPECIALTY_STALKER_PICKUP
+LANG_ENGLISH        "Mantén [{+activate}] para ventaja: Cazador."
+
+REFERENCE           SP_KILLSTREAKS_STEALTH_AIRSTRIKE_PICKUP
+LANG_ENGLISH        "Mantén [{+activate}] para un bombardero sigiloso."
+
+ENDMARKER

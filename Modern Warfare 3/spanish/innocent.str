@@ -1,0 +1,682 @@
+// Dumped from fastfile "innocent".
+// In their original format the strings might have been separated in multiple files.
+VERSION             "1"
+CONFIG              "C:/trees/cod3/cod3/bin/StringEd.cfg"
+FILENOTES           ""
+
+REFERENCE           INNOCENT_LINEFEED_1
+LANG_ENGLISH        "\"Vacaciones de la familia Davis\""
+
+REFERENCE           INNOCENT_LINEFEED_2
+LANG_ENGLISH        "Londres, tercer día"
+
+REFERENCE           INNOCENT_REC
+LANG_ENGLISH        "GRA"
+
+REFERENCE           LONDON_HINT_FLASHBANG
+LANG_ENGLISH        "Pulsa [{+smoke}] para lanzar cegadora."
+
+REFERENCE           LONDON_HINT_TRUCK_DOORS
+LANG_ENGLISH        "Mantén ^3[{+activate}]^7 para abrir."
+
+REFERENCE           LONDON_HINT_TRUCK_GETIN
+LANG_ENGLISH        "Mantén ^3[{+activate}]^7 para entrar."
+
+REFERENCE           LONDON_INTROSCREEN_LINE_1
+LANG_ENGLISH        "\"Cuidado con el hueco\""
+
+REFERENCE           LONDON_INTROSCREEN_LINE_2
+LANG_ENGLISH        "6 de octubre, 4:11:[{FAKE_INTRO_SECONDS:32}]"
+
+REFERENCE           LONDON_INTROSCREEN_LINE_3
+LANG_ENGLISH        "Sargento Marcus Burns"
+
+REFERENCE           LONDON_INTROSCREEN_LINE_4
+LANG_ENGLISH        "22º Regimiento del SAS"
+
+REFERENCE           LONDON_INTROSCREEN_LINE_5
+LANG_ENGLISH        "Canary Wharf, Londres"
+
+REFERENCE           LONDON_OBJECTIVE_ASSAULT_DOCKS
+LANG_ENGLISH        "Asalta los muelles"
+
+REFERENCE           LONDON_OBJECTIVE_CHASE_HOSTILES
+LANG_ENGLISH        "Persigue a los enemigos"
+
+REFERENCE           LONDON_OBJECTIVE_CHASE_HOSTILES_TO_STATION
+LANG_ENGLISH        "Persigue a los enemigos hasta la estación de tren"
+
+REFERENCE           LONDON_OBJECTIVE_CLEAR_STATION
+LANG_ENGLISH        "Despeja la estación de Westminster"
+
+REFERENCE           LONDON_OBJECTIVE_CLEAR_WAREHOUSE
+LANG_ENGLISH        "Despeja el almacén"
+
+REFERENCE           LONDON_OBJECTIVE_SECURE_TRUCK
+LANG_ENGLISH        "Asegura el camión"
+
+REFERENCE           LONDON_OBJECTIVE_SECURE_TRUCK_ICON
+LANG_ENGLISH        "Asegura"
+
+REFERENCE           LONDON_OBJECTIVE_SETUP_BLOCKADE
+LANG_ENGLISH        "Coloca una barricada"
+
+REFERENCE           LONDON_OBJECTIVE_STACK_UP
+LANG_ENGLISH        "Aprovisiónate en el almacén"
+
+REFERENCE           LONDON_OBJECTIVE_TRAIN_CHASE
+LANG_ENGLISH        "¡Alcanza al malo!"
+
+REFERENCE           LONDON_OBJECTIVE_TRAIN_STOP_TRAIN
+LANG_ENGLISH        "Detén el metro"
+
+REFERENCE           LONDON_OBJECTIVE_TRAIN_TAILGATE
+LANG_ENGLISH        "¡Llega al camión!"
+
+REFERENCE           LONDON_OBJECTIVE_TRUCK_DOOR
+LANG_ENGLISH        "Abre la puerta del camión"
+
+REFERENCE           LONDON_REC
+LANG_ENGLISH        "GRA"
+
+REFERENCE           LONDON_SUBWAY_CART_GOT_AWAY
+LANG_ENGLISH        "¡No pierdas el tren de vista!"
+
+REFERENCE           SUBTITLE_LONDON_B21_CHECKIT546
+LANG_ENGLISH        "^2Bravo 2-1: ^7¡Examínelo!"
+
+REFERENCE           SUBTITLE_LONDON_B21_CLEAR544
+LANG_ENGLISH        "^2Redgrave: ^7¡Despejado!"
+
+REFERENCE           SUBTITLE_LONDON_B21_LOCKDOWN535
+LANG_ENGLISH        "^2Bravo 2-1: ^7¡El camión llegará en cualquier momento! ¡Necesitamos bloquear esta carretera!"
+
+REFERENCE           SUBTITLE_LONDON_B21_SECURETHEAREA534
+LANG_ENGLISH        "^2Bravo 2-1: ^7¡Aseguren la zona!"
+
+REFERENCE           SUBTITLE_LONDON_B21_STAYSHARP547
+LANG_ENGLISH        "^2Bravo 2-1: ^7¡Mucho ojo!"
+
+REFERENCE           SUBTITLE_LONDON_B21_WEAPONSFREE540
+LANG_ENGLISH        "^2Bravo 2-1: ^7¡Ahí está el camión! ¡Pueden disparar!"
+
+REFERENCE           SUBTITLE_LONDON_COM_AWAITORDERS43
+LANG_ENGLISH        "^2Baseplate: ^7Recibido. Vulture 2-2, adelántese y revise las estaciones. Averigüe adónde se dirigen."
+
+REFERENCE           SUBTITLE_LONDON_COM_DEPLOYTEAMS55
+LANG_ENGLISH        "^2Baseplate: ^7Recibido, Bravo 6. Equipos en ruta. Llegarán en 10 minutos."
+
+REFERENCE           SUBTITLE_LONDON_COM_DOYOUCOPY437
+LANG_ENGLISH        "^2Baseplate: ^7Adelante, Bravo 6... Bravo 6, ¿me recibe?"
+
+REFERENCE           SUBTITLE_LONDON_COM_METROEXITS424
+LANG_ENGLISH        "^2Baseplate: ^7Bravo 6, todas las salidas desde su posición están en la ciudad. Cambio."
+
+REFERENCE           SUBTITLE_LONDON_COM_MISSIONISGO117
+LANG_ENGLISH        "^2Baseplate: ^7Recibido. Tienen todos permiso. Pueden proceder con la misión."
+
+REFERENCE           SUBTITLE_LONDON_COM_ONSCENE525
+LANG_ENGLISH        "^2Baseplate: ^7Están llegando justo ahora, Bravo 6."
+
+REFERENCE           SUBTITLE_LONDON_COM_RENDEVOUS442
+LANG_ENGLISH        "^2Baseplate: ^7Bravo 6, los camiones se dirigen hacia usted. Salga a la superficie y reúnase con Bravo 2."
+
+REFERENCE           SUBTITLE_LONDON_COM_STATUS440
+LANG_ENGLISH        "^2Baseplate: ^7Bravo 6, ¿cuál es su estado?"
+
+REFERENCE           SUBTITLE_LONDON_COM_STILLENROUTE517
+LANG_ENGLISH        "^2Baseplate: ^7La policía local está llegando. Bravo 2 estará ahí en 5 minutos."
+
+REFERENCE           SUBTITLE_LONDON_DLT1_OUTALLNIGHT112
+LANG_ENGLISH        "^2Baseplate: ^7Demasiado llamativo, Bravo 6. Los pájaros de Vulture proporcionarán apoyo aéreo."
+
+REFERENCE           SUBTITLE_LONDON_DLT1_READY219
+LANG_ENGLISH        "^2Griffin: ^7Listo."
+
+REFERENCE           SUBTITLE_LONDON_DLT2_GUYSAY18
+LANG_ENGLISH        "^2Wallcroft: ^7¿Nuestra fuente dice lo que transportan?"
+
+REFERENCE           SUBTITLE_LONDON_GFN_CLEAR2322
+LANG_ENGLISH        "^2Griffin: ^7¡Despejado!"
+
+REFERENCE           SUBTITLE_LONDON_GFN_CLEAR29
+LANG_ENGLISH        "^2Griffin: ^7Despejado."
+
+REFERENCE           SUBTITLE_LONDON_GFN_GOTASHADOW226
+LANG_ENGLISH        "^2Griffin: ^7Tengo movimiento delante."
+
+REFERENCE           SUBTITLE_LONDON_GFN_HANGON419
+LANG_ENGLISH        "^2Griffin: ^7¡Agárrense!"
+
+REFERENCE           SUBTITLE_LONDON_GFN_INONEPIECE413
+LANG_ENGLISH        "^2Griffin: ^7¡Silencio! ¡Seguimos de una pieza!"
+
+REFERENCE           SUBTITLE_LONDON_GFN_LOOKOUT357
+LANG_ENGLISH        "^2Griffin: ^7¡Cuidado!"
+
+REFERENCE           SUBTITLE_LONDON_GFN_MORNINGENTS231
+LANG_ENGLISH        "^2Griffin: ^7Buenas..."
+
+REFERENCE           SUBTITLE_LONDON_GFN_RPG339
+LANG_ENGLISH        "^2Vulture 2-2: ^7¡RPG!"
+
+REFERENCE           SUBTITLE_LONDON_GFN_SKIVIN48
+LANG_ENGLISH        "^2Griffin: ^7¡Esos cabrones no escaparán!"
+
+REFERENCE           SUBTITLE_LONDON_GFN_TOTHETUBE41
+LANG_ENGLISH        "^2Griffin: ^7¡Se repliegan en el metro!"
+
+REFERENCE           SUBTITLE_LONDON_GFN_TWELVE342
+LANG_ENGLISH        "^2Griffin: ^7¡A las 12!"
+
+REFERENCE           SUBTITLE_LONDON_GFN_YOUSLAG229
+LANG_ENGLISH        "^2Griffin: ^7Venga, vago. Suba ahí."
+
+REFERENCE           SUBTITLE_LONDON_HP2_BACKAROUND351
+LANG_ENGLISH        "^2Vulture 2-2: ^7Voy a dar la vuelta. Peligro cercano."
+
+REFERENCE           SUBTITLE_LONDON_HP2_ENGAGING344
+LANG_ENGLISH        "^2Vulture 2-2: ^7Recibido. Vamos a atacar."
+
+REFERENCE           SUBTITLE_LONDON_HP2_INBOUNDANDHOT426
+LANG_ENGLISH        "^2Vulture 2-2: ^7Tengo su posición y el blanco. Voy a disparar."
+
+REFERENCE           SUBTITLE_LONDON_HP2_MAINTAINSHADOW44
+LANG_ENGLISH        "^2Vulture 2-2: ^7Vulture 2-2. Me largo."
+
+REFERENCE           SUBTITLE_LONDON_HP2_PULLUP340
+LANG_ENGLISH        "^2Vulture 2-2: ^7¡Arriba! ¡Arriba!"
+
+REFERENCE           SUBTITLE_LONDON_HP2_TRUCKCOMING531
+LANG_ENGLISH        "^2Vulture 2-2: ^7Atención todos. El camión se dirige hacia ustedes y va armado."
+
+REFERENCE           SUBTITLE_LONDON_HP2_WEREONIT349
+LANG_ENGLISH        "^2Vulture 2-2: ^7Recibido. Voy a ametrallar."
+
+REFERENCE           SUBTITLE_LONDON_LDR_AIMFORDRIVER541
+LANG_ENGLISH        "^2Wallcroft: ^7¡Apunten al maldito conductor!"
+
+REFERENCE           SUBTITLE_LONDON_LDR_ALLCLEAR2321
+LANG_ENGLISH        "^2Wallcroft: ^7¿Despejado?"
+
+REFERENCE           SUBTITLE_LONDON_LDR_ALLCLEAR543
+LANG_ENGLISH        "^2Bravo 2-1: ^7¿Despejado?"
+
+REFERENCE           SUBTITLE_LONDON_LDR_ALLEYCLEAR22
+LANG_ENGLISH        "^2Wallcroft: ^7Callejón despejado."
+
+REFERENCE           SUBTITLE_LONDON_LDR_ALONGSIDE410
+LANG_ENGLISH        "^2Wallcroft: ^7¡Intente pasar por el lateral!"
+
+REFERENCE           SUBTITLE_LONDON_LDR_ALRIGHTCUTIT221
+LANG_ENGLISH        "^2Wallcroft: ^7Vale. Corte."
+
+REFERENCE           SUBTITLE_LONDON_LDR_AREACLEAR514
+LANG_ENGLISH        "^2Wallcroft: ^7¡Zona despejada!"
+
+REFERENCE           SUBTITLE_LONDON_LDR_ARSEINTRUCK47
+LANG_ENGLISH        "^2Wallcroft: ^7¡Suba al camión! ¡Se escapan!"
+
+REFERENCE           SUBTITLE_LONDON_LDR_ATBLOCKADE536
+LANG_ENGLISH        "^2Wallcroft: ^7¡Todos a la barricada! ¡Vamos!"
+
+REFERENCE           SUBTITLE_LONDON_LDR_BASTARD51
+LANG_ENGLISH        "^2Wallcroft: ^7¿Adónde cree que va?"
+
+REFERENCE           SUBTITLE_LONDON_LDR_BRAVO9ONTIME210
+LANG_ENGLISH        "^2Wallcroft: ^7Bravo 9, tiene dos detrás de la puerta."
+
+REFERENCE           SUBTITLE_LONDON_LDR_BRAVOSTATUS237
+LANG_ENGLISH        "^2Wallcroft: ^7Luz verde para todos. ¡Vamos!"
+
+REFERENCE           SUBTITLE_LONDON_LDR_BRITISHWELCOME57
+LANG_ENGLISH        "^2Wallcroft: ^7¡Vamos a dar la bienvenida a estos cabrones al estilo británico!"
+
+REFERENCE           SUBTITLE_LONDON_LDR_BURNSALRIGHT438
+LANG_ENGLISH        "^2Wallcroft: ^7Burns... ¿Está bien?"
+
+REFERENCE           SUBTITLE_LONDON_LDR_BURNSALRIGHT439
+LANG_ENGLISH        "^2Wallcroft: ^7Burns... Burns, ¿está bien?"
+
+REFERENCE           SUBTITLE_LONDON_LDR_BURNSHERENOW539
+LANG_ENGLISH        "^2Wallcroft: ^7¡Burns! ¡Mueva su culo aquí!"
+
+REFERENCE           SUBTITLE_LONDON_LDR_BURNSINTRUCK46
+LANG_ENGLISH        "^2Wallcroft: ^7¡Burns, métase en el camión!"
+
+REFERENCE           SUBTITLE_LONDON_LDR_BURNSONME537
+LANG_ENGLISH        "^2Wallcroft: ^7¡Burns, conmigo!"
+
+REFERENCE           SUBTITLE_LONDON_LDR_CHECKCORNERS258
+LANG_ENGLISH        "^2Wallcroft: ^7¡Ojo a las esquinas!"
+
+REFERENCE           SUBTITLE_LONDON_LDR_CHECKCORNERS3515
+LANG_ENGLISH        "^2Wallcroft: ^7¡Deprisa! ¡Deprisa!"
+
+REFERENCE           SUBTITLE_LONDON_LDR_CHECKTHOSECORNERS230
+LANG_ENGLISH        "^2Wallcroft: ^7Hay más a la vuelta de la esquina."
+
+REFERENCE           SUBTITLE_LONDON_LDR_CHEEKYBASTARDS522
+LANG_ENGLISH        "^2Wallcroft: ^7¡Cabrones atrevidos!"
+
+REFERENCE           SUBTITLE_LONDON_LDR_CIVVIESAHEAD422
+LANG_ENGLISH        "^2Wallcroft: ^7¡Cuidado! ¡Hay civiles delante!"
+
+REFERENCE           SUBTITLE_LONDON_LDR_CLEAR222
+LANG_ENGLISH        "^2Wallcroft: ^7Nada a la izquierda."
+
+REFERENCE           SUBTITLE_LONDON_LDR_CLEAR2545
+LANG_ENGLISH        "^2Wallcroft: ^7¡Despejado!"
+
+REFERENCE           SUBTITLE_LONDON_LDR_CLEARMOVEUP510
+LANG_ENGLISH        "^2Wallcroft: ^7¡Despejado!"
+
+REFERENCE           SUBTITLE_LONDON_LDR_COPYTHAT3346
+LANG_ENGLISH        "^2Wallcroft: ^7¡Equipo, vayan por los edificios!"
+
+REFERENCE           SUBTITLE_LONDON_LDR_CUTIT220
+LANG_ENGLISH        "^2Wallcroft: ^7Démonos prisa."
+
+REFERENCE           SUBTITLE_LONDON_LDR_DONTLETESCAPE38
+LANG_ENGLISH        "^2Wallcroft: ^7¡Deprisa!"
+
+REFERENCE           SUBTITLE_LONDON_LDR_DONTLETUP39
+LANG_ENGLISH        "^2Wallcroft: ^7¡Avanzamos!"
+
+REFERENCE           SUBTITLE_LONDON_LDR_DOUBLETIME56
+LANG_ENGLISH        "^2Wallcroft: ^7¡Dígales que se den prisa!"
+
+REFERENCE           SUBTITLE_LONDON_LDR_DROPEM250
+LANG_ENGLISH        "^2Wallcroft: ^7¡Elimínenlos!"
+
+REFERENCE           SUBTITLE_LONDON_LDR_EXITTOPSIDE524
+LANG_ENGLISH        "^2Wallcroft: ^7¡Baseplate, los enemigos intentan salir de aquí! ¿Dónde está Bravo 2?"
+
+REFERENCE           SUBTITLE_LONDON_LDR_EYESOPEN115
+LANG_ENGLISH        "^2Wallcroft: ^7Mi equipo tomará el almacén 1. Bravo 9 se ocupará del otro."
+
+REFERENCE           SUBTITLE_LONDON_LDR_FIREFROMWEST350
+LANG_ENGLISH        "^2Wallcroft: ^7¡Vulture 2, nos acribillan desde el oeste! ¡Necesito que les dé otro repaso!"
+
+REFERENCE           SUBTITLE_LONDON_LDR_FLEEING34
+LANG_ENGLISH        "^2Wallcroft: ^7¡Despliéguense!"
+
+REFERENCE           SUBTITLE_LONDON_LDR_FOCUSONTRUCKS13
+LANG_ENGLISH        "^2Wallcroft: ^7Je. Qué forma de hacer caridad más rara."
+
+REFERENCE           SUBTITLE_LONDON_LDR_FORMYMATES512
+LANG_ENGLISH        "^2Wallcroft: ^7¡Gilipollas!"
+
+REFERENCE           SUBTITLE_LONDON_LDR_FROSTLETSGO310
+LANG_ENGLISH        "^2Wallcroft: ^7¡Burns, vamos!"
+
+REFERENCE           SUBTITLE_LONDON_LDR_GETDOORSOPEN332
+LANG_ENGLISH        "^2Wallcroft: ^7¡Burns! ¡Que abra las puertas!"
+
+REFERENCE           SUBTITLE_LONDON_LDR_GETDOWNHERE32
+LANG_ENGLISH        "^2Wallcroft: ^7¡Burns! Baje aquí. ¡Vamos!"
+
+REFERENCE           SUBTITLE_LONDON_LDR_GETINFRONT415
+LANG_ENGLISH        "^2Wallcroft: ^7¡Bravo 9, adelántese a ese cabrón y cárguese al que vaya conduciendo!"
+
+REFERENCE           SUBTITLE_LONDON_LDR_GETPEOPLEBACK533
+LANG_ENGLISH        "^2Wallcroft: ^7¡Aparten a esa gente! ¡Atrás!"
+
+REFERENCE           SUBTITLE_LONDON_LDR_GETTHEM36
+LANG_ENGLISH        "^2Wallcroft: ^7¡Sigan así!"
+
+REFERENCE           SUBTITLE_LONDON_LDR_GETTOWORK118
+LANG_ENGLISH        "^2Wallcroft: ^7Muy bien. Manos a la obra."
+
+REFERENCE           SUBTITLE_LONDON_LDR_GETYOURARSE218
+LANG_ENGLISH        "^2Wallcroft: ^7Mueva su culo aquí, Burns. ¡Vamos!"
+
+REFERENCE           SUBTITLE_LONDON_LDR_GOGO352
+LANG_ENGLISH        "^2Wallcroft: ^7¡Vamos! ¡Vamos!"
+
+REFERENCE           SUBTITLE_LONDON_LDR_GOGOGO21
+LANG_ENGLISH        "^2Wallcroft: ^7Vamos, vamos."
+
+REFERENCE           SUBTITLE_LONDON_LDR_GOGOGO2246
+LANG_ENGLISH        "^2Wallcroft: ^7¡Vamos, vamos!"
+
+REFERENCE           SUBTITLE_LONDON_LDR_GOINGTOESCAPE313
+LANG_ENGLISH        "^2Wallcroft: ^7Burns, van a escapar. ¡Vamos!"
+
+REFERENCE           SUBTITLE_LONDON_LDR_GOQUIET28
+LANG_ENGLISH        "^2Wallcroft: ^7En silencio."
+
+REFERENCE           SUBTITLE_LONDON_LDR_GRENADE2521
+LANG_ENGLISH        "^2Wallcroft: ^7¡Granada!"
+
+REFERENCE           SUBTITLE_LONDON_LDR_GRINCHUP236
+LANG_ENGLISH        "^2Sierra 1: ^7Perímetro exterior seguro. "
+
+REFERENCE           SUBTITLE_LONDON_LDR_HARDLUCK329
+LANG_ENGLISH        "^2Wallcroft: ^7Burns, ábralas."
+
+REFERENCE           SUBTITLE_LONDON_LDR_HOLDINGUSBACK312
+LANG_ENGLISH        "^2Wallcroft: ^7¡Nos está frenando, Burns!"
+
+REFERENCE           SUBTITLE_LONDON_LDR_HOLDON2436
+LANG_ENGLISH        "^2Wallcroft: ^7¡Agárrense!"
+
+REFERENCE           SUBTITLE_LONDON_LDR_HOLDON49
+LANG_ENGLISH        "^2Wallcroft: ^7¡Agárrense!"
+
+REFERENCE           SUBTITLE_LONDON_LDR_HOLDYOURFIRE542
+LANG_ENGLISH        "^2Bravo 2-1: ^7¡Alto el fuego! ¡Alto el fuego!"
+
+REFERENCE           SUBTITLE_LONDON_LDR_HOSTILESDOWN355
+LANG_ENGLISH        "^2Wallcroft: ^7¡Enemigos fuera!"
+
+REFERENCE           SUBTITLE_LONDON_LDR_INTHETRUCKS45
+LANG_ENGLISH        "^2Wallcroft: ^7Todos a los camiones. ¡Vamos!"
+
+REFERENCE           SUBTITLE_LONDON_LDR_KEEPEMSILENT26
+LANG_ENGLISH        "^2Wallcroft: ^7Asegúrense de que no se despierten."
+
+REFERENCE           SUBTITLE_LONDON_LDR_KEEPFIRING418
+LANG_ENGLISH        "^2Wallcroft: ^7¡Burns! ¡Siga disparando!"
+
+REFERENCE           SUBTITLE_LONDON_LDR_KEEPITSILENT27
+LANG_ENGLISH        "^2Wallcroft: ^7No hagan ruido."
+
+REFERENCE           SUBTITLE_LONDON_LDR_KEEPMOVING2354
+LANG_ENGLISH        "^2Wallcroft: ^7¡Avancen!"
+
+REFERENCE           SUBTITLE_LONDON_LDR_KEEPPUSHING519
+LANG_ENGLISH        "^2Wallcroft: ^7¡Siga así! ¡Retroceden!"
+
+REFERENCE           SUBTITLE_LONDON_LDR_KEEPSTEADY414
+LANG_ENGLISH        "^2Wallcroft: ^7¡Manténgalo firme!"
+
+REFERENCE           SUBTITLE_LONDON_LDR_KEEPUSCOVERED348
+LANG_ENGLISH        "^2Wallcroft: ^7¡Vulture 2, cúbranos!"
+
+REFERENCE           SUBTITLE_LONDON_LDR_LETSGO2245
+LANG_ENGLISH        "^2Wallcroft: ^7¡Vamos!"
+
+REFERENCE           SUBTITLE_LONDON_LDR_LETSGO248
+LANG_ENGLISH        "^2Wallcroft: ^7¡Vamos!"
+
+REFERENCE           SUBTITLE_LONDON_LDR_LETSGOBURNS532
+LANG_ENGLISH        "^2Wallcroft: ^7¡Vamos, Burns!"
+
+REFERENCE           SUBTITLE_LONDON_LDR_LIGHTEMUP523
+LANG_ENGLISH        "^2Wallcroft: ^7¡Cárgueselos!"
+
+REFERENCE           SUBTITLE_LONDON_LDR_LIGHTITUPMATE427
+LANG_ENGLISH        "^2Wallcroft: ^7¡Fríalo, colega!"
+
+REFERENCE           SUBTITLE_LONDON_LDR_LITTLECLOSE412
+LANG_ENGLISH        "^2Wallcroft: ^7¡Por los pelos, colega!"
+
+REFERENCE           SUBTITLE_LONDON_LDR_LORRIES548
+LANG_ENGLISH        "^2Wallcroft: ^7Baseplate, furgón abatido. Zona segura. ¿Cuál es el estado del resto?"
+
+REFERENCE           SUBTITLE_LONDON_LDR_MOVE233
+LANG_ENGLISH        "^2Wallcroft: ^7Vamos."
+
+REFERENCE           SUBTITLE_LONDON_LDR_MOVEIT247
+LANG_ENGLISH        "^2Wallcroft: ^7¡Deprisa!"
+
+REFERENCE           SUBTITLE_LONDON_LDR_MOVEMOVE244
+LANG_ENGLISH        "^2Wallcroft: ^7¡Vamos! ¡Vamos!"
+
+REFERENCE           SUBTITLE_LONDON_LDR_MOVEUPFROST314
+LANG_ENGLISH        "^2Wallcroft: ^7¡Burns, deprisa!"
+
+REFERENCE           SUBTITLE_LONDON_LDR_NICETIMING528
+LANG_ENGLISH        "^2Wallcroft: ^7¡Justo a tiempo!"
+
+REFERENCE           SUBTITLE_LONDON_LDR_NICKEDWEAPONS335
+LANG_ENGLISH        "^2Wallcroft: ^7Baseplate, el furgón está vacío. ¿Cuál es el estado del resto?"
+
+REFERENCE           SUBTITLE_LONDON_LDR_NOTGOINGANYWHERE52
+LANG_ENGLISH        "^2Wallcroft: ^7No va a ir a ninguna parte."
+
+REFERENCE           SUBTITLE_LONDON_LDR_NOTHINGWECANDO443
+LANG_ENGLISH        "^2Wallcroft: ^7Recibido. Burns, parece que solo quedamos nosotros. "
+
+REFERENCE           SUBTITLE_LONDON_LDR_ONFOOT31
+LANG_ENGLISH        "^2Wallcroft: ^7¡Sierra 1, vamos a pie! ¡Cúbranos!"
+
+REFERENCE           SUBTITLE_LONDON_LDR_ONME213
+LANG_ENGLISH        "^2Wallcroft: ^7A por ellos."
+
+REFERENCE           SUBTITLE_LONDON_LDR_OPENDOORS330
+LANG_ENGLISH        "^2Wallcroft: ^7Burns, abra las puertas."
+
+REFERENCE           SUBTITLE_LONDON_LDR_OPENFIRE251
+LANG_ENGLISH        "^2Wallcroft: ^7¡Fuego!"
+
+REFERENCE           SUBTITLE_LONDON_LDR_PASSSELECTION252
+LANG_ENGLISH        "^2Wallcroft: ^7¿Cómo cojones superó la instrucción?"
+
+REFERENCE           SUBTITLE_LONDON_LDR_PERIMETERSECURE324
+LANG_ENGLISH        "^2Wallcroft: ^7Bien. ¡Fijen un perímetro!"
+
+REFERENCE           SUBTITLE_LONDON_LDR_PINNEDDOWN417
+LANG_ENGLISH        "^2Wallcroft: ^7¡Inmovilícenlos!"
+
+REFERENCE           SUBTITLE_LONDON_LDR_PRESSUREON35
+LANG_ENGLISH        "^2Wallcroft: ^7¡Cúbranme!"
+
+REFERENCE           SUBTITLE_LONDON_LDR_PURSUING42
+LANG_ENGLISH        "^2Wallcroft: ^7Baseplate, los enemigos están entrando en el metro. ¡Los perseguimos a pie!"
+
+REFERENCE           SUBTITLE_LONDON_LDR_PUSHUP353
+LANG_ENGLISH        "^2Wallcroft: ^7¡Adelante!"
+
+REFERENCE           SUBTITLE_LONDON_LDR_READYTOROCK116
+LANG_ENGLISH        "^2Wallcroft: ^7Baseplate, nuestra ventana se cierra. Estamos listos para empezar."
+
+REFERENCE           SUBTITLE_LONDON_LDR_ROLLINGOUT111
+LANG_ENGLISH        "^2Wallcroft: ^7¿Por qué no envían un Spectre y mandan todo al fondo del río?"
+
+REFERENCE           SUBTITLE_LONDON_LDR_ROOMCLEAR224
+LANG_ENGLISH        "^2Wallcroft: ^7Sala despejada."
+
+REFERENCE           SUBTITLE_LONDON_LDR_SCRAPMETAL2441
+LANG_ENGLISH        "^2Wallcroft: ^7El tren está detenido bajo Westminster. Esos cabrones lo usaban como transporte."
+
+REFERENCE           SUBTITLE_LONDON_LDR_SETSECURITY325
+LANG_ENGLISH        "^2Wallcroft: ^7¡Aseguren la zona!"
+
+REFERENCE           SUBTITLE_LONDON_LDR_SOMETHINGBIG110
+LANG_ENGLISH        "^2Baseplate: ^7La información dice que el envío viene de VIP extranjeros. Atención: uno de los camiones sigue en el muelle."
+
+REFERENCE           SUBTITLE_LONDON_LDR_SORTTHESEMUGS356
+LANG_ENGLISH        "^2Wallcroft: ^7¡Acaben con ellos!"
+
+REFERENCE           SUBTITLE_LONDON_LDR_SQUADONME240
+LANG_ENGLISH        "^2Wallcroft: ^7Pelotón, conmigo."
+
+REFERENCE           SUBTITLE_LONDON_LDR_STACKUP215
+LANG_ENGLISH        "^2Wallcroft: ^7Vamos."
+
+REFERENCE           SUBTITLE_LONDON_LDR_STACKUPBURNS538
+LANG_ENGLISH        "^2Wallcroft: ^7¡Venga aquí, Burns!  "
+
+REFERENCE           SUBTITLE_LONDON_LDR_STACKUPDOOR216
+LANG_ENGLISH        "^2Wallcroft: ^7Burns, diríjase a la puerta."
+
+REFERENCE           SUBTITLE_LONDON_LDR_STACKUPLETSGO217
+LANG_ENGLISH        "^2Wallcroft: ^7¿Está sordo? Diríjase a la puerta."
+
+REFERENCE           SUBTITLE_LONDON_LDR_STAYONEM421
+LANG_ENGLISH        "^2Wallcroft: ^7¡No los pierda!"
+
+REFERENCE           SUBTITLE_LONDON_LDR_STILLFALLINGBACK37
+LANG_ENGLISH        "^2Wallcroft: ^7¡Tango abatido!"
+
+REFERENCE           SUBTITLE_LONDON_LDR_STILLKICKIN429
+LANG_ENGLISH        "^2Wallcroft: ^7¿Por qué sigue respirando el conductor?"
+
+REFERENCE           SUBTITLE_LONDON_LDR_STOPLARKIN518
+LANG_ENGLISH        "^2Wallcroft: ^7¡Grnn! ¡Nada tarda 5 minutos!"
+
+REFERENCE           SUBTITLE_LONDON_LDR_STOPTRAINNOW2431
+LANG_ENGLISH        "^2Wallcroft: ^7¡Esta línea va directa a Westminster! Hay que detener esto. ¡Ya!"
+
+REFERENCE           SUBTITLE_LONDON_LDR_TAKEEMDOWN249
+LANG_ENGLISH        "^2Wallcroft: ^7¡A por ellos!"
+
+REFERENCE           SUBTITLE_LONDON_LDR_TAKEPOINT227
+LANG_ENGLISH        "^2Wallcroft: ^7Burns, adelántese."
+
+REFERENCE           SUBTITLE_LONDON_LDR_TANGOSONCATWALK343
+LANG_ENGLISH        "^2Wallcroft: ^7¡Tangos en la pasarela! ¡Vulture 2, elimínelos!"
+
+REFERENCE           SUBTITLE_LONDON_LDR_THATSFORMYMATES53
+LANG_ENGLISH        "^2Wallcroft: ^7Eso es por mis compañeros."
+
+REFERENCE           SUBTITLE_LONDON_LDR_THEFUZZ527
+LANG_ENGLISH        "^2Wallcroft: ^7¡Alto el fuego! ¡Alto el fuego!"
+
+REFERENCE           SUBTITLE_LONDON_LDR_THROUGHHERE511
+LANG_ENGLISH        "^2Wallcroft: ^7Por aquí. ¡Vamos!"
+
+REFERENCE           SUBTITLE_LONDON_LDR_THROUGHTUBE423
+LANG_ENGLISH        "^2Wallcroft: ^7Baseplate, seguimos a los enemigos por el metro. ¡Necesitamos saber adónde se dirigen!"
+
+REFERENCE           SUBTITLE_LONDON_LDR_THROWFLASH513
+LANG_ENGLISH        "^2Wallcroft: ^7¡Son demasiados! ¡Tire una cegadora!"
+
+REFERENCE           SUBTITLE_LONDON_LDR_TRUCKSAREMOVIN15
+LANG_ENGLISH        "^2Baseplate: ^7Los camiones están saliendo del muelle."
+
+REFERENCE           SUBTITLE_LONDON_LDR_UPSTAIRS225
+LANG_ENGLISH        "^2Wallcroft: ^7Por las escaleras."
+
+REFERENCE           SUBTITLE_LONDON_LDR_UPTHESTAIRS520
+LANG_ENGLISH        "^2Wallcroft: ^7¡Por las escaleras!"
+
+REFERENCE           SUBTITLE_LONDON_LDR_USINGTHETUBE54
+LANG_ENGLISH        "^2Wallcroft: ^7¡Baseplate, contacto en la estación de Westminster!"
+
+REFERENCE           SUBTITLE_LONDON_LDR_WAITINGFOR311
+LANG_ENGLISH        "^2Wallcroft: ^7Burns, ¿a qué está esperando?"
+
+REFERENCE           SUBTITLE_LONDON_LDR_WATCHFORCIVVIES59
+LANG_ENGLISH        "^2Wallcroft: ^7¡Ojo con los civiles!  "
+
+REFERENCE           SUBTITLE_LONDON_LDR_WEAPONSFREE24
+LANG_ENGLISH        "^2Wallcroft: ^7Pueden disparar."
+
+REFERENCE           SUBTITLE_LONDON_LDR_WHEREARETRUCKS549
+LANG_ENGLISH        "^2Wallcroft: ^7Baseplate, adelante. Baseplate, ¿dónde están los camiones?"
+
+REFERENCE           SUBTITLE_LONDON_LDR_WHEREAREYOU425
+LANG_ENGLISH        "^2Wallcroft: ^7Vulture 2, ¿dónde mierda está?"
+
+REFERENCE           SUBTITLE_LONDON_LDR_WHERESBACKUP516
+LANG_ENGLISH        "^2Wallcroft: ^7¡Baseplate! ¿Dónde está el apoyo?"
+
+REFERENCE           SUBTITLE_LONDON_LDR_WILCO113
+LANG_ENGLISH        "^2Wallcroft: ^7Acabemos de una vez con este asunto."
+
+REFERENCE           SUBTITLE_LONDON_LDR_YOUCLEAN23
+LANG_ENGLISH        "^2Wallcroft: ^7Tenemos el almacén delante. Haremos un barrido. Despéjelo, Burns."
+
+REFERENCE           SUBTITLE_LONDON_LDR_YOUDIM331
+LANG_ENGLISH        "^2Wallcroft: ^7¿Está sordo? He dicho que abra las puertas."
+
+REFERENCE           SUBTITLE_LONDON_LDR_YOUREUP228
+LANG_ENGLISH        "^2Wallcroft: ^7Le toca, Burns. Adelántese."
+
+REFERENCE           SUBTITLE_LONDON_MYR_CONTACT338
+LANG_ENGLISH        "^2Meyers: ^7¡Contacto!"
+
+REFERENCE           SUBTITLE_LONDON_MYR_THATWASCLOSE253
+LANG_ENGLISH        "^2Meyers: ^7¡Mierda! ¡Por poco!"
+
+REFERENCE           SUBTITLE_LONDON_SAS1_SIR529
+LANG_ENGLISH        "^2SAS Soldier: ^7¡El camión casi está aquí! ¡Deberían subir!"
+
+REFERENCE           SUBTITLE_LONDON_SAS2_PIERCEISDOWN434
+LANG_ENGLISH        "^2SAS Soldier: ^7¡Hombre abatido! Hombre..."
+
+REFERENCE           SUBTITLE_LONDON_SASL_CANTGETASHOT430
+LANG_ENGLISH        "^2Bravo 9 Leader: ^7¡No puedo disparar!"
+
+REFERENCE           SUBTITLE_LONDON_SASL_COPY211
+LANG_ENGLISH        "^2Bravo 9 Leader: ^7Recibido."
+
+REFERENCE           SUBTITLE_LONDON_SASL_COPYTHAT416
+LANG_ENGLISH        "^2Bravo 9 Leader: ^7¡Recibido!"
+
+REFERENCE           SUBTITLE_LONDON_SASL_GOTCOMPANY341
+LANG_ENGLISH        "^2Wallcroft: ^7¡Deprisa! ¡Deprisa!"
+
+REFERENCE           SUBTITLE_LONDON_SASL_INCOMINGTRAIN411
+LANG_ENGLISH        "^2Bravo 9 Leader: ^7¡Viene un tren! ¡A la derecha! ¡Derecha!"
+
+REFERENCE           SUBTITLE_LONDON_SASL_INPOSITIONMATE238
+LANG_ENGLISH        "^2Bravo 9 Leader: ^7Equipo 2, adentro."
+
+REFERENCE           SUBTITLE_LONDON_SASL_PUNCHINIT432
+LANG_ENGLISH        "^2Bravo 9 Leader: ^7¡Agárrense! ¡Voy a darle!"
+
+REFERENCE           SUBTITLE_LONDON_SASL_SEETHEDRIVER433
+LANG_ENGLISH        "^2Bravo 9 Leader: ^7¡Veo al conductor! Voy a dis..."
+
+REFERENCE           SUBTITLE_LONDON_SASL_SHIT420
+LANG_ENGLISH        "^2Bravo 9 Leader: ^7¡Mierda!"
+
+REFERENCE           SUBTITLE_LONDON_SPT_RPGLOOSE242
+LANG_ENGLISH        "^2Griffin: ^7¡RPG en camino!"
+
+REFERENCE           SUBTITLE_LONDON_SPT_SENDTHEM235
+LANG_ENGLISH        "^2Sierra 1: ^7Listo."
+
+REFERENCE           SUBTITLE_LONDON_SPT_TAKINGTHESHOT234
+LANG_ENGLISH        "^2Sierra 1: ^7Bravo 6, aquí Sierra 1. Tiene 2 enemigos en el piso de arriba. Voy a disparar."
+
+REFERENCE           SUBTITLE_LONDON_SR1_CARS316
+LANG_ENGLISH        "^2Sierra 1: ^7Bravo 6, tiene enemigos cerca de los coches."
+
+REFERENCE           SUBTITLE_LONDON_SR1_CONTAINERS319
+LANG_ENGLISH        "^2Sierra 1: ^7Bravo 6, tiene un enemigo junto a los contenedores."
+
+REFERENCE           SUBTITLE_LONDON_SR1_ONYOUROWN347
+LANG_ENGLISH        "^2Sierra 1: ^7Cambio a posición secundaria."
+
+REFERENCE           SUBTITLE_LONDON_SR1_ROGERBOSS33
+LANG_ENGLISH        "^2Sierra 1: ^7¡Recibido! ¡Vamos por delante!"
+
+REFERENCE           SUBTITLE_LONDON_SR1_THROUGHBUILDINGS345
+LANG_ENGLISH        "^2Sierra 1: ^7Bravo 6, ahí abajo hay muchos enemigos. Le recomiendo que cruce por los edificios."
+
+REFERENCE           SUBTITLE_LONDON_SR1_THRUBUILDINGS315
+LANG_ENGLISH        "^2Sierra 1: ^7Bravo 6, Sierra 1. Todo despejado."
+
+REFERENCE           SUBTITLE_LONDON_SR1_TRUCK320
+LANG_ENGLISH        "^2Sierra 1: ^7Enemigos junto al camión."
+
+REFERENCE           SUBTITLE_LONDON_SR1_WAREHOUSE317
+LANG_ENGLISH        "^2Sierra 1: ^7Bravo 6, tiene un enemigo cerca del almacén."
+
+REFERENCE           SUBTITLE_LONDON_TRK_10METERS212
+LANG_ENGLISH        "^2Griffin: ^7Dos blancos en el callejón. A 10 metros."
+
+REFERENCE           SUBTITLE_LONDON_TRK_ALLEYCLEAR214
+LANG_ENGLISH        "^2Griffin: ^7Callejón despejado."
+
+REFERENCE           SUBTITLE_LONDON_TRK_CLEAR223
+LANG_ENGLISH        "^2Griffin: ^7Nada a la derecha."
+
+REFERENCE           SUBTITLE_LONDON_TRK_DOZIN25
+LANG_ENGLISH        "^2Griffin: ^7Tengo dos más dentro."
+
+REFERENCE           SUBTITLE_LONDON_TRK_PACKINHEAT114
+LANG_ENGLISH        "^2Baseplate: ^7El FLIR detecta patrones térmicos en los almacenes. Tendrán que despejar esos edificios antes de asegurar el camión."
+
+REFERENCE           SUBTITLE_LONDON_TRK_ROOMCLEAR232
+LANG_ENGLISH        "^2Griffin: ^7Sala despejada."
+
+REFERENCE           SUBTITLE_LONDON_TRK_WHATTHEHELL243
+LANG_ENGLISH        "^2Wallcroft: ^7Por el cristal."
+
+ENDMARKER

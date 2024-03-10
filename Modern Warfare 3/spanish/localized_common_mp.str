@@ -1,0 +1,370 @@
+// Dumped from fastfile "localized_common_mp".
+// In their original format the strings might have been separated in multiple files.
+VERSION             "1"
+CONFIG              "C:/trees/cod3/cod3/bin/StringEd.cfg"
+FILENOTES           ""
+
+REFERENCE           AC130_CIVILIAN_FIRE
+LANG_ENGLISH        "¡Has herido a un civil! Misión fallida."
+
+REFERENCE           AC130_CIVILIAN_FIRE_VEHICLE
+LANG_ENGLISH        "¡Has atacado un vehículo civil! Misión fallida."
+
+REFERENCE           AC130_DEBUG_FRIENDLY_COUNT
+LANG_ENGLISH        "Aliados: &&1"
+
+REFERENCE           AC130_DO_NOT_ENGAGE
+LANG_ENGLISH        "No tienes permiso para disparar. Misión fallida."
+
+REFERENCE           AC130_FRIENDLIES_DEAD
+LANG_ENGLISH        "Han muerto demasiados aliados. Misión fallida."
+
+REFERENCE           AC130_FRIENDLY_FIRE
+LANG_ENGLISH        "¡El fuego amigo no será tolerado!\n¡Atento a los diamantes blancos de las unidades aliadas!"
+
+REFERENCE           AC130_FRIENDLY_FIRE_HELICOPTER
+LANG_ENGLISH        "¡Has atacado a un helicóptero aliado!"
+
+REFERENCE           AC130_HINT_CYCLE_WEAPONS
+LANG_ENGLISH        "Pulsa ^3[{weapnext}]^7 para alternar entre las armas disponibles."
+
+REFERENCE           AC130_HINT_ENHANCED_VISION
+LANG_ENGLISH        "Pulsa ^3[{+activate}]^7 para activar las imágenes mejoradas."
+
+REFERENCE           AC130_HINT_THERMAL_VISION
+LANG_ENGLISH        "Pulsa ^3[{+activate}]^7 para activar el FLIR."
+
+REFERENCE           AC130_HINT_USE_25_MOVING
+LANG_ENGLISH        "Pulsa ^3[{weapnext}]^7 para cambiar al 25 mm para blancos móviles."
+
+REFERENCE           AC130_HINT_USE_40_OR_105
+LANG_ENGLISH        "Cambia al cañón de 40 o al de 105 mm para destruir el blanco."
+
+REFERENCE           AC130_HINT_ZOOM
+LANG_ENGLISH        "Mueve hacia delante o hacia atrás para ajustar el zoom."
+
+REFERENCE           AC130_HUD_AGL
+LANG_ENGLISH        "&&1 AGL"
+
+REFERENCE           AC130_HUD_AMMO
+LANG_ENGLISH        "MUNI."
+
+REFERENCE           AC130_HUD_BOTTOM_BLOCK
+LANG_ENGLISH        "L1514    RDY"
+
+REFERENCE           AC130_HUD_COLON
+LANG_ENGLISH        ":"
+
+REFERENCE           AC130_HUD_FLIR
+LANG_ENGLISH        "FLIR"
+
+REFERENCE           AC130_HUD_LEFT_BLOCK
+LANG_ENGLISH        "RAY\nFF 30\nLIR\n\nBORE"
+
+REFERENCE           AC130_HUD_LOCK_ON
+LANG_ENGLISH        "ALERTA DE MISIL"
+
+REFERENCE           AC130_HUD_OPTICS
+LANG_ENGLISH        "OPT"
+
+REFERENCE           AC130_HUD_PERIOD
+LANG_ENGLISH        "."
+
+REFERENCE           AC130_HUD_RECORDING
+LANG_ENGLISH        "REC"
+
+REFERENCE           AC130_HUD_RELOADING
+LANG_ENGLISH        "RECARGANDO"
+
+REFERENCE           AC130_HUD_RIGHT_BLOCK
+LANG_ENGLISH        "N\nT\n\nS\nF\n\nQ\nZ\n\nT\nG\nT"
+
+REFERENCE           AC130_HUD_RIGHT_BLOCK_SHORT
+LANG_ENGLISH        "N\nT\n\nS\nF\n\nQ\nZ"
+
+REFERENCE           AC130_HUD_THERMAL_BHOT
+LANG_ENGLISH        "BHOT"
+
+REFERENCE           AC130_HUD_THERMAL_WHOT
+LANG_ENGLISH        "WHOT"
+
+REFERENCE           AC130_HUD_TOP_BAR
+LANG_ENGLISH        "\n0         A-G        MAN    NARO"
+
+REFERENCE           AC130_HUD_WEAPON_105MM
+LANG_ENGLISH        "105 MM"
+
+REFERENCE           AC130_HUD_WEAPON_25MM
+LANG_ENGLISH        "25 MM"
+
+REFERENCE           AC130_HUD_WEAPON_40MM
+LANG_ENGLISH        "40 MM"
+
+REFERENCE           AC130_HUD_ZOOM
+LANG_ENGLISH        "x"
+
+REFERENCE           AC130_OBJECTIVE_SUPPORT_FRIENDLIES
+LANG_ENGLISH        "Proporciona apoyo aéreo con AC-130 a las unidades terrestres aliadas del SAS"
+
+REFERENCE           AC130_RELOADING
+LANG_ENGLISH        "Recargando"
+
+REFERENCE           CGAME_COMPLAINTDISMISSED
+LANG_ENGLISH        "Queja desestimada"
+
+REFERENCE           CGAME_COMPLAINTFILED
+LANG_ENGLISH        "Tu queja ha sido archivada"
+
+REFERENCE           CGAME_COMPLAINTSERVERHOST
+LANG_ENGLISH        "No puede haber quejas contra el host del servidor"
+
+REFERENCE           CGAME_COMPLAINTTEAMKILLFILE
+LANG_ENGLISH        "¿Quieres enviar una queja contra &&1 por matar a los de su equipo?"
+
+REFERENCE           CGAME_CONNECTIONINTERUPTED
+LANG_ENGLISH        "Conexión interrumpida"
+
+REFERENCE           CGAME_CONTINUE_SAVING
+LANG_ENGLISH        "Guardar y salir"
+
+REFERENCE           CGAME_CRUSH
+LANG_ENGLISH        "aplastado"
+
+REFERENCE           CGAME_DIED
+LANG_ENGLISH        "muerto"
+
+REFERENCE           CGAME_DROWN
+LANG_ENGLISH        "ahogado"
+
+REFERENCE           CGAME_FALLING
+LANG_ENGLISH        "caída"
+
+REFERENCE           CGAME_FOLLOWING
+LANG_ENGLISH        "ESPECTADOR"
+
+REFERENCE           CGAME_FOR
+LANG_ENGLISH        "para"
+
+REFERENCE           CGAME_HEAD_SHOT
+LANG_ENGLISH        "tiro a la cabeza"
+
+REFERENCE           CGAME_HEALTH
+LANG_ENGLISH        "Salud"
+
+REFERENCE           CGAME_MELEE
+LANG_ENGLISH        "cuerpo a cuerpo"
+
+REFERENCE           CGAME_MISSIONOBJECTIVES
+LANG_ENGLISH        "OBJETIVOS MISIÓN"
+
+REFERENCE           CGAME_NO
+LANG_ENGLISH        "NO"
+
+REFERENCE           CGAME_NOSPECTATORVOICECHAT
+LANG_ENGLISH        "Un espectador no puede usar la charla de voz."
+
+REFERENCE           CGAME_NOW_SAVING
+LANG_ENGLISH        "Guardando..."
+
+REFERENCE           CGAME_OBJECTIVE_ABOVE
+LANG_ENGLISH        "Objetivo encima"
+
+REFERENCE           CGAME_OBJECTIVE_BELOW
+LANG_ENGLISH        "Objetivo debajo"
+
+REFERENCE           CGAME_OBJECTIVE_FOLLOWTEXT_DEFAULT
+LANG_ENGLISH        "Sigue"
+
+REFERENCE           CGAME_PAUSED
+LANG_ENGLISH        "Pausa"
+
+REFERENCE           CGAME_PLAYERRENAMES
+LANG_ENGLISH        "cambiado de nombre a"
+
+REFERENCE           CGAME_PRESSYESNO
+LANG_ENGLISH        "Pulsa '&&1' para Sí o '&&2' para No"
+
+REFERENCE           CGAME_PRONE_BLOCKED
+LANG_ENGLISH        "Cuerpo a tierra bloqueado"
+
+REFERENCE           CGAME_PRONE_BLOCKED_WEAPON
+LANG_ENGLISH        "No puedes tumbarte con esta arma"
+
+REFERENCE           CGAME_RESTART_WARNING
+LANG_ENGLISH        "Si reinicias ahora, se perderán todos \nlos progresos realizados \nen esta misión\n\n¿Quieres seguir con el reinicio?"
+
+REFERENCE           CGAME_SAVE_VICTORY
+LANG_ENGLISH        "¿Quieres guardar los progresos del juego?"
+
+REFERENCE           CGAME_SAVE_WARNING
+LANG_ENGLISH        "Si guardas ahora, se perderán todos los progresos \ndesde el último punto de control. \n\n¿Quieres seguir guardando?"
+
+REFERENCE           CGAME_SAVINGREPLAY
+LANG_ENGLISH        "&&1 guardando repetición en\n &&2 -> &&3"
+
+REFERENCE           CGAME_SB_ASSISTS
+LANG_ENGLISH        "Asist."
+
+REFERENCE           CGAME_SB_DEATHS
+LANG_ENGLISH        "Muertes"
+
+REFERENCE           CGAME_SB_KILLS
+LANG_ENGLISH        "Bajas"
+
+REFERENCE           CGAME_SB_PING
+LANG_ENGLISH        "Ping"
+
+REFERENCE           CGAME_SB_PLAYER
+LANG_ENGLISH        "&&1"
+
+REFERENCE           CGAME_SB_PLAYERS
+LANG_ENGLISH        "&&1"
+
+REFERENCE           CGAME_SB_SCORE
+LANG_ENGLISH        "Punt."
+
+REFERENCE           CGAME_SERVERHOSTTEAMKILLED
+LANG_ENGLISH        "El host del servidor te ha matado, pese a ser compañero tuyo"
+
+REFERENCE           CGAME_SLIME
+LANG_ENGLISH        "fango"
+
+REFERENCE           CGAME_SPECTATOR
+LANG_ENGLISH        "ESPECTADOR"
+
+REFERENCE           CGAME_SPECTATORS
+LANG_ENGLISH        "Espectadores"
+
+REFERENCE           CGAME_SUICIDE
+LANG_ENGLISH        "suicidio"
+
+REFERENCE           CGAME_TEAMMATE
+LANG_ENGLISH        "COMPAÑERO"
+
+REFERENCE           CGAME_THIS_WEAPON_HAS_NO_ALTERNATE
+LANG_ENGLISH        "Esta arma no dispone de modo alternativo"
+
+REFERENCE           CGAME_UNKNOWN
+LANG_ENGLISH        "desconocido"
+
+REFERENCE           CGAME_VOTE
+LANG_ENGLISH        "VOTO"
+
+REFERENCE           CGAME_WAITINGFORSERVERLOAD
+LANG_ENGLISH        "Esperando a que el servidor cargue un nuevo mapa"
+
+REFERENCE           CGAME_YES
+LANG_ENGLISH        "SÍ"
+
+REFERENCE           CGAME_YOUKILLED
+LANG_ENGLISH        "Has matado a &&1"
+
+REFERENCE           CGAME_YOUWEREKILLED
+LANG_ENGLISH        "&&1 te ha matado."
+
+REFERENCE           CLANS_CLANNAME
+LANG_ENGLISH        "Nombre del clan:"
+
+REFERENCE           CLANS_INVALIDCHARS
+LANG_ENGLISH        "Se han eliminado los caracteres incompatibles."
+
+REFERENCE           CLANS_OFFENSIVENAME
+LANG_ENGLISH        "Nombre del clan rechazado por presencia de texto prohibido"
+
+REFERENCE           ELEVATOR_CALL_HINT
+LANG_ENGLISH        "Mantén &&1 para llamar al ascensor."
+
+REFERENCE           ELEVATOR_FLOOR_SELECT_HINT
+LANG_ENGLISH        "Mantén &&1 para elegir el piso."
+
+REFERENCE           ELEVATOR_USE_HINT
+LANG_ENGLISH        "Mantén &&1 para usar el ascensor."
+
+REFERENCE           PAINTER_2A1B7_
+LANG_ENGLISH        "^2A/^1B^7: "
+
+REFERENCE           PAINTER_4X3Y_
+LANG_ENGLISH        "^4X/^3Y: "
+
+REFERENCE           PAINTER_5DENSITY_
+LANG_ENGLISH        "^5Espaciado: "
+
+REFERENCE           PAINTER_5PLACED_MODELS_
+LANG_ENGLISH        "^5Modelos colocados: "
+
+REFERENCE           PAINTER_5RADIUS_
+LANG_ENGLISH        "^5Radio: "
+
+REFERENCE           PAINTER_8DPADL7DPADR7_
+LANG_ENGLISH        "^8DPadL/^7DpadR^7: "
+
+REFERENCE           PAINTER_8DPADU7DPADD7_
+LANG_ENGLISH        "^8DPadU/^7DpadD^7: "
+
+REFERENCE           PAINTER_8F5_
+LANG_ENGLISH        "^8F: "
+
+REFERENCE           PAINTER_8LBUTTON7RBUTTON7_
+LANG_ENGLISH        "^8Lbutton/^7Rbutton^7: "
+
+REFERENCE           PAINTER_8LSTICK7RSTICK7_
+LANG_ENGLISH        "^8LStick/^7RStick^7: "
+
+REFERENCE           PAINTER_BLANK
+LANG_ENGLISH        "-"
+
+REFERENCE           PAINTER_DBL_BLANK
+LANG_ENGLISH        " -- -- "
+
+REFERENCE           PAINTER_DENSITY_DOWN_UP
+LANG_ENGLISH        "Densidad menos/más"
+
+REFERENCE           PAINTER_DOT
+LANG_ENGLISH        "."
+
+REFERENCE           PAINTER_DUMP_3MAPSOURCEXENONEXPORTLEVELSCRIPTMODELDUMPMAP
+LANG_ENGLISH        "(dump) ^3map_source/xenon_export/<levelname>_modeldump.map"
+
+REFERENCE           PAINTER_GROUP_UP_DOWN
+LANG_ENGLISH        "Grupo arriba/abajo"
+
+REFERENCE           PAINTER_HEIGHT_DOWN_UP
+LANG_ENGLISH        "Altura abajo/arriba"
+
+REFERENCE           PAINTER_RADIUS_DOWN_UP
+LANG_ENGLISH        "Radio abajo/arriba"
+
+REFERENCE           PAINTER_ROTATEOTHER_UP_DOWN
+LANG_ENGLISH        "Rotar otros arriba/abajo"
+
+REFERENCE           PAINTER_ROTATION_CLEAR_SET
+LANG_ENGLISH        "Rotación libre/fija"
+
+REFERENCE           PAINTER_SPAM_REMOVE_PLACE
+LANG_ENGLISH        "Quitar/Colocar"
+
+REFERENCE           PAINTER_ZOFFSET_CLEAR_SET
+LANG_ENGLISH        "Z-Offset libre/fijo"
+
+REFERENCE           PAINTER__SET
+LANG_ENGLISH        " - / Fijo"
+
+REFERENCE           PAINTER__SET_
+LANG_ENGLISH        " Fijo / -"
+
+REFERENCE           SENTRY_CANNOT_PLACE
+LANG_ENGLISH        "Mueve la torreta a una posición válida."
+
+REFERENCE           SENTRY_DEBUG_SPAWN_ENEMIES
+LANG_ENGLISH        "Los enemigos se rinden en 10 segundos."
+
+REFERENCE           SENTRY_MOVE
+LANG_ENGLISH        "Mantén ^3&&1^7 para mover la torreta."
+
+REFERENCE           SENTRY_PICKUP
+LANG_ENGLISH        "Mantén ^3&&1^7 para recoger la torreta."
+
+REFERENCE           SENTRY_PLACE
+LANG_ENGLISH        "Pulsa ^3[{+attack}]^7 para colocar la torreta."
+
+ENDMARKER

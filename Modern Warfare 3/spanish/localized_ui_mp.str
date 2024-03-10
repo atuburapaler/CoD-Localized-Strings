@@ -1,0 +1,25 @@
+// Dumped from fastfile "localized_ui_mp".
+// In their original format the strings might have been separated in multiple files.
+VERSION             "1"
+CONFIG              "C:/trees/cod3/cod3/bin/StringEd.cfg"
+FILENOTES           ""
+
+REFERENCE           PATCH_MENU_ONLINEVAULT_COPYING
+LANG_ENGLISH        "Copiando"
+
+REFERENCE           PATCH_MENU_ONLINEVAULT_FACEBOOK_PROCESSING
+LANG_ENGLISH        "Compartiendo..."
+
+REFERENCE           PATCH_MENU_THEATER_RECORDING
+LANG_ENGLISH        "Grabación de cine"
+
+REFERENCE           PATCH_MENU_THEATER_RECORDING_DESC
+LANG_ENGLISH        "Activa o desactiva la grabación de demos en el cine."
+
+REFERENCE           PATCH_MENU_WAITING_FOR_GOOD_HOST
+LANG_ENGLISH        "Esperando a un host mejor"
+
+REFERENCE           PATCH_MENU_WAIT_TO_VOTE
+LANG_ENGLISH        "Debes esperar &&1 segundos entre cada votación."
+
+ENDMARKER

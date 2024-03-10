@@ -1,0 +1,493 @@
+// Dumped from fastfile "intro".
+// In their original format the strings might have been separated in multiple files.
+VERSION             "1"
+CONFIG              "C:/trees/cod3/cod3/bin/StringEd.cfg"
+FILENOTES           ""
+
+REFERENCE           INTRO_HELI_DMG_HINT
+LANG_ENGLISH        "Tus armas no pueden dañar a este vehículo."
+
+REFERENCE           INTRO_HELP_SOAP
+LANG_ENGLISH        "Mantén ^3&&1^7 para ayudar a Soap."
+
+REFERENCE           INTRO_HINT_ADS
+LANG_ENGLISH        "Mantén ^3[{+speed}]^7 para apuntar con la mira de tu arma."
+
+REFERENCE           INTRO_HINT_ADS_360
+LANG_ENGLISH        "Mantén ^3[{+speed}]^7 para apuntar con la mira de tu arma."
+
+REFERENCE           INTRO_HINT_ADS_SWITCH
+LANG_ENGLISH        "Suelta y usa ^3[{+speed}]^7 para cambiar\nautomáticamente a un blanco cercano."
+
+REFERENCE           INTRO_HINT_ADS_SWITCH_SHOULDER
+LANG_ENGLISH        "Suelta y mantén ^3[{+speed}]^7 para\ncambiar automáticamente a un blanco cercano."
+
+REFERENCE           INTRO_HINT_ADS_SWITCH_THROW
+LANG_ENGLISH        "Suelta y usa ^3[{+speed_throw}]^7 para cambiar\nautomáticamente a un blanco cercano."
+
+REFERENCE           INTRO_HINT_ADS_SWITCH_THROW_SHOULDER
+LANG_ENGLISH        "Suelta y mantén ^3[{+speed_throw}]^7 para\ncambiar automáticamente a un blanco cercano."
+
+REFERENCE           INTRO_HINT_ADS_THROW
+LANG_ENGLISH        "Mantén ^3[{+speed_throw}]^7 para apuntar con la mira de tu arma."
+
+REFERENCE           INTRO_HINT_ADS_THROW_360
+LANG_ENGLISH        "Mantén ^3[{+speed_throw}]^7 para apuntar con la mira de tu arma."
+
+REFERENCE           INTRO_HINT_ADS_TOGGLE
+LANG_ENGLISH        "Pulsa ^3[{toggleads}]^7 para apuntar con la mira."
+
+REFERENCE           INTRO_HINT_ADS_TOGGLE_THROW
+LANG_ENGLISH        "Pulsa ^3[{+toggleads_throw}]^7 para apuntar con la mira de tu arma."
+
+REFERENCE           INTRO_HINT_CHECK_OBJECTIVES_PAUSED
+LANG_ENGLISH        "Pulsa ^3[{pause}]^7 para comprobar tus objetivos."
+
+REFERENCE           INTRO_HINT_CHECK_OBJECTIVES_SCORES
+LANG_ENGLISH        "Pulsa ^3[{+scores}]^7 para comprobar tus objetivos."
+
+REFERENCE           INTRO_HINT_CROUCH
+LANG_ENGLISH        "Pulsa ^3[{+stance}]^7 para agacharte y disparar con más precisión."
+
+REFERENCE           INTRO_HINT_CROUCH_HOLD
+LANG_ENGLISH        "Mantén ^3[{+movedown}]^7 para agacharte y disparar con más precisión."
+
+REFERENCE           INTRO_HINT_CROUCH_STANCE
+LANG_ENGLISH        "Pulsa ^3[{+stance}]^7 para agacharte y disparar con más precisión."
+
+REFERENCE           INTRO_HINT_CROUCH_TOGGLE
+LANG_ENGLISH        "Pulsa ^3[{togglecrouch}]^7 para agacharte y disparar con más precisión."
+
+REFERENCE           INTRO_HINT_FRAG
+LANG_ENGLISH        "Pulsa ^3[{+frag}]^7 para lanzar una granada\nhacia los blancos."
+
+REFERENCE           INTRO_HINT_HIP_ATTACK
+LANG_ENGLISH        "Pulsa ^3[{+attack}]^7 para disparar tu arma."
+
+REFERENCE           INTRO_HINT_HOLDING_SPRINT
+LANG_ENGLISH        "No necesitas mantener ^3[{+sprint}]^7 para seguir esprintando."
+
+REFERENCE           INTRO_HINT_HOLDING_SPRINT_BREATH
+LANG_ENGLISH        "No necesitas mantener ^3[{+sprint}]^7 para seguir esprintando."
+
+REFERENCE           INTRO_HINT_PRIMARY_SWAP
+LANG_ENGLISH        "Pulsa ^3[{weapnext}]^7 para pasar a tu arma principal."
+
+REFERENCE           INTRO_HINT_SPRINT
+LANG_ENGLISH        "Pulsa ^3[{+sprint}]^7 mientras vas adelante para esprintar."
+
+REFERENCE           INTRO_HINT_SPRINT_BREATH
+LANG_ENGLISH        "Pulsa ^3[{+sprint}]^7 mientras vas adelante para esprintar."
+
+REFERENCE           INTRO_HINT_SPRINT_BREATH_PC
+LANG_ENGLISH        "Pulsa ^3[{+sprint}]^7 mientras vas adelante para esprintar."
+
+REFERENCE           INTRO_HINT_SPRINT_PC
+LANG_ENGLISH        "Pulsa ^3[{+sprint}]^7 mientras vas adelante para esprintar."
+
+REFERENCE           INTRO_HINT_STAND
+LANG_ENGLISH        "Pulsa ^3[{+gostand}]^7 para levantarte."
+
+REFERENCE           INTRO_HINT_STAND_STANCE
+LANG_ENGLISH        "Pulsa ^3[{+stance}]^7 para levantarte."
+
+REFERENCE           INTRO_HINT_STAND_UP
+LANG_ENGLISH        "Pulsa ^3[{+moveup}]^7 para levantarte."
+
+REFERENCE           INTRO_HINT_TOGGLE_VIEW
+LANG_ENGLISH        "Pulsa ^3[{weapnext}]^7 para alternar la vista."
+
+REFERENCE           INTRO_HINT_UGV_GRENADE
+LANG_ENGLISH        "Pulsa ^3[{+frag}]^7 para lanzar granadas."
+
+REFERENCE           INTRO_HINT_UGV_ZOOM
+LANG_ENGLISH        "Mantén ^3[{+speed}]^7 para usar el zoom."
+
+REFERENCE           INTRO_HINT_UGV_ZOOM_360
+LANG_ENGLISH        "Mantén ^3[{+speed}]^7 para usar el zoom."
+
+REFERENCE           INTRO_HINT_UGV_ZOOM_THROW
+LANG_ENGLISH        "Mantén ^3[{+speed_throw}]^7 para usar el zoom."
+
+REFERENCE           INTRO_HINT_UGV_ZOOM_THROW_360
+LANG_ENGLISH        "Mantén ^3[{+speed_throw}]^7 para usar el zoom."
+
+REFERENCE           INTRO_HINT_UGV_ZOOM_TOGGLE
+LANG_ENGLISH        "Mantén ^3[{toggleads}]^7 para usar el zoom."
+
+REFERENCE           INTRO_HINT_UGV_ZOOM_TOGGLE_THROW
+LANG_ENGLISH        "Mantén ^3[{+toggleads_throw}]^7 para usar el zoom."
+
+REFERENCE           INTRO_INTROSCREEN_LINE1
+LANG_ENGLISH        "\"Persona non grata\""
+
+REFERENCE           INTRO_INTROSCREEN_LINE2
+LANG_ENGLISH        "17 de agosto, 9:51:[{FAKE_INTRO_SECONDS:11}]"
+
+REFERENCE           INTRO_INTROSCREEN_LINE3
+LANG_ENGLISH        "Yuri"
+
+REFERENCE           INTRO_INTROSCREEN_LINE4
+LANG_ENGLISH        "Fuerza operativa 141 - Renegados"
+
+REFERENCE           INTRO_INTROSCREEN_LINE5
+LANG_ENGLISH        "Himachal Pradesh, India"
+
+REFERENCE           INTRO_OBJ_CLEAR_HELICOPTER
+LANG_ENGLISH        "Despeja la zona alrededor del helicóptero"
+
+REFERENCE           INTRO_OBJ_CONTROL_UGV
+LANG_ENGLISH        "Toma el control del UGV"
+
+REFERENCE           INTRO_OBJ_DEFEND_COURTYARD
+LANG_ENGLISH        "Defiende a Soap"
+
+REFERENCE           INTRO_OBJ_EXIT_HOTEL
+LANG_ENGLISH        "Sigue al capitán Price"
+
+REFERENCE           INTRO_OBJ_HELICOPTER
+LANG_ENGLISH        "Llega al helicóptero"
+
+REFERENCE           INTRO_OBJ_HELP_SOAP
+LANG_ENGLISH        "Ayuda a Soap"
+
+REFERENCE           INTRO_OBJ_WEAPON_CACHE
+LANG_ENGLISH        "Llega a la reserva de armas"
+
+REFERENCE           INTRO_PLATFORM_SLIDE_HINT
+LANG_ENGLISH        "Usa los controles de movimiento para deslizarte."
+
+REFERENCE           INTRO_PLATFORM_SLIDE_HINT_L
+LANG_ENGLISH        "Usa los controles de movimiento para deslizarte."
+
+REFERENCE           INTRO_PROTECT
+LANG_ENGLISH        "Protege"
+
+REFERENCE           INTRO_RIVER_RIDE_HINT
+LANG_ENGLISH        "^3[{+usereload}]^7"
+
+REFERENCE           INTRO_SLIDE_HINT
+LANG_ENGLISH        "Usa los controles de movimiento para deslizarte."
+
+REFERENCE           INTRO_SLIDE_HINT_PC
+LANG_ENGLISH        "Usa los controles de movimiento para deslizarte."
+
+REFERENCE           INTRO_UGV_DEATH_QUOTE
+LANG_ENGLISH        "               Tu UGV ha sido destruido.\nNo has logrado proteger a Price y a Soap."
+
+REFERENCE           INTRO_UGV_KILLTEAM_DEATH_QUOTE
+LANG_ENGLISH        "¡No se tolerará el fratricidio!"
+
+REFERENCE           INTRO_UGV_YURI_DEATH_QUOTE
+LANG_ENGLISH        "Te has suicidado."
+
+REFERENCE           INTRO_USE_UGV
+LANG_ENGLISH        "Mantén ^3&&1^7 para usar el UGV."
+
+REFERENCE           SUBTITLE_INTRO_LOY1_ATTACKCHOPPERS117
+LANG_ENGLISH        "^2Loyalist: ^7¡Helicópteros de ataque rusos sobre la loma!"
+
+REFERENCE           SUBTITLE_INTRO_LOY1_FASTROPING119
+LANG_ENGLISH        "^2Loyalist: ^73 Havocs y 4... no, 5 MI-17. ¡Se están descolgando comandos!"
+
+REFERENCE           SUBTITLE_INTRO_LOY1_PINNEDDOWN43
+LANG_ENGLISH        "^2Loyalist: ^7¡Estamos inmovilizados en la calle! ¡Necesitamos refuerzos!"
+
+REFERENCE           SUBTITLE_INTRO_LOY2_BREACHING216
+LANG_ENGLISH        "^2Loyalist: ^7¡Voy a entrar!"
+
+REFERENCE           SUBTITLE_INTRO_LOY2_COURTYARDSCLEAR212
+LANG_ENGLISH        "^2Loyalist: ^7¡El patio está despejado!"
+
+REFERENCE           SUBTITLE_INTRO_LOY2_FIRETEAM120
+LANG_ENGLISH        "^2Loyalist: ^7¡Envíen un equipo al tejado!"
+
+REFERENCE           SUBTITLE_INTRO_LOY2_HOWMANY118
+LANG_ENGLISH        "^2Loyalist: ^7¿Cuántos son?"
+
+REFERENCE           SUBTITLE_INTRO_MCT_WHOSYURI72_1
+LANG_ENGLISH        "^2Soap: ^7¿Quién coño es Yuri?"
+
+REFERENCE           SUBTITLE_INTRO_NIK_CHARGING105
+LANG_ENGLISH        "^2Nikolai: ^7¡Cargando palas!"
+
+REFERENCE           SUBTITLE_INTRO_NIK_CHOPPERS114
+LANG_ENGLISH        "^2Nikolai: ^7¡Se acercan helicópteros rusos!"
+
+REFERENCE           SUBTITLE_INTRO_NIK_DIRECTLYAHEAD413
+LANG_ENGLISH        "^2Nikolai: ^7¡Las armas están en el edificio de delante!"
+
+REFERENCE           SUBTITLE_INTRO_NIK_DOCTORSDOWN21
+LANG_ENGLISH        "^2Nikolai: ^7¡El médico ha caído!"
+
+REFERENCE           SUBTITLE_INTRO_NIK_GETHIMOUT54
+LANG_ENGLISH        "^2Nikolai: ^7Mierda... ¡Tenemos que sacarlo de aquí!"
+
+REFERENCE           SUBTITLE_INTRO_NIK_GETOVERHERE23
+LANG_ENGLISH        "^2Nikolai: ^7¡Yuri, venga aquí!"
+
+REFERENCE           SUBTITLE_INTRO_NIK_GOTHROUGH38
+LANG_ENGLISH        "^2Nikolai: ^7¡Ya casi está! ¡Atraviese el edificio!"
+
+REFERENCE           SUBTITLE_INTRO_NIK_HANGINTHERE111
+LANG_ENGLISH        "^2Nikolai: ^7Resista, amigo."
+
+REFERENCE           SUBTITLE_INTRO_NIK_HOWMANY113
+LANG_ENGLISH        "^2Nikolai: ^7¿Cuántos? ¿Está seguro?"
+
+REFERENCE           SUBTITLE_INTRO_NIK_IMTRYING104
+LANG_ENGLISH        "^2Nikolai: ^7¡Lo intento!"
+
+REFERENCE           SUBTITLE_INTRO_NIK_IVEGOTHIM31
+LANG_ENGLISH        "^2Nikolai: ^7¡Ya es mío!"
+
+REFERENCE           SUBTITLE_INTRO_NIK_KEEPPRESSURE103
+LANG_ENGLISH        "^2Price: ^7¡Siga presionando la herida!"
+
+REFERENCE           SUBTITLE_INTRO_NIK_NEEDYOURHELP22
+LANG_ENGLISH        "^2Nikolai: ^7¡Yuri, necesitamos su ayuda!"
+
+REFERENCE           SUBTITLE_INTRO_NIK_NOTLOOKINGGOOD59
+LANG_ENGLISH        "^2Nikolai: ^7No tiene buena pinta."
+
+REFERENCE           SUBTITLE_INTRO_NIK_ROGER48
+LANG_ENGLISH        "^2Nikolai: ^7¡Vale!"
+
+REFERENCE           SUBTITLE_INTRO_NIK_SAFEHOUSE101
+LANG_ENGLISH        "^2Nikolai: ^7¡El piso franco está enfrente!"
+
+REFERENCE           SUBTITLE_INTRO_NIK_SHIPPINGCRATE44
+LANG_ENGLISH        "^2Nikolai: ^7El UGV está en un contenedor, justo debajo de usted."
+
+REFERENCE           SUBTITLE_INTRO_NIK_THEREHEIS71
+LANG_ENGLISH        "^2Nikolai: ^7¡Ahí está! ¡Ahí está Yuri!"
+
+REFERENCE           SUBTITLE_INTRO_NIK_THESHOT24
+LANG_ENGLISH        "^2Nikolai: ^7¡Póngale la inyección!"
+
+REFERENCE           SUBTITLE_INTRO_NIK_THISMANSAYS17
+LANG_ENGLISH        "^2Nikolai: ^7 Haga lo que él diga."
+
+REFERENCE           SUBTITLE_INTRO_NIK_THREETWOONE106
+LANG_ENGLISH        "^2Nikolai: ^7Tres, dos, uno. ¡Fuera!"
+
+REFERENCE           SUBTITLE_INTRO_NIK_WEAPONSCACHE411
+LANG_ENGLISH        "^2Nikolai: ^7¡Hay un almacén de armas a las afueras! Tenemos un UGV allí."
+
+REFERENCE           SUBTITLE_INTRO_NIK_WHATISTHAT14
+LANG_ENGLISH        "^2Nikolai: ^7¿Qué es eso?"
+
+REFERENCE           SUBTITLE_INTRO_NIK_YURI121
+LANG_ENGLISH        "^2Nikolai: ^7¡Yuri!"
+
+REFERENCE           SUBTITLE_INTRO_NIK_YURIOVERHERE11
+LANG_ENGLISH        "^2Nikolai: ^7¡Eh! ¡Por aquí, Yuri!"
+
+REFERENCE           SUBTITLE_INTRO_PRI_AFTERMAKAROV72
+LANG_ENGLISH        "^2Price: ^7Bien. Lo necesitaremos. Vamos a ir a por Makarov."
+
+REFERENCE           SUBTITLE_INTRO_PRI_ATTHECHOPPER58
+LANG_ENGLISH        "^2Price: ^7¡Estamos en el helicóptero! ¡Vamos a subir a Soap!"
+
+REFERENCE           SUBTITLE_INTRO_PRI_BACKUP108
+LANG_ENGLISH        "^2Price: ^7¡Atrás! ¡Atrás!"
+
+REFERENCE           SUBTITLE_INTRO_PRI_BALCONY18
+LANG_ENGLISH        "^2Price: ^7¡Yuri, sitúese en el balcón! ¡El médico necesita un poco de tiempo!"
+
+REFERENCE           SUBTITLE_INTRO_PRI_CHOPPERDOWN416
+LANG_ENGLISH        "^2Price: ^7¡Helicóptero abatido!"
+
+REFERENCE           SUBTITLE_INTRO_PRI_CHOPPERTHISWAY423
+LANG_ENGLISH        "^2Price: ^7¡El helicóptero está por aquí!"
+
+REFERENCE           SUBTITLE_INTRO_PRI_CIVILIANS419
+LANG_ENGLISH        "^2Price: ^7¡Alto el fuego! ¡Civiles!"
+
+REFERENCE           SUBTITLE_INTRO_PRI_CLEARAPATH46
+LANG_ENGLISH        "^2Price: ^7¡Nikolai, espere con Soap! ¡Despejaremos el camino!"
+
+REFERENCE           SUBTITLE_INTRO_PRI_CLEARTHEPATH516
+LANG_ENGLISH        "^2Price: ^7¡Despeje el camino!"
+
+REFERENCE           SUBTITLE_INTRO_PRI_CONTROLSRUSSIAN49
+LANG_ENGLISH        "^2Price: ^7Los controles estarán en ruso. Es su turno, Yuri."
+
+REFERENCE           SUBTITLE_INTRO_PRI_DOORWAYRIGHT420
+LANG_ENGLISH        "^2Price: ^7¡Entrada, a la derecha!"
+
+REFERENCE           SUBTITLE_INTRO_PRI_DOWNTHEALLEY414
+LANG_ENGLISH        "^2Price: ^7¡Por el callejón!"
+
+REFERENCE           SUBTITLE_INTRO_PRI_DOWNTHESTAIRS34
+LANG_ENGLISH        "^2Price: ^7¡Baje por las escaleras!"
+
+REFERENCE           SUBTITLE_INTRO_PRI_DOWNTHESTREET213
+LANG_ENGLISH        "^2Price: ^7¡Siga avanzando por la calle!"
+
+REFERENCE           SUBTITLE_INTRO_PRI_DRONEINBOUND510
+LANG_ENGLISH        "^2Price: ^7¡Viene un dron!"
+
+REFERENCE           SUBTITLE_INTRO_PRI_DRONEPASS418
+LANG_ENGLISH        "^2Price: ^7¡El dron está dando otra pasada!"
+
+REFERENCE           SUBTITLE_INTRO_PRI_EYESONCOURTYARD26
+LANG_ENGLISH        "^2Price: ^7No pierda de vista el patio."
+
+REFERENCE           SUBTITLE_INTRO_PRI_FIREPOWER410
+LANG_ENGLISH        "^2Price: ^7Estamos en inferioridad. Necesitamos más potencia de fuego."
+
+REFERENCE           SUBTITLE_INTRO_PRI_GETDOCTOR110
+LANG_ENGLISH        "^2Price: ^7¡Apártense! ¡Consigan un médico!"
+
+REFERENCE           SUBTITLE_INTRO_PRI_GETDOWN14_1
+LANG_ENGLISH        "^2Price: ^7¡Al suelo!"
+
+REFERENCE           SUBTITLE_INTRO_PRI_GETINSIDE425
+LANG_ENGLISH        "^2Price: ^7¡Adentro!"
+
+REFERENCE           SUBTITLE_INTRO_PRI_GETSOAP12
+LANG_ENGLISH        "^2Price: ^7¡Debemos llevar a Soap al helicóptero!"
+
+REFERENCE           SUBTITLE_INTRO_PRI_GETSOAPOUT214
+LANG_ENGLISH        "^2Price: ^7¡Nikolai, saquemos a Soap de aquí!"
+
+REFERENCE           SUBTITLE_INTRO_PRI_GOGO62
+LANG_ENGLISH        "^2Price: ^7¡Vamos, vamos!"
+
+REFERENCE           SUBTITLE_INTRO_PRI_GRABCONTROLS52
+LANG_ENGLISH        "^2Price: ^7¡Yuri, tome los controles!"
+
+REFERENCE           SUBTITLE_INTRO_PRI_HOLDON64
+LANG_ENGLISH        "^2Price: ^7¡Agárrense!"
+
+REFERENCE           SUBTITLE_INTRO_PRI_HOLDTHEMOFF122
+LANG_ENGLISH        "^2Price: ^7¡Debemos contenerlos hasta que podamos mover a Soap!"
+
+REFERENCE           SUBTITLE_INTRO_PRI_HOLDUP312
+LANG_ENGLISH        "^2Price: ^7Espere. Es la hora."
+
+REFERENCE           SUBTITLE_INTRO_PRI_INSIDE19
+LANG_ENGLISH        "^2Price: ^7¡Métanlo dentro!"
+
+REFERENCE           SUBTITLE_INTRO_PRI_ISEEIT47
+LANG_ENGLISH        "^2Price: ^7Ya lo veo."
+
+REFERENCE           SUBTITLE_INTRO_PRI_ISEVERYONE15
+LANG_ENGLISH        "^2Price: ^7¿Todos bien?"
+
+REFERENCE           SUBTITLE_INTRO_PRI_KEEPFIRING517
+LANG_ENGLISH        "^2Price: ^7¡Siga disparando!"
+
+REFERENCE           SUBTITLE_INTRO_PRI_KEEPMOVING102
+LANG_ENGLISH        "^2Price: ^7¡Avancen!"
+
+REFERENCE           SUBTITLE_INTRO_PRI_KEEPPUSHING518
+LANG_ENGLISH        "^2Price: ^7¡Avance hacia el helicóptero!"
+
+REFERENCE           SUBTITLE_INTRO_PRI_LETSMOVE412
+LANG_ENGLISH        "^2Price: ^7Lo usaremos para llegar al helicóptero. ¡En marcha!"
+
+REFERENCE           SUBTITLE_INTRO_PRI_LETTHEMPASS42
+LANG_ENGLISH        "^2Price: ^7Espere. Déjelos pasar."
+
+REFERENCE           SUBTITLE_INTRO_PRI_LOOKOUT263
+LANG_ENGLISH        "^2Price: ^7¡Cuidado!"
+
+REFERENCE           SUBTITLE_INTRO_PRI_LOOKOUT424
+LANG_ENGLISH        "^2Price: ^7¡Cuidado!"
+
+REFERENCE           SUBTITLE_INTRO_PRI_LOOSEENDS115
+LANG_ENGLISH        "^2Price: ^7Makarov. Está atando cabos sueltos."
+
+REFERENCE           SUBTITLE_INTRO_PRI_MACHINEGUNNER215
+LANG_ENGLISH        "^2Price: ^7¡Ametralladora en el balcón! ¡Elimínela!"
+
+REFERENCE           SUBTITLE_INTRO_PRI_NEEDSHELP112
+LANG_ENGLISH        "^2Price: ^7¡Necesita ayuda inmediata!"
+
+REFERENCE           SUBTITLE_INTRO_PRI_NEEDTHATUGV37
+LANG_ENGLISH        "^2Price: ^7¡Nikolai, necesitamos ese UGV!"
+
+REFERENCE           SUBTITLE_INTRO_PRI_OVERHEAD417
+LANG_ENGLISH        "^2Price: ^7¡Dron ruso encima!"
+
+REFERENCE           SUBTITLE_INTRO_PRI_OVERHERE311
+LANG_ENGLISH        "^2Price: ^7¡Eh! ¡Por aquí, Yuri!"
+
+REFERENCE           SUBTITLE_INTRO_PRI_PROTECTSOAP421
+LANG_ENGLISH        "^2Price: ^7¡Nikolai, espere! ¡Proteja a Soap!"
+
+REFERENCE           SUBTITLE_INTRO_PRI_PUNCHWALLS513
+LANG_ENGLISH        "^2Price: ^7¡Ese cañón automático atravesará los muros!"
+
+REFERENCE           SUBTITLE_INTRO_PRI_ROGER45
+LANG_ENGLISH        "^2Price: ^7Recibido."
+
+REFERENCE           SUBTITLE_INTRO_PRI_RUNTOCHOPPER61
+LANG_ENGLISH        "^2Price: ^7¡Yuri, corra hacia el helicóptero!"
+
+REFERENCE           SUBTITLE_INTRO_PRI_SOAPSCONDITION53
+LANG_ENGLISH        "^2Price: ^7Nikolai, ¿cuál es el estado de Soap?"
+
+REFERENCE           SUBTITLE_INTRO_PRI_SOAPTOCHOPPER25
+LANG_ENGLISH        "^2Price: ^7Están en el tejado. ¡Debemos llevar a Soap al helicóptero!"
+
+REFERENCE           SUBTITLE_INTRO_PRI_SWITCHTHERMAL511
+LANG_ENGLISH        "^2Price: ^7¡Están usando humo! ¡Yuri, pase a térmica!"
+
+REFERENCE           SUBTITLE_INTRO_PRI_TAKEOUTCHOPPERS515
+LANG_ENGLISH        "^2Price: ^7¡Destruya esos helicópteros!"
+
+REFERENCE           SUBTITLE_INTRO_PRI_TARGETANYTHING56
+LANG_ENGLISH        "^2Price: ^7Hay que llegar hasta el helicóptero. Apunte a todo lo que se mueva."
+
+REFERENCE           SUBTITLE_INTRO_PRI_THEYBREACHED27
+LANG_ENGLISH        "^2Price: ^7¡Han entrado en el patio! ¡Acabe con ellos!"
+
+REFERENCE           SUBTITLE_INTRO_PRI_THROUGHCOURTYARD41
+LANG_ENGLISH        "^2Price: ^7¡Debemos atravesar el patio!"
+
+REFERENCE           SUBTITLE_INTRO_PRI_TOOMANYOFTHEM36
+LANG_ENGLISH        "^2Price: ^7Hay demasiados entre el helicóptero y nosotros."
+
+REFERENCE           SUBTITLE_INTRO_PRI_UGV51
+LANG_ENGLISH        "^2Price: ^7Vehículo terrestre teledirigido. Blindaje de 2 centímetros. Cañón automático y lanzagranadas."
+
+REFERENCE           SUBTITLE_INTRO_PRI_UGVTHISWAY310
+LANG_ENGLISH        "^2Price: ^7Yuri, el UGV está por aquí."
+
+REFERENCE           SUBTITLE_INTRO_PRI_USELAUNCHER514
+LANG_ENGLISH        "^2Price: ^7¡Use el lanzagranadas!"
+
+REFERENCE           SUBTITLE_INTRO_PRI_USETHERMAL512
+LANG_ENGLISH        "^2Price: ^7¡Use la térmica!"
+
+REFERENCE           SUBTITLE_INTRO_PRI_WATCHBALCONIES415
+LANG_ENGLISH        "^2Price: ^7¡Ojo a los balcones!"
+
+REFERENCE           SUBTITLE_INTRO_PRI_WELLBEBEHIND55
+LANG_ENGLISH        "^2Price: ^7Yuri, hay que llegar hasta el helicóptero. ¡Iremos detrás de usted!"
+
+REFERENCE           SUBTITLE_INTRO_PRI_WEREMOVINGUP57
+LANG_ENGLISH        "^2Price: ^7¡Yuri, nos movemos! ¡Manténgalos a raya!"
+
+REFERENCE           SUBTITLE_INTRO_PRI_WHATKINDANAME107
+LANG_ENGLISH        "^2Price: ^7¿Qué mierda de nombre es Soap, eh?"
+
+REFERENCE           SUBTITLE_INTRO_PRI_YOUREWITHME32
+LANG_ENGLISH        "^2Price: ^7¡Yuri, venga conmigo!"
+
+REFERENCE           SUBTITLE_INTRO_PRI_YURIONME35
+LANG_ENGLISH        "^2Price: ^7¡Yuri, conmigo!"
+
+REFERENCE           SUBTITLE_INTRO_PRI_YURIOVERHERE2422
+LANG_ENGLISH        "^2Price: ^7¡Eh! ¡Por aquí, Yuri!"
+
+REFERENCE           SUBTITLE_INTRO_PRI_YURIOVERHERE33
+LANG_ENGLISH        "^2Price: ^7¡Eh! ¡Por aquí, Yuri!"
+
+REFERENCE           SUBTITLE_INTRO_PRI_YURITHISWAY39
+LANG_ENGLISH        "^2Price: ^7¡Yuri, por aquí!"
+
+ENDMARKER

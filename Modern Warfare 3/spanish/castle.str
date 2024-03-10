@@ -1,0 +1,550 @@
+// Dumped from fastfile "castle".
+// In their original format the strings might have been separated in multiple files.
+VERSION             "1"
+CONFIG              "C:/trees/cod3/cod3/bin/StringEd.cfg"
+FILENOTES           ""
+
+REFERENCE           CASTLE_CLIMB_IN
+LANG_ENGLISH        "Pulsa ^3[{+activate}]^7 para subirte."
+
+REFERENCE           CASTLE_DEPLOY_CHUTE
+LANG_ENGLISH        "Mantén ^3[{+activate}]^7 para paracaídas de emergencia."
+
+REFERENCE           CASTLE_FAILED_TO_DEPLOY
+LANG_ENGLISH        "No has desplegado el paracaídas."
+
+REFERENCE           CASTLE_FAILED_TO_FOLLOW
+LANG_ENGLISH        "¡No has logrado seguir al capitán Price! ¡Misión fallida!"
+
+REFERENCE           CASTLE_FOLLOW
+LANG_ENGLISH        "Sigue"
+
+REFERENCE           CASTLE_HINT_CLIMB
+LANG_ENGLISH        "Mantén ^3[{+forward}]^7 para trepar."
+
+REFERENCE           CASTLE_HINT_CLIMB_LEFT
+LANG_ENGLISH        "Pulsa ^3[{+speed_throw}]^7."
+
+REFERENCE           CASTLE_HINT_CLIMB_RIGHT
+LANG_ENGLISH        "Pulsa ^3[{+attack}]^7."
+
+REFERENCE           CASTLE_HINT_CLIMB_UP
+LANG_ENGLISH        "Pulsa ^3[{+speed_throw}]^7 y ^3[{+attack}]^7."
+
+REFERENCE           CASTLE_HINT_MELEE
+LANG_ENGLISH        "Pulsa ^3[{+melee}]^7 para sujetar al guardia."
+
+REFERENCE           CASTLE_HINT_OPEN_DOOR
+LANG_ENGLISH        "Pulsa ^3[{+activate}]^7 para abrir la puerta."
+
+REFERENCE           CASTLE_HINT_PARACHUTE_FLARE
+LANG_ENGLISH        "Usa ^3[{+speed_throw}]^7 y ^3[{+attack}]^7 para aumentar la velocidad de descenso."
+
+REFERENCE           CASTLE_HINT_PARACHUTE_STEER
+LANG_ENGLISH        "Mueve el ratón para dirigir el paracaídas."
+
+REFERENCE           CASTLE_HINT_PLANT_BOMB
+LANG_ENGLISH        "Mantén ^3[{+activate}]^7 para colocar la bomba."
+
+REFERENCE           CASTLE_HINT_PRONE
+LANG_ENGLISH        "Mantén ^3[{+stance}]^7 para echarte cuerpo a tierra."
+
+REFERENCE           CASTLE_INTROSCREEN_LINE_1
+LANG_ENGLISH        "\"Fortaleza\""
+
+REFERENCE           CASTLE_INTROSCREEN_LINE_2
+LANG_ENGLISH        "12 de octubre, 22:48:[{FAKE_INTRO_SECONDS:09}]"
+
+REFERENCE           CASTLE_INTROSCREEN_LINE_3
+LANG_ENGLISH        "Yuri"
+
+REFERENCE           CASTLE_INTROSCREEN_LINE_4
+LANG_ENGLISH        "Fuerza operativa 141 - Renegados"
+
+REFERENCE           CASTLE_INTROSCREEN_LINE_5
+LANG_ENGLISH        "Praga, República Checa"
+
+REFERENCE           CASTLE_KILLED_TOO_MANY_PRISONERS
+LANG_ENGLISH        "Has matado a demasiados prisioneros."
+
+REFERENCE           CASTLE_OBJECTIVE_COMM_ROOM
+LANG_ENGLISH        "Encuentra la estación de comunicaciones"
+
+REFERENCE           CASTLE_OBJECTIVE_COURTYARD_STEALTH
+LANG_ENGLISH        "Encuentra una entrada al castillo"
+
+REFERENCE           CASTLE_OBJECTIVE_DETONATE_BRIDGE
+LANG_ENGLISH        "Detona el C4 debajo del puente"
+
+REFERENCE           CASTLE_OBJECTIVE_ENTER_TRUCK
+LANG_ENGLISH        "Sube al camión"
+
+REFERENCE           CASTLE_OBJECTIVE_ESCAPE_CASTLE
+LANG_ENGLISH        "Huye del castillo"
+
+REFERENCE           CASTLE_OBJECTIVE_LANDING
+LANG_ENGLISH        "Llega a la zona de aterrizaje"
+
+REFERENCE           CASTLE_OBJECTIVE_MOTORPOOL_MELEE
+LANG_ENGLISH        "Elimina al guardia junto a la carretera sin ser detectado"
+
+REFERENCE           CASTLE_OBJECTIVE_PARACHUTE_TO_SAFETY
+LANG_ENGLISH        "Usa el paracaídas y ponte a salvo"
+
+REFERENCE           CASTLE_OBJECTIVE_PLANT_BOMB
+LANG_ENGLISH        "Coloca C4 bajo la plataforma"
+
+REFERENCE           CASTLE_OBJECTIVE_PLANT_BOMB_BRIDGE
+LANG_ENGLISH        "Coloca C4 en el puente"
+
+REFERENCE           CASTLE_OBJECTIVE_PRISON_CLEAR
+LANG_ENGLISH        "Despeja la cárcel"
+
+REFERENCE           CASTLE_OBJECTIVE_TIME_WALL_CHARGE
+LANG_ENGLISH        "Aprovecha los truenos para disimular la explosión"
+
+REFERENCE           CASTLE_SUPPORT
+LANG_ENGLISH        "Ayuda"
+
+REFERENCE           CASTLE_YOUR_ACTIONS_GOT_PRICE
+LANG_ENGLISH        "Tus actos han provocado la muerte del capitán Price."
+
+REFERENCE           SUBTITLE_CASTLE_ALX_CHECKWITH810
+LANG_ENGLISH        "^2Alexi: ^7Bajen ahí. Averigüen qué pasa."
+
+REFERENCE           SUBTITLE_CASTLE_ALX_THEDAUGHTER814
+LANG_ENGLISH        "^2Alexi: ^7La hija está allí. Será nuestra en cuestión de horas."
+
+REFERENCE           SUBTITLE_CASTLE_ALX_YESSIR812
+LANG_ENGLISH        "^2Alexi: ^7Sí, señor... Nuestros hombres van hacia Berlín."
+
+REFERENCE           SUBTITLE_CASTLE_MKV_CONFIRMED811
+LANG_ENGLISH        "^1Makarov: ^7Alexi, ¿ha confirmado su información?"
+
+REFERENCE           SUBTITLE_CASTLE_MKV_ISEE85
+LANG_ENGLISH        "^1Makarov: ^7Ya veo..."
+
+REFERENCE           SUBTITLE_CASTLE_MKV_LISTENING813
+LANG_ENGLISH        "^1Makarov: ^7¿Lo oye?"
+
+REFERENCE           SUBTITLE_CASTLE_MKV_OLDMAN87
+LANG_ENGLISH        "^1Makarov: ^7A un viejo cabezota que ha perdido el tren del mundo cambiante."
+
+REFERENCE           SUBTITLE_CASTLE_MKV_THISISWHAT86
+LANG_ENGLISH        "^1Makarov: ^7A esto nos enfrentamos, hermanos..."
+
+REFERENCE           SUBTITLE_CASTLE_MKV_UPDATED815
+LANG_ENGLISH        "^1Makarov: ^7Manténgame informado."
+
+REFERENCE           SUBTITLE_CASTLE_MKV_YOUTOO88
+LANG_ENGLISH        "^1Makarov: ^7Usted también cambiará."
+
+REFERENCE           SUBTITLE_CASTLE_NIK_CONTACT93
+LANG_ENGLISH        "^2Nikolai: ^7Contactaré con el americano."
+
+REFERENCE           SUBTITLE_CASTLE_NIK_LETYOUDOWN95
+LANG_ENGLISH        "^2Nikolai: ^7Da, capitán Price. No lo defraudaré."
+
+REFERENCE           SUBTITLE_CASTLE_NIK_ONMYWAY122
+LANG_ENGLISH        "^2Nikolai: ^7Vale. Voy de camino."
+
+REFERENCE           SUBTITLE_CASTLE_PRI_ABOUTTOCOLLAPSE610
+LANG_ENGLISH        "^2Price: ^7Todo esto parece a punto de derrumbarse..."
+
+REFERENCE           SUBTITLE_CASTLE_PRI_ALITTLETOOSLOW612
+LANG_ENGLISH        "^2Price: ^7Yuri, demasiado despacio."
+
+REFERENCE           SUBTITLE_CASTLE_PRI_ALRIGHTCMON35_2
+LANG_ENGLISH        "^2Price: ^7Bien... Vamos."
+
+REFERENCE           SUBTITLE_CASTLE_PRI_AREYOUDIM77
+LANG_ENGLISH        "^2Price: ^7¿Es usted corto? Nos matarán."
+
+REFERENCE           SUBTITLE_CASTLE_PRI_BEENSPOTTED114
+LANG_ENGLISH        "^2Price: ^7¡Nos han visto! ¡Dispare!"
+
+REFERENCE           SUBTITLE_CASTLE_PRI_BEFORESTARTED13
+LANG_ENGLISH        "^2Price: ^7Si esas luces lo pillan, estaremos acabados antes de empezar."
+
+REFERENCE           SUBTITLE_CASTLE_PRI_BEHINDUS111_2
+LANG_ENGLISH        "^2Price: ^7¡Yuri! ¡Detrás de nosotros!"
+
+REFERENCE           SUBTITLE_CASTLE_PRI_BLOWIT76_2
+LANG_ENGLISH        "^2Price: ^7Vuélelo."
+
+REFERENCE           SUBTITLE_CASTLE_PRI_BTRBLOCKING1413_1
+LANG_ENGLISH        "^2Price: ^7¡Ese BTR nos bloquea la salida!"
+
+REFERENCE           SUBTITLE_CASTLE_PRI_BTRS1413_4
+LANG_ENGLISH        "^2Price: ^7¡BTR!"
+
+REFERENCE           SUBTITLE_CASTLE_PRI_BURNTHISPLACE38
+LANG_ENGLISH        "^2Price: ^7Si es necesario, arrasaremos este lugar."
+
+REFERENCE           SUBTITLE_CASTLE_PRI_C4ONCOLUMN68
+LANG_ENGLISH        "^2Price: ^7Coloque más C4 en la columna."
+
+REFERENCE           SUBTITLE_CASTLE_PRI_C4PLATFORM37
+LANG_ENGLISH        "^2Price: ^7Ponga C4 en la plataforma."
+
+REFERENCE           SUBTITLE_CASTLE_PRI_CAMERASOUT45
+LANG_ENGLISH        "^2Price: ^7Tienen cámaras en el exterior del centro de mando. A ambos lados. Aquí y aquí."
+
+REFERENCE           SUBTITLE_CASTLE_PRI_CHANGEOFPLAN72
+LANG_ENGLISH        "^2Price: ^7Cambio de planes."
+
+REFERENCE           SUBTITLE_CASTLE_PRI_CHEERS47
+LANG_ENGLISH        "^2Price: ^7Gracias."
+
+REFERENCE           SUBTITLE_CASTLE_PRI_CHUTEREADY115
+LANG_ENGLISH        "^2Price: ^7¡Prepare su paracaídas!"
+
+REFERENCE           SUBTITLE_CASTLE_PRI_CLEAR44
+LANG_ENGLISH        "^2Price: ^7Despejado."
+
+REFERENCE           SUBTITLE_CASTLE_PRI_CLEARGO310
+LANG_ENGLISH        "^2Price: ^7Despejado. Vamos."
+
+REFERENCE           SUBTITLE_CASTLE_PRI_CLIMBUPHERE78
+LANG_ENGLISH        "^2Price: ^7Podemos subir trepando. Vamos."
+
+REFERENCE           SUBTITLE_CASTLE_PRI_CMON26
+LANG_ENGLISH        "^2Price: ^7Vamos."
+
+REFERENCE           SUBTITLE_CASTLE_PRI_COMPROMISED116
+LANG_ENGLISH        "^2Price: ^7¡Estamos comprometidos! ¡Mátelos!"
+
+REFERENCE           SUBTITLE_CASTLE_PRI_COVERINGFIRE103_1
+LANG_ENGLISH        "^2Price: ^7¡Quiero fuego de cobertura!"
+
+REFERENCE           SUBTITLE_CASTLE_PRI_COVEROURBACKS111_1
+LANG_ENGLISH        "^2Price: ^7¡Cúbranos!"
+
+REFERENCE           SUBTITLE_CASTLE_PRI_DAFT55
+LANG_ENGLISH        "^2Price: ^7¿Está atontado? Obedezca."
+
+REFERENCE           SUBTITLE_CASTLE_PRI_DETONATE103
+LANG_ENGLISH        "^2Price: ^7¡Detone las cargas!"
+
+REFERENCE           SUBTITLE_CASTLE_PRI_DETONATING1412_1
+LANG_ENGLISH        "^2Price: ^7Detonación de C4... ¡Ahora!"
+
+REFERENCE           SUBTITLE_CASTLE_PRI_DOBETTER119
+LANG_ENGLISH        "^2Price: ^7Tendrá que esforzarse más..."
+
+REFERENCE           SUBTITLE_CASTLE_PRI_DOIT102
+LANG_ENGLISH        "^2Price: ^7Hágalo."
+
+REFERENCE           SUBTITLE_CASTLE_PRI_DOIT276_3
+LANG_ENGLISH        "^2Price: ^7Hágalo."
+
+REFERENCE           SUBTITLE_CASTLE_PRI_DONTHAVETIME25
+LANG_ENGLISH        "^2Price: ^7No tengo tiempo para esto, Yuri. Venga aquí."
+
+REFERENCE           SUBTITLE_CASTLE_PRI_DONTSLOWDOWN98
+LANG_ENGLISH        "^2Price: ^7¡No se detenga ahora, Yuri!"
+
+REFERENCE           SUBTITLE_CASTLE_PRI_DOTHATAGAIN117
+LANG_ENGLISH        "^2Price: ^7Vuelva a hacerlo y yo mismo me ocuparé de usted."
+
+REFERENCE           SUBTITLE_CASTLE_PRI_DOWNNOW816
+LANG_ENGLISH        "^2Price: ^7¡Abajo! ¡Ahora!"
+
+REFERENCE           SUBTITLE_CASTLE_PRI_EASY39
+LANG_ENGLISH        "^2Price: ^7Calma..."
+
+REFERENCE           SUBTITLE_CASTLE_PRI_FALLBEHIND66
+LANG_ENGLISH        "^2Price: ^7Intente no quedarse atrás."
+
+REFERENCE           SUBTITLE_CASTLE_PRI_FARSIDE111_1
+LANG_ENGLISH        "^2Price: ^7La sala de seguridad está al otro lado del complejo."
+
+REFERENCE           SUBTITLE_CASTLE_PRI_FLASHBANG124_1
+LANG_ENGLISH        "^2Price: ^7¡Cegadora!"
+
+REFERENCE           SUBTITLE_CASTLE_PRI_FOCUSYURI76_5
+LANG_ENGLISH        "^2Price: ^7Concéntrese, Yuri."
+
+REFERENCE           SUBTITLE_CASTLE_PRI_GETDOWN12
+LANG_ENGLISH        "^2Price: ^7Al suelo."
+
+REFERENCE           SUBTITLE_CASTLE_PRI_GETIN1413_2
+LANG_ENGLISH        "^2Price: ^7¡Adentro, Yuri!"
+
+REFERENCE           SUBTITLE_CASTLE_PRI_GETOUTOFHERE263
+LANG_ENGLISH        "^2Price: ^7Salga de aquí. ¡Vamos!"
+
+REFERENCE           SUBTITLE_CASTLE_PRI_GETUNDER24
+LANG_ENGLISH        "^2Price: ^7Métase bajo los camiones."
+
+REFERENCE           SUBTITLE_CASTLE_PRI_GETUSOUT121
+LANG_ENGLISH        "^2Price: ^7Nikolai, sáquenos de aquí."
+
+REFERENCE           SUBTITLE_CASTLE_PRI_GO27_1
+LANG_ENGLISH        "^2Price: ^7Ya."
+
+REFERENCE           SUBTITLE_CASTLE_PRI_GO376_1
+LANG_ENGLISH        "^2Price: ^7Ya."
+
+REFERENCE           SUBTITLE_CASTLE_PRI_GOODFORNOTHING69_5
+LANG_ENGLISH        "^2Price: ^7Es usted un inútil. Yo me ocuparé de poner la carga."
+
+REFERENCE           SUBTITLE_CASTLE_PRI_HOLD221
+LANG_ENGLISH        "^2Price: ^7Espere..."
+
+REFERENCE           SUBTITLE_CASTLE_PRI_HOLDON21413_3
+LANG_ENGLISH        "^2Price: ^7¡Agárrese!"
+
+REFERENCE           SUBTITLE_CASTLE_PRI_HOLDON71
+LANG_ENGLISH        "^2Price: ^7Espere..."
+
+REFERENCE           SUBTITLE_CASTLE_PRI_HOWFEW58
+LANG_ENGLISH        "^2Price: ^7En la oscuridad no sabrán cuántos somos."
+
+REFERENCE           SUBTITLE_CASTLE_PRI_ILLDOIT103_2
+LANG_ENGLISH        "^2Price: ^7Vale. Lo haré yo."
+
+REFERENCE           SUBTITLE_CASTLE_PRI_ILLHANDLE25_4
+LANG_ENGLISH        "^2Price: ^7Yo me ocuparé."
+
+REFERENCE           SUBTITLE_CASTLE_PRI_INBERLIN92
+LANG_ENGLISH        "^2Price: ^7¡Nikolai, la hija está en Berlín! ¡Makarov ha enviado hombres!"
+
+REFERENCE           SUBTITLE_CASTLE_PRI_JUMP116
+LANG_ENGLISH        "^2Price: ^7¡Salte!"
+
+REFERENCE           SUBTITLE_CASTLE_PRI_JUMPGO2116_1
+LANG_ENGLISH        "^2Price: ^7¡Salte! ¡Vamos!"
+
+REFERENCE           SUBTITLE_CASTLE_PRI_JUSTABOVEUS73
+LANG_ENGLISH        "^2Price: ^7El centro de mando está sobre nosotros."
+
+REFERENCE           SUBTITLE_CASTLE_PRI_JUSTINTIME101
+LANG_ENGLISH        "^2Price: ^7Justo a tiempo."
+
+REFERENCE           SUBTITLE_CASTLE_PRI_KEEPMOVING297
+LANG_ENGLISH        "^2Price: ^7¡Avancen!"
+
+REFERENCE           SUBTITLE_CASTLE_PRI_KEEPUP11
+LANG_ENGLISH        "^2Price: ^7No se separe o lo dejaré atrás."
+
+REFERENCE           SUBTITLE_CASTLE_PRI_KNOCK46
+LANG_ENGLISH        "^2Price: ^7Tendremos que llamar a la puerta."
+
+REFERENCE           SUBTITLE_CASTLE_PRI_LAGGINGBEHIND17
+LANG_ENGLISH        "^2Price: ^7Se está quedando atrás, Yuri..."
+
+REFERENCE           SUBTITLE_CASTLE_PRI_LEFTSIDE296
+LANG_ENGLISH        "^2Price: ^7¡A la izquierda!"
+
+REFERENCE           SUBTITLE_CASTLE_PRI_LETSGO2113
+LANG_ENGLISH        "^2Price: ^7Vamos."
+
+REFERENCE           SUBTITLE_CASTLE_PRI_LIGHTEMUP115
+LANG_ENGLISH        "^2Price: ^7¡Los tenemos encima! ¡Acribíllelos!"
+
+REFERENCE           SUBTITLE_CASTLE_PRI_LOSTYOUREDGE29
+LANG_ENGLISH        "^2Price: ^7¿Tiene amnesia? Déjeme enseñarle cómo se hace."
+
+REFERENCE           SUBTITLE_CASTLE_PRI_MAKAROV84
+LANG_ENGLISH        "^2Price: ^7Makarov."
+
+REFERENCE           SUBTITLE_CASTLE_PRI_MISTAKES111
+LANG_ENGLISH        "^2Price: ^7Basta de errores. Vamos."
+
+REFERENCE           SUBTITLE_CASTLE_PRI_MOVE314
+LANG_ENGLISH        "^2Price: ^7Vamos."
+
+REFERENCE           SUBTITLE_CASTLE_PRI_MOVE4104
+LANG_ENGLISH        "^2Price: ^7¡Vamos!"
+
+REFERENCE           SUBTITLE_CASTLE_PRI_MOVEASIMOVE112
+LANG_ENGLISH        "^2Price: ^7Cuando estemos ahí abajo, muévase conmigo. Haga lo mismo que yo. ¿Entendido?"
+
+REFERENCE           SUBTITLE_CASTLE_PRI_NEVERMIND225_3
+LANG_ENGLISH        "^2Price: ^7Da igual. Yo lo haré."
+
+REFERENCE           SUBTITLE_CASTLE_PRI_NEVERMIND64
+LANG_ENGLISH        "^2Price: ^7Tampoco lo habría conseguido..."
+
+REFERENCE           SUBTITLE_CASTLE_PRI_NEXTTIME110
+LANG_ENGLISH        "^2Price: ^7La próxima dejaré que lo maten."
+
+REFERENCE           SUBTITLE_CASTLE_PRI_NIGHTVISIONON56
+LANG_ENGLISH        "^2Price: ^7Visión nocturna."
+
+REFERENCE           SUBTITLE_CASTLE_PRI_NOW2211
+LANG_ENGLISH        "^2Price: ^7¡Ahora!"
+
+REFERENCE           SUBTITLE_CASTLE_PRI_NOW376
+LANG_ENGLISH        "^2Price: ^7Ahora."
+
+REFERENCE           SUBTITLE_CASTLE_PRI_OLDWAY510
+LANG_ENGLISH        "^2Price: ^7Sin visión nocturna. Lo haremos a la antigua."
+
+REFERENCE           SUBTITLE_CASTLE_PRI_ONME2913
+LANG_ENGLISH        "^2Price: ^7¡Sígame!"
+
+REFERENCE           SUBTITLE_CASTLE_PRI_ONPOINT61
+LANG_ENGLISH        "^2Price: ^7Usted delante. Vamos."
+
+REFERENCE           SUBTITLE_CASTLE_PRI_ONYOURFEET91
+LANG_ENGLISH        "^2Price: ^7¡En pie! ¡Nos vamos!"
+
+REFERENCE           SUBTITLE_CASTLE_PRI_ONYOUROWN19
+LANG_ENGLISH        "^2Price: ^7Siga quedándose atrás y lo abandonaré."
+
+REFERENCE           SUBTITLE_CASTLE_PRI_OVEREHERE914
+LANG_ENGLISH        "^2Price: ^7¡Venga aquí!"
+
+REFERENCE           SUBTITLE_CASTLE_PRI_OVERHERE31
+LANG_ENGLISH        "^2Price: ^7Por aquí."
+
+REFERENCE           SUBTITLE_CASTLE_PRI_PAYATTENTION76_4
+LANG_ENGLISH        "^2Price: ^7Joder, Yuri. Preste atención."
+
+REFERENCE           SUBTITLE_CASTLE_PRI_PISSPOOR77_1
+LANG_ENGLISH        "^2Price: ^7Justo en el peor momento."
+
+REFERENCE           SUBTITLE_CASTLE_PRI_PITIFUL118
+LANG_ENGLISH        "^2Price: ^7Penoso."
+
+REFERENCE           SUBTITLE_CASTLE_PRI_PLANTC4COVER25_1
+LANG_ENGLISH        "^2Price: ^7Pondremos C4 para cubrir la huida."
+
+REFERENCE           SUBTITLE_CASTLE_PRI_PLANTC4HURRY69
+LANG_ENGLISH        "^2Price: ^7Ponga el puto C4, Yuri. Vamos."
+
+REFERENCE           SUBTITLE_CASTLE_PRI_PLANTTHEC425_2
+LANG_ENGLISH        "^2Price: ^7Coloque el C4, Yuri."
+
+REFERENCE           SUBTITLE_CASTLE_PRI_QUIET51
+LANG_ENGLISH        "^2Price: ^7Silencio..."
+
+REFERENCE           SUBTITLE_CASTLE_PRI_READY33_1
+LANG_ENGLISH        "^2Price: ^7¿Listo?"
+
+REFERENCE           SUBTITLE_CASTLE_PRI_REINFORCEMENTS2511
+LANG_ENGLISH        "^2Price: ^7¡Han pedido refuerzos!"
+
+REFERENCE           SUBTITLE_CASTLE_PRI_RESERVE114_1
+LANG_ENGLISH        "^2Price: ^7¡Espero que aún te quede el de reserva, Yuri!"
+
+REFERENCE           SUBTITLE_CASTLE_PRI_RPGS911
+LANG_ENGLISH        "^2Price: ^7¡RPG!"
+
+REFERENCE           SUBTITLE_CASTLE_PRI_SCREWTHISUP2212
+LANG_ENGLISH        "^2Price: ^7Muévase cuando lo haga yo. No la cague."
+
+REFERENCE           SUBTITLE_CASTLE_PRI_SECURITYOFFICE2312
+LANG_ENGLISH        "^2Price: ^7La sala de seguridad."
+
+REFERENCE           SUBTITLE_CASTLE_PRI_SHOOTOURWAY74
+LANG_ENGLISH        "^2Price: ^7Creo que no tendremos que entrar a tiros."
+
+REFERENCE           SUBTITLE_CASTLE_PRI_SLOPPYBASTARD43
+LANG_ENGLISH        "^2Price: ^7Es usted un puto chapucero, ¿lo sabe?"
+
+REFERENCE           SUBTITLE_CASTLE_PRI_SLOWINGME18
+LANG_ENGLISH        "^2Price: ^7Deje de retrasarme."
+
+REFERENCE           SUBTITLE_CASTLE_PRI_SORTEMOUT99
+LANG_ENGLISH        "^2Price: ^7¡Cárgueselos!"
+
+REFERENCE           SUBTITLE_CASTLE_PRI_SOTAKEITSLOW611
+LANG_ENGLISH        "^2Price: ^7... así que despacio."
+
+REFERENCE           SUBTITLE_CASTLE_PRI_STARTMOVING62
+LANG_ENGLISH        "^2Price: ^7Empiece a moverse, Yuri."
+
+REFERENCE           SUBTITLE_CASTLE_PRI_STAYWITHMEYURI128_1
+LANG_ENGLISH        "^2Price: ^7Quédese conmigo, Yuri."
+
+REFERENCE           SUBTITLE_CASTLE_PRI_STOPDONTMOVE35_1
+LANG_ENGLISH        "^2Price: ^7Alto... No se mueva."
+
+REFERENCE           SUBTITLE_CASTLE_PRI_SWEEPTHROUGH57
+LANG_ENGLISH        "^2Price: ^7Barra la zona enseguida."
+
+REFERENCE           SUBTITLE_CASTLE_PRI_TAKECARE52
+LANG_ENGLISH        "^2Price: ^7Me ocuparé de las luces."
+
+REFERENCE           SUBTITLE_CASTLE_PRI_TAKEHIMOUT27
+LANG_ENGLISH        "^2Price: ^7Acabe con él, pero no se deje pillar por el foco."
+
+REFERENCE           SUBTITLE_CASTLE_PRI_TENMINUTES65
+LANG_ENGLISH        "^2Price: ^7Tenemos diez minutos hasta que encuentren los cadáveres."
+
+REFERENCE           SUBTITLE_CASTLE_PRI_THEBODIES815_4
+LANG_ENGLISH        "^2Price: ^7Deben de haber encontrado los cuerpos..."
+
+REFERENCE           SUBTITLE_CASTLE_PRI_THISBRIDGE267
+LANG_ENGLISH        "^2Price: ^7Este puente es el único acceso a la base."
+
+REFERENCE           SUBTITLE_CASTLE_PRI_THISWAY316
+LANG_ENGLISH        "^2Price: ^7Por aquí. Ahora."
+
+REFERENCE           SUBTITLE_CASTLE_PRI_THROUGHERE912
+LANG_ENGLISH        "^2Price: ^7¡Venga aquí enseguida!"
+
+REFERENCE           SUBTITLE_CASTLE_PRI_THROUGHHERE910
+LANG_ENGLISH        "^2Price: ^7¡Por aquí! ¡Vamos!"
+
+REFERENCE           SUBTITLE_CASTLE_PRI_TIMETOGO435
+LANG_ENGLISH        "^2Price: ^7Hora de irse..."
+
+REFERENCE           SUBTITLE_CASTLE_PRI_UNDERTRUCKS223
+LANG_ENGLISH        "^2Price: ^7Bajo los camiones."
+
+REFERENCE           SUBTITLE_CASTLE_PRI_USEKNIFE228
+LANG_ENGLISH        "^2Price: ^7Use el cuchillo. Deprisa."
+
+REFERENCE           SUBTITLE_CASTLE_PRI_USINGFLARES59
+LANG_ENGLISH        "^2Price: ^7¡Tienen bengalas!"
+
+REFERENCE           SUBTITLE_CASTLE_PRI_WAIT315
+LANG_ENGLISH        "^2Price: ^7Espere..."
+
+REFERENCE           SUBTITLE_CASTLE_PRI_WAIT425_1
+LANG_ENGLISH        "^2Price: ^7¡Espere!"
+
+REFERENCE           SUBTITLE_CASTLE_PRI_WAITFORIT210
+LANG_ENGLISH        "^2Price: ^7Espere..."
+
+REFERENCE           SUBTITLE_CASTLE_PRI_WAITFORMYSIGNAL275
+LANG_ENGLISH        "^2Price: ^7El trueno disimulará el sonido de la explosión. Espere a mi señal."
+
+REFERENCE           SUBTITLE_CASTLE_PRI_WEAPONSFREE34_1
+LANG_ENGLISH        "^2Price: ^7¡Abra fuego!"
+
+REFERENCE           SUBTITLE_CASTLE_PRI_WEREGOOD3311
+LANG_ENGLISH        "^2Price: ^7Todo bien. Siga adelante."
+
+REFERENCE           SUBTITLE_CASTLE_PRI_WHATYOUKILL22
+LANG_ENGLISH        "^2Price: ^7Dispare solo a lo que pueda matar."
+
+REFERENCE           SUBTITLE_CASTLE_PRI_WHOLEBASE105_1
+LANG_ENGLISH        "^2Price: ^7¡Se nos va a echar encima toda la base! ¡Debemos darnos prisa!"
+
+REFERENCE           SUBTITLE_CASTLE_PRI_WILLBREAK94
+LANG_ENGLISH        "^2Price: ^7¡Si amenazan a la chica, Vorshevsky cederá!"
+
+REFERENCE           SUBTITLE_CASTLE_PRI_WITHTHIS815_3
+LANG_ENGLISH        "^2Price: ^7Así conseguiremos tiempo."
+
+REFERENCE           SUBTITLE_CASTLE_PRI_WRONG815_2
+LANG_ENGLISH        "^2Price: ^7Algo va mal..."
+
+REFERENCE           SUBTITLE_CASTLE_PRS_FORTHELAST81
+LANG_ENGLISH        "^2President Vorshevsky: ^7Por última... vez..."
+
+REFERENCE           SUBTITLE_CASTLE_PRS_IWILLDIE83
+LANG_ENGLISH        "^2President Vorshevsky: ^7Moriré antes de entregar los códigos nucleares..."
+
+REFERENCE           SUBTITLE_CASTLE_PRS_NOTBOW82
+LANG_ENGLISH        "^2President Vorshevsky: ^7No... me someteré... a las exigencias... de terroristas..."
+
+REFERENCE           SUBTITLE_CASTLE_RU1_NORESPONSE89
+LANG_ENGLISH        "^2Guard: ^7Seguimos sin respuesta de la sala de seguridad."
+
+ENDMARKER
