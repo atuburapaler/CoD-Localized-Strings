@@ -13,7 +13,7 @@ Compilation of **Localized Strings** from **Call of Duty** games. _Currently on 
 * **Call of Duty: Black Ops** (2010)
   
 # Notes
-- If you are editing strings that contain **Latin characters**, please first save the file in the **ISO 8859-1 (Western) encoder**.
+- If you are editing strings that contain **Latin characters** (such as Spanish), please first save the file in the **ISO 8859-1 (Western) encoder**.
 * "Merged" files contain the total set of all .str files in the game, they may include repeated lines of text, so if you want to do a full translation/conversion you may as well delete one of the duplicates or edit/translate them all.
   
 # Info
