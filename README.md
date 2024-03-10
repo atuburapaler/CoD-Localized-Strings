@@ -9,9 +9,9 @@ Compilation of **Localized Strings** from **Call of Duty** games. _Currently on 
 
 # Games
 > This repository is constantly growing, so this list is not definitive. New content is added regularly.
-- **Call of Duty: Modern Warfare 2** (2009)
+* **Call of Duty: Modern Warfare 2** (2009)
 * **Call of Duty: Black Ops** (2010)
-* - **Call of Duty: Modern Warfare 3** (2011)
+* **Call of Duty: Modern Warfare 3** (2011)
   
 # Notes
 - If you are editing strings that contain **Latin characters** (such as Spanish), please first save the file in the **ISO 8859-1 (Western) encoder**.
