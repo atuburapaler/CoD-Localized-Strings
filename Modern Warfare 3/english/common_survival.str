@@ -1,0 +1,502 @@
+// Dumped from fastfile "common_survival".
+// In their original format the strings might have been separated in multiple files.
+VERSION             "1"
+CONFIG              "C:/trees/cod3/cod3/bin/StringEd.cfg"
+FILENOTES           ""
+
+REFERENCE           HELLFIRE_DESTROYED
+LANG_ENGLISH        "Predator Drone has been destroyed."
+
+REFERENCE           HELLFIRE_DRONE_NOT_AVAILABLE
+LANG_ENGLISH        "Predator Drone is unavailable."
+
+REFERENCE           HELLFIRE_DRONE_VIEW
+LANG_ENGLISH        "CAMERA: UAV_DRONE_011"
+
+REFERENCE           HELLFIRE_FIRE
+LANG_ENGLISH        "-MISSILE LAUNCHED-"
+
+REFERENCE           HELLFIRE_MISSILE_VIEW
+LANG_ENGLISH        "CAMERA: MISSILE"
+
+REFERENCE           HELLFIRE_RELOADING
+LANG_ENGLISH        "-MISSILE IS RELOADING-"
+
+REFERENCE           HELLFIRE_RELOADING_WITH_TIME
+LANG_ENGLISH        "MISSILE RELOADED IN: "
+
+REFERENCE           HELLFIRE_USE_DRONE
+LANG_ENGLISH        "Press^3 [{+actionslot 4}] ^7to control the Predator Drone."
+
+REFERENCE           HELLFIRE_USE_DRONE_2
+LANG_ENGLISH        "Press^3 [{+actionslot 2}] ^7to control the Predator Drone."
+
+REFERENCE           KILLSTREAKS_A10_SUPPORT
+LANG_ENGLISH        "A-10 Support"
+
+REFERENCE           KILLSTREAKS_A10_SUPPORT_DESC
+LANG_ENGLISH        "Call in an A-10 Warthog strafe run."
+
+REFERENCE           KILLSTREAKS_AASTRIKE
+LANG_ENGLISH        "Air Superiority"
+
+REFERENCE           KILLSTREAKS_AASTRIKE_DESC
+LANG_ENGLISH        "Destroy enemy aircraft."
+
+REFERENCE           KILLSTREAKS_AA_MISSILE
+LANG_ENGLISH        "Anti-Air Missile"
+
+REFERENCE           KILLSTREAKS_AA_MISSILE_DESC
+LANG_ENGLISH        "Control an anti-air missile to shoot aircraft down."
+
+REFERENCE           KILLSTREAKS_AC130
+LANG_ENGLISH        "AC-130"
+
+REFERENCE           KILLSTREAKS_AC130_DESC
+LANG_ENGLISH        "Be the gunner of an AC-130."
+
+REFERENCE           KILLSTREAKS_AIRDROP
+LANG_ENGLISH        "Care Package"
+
+REFERENCE           KILLSTREAKS_AIRDROP_DESC
+LANG_ENGLISH        "Airdrop a random killstreak."
+
+REFERENCE           KILLSTREAKS_AIRDROP_JUGGERNAUT
+LANG_ENGLISH        "Juggernaut"
+
+REFERENCE           KILLSTREAKS_AIRDROP_JUGGERNAUT_DESC
+LANG_ENGLISH        "Receive advanced armor via Care Package."
+
+REFERENCE           KILLSTREAKS_AIRDROP_JUGGERNAUT_GL
+LANG_ENGLISH        "Juggernaut GL"
+
+REFERENCE           KILLSTREAKS_AIRDROP_JUGGERNAUT_GL_DESC
+LANG_ENGLISH        "Receive advanced armor via Care Package."
+
+REFERENCE           KILLSTREAKS_AIRDROP_JUGGERNAUT_RECON
+LANG_ENGLISH        "Juggernaut Recon"
+
+REFERENCE           KILLSTREAKS_AIRDROP_JUGGERNAUT_RECON_DESC
+LANG_ENGLISH        "Receive advanced armor via Care Package."
+
+REFERENCE           KILLSTREAKS_AIRDROP_MEGA
+LANG_ENGLISH        "Emergency Airdrop"
+
+REFERENCE           KILLSTREAKS_AIRDROP_MEGA_DESC
+LANG_ENGLISH        "Airdrop 4 random killstreaks or ammo."
+
+REFERENCE           KILLSTREAKS_AIRDROP_PREDATOR
+LANG_ENGLISH        "Care Package (Predator)"
+
+REFERENCE           KILLSTREAKS_AIRDROP_PREDATOR_DESC
+LANG_ENGLISH        "Drops a single use predator missile."
+
+REFERENCE           KILLSTREAKS_AIRDROP_REMOTE_TANK
+LANG_ENGLISH        "Assault Drone"
+
+REFERENCE           KILLSTREAKS_AIRDROP_REMOTE_TANK_DESC
+LANG_ENGLISH        "Airdrop an Assault Drone."
+
+REFERENCE           KILLSTREAKS_AIRDROP_SENTRY
+LANG_ENGLISH        "Sentry Gun"
+
+REFERENCE           KILLSTREAKS_AIRDROP_SENTRY_DESC
+LANG_ENGLISH        "Airdrop a placeable Sentry Gun."
+
+REFERENCE           KILLSTREAKS_AIRDROP_TEAM_AMMO
+LANG_ENGLISH        "Airdrop Team Ammo Resupply"
+
+REFERENCE           KILLSTREAKS_AIRDROP_TEAM_AMMO_DESC
+LANG_ENGLISH        "Resupply team ammo via Care Package."
+
+REFERENCE           KILLSTREAKS_AIRDROP_TRAP
+LANG_ENGLISH        "Airdrop Trap"
+
+REFERENCE           KILLSTREAKS_AIRDROP_TRAP_DESC
+LANG_ENGLISH        "Kill enemies with a booby-trapped airdrop crate."
+
+REFERENCE           KILLSTREAKS_AIRDROP_TROPHY
+LANG_ENGLISH        "Airdrop Personal Trophy."
+
+REFERENCE           KILLSTREAKS_AIRSTRIKE
+LANG_ENGLISH        "Airstrike"
+
+REFERENCE           KILLSTREAKS_AIRSTRIKE_DESC
+LANG_ENGLISH        "Call in an air strike on selected position."
+
+REFERENCE           KILLSTREAKS_AMMO
+LANG_ENGLISH        "Ammo Pickup"
+
+REFERENCE           KILLSTREAKS_AMMO_DESC
+LANG_ENGLISH        "Receive Ammo Pickup."
+
+REFERENCE           KILLSTREAKS_COUNTER_UAV
+LANG_ENGLISH        "Counter-UAV"
+
+REFERENCE           KILLSTREAKS_COUNTER_UAV_DESC
+LANG_ENGLISH        "Temporarily disables enemy radar."
+
+REFERENCE           KILLSTREAKS_DEPLOYABLE_AMMO
+LANG_ENGLISH        "Ammo Box"
+
+REFERENCE           KILLSTREAKS_DEPLOYABLE_AMMO_DESC
+LANG_ENGLISH        "Deploy an ammo box for your team."
+
+REFERENCE           KILLSTREAKS_DEPLOYABLE_EXP_AMMO
+LANG_ENGLISH        "Explosive Ammo Box"
+
+REFERENCE           KILLSTREAKS_DEPLOYABLE_EXP_AMMO_DESC
+LANG_ENGLISH        "Deploy an Explosive Ammo box for your team."
+
+REFERENCE           KILLSTREAKS_DEPLOYABLE_VEST
+LANG_ENGLISH        "Ballistic Vests"
+
+REFERENCE           KILLSTREAKS_DEPLOYABLE_VEST_DESC
+LANG_ENGLISH        "Deploy a bag of Ballistic Vests for your team."
+
+REFERENCE           KILLSTREAKS_DIRECTIONAL_UAV
+LANG_ENGLISH        "Directional UAV"
+
+REFERENCE           KILLSTREAKS_DIRECTIONAL_UAV_DESC
+LANG_ENGLISH        "Call a UAV that shows where your enemy is facing."
+
+REFERENCE           KILLSTREAKS_DOUBLE_UAV
+LANG_ENGLISH        "Advanced UAV"
+
+REFERENCE           KILLSTREAKS_DOUBLE_UAV_DESC
+LANG_ENGLISH        "UAV with faster sweep time."
+
+REFERENCE           KILLSTREAKS_EARNED_AIRDROP_MEGA
+LANG_ENGLISH        "Press [{+actionslot 4}] for EMERGENCY AIRDROP.\n"
+
+REFERENCE           KILLSTREAKS_EMP
+LANG_ENGLISH        "EMP"
+
+REFERENCE           KILLSTREAKS_EMP_DESC
+LANG_ENGLISH        "Temporarily disables enemy electronics."
+
+REFERENCE           KILLSTREAKS_ESCORT_AIRDROP
+LANG_ENGLISH        "Escort Airdrop"
+
+REFERENCE           KILLSTREAKS_ESCORT_AIRDROP_DESC
+LANG_ENGLISH        "An Osprey delivers and defends several care packages."
+
+REFERENCE           KILLSTREAKS_EXPLOSIVE_AMMO
+LANG_ENGLISH        "Explosive Ammo"
+
+REFERENCE           KILLSTREAKS_EXPLOSIVE_AMMO_DESC
+LANG_ENGLISH        "Swaps out your rounds for Explosive Ammo."
+
+REFERENCE           KILLSTREAKS_GL_TURRET
+LANG_ENGLISH        "Grenade Launcher Turret"
+
+REFERENCE           KILLSTREAKS_GL_TURRET_DESC
+LANG_ENGLISH        "Place and man a Grenade Launcher Turret."
+
+REFERENCE           KILLSTREAKS_HARRIER_AIRSTRIKE
+LANG_ENGLISH        "Harrier Strike"
+
+REFERENCE           KILLSTREAKS_HARRIER_AIRSTRIKE_DESC
+LANG_ENGLISH        "Airstrike with a hovering Harrier.\n"
+
+REFERENCE           KILLSTREAKS_HELICOPTER
+LANG_ENGLISH        "Attack Helicopter"
+
+REFERENCE           KILLSTREAKS_HELICOPTER_BLACKBOX
+LANG_ENGLISH        "Helicopter Blackbox"
+
+REFERENCE           KILLSTREAKS_HELICOPTER_BLACKBOX_DESC
+LANG_ENGLISH        "Longer lasting helicopter."
+
+REFERENCE           KILLSTREAKS_HELICOPTER_DESC
+LANG_ENGLISH        "Call in a support helicopter."
+
+REFERENCE           KILLSTREAKS_HELICOPTER_FLARES
+LANG_ENGLISH        "Defensive Helicopter"
+
+REFERENCE           KILLSTREAKS_HELICOPTER_FLARES_DESC
+LANG_ENGLISH        "Helicopter with flares."
+
+REFERENCE           KILLSTREAKS_HELICOPTER_MINIGUN
+LANG_ENGLISH        "Chopper Gunner"
+
+REFERENCE           KILLSTREAKS_HELICOPTER_MINIGUN_DESC
+LANG_ENGLISH        "Be the gunner of an attack helicopter."
+
+REFERENCE           KILLSTREAKS_HELICOPTER_MK19
+LANG_ENGLISH        "Helicopter Gunner"
+
+REFERENCE           KILLSTREAKS_HELICOPTER_MK19_DESC
+LANG_ENGLISH        "Remote control of a helicopter GL."
+
+REFERENCE           KILLSTREAKS_HELI_MINIGUNNER
+LANG_ENGLISH        "Heli Minigunner"
+
+REFERENCE           KILLSTREAKS_HELI_MINIGUNNER_DESC
+LANG_ENGLISH        "Get picked up by a Heli and man the Minigun."
+
+REFERENCE           KILLSTREAKS_HELI_SNIPER
+LANG_ENGLISH        "Heli Sniper"
+
+REFERENCE           KILLSTREAKS_HELI_SNIPER_DESC
+LANG_ENGLISH        "Get picked up by a Heli and Snipe from above."
+
+REFERENCE           KILLSTREAKS_IMS
+LANG_ENGLISH        "I.M.S."
+
+REFERENCE           KILLSTREAKS_IMS_DESC
+LANG_ENGLISH        "The Intelligent Munitions System detects and eliminates enemy combatants."
+
+REFERENCE           KILLSTREAKS_JUGGERNAUT
+LANG_ENGLISH        "Juggernaut"
+
+REFERENCE           KILLSTREAKS_LITTLEBIRD_FLOCK
+LANG_ENGLISH        "Strafe Run"
+
+REFERENCE           KILLSTREAKS_LITTLEBIRD_FLOCK_DESC
+LANG_ENGLISH        "Strafing Run of 5 Attack Helicopters."
+
+REFERENCE           KILLSTREAKS_LITTLEBIRD_SUPPORT
+LANG_ENGLISH        "AH-6 Overwatch"
+
+REFERENCE           KILLSTREAKS_LITTLEBIRD_SUPPORT_DESC
+LANG_ENGLISH        "Get personal air support from an AH-6 Overwatch."
+
+REFERENCE           KILLSTREAKS_MINIGUN_TURRET
+LANG_ENGLISH        "Minigun Turret"
+
+REFERENCE           KILLSTREAKS_MINIGUN_TURRET_DESC
+LANG_ENGLISH        "Place and man a Minigun Turret."
+
+REFERENCE           KILLSTREAKS_MOBILE_MORTAR
+LANG_ENGLISH        "Mobile Mortar"
+
+REFERENCE           KILLSTREAKS_MOBILE_MORTAR_DESC
+LANG_ENGLISH        "Call in defendable mortar ground support."
+
+REFERENCE           KILLSTREAKS_NONE
+LANG_ENGLISH        "None"
+
+REFERENCE           KILLSTREAKS_NONE_DESC
+LANG_ENGLISH        "No kill streak selected."
+
+REFERENCE           KILLSTREAKS_OSPREY_GUNNER
+LANG_ENGLISH        "Osprey Gunner"
+
+REFERENCE           KILLSTREAKS_OSPREY_GUNNER_DESC
+LANG_ENGLISH        "Be the gunner of an Osprey delivering several care packages."
+
+REFERENCE           KILLSTREAKS_PAVELOW
+LANG_ENGLISH        "Pave Low"
+
+REFERENCE           KILLSTREAKS_PAVELOW_DESC
+LANG_ENGLISH        "Heavily armored assault helicopter."
+
+REFERENCE           KILLSTREAKS_PRECISION_AIRSTRIKE
+LANG_ENGLISH        "Precision Airstrike"
+
+REFERENCE           KILLSTREAKS_PRECISION_AIRSTRIKE_DESC
+LANG_ENGLISH        "Call in a directional airstrike."
+
+REFERENCE           KILLSTREAKS_PREDATOR_MISSILE
+LANG_ENGLISH        "Predator Missile"
+
+REFERENCE           KILLSTREAKS_PREDATOR_MISSILE_DESC
+LANG_ENGLISH        "Remote control missile."
+
+REFERENCE           KILLSTREAKS_REMOTE_MG_TURRET
+LANG_ENGLISH        "Remote Sentry"
+
+REFERENCE           KILLSTREAKS_REMOTE_MG_TURRET_DESC
+LANG_ENGLISH        "Toss a small turret and remotely control it."
+
+REFERENCE           KILLSTREAKS_REMOTE_MORTAR
+LANG_ENGLISH        "Reaper"
+
+REFERENCE           KILLSTREAKS_REMOTE_MORTAR_DESC
+LANG_ENGLISH        "Lase missile targets remotely from the Reaper UAV."
+
+REFERENCE           KILLSTREAKS_REMOTE_TANK
+LANG_ENGLISH        "Assault Drone"
+
+REFERENCE           KILLSTREAKS_REMOTE_TANK_DESC
+LANG_ENGLISH        "Remote control an assault ground vehicle."
+
+REFERENCE           KILLSTREAKS_REMOTE_UAV
+LANG_ENGLISH        "Recon Drone"
+
+REFERENCE           KILLSTREAKS_REMOTE_UAV_DESC
+LANG_ENGLISH        "Control a Recon Drone, targeting enemies for your team."
+
+REFERENCE           KILLSTREAKS_SAM_TURRET
+LANG_ENGLISH        "SAM Turret"
+
+REFERENCE           KILLSTREAKS_SAM_TURRET_DESC
+LANG_ENGLISH        "Automated SAM turret that destroys aerial killstreaks."
+
+REFERENCE           KILLSTREAKS_SENTRY
+LANG_ENGLISH        "Sentry Gun"
+
+REFERENCE           KILLSTREAKS_SENTRY_DESC
+LANG_ENGLISH        "Place an automated Sentry Gun."
+
+REFERENCE           KILLSTREAKS_STEALTH_AIRSTRIKE
+LANG_ENGLISH        "Stealth Bomber"
+
+REFERENCE           KILLSTREAKS_STEALTH_AIRSTRIKE_DESC
+LANG_ENGLISH        "Airstrike undetectable on enemy maps."
+
+REFERENCE           KILLSTREAKS_SUPER_AIRSTRIKE
+LANG_ENGLISH        "Super Airstrike"
+
+REFERENCE           KILLSTREAKS_SUPER_AIRSTRIKE_DESC
+LANG_ENGLISH        "Airstrike with some extra kick."
+
+REFERENCE           KILLSTREAKS_TACTICAL_NUKE
+LANG_ENGLISH        "M.O.A.B."
+
+REFERENCE           KILLSTREAKS_TACTICAL_NUKE_DESC
+LANG_ENGLISH        "End the game with a bang."
+
+REFERENCE           KILLSTREAKS_TANK
+LANG_ENGLISH        "Tank"
+
+REFERENCE           KILLSTREAKS_TANK_DESC
+LANG_ENGLISH        "A tank."
+
+REFERENCE           KILLSTREAKS_TEAM_AMMO_REFILL
+LANG_ENGLISH        "Team Ammo Refill"
+
+REFERENCE           KILLSTREAKS_TEAM_AMMO_REFILL_DESC
+LANG_ENGLISH        "Give everyone on your team an immediate ammo refill."
+
+REFERENCE           KILLSTREAKS_TRIPLE_UAV
+LANG_ENGLISH        "Advanced UAV"
+
+REFERENCE           KILLSTREAKS_TRIPLE_UAV_DESC
+LANG_ENGLISH        "Call in a Orbital Recon that shows the direction your enemy is facing."
+
+REFERENCE           KILLSTREAKS_UAV
+LANG_ENGLISH        "UAV"
+
+REFERENCE           KILLSTREAKS_UAV_DESC
+LANG_ENGLISH        "Shows enemies on the minimap."
+
+REFERENCE           KILLSTREAKS_UAV_STRIKE
+LANG_ENGLISH        "Laser Designated Strike"
+
+REFERENCE           KILLSTREAKS_UAV_STRIKE_DESC
+LANG_ENGLISH        "Laze your target and watch the fireworks."
+
+REFERENCE           SENTRY_CANNOT_PLACE
+LANG_ENGLISH        "Move the turret to a valid location."
+
+REFERENCE           SENTRY_DEBUG_SPAWN_ENEMIES
+LANG_ENGLISH        "Enemies spawn in 10 seconds"
+
+REFERENCE           SENTRY_MOVE
+LANG_ENGLISH        "Press and hold ^3&&1^7 to move the turret."
+
+REFERENCE           SENTRY_PICKUP
+LANG_ENGLISH        "Press and hold ^3&&1^7 to pick up the turret."
+
+REFERENCE           SENTRY_PLACE
+LANG_ENGLISH        "Press ^3[{+attack}]^7 to place the turret."
+
+REFERENCE           SP_KILLSTREAKS_C4_PICKUP
+LANG_ENGLISH        "Press and hold [{+activate}] for C4"
+
+REFERENCE           SP_KILLSTREAKS_CAPTURING_CRATE
+LANG_ENGLISH        "Capturing..."
+
+REFERENCE           SP_KILLSTREAKS_CRATE_HIJACK_DESC
+LANG_ENGLISH        "The enemy captured your Care Package."
+
+REFERENCE           SP_KILLSTREAKS_CRATE_HIJACK_TITLE
+LANG_ENGLISH        "Hijacked!"
+
+REFERENCE           SP_KILLSTREAKS_EARNED_AIRDROP
+LANG_ENGLISH        "Press [{+actionslot 4}] for ^3CARE PACKAGE^7."
+
+REFERENCE           SP_KILLSTREAKS_EARNED_AIRDROP_C4
+LANG_ENGLISH        "Press [{+actionslot 4}] for ^3C4 AIRDROP^7."
+
+REFERENCE           SP_KILLSTREAKS_EARNED_AIRDROP_SENTRY
+LANG_ENGLISH        "Press [{+actionslot 4}] for ^3SENTRY AIRDROP^7."
+
+REFERENCE           SP_KILLSTREAKS_EARNED_NUKE
+LANG_ENGLISH        "Press [{+actionslot 4}] for ^1TACTICAL NUKE^7."
+
+REFERENCE           SP_KILLSTREAKS_EARNED_PARADROP
+LANG_ENGLISH        "Press [{+actionslot 4}] for ^3PARATROOPER SUPPORT^7."
+
+REFERENCE           SP_KILLSTREAKS_EARNED_PRECISION_AIRSTRIKE
+LANG_ENGLISH        "Press [{+actionslot 4}] for ^3PRECISION AIRSTRIKE^7."
+
+REFERENCE           SP_KILLSTREAKS_EARNED_PREDATOR_MISSILE
+LANG_ENGLISH        "Press [{+actionslot 4}] for ^3PREDATOR MISSILE^7."
+
+REFERENCE           SP_KILLSTREAKS_EARNED_STEALTH_AIRSTRIKE
+LANG_ENGLISH        "Press [{+actionslot 4}] for ^3STEALTH BOMBER^7."
+
+REFERENCE           SP_KILLSTREAKS_PRECISION_AIRSTRIKE_PICKUP
+LANG_ENGLISH        "Press and hold [{+activate}] for a Precision Airstrike"
+
+REFERENCE           SP_KILLSTREAKS_REMOTEMISSILE_PICKUP
+LANG_ENGLISH        "Press and hold [{+activate}] for a Predator Missile"
+
+REFERENCE           SP_KILLSTREAKS_REWARDNAME_AIRDROP
+LANG_ENGLISH        "Reward: Care Package"
+
+REFERENCE           SP_KILLSTREAKS_REWARDNAME_AIRDROP_AMMO
+LANG_ENGLISH        "Reward: Ammo Crate Airdrop"
+
+REFERENCE           SP_KILLSTREAKS_REWARDNAME_AIRDROP_C4
+LANG_ENGLISH        "Reward: C4 Airdrop"
+
+REFERENCE           SP_KILLSTREAKS_REWARDNAME_AIRDROP_SENTRY
+LANG_ENGLISH        "Reward: Sentry Airdrop"
+
+REFERENCE           SP_KILLSTREAKS_REWARDNAME_PRECISION_AIRSTRIKE
+LANG_ENGLISH        "Reward: Precision Airstrike"
+
+REFERENCE           SP_KILLSTREAKS_REWARDNAME_REMOTEMISSILE
+LANG_ENGLISH        "Reward: Predator Missile"
+
+REFERENCE           SP_KILLSTREAKS_REWARDNAME_SENTRY
+LANG_ENGLISH        "Reward: Sentry Gun"
+
+REFERENCE           SP_KILLSTREAKS_REWARDNAME_STEALTH_AIRSTRIKE
+LANG_ENGLISH        "Reward: Stealth Bomber"
+
+REFERENCE           SP_KILLSTREAKS_SENTRY_PICKUP
+LANG_ENGLISH        "Press and hold [{+activate}] for a Sentry Gun"
+
+REFERENCE           SP_KILLSTREAKS_SHAREPACKAGE_DESC
+LANG_ENGLISH        "A teammate saved your Care Package from the enemy!"
+
+REFERENCE           SP_KILLSTREAKS_SHAREPACKAGE_TITLE
+LANG_ENGLISH        "Share Package!"
+
+REFERENCE           SP_KILLSTREAKS_SPECIALTY_BULLETACCURACY_PICKUP
+LANG_ENGLISH        "Press and hold [{+activate}] for Perk: Steady Aim"
+
+REFERENCE           SP_KILLSTREAKS_SPECIALTY_DETECTEXPLOSIVE_PICKUP
+LANG_ENGLISH        "Press and hold [{+activate}] for Perk: SitRep"
+
+REFERENCE           SP_KILLSTREAKS_SPECIALTY_FASTRELOAD_PICKUP
+LANG_ENGLISH        "Press and hold [{+activate}] for Perk: Sleight of Hand"
+
+REFERENCE           SP_KILLSTREAKS_SPECIALTY_LONGERSPRINT_PICKUP
+LANG_ENGLISH        "Press and hold [{+activate}] for Perk: Extreme Conditioning"
+
+REFERENCE           SP_KILLSTREAKS_SPECIALTY_QUICKDRAW_PICKUP
+LANG_ENGLISH        "Press and hold [{+activate}] for Perk: Quickdraw"
+
+REFERENCE           SP_KILLSTREAKS_SPECIALTY_STALKER_PICKUP
+LANG_ENGLISH        "Press and hold [{+activate}] for Perk: Stalker"
+
+REFERENCE           SP_KILLSTREAKS_STEALTH_AIRSTRIKE_PICKUP
+LANG_ENGLISH        "Press and hold [{+activate}] for a Stealth Bomber"
+
+ENDMARKER

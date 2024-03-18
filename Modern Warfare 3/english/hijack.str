@@ -1,0 +1,439 @@
+// Dumped from fastfile "hijack".
+// In their original format the strings might have been separated in multiple files.
+VERSION             "1"
+CONFIG              "C:/trees/cod3/cod3/bin/StringEd.cfg"
+FILENOTES           ""
+
+REFERENCE           HIJACK_FAIL_CRASH
+LANG_ENGLISH        "The plane has crashed"
+
+REFERENCE           HIJACK_FAIL_TARMAC
+LANG_ENGLISH        "You failed to secure the President in time"
+
+REFERENCE           HIJACK_FELL_OUT_OF_PLANE
+LANG_ENGLISH        "Stay away from the edge to prevent falling out"
+
+REFERENCE           HIJACK_FOLLOW_PRES
+LANG_ENGLISH        "Escort the President"
+
+REFERENCE           HIJACK_INTROSCREEN_LINE1
+LANG_ENGLISH        "\"Turbulence\""
+
+REFERENCE           HIJACK_INTROSCREEN_LINE2
+LANG_ENGLISH        "October 3rd - 18:30:[{FAKE_INTRO_SECONDS:15}]"
+
+REFERENCE           HIJACK_INTROSCREEN_LINE3
+LANG_ENGLISH        "Andrei Harkov"
+
+REFERENCE           HIJACK_INTROSCREEN_LINE4
+LANG_ENGLISH        "Russian FSO Agent"
+
+REFERENCE           HIJACK_INTROSCREEN_LINE5
+LANG_ENGLISH        "Il-96-300PU - \"Command Point\""
+
+REFERENCE           HIJACK_MISSIONFAIL_ALENA
+LANG_ENGLISH        "You killed Alena!"
+
+REFERENCE           HIJACK_MISSIONFAIL_PRESIDENT
+LANG_ENGLISH        "You killed President Vorshevsky!"
+
+REFERENCE           HIJACK_MOVE_PRES
+LANG_ENGLISH        "Lead the President to safety"
+
+REFERENCE           HIJACK_OBJ_COMMANDER
+LANG_ENGLISH        "Follow the Commander"
+
+REFERENCE           HIJACK_OBJ_DAUGHTER
+LANG_ENGLISH        "Secure the President's daughter"
+
+REFERENCE           HIJACK_OBJ_ESCAPE_HATCH
+LANG_ENGLISH        "Lead the President to the safe room."
+
+REFERENCE           HIJACK_OBJ_PRESIDENT_END
+LANG_ENGLISH        "Secure the President"
+
+REFERENCE           HIJACK_OPEN_HELI_DOOR
+LANG_ENGLISH        "Press ^3[{+activate}]^7 to open"
+
+REFERENCE           HIJACK_TAKE_POS
+LANG_ENGLISH        "Move to guard position"
+
+REFERENCE           SUBTITLE_HIJACK_ADV2_HELLOMR223
+LANG_ENGLISH        "^2Bogdan Sokolov: ^7Hello, Mr. President."
+
+REFERENCE           SUBTITLE_HIJACK_ADV3_SIR224
+LANG_ENGLISH        "^2Advisor 3: ^7Sir."
+
+REFERENCE           SUBTITLE_HIJACK_ADV4_MRPRESIDENT225
+LANG_ENGLISH        "^2Pavel Morozov: ^7President."
+
+REFERENCE           SUBTITLE_HIJACK_ADV_FINISH28
+LANG_ENGLISH        "^2Vasilii Zhukov: ^7Mr. President, the decision is simple. The United States started the war; we must finish it.  Decisively."
+
+REFERENCE           SUBTITLE_HIJACK_ADV_MRPRESIDENT2221
+LANG_ENGLISH        "^2Vasili Zhukov: ^7Mr. President."
+
+REFERENCE           SUBTITLE_HIJACK_ADV_MRPRESIDENT25
+LANG_ENGLISH        "^2Vasilii Zhukov: ^7Good to see you, Mr. President."
+
+REFERENCE           SUBTITLE_HIJACK_ADV_NOTTHETIME227
+LANG_ENGLISH        "^2Vasili Zhukov: ^7Mr. President, now is not the time to appease our enemies. "
+
+REFERENCE           SUBTITLE_HIJACK_ALN_DONTLIKE213
+LANG_ENGLISH        "^2Alena: ^7I don't like him."
+
+REFERENCE           SUBTITLE_HIJACK_ALN_FATHER55
+LANG_ENGLISH        "^2Alena: ^7Father!"
+
+REFERENCE           SUBTITLE_HIJACK_ALN_FINDMYFATHER523
+LANG_ENGLISH        "^2Alena: ^7Find my father!"
+
+REFERENCE           SUBTITLE_HIJACK_ALN_HELPME523_2
+LANG_ENGLISH        "^2Alena: ^7Help me!"
+
+REFERENCE           SUBTITLE_HIJACK_ALN_TELLHIM215
+LANG_ENGLISH        "^2Alena: ^7What will you tell him?"
+
+REFERENCE           SUBTITLE_HIJACK_ALN_VASILISWAITING210
+LANG_ENGLISH        "^2Alena: ^7Vasili's waiting for you, Father."
+
+REFERENCE           SUBTITLE_HIJACK_ALN_WANTTOHEAR217
+LANG_ENGLISH        "^2Alena: ^7He won't want to hear it."
+
+REFERENCE           SUBTITLE_HIJACK_ALN_WHEREISMY522
+LANG_ENGLISH        "^2Alena: ^7Where is my father?!"
+
+REFERENCE           SUBTITLE_HIJACK_CMD_ADDITIONALHIJACK517
+LANG_ENGLISH        "^2Commander: ^7All teams, there are additional hijackers on the lower deck. "
+
+REFERENCE           SUBTITLE_HIJACK_CMD_ALLCLEAR53
+LANG_ENGLISH        "^2Commander: ^7All clear. "
+
+REFERENCE           SUBTITLE_HIJACK_CMD_ALLTEAMS47
+LANG_ENGLISH        "^2Commander: ^7Code Red. I repeat ..."
+
+REFERENCE           SUBTITLE_HIJACK_CMD_BACKUPONWAY52
+LANG_ENGLISH        "^2Commander: ^7Team 3, backup is on the way."
+
+REFERENCE           SUBTITLE_HIJACK_CMD_CHOPPERSHERE131
+LANG_ENGLISH        "^2Commander: ^7Evac choppers are here. Let's move, Harkov."
+
+REFERENCE           SUBTITLE_HIJACK_CMD_CLEARAHEAD57
+LANG_ENGLISH        "^2Commander: ^7Harkov and Federov, we need to clear the area ahead - then we'll move the President on my order. "
+
+REFERENCE           SUBTITLE_HIJACK_CMD_COMEON104
+LANG_ENGLISH        "^2Commander: ^7Harkov, come on."
+
+REFERENCE           SUBTITLE_HIJACK_CMD_DAMNIT44
+LANG_ENGLISH        "^2Commander: ^7Damn it, Team 3!  Report!"
+
+REFERENCE           SUBTITLE_HIJACK_CMD_DAUGHTERSECURE91
+LANG_ENGLISH        "^2Commander: ^7All clear! Daughter secure!"
+
+REFERENCE           SUBTITLE_HIJACK_CMD_EVACCHOPPERS1021
+LANG_ENGLISH        "^2Commander: ^7Evac choppers are here. Let's move, Harkov."
+
+REFERENCE           SUBTITLE_HIJACK_CMD_EVACONTHEWAY1017
+LANG_ENGLISH        "^2Commander: ^7All teams, secure your sectors. Evac is on the way."
+
+REFERENCE           SUBTITLE_HIJACK_CMD_EVERYONEDOWN45
+LANG_ENGLISH        "^2Commander: ^7Everyone down!  Protect the President!"
+
+REFERENCE           SUBTITLE_HIJACK_CMD_EVERYONEOK411
+LANG_ENGLISH        "^2Commander: ^7Is everyone okay?"
+
+REFERENCE           SUBTITLE_HIJACK_CMD_FINDPRESIDENT2102
+LANG_ENGLISH        "^2Commander: ^7Harkov, with me. We've got to find the President."
+
+REFERENCE           SUBTITLE_HIJACK_CMD_FINDPRESIDENT58
+LANG_ENGLISH        "^2Commander: ^7Come on, Agent Harkov. We have to find the President."
+
+REFERENCE           SUBTITLE_HIJACK_CMD_GETALENAOUT151
+LANG_ENGLISH        "^2Commander: ^7Team 2, get Alena out of there. All other agents close in on the president's location."
+
+REFERENCE           SUBTITLE_HIJACK_CMD_GETDOWN43
+LANG_ENGLISH        "^2Commander: ^7Mr. President, get down. Team 3, status report."
+
+REFERENCE           SUBTITLE_HIJACK_CMD_GETYOUOUT1023
+LANG_ENGLISH        "^2Commander: ^7Mr. President, we have to get you out of here."
+
+REFERENCE           SUBTITLE_HIJACK_CMD_GUNFIRE41
+LANG_ENGLISH        "^2Commander: ^7That's gunfire."
+
+REFERENCE           SUBTITLE_HIJACK_CMD_HARKOVALIVE510
+LANG_ENGLISH        "^2Commander: ^7Harkov, you're alive. Come on, we have to find the President."
+
+REFERENCE           SUBTITLE_HIJACK_CMD_HEADDOWN618
+LANG_ENGLISH        "^2Commander: ^7Mr. President, stay behind cover and keep your head down."
+
+REFERENCE           SUBTITLE_HIJACK_CMD_HOLDONHARK48_1
+LANG_ENGLISH        "^2Commander: ^7Hold on, Harkov!"
+
+REFERENCE           SUBTITLE_HIJACK_CMD_HOLDYOURFIRE201
+LANG_ENGLISH        "^2Commander: ^7FSO inbound! Hold your fire! Hold your fire!"
+
+REFERENCE           SUBTITLE_HIJACK_CMD_KEEPMOVING2103
+LANG_ENGLISH        "^2Commander: ^7Keep moving, Harkov."
+
+REFERENCE           SUBTITLE_HIJACK_CMD_KEEPPUSHING2172
+LANG_ENGLISH        "^2Commander: ^7Keep pushing forward!"
+
+REFERENCE           SUBTITLE_HIJACK_CMD_KEEPPUSHING514
+LANG_ENGLISH        "^2Commander: ^7Keep pushing forward, Harkov."
+
+REFERENCE           SUBTITLE_HIJACK_CMD_LETSGO105
+LANG_ENGLISH        "^2Commander: ^7Let's go. "
+
+REFERENCE           SUBTITLE_HIJACK_CMD_LETSMOVEIT171
+LANG_ENGLISH        "^2Commander: ^7Let's move it, Harkov!"
+
+REFERENCE           SUBTITLE_HIJACK_CMD_MOVEUPMOVEUP174
+LANG_ENGLISH        "^2Commander: ^7Move up! Move up!"
+
+REFERENCE           SUBTITLE_HIJACK_CMD_MOVEYOUNOW1027
+LANG_ENGLISH        "^2Commander: ^7She's being secured, sir. We need to move you now. "
+
+REFERENCE           SUBTITLE_HIJACK_CMD_ONME326
+LANG_ENGLISH        "^2Commander: ^7Harkov, on me."
+
+REFERENCE           SUBTITLE_HIJACK_CMD_ONOURWAY206
+LANG_ENGLISH        "^2Commander : ^7We're on our way. "
+
+REFERENCE           SUBTITLE_HIJACK_CMD_OPENTHEDOOR2715
+LANG_ENGLISH        "^2Commander: ^7Harkov, open the door!"
+
+REFERENCE           SUBTITLE_HIJACK_CMD_OPENTHEDOOR714
+LANG_ENGLISH        "^2Commander: ^7Harkov, open the door!"
+
+REFERENCE           SUBTITLE_HIJACK_CMD_PERIMETER101
+LANG_ENGLISH        "^2Commander: ^7Secure the daughter and move her to safety."
+
+REFERENCE           SUBTITLE_HIJACK_CMD_PRESIDENTINSIDE71
+LANG_ENGLISH        "^2Commander: ^7Get the President inside!"
+
+REFERENCE           SUBTITLE_HIJACK_CMD_PRESOK412
+LANG_ENGLISH        "^2Commander: ^7Mr. President, are you okay?"
+
+REFERENCE           SUBTITLE_HIJACK_CMD_PRESTOSAFEROOM518
+LANG_ENGLISH        "^2Commander: ^7We have to get to the President to the saferoom."
+
+REFERENCE           SUBTITLE_HIJACK_CMD_PROTECTPRES516
+LANG_ENGLISH        "^2Commander: ^7Fedorov, protect the President."
+
+REFERENCE           SUBTITLE_HIJACK_CMD_RETAKECOCKPIT51
+LANG_ENGLISH        "^2Commander: ^7Team 2, retake the cockpit."
+
+REFERENCE           SUBTITLE_HIJACK_CMD_ROOMCLEAR519
+LANG_ENGLISH        "^2Commander: ^7Room clear!"
+
+REFERENCE           SUBTITLE_HIJACK_CMD_SAFEROOM92
+LANG_ENGLISH        "^2Commander: ^7Move the President to the saferoom.  Harkov, Federov, move up!"
+
+REFERENCE           SUBTITLE_HIJACK_CMD_SAFETY49
+LANG_ENGLISH        "^2Commander: ^7We're taking the President to the saferoom!"
+
+REFERENCE           SUBTITLE_HIJACK_CMD_SECUREAREA1020
+LANG_ENGLISH        "^2Commander: ^7Moving to your location now. Secure the area for evac!"
+
+REFERENCE           SUBTITLE_HIJACK_CMD_SECUREPRESIDENT56
+LANG_ENGLISH        "^2Commander: ^7Team 3, secure the President in the cargo bay."
+
+REFERENCE           SUBTITLE_HIJACK_CMD_SECURETHEAREA203
+LANG_ENGLISH        "^2Commander : ^7Moving to your location now. Secure the area until evac arrives. "
+
+REFERENCE           SUBTITLE_HIJACK_CMD_STATREPORT414
+LANG_ENGLISH        "^2Commander: ^7Status report!"
+
+REFERENCE           SUBTITLE_HIJACK_CMD_STAYOUT515
+LANG_ENGLISH        "^2Commander: ^7Mr. President, stay out of the line of fire."
+
+REFERENCE           SUBTITLE_HIJACK_CMD_STAYWITHPRES229
+LANG_ENGLISH        "^2Commander: ^7Harkov, stay with the President."
+
+REFERENCE           SUBTITLE_HIJACK_CMD_TAKEPOSITION230
+LANG_ENGLISH        "^2Commander: ^7Harkov, take your position."
+
+REFERENCE           SUBTITLE_HIJACK_CMD_TAKETHEMDOWN191
+LANG_ENGLISH        "^2Commander: ^7Take them down!"
+
+REFERENCE           SUBTITLE_HIJACK_CMD_TEAM4REPORT1018
+LANG_ENGLISH        "^2Commander: ^7Team 4, report."
+
+REFERENCE           SUBTITLE_HIJACK_CMD_THEFLARE205
+LANG_ENGLISH        "^2Commander : ^7There's the flare, right side. "
+
+REFERENCE           SUBTITLE_HIJACK_CMD_THEPRESIDENT1022
+LANG_ENGLISH        "^2Commander: ^7There's the President."
+
+REFERENCE           SUBTITLE_HIJACK_CMD_WEHAVETOMOVE152
+LANG_ENGLISH        "^2Commander: ^7Harkov, we have to move!"
+
+REFERENCE           SUBTITLE_HIJACK_FSO1_KEEPGOING422
+LANG_ENGLISH        "^2FSO Agent Team 1: ^7Keep moving, Mr. President."
+
+REFERENCE           SUBTITLE_HIJACK_FSO1_KEEPMOVING420
+LANG_ENGLISH        "^2FSO Agent Team 1: ^7Mr. President, we have to keep moving."
+
+REFERENCE           SUBTITLE_HIJACK_FSO1_NEARHANGAR161
+LANG_ENGLISH        "^2FSO Agent Team 1: ^7Additional enemy positions near the hangar and closing!"
+
+REFERENCE           SUBTITLE_HIJACK_FSO1_PRESIDENTONMOVE21
+LANG_ENGLISH        "^2FSO Agent Team 1: ^7The President is on the move.  Team 1 escorting."
+
+REFERENCE           SUBTITLE_HIJACK_FSO1_SEPERATED68
+LANG_ENGLISH        "^2FSO Agent Team 1: ^7Don't get separated."
+
+REFERENCE           SUBTITLE_HIJACK_FSO1_STAYTIGHT66
+LANG_ENGLISH        "^2FSO Agent Team 1: ^7Everyone stay tight."
+
+REFERENCE           SUBTITLE_HIJACK_FSO1_STAYWITHGROUP421
+LANG_ENGLISH        "^2FSO Agent Team 1: ^7We have to stay with the group, sir."
+
+REFERENCE           SUBTITLE_HIJACK_FSO1_TEAM1ESCORTING212
+LANG_ENGLISH        "^2FSO Agent Team 1: ^7The President is on the move. Team 1 escorting."
+
+REFERENCE           SUBTITLE_HIJACK_FSO1_THISWAYSIR419
+LANG_ENGLISH        "^2FSO Agent Team 1: ^7This way, sir."
+
+REFERENCE           SUBTITLE_HIJACK_FSO2_DRIVENBACK511
+LANG_ENGLISH        "^2FSO Agent Team 2: ^7We're being driven back from the cockpit. "
+
+REFERENCE           SUBTITLE_HIJACK_FSO2_GONNAHIT46
+LANG_ENGLISH        "^2FSO Agent Team 2: ^7We're gonna hit!"
+
+REFERENCE           SUBTITLE_HIJACK_FSO2_HOLDON48
+LANG_ENGLISH        "^2FSO Agent Team 2: ^7Hold on!"
+
+REFERENCE           SUBTITLE_HIJACK_FSO2_JAMMEDSHUT512
+LANG_ENGLISH        "^2FSO Agent Team 2: ^7The door to the cockpit has been jammed shut."
+
+REFERENCE           SUBTITLE_HIJACK_FSO2_MULTIPLEWOUNDED173
+LANG_ENGLISH        "^2FSO Agent Team 2: ^7Three agents down. Multiple wounded. We're losing ground. "
+
+REFERENCE           SUBTITLE_HIJACK_FSO2_RESISTANCE59
+LANG_ENGLISH        "^2FSO Agent Team 2: ^7Meeting heavy resistance to the cockpit. "
+
+REFERENCE           SUBTITLE_HIJACK_FSO2_RETAKE513
+LANG_ENGLISH        "^2FSO Agent Team 2: ^7Preparing to retake the cockpit."
+
+REFERENCE           SUBTITLE_HIJACK_FSO2_THEYKNEW521
+LANG_ENGLISH        "^2FSO Agent Team 2: ^7They knew what they were doing - they hit the comm room first. "
+
+REFERENCE           SUBTITLE_HIJACK_FSO3_ALLTEAMS716
+LANG_ENGLISH        "^2FSO Agent Team 3: ^7All teams, the daughter is secured.  Repeat, the..."
+
+REFERENCE           SUBTITLE_HIJACK_FSO3_ALTITUDE93
+LANG_ENGLISH        "^2FSO Agent Team 3: ^7We're losing altitude!"
+
+REFERENCE           SUBTITLE_HIJACK_FSO3_CODEBLACK182
+LANG_ENGLISH        "^2FSO Agent Team 3: ^7Code black! Code black!"
+
+REFERENCE           SUBTITLE_HIJACK_FSO3_CRITICAL181
+LANG_ENGLISH        "^2FSO Agent Team 3: ^7All agents, our situation is critical. The President's safety has been compromised!"
+
+REFERENCE           SUBTITLE_HIJACK_FSO3_HIJACKERSTAKING42
+LANG_ENGLISH        "^2FSO Agent Team 3: ^7Hijackers are taking the plane! The cockpit's been breached!"
+
+REFERENCE           SUBTITLE_HIJACK_FSO3_THEYHAVE415
+LANG_ENGLISH        "^2FSO Agent Team 3: ^7They have the daughter hostage in the cargo bay!"
+
+REFERENCE           SUBTITLE_HIJACK_FSO4_HEAVYFIRE141
+LANG_ENGLISH        "^2FSO Agent Team 4: ^7This is Team 4. We're taking heavy fire and multiple enemy vehicles are inbound. "
+
+REFERENCE           SUBTITLE_HIJACK_FSO4_NOTSECURE142
+LANG_ENGLISH        "^2FSO Agent Team 4: ^7The President is not secure; we need backup immediately."
+
+REFERENCE           SUBTITLE_HIJACK_FSO4_SENDINGFLARE204
+LANG_ENGLISH        "^2FSO Agent Team 4: ^7Sending up a flare from our location. "
+
+REFERENCE           SUBTITLE_HIJACK_FSO4_STABLE202
+LANG_ENGLISH        "^2FSO Agent Team 4: ^7The President is wounded but stable. "
+
+REFERENCE           SUBTITLE_HIJACK_FSO4_WOUNDED1019
+LANG_ENGLISH        "^2FSO Agent Team 4: ^7The President is injured but stable."
+
+REFERENCE           SUBTITLE_HIJACK_MKV_ALLOFEUROPE76
+LANG_ENGLISH        "^1Makarov: ^7Russia will take all of Europe, even if it must stand upon a pile of ashes. I want the launch codes, Mr. President."
+
+REFERENCE           SUBTITLE_HIJACK_MKV_WEAKNESS78
+LANG_ENGLISH        "^1Makarov: ^7Every man has his weakness.  Find the girl."
+
+REFERENCE           SUBTITLE_HIJACK_MKV_WHATIWANT74
+LANG_ENGLISH        "^1Makarov: ^7Then you know what I want."
+
+REFERENCE           SUBTITLE_HIJACK_MKV_WHOIAM72
+LANG_ENGLISH        "^1Makarov: ^7You know who I am?"
+
+REFERENCE           SUBTITLE_HIJACK_PLT_BRACE811
+LANG_ENGLISH        "^2Pilot: ^7Brace for impact!"
+
+REFERENCE           SUBTITLE_HIJACK_PLT_EMERGENCY89
+LANG_ENGLISH        "^2Pilot: ^7Attempting emergency landing!"
+
+REFERENCE           SUBTITLE_HIJACK_PLT_INADIVE423
+LANG_ENGLISH        "^2Pilot: ^7We've stalled out!"
+
+REFERENCE           SUBTITLE_HIJACK_PLT_LOSINGALTITUDE424
+LANG_ENGLISH        "^2Pilot: ^7We're losing altitude!"
+
+REFERENCE           SUBTITLE_HIJACK_PRS_ALENA54
+LANG_ENGLISH        "^2President Vorshevsky: ^7Alena!"
+
+REFERENCE           SUBTITLE_HIJACK_PRS_CENTURIES27
+LANG_ENGLISH        "^2President Vorshevsky: ^7The decision we make here will affect the world for centuries. "
+
+REFERENCE           SUBTITLE_HIJACK_PRS_EXPECTING211
+LANG_ENGLISH        "^2President Vorshevsky: ^7He's expecting an answer from me. "
+
+REFERENCE           SUBTITLE_HIJACK_PRS_GREATMANY22
+LANG_ENGLISH        "^2President Vorshevsky: ^7It's already done that to a great number of men and women."
+
+REFERENCE           SUBTITLE_HIJACK_PRS_HELLO26
+LANG_ENGLISH        "^2President Vorshevsky: ^7Hello, Vasilii."
+
+REFERENCE           SUBTITLE_HIJACK_PRS_INSANE75
+LANG_ENGLISH        "^2President Vorshevsky: ^7You're insane."
+
+REFERENCE           SUBTITLE_HIJACK_PRS_MINE24
+LANG_ENGLISH        "^2President Vorshevsky: ^7...but it's mine to finish."
+
+REFERENCE           SUBTITLE_HIJACK_PRS_MYDAUGHTER1024
+LANG_ENGLISH        "^2President Vorshevsky: ^7What about my daughter?"
+
+REFERENCE           SUBTITLE_HIJACK_PRS_NEVERGETTHEM77
+LANG_ENGLISH        "^2President Vorshevsky: ^7You'll never get them."
+
+REFERENCE           SUBTITLE_HIJACK_PRS_NOCHOICE218
+LANG_ENGLISH        "^2President Vorshevsky: ^7He has no choice. I'm the president."
+
+REFERENCE           SUBTITLE_HIJACK_PRS_NOONEDOES214
+LANG_ENGLISH        "^2President Vorshevsky: ^7No one does. That's why he's good at his job."
+
+REFERENCE           SUBTITLE_HIJACK_PRS_NOTWITHOUT1026
+LANG_ENGLISH        "^2President Vorshevsky: ^7Not without my Alena!"
+
+REFERENCE           SUBTITLE_HIJACK_PRS_SEEYOU220
+LANG_ENGLISH        "^2President Vorshevsky: ^7I'll see you at dinner. "
+
+REFERENCE           SUBTITLE_HIJACK_PRS_THETRUTH216
+LANG_ENGLISH        "^2President Vorshevsky: ^7The truth."
+
+REFERENCE           SUBTITLE_HIJACK_PRS_TRUE29
+LANG_ENGLISH        "^2President Vorshevsky: ^7True, by conquering America, Russia would become the dominant super power...but at what expense? How many millions of lives would be lost?"
+
+REFERENCE           SUBTITLE_HIJACK_PRS_TWOCHOICES226
+LANG_ENGLISH        "^2President Vorshevsky: ^7Gentlemen, we have only two choices: peace or war.  Life or death.  For the sake of our children, we must seek peace with the West. "
+
+REFERENCE           SUBTITLE_HIJACK_PRS_VASILI222
+LANG_ENGLISH        "^2President Vorshevsky: ^7Vasili. "
+
+REFERENCE           SUBTITLE_HIJACK_PRS_WHERESMY1025
+LANG_ENGLISH        "^2President Vorshevsky: ^7Where's my daughter?!"
+
+REFERENCE           SUBTITLE_HIJACK_PRS_WORLDSAFE228
+LANG_ENGLISH        "^2President Vorshevsky: ^7We destroy our enemies when we make friends with them. If we cannot end our differences, at least we..."
+
+REFERENCE           SUBTITLE_HIJACK_PRS_YES73
+LANG_ENGLISH        "^2President Vorshevsky: ^7Yes."
+
+ENDMARKER

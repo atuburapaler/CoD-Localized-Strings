@@ -1,0 +1,601 @@
+// Dumped from fastfile "berlin".
+// In their original format the strings might have been separated in multiple files.
+VERSION             "1"
+CONFIG              "C:/trees/cod3/cod3/bin/StringEd.cfg"
+FILENOTES           ""
+
+REFERENCE           BERLIN_ACTIVATE_A10
+LANG_ENGLISH        "Press^3 [{+actionslot 4}] ^7to provide coordinates for A-10 strafing run"
+
+REFERENCE           BERLIN_ADVANCE_OBJ
+LANG_ENGLISH        "Advance with the German tanks."
+
+REFERENCE           BERLIN_AIR_SUPPORT
+LANG_ENGLISH        "Destroy the Russian tanks using the A-10."
+
+REFERENCE           BERLIN_ALLY_TANKS_FAIL
+LANG_ENGLISH        "The allied tanks got destroyed."
+
+REFERENCE           BERLIN_BREACH
+LANG_ENGLISH        "Breach"
+
+REFERENCE           BERLIN_BREACH_HINT
+LANG_ENGLISH        "Press and hold^3 &&1 ^7 to breach"
+
+REFERENCE           BERLIN_BRIDGE_BATTLE_FAIL_QUOTE
+LANG_ENGLISH        "The allied tank has been destroyed.  Use the RPG to destroy the Russian tank."
+
+REFERENCE           BERLIN_DESTROY
+LANG_ENGLISH        "Destroy"
+
+REFERENCE           BERLIN_DESTROY_TANKS_OBJ
+LANG_ENGLISH        "Destroy the Russian tank using the RPG."
+
+REFERENCE           BERLIN_DIRECT_A10
+LANG_ENGLISH        "Press ^3[{+attack}]^7 to set the first point."
+
+REFERENCE           BERLIN_DIRECT_A10_POINTS
+LANG_ENGLISH        "Move the mouse and\nPress ^3[{+attack}]^7 to set the second point"
+
+REFERENCE           BERLIN_DIRECT_A10_STATIC
+LANG_ENGLISH        "Use ^3[{+holdbreath}]^7 to set direction\nPull ^3[{+attack}]^7 to confirm"
+
+REFERENCE           BERLIN_FALL_BACK_TO_ROOF
+LANG_ENGLISH        "Get to the roof."
+
+REFERENCE           BERLIN_FRIENDLY_TANK_FIRE_WARNING
+LANG_ENGLISH        "Do not fire on Allied tanks."
+
+REFERENCE           BERLIN_GRANITE
+LANG_ENGLISH        "Granite"
+
+REFERENCE           BERLIN_INTROSCREEN_20MINS
+LANG_ENGLISH        "20 Minutes Earlier"
+
+REFERENCE           BERLIN_INTROSCREEN_LINE1
+LANG_ENGLISH        "\"Scorched Earth\""
+
+REFERENCE           BERLIN_INTROSCREEN_LINE2
+LANG_ENGLISH        "October 13th - 10:18:[{FAKE_INTRO_SECONDS:02}]"
+
+REFERENCE           BERLIN_INTROSCREEN_LINE3
+LANG_ENGLISH        "Sgt. Derek \"Frost\" Westbrook"
+
+REFERENCE           BERLIN_INTROSCREEN_LINE4
+LANG_ENGLISH        "Delta Force"
+
+REFERENCE           BERLIN_INTROSCREEN_LINE5
+LANG_ENGLISH        "Berlin, Germany"
+
+REFERENCE           BERLIN_LAST_STAND_FAIL
+LANG_ENGLISH        "You abandoned your squad. Get to the roof."
+
+REFERENCE           BERLIN_OVERWATCH
+LANG_ENGLISH        "Get to overwatch to provide sniper support."
+
+REFERENCE           BERLIN_PROTECT
+LANG_ENGLISH        "Protect"
+
+REFERENCE           BERLIN_RAPPEL
+LANG_ENGLISH        "Rappel"
+
+REFERENCE           BERLIN_RAPPEL_HINT
+LANG_ENGLISH        "Press and hold^3 &&1 ^7to rappel"
+
+REFERENCE           BERLIN_RAPPEL_OBJ
+LANG_ENGLISH        "Rappel down the building."
+
+REFERENCE           BERLIN_RPG_HINT
+LANG_ENGLISH        "Press ^3[{weapnext}]^7 to switch to your second weapon."
+
+REFERENCE           BERLIN_SNIPER_FAIL_QUOTE
+LANG_ENGLISH        "Granite team was killed.  Clear the rooftop of enemies."
+
+REFERENCE           BERLIN_SNIPER_TANK_FAIL_QUOTE
+LANG_ENGLISH        "The team has been killed.  Provide the A-10 with coordinates to destroy the Russian tanks."
+
+REFERENCE           BERLIN_SNIPE_B
+LANG_ENGLISH        "Provide sniper cover for Granite team."
+
+REFERENCE           BERLIN_SUPPORT_SANDMAN
+LANG_ENGLISH        "Get to the Bridge"
+
+REFERENCE           BERLIN_TARGETS
+LANG_ENGLISH        "Targets"
+
+REFERENCE           BERLIN_TRAVERSE_BUILDING_OBJ
+LANG_ENGLISH        "Get to the Hotel"
+
+REFERENCE           SUBTITLE_BERLIN_BRVL_BTRCRAWL52
+LANG_ENGLISH        "^2Truck: ^7T90's on the road!"
+
+REFERENCE           SUBTITLE_BERLIN_CBY_4ENEMIES417
+LANG_ENGLISH        "^2Sandman: ^7Four more."
+
+REFERENCE           SUBTITLE_BERLIN_CBY_ALMOSTTHERE87
+LANG_ENGLISH        "^2Sandman: ^7We're almost there!  Let's go!  C'mon!"
+
+REFERENCE           SUBTITLE_BERLIN_CBY_ANAMBUSH95
+LANG_ENGLISH        "^2Sandman: ^7It's an ambush!  We gotta get the hell out of the kill zone!  Move! Move!"
+
+REFERENCE           SUBTITLE_BERLIN_CBY_AOISLOST12
+LANG_ENGLISH        "^2Sandman: ^7The tank column is down and we're getting overrun! This A.O. is lost!"
+
+REFERENCE           SUBTITLE_BERLIN_CBY_AREACLEAR418
+LANG_ENGLISH        "^2Sandman: ^7You're clear, Granite.  Keep movin."
+
+REFERENCE           SUBTITLE_BERLIN_CBY_ARMORMOVING113
+LANG_ENGLISH        "^2Sandman: ^7Our tanks are moving!  Hurry!"
+
+REFERENCE           SUBTITLE_BERLIN_CBY_BEHINDTHEDOOR1020
+LANG_ENGLISH        "^2Sandman: ^7She's behind the door! Move!"
+
+REFERENCE           SUBTITLE_BERLIN_CBY_BELOWUS526
+LANG_ENGLISH        "^2Sandman: ^7The tank's on the street below us!"
+
+REFERENCE           SUBTITLE_BERLIN_CBY_BIRDISDOWN212
+LANG_ENGLISH        "^2Sandman: ^7Bird is down! Bird is down!"
+
+REFERENCE           SUBTITLE_BERLIN_CBY_CANLAND46
+LANG_ENGLISH        "^2Sandman: ^7Frost, clear that roof so Granite can land!"
+
+REFERENCE           SUBTITLE_BERLIN_CBY_CANMAKEIT1011
+LANG_ENGLISH        "^2Sandman: ^7No!  We can make it!"
+
+REFERENCE           SUBTITLE_BERLIN_CBY_CANTRISKIT111
+LANG_ENGLISH        "^2Sandman: ^7We can't risk it!"
+
+REFERENCE           SUBTITLE_BERLIN_CBY_CLOSETOTHEROOF23
+LANG_ENGLISH        "^2Sandman: ^7Just get us as close to the roof as you can."
+
+REFERENCE           SUBTITLE_BERLIN_CBY_CONTACTAHEAD89
+LANG_ENGLISH        "^2Sandman: ^7Contact, up ahead!"
+
+REFERENCE           SUBTITLE_BERLIN_CBY_DAMNBUILDING14
+LANG_ENGLISH        "^2Sandman: ^7They dropped a damn building on us!"
+
+REFERENCE           SUBTITLE_BERLIN_CBY_DESTROYSAM36
+LANG_ENGLISH        "^2Sandman: ^7We need to get to the roof!  C'mon!"
+
+REFERENCE           SUBTITLE_BERLIN_CBY_DIRECTHIT2513
+LANG_ENGLISH        "^2Sandman: ^7Direct hit!"
+
+REFERENCE           SUBTITLE_BERLIN_CBY_EYESONDAUGHTER64
+LANG_ENGLISH        "^2Sandman: ^7Granite, have you got eyes on Athena?!"
+
+REFERENCE           SUBTITLE_BERLIN_CBY_EYESONGRANITE421
+LANG_ENGLISH        "^2Sandman: ^7Frost, keep your eyes on Granite!"
+
+REFERENCE           SUBTITLE_BERLIN_CBY_FIREMISSION51
+LANG_ENGLISH        "^2Sandman: ^7Overlord, we have Russian tanks firing on Granite's position.  Requesting fire mission!"
+
+REFERENCE           SUBTITLE_BERLIN_CBY_FLANKCLEAR61
+LANG_ENGLISH        "^2Sandman: ^7Armor's down, Granite.  You're good to go."
+
+REFERENCE           SUBTITLE_BERLIN_CBY_FOLLOWTANKS88
+LANG_ENGLISH        "^2Sandman: ^7Follow those tanks. Stay close 'till we reach the hotel!"
+
+REFERENCE           SUBTITLE_BERLIN_CBY_FROSTCOMEHERE813
+LANG_ENGLISH        "^2Sandman: ^7Frost, get over here!"
+
+REFERENCE           SUBTITLE_BERLIN_CBY_FROSTTHISWAY109
+LANG_ENGLISH        "^2Sandman: ^7Frost, this way!"
+
+REFERENCE           SUBTITLE_BERLIN_CBY_FROSTWITHME39
+LANG_ENGLISH        "^2Sandman: ^7Let's go!  Move!"
+
+REFERENCE           SUBTITLE_BERLIN_CBY_GETTOGIRL717
+LANG_ENGLISH        "^2Sandman: ^7Take out that tank!  We need to get to the girl!"
+
+REFERENCE           SUBTITLE_BERLIN_CBY_GETTOROOF108
+LANG_ENGLISH        "^2Sandman: ^7Get to the roof!"
+
+REFERENCE           SUBTITLE_BERLIN_CBY_GIVEEMCOVER415
+LANG_ENGLISH        "^2Sandman: ^7Keep em covered."
+
+REFERENCE           SUBTITLE_BERLIN_CBY_GOGOGO31014
+LANG_ENGLISH        "^2Sandman: ^7Go! Go! Go!"
+
+REFERENCE           SUBTITLE_BERLIN_CBY_GOGOGO33
+LANG_ENGLISH        "^2Sandman: ^7Go! Go!"
+
+REFERENCE           SUBTITLE_BERLIN_CBY_GOINGFORGIRL98
+LANG_ENGLISH        "^2Sandman: ^7Negative, Overlord!  We are going for the girl. Her beacon is still active."
+
+REFERENCE           SUBTITLE_BERLIN_CBY_GOODEFFECT511
+LANG_ENGLISH        "^2Sandman: ^7Good effects on target."
+
+REFERENCE           SUBTITLE_BERLIN_CBY_GOODHIT2416
+LANG_ENGLISH        "^2Sandman: ^7Good hit."
+
+REFERENCE           SUBTITLE_BERLIN_CBY_GOODKILL2512
+LANG_ENGLISH        "^2Sandman: ^7Good kill!"
+
+REFERENCE           SUBTITLE_BERLIN_CBY_GRABRIFLE43
+LANG_ENGLISH        "^2Sandman: ^7Frost, grab a sniper rifle!"
+
+REFERENCE           SUBTITLE_BERLIN_CBY_GRABRPG718
+LANG_ENGLISH        "^2Sandman: ^7Grab an RPG and take out that tank!"
+
+REFERENCE           SUBTITLE_BERLIN_CBY_GRANITEGRANITE68
+LANG_ENGLISH        "^2Sandman: ^7Granite!  Granite!"
+
+REFERENCE           SUBTITLE_BERLIN_CBY_GRANITETEAM210
+LANG_ENGLISH        "^2Sandman: ^7Granite team is going after the daughter.  We're going to watch their backs!"
+
+REFERENCE           SUBTITLE_BERLIN_CBY_HEADFORBUILDING96
+LANG_ENGLISH        "^2Sandman: ^7Head for the building!"
+
+REFERENCE           SUBTITLE_BERLIN_CBY_HEADFORROOF105
+LANG_ENGLISH        "^2Sandman: ^7Head for the roof!"
+
+REFERENCE           SUBTITLE_BERLIN_CBY_HEADFORROOF235
+LANG_ENGLISH        "^2Sandman: ^7Head for the roof!"
+
+REFERENCE           SUBTITLE_BERLIN_CBY_HEADUP37
+LANG_ENGLISH        "^2Sandman: ^7Head up!"
+
+REFERENCE           SUBTITLE_BERLIN_CBY_HITTHEDOOR1017
+LANG_ENGLISH        "^2Sandman: ^7Frost, hit the door!"
+
+REFERENCE           SUBTITLE_BERLIN_CBY_HOOKUP2612
+LANG_ENGLISH        "^2Sandman: ^7Hook up."
+
+REFERENCE           SUBTITLE_BERLIN_CBY_HOOKUP615
+LANG_ENGLISH        "^2Sandman: ^7Hook up.  We need to hit the street."
+
+REFERENCE           SUBTITLE_BERLIN_CBY_IMONIT916
+LANG_ENGLISH        "^2Sandman: ^7I see it."
+
+REFERENCE           SUBTITLE_BERLIN_CBY_INPOSITION49
+LANG_ENGLISH        "^2Sandman: ^7Granite 0-1, we're in position."
+
+REFERENCE           SUBTITLE_BERLIN_CBY_INSIDEBANK2810
+LANG_ENGLISH        "^2Sandman: ^7They're in the bank!  Right side!"
+
+REFERENCE           SUBTITLE_BERLIN_CBY_KEEPMOVING21015
+LANG_ENGLISH        "^2Sandman: ^7Keep moving!"
+
+REFERENCE           SUBTITLE_BERLIN_CBY_LASERDESIGNATE55
+LANG_ENGLISH        "^2Sandman: ^7Frost, paint targets for the A-10."
+
+REFERENCE           SUBTITLE_BERLIN_CBY_LETSGOLETSGO1013
+LANG_ENGLISH        "^2Sandman: ^7Let's go! Let's go!"
+
+REFERENCE           SUBTITLE_BERLIN_CBY_LETSMOVE2619
+LANG_ENGLISH        "^2Sandman: ^7Come on, let's move!"
+
+REFERENCE           SUBTITLE_BERLIN_CBY_LOSINGHER104
+LANG_ENGLISH        "^2Sandman: ^7We're losing her! Go! Go!"
+
+REFERENCE           SUBTITLE_BERLIN_CBY_MAINTAINEYES63
+LANG_ENGLISH        "^2Sandman: ^7Maintain eyes on the building."
+
+REFERENCE           SUBTITLE_BERLIN_CBY_MOVE314
+LANG_ENGLISH        "^2Sandman: ^7Move!"
+
+REFERENCE           SUBTITLE_BERLIN_CBY_MOVEOUT721
+LANG_ENGLISH        "^2Sandman: ^7Let's go! Move out!"
+
+REFERENCE           SUBTITLE_BERLIN_CBY_MOVEUP122
+LANG_ENGLISH        "^2Sandman: ^7Move up!"
+
+REFERENCE           SUBTITLE_BERLIN_CBY_OVERHERE618
+LANG_ENGLISH        "^2Sandman: ^7We'll hook up over here, c'mon!"
+
+REFERENCE           SUBTITLE_BERLIN_CBY_OVERWATCH48
+LANG_ENGLISH        "^2Sandman: ^7Frost, get on overwatch!"
+
+REFERENCE           SUBTITLE_BERLIN_CBY_PATCHESTAGS77
+LANG_ENGLISH        "^2Sandman: ^7Grab their patches and tags.  And get SAR birds in here and get 'em out."
+
+REFERENCE           SUBTITLE_BERLIN_CBY_PCTEAM614
+LANG_ENGLISH        "^2Sandman: ^7Overlord, Granite Team is down.  I repeat, eagles down.  We're going after Athena."
+
+REFERENCE           SUBTITLE_BERLIN_CBY_PRESSTHEATTACK811
+LANG_ENGLISH        "^2Sandman: ^7They're falling back!  Press the attack!"
+
+REFERENCE           SUBTITLE_BERLIN_CBY_PUSHFWD121
+LANG_ENGLISH        "^2Sandman: ^7Push forward!"
+
+REFERENCE           SUBTITLE_BERLIN_CBY_SANDMANOUT611
+LANG_ENGLISH        "^2Sandman: ^7Solid copy.  Sandman out."
+
+REFERENCE           SUBTITLE_BERLIN_CBY_STACKUP1016
+LANG_ENGLISH        "^2Sandman: ^7Get that door open!!! GO!"
+
+REFERENCE           SUBTITLE_BERLIN_CBY_STOPLOOKING527
+LANG_ENGLISH        "^2Sandman: ^7Stop looking at the building, Frost! Eyes on the street!"
+
+REFERENCE           SUBTITLE_BERLIN_CBY_STRONGPOINT41
+LANG_ENGLISH        "^2Sandman: ^7This is Metal 0-1, roof secure.  Green light on Granite."
+
+REFERENCE           SUBTITLE_BERLIN_CBY_TAKECARE45
+LANG_ENGLISH        "^2Sandman: ^7Take care of em!"
+
+REFERENCE           SUBTITLE_BERLIN_CBY_TAKECAREOFIT79
+LANG_ENGLISH        "^2Sandman: ^7Frost, take care of it!  We'll cover you!"
+
+REFERENCE           SUBTITLE_BERLIN_CBY_TAKEOUTTANK719
+LANG_ENGLISH        "^2Sandman: ^7Take out that tank with an RPG!"
+
+REFERENCE           SUBTITLE_BERLIN_CBY_TANKONSTREET525
+LANG_ENGLISH        "^2Sandman: ^7Hit the tank on the street!"
+
+REFERENCE           SUBTITLE_BERLIN_CBY_TARGETTANKS529
+LANG_ENGLISH        "^2Sandman: ^7Target the tanks on the street!"
+
+REFERENCE           SUBTITLE_BERLIN_CBY_THERESTHEHOTEL101
+LANG_ENGLISH        "^2Sandman: ^7There's the hotel!"
+
+REFERENCE           SUBTITLE_BERLIN_CBY_THISWAY2620
+LANG_ENGLISH        "^2Sandman: ^7This way!"
+
+REFERENCE           SUBTITLE_BERLIN_CBY_THROUGHHERE912
+LANG_ENGLISH        "^2Sandman: ^7Through here."
+
+REFERENCE           SUBTITLE_BERLIN_CBY_TWOMORETANKS528
+LANG_ENGLISH        "^2Sandman: ^7Two more tanks approaching! Take 'em out!"
+
+REFERENCE           SUBTITLE_BERLIN_CBY_UPDATEONGIRL102
+LANG_ENGLISH        "^2Sandman: ^7Overlord, we're at the target building! Any update on the girl?"
+
+REFERENCE           SUBTITLE_BERLIN_CBY_UPSTAIRS1012
+LANG_ENGLISH        "^2Sandman: ^7Up the stairs!"
+
+REFERENCE           SUBTITLE_BERLIN_CBY_UPTHESTAIRS310
+LANG_ENGLISH        "^2Sandman: ^7Up the stairs!"
+
+REFERENCE           SUBTITLE_BERLIN_CBY_USEEM84
+LANG_ENGLISH        "^2Sandman: ^7Keep moving with the tanks!  Use them for cover!"
+
+REFERENCE           SUBTITLE_BERLIN_CBY_USERIFLE42
+LANG_ENGLISH        "^2Sandman: ^7Switch to your sniper rifle!"
+
+REFERENCE           SUBTITLE_BERLIN_CBY_VISONTARGET311
+LANG_ENGLISH        "^2Sandman: ^7Secure this area fast!"
+
+REFERENCE           SUBTITLE_BERLIN_CBY_WAITINGFOR621
+LANG_ENGLISH        "^2Sandman: ^7Frost, what are you waiting for?"
+
+REFERENCE           SUBTITLE_BERLIN_CBY_WASTINGTIME47
+LANG_ENGLISH        "^2Sandman: ^7You're wasting time, Frost, let's go!"
+
+REFERENCE           SUBTITLE_BERLIN_CBY_WELOSTHER112
+LANG_ENGLISH        "^2Sandman: ^7Overlord, negative precious cargo.  We lost her."
+
+REFERENCE           SUBTITLE_BERLIN_CBY_YOUREADY27
+LANG_ENGLISH        "^2Sandman: ^7You ready?"
+
+REFERENCE           SUBTITLE_BERLIN_GRL_ASSAULT62
+LANG_ENGLISH        "^2Granite Leader: ^7Copy.  Thanks for the assist - we owe you one."
+
+REFERENCE           SUBTITLE_BERLIN_GRL_BREACHING412
+LANG_ENGLISH        "^2Granite Leader: ^7Copy that.  We're inbound."
+
+REFERENCE           SUBTITLE_BERLIN_GRL_CANTGETTOHER65
+LANG_ENGLISH        "^2Granite Leader: ^7Affirmative!  Shit!  Left side!  Got two more!  Get out!"
+
+REFERENCE           SUBTITLE_BERLIN_GRL_GOINGIN616
+LANG_ENGLISH        "^2Granite Leader: ^7Breaching now."
+
+REFERENCE           SUBTITLE_BERLIN_GRL_TAKINGFIRE420
+LANG_ENGLISH        "^2Granite Leader: ^7We're taking fire!"
+
+REFERENCE           SUBTITLE_BERLIN_GTC_ADVANCING81
+LANG_ENGLISH        "^2German Tank Commander: ^7We're clear. Advancing now!"
+
+REFERENCE           SUBTITLE_BERLIN_GTC_HITHARD720
+LANG_ENGLISH        "^2German Tank Commander: ^7We're getting hit hard!  We can't take much more!"
+
+REFERENCE           SUBTITLE_BERLIN_GTC_PINNEDDOWN711
+LANG_ENGLISH        "^2German Tank Commander: ^7American team!  We have Russian armor firing on the bridge.  We need you to take out their tank!"
+
+REFERENCE           SUBTITLE_BERLIN_HQR_BERLINFALLING99
+LANG_ENGLISH        "^2Overlord: ^7You'll need to move fast.  Berlin is falling. We'll maintain ISR, over."
+
+REFERENCE           SUBTITLE_BERLIN_HQR_COMEIN94
+LANG_ENGLISH        "^2Overlord: ^7Metal 0-1, come in.  Metal 0-1, do you copy?"
+
+REFERENCE           SUBTITLE_BERLIN_HQR_LINKUP610
+LANG_ENGLISH        "^2Overlord: ^7Affirmative, Sandman.  Link up with the German tank column south of your position and proceed to the target building, over."
+
+REFERENCE           SUBTITLE_BERLIN_HQR_LOSTCONTACT11
+LANG_ENGLISH        "^2Overlord: ^7Metal 0-1, we've lost contact with the German division commander. What's the status on the ground?"
+
+REFERENCE           SUBTITLE_BERLIN_HQR_MISSEDYOURLAST13
+LANG_ENGLISH        "^2Overlord: ^7Missed your last, 0-1.  Say again."
+
+REFERENCE           SUBTITLE_BERLIN_HQR_PULLBACK97
+LANG_ENGLISH        "^2Overlord: ^7Sandman, advise immediate pull back to extraction point."
+
+REFERENCE           SUBTITLE_BERLIN_HQR_RACETRACKCLEAR53
+LANG_ENGLISH        "^2Overlord: ^7Solid copy, 0-1, the air corridor is clear for our A-10s to commence gun-runs."
+
+REFERENCE           SUBTITLE_BERLIN_HQR_SARBIRD75
+LANG_ENGLISH        "^2Overlord: ^7Copy that, 0-2.  We'll send in a SAR bird for evac."
+
+REFERENCE           SUBTITLE_BERLIN_HQR_STANDDOWN1010
+LANG_ENGLISH        "^2Overlord: ^7Metal 0-1, ISR shows they're extracting the girl now. Advise you stand down and head to an alternate LZ."
+
+REFERENCE           SUBTITLE_BERLIN_HQR_ZEROTIME103
+LANG_ENGLISH        "^2Overlord: ^7They're moving her to the third floor for extraction. You have zero time."
+
+REFERENCE           SUBTITLE_BERLIN_LBP_DELTABOYS28
+LANG_ENGLISH        "^2Pilot: ^730 seconds!"
+
+REFERENCE           SUBTITLE_BERLIN_LBP_OVERWATCH411
+LANG_ENGLISH        "^2Pilot: ^7Granite 0-1, overwatch established.  "
+
+REFERENCE           SUBTITLE_BERLIN_LBP_WANNAFLY22
+LANG_ENGLISH        "^2Pilot: ^7And you guys want to fly in to the middle of it.  You're out of your damn minds."
+
+REFERENCE           SUBTITLE_BERLIN_LBP_WILLRELAY410
+LANG_ENGLISH        "^2Pilot: ^7Solid Copy, 0-1.  Will relay."
+
+REFERENCE           SUBTITLE_BERLIN_PLT_ALTATTACK518
+LANG_ENGLISH        "^2Valkyrie: ^7Request alternate attack heading."
+
+REFERENCE           SUBTITLE_BERLIN_PLT_BADAPPROACH524
+LANG_ENGLISH        "^2Valkyrie: ^7Negative, that is a bad approach vector."
+
+REFERENCE           SUBTITLE_BERLIN_PLT_CIRCLEBACK713
+LANG_ENGLISH        "^2Valkyrie: ^7Standby, we'll circle back."
+
+REFERENCE           SUBTITLE_BERLIN_PLT_CONTACT58
+LANG_ENGLISH        "^2Valkyrie: ^7Contact."
+
+REFERENCE           SUBTITLE_BERLIN_PLT_DIRECTION519
+LANG_ENGLISH        "^2Valkyrie: ^7Recommend change to attack direction."
+
+REFERENCE           SUBTITLE_BERLIN_PLT_GOINGHOT510
+LANG_ENGLISH        "^2Valkyrie: ^7Going hot."
+
+REFERENCE           SUBTITLE_BERLIN_PLT_HOLDFAST716
+LANG_ENGLISH        "^2Valkyrie: ^7Hold fast.  In the turn."
+
+REFERENCE           SUBTITLE_BERLIN_PLT_INPOSITION2515
+LANG_ENGLISH        "^2Valkyrie: ^7Metal 0-1, I am in position."
+
+REFERENCE           SUBTITLE_BERLIN_PLT_MAXEFFECTS520
+LANG_ENGLISH        "^2Valkyrie: ^7Negative, Metal 0-1.  Change attack direction."
+
+REFERENCE           SUBTITLE_BERLIN_PLT_NEGATIVE714
+LANG_ENGLISH        "^2Valkyrie: ^7Negative, Metal 0-1."
+
+REFERENCE           SUBTITLE_BERLIN_PLT_NEWRUNIN523
+LANG_ENGLISH        "^2Valkyrie: ^7Valkyrie requires new run-in."
+
+REFERENCE           SUBTITLE_BERLIN_PLT_NOTINPOSITION2715
+LANG_ENGLISH        "^2Valkyrie: ^7Not in position."
+
+REFERENCE           SUBTITLE_BERLIN_PLT_NOTINPOSITION712
+LANG_ENGLISH        "^2Valkyrie: ^7Negative, I am not in position."
+
+REFERENCE           SUBTITLE_BERLIN_PLT_READY516
+LANG_ENGLISH        "^2Valkyrie: ^7Ready for tasking."
+
+REFERENCE           SUBTITLE_BERLIN_PLT_RECIPROCAL521
+LANG_ENGLISH        "^2Valkyrie: ^7That heading is no good, request reciprocal."
+
+REFERENCE           SUBTITLE_BERLIN_PLT_STANDINGBY3514
+LANG_ENGLISH        "^2Valkyrie: ^7Standing by for targets."
+
+REFERENCE           SUBTITLE_BERLIN_PLT_STANDINGBY4517
+LANG_ENGLISH        "^2Valkyrie: ^7Metal 0-1, I am standing by."
+
+REFERENCE           SUBTITLE_BERLIN_PLT_STANDINGBY54
+LANG_ENGLISH        "^2Valkyrie: ^7Metal 0-1, this is Valkyrie 2-6.  In the airspace and at your service.  Standing by for you to mark the first target."
+
+REFERENCE           SUBTITLE_BERLIN_PLT_TALLYONTARGET59
+LANG_ENGLISH        "^2Valkyrie: ^7I got a tally on the target."
+
+REFERENCE           SUBTITLE_BERLIN_PLT_TALLYTARGET57
+LANG_ENGLISH        "^2Valkyrie: ^7Tally target."
+
+REFERENCE           SUBTITLE_BERLIN_PLT_TARGETAQUIRED56
+LANG_ENGLISH        "^2Valkyrie: ^7Target acquired."
+
+REFERENCE           SUBTITLE_BERLIN_PLT_UNABLE522
+LANG_ENGLISH        "^2Valkyrie: ^7Valkyrie 2-6 is unable to make that heading."
+
+REFERENCE           SUBTITLE_BERLIN_RNO_ANYTHINGMOVING69
+LANG_ENGLISH        "^2Grinch: ^7I don't see anything moving down there."
+
+REFERENCE           SUBTITLE_BERLIN_RNO_COMEDOWN910
+LANG_ENGLISH        "^2Grinch: ^7This thing's going to come down on us any second."
+
+REFERENCE           SUBTITLE_BERLIN_RNO_EAGLESDOWN613
+LANG_ENGLISH        "^2Grinch: ^7What the hell!?"
+
+REFERENCE           SUBTITLE_BERLIN_RNO_GAS106
+LANG_ENGLISH        "^2Grinch: ^7Gas! Gas!"
+
+REFERENCE           SUBTITLE_BERLIN_RNO_ISEEHER1018
+LANG_ENGLISH        "^2Grinch: ^7I see her!"
+
+REFERENCE           SUBTITLE_BERLIN_RNO_KILLTHATTHING710
+LANG_ENGLISH        "^2Grinch: ^7You going to kill that thing or what?!"
+
+REFERENCE           SUBTITLE_BERLIN_RNO_MOVING315
+LANG_ENGLISH        "^2Grinch: ^7Moving!"
+
+REFERENCE           SUBTITLE_BERLIN_RNO_NOTAGOODDAY76
+LANG_ENGLISH        "^2Grinch: ^7Not a good day to be Delta."
+
+REFERENCE           SUBTITLE_BERLIN_RNO_ONTHEROOF413
+LANG_ENGLISH        "^2Grinch: ^7Hostiles on the roof!"
+
+REFERENCE           SUBTITLE_BERLIN_RNO_RIPPEDAPART21
+LANG_ENGLISH        "^2Grinch: ^7Berlin's getting ripped apart down there."
+
+REFERENCE           SUBTITLE_BERLIN_RNO_ROG312
+LANG_ENGLISH        "^2Grinch: ^7Rog'!"
+
+REFERENCE           SUBTITLE_BERLIN_RNO_RPGLOOKOUT211
+LANG_ENGLISH        "^2Grinch: ^7RPG! Look out!"
+
+REFERENCE           SUBTITLE_BERLIN_RNO_SECONDFLOOR234
+LANG_ENGLISH        "^2Grinch: ^7Contact!  Second floor!"
+
+REFERENCE           SUBTITLE_BERLIN_RNO_THISISSOME913
+LANG_ENGLISH        "^2Grinch: ^7Man...this is some bullshit."
+
+REFERENCE           SUBTITLE_BERLIN_TRK_CASUALTIES72
+LANG_ENGLISH        "^2Truck: ^7Got some casualties here."
+
+REFERENCE           SUBTITLE_BERLIN_TRK_CLEAR2313
+LANG_ENGLISH        "^2Truck: ^7Clear!"
+
+REFERENCE           SUBTITLE_BERLIN_TRK_CLEAR38
+LANG_ENGLISH        "^2Truck: ^7Clear!"
+
+REFERENCE           SUBTITLE_BERLIN_TRK_DAMN617
+LANG_ENGLISH        "^2Truck: ^7They're gone."
+
+REFERENCE           SUBTITLE_BERLIN_TRK_DOORWAY915
+LANG_ENGLISH        "^2Truck: ^7Got a doorway over here."
+
+REFERENCE           SUBTITLE_BERLIN_TRK_DUGIN78
+LANG_ENGLISH        "^2Truck: ^7They got a T90 dug in straight ahead!"
+
+REFERENCE           SUBTITLE_BERLIN_TRK_EASY911
+LANG_ENGLISH        "^2Truck: ^7Easy, easy."
+
+REFERENCE           SUBTITLE_BERLIN_TRK_GOTCOMPANY414
+LANG_ENGLISH        "^2Truck: ^7Granite's got company.  Doorway on the left."
+
+REFERENCE           SUBTITLE_BERLIN_TRK_GUYSONROOF44
+LANG_ENGLISH        "^2Truck: ^7Still got guys on the roof - building across the street!"
+
+REFERENCE           SUBTITLE_BERLIN_TRK_KEEPMOVING914
+LANG_ENGLISH        "^2Truck: ^7Just keep moving."
+
+REFERENCE           SUBTITLE_BERLIN_TRK_NEEDEVAC74
+LANG_ENGLISH        "^2Truck: ^7Overlord, this is Metal 0-2.  I need evac for three casualties.  Coordinates follow: Seven Romeo Eight Five One."
+
+REFERENCE           SUBTITLE_BERLIN_TRK_ONYXTEAM71
+LANG_ENGLISH        "^2Truck: ^7It's Onyx team."
+
+REFERENCE           SUBTITLE_BERLIN_TRK_RIGGED912_1
+LANG_ENGLISH        "^2Truck: ^7They must have rigged the building to blow if our tanks got this far..."
+
+REFERENCE           SUBTITLE_BERLIN_TRK_ROG73
+LANG_ENGLISH        "^2Truck: ^7Rog'."
+
+REFERENCE           SUBTITLE_BERLIN_TRK_TAKEIT524_1
+LANG_ENGLISH        "^2Truck: ^7Thanks for the guns, Valkyrie.  We'll take it from here."
+
+REFERENCE           SUBTITLE_BERLIN_TRK_TEARGAS107
+LANG_ENGLISH        "^2Truck: ^7Tear gas!"
+
+REFERENCE           SUBTITLE_BERLIN_TRK_THIRTYSECONDS29
+LANG_ENGLISH        "^2Truck: ^7Thirty seconds!"
+
+REFERENCE           VARIABLE_SCOPE_SNIPER_MAG
+LANG_ENGLISH        "Mag X"
+
+REFERENCE           VARIABLE_SCOPE_SNIPER_ZOOM
+LANG_ENGLISH        "Click ^3[{+changezoom}]^7 to zoom"
+
+ENDMARKER

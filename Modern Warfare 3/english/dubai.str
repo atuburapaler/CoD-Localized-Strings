@@ -1,0 +1,3853 @@
+// Dumped from fastfile "dubai".
+// In their original format the strings might have been separated in multiple files.
+VERSION             "1"
+CONFIG              "C:/trees/cod3/cod3/bin/StringEd.cfg"
+FILENOTES           ""
+
+REFERENCE           CREDIT_87ELEVEN
+LANG_ENGLISH        "87eleven"
+
+REFERENCE           CREDIT_AARON_EADY
+LANG_ENGLISH        "Aaron Eady"
+
+REFERENCE           CREDIT_AARON_GALLANT
+LANG_ENGLISH        "Aaron Gallant"
+
+REFERENCE           CREDIT_AARON_GARNER
+LANG_ENGLISH        "Aaron Garner"
+
+REFERENCE           CREDIT_AARON_GIBSON
+LANG_ENGLISH        "Aaron Gibson"
+
+REFERENCE           CREDIT_AARON_HALON
+LANG_ENGLISH        "Aaron Halon"
+
+REFERENCE           CREDIT_AARON_MCLERAN
+LANG_ENGLISH        "Aaron McLeran"
+
+REFERENCE           CREDIT_AARON_SAN_FILIPPO
+LANG_ENGLISH        "Aaron San Filippo"
+
+REFERENCE           CREDIT_ABBY_ALVARADO
+LANG_ENGLISH        "Abby Alvarado"
+
+REFERENCE           CREDIT_ABEL_DONTIGNY_PATRY
+LANG_ENGLISH        "Abel Dontigny-Patry"
+
+REFERENCE           CREDIT_ACTIVISION_PUBLISHING
+LANG_ENGLISH        "Activision Publishing"
+
+REFERENCE           CREDIT_ACTIVISION_SPECIAL_THANKS
+LANG_ENGLISH        "Activision Special Thanks"
+
+REFERENCE           CREDIT_ACTIVISION_STUDIO_CENTRAL
+LANG_ENGLISH        "Activision Studio Central"
+
+REFERENCE           CREDIT_ADAM_BOYD
+LANG_ENGLISH        "Adam Boyd"
+
+REFERENCE           CREDIT_ADAM_FOSHKO
+LANG_ENGLISH        "Adam Foshko"
+
+REFERENCE           CREDIT_ADAM_ROSAS
+LANG_ENGLISH        "Adam Rosas"
+
+REFERENCE           CREDIT_ADAM_SMITH
+LANG_ENGLISH        "Adam Smith"
+
+REFERENCE           CREDIT_ADDISON_DEBOLT
+LANG_ENGLISH        "Addison DeBolt"
+
+REFERENCE           CREDIT_ADDITIONAL_CALL_OF_DUTY_ELITE_DE
+LANG_ENGLISH        "Additional Call of Duty Elite Development"
+
+REFERENCE           CREDIT_ADDITIONAL_DEVELOPMENT_SUPPORT_F
+LANG_ENGLISH        "Additional Development Support from"
+
+REFERENCE           CREDIT_ADDITIONAL_SOUND_DESIGN_AND_AUDI
+LANG_ENGLISH        "Additional sound design and audio implementation"
+
+REFERENCE           CREDIT_ADDITIONAL_SOUND_DESIGN___AUDIO_
+LANG_ENGLISH        "Additional Sound Design & Audio Support"
+
+REFERENCE           CREDIT_ADDITIONAL_VOICE_ACTORS
+LANG_ENGLISH        "Additional Voice Actors"
+
+REFERENCE           CREDIT_ADE_MCCORMACK
+LANG_ENGLISH        "Ade McCormack"
+
+REFERENCE           CREDIT_ADRIAN_LONGLAND
+LANG_ENGLISH        "Adrian Longland"
+
+REFERENCE           CREDIT_ADRIAN_OLIVER
+LANG_ENGLISH        "Adrian Oliver"
+
+REFERENCE           CREDIT_ADRIAN_SANDOVAL
+LANG_ENGLISH        "Adrian Sandoval"
+
+REFERENCE           CREDIT_ADRIENNE_ARRASMITH
+LANG_ENGLISH        "Adrienne Arrasmith"
+
+REFERENCE           CREDIT_ADVANCED_ARMAMENT_CORP
+LANG_ENGLISH        "Advanced Armament Corp"
+
+REFERENCE           CREDIT_AIMY_WENG_YANLIN
+LANG_ENGLISH        "Aimy Weng (YanLin)"
+
+REFERENCE           CREDIT_ALAND_FAILDE
+LANG_ENGLISH        "Aland Failde"
+
+REFERENCE           CREDIT_ALAN_FUNG
+LANG_ENGLISH        "Alan Fung"
+
+REFERENCE           CREDIT_ALBERTO_CONTRERAS
+LANG_ENGLISH        "Alberto Contreras"
+
+REFERENCE           CREDIT_ALBERT_MILLSPAUGH
+LANG_ENGLISH        "Albert Millspaugh"
+
+REFERENCE           CREDIT_ALBERT_YAO
+LANG_ENGLISH        "Albert Yao"
+
+REFERENCE           CREDIT_ALEJANDRO_GIL
+LANG_ENGLISH        "Alejandro Gil"
+
+REFERENCE           CREDIT_ALESSANDRO_BARTOLUCCI
+LANG_ENGLISH        "Alessandro Bartolucci"
+
+REFERENCE           CREDIT_ALESSANDRO_TENTO
+LANG_ENGLISH        "Alessandro Tento"
+
+REFERENCE           CREDIT_ALEXANDER_EADY
+LANG_ENGLISH        "Alexander Eady"
+
+REFERENCE           CREDIT_ALEXANDER_THORNE
+LANG_ENGLISH        "Alexander Thorne"
+
+REFERENCE           CREDIT_ALEXANDRE_B_RUB_
+LANG_ENGLISH        "Alexandre Bérubé"
+
+REFERENCE           CREDIT_ALEXANDRE_DEBROUSSE
+LANG_ENGLISH        "Alexandre Debrousse"
+
+REFERENCE           CREDIT_ALEXANDRE_GIROUARD
+LANG_ENGLISH        "Alexandre Girouard"
+
+REFERENCE           CREDIT_ALEXIS_DROLET
+LANG_ENGLISH        "Alexis Drolet"
+
+REFERENCE           CREDIT_ALEX_BOYD
+LANG_ENGLISH        "Alex Boyd"
+
+REFERENCE           CREDIT_ALEX_COUTURE_BEIL
+LANG_ENGLISH        "Alex Couture-Beil"
+
+REFERENCE           CREDIT_ALEX_GOMEZ
+LANG_ENGLISH        "Alex Gomez"
+
+REFERENCE           CREDIT_ALEX_HAWORTH
+LANG_ENGLISH        "Alex Haworth"
+
+REFERENCE           CREDIT_ALEX_MERCIER
+LANG_ENGLISH        "Alex Mercier"
+
+REFERENCE           CREDIT_ALLEN_JO
+LANG_ENGLISH        "Allen Jo"
+
+REFERENCE           CREDIT_ALLEN_KUMKA
+LANG_ENGLISH        "Allen Kumka"
+
+REFERENCE           CREDIT_ALLEN_LEITCH
+LANG_ENGLISH        "Allen Leitch"
+
+REFERENCE           CREDIT_ALLEN_WU
+LANG_ENGLISH        "Allen Wu"
+
+REFERENCE           CREDIT_ALLISON_WRIGHT
+LANG_ENGLISH        "Allison Wright"
+
+REFERENCE           CREDIT_ALYSSA_DELHOTAL
+LANG_ENGLISH        "Alyssa Delhotal"
+
+REFERENCE           CREDIT_AMANDA_SULLIVAN_LEE
+LANG_ENGLISH        "Amanda Sullivan-Lee"
+
+REFERENCE           CREDIT_AMBER_PEACHER
+LANG_ENGLISH        "Amber Peacher"
+
+REFERENCE           CREDIT_AMIT_BHURA
+LANG_ENGLISH        "Amit Bhura"
+
+REFERENCE           CREDIT_AMOS_HODGE
+LANG_ENGLISH        "Amos Hodge"
+
+REFERENCE           CREDIT_AMY_SMITH
+LANG_ENGLISH        "Amy Smith"
+
+REFERENCE           CREDIT_AMY_STEVENSON
+LANG_ENGLISH        "Amy Stevenson"
+
+REFERENCE           CREDIT_ANDREA_BRAGA
+LANG_ENGLISH        "Andrea Braga"
+
+REFERENCE           CREDIT_ANDREW_AYE
+LANG_ENGLISH        "Andrew Aye"
+
+REFERENCE           CREDIT_ANDREW_HOFFACKER
+LANG_ENGLISH        "Andrew Hoffacker"
+
+REFERENCE           CREDIT_ANDREW_LAU
+LANG_ENGLISH        "Andrew Lau"
+
+REFERENCE           CREDIT_ANDREW_OLSON
+LANG_ENGLISH        "Andrew Olson"
+
+REFERENCE           CREDIT_ANDRE_BEARDSLEY_DUSETTE_
+LANG_ENGLISH        "Andre Beardsley-Dusette "
+
+REFERENCE           CREDIT_ANDRE_GRACIAS
+LANG_ENGLISH        "Andre Gracias"
+
+REFERENCE           CREDIT_ANDRE_TIRAN
+LANG_ENGLISH        "Andre Tiran"
+
+REFERENCE           CREDIT_ANDY_BAYLESS
+LANG_ENGLISH        "Andy Bayless"
+
+REFERENCE           CREDIT_ANDY_DOHR
+LANG_ENGLISH        "Andy Dohr"
+
+REFERENCE           CREDIT_ANDY_WARWICK
+LANG_ENGLISH        "Andy Warwick"
+
+REFERENCE           CREDIT_ANET_HAMBARSUMIAN
+LANG_ENGLISH        "Anet Hambarsumian"
+
+REFERENCE           CREDIT_ANGEL_PEREZ
+LANG_ENGLISH        "Angel Perez"
+
+REFERENCE           CREDIT_ANGIE_LAI
+LANG_ENGLISH        "Angie Lai"
+
+REFERENCE           CREDIT_ANIMATION_VERTIGO
+LANG_ENGLISH        "Animation Vertigo"
+
+REFERENCE           CREDIT_ANNA_GRAVES
+LANG_ENGLISH        "Anna Graves"
+
+REFERENCE           CREDIT_ANNA_MARTY
+LANG_ENGLISH        "Anna Marty"
+
+REFERENCE           CREDIT_ANTHONY_INTERRANTE
+LANG_ENGLISH        "Anthony Interrante"
+
+REFERENCE           CREDIT_ANTHONY_RUBIN
+LANG_ENGLISH        "Anthony Rubin"
+
+REFERENCE           CREDIT_ANTHONY_SCHMILL
+LANG_ENGLISH        "Anthony Schmill"
+
+REFERENCE           CREDIT_ANTHONY_TING
+LANG_ENGLISH        "Anthony Ting"
+
+REFERENCE           CREDIT_ANTOINE_LEROUX
+LANG_ENGLISH        "Antoine Leroux"
+
+REFERENCE           CREDIT_ANTOINE_L_PINE
+LANG_ENGLISH        "Antoine Lépine"
+
+REFERENCE           CREDIT_ANTONIUS_LIN
+LANG_ENGLISH        "Antonius Lin"
+
+REFERENCE           CREDIT_APM_MUSIC
+LANG_ENGLISH        "APM Music"
+
+REFERENCE           CREDIT_ARCADIA_POLICE_DEPARTMENT
+LANG_ENGLISH        "Arcadia Police Department"
+
+REFERENCE           CREDIT_ARIANA_SCHMIDT
+LANG_ENGLISH        "Ariana Schmidt"
+
+REFERENCE           CREDIT_ARI_EPSTEIN
+LANG_ENGLISH        "Ari Epstein"
+
+REFERENCE           CREDIT_ARNIE_SWEKEL
+LANG_ENGLISH        "Arnie Swekel"
+
+REFERENCE           CREDIT_ARTHUR_GREEN
+LANG_ENGLISH        "Arthur Green"
+
+REFERENCE           CREDIT_ASHTON_CONDREY
+LANG_ENGLISH        "Ashton Condrey"
+
+REFERENCE           CREDIT_AUDREY_LAGANI_RE
+LANG_ENGLISH        "Audrey Laganière"
+
+REFERENCE           CREDIT_AURELIAN_WIIK
+LANG_ENGLISH        "Aurelian Wiik"
+
+REFERENCE           CREDIT_AXEL_AVILES
+LANG_ENGLISH        "Axel Aviles"
+
+REFERENCE           CREDIT_AXEL_BELIVEAU
+LANG_ENGLISH        "Axel Beliveau"
+
+REFERENCE           CREDIT_BAIRN_YU_YONGBO
+LANG_ENGLISH        "Bairn Yu (YongBo)"
+
+REFERENCE           CREDIT_BARBARA_SCHOFIELD
+LANG_ENGLISH        "Barbara Schofield"
+
+REFERENCE           CREDIT_BARRETT
+LANG_ENGLISH        "Barrett"
+
+REFERENCE           CREDIT_BARRETT_RIFLES
+LANG_ENGLISH        "Barrett Rifles"
+
+REFERENCE           CREDIT_BARRY_KEHOE
+LANG_ENGLISH        "Barry Kehoe"
+
+REFERENCE           CREDIT_BARRY_WHITNEY
+LANG_ENGLISH        "Barry Whitney"
+
+REFERENCE           CREDIT_BEACHHEAD_STUDIO
+LANG_ENGLISH        "Beachhead Studio"
+
+REFERENCE           CREDIT_BENJAMIN_KOSAR
+LANG_ENGLISH        "Benjamin Kosar"
+
+REFERENCE           CREDIT_BENJAMIN_OBRIEN
+LANG_ENGLISH        "Benjamin O'Brien"
+
+REFERENCE           CREDIT_BENJAMIN_SOLHEIM
+LANG_ENGLISH        "Benjamin Solheim"
+
+REFERENCE           CREDIT_BEN_BRINKMAN
+LANG_ENGLISH        "Ben Brinkman"
+
+REFERENCE           CREDIT_BEN_JONES
+LANG_ENGLISH        "Ben Jones"
+
+REFERENCE           CREDIT_BEN_SZETO
+LANG_ENGLISH        "Ben Szeto"
+
+REFERENCE           CREDIT_BEN_WATSON
+LANG_ENGLISH        "Ben Watson"
+
+REFERENCE           CREDIT_BERNARDO_ANTONIAZZI
+LANG_ENGLISH        "Bernardo Antoniazzi"
+
+REFERENCE           CREDIT_BERNARD_ABELLADA
+LANG_ENGLISH        "Bernard Abellada"
+
+REFERENCE           CREDIT_BERNARD_COURTNEY
+LANG_ENGLISH        "Bernard Courtney"
+
+REFERENCE           CREDIT_BHARATHWAJ_NANDAKUMAR
+LANG_ENGLISH        "Bharathwaj Nandakumar"
+
+REFERENCE           CREDIT_BIANCA_HARZBECKER
+LANG_ENGLISH        "Bianca Harzbecker"
+
+REFERENCE           CREDIT_BILLY_MURRAY
+LANG_ENGLISH        "Billy Murray"
+
+REFERENCE           CREDIT_BILL_KELLER
+LANG_ENGLISH        "Bill Keller"
+
+REFERENCE           CREDIT_BILL_PETRO
+LANG_ENGLISH        "Bill Petro"
+
+REFERENCE           CREDIT_BITSTREAM
+LANG_ENGLISH        "Bitstream"
+
+REFERENCE           CREDIT_BLAIR_BITONTI
+LANG_ENGLISH        "Blair Bitonti"
+
+REFERENCE           CREDIT_BLAIR_BITONTI_
+LANG_ENGLISH        "Blair Bitonti "
+
+REFERENCE           CREDIT_BOBBY_KOTICK
+LANG_ENGLISH        "Bobby Kotick"
+
+REFERENCE           CREDIT_BOOMIN
+LANG_ENGLISH        "Boomin'"
+
+REFERENCE           CREDIT_BORIS_KIEVSKY
+LANG_ENGLISH        "Boris Kievsky"
+
+REFERENCE           CREDIT_BRAD_COOMBER
+LANG_ENGLISH        "Brad Coomber"
+
+REFERENCE           CREDIT_BRAD_JAKEMAN
+LANG_ENGLISH        "Brad Jakeman"
+
+REFERENCE           CREDIT_BRAD_SAAVEDRA
+LANG_ENGLISH        "Brad Saavedra"
+
+REFERENCE           CREDIT_BRANDON_RIGGS
+LANG_ENGLISH        "Brandon Riggs"
+
+REFERENCE           CREDIT_BRANDON_SCHEBLER
+LANG_ENGLISH        "Brandon Schebler"
+
+REFERENCE           CREDIT_BRANDON_YOUNG
+LANG_ENGLISH        "Brandon Young"
+
+REFERENCE           CREDIT_BRENDAN_DILLON
+LANG_ENGLISH        "Brendan Dillon"
+
+REFERENCE           CREDIT_BRENDAN_FIELDS
+LANG_ENGLISH        "Brendan Fields"
+
+REFERENCE           CREDIT_BRENDAN_LUCHEN
+LANG_ENGLISH        "Brendan Luchen"
+
+REFERENCE           CREDIT_BRENT_MCDONALD
+LANG_ENGLISH        "Brent McDonald"
+
+REFERENCE           CREDIT_BRENT_TODA
+LANG_ENGLISH        "Brent Toda"
+
+REFERENCE           CREDIT_BRET_ROBBINS
+LANG_ENGLISH        "Bret Robbins"
+
+REFERENCE           CREDIT_BRIAN_ABRAMS
+LANG_ENGLISH        "Brian Abrams"
+
+REFERENCE           CREDIT_BRIAN_ANDERSON
+LANG_ENGLISH        "Brian Anderson"
+
+REFERENCE           CREDIT_BRIAN_BAKER
+LANG_ENGLISH        "Brian Baker"
+
+REFERENCE           CREDIT_BRIAN_BARNES
+LANG_ENGLISH        "Brian Barnes"
+
+REFERENCE           CREDIT_BRIAN_BENSI
+LANG_ENGLISH        "Brian Bensi"
+
+REFERENCE           CREDIT_BRIAN_BLOOM
+LANG_ENGLISH        "Brian Bloom"
+
+REFERENCE           CREDIT_BRIAN_CARLSON
+LANG_ENGLISH        "Brian Carlson"
+
+REFERENCE           CREDIT_BRIAN_CUTTS
+LANG_ENGLISH        "Brian Cutts"
+
+REFERENCE           CREDIT_BRIAN_DOUGLAS
+LANG_ENGLISH        "Brian Douglas"
+
+REFERENCE           CREDIT_BRIAN_HACKBARTH
+LANG_ENGLISH        "Brian Hackbarth"
+
+REFERENCE           CREDIT_BRIAN_JOYAL
+LANG_ENGLISH        "Brian Joyal"
+
+REFERENCE           CREDIT_BRIAN_MARTIN
+LANG_ENGLISH        "Brian Martin"
+
+REFERENCE           CREDIT_BRIAN_RAFFEL
+LANG_ENGLISH        "Brian Raffel"
+
+REFERENCE           CREDIT_BRIAN_TYLER
+LANG_ENGLISH        "Brian Tyler"
+
+REFERENCE           CREDIT_BRIAN_WEST
+LANG_ENGLISH        "Brian West"
+
+REFERENCE           CREDIT_BRIAN_WHITE
+LANG_ENGLISH        "Brian White"
+
+REFERENCE           CREDIT_BRITIAN_TAYLOR
+LANG_ENGLISH        "Britian Taylor"
+
+REFERENCE           CREDIT_BROOKE_STAMPFLI
+LANG_ENGLISH        "Brooke Stampfli"
+
+REFERENCE           CREDIT_BRUCE_GREENWOOD
+LANG_ENGLISH        "Bruce Greenwood"
+
+REFERENCE           CREDIT_BRYAN_CHICE
+LANG_ENGLISH        "Bryan Chice"
+
+REFERENCE           CREDIT_BRYAN_KUHN
+LANG_ENGLISH        "Bryan Kuhn"
+
+REFERENCE           CREDIT_BRYCE_MERCADO
+LANG_ENGLISH        "Bryce Mercado"
+
+REFERENCE           CREDIT_BUMJIN_LEE
+LANG_ENGLISH        "Bumjin Lee"
+
+REFERENCE           CREDIT_BUSINESS___LEGAL_AFFAIRS
+LANG_ENGLISH        "Business & Legal Affairs"
+
+REFERENCE           CREDIT_BYRON_BEEDE
+LANG_ENGLISH        "Byron Beede"
+
+REFERENCE           CREDIT_CALEB_AND_ZACHARY_SILVERS
+LANG_ENGLISH        "Caleb and Zachary Silvers"
+
+REFERENCE           CREDIT_CALEB_SCHNEIDER
+LANG_ENGLISH        "Caleb Schneider"
+
+REFERENCE           CREDIT_CALEB_TOMPLAIT
+LANG_ENGLISH        "Caleb Tomplait"
+
+REFERENCE           CREDIT_CALEB_ZART
+LANG_ENGLISH        "Caleb Zart"
+
+REFERENCE           CREDIT_CANDICE_CAPEN
+LANG_ENGLISH        "Candice Capen"
+
+REFERENCE           CREDIT_CANDICE_CLARK
+LANG_ENGLISH        "Candice Clark"
+
+REFERENCE           CREDIT_CARLOS_PINEDA
+LANG_ENGLISH        "Carlos Pineda"
+
+REFERENCE           CREDIT_CARL_SCHNURR
+LANG_ENGLISH        "Carl Schnurr"
+
+REFERENCE           CREDIT_CATHERINE_MCCARTHY
+LANG_ENGLISH        "Catherine McCarthy"
+
+REFERENCE           CREDIT_CATHERINE_SHEU
+LANG_ENGLISH        "Catherine Sheu"
+
+REFERENCE           CREDIT_CHACKO_SONNY
+LANG_ENGLISH        "Chacko Sonny"
+
+REFERENCE           CREDIT_CHAD_R_GROTE
+LANG_ENGLISH        "Chad R. Grote"
+
+REFERENCE           CREDIT_CHAD_SCHMIDT
+LANG_ENGLISH        "Chad Schmidt"
+
+REFERENCE           CREDIT_CHANCE_GLASCO
+LANG_ENGLISH        "Chance Glasco"
+
+REFERENCE           CREDIT_CHARLES_MORROW
+LANG_ENGLISH        "Charles Morrow"
+
+REFERENCE           CREDIT_CHARLES_WEISS
+LANG_ENGLISH        "Charles Weiss"
+
+REFERENCE           CREDIT_CHARLIE_BERNSTEIN
+LANG_ENGLISH        "Charlie Bernstein"
+
+REFERENCE           CREDIT_CHARLIE_VON_METZRADT
+LANG_ENGLISH        "Charlie Von Metzradt"
+
+REFERENCE           CREDIT_CHASE_VOLKER
+LANG_ENGLISH        "Chase Volker"
+
+REFERENCE           CREDIT_CHELSY_BERRY
+LANG_ENGLISH        "Chelsy Berry"
+
+REFERENCE           CREDIT_CHENG_LOR
+LANG_ENGLISH        "Cheng Lor"
+
+REFERENCE           CREDIT_CHETAN_BEDI
+LANG_ENGLISH        "Chetan Bedi"
+
+REFERENCE           CREDIT_CHETAN_DESAI
+LANG_ENGLISH        "Chetan Desai"
+
+REFERENCE           CREDIT_CHING_HUNG_CHU
+LANG_ENGLISH        "Ching Hung Chu"
+
+REFERENCE           CREDIT_CHRISSY_ARYA
+LANG_ENGLISH        "Chrissy Arya"
+
+REFERENCE           CREDIT_CHRISTIANE_BRAND
+LANG_ENGLISH        "Christiane Brand"
+
+REFERENCE           CREDIT_CHRISTIAN_BAPTISTE
+LANG_ENGLISH        "Christian Baptiste"
+
+REFERENCE           CREDIT_CHRISTIAN_LIARD
+LANG_ENGLISH        "Christian Liard"
+
+REFERENCE           CREDIT_CHRISTIAN_M_NARD
+LANG_ENGLISH        "Christian Ménard"
+
+REFERENCE           CREDIT_CHRISTIAN_TINCHER
+LANG_ENGLISH        "Christian Tincher"
+
+REFERENCE           CREDIT_CHRISTINA_ACEVES
+LANG_ENGLISH        "Christina Aceves"
+
+REFERENCE           CREDIT_CHRISTINA_CHAN
+LANG_ENGLISH        "Christina Chan"
+
+REFERENCE           CREDIT_CHRISTINA_FEINBERG_
+LANG_ENGLISH        "Christina Feinberg "
+
+REFERENCE           CREDIT_CHRISTI_NISHIYAMA
+LANG_ENGLISH        "Christi Nishiyama"
+
+REFERENCE           CREDIT_CHRISTOPHER_BEESE
+LANG_ENGLISH        "Christopher Beese"
+
+REFERENCE           CREDIT_CHRISTOPHER_D_WILSON
+LANG_ENGLISH        "Christopher D. Wilson"
+
+REFERENCE           CREDIT_CHRISTOPHER_FOSTER
+LANG_ENGLISH        "Christopher Foster"
+
+REFERENCE           CREDIT_CHRISTOPHER_J_LOGAN
+LANG_ENGLISH        "Christopher J. Logan"
+
+REFERENCE           CREDIT_CHRISTOPHER_MCKNIGHT
+LANG_ENGLISH        "Christopher McKnight"
+
+REFERENCE           CREDIT_CHRISTOPHER_MUELLER
+LANG_ENGLISH        "Christopher Mueller"
+
+REFERENCE           CREDIT_CHRISTOPHER_OLSEN
+LANG_ENGLISH        "Christopher Olsen"
+
+REFERENCE           CREDIT_CHRISTOPHER_REED
+LANG_ENGLISH        "Christopher Reed"
+
+REFERENCE           CREDIT_CHRISTOPHER_REINHART
+LANG_ENGLISH        "Christopher Reinhart"
+
+REFERENCE           CREDIT_CHRISTOPHER_STONE
+LANG_ENGLISH        "Christopher Stone"
+
+REFERENCE           CREDIT_CHRISTY_BUENA
+LANG_ENGLISH        "Christy Buena"
+
+REFERENCE           CREDIT_CHRIS_BOYLE
+LANG_ENGLISH        "Chris Boyle"
+
+REFERENCE           CREDIT_CHRIS_CHADA
+LANG_ENGLISH        "Chris Chada"
+
+REFERENCE           CREDIT_CHRIS_CHERNOFF
+LANG_ENGLISH        "Chris Chernoff"
+
+REFERENCE           CREDIT_CHRIS_CHOWDHURY
+LANG_ENGLISH        "Chris Chowdhury"
+
+REFERENCE           CREDIT_CHRIS_CODDING
+LANG_ENGLISH        "Chris Codding"
+
+REFERENCE           CREDIT_CHRIS_ELLIS
+LANG_ENGLISH        "Chris Ellis"
+
+REFERENCE           CREDIT_CHRIS_HARTMANN
+LANG_ENGLISH        "Chris Hartmann"
+
+REFERENCE           CREDIT_CHRIS_LAI
+LANG_ENGLISH        "Chris Lai"
+
+REFERENCE           CREDIT_CHRIS_PENNYA
+LANG_ENGLISH        "Chris Pennya"
+
+REFERENCE           CREDIT_CHRIS_SELF
+LANG_ENGLISH        "Chris Self"
+
+REFERENCE           CREDIT_CHRIS_SHEPHERD
+LANG_ENGLISH        "Chris Shepherd"
+
+REFERENCE           CREDIT_CHRIS_STAPLES
+LANG_ENGLISH        "Chris Staples"
+
+REFERENCE           CREDIT_CHRIS_WALTHER
+LANG_ENGLISH        "Chris Walther"
+
+REFERENCE           CREDIT_CHRIS_WEBB
+LANG_ENGLISH        "Chris Webb"
+
+REFERENCE           CREDIT_CHRIS_WILSON
+LANG_ENGLISH        "Chris Wilson"
+
+REFERENCE           CREDIT_CLIFF_HOOPER
+LANG_ENGLISH        "Cliff Hooper"
+
+REFERENCE           CREDIT_CLINTON_ALLEN
+LANG_ENGLISH        "Clinton Allen"
+
+REFERENCE           CREDIT_CODDY_JOHNSON
+LANG_ENGLISH        "Coddy Johnson"
+
+REFERENCE           CREDIT_CODY_MITCHELL
+LANG_ENGLISH        "Cody Mitchell"
+
+REFERENCE           CREDIT_COLIN_ALTEVEER
+LANG_ENGLISH        "Colin Alteveer"
+
+REFERENCE           CREDIT_COLIN_KAWAKAMI
+LANG_ENGLISH        "Colin Kawakami"
+
+REFERENCE           CREDIT_COLIN_MCBAIN
+LANG_ENGLISH        "Colin McBain"
+
+REFERENCE           CREDIT_COLIN_MUNSON
+LANG_ENGLISH        "Colin Munson"
+
+REFERENCE           CREDIT_COLIN_OCONNOR
+LANG_ENGLISH        "Colin O'Connor"
+
+REFERENCE           CREDIT_COLIN_WHITNEY
+LANG_ENGLISH        "Colin Whitney"
+
+REFERENCE           CREDIT_COLT_DEFENSE_LLC
+LANG_ENGLISH        "Colt Defense LLC"
+
+REFERENCE           CREDIT_COLT_DEFENSE__LLC
+LANG_ENGLISH        "Colt Defense, LLC"
+
+REFERENCE           CREDIT_COMPOSED_BY_TODD_M_MICHILES_ASCA
+LANG_ENGLISH        "Composed by Todd M. Michiles (ASCAP) and Daniel Holter (ASCAP)"
+
+REFERENCE           CREDIT_CONANT_FONG
+LANG_ENGLISH        "Conant Fong"
+
+REFERENCE           CREDIT_CONNOR_MAYER
+LANG_ENGLISH        "Connor Mayer"
+
+REFERENCE           CREDIT_CONNOR_VUONG
+LANG_ENGLISH        "Connor Vuong"
+
+REFERENCE           CREDIT_COOPER_DRINKWARD
+LANG_ENGLISH        "Cooper Drinkward"
+
+REFERENCE           CREDIT_COREY_ROGERS
+LANG_ENGLISH        "Corey Rogers"
+
+REFERENCE           CREDIT_CORKY_LEHMKUHL
+LANG_ENGLISH        "Corky Lehmkuhl"
+
+REFERENCE           CREDIT_CORY_CARANI
+LANG_ENGLISH        "Cory Carani"
+
+REFERENCE           CREDIT_CORY_SANFORD
+LANG_ENGLISH        "Cory Sanford"
+
+REFERENCE           CREDIT_COURTESY_OF_APM_MUSIC
+LANG_ENGLISH        "Courtesy of APM Music"
+
+REFERENCE           CREDIT_CRAIG_BROWN
+LANG_ENGLISH        "Craig Brown"
+
+REFERENCE           CREDIT_CRAIG_FAIRBRASS
+LANG_ENGLISH        "Craig Fairbrass"
+
+REFERENCE           CREDIT_CRAIG_HOUSTON
+LANG_ENGLISH        "Craig Houston"
+
+REFERENCE           CREDIT_CRAIG_LOUIE
+LANG_ENGLISH        "Craig Louie"
+
+REFERENCE           CREDIT_CRAIG_MCINNES
+LANG_ENGLISH        "Craig McInnes"
+
+REFERENCE           CREDIT_CUSTOMER_SUPPORT
+LANG_ENGLISH        "Customer Support"
+
+REFERENCE           CREDIT_C_DRICK_LEMAY
+LANG_ENGLISH        "Cédrick Lemay"
+
+REFERENCE           CREDIT_DAISUKE_IMAI
+LANG_ENGLISH        "Daisuke Imai"
+
+REFERENCE           CREDIT_DAKOTA_VOLKER
+LANG_ENGLISH        "Dakota Volker"
+
+REFERENCE           CREDIT_DALE_MULCAHY
+LANG_ENGLISH        "Dale Mulcahy"
+
+REFERENCE           CREDIT_DALLAS_MIDDLETON
+LANG_ENGLISH        "Dallas Middleton"
+
+REFERENCE           CREDIT_DALTON_FURY
+LANG_ENGLISH        "Dalton Fury"
+
+REFERENCE           CREDIT_DAMIEN_MARSHALL
+LANG_ENGLISH        "Damien Marshall"
+
+REFERENCE           CREDIT_DAMOUN_SHABESTARI
+LANG_ENGLISH        "Damoun Shabestari"
+
+REFERENCE           CREDIT_DANIEL_EDWARDS
+LANG_ENGLISH        "Daniel Edwards"
+
+REFERENCE           CREDIT_DANIEL_FETTER
+LANG_ENGLISH        "Daniel Fetter"
+
+REFERENCE           CREDIT_DANIEL_GAMBURG
+LANG_ENGLISH        "Daniel Gamburg"
+
+REFERENCE           CREDIT_DANIEL_L_NICHOLS
+LANG_ENGLISH        "Daniel L. Nichols"
+
+REFERENCE           CREDIT_DANIEL_ORZULAK
+LANG_ENGLISH        "Daniel Orzulak"
+
+REFERENCE           CREDIT_DANIEL_SUAREZ
+LANG_ENGLISH        "Daniel Suarez"
+
+REFERENCE           CREDIT_DANIEL_S_MENARD
+LANG_ENGLISH        "Daniel S. Menard"
+
+REFERENCE           CREDIT_DANIEL_WAPNER
+LANG_ENGLISH        "Daniel Wapner"
+
+REFERENCE           CREDIT_DANIEL_WEST
+LANG_ENGLISH        "Daniel West"
+
+REFERENCE           CREDIT_DANNY_CHAN
+LANG_ENGLISH        "Danny Chan"
+
+REFERENCE           CREDIT_DANNY_DONAHO
+LANG_ENGLISH        "Danny Donaho"
+
+REFERENCE           CREDIT_DANNY_HERNANDEZ
+LANG_ENGLISH        "Danny Hernandez"
+
+REFERENCE           CREDIT_DANNY_SHIN
+LANG_ENGLISH        "Danny Shin"
+
+REFERENCE           CREDIT_DANN_PETTY
+LANG_ENGLISH        "Dann Petty"
+
+REFERENCE           CREDIT_DANY_PAQUET
+LANG_ENGLISH        "Dany Paquet"
+
+REFERENCE           CREDIT_DAN_BAKER
+LANG_ENGLISH        "Dan Baker"
+
+REFERENCE           CREDIT_DAN_HIGGOTT
+LANG_ENGLISH        "Dan Higgott"
+
+REFERENCE           CREDIT_DAN_KASH
+LANG_ENGLISH        "Dan Kash"
+
+REFERENCE           CREDIT_DAN_KRAMER
+LANG_ENGLISH        "Dan Kramer"
+
+REFERENCE           CREDIT_DAN_VONDRAK
+LANG_ENGLISH        "Dan Vondrak"
+
+REFERENCE           CREDIT_DAN_WINTERS
+LANG_ENGLISH        "Dan Winters"
+
+REFERENCE           CREDIT_DARA_PRICE
+LANG_ENGLISH        "Dara Price"
+
+REFERENCE           CREDIT_DARREN_BLONDIN
+LANG_ENGLISH        "Darren Blondin"
+
+REFERENCE           CREDIT_DARRYL_KURYLO
+LANG_ENGLISH        "Darryl Kurylo"
+
+REFERENCE           CREDIT_DAVE_ANTHONY
+LANG_ENGLISH        "Dave Anthony"
+
+REFERENCE           CREDIT_DAVE_COWLING
+LANG_ENGLISH        "Dave Cowling"
+
+REFERENCE           CREDIT_DAVE_CURD
+LANG_ENGLISH        "Dave Curd"
+
+REFERENCE           CREDIT_DAVE_KIM
+LANG_ENGLISH        "Dave Kim"
+
+REFERENCE           CREDIT_DAVE_STOHL
+LANG_ENGLISH        "Dave Stohl"
+
+REFERENCE           CREDIT_DAVID_AGRANOV
+LANG_ENGLISH        "David Agranov"
+
+REFERENCE           CREDIT_DAVID_ANTHONY_PIZZUTO
+LANG_ENGLISH        "David Anthony Pizzuto"
+
+REFERENCE           CREDIT_DAVID_ASADOURIAN
+LANG_ENGLISH        "David Asadourian"
+
+REFERENCE           CREDIT_DAVID_BLIZARD
+LANG_ENGLISH        "David Blizard"
+
+REFERENCE           CREDIT_DAVID_BRENNAN
+LANG_ENGLISH        "David Brennan"
+
+REFERENCE           CREDIT_DAVID_CAHILL
+LANG_ENGLISH        "David Cahill"
+
+REFERENCE           CREDIT_DAVID_FALLOON
+LANG_ENGLISH        "David Falloon"
+
+REFERENCE           CREDIT_DAVID_FIFIELD
+LANG_ENGLISH        "David Fifield"
+
+REFERENCE           CREDIT_DAVID_GULISANO
+LANG_ENGLISH        "David Gulisano"
+
+REFERENCE           CREDIT_DAVID_HAUPTMAN
+LANG_ENGLISH        "David Hauptman"
+
+REFERENCE           CREDIT_DAVID_HERNANDEZ
+LANG_ENGLISH        "David Hernandez"
+
+REFERENCE           CREDIT_DAVID_JOHNSON
+LANG_ENGLISH        "David Johnson"
+
+REFERENCE           CREDIT_DAVID_KELVIN
+LANG_ENGLISH        "David Kelvin"
+
+REFERENCE           CREDIT_DAVID_KUO
+LANG_ENGLISH        "David Kuo"
+
+REFERENCE           CREDIT_DAVID_L_TOURNEAU_BROCHU
+LANG_ENGLISH        "David Létourneau-Brochu"
+
+REFERENCE           CREDIT_DAVID_MICKNER
+LANG_ENGLISH        "David Mickner"
+
+REFERENCE           CREDIT_DAVID_SWENSON
+LANG_ENGLISH        "David Swenson"
+
+REFERENCE           CREDIT_DAVID_VILLATORO
+LANG_ENGLISH        "David Villatoro"
+
+REFERENCE           CREDIT_DEANDRE_HANDY
+LANG_ENGLISH        "Deandre Handy"
+
+REFERENCE           CREDIT_DEAN_SERIO
+LANG_ENGLISH        "Dean Serio"
+
+REFERENCE           CREDIT_DEGROAT_TACTICAL_ARMAMENTS
+LANG_ENGLISH        "Degroat Tactical Armaments"
+
+REFERENCE           CREDIT_DEMETRIUS_LEAL
+LANG_ENGLISH        "Demetrius Leal"
+
+REFERENCE           CREDIT_DEMONWARE
+LANG_ENGLISH        "Demonware"
+
+REFERENCE           CREDIT_DEPLANEAUX_WILLS
+LANG_ENGLISH        "Deplaneaux Wills"
+
+REFERENCE           CREDIT_DEREK_BROWN
+LANG_ENGLISH        "Derek Brown"
+
+REFERENCE           CREDIT_DEREK_LARSON
+LANG_ENGLISH        "Derek Larson"
+
+REFERENCE           CREDIT_DEREK_RACCA
+LANG_ENGLISH        "Derek Racca"
+
+REFERENCE           CREDIT_DERRIC_EADY
+LANG_ENGLISH        "Derric Eady"
+
+REFERENCE           CREDIT_DESERT_EAGLE
+LANG_ENGLISH        "Desert Eagle"
+
+REFERENCE           CREDIT_DESIGNED_AND_DEVELOPED_BY_INFINI
+LANG_ENGLISH        "Designed and Developed by Infinity Ward and Sledgehammer Games"
+
+REFERENCE           CREDIT_DEVELOPMENT_BABIES
+LANG_ENGLISH        "Development Babies"
+
+REFERENCE           CREDIT_DIANA_XIFRE_DE_LA_PRADA
+LANG_ENGLISH        "Diana Xifre de la Prada"
+
+REFERENCE           CREDIT_DIEGO_CARRILLO
+LANG_ENGLISH        "Diego Carrillo"
+
+REFERENCE           CREDIT_DOMINIC_POIRIER
+LANG_ENGLISH        "Dominic Poirier"
+
+REFERENCE           CREDIT_DOM_DROZDZ
+LANG_ENGLISH        "Dom Drozdz"
+
+REFERENCE           CREDIT_DON_THEERATHADA
+LANG_ENGLISH        "Don Theerathada"
+
+REFERENCE           CREDIT_DON_VECA
+LANG_ENGLISH        "Don Veca"
+
+REFERENCE           CREDIT_DOUG_GUANLAO
+LANG_ENGLISH        "Doug Guanlao"
+
+REFERENCE           CREDIT_DOUG_MUIR
+LANG_ENGLISH        "Doug Muir"
+
+REFERENCE           CREDIT_DOV_CARSON
+LANG_ENGLISH        "Dov Carson"
+
+REFERENCE           CREDIT_DUSTIN_CARTER
+LANG_ENGLISH        "Dustin Carter"
+
+REFERENCE           CREDIT_DUSTIN_DAVIS
+LANG_ENGLISH        "Dustin Davis"
+
+REFERENCE           CREDIT_DWIGHT_LUETSCHER
+LANG_ENGLISH        "Dwight Luetscher"
+
+REFERENCE           CREDIT_DYLAN_WYNNE
+LANG_ENGLISH        "Dylan Wynne"
+
+REFERENCE           CREDIT_EARBASH_AUDIO__INC
+LANG_ENGLISH        "Earbash Audio, Inc."
+
+REFERENCE           CREDIT_EARTH_WARREN
+LANG_ENGLISH        "Earth Warren"
+
+REFERENCE           CREDIT_EDWARD_BAKER
+LANG_ENGLISH        "Edward Baker"
+
+REFERENCE           CREDIT_EDWARD_LEE
+LANG_ENGLISH        "Edward Lee"
+
+REFERENCE           CREDIT_EDWARD_SHKOLNIKOV
+LANG_ENGLISH        "Edward Shkolnikov"
+
+REFERENCE           CREDIT_ED_HARMER
+LANG_ENGLISH        "Ed Harmer"
+
+REFERENCE           CREDIT_EJ_ALCANTARA
+LANG_ENGLISH        "E.J. Alcantara"
+
+REFERENCE           CREDIT_ELLIOTT_EHLIG
+LANG_ENGLISH        "Elliott Ehlig"
+
+REFERENCE           CREDIT_ELLIOT_KEMBER
+LANG_ENGLISH        "Elliot Kember"
+
+REFERENCE           CREDIT_ELSIE_BOON
+LANG_ENGLISH        "Elsie Boon"
+
+REFERENCE           CREDIT_ELSNER_FLAKE
+LANG_ENGLISH        "Elsner-Flake"
+
+REFERENCE           CREDIT_EMERSON_BROOKS
+LANG_ENGLISH        "Emerson Brooks"
+
+REFERENCE           CREDIT_EMILIO_CUESTA
+LANG_ENGLISH        "Emilio Cuesta"
+
+REFERENCE           CREDIT_EMILY_SHERMAN
+LANG_ENGLISH        "Emily Sherman"
+
+REFERENCE           CREDIT_EMMANUEL_APILADO
+LANG_ENGLISH        "Emmanuel Apilado"
+
+REFERENCE           CREDIT_EOGHAN_GAFFNEY
+LANG_ENGLISH        "Eoghan Gaffney"
+
+REFERENCE           CREDIT_ERAN_RICH
+LANG_ENGLISH        "Eran Rich"
+
+REFERENCE           CREDIT_ERIC_BIESSMAN
+LANG_ENGLISH        "Eric Biessman"
+
+REFERENCE           CREDIT_ERIC_FEINBERG
+LANG_ENGLISH        "Eric Feinberg"
+
+REFERENCE           CREDIT_ERIC_FELDMAN
+LANG_ENGLISH        "Eric Feldman"
+
+REFERENCE           CREDIT_ERIC_HIRSHBERG
+LANG_ENGLISH        "Eric Hirshberg"
+
+REFERENCE           CREDIT_ERIC_KELLY
+LANG_ENGLISH        "Eric Kelly"
+
+REFERENCE           CREDIT_ERIC_MCDANIEL
+LANG_ENGLISH        "Eric McDaniel"
+
+REFERENCE           CREDIT_ERIC_MILOTA
+LANG_ENGLISH        "Eric Milota"
+
+REFERENCE           CREDIT_ERIC_PAVEY
+LANG_ENGLISH        "Eric Pavey"
+
+REFERENCE           CREDIT_ERIC_PIERCE
+LANG_ENGLISH        "Eric Pierce"
+
+REFERENCE           CREDIT_ERIC_SCHLAUTMAN
+LANG_ENGLISH        "Eric Schlautman"
+
+REFERENCE           CREDIT_ERIC_SCHMIDT
+LANG_ENGLISH        "Eric Schmidt"
+
+REFERENCE           CREDIT_ERIC_SPRAY
+LANG_ENGLISH        "Eric Spray"
+
+REFERENCE           CREDIT_ERIC_STANZIONE_
+LANG_ENGLISH        "Eric Stanzione "
+
+REFERENCE           CREDIT_ERIC_WIDNER
+LANG_ENGLISH        "Eric Widner"
+
+REFERENCE           CREDIT_ERIC_WU
+LANG_ENGLISH        "Eric Wu"
+
+REFERENCE           CREDIT_ERIK_MELEN
+LANG_ENGLISH        "Erik Melen"
+
+REFERENCE           CREDIT_ERIK_STRICKLAND
+LANG_ENGLISH        "Erik Strickland"
+
+REFERENCE           CREDIT_ERNESTO_GUAMAN
+LANG_ENGLISH        "Ernesto Guaman"
+
+REFERENCE           CREDIT_EROS_CASTALDI
+LANG_ENGLISH        "Eros Castaldi"
+
+REFERENCE           CREDIT_ESTHER_REIMANN
+LANG_ENGLISH        "Esther Reimann"
+
+REFERENCE           CREDIT_EUGENE_ALPERS
+LANG_ENGLISH        "Eugene Alpers"
+
+REFERENCE           CREDIT_EUGENE_LAZAREV
+LANG_ENGLISH        "Eugene Lazarev"
+
+REFERENCE           CREDIT_EVAN_BOEHM
+LANG_ENGLISH        "Evan Boehm"
+
+REFERENCE           CREDIT_EVAN_BUTTON
+LANG_ENGLISH        "Evan Button"
+
+REFERENCE           CREDIT_EVAN_SROKA
+LANG_ENGLISH        "Evan Sroka"
+
+REFERENCE           CREDIT_EZRA_BLUMEL
+LANG_ENGLISH        "Ezra Blumel"
+
+REFERENCE           CREDIT_FACEBOOK
+LANG_ENGLISH        "Facebook"
+
+REFERENCE           CREDIT_FERGUS_LINDSAY
+LANG_ENGLISH        "Fergus Lindsay"
+
+REFERENCE           CREDIT_FINTAN_HERLIHY
+LANG_ENGLISH        "Fintan Herlihy"
+
+REFERENCE           CREDIT_FIONA_EBBS
+LANG_ENGLISH        "Fiona Ebbs"
+
+REFERENCE           CREDIT_FONTS_LICENSED_FROM
+LANG_ENGLISH        "Fonts Licensed from"
+
+REFERENCE           CREDIT_FOOTAGE_AND_STILL_IMAGES_SUPPLIE
+LANG_ENGLISH        "Footage and Still Images Supplied by"
+
+REFERENCE           CREDIT_FRANCIS_MALTAIS
+LANG_ENGLISH        "Francis Maltais"
+
+REFERENCE           CREDIT_FRANCK_MORISSEAU
+LANG_ENGLISH        "Franck Morisseau"
+
+REFERENCE           CREDIT_FRAN_OIS_AUDETTE
+LANG_ENGLISH        "François Audette"
+
+REFERENCE           CREDIT_FRED_SHIH
+LANG_ENGLISH        "Fred Shih"
+
+REFERENCE           CREDIT_F_LIX_LEBLANC_BEAUREGARD
+LANG_ENGLISH        "Félix Leblanc-Beauregard"
+
+REFERENCE           CREDIT_GABRIEL_MORISSEAU
+LANG_ENGLISH        "Gabriel Morisseau"
+
+REFERENCE           CREDIT_GARETH_DAVIES
+LANG_ENGLISH        "Gareth Davies"
+
+REFERENCE           CREDIT_GARY_QUAN
+LANG_ENGLISH        "Gary Quan"
+
+REFERENCE           CREDIT_GAURAV_SHELLIKERI
+LANG_ENGLISH        "Gaurav Shellikeri"
+
+REFERENCE           CREDIT_GAVIN_GOSLIN
+LANG_ENGLISH        "Gavin Goslin"
+
+REFERENCE           CREDIT_GAVIN_LOCKE
+LANG_ENGLISH        "Gavin Locke"
+
+REFERENCE           CREDIT_GENNADY_BABICHENKO
+LANG_ENGLISH        "Gennady Babichenko"
+
+REFERENCE           CREDIT_GEOFFREY_HUDSON
+LANG_ENGLISH        "Geoffrey Hudson"
+
+REFERENCE           CREDIT_GEOFFREY_NAHASHON
+LANG_ENGLISH        "Geoffrey Nahashon"
+
+REFERENCE           CREDIT_GEOFF_D_HILL
+LANG_ENGLISH        "Geoff D. Hill"
+
+REFERENCE           CREDIT_GEORGE_BERGEN
+LANG_ENGLISH        "George Bergen"
+
+REFERENCE           CREDIT_GERALD_ARTEAGA
+LANG_ENGLISH        "Gerald Arteaga"
+
+REFERENCE           CREDIT_GETTY_IMAGES
+LANG_ENGLISH        "Getty Images"
+
+REFERENCE           CREDIT_GIDEON_STOCEK
+LANG_ENGLISH        "Gideon Stocek"
+
+REFERENCE           CREDIT_GINA_LOHMAN
+LANG_ENGLISH        "Gina Lohman"
+
+REFERENCE           CREDIT_GLENN_ROBINSON
+LANG_ENGLISH        "Glenn Robinson"
+
+REFERENCE           CREDIT_GLENN_VISTANTE
+LANG_ENGLISH        "Glenn Vistante"
+
+REFERENCE           CREDIT_GLEN_SCHOFIELD
+LANG_ENGLISH        "Glen Schofield"
+
+REFERENCE           CREDIT_GORDON_SCHNEIDER
+LANG_ENGLISH        "Gordon Schneider"
+
+REFERENCE           CREDIT_GRADEN_MCCOOL
+LANG_ENGLISH        "Graden McCool"
+
+REFERENCE           CREDIT_GRAEME_HUMPHRIES
+LANG_ENGLISH        "Graeme Humphries"
+
+REFERENCE           CREDIT_GRAHAM_CAMPBELL
+LANG_ENGLISH        "Graham Campbell"
+
+REFERENCE           CREDIT_GRAHAM_HAGMAIER
+LANG_ENGLISH        "Graham Hagmaier"
+
+REFERENCE           CREDIT_GRAHAM_MCTAVISH
+LANG_ENGLISH        "Graham McTavish"
+
+REFERENCE           CREDIT_GRANT_MARZETTE
+LANG_ENGLISH        "Grant Marzette"
+
+REFERENCE           CREDIT_GRANT_WHITTEN
+LANG_ENGLISH        "Grant Whitten"
+
+REFERENCE           CREDIT_GREGORY_REISDORF
+LANG_ENGLISH        "Gregory Reisdorf"
+
+REFERENCE           CREDIT_GREGORY_SHIVES
+LANG_ENGLISH        "Gregory Shives"
+
+REFERENCE           CREDIT_GREG_SANDS
+LANG_ENGLISH        "Greg Sands"
+
+REFERENCE           CREDIT_GREN_ATHERTON
+LANG_ENGLISH        "Gren Atherton"
+
+REFERENCE           CREDIT_GRETA_GAVRISHEFF
+LANG_ENGLISH        "Greta Gavrisheff"
+
+REFERENCE           CREDIT_GRETA_SIDEY
+LANG_ENGLISH        "Greta Sidey"
+
+REFERENCE           CREDIT_GUILLAUME_JAZDONCZYK
+LANG_ENGLISH        "Guillaume Jazdonczyk"
+
+REFERENCE           CREDIT_GUILLAUME_MORIN
+LANG_ENGLISH        "Guillaume Morin"
+
+REFERENCE           CREDIT_GUILLAUME_ROCHAT
+LANG_ENGLISH        "Guillaume Rochat"
+
+REFERENCE           CREDIT_GUILLAUME_WEBBER
+LANG_ENGLISH        "Guillaume Webber"
+
+REFERENCE           CREDIT_GUILLERMO_HERNANDEZ
+LANG_ENGLISH        "Guillermo Hernandez"
+
+REFERENCE           CREDIT_GUY_BEAHM
+LANG_ENGLISH        "Guy Beahm"
+
+REFERENCE           CREDIT_GUY_SILLIMAN
+LANG_ENGLISH        "Guy Silliman"
+
+REFERENCE           CREDIT_HAKEEM_KAE_KAZIM
+LANG_ENGLISH        "Hakeem Kae-Kazim"
+
+REFERENCE           CREDIT_HANK_KEIRSEY
+LANG_ENGLISH        "Hank Keirsey"
+
+REFERENCE           CREDIT_HAZEL_BAIRD
+LANG_ENGLISH        "Hazel Baird"
+
+REFERENCE           CREDIT_HEATHER_POLUBINSKI
+LANG_ENGLISH        "Heather Polubinski"
+
+REFERENCE           CREDIT_HECTOR_SIMPSON
+LANG_ENGLISH        "Hector Simpson"
+
+REFERENCE           CREDIT_HOUGANT_CHEN
+LANG_ENGLISH        "Hougant Chen"
+
+REFERENCE           CREDIT_HUGH_NOWLAN
+LANG_ENGLISH        "Hugh Nowlan"
+
+REFERENCE           CREDIT_IDRIS_ELBA
+LANG_ENGLISH        "Idris Elba"
+
+REFERENCE           CREDIT_IGOR_KRINITSKIY
+LANG_ENGLISH        "Igor Krinitskiy"
+
+REFERENCE           CREDIT_ILDEFONSO_RANCHAL
+LANG_ENGLISH        "Ildefonso Ranchal"
+
+REFERENCE           CREDIT_IMAGE_METRICS__INC
+LANG_ENGLISH        "Image Metrics, Inc."
+
+REFERENCE           CREDIT_INDEPENDENT_STUDIO_SERVICES
+LANG_ENGLISH        "Independent Studio Services"
+
+REFERENCE           CREDIT_INDRA_YEE
+LANG_ENGLISH        "Indra Yee"
+
+REFERENCE           CREDIT_ISAAC_MATEJKA
+LANG_ENGLISH        "Isaac Matejka"
+
+REFERENCE           CREDIT_ISAAC_OWENS
+LANG_ENGLISH        "Isaac Owens"
+
+REFERENCE           CREDIT_ISABELLA_COUCOULES
+LANG_ENGLISH        "Isabella Coucoules"
+
+REFERENCE           CREDIT_ISABELLE_BOUCHARD
+LANG_ENGLISH        "Isabelle Bouchard"
+
+REFERENCE           CREDIT_ISMA_L_GENDREAU
+LANG_ENGLISH        "Ismaël Gendreau"
+
+REFERENCE           CREDIT_IVAR_ROCHA_ARIAS
+LANG_ENGLISH        "Ivar Rocha Arias"
+
+REFERENCE           CREDIT_IVY_ISENBERG
+LANG_ENGLISH        "Ivy Isenberg"
+
+REFERENCE           CREDIT_JACK_MICHAEL_ROWE
+LANG_ENGLISH        "Jack Michael Rowe"
+
+REFERENCE           CREDIT_JACK_OHARA
+LANG_ENGLISH        "Jack O'Hara"
+
+REFERENCE           CREDIT_JACOB_DISSMORE
+LANG_ENGLISH        "Jacob Dissmore"
+
+REFERENCE           CREDIT_JAKE_ROWELL
+LANG_ENGLISH        "Jake Rowell"
+
+REFERENCE           CREDIT_JAKE_XU
+LANG_ENGLISH        "Jake Xu"
+
+REFERENCE           CREDIT_JAMES_BRADFORD
+LANG_ENGLISH        "James Bradford"
+
+REFERENCE           CREDIT_JAMES_BROCKLEBANK
+LANG_ENGLISH        "James Brocklebank"
+
+REFERENCE           CREDIT_JAMES_DARGIE
+LANG_ENGLISH        "James Dargie"
+
+REFERENCE           CREDIT_JAMES_LODATO
+LANG_ENGLISH        "James Lodato"
+
+REFERENCE           CREDIT_JAMES_MCDONALD
+LANG_ENGLISH        "James McDonald"
+
+REFERENCE           CREDIT_JAMES_MONROE
+LANG_ENGLISH        "James Monroe"
+
+REFERENCE           CREDIT_JAMES_PATRICK_STUART
+LANG_ENGLISH        "James Patrick Stuart"
+
+REFERENCE           CREDIT_JAMES_SINGER
+LANG_ENGLISH        "James Singer"
+
+REFERENCE           CREDIT_JAMES_SNIDER
+LANG_ENGLISH        "James Snider"
+
+REFERENCE           CREDIT_JAMES_SPEIGHT
+LANG_ENGLISH        "James Speight"
+
+REFERENCE           CREDIT_JAMES_WAGNER
+LANG_ENGLISH        "James Wagner"
+
+REFERENCE           CREDIT_JANE_HARGREAVES
+LANG_ENGLISH        "Jane Hargreaves"
+
+REFERENCE           CREDIT_JANICE_LOHR_TURNER
+LANG_ENGLISH        "Janice Lohr Turner"
+
+REFERENCE           CREDIT_JAN_NAVARRO
+LANG_ENGLISH        "Jan Navarro"
+
+REFERENCE           CREDIT_JARED_DICKINSON
+LANG_ENGLISH        "Jared Dickinson"
+
+REFERENCE           CREDIT_JASON_ADES
+LANG_ENGLISH        "Jason Ades"
+
+REFERENCE           CREDIT_JASON_BEAULIEU
+LANG_ENGLISH        "Jason Beaulieu"
+
+REFERENCE           CREDIT_JASON_BELL
+LANG_ENGLISH        "Jason Bell"
+
+REFERENCE           CREDIT_JASON_BLUNDELL
+LANG_ENGLISH        "Jason Blundell"
+
+REFERENCE           CREDIT_JASON_CHANG
+LANG_ENGLISH        "Jason Chang"
+
+REFERENCE           CREDIT_JASON_GAGN_
+LANG_ENGLISH        "Jason Gagné"
+
+REFERENCE           CREDIT_JASON_GARZA
+LANG_ENGLISH        "Jason Garza"
+
+REFERENCE           CREDIT_JASON_GAVAZZA
+LANG_ENGLISH        "Jason Gavazza"
+
+REFERENCE           CREDIT_JASON_GORDON
+LANG_ENGLISH        "Jason Gordon"
+
+REFERENCE           CREDIT_JASON_HAGAO_WEI
+LANG_ENGLISH        "Jason \"Hagao\" Wei"
+
+REFERENCE           CREDIT_JASON_HALL
+LANG_ENGLISH        "Jason Hall"
+
+REFERENCE           CREDIT_JASON_HARRIS
+LANG_ENGLISH        "Jason Harris"
+
+REFERENCE           CREDIT_JASON_HAZELROTH
+LANG_ENGLISH        "Jason Hazelroth"
+
+REFERENCE           CREDIT_JASON_HOLT
+LANG_ENGLISH        "Jason Holt"
+
+REFERENCE           CREDIT_JASON_JORDAN
+LANG_ENGLISH        "Jason Jordan"
+
+REFERENCE           CREDIT_JASON_POSADA
+LANG_ENGLISH        "Jason Posada"
+
+REFERENCE           CREDIT_JASON_SCHOONOVER
+LANG_ENGLISH        "Jason Schoonover"
+
+REFERENCE           CREDIT_JASON_TAYLOR
+LANG_ENGLISH        "Jason Taylor"
+
+REFERENCE           CREDIT_JASON_WONG
+LANG_ENGLISH        "Jason Wong"
+
+REFERENCE           CREDIT_JAY_MENCONI
+LANG_ENGLISH        "Jay Menconi"
+
+REFERENCE           CREDIT_JB_BLANC
+LANG_ENGLISH        "JB Blanc"
+
+REFERENCE           CREDIT_JEANE_WONG
+LANG_ENGLISH        "Jeane Wong"
+
+REFERENCE           CREDIT_JEAN_CHRISTOPHE_GOYETTE
+LANG_ENGLISH        "Jean-Christophe Goyette"
+
+REFERENCE           CREDIT_JEAN_DAVID_PROULX_MARCOUX
+LANG_ENGLISH        "Jean-David Proulx-Marcoux"
+
+REFERENCE           CREDIT_JEAN_FRAN_OIS_BOUTIN
+LANG_ENGLISH        "Jean-François Boutin"
+
+REFERENCE           CREDIT_JEAN_FRAN_OIS_GIGU_RE
+LANG_ENGLISH        "Jean-François Giguère"
+
+REFERENCE           CREDIT_JEAN_FRAN_OIS_LE_HOUILLIER
+LANG_ENGLISH        "Jean-François Le Houillier"
+
+REFERENCE           CREDIT_JEAN_MICHEL_RICHAUD
+LANG_ENGLISH        "Jean-Michel Richaud"
+
+REFERENCE           CREDIT_JEAN_PHILIPE_BOURGOIN
+LANG_ENGLISH        "Jean-Philipe Bourgoin"
+
+REFERENCE           CREDIT_JEAN_PHILIPPE_BUJOLD_BOUTIN
+LANG_ENGLISH        "Jean-Philippe Bujold-Boutin"
+
+REFERENCE           CREDIT_JEAN_PHILIPPE_SAUCIER
+LANG_ENGLISH        "Jean-Philippe Saucier"
+
+REFERENCE           CREDIT_JEEP__WRANGLER_AND_RUBICON__ARE_
+LANG_ENGLISH        "\"Jeep\", \"Wrangler\" and \"Rubicon\"  are registered trademarks of, and used with permission of, Chrysler Group, LLC."
+
+REFERENCE           CREDIT_JEFFREY_CHEN
+LANG_ENGLISH        "Jeffrey Chen"
+
+REFERENCE           CREDIT_JEFFREY_GOOD
+LANG_ENGLISH        "Jeffrey Good"
+
+REFERENCE           CREDIT_JEFFREY_NEWQUIST
+LANG_ENGLISH        "Jeffrey Newquist"
+
+REFERENCE           CREDIT_JEFFREY_PIERCE
+LANG_ENGLISH        "Jeffrey Pierce"
+
+REFERENCE           CREDIT_JEFF_CURLEY
+LANG_ENGLISH        "Jeff Curley"
+
+REFERENCE           CREDIT_JEFF_DEGENHARDT
+LANG_ENGLISH        "Jeff Degenhardt"
+
+REFERENCE           CREDIT_JEFF_DISCHLER
+LANG_ENGLISH        "Jeff Dischler"
+
+REFERENCE           CREDIT_JEFF_GOODWIN
+LANG_ENGLISH        "Jeff Goodwin"
+
+REFERENCE           CREDIT_JEFF_HEATH
+LANG_ENGLISH        "Jeff Heath"
+
+REFERENCE           CREDIT_JEFF_ROPER
+LANG_ENGLISH        "Jeff Roper"
+
+REFERENCE           CREDIT_JEFF_SKUBAL
+LANG_ENGLISH        "Jeff Skubal"
+
+REFERENCE           CREDIT_JEFF_SWENTY
+LANG_ENGLISH        "Jeff Swenty"
+
+REFERENCE           CREDIT_JEFF_WALSH
+LANG_ENGLISH        "Jeff Walsh"
+
+REFERENCE           CREDIT_JEFF_ZARING
+LANG_ENGLISH        "Jeff Zaring"
+
+REFERENCE           CREDIT_JENNIFER_HARE
+LANG_ENGLISH        "Jennifer Hare"
+
+REFERENCE           CREDIT_JENNIFER_PUNO
+LANG_ENGLISH        "Jennifer Puno"
+
+REFERENCE           CREDIT_JENNIFER_SULLIVAN
+LANG_ENGLISH        "Jennifer Sullivan"
+
+REFERENCE           CREDIT_JENNIFER_VELAZQUEZ
+LANG_ENGLISH        "Jennifer Velazquez"
+
+REFERENCE           CREDIT_JENNY_RYU
+LANG_ENGLISH        "Jenny Ryu"
+
+REFERENCE           CREDIT_JEREMIAH_BYCHOWSKI
+LANG_ENGLISH        "Jeremiah Bychowski"
+
+REFERENCE           CREDIT_JEREMIAH_MAZA
+LANG_ENGLISH        "Jeremiah Maza"
+
+REFERENCE           CREDIT_JEREMIAH_SYPULT
+LANG_ENGLISH        "Jeremiah Sypult"
+
+REFERENCE           CREDIT_JEREMY_AGAMATA
+LANG_ENGLISH        "Jeremy Agamata"
+
+REFERENCE           CREDIT_JEREMY_BLUMEL
+LANG_ENGLISH        "Jeremy Blumel"
+
+REFERENCE           CREDIT_JEREMY_DUNN
+LANG_ENGLISH        "Jeremy Dunn"
+
+REFERENCE           CREDIT_JEREMY_GRIFFITH
+LANG_ENGLISH        "Jeremy Griffith"
+
+REFERENCE           CREDIT_JEREMY_LEVI
+LANG_ENGLISH        "Jeremy Levi"
+
+REFERENCE           CREDIT_JEREMY_LUYTIES
+LANG_ENGLISH        "Jeremy Luyties"
+
+REFERENCE           CREDIT_JEREMY_RICHARDS
+LANG_ENGLISH        "Jeremy Richards"
+
+REFERENCE           CREDIT_JEREMY_SHORTELL
+LANG_ENGLISH        "Jeremy Shortell"
+
+REFERENCE           CREDIT_JESPER_GARNEIJ
+LANG_ENGLISH        "Jesper Garneij"
+
+REFERENCE           CREDIT_JESSE_BUCHANAN
+LANG_ENGLISH        "Jesse Buchanan"
+
+REFERENCE           CREDIT_JESSE_LEE
+LANG_ENGLISH        "Jesse Lee"
+
+REFERENCE           CREDIT_JESSICA_HOOK
+LANG_ENGLISH        "Jessica Hook"
+
+REFERENCE           CREDIT_JESS_FEIDT
+LANG_ENGLISH        "Jess Feidt"
+
+REFERENCE           CREDIT_JILL_BARRY
+LANG_ENGLISH        "Jill Barry"
+
+REFERENCE           CREDIT_JIMMY_ZIELINSKI
+LANG_ENGLISH        "Jimmy Zielinski"
+
+REFERENCE           CREDIT_JIM_CHRISTOPHER
+LANG_ENGLISH        "Jim Christopher"
+
+REFERENCE           CREDIT_JIRAYUT_SRISUPHAN
+LANG_ENGLISH        "Jirayut Srisuphan"
+
+REFERENCE           CREDIT_JI_LI
+LANG_ENGLISH        "Ji Li"
+
+REFERENCE           CREDIT_JOCELYN_CHEW
+LANG_ENGLISH        "Jocelyn Chew"
+
+REFERENCE           CREDIT_JOEL_ESPANA
+LANG_ENGLISH        "Joel Espana"
+
+REFERENCE           CREDIT_JOEL_JEWETT
+LANG_ENGLISH        "Joel Jewett"
+
+REFERENCE           CREDIT_JOEL_MCDONALD
+LANG_ENGLISH        "Joel McDonald"
+
+REFERENCE           CREDIT_JOEL_TAUBEL
+LANG_ENGLISH        "Joel Taubel"
+
+REFERENCE           CREDIT_JOEL_WALSH
+LANG_ENGLISH        "Joel Walsh"
+
+REFERENCE           CREDIT_JOE_ARCOVITCH
+LANG_ENGLISH        "Joe Arcovitch"
+
+REFERENCE           CREDIT_JOE_CAPPELLETTI
+LANG_ENGLISH        "Joe Cappelletti"
+
+REFERENCE           CREDIT_JOE_CECOT
+LANG_ENGLISH        "Joe Cecot"
+
+REFERENCE           CREDIT_JOE_CHIANG
+LANG_ENGLISH        "Joe Chiang"
+
+REFERENCE           CREDIT_JOE_KOBERSTEIN
+LANG_ENGLISH        "Joe Koberstein"
+
+REFERENCE           CREDIT_JOE_SALUD
+LANG_ENGLISH        "Joe Salud"
+
+REFERENCE           CREDIT_JOE_SKUBAL
+LANG_ENGLISH        "Joe Skubal"
+
+REFERENCE           CREDIT_JOHAN_KOHLER
+LANG_ENGLISH        "Johan Kohler"
+
+REFERENCE           CREDIT_JOHNNY_KIM
+LANG_ENGLISH        "Johnny Kim"
+
+REFERENCE           CREDIT_JOHN_BANAYAN
+LANG_ENGLISH        "John Banayan"
+
+REFERENCE           CREDIT_JOHN_BOJORQUEZ
+LANG_ENGLISH        "John Bojorquez"
+
+REFERENCE           CREDIT_JOHN_CARROLL
+LANG_ENGLISH        "John Carroll"
+
+REFERENCE           CREDIT_JOHN_DEHART
+LANG_ENGLISH        "John DeHart"
+
+REFERENCE           CREDIT_JOHN_DOBBIE
+LANG_ENGLISH        "John Dobbie"
+
+REFERENCE           CREDIT_JOHN_DOLAN
+LANG_ENGLISH        "John Dolan"
+
+REFERENCE           CREDIT_JOHN_GOLDSWORTHY
+LANG_ENGLISH        "John Goldsworthy"
+
+REFERENCE           CREDIT_JOHN_HAMILL
+LANG_ENGLISH        "John Hamill"
+
+REFERENCE           CREDIT_JOHN_HARRIES
+LANG_ENGLISH        "John Harries"
+
+REFERENCE           CREDIT_JOHN_KIRK
+LANG_ENGLISH        "John Kirk"
+
+REFERENCE           CREDIT_JOHN_PAUL_FASAL
+LANG_ENGLISH        "John Paul Fasal"
+
+REFERENCE           CREDIT_JOHN_RAFACZ
+LANG_ENGLISH        "John Rafacz"
+
+REFERENCE           CREDIT_JOHN_ROSSER
+LANG_ENGLISH        "John Rosser"
+
+REFERENCE           CREDIT_JOHN_SAHAS
+LANG_ENGLISH        "John Sahas"
+
+REFERENCE           CREDIT_JOHN_SINCLAIR
+LANG_ENGLISH        "John Sinclair"
+
+REFERENCE           CREDIT_JOHN_WASILCZYK
+LANG_ENGLISH        "John Wasilczyk"
+
+REFERENCE           CREDIT_JOI_TANNER
+LANG_ENGLISH        "Joi Tanner"
+
+REFERENCE           CREDIT_JOLYON_MYERS
+LANG_ENGLISH        "Jolyon Myers"
+
+REFERENCE           CREDIT_JONATHAN_BUTCHER
+LANG_ENGLISH        "Jonathan Butcher"
+
+REFERENCE           CREDIT_JONATHAN_FRAWLEY
+LANG_ENGLISH        "Jonathan Frawley"
+
+REFERENCE           CREDIT_JONATHAN_KEISER
+LANG_ENGLISH        "Jonathan Keiser"
+
+REFERENCE           CREDIT_JONATHAN_LAJOIE
+LANG_ENGLISH        "Jonathan Lajoie"
+
+REFERENCE           CREDIT_JONATHAN_PICH_
+LANG_ENGLISH        "Jonathan Piché"
+
+REFERENCE           CREDIT_JONATHAN_SIMAS
+LANG_ENGLISH        "Jonathan Simas"
+
+REFERENCE           CREDIT_JON_AN
+LANG_ENGLISH        "Jon An"
+
+REFERENCE           CREDIT_JON_HAUSE
+LANG_ENGLISH        "Jon Hause"
+
+REFERENCE           CREDIT_JON_LOMIBAO
+LANG_ENGLISH        "Jon Lomibao"
+
+REFERENCE           CREDIT_JON_PORTER
+LANG_ENGLISH        "Jon Porter"
+
+REFERENCE           CREDIT_JON_STOLL
+LANG_ENGLISH        "Jon Stoll"
+
+REFERENCE           CREDIT_JON_ZUK
+LANG_ENGLISH        "Jon Zuk"
+
+REFERENCE           CREDIT_JORDANE_GAGNON
+LANG_ENGLISH        "Jordane Gagnon"
+
+REFERENCE           CREDIT_JORDAN_ABELES
+LANG_ENGLISH        "Jordan Abeles"
+
+REFERENCE           CREDIT_JORDAN_HIRSH
+LANG_ENGLISH        "Jordan Hirsh"
+
+REFERENCE           CREDIT_JORGE_E_RUIZ_CANO
+LANG_ENGLISH        "Jorge E. Ruiz Cano"
+
+REFERENCE           CREDIT_JOSEPH_PEASE
+LANG_ENGLISH        "Joseph Pease"
+
+REFERENCE           CREDIT_JOSEPH_UTLEY
+LANG_ENGLISH        "Joseph Utley"
+
+REFERENCE           CREDIT_JOSE_VEGA
+LANG_ENGLISH        "Jose Vega"
+
+REFERENCE           CREDIT_JOSHUA_SELINGER
+LANG_ENGLISH        "Joshua Selinger"
+
+REFERENCE           CREDIT_JOSHUA_TERRY
+LANG_ENGLISH        "Joshua Terry"
+
+REFERENCE           CREDIT_JOSH_KATZ
+LANG_ENGLISH        "Josh Katz"
+
+REFERENCE           CREDIT_JOSH_MORRIS
+LANG_ENGLISH        "Josh Morris"
+
+REFERENCE           CREDIT_JOSIANNE_PELLETIER
+LANG_ENGLISH        "Josianne Pelletier"
+
+REFERENCE           CREDIT_JOS_E_LABOISSONNI_RE
+LANG_ENGLISH        "Josée Laboissonnière"
+
+REFERENCE           CREDIT_JO_L_DENIS_SHEEHY
+LANG_ENGLISH        "Joël Denis-Sheehy"
+
+REFERENCE           CREDIT_JULIAN_LUO
+LANG_ENGLISH        "Julian Luo"
+
+REFERENCE           CREDIT_JULIAN_PONS
+LANG_ENGLISH        "Julian Pons"
+
+REFERENCE           CREDIT_JULIAN_STONE
+LANG_ENGLISH        "Julian Stone"
+
+REFERENCE           CREDIT_JULIA_AREM
+LANG_ENGLISH        "Julia Arem"
+
+REFERENCE           CREDIT_JULIE_COUCOULES
+LANG_ENGLISH        "Julie Coucoules"
+
+REFERENCE           CREDIT_JULIO_DEAN
+LANG_ENGLISH        "Julio Dean"
+
+REFERENCE           CREDIT_JUNE_PARK
+LANG_ENGLISH        "June Park"
+
+REFERENCE           CREDIT_JUSTIN_HARRIS
+LANG_ENGLISH        "Justin Harris"
+
+REFERENCE           CREDIT_JUSTIN_LAMPERSKI
+LANG_ENGLISH        "Justin Lamperski"
+
+REFERENCE           CREDIT_JUSTIN_NEGRETE
+LANG_ENGLISH        "Justin Negrete"
+
+REFERENCE           CREDIT_JUSTIN_NUNEZ
+LANG_ENGLISH        "Justin Nunez"
+
+REFERENCE           CREDIT_JUSTIN_SUPERTY
+LANG_ENGLISH        "Justin Superty"
+
+REFERENCE           CREDIT_J_R_ME_LEMIEUX_TRUCHON
+LANG_ENGLISH        "Jérôme Lemieux-Truchon"
+
+REFERENCE           CREDIT_KACPER_CENTKOWSKI
+LANG_ENGLISH        "Kacper Centkowski"
+
+REFERENCE           CREDIT_KAITLYN_RIES
+LANG_ENGLISH        "Kaitlyn Ries"
+
+REFERENCE           CREDIT_KAI_HSU_
+LANG_ENGLISH        "Kai Hsu "
+
+REFERENCE           CREDIT_KAI_WULF
+LANG_ENGLISH        "Kai Wulf"
+
+REFERENCE           CREDIT_KAP_KANG
+LANG_ENGLISH        "Kap Kang"
+
+REFERENCE           CREDIT_KAREN_KWAK
+LANG_ENGLISH        "Karen Kwak"
+
+REFERENCE           CREDIT_KAREN_SIDEY
+LANG_ENGLISH        "Karen Sidey"
+
+REFERENCE           CREDIT_KAREN_STARR
+LANG_ENGLISH        "Karen Starr"
+
+REFERENCE           CREDIT_KARINE_WINDY_BOUDREAULT
+LANG_ENGLISH        "Karine-Windy Boudreault"
+
+REFERENCE           CREDIT_KATE_OGOSTA
+LANG_ENGLISH        "Kate Ogosta"
+
+REFERENCE           CREDIT_KATHLEEN_MARTY
+LANG_ENGLISH        "Kathleen Marty"
+
+REFERENCE           CREDIT_KATHY_BOCK
+LANG_ENGLISH        "Kathy Bock"
+
+REFERENCE           CREDIT_KATIE_PURCELL
+LANG_ENGLISH        "Katie Purcell"
+
+REFERENCE           CREDIT_KEITH_AREM_
+LANG_ENGLISH        "Keith Arem "
+
+REFERENCE           CREDIT_KEITH_AREM___PCB_PRODUCTIONS
+LANG_ENGLISH        "Keith Arem - PCB Productions"
+
+REFERENCE           CREDIT_KEITH_MATEJKA
+LANG_ENGLISH        "Keith Matejka"
+
+REFERENCE           CREDIT_KEITH_MORTON
+LANG_ENGLISH        "Keith Morton"
+
+REFERENCE           CREDIT_KEITH_NED_BELL
+LANG_ENGLISH        "Keith \"Ned\" Bell"
+
+REFERENCE           CREDIT_KELLY_HUFFINE
+LANG_ENGLISH        "Kelly Huffine"
+
+REFERENCE           CREDIT_KELLY_MERMELSTEIN
+LANG_ENGLISH        "Kelly Mermelstein"
+
+REFERENCE           CREDIT_KELLY_SCHWARM
+LANG_ENGLISH        "Kelly Schwarm"
+
+REFERENCE           CREDIT_KELSON_RAFFEL
+LANG_ENGLISH        "Kelson Raffel"
+
+REFERENCE           CREDIT_KEVIN_BAIK
+LANG_ENGLISH        "Kevin Baik"
+
+REFERENCE           CREDIT_KEVIN_COLLINS
+LANG_ENGLISH        "Kevin Collins"
+
+REFERENCE           CREDIT_KEVIN_DREW
+LANG_ENGLISH        "Kevin Drew"
+
+REFERENCE           CREDIT_KEVIN_KRAEER
+LANG_ENGLISH        "Kevin Kraeer"
+
+REFERENCE           CREDIT_KEVIN_LONG
+LANG_ENGLISH        "Kevin Long"
+
+REFERENCE           CREDIT_KEVIN_MCKIDD
+LANG_ENGLISH        "Kevin McKidd"
+
+REFERENCE           CREDIT_KEVIN_REED
+LANG_ENGLISH        "Kevin Reed"
+
+REFERENCE           CREDIT_KEVIN_SANDLOW
+LANG_ENGLISH        "Kevin Sandlow"
+
+REFERENCE           CREDIT_KEVIN_SMITH
+LANG_ENGLISH        "Kevin Smith"
+
+REFERENCE           CREDIT_KEVIN_VALL_E
+LANG_ENGLISH        "Kevin Vallée"
+
+REFERENCE           CREDIT_KEVIN_WORREL
+LANG_ENGLISH        "Kevin Worrel"
+
+REFERENCE           CREDIT_KHALIN_MIKKELSEN
+LANG_ENGLISH        "Khalin Mikkelsen"
+
+REFERENCE           CREDIT_KIMI_XU_JIAN_JUN
+LANG_ENGLISH        "Kimi Xu (Jian Jun)"
+
+REFERENCE           CREDIT_KIRK_MCNESBY
+LANG_ENGLISH        "Kirk McNesby"
+
+REFERENCE           CREDIT_KIRT_SANCHEZ
+LANG_ENGLISH        "Kirt Sanchez"
+
+REFERENCE           CREDIT_KRISTEN_SYCH
+LANG_ENGLISH        "Kristen Sych"
+
+REFERENCE           CREDIT_KRISTINA_ADELMEYER
+LANG_ENGLISH        "Kristina Adelmeyer"
+
+REFERENCE           CREDIT_KRISTIN_GALLAGHER
+LANG_ENGLISH        "Kristin Gallagher"
+
+REFERENCE           CREDIT_KRISTIN_TODD
+LANG_ENGLISH        "Kristin Todd"
+
+REFERENCE           CREDIT_KRIS_DEMARTINI
+LANG_ENGLISH        "Kris DeMartini"
+
+REFERENCE           CREDIT_KRIS_SNIDER_
+LANG_ENGLISH        "Kris Snider "
+
+REFERENCE           CREDIT_KUO_CHIEH_CHUNG
+LANG_ENGLISH        "Kuo Chieh Chung"
+
+REFERENCE           CREDIT_KURT_GOSCH
+LANG_ENGLISH        "Kurt Gosch"
+
+REFERENCE           CREDIT_KURT_WILLIAMS
+LANG_ENGLISH        "Kurt Williams"
+
+REFERENCE           CREDIT_KYLE_AUDICK
+LANG_ENGLISH        "Kyle Audick"
+
+REFERENCE           CREDIT_KYLE_BLACKMAN
+LANG_ENGLISH        "Kyle Blackman"
+
+REFERENCE           CREDIT_KYLE_CHENG_HAO
+LANG_ENGLISH        "Kyle Cheng (Hao)"
+
+REFERENCE           CREDIT_KYLE_STEPHENS
+LANG_ENGLISH        "Kyle Stephens"
+
+REFERENCE           CREDIT_KYLE_WALKER
+LANG_ENGLISH        "Kyle Walker"
+
+REFERENCE           CREDIT_LANCE_LAURSEN
+LANG_ENGLISH        "Lance Laursen"
+
+REFERENCE           CREDIT_LARRY_ZANOFF
+LANG_ENGLISH        "Larry Zanoff"
+
+REFERENCE           CREDIT_LATEEF_CROWDER
+LANG_ENGLISH        "Lateef Crowder"
+
+REFERENCE           CREDIT_LAURA_COCCO
+LANG_ENGLISH        "Laura Cocco"
+
+REFERENCE           CREDIT_LAURENT_DUMONT_SAUCIER
+LANG_ENGLISH        "Laurent Dumont-Saucier"
+
+REFERENCE           CREDIT_LAWRENCE_MAI
+LANG_ENGLISH        "Lawrence Mai"
+
+REFERENCE           CREDIT_LEE_CASH
+LANG_ENGLISH        "Lee Cash"
+
+REFERENCE           CREDIT_LEILA_DENNY
+LANG_ENGLISH        "Leila Denny"
+
+REFERENCE           CREDIT_LEI_YANG
+LANG_ENGLISH        "Lei Yang"
+
+REFERENCE           CREDIT_LEONARD_RODRIGUEZ
+LANG_ENGLISH        "Leonard Rodriguez"
+
+REFERENCE           CREDIT_LEUPOLD___STEVENS__INC
+LANG_ENGLISH        "Leupold & Stevens, Inc."
+
+REFERENCE           CREDIT_LEVI_DAVIS
+LANG_ENGLISH        "Levi Davis"
+
+REFERENCE           CREDIT_LEX_QUARTERMAN
+LANG_ENGLISH        "Lex Quarterman"
+
+REFERENCE           CREDIT_LIAM_DYE
+LANG_ENGLISH        "Liam Dye"
+
+REFERENCE           CREDIT_LIAM_OBRIEN
+LANG_ENGLISH        "Liam O'Brien"
+
+REFERENCE           CREDIT_LILIANA_CONDREY
+LANG_ENGLISH        "Liliana Condrey"
+
+REFERENCE           CREDIT_LIM_HUR
+LANG_ENGLISH        "Lim Hur"
+
+REFERENCE           CREDIT_LINDA_ZEMMLER
+LANG_ENGLISH        "Linda Zemmler"
+
+REFERENCE           CREDIT_LINNEA_HARRISON
+LANG_ENGLISH        "Linnea Harrison"
+
+REFERENCE           CREDIT_LIN_OEDING
+LANG_ENGLISH        "Lin Oeding"
+
+REFERENCE           CREDIT_LISA_LIANG
+LANG_ENGLISH        "Lisa Liang"
+
+REFERENCE           CREDIT_LISA_STONE
+LANG_ENGLISH        "Lisa Stone"
+
+REFERENCE           CREDIT_LIZ_HUBLEY
+LANG_ENGLISH        "Liz Hubley"
+
+REFERENCE           CREDIT_LOCALISATION_TOOLS___SUPPORT
+LANG_ENGLISH        "Localisation Tools & Support"
+
+REFERENCE           CREDIT_LOU_STUDDERT
+LANG_ENGLISH        "Lou Studdert"
+
+REFERENCE           CREDIT_LUIS_HERNANDEZ_DALMAU
+LANG_ENGLISH        "Luis Hernandez Dalmau"
+
+REFERENCE           CREDIT_LUIS_RIBERO
+LANG_ENGLISH        "Luis Ribero"
+
+REFERENCE           CREDIT_LUKA_L_B_LANGER
+LANG_ENGLISH        "Lukaël Bélanger"
+
+REFERENCE           CREDIT_LUKA_ROMEL
+LANG_ENGLISH        "Luka Romel"
+
+REFERENCE           CREDIT_LUKE_BURDEN
+LANG_ENGLISH        "Luke Burden"
+
+REFERENCE           CREDIT_LUKE_VERNON
+LANG_ENGLISH        "Luke Vernon"
+
+REFERENCE           CREDIT_MADELINE_MORTON
+LANG_ENGLISH        "Madeline Morton"
+
+REFERENCE           CREDIT_MAGNUM_RESEARCH_INC
+LANG_ENGLISH        "Magnum Research Inc."
+
+REFERENCE           CREDIT_MALCOLM_DOWSE
+LANG_ENGLISH        "Malcolm Dowse"
+
+REFERENCE           CREDIT_MAPMONKEYS_
+LANG_ENGLISH        "mapMonkeys "
+
+REFERENCE           CREDIT_MARCHELE_HARDIN
+LANG_ENGLISH        "Marchele Hardin"
+
+REFERENCE           CREDIT_MARCO_FRANGELLA
+LANG_ENGLISH        "Marco Frangella"
+
+REFERENCE           CREDIT_MARCUS_IREMONGER
+LANG_ENGLISH        "Marcus Iremonger"
+
+REFERENCE           CREDIT_MARCUS_SANFORD
+LANG_ENGLISH        "Marcus Sanford"
+
+REFERENCE           CREDIT_MARC_ANDRE_VILLENEUVE
+LANG_ENGLISH        "Marc-Andre Villeneuve"
+
+REFERENCE           CREDIT_MARC_ANDR__BARON
+LANG_ENGLISH        "Marc-André Baron"
+
+REFERENCE           CREDIT_MARC_ANDR__LALIBERT_
+LANG_ENGLISH        "Marc-André Laliberté"
+
+REFERENCE           CREDIT_MARC_ANDR__THIBEAULT
+LANG_ENGLISH        "Marc-André Thibeault"
+
+REFERENCE           CREDIT_MARC_ANTOINE_PELLETIER
+LANG_ENGLISH        "Marc-Antoine Pelletier"
+
+REFERENCE           CREDIT_MARC_DAVID
+LANG_ENGLISH        "Marc David"
+
+REFERENCE           CREDIT_MARC_WILLIAMS
+LANG_ENGLISH        "Marc Williams"
+
+REFERENCE           CREDIT_MARENKA_BISSON
+LANG_ENGLISH        "Marenka Bisson"
+
+REFERENCE           CREDIT_MARIA_GONZALEZ
+LANG_ENGLISH        "Maria Gonzalez"
+
+REFERENCE           CREDIT_MARIE_CLAUDE_BLAIS
+LANG_ENGLISH        "Marie-Claude Blais"
+
+REFERENCE           CREDIT_MARIE_PIERRE_TREMBLAY
+LANG_ENGLISH        "Marie-Pierre Tremblay"
+
+REFERENCE           CREDIT_MARIO_GIOMBI
+LANG_ENGLISH        "Mario Giombi"
+
+REFERENCE           CREDIT_MARISSA_OLSON
+LANG_ENGLISH        "Marissa Olson"
+
+REFERENCE           CREDIT_MARKETING_COMMUNICATIONS
+LANG_ENGLISH        "Marketing Communications"
+
+REFERENCE           CREDIT_MARKE_HALLOWELL
+LANG_ENGLISH        "Marke Hallowell"
+
+REFERENCE           CREDIT_MARKUS_PEEKNA
+LANG_ENGLISH        "Markus Peekna"
+
+REFERENCE           CREDIT_MARK_DERIDDER
+LANG_ENGLISH        "Mark DeRidder"
+
+REFERENCE           CREDIT_MARK_GANUS
+LANG_ENGLISH        "Mark Ganus"
+
+REFERENCE           CREDIT_MARK_IVANIR
+LANG_ENGLISH        "Mark Ivanir"
+
+REFERENCE           CREDIT_MARK_KILBORN
+LANG_ENGLISH        "Mark Kilborn"
+
+REFERENCE           CREDIT_MARK_KORNKVEN
+LANG_ENGLISH        "Mark Kornkven"
+
+REFERENCE           CREDIT_MARK_LAMIA
+LANG_ENGLISH        "Mark Lamia"
+
+REFERENCE           CREDIT_MARK_MAESTAS
+LANG_ENGLISH        "Mark Maestas"
+
+REFERENCE           CREDIT_MARK_MANTO
+LANG_ENGLISH        "Mark Manto"
+
+REFERENCE           CREDIT_MARK_MCGREE
+LANG_ENGLISH        "Mark McGree"
+
+REFERENCE           CREDIT_MARK_RUBIN
+LANG_ENGLISH        "Mark Rubin"
+
+REFERENCE           CREDIT_MARTIN_CLARKE
+LANG_ENGLISH        "Martin Clarke"
+
+REFERENCE           CREDIT_MARVIN_SUPAN
+LANG_ENGLISH        "Marvin Supan"
+
+REFERENCE           CREDIT_MARYANNE_LATAIF
+LANG_ENGLISH        "Maryanne Lataif"
+
+REFERENCE           CREDIT_MARYANN_KNOKE
+LANG_ENGLISH        "MaryAnn Knoke"
+
+REFERENCE           CREDIT_MARY_BENITEZ
+LANG_ENGLISH        "Mary Benitez"
+
+REFERENCE           CREDIT_MARY_PRESCOTT
+LANG_ENGLISH        "Mary Prescott"
+
+REFERENCE           CREDIT_MARY_TUCK
+LANG_ENGLISH        "Mary Tuck"
+
+REFERENCE           CREDIT_MATHEW_ABRAMS
+LANG_ENGLISH        "Mathew Abrams"
+
+REFERENCE           CREDIT_MATHEW_CARPENTER
+LANG_ENGLISH        "Mathew Carpenter"
+
+REFERENCE           CREDIT_MATHIEU_BIBEAU_MORIN
+LANG_ENGLISH        "Mathieu Bibeau-Morin"
+
+REFERENCE           CREDIT_MATHIEU_GOSSELIN
+LANG_ENGLISH        "Mathieu Gosselin"
+
+REFERENCE           CREDIT_MATTHEW_ABBOTT
+LANG_ENGLISH        "Matthew Abbott"
+
+REFERENCE           CREDIT_MATTHEW_BEIN
+LANG_ENGLISH        "Matthew Bein"
+
+REFERENCE           CREDIT_MATTHEW_DAVIS
+LANG_ENGLISH        "Matthew Davis"
+
+REFERENCE           CREDIT_MATTHEW_EDWARDS
+LANG_ENGLISH        "Matthew Edwards"
+
+REFERENCE           CREDIT_MATTHEW_HAUGEN
+LANG_ENGLISH        "Matthew Haugen"
+
+REFERENCE           CREDIT_MATTHEW_MERCER
+LANG_ENGLISH        "Matthew Mercer"
+
+REFERENCE           CREDIT_MATTHEW_VITALONE
+LANG_ENGLISH        "Matthew Vitalone"
+
+REFERENCE           CREDIT_MATT_EVANS
+LANG_ENGLISH        "Matt Evans"
+
+REFERENCE           CREDIT_MATT_KARNES
+LANG_ENGLISH        "Matt Karnes"
+
+REFERENCE           CREDIT_MATT_LEMBERGER
+LANG_ENGLISH        "Matt Lemberger"
+
+REFERENCE           CREDIT_MATT_MCCLURE
+LANG_ENGLISH        "Matt McClure"
+
+REFERENCE           CREDIT_MATT_PINKSTON
+LANG_ENGLISH        "Matt Pinkston"
+
+REFERENCE           CREDIT_MATT_PROUDFOOT
+LANG_ENGLISH        "Matt Proudfoot"
+
+REFERENCE           CREDIT_MATT_TSANG
+LANG_ENGLISH        "Matt Tsang"
+
+REFERENCE           CREDIT_MATT_WELLMAN
+LANG_ENGLISH        "Matt Wellman"
+
+REFERENCE           CREDIT_MAXIME_BOUCHER_ALLARD
+LANG_ENGLISH        "Maxime Boucher-Allard"
+
+REFERENCE           CREDIT_MAXIME_DE_VARENNES
+LANG_ENGLISH        "Maxime De Varennes"
+
+REFERENCE           CREDIT_MAXIME_DROUIN
+LANG_ENGLISH        "Maxime Drouin"
+
+REFERENCE           CREDIT_MAXIME_PICARD
+LANG_ENGLISH        "Maxime Picard"
+
+REFERENCE           CREDIT_MAXIME_TRUDEL
+LANG_ENGLISH        "Maxime Trudel"
+
+REFERENCE           CREDIT_MAZEN_ZAIYA
+LANG_ENGLISH        "Mazen Zaiya"
+
+REFERENCE           CREDIT_MEGAN_MCDONALD
+LANG_ENGLISH        "Megan McDonald"
+
+REFERENCE           CREDIT_MEGAN_PARKER
+LANG_ENGLISH        "Megan Parker"
+
+REFERENCE           CREDIT_MELISSA_WESSELY
+LANG_ENGLISH        "Melissa Wessely"
+
+REFERENCE           CREDIT_MICAH_DEBOLT
+LANG_ENGLISH        "Micah DeBolt"
+
+REFERENCE           CREDIT_MICHAEL_BARNES
+LANG_ENGLISH        "Michael Barnes"
+
+REFERENCE           CREDIT_MICHAEL_BOON
+LANG_ENGLISH        "Michael Boon"
+
+REFERENCE           CREDIT_MICHAEL_COLLINS
+LANG_ENGLISH        "Michael Collins"
+
+REFERENCE           CREDIT_MICHAEL_CONDREY
+LANG_ENGLISH        "Michael Condrey"
+
+REFERENCE           CREDIT_MICHAEL_CRUZ
+LANG_ENGLISH        "Michael Cruz"
+
+REFERENCE           CREDIT_MICHAEL_CUDLITZ
+LANG_ENGLISH        "Michael Cudlitz"
+
+REFERENCE           CREDIT_MICHAEL_C_GUMMELT
+LANG_ENGLISH        "Michael C. Gummelt"
+
+REFERENCE           CREDIT_MICHAEL_DIMEO
+LANG_ENGLISH        "Michael DiMeo"
+
+REFERENCE           CREDIT_MICHAEL_EKBERG
+LANG_ENGLISH        "Michael Ekberg"
+
+REFERENCE           CREDIT_MICHAEL_GAUGY
+LANG_ENGLISH        "Michael Gaugy"
+
+REFERENCE           CREDIT_MICHAEL_GEVORKIAN
+LANG_ENGLISH        "Michael Gevorkian"
+
+REFERENCE           CREDIT_MICHAEL_GILARDI
+LANG_ENGLISH        "Michael Gilardi"
+
+REFERENCE           CREDIT_MICHAEL_JANTZ
+LANG_ENGLISH        "Michael Jantz"
+
+REFERENCE           CREDIT_MICHAEL_RESTIFO
+LANG_ENGLISH        "Michael Restifo"
+
+REFERENCE           CREDIT_MICHAEL_SPORTOUCH
+LANG_ENGLISH        "Michael Sportouch"
+
+REFERENCE           CREDIT_MICHAEL_STEWART
+LANG_ENGLISH        "Michael Stewart"
+
+REFERENCE           CREDIT_MICHAEL_VANCE
+LANG_ENGLISH        "Michael Vance"
+
+REFERENCE           CREDIT_MICHAEL_WINTE
+LANG_ENGLISH        "Michael Winte"
+
+REFERENCE           CREDIT_MICHAEL_ZIPKIN
+LANG_ENGLISH        "Michael Zipkin"
+
+REFERENCE           CREDIT_MICHELLE_LAUMANN
+LANG_ENGLISH        "Michelle Laumann"
+
+REFERENCE           CREDIT_MIGUEL_AREVALO
+LANG_ENGLISH        "Miguel Arevalo"
+
+REFERENCE           CREDIT_MIKE_BUTTON
+LANG_ENGLISH        "Mike Button"
+
+REFERENCE           CREDIT_MIKE_CURRAN
+LANG_ENGLISH        "Mike Curran"
+
+REFERENCE           CREDIT_MIKE_DANGERFIELD
+LANG_ENGLISH        "Mike Dangerfield"
+
+REFERENCE           CREDIT_MIKE_DENNY
+LANG_ENGLISH        "Mike Denny"
+
+REFERENCE           CREDIT_MIKE_HUNAU
+LANG_ENGLISH        "Mike Hunau"
+
+REFERENCE           CREDIT_MIKE_MADDEN
+LANG_ENGLISH        "Mike Madden"
+
+REFERENCE           CREDIT_MIKE_MAJERNIK
+LANG_ENGLISH        "Mike Majernik"
+
+REFERENCE           CREDIT_MIKE_MANTARRO
+LANG_ENGLISH        "Mike Mantarro"
+
+REFERENCE           CREDIT_MIKE_MEJIA
+LANG_ENGLISH        "Mike Mejia"
+
+REFERENCE           CREDIT_MIKE_RAMEY
+LANG_ENGLISH        "Mike Ramey"
+
+REFERENCE           CREDIT_MIKE_RENNER
+LANG_ENGLISH        "Mike Renner"
+
+REFERENCE           CREDIT_MIKE_SWIONTKOWSKI
+LANG_ENGLISH        "Mike Swiontkowski"
+
+REFERENCE           CREDIT_MIKE_WARD
+LANG_ENGLISH        "Mike Ward"
+
+REFERENCE           CREDIT_MILES_CHRISTENSEN
+LANG_ENGLISH        "Miles Christensen"
+
+REFERENCE           CREDIT_MILES_RENNER
+LANG_ENGLISH        "Miles Renner"
+
+REFERENCE           CREDIT_MILITARY_CONSULTANTS
+LANG_ENGLISH        "Military Consultants"
+
+REFERENCE           CREDIT_MILO_KILBORN
+LANG_ENGLISH        "Milo Kilborn"
+
+REFERENCE           CREDIT_MILTON_TREY_SHARP
+LANG_ENGLISH        "Milton \"Trey\" Sharp"
+
+REFERENCE           CREDIT_MIROSLAW_BARAN
+LANG_ENGLISH        "Miroslaw Baran"
+
+REFERENCE           CREDIT_MITCH_SANBORN
+LANG_ENGLISH        "Mitch Sanborn"
+
+REFERENCE           CREDIT_MONICA_PONTRELLI
+LANG_ENGLISH        "Monica Pontrelli"
+
+REFERENCE           CREDIT_MONOTYPE
+LANG_ENGLISH        "Monotype"
+
+REFERENCE           CREDIT_MORGAN_BRICKLEY
+LANG_ENGLISH        "Morgan Brickley"
+
+REFERENCE           CREDIT_MOSHE_MOADEB
+LANG_ENGLISH        "Moshe Moadeb"
+
+REFERENCE           CREDIT_MOTION_CAPTURE_ACTORS
+LANG_ENGLISH        "Motion Capture Actors"
+
+REFERENCE           CREDIT_MUNIA_MORRIS
+LANG_ENGLISH        "Munia Morris"
+
+REFERENCE           CREDIT_MU_YONG_WALTER_KIM
+LANG_ENGLISH        "Mu Yong (Walter) Kim"
+
+REFERENCE           CREDIT_MY_WU
+LANG_ENGLISH        "My Wu"
+
+REFERENCE           CREDIT_NADIA_ALRAMLI
+LANG_ENGLISH        "Nadia Alramli"
+
+REFERENCE           CREDIT_NAIMA_MAI
+LANG_ENGLISH        "Naima Mai"
+
+REFERENCE           CREDIT_NAKIA_HARRIS
+LANG_ENGLISH        "Nakia Harris"
+
+REFERENCE           CREDIT_NATHAN_KINNEY
+LANG_ENGLISH        "Nathan Kinney"
+
+REFERENCE           CREDIT_NATHAN_OAKES
+LANG_ENGLISH        "Nathan Oakes"
+
+REFERENCE           CREDIT_NATHAN_RAUSCH
+LANG_ENGLISH        "Nathan Rausch"
+
+REFERENCE           CREDIT_NATHAN_SILVERS
+LANG_ENGLISH        "Nathan Silvers"
+
+REFERENCE           CREDIT_NEEL_KAR
+LANG_ENGLISH        "Neel Kar"
+
+REFERENCE           CREDIT_NEVIN_KAR
+LANG_ENGLISH        "Nevin Kar"
+
+REFERENCE           CREDIT_NGHIA_LAM
+LANG_ENGLISH        "Nghia Lam"
+
+REFERENCE           CREDIT_NICHOLAS_BLANCHARD
+LANG_ENGLISH        "Nicholas Blanchard"
+
+REFERENCE           CREDIT_NICHOLAS_STEVENSON
+LANG_ENGLISH        "Nicholas Stevenson"
+
+REFERENCE           CREDIT_NICKLAS_PAVLICH
+LANG_ENGLISH        "Nicklas Pavlich"
+
+REFERENCE           CREDIT_NICK_BENNETT
+LANG_ENGLISH        "Nick Bennett"
+
+REFERENCE           CREDIT_NICK_BENSEMAN
+LANG_ENGLISH        "Nick Benseman"
+
+REFERENCE           CREDIT_NICK_OTTO
+LANG_ENGLISH        "Nick Otto"
+
+REFERENCE           CREDIT_NICK_PENWARDEN
+LANG_ENGLISH        "Nick Penwarden"
+
+REFERENCE           CREDIT_NICK_TRIFUNOVIC
+LANG_ENGLISH        "Nick Trifunovic"
+
+REFERENCE           CREDIT_NICOLAS_BOURGAULT
+LANG_ENGLISH        "Nicolas Bourgault"
+
+REFERENCE           CREDIT_NICOLAS_MORIN
+LANG_ENGLISH        "Nicolas Morin"
+
+REFERENCE           CREDIT_NICOLAS_M_CAREAU
+LANG_ENGLISH        "Nicolas M. Careau"
+
+REFERENCE           CREDIT_NICOLAS_VERRET
+LANG_ENGLISH        "Nicolas Verret"
+
+REFERENCE           CREDIT_NICOLA_COLLERAN
+LANG_ENGLISH        "Nicola Colleran"
+
+REFERENCE           CREDIT_NICOLA_MARZOLLA
+LANG_ENGLISH        "Nicola Marzolla"
+
+REFERENCE           CREDIT_NIKOLAI_STOILOV
+LANG_ENGLISH        "Nikolai Stoilov"
+
+REFERENCE           CREDIT_NOAH_HELLER
+LANG_ENGLISH        "Noah Heller"
+
+REFERENCE           CREDIT_NOAH_KIRCHER_ALLEN
+LANG_ENGLISH        "Noah Kircher-Allen"
+
+REFERENCE           CREDIT_NOAH_SARID
+LANG_ENGLISH        "Noah Sarid"
+
+REFERENCE           CREDIT_NOBERT_DION_TRUDEL
+LANG_ENGLISH        "Nobert Dion-Trudel"
+
+REFERENCE           CREDIT_NOEL_VEGA
+LANG_ENGLISH        "Noel Vega"
+
+REFERENCE           CREDIT_NORBERT_NACU
+LANG_ENGLISH        "Norbert Nacu"
+
+REFERENCE           CREDIT_NURIA_ANDRES
+LANG_ENGLISH        "Nuria Andres"
+
+REFERENCE           CREDIT_NURIA_SANCHEZ
+LANG_ENGLISH        "Nuria Sanchez"
+
+REFERENCE           CREDIT_OMAR_AZIZ
+LANG_ENGLISH        "Omar Aziz"
+
+REFERENCE           CREDIT_ON_BEHALF_OF_EVERYONE_INVOLVED_I
+LANG_ENGLISH        "On behalf of everyone involved in the development of MW3, we"
+
+REFERENCE           CREDIT_OPERATIONS___STUDIO_PLANNING
+LANG_ENGLISH        "Operations & Studio Planning"
+
+REFERENCE           CREDIT_OPS_CORE
+LANG_ENGLISH        "Ops-Core"
+
+REFERENCE           CREDIT_ORIGINAL_MUSIC_BY
+LANG_ENGLISH        "Original Music By"
+
+REFERENCE           CREDIT_OSCAR_LOPEZ
+LANG_ENGLISH        "Oscar Lopez"
+
+REFERENCE           CREDIT_PACKAGING_AND_MANUAL_DESIGN_BY
+LANG_ENGLISH        "Packaging and Manual Design By"
+
+REFERENCE           CREDIT_PADRAIC_HALLINAN
+LANG_ENGLISH        "Padraic Hallinan"
+
+REFERENCE           CREDIT_PAOLA_PALERMO
+LANG_ENGLISH        "Paola Palermo"
+
+REFERENCE           CREDIT_PASCAL_PERTARDI
+LANG_ENGLISH        "Pascal Pertardi"
+
+REFERENCE           CREDIT_PASCAL_THIBAULT_LAROUCHE
+LANG_ENGLISH        "Pascal Thibault-Larouche"
+
+REFERENCE           CREDIT_PATRICK_LACHARIT_
+LANG_ENGLISH        "Patrick Lacharité"
+
+REFERENCE           CREDIT_PATRICK_WILLIAMS
+LANG_ENGLISH        "Patrick Williams"
+
+REFERENCE           CREDIT_PAT_DWYER
+LANG_ENGLISH        "Pat Dwyer"
+
+REFERENCE           CREDIT_PAT_GRIFFITH
+LANG_ENGLISH        "Pat Griffith"
+
+REFERENCE           CREDIT_PAULA_DEL_VALLE
+LANG_ENGLISH        "Paula Del Valle"
+
+REFERENCE           CREDIT_PAUL_CALVERT
+LANG_ENGLISH        "Paul Calvert"
+
+REFERENCE           CREDIT_PAUL_EDELSTEIN
+LANG_ENGLISH        "Paul Edelstein"
+
+REFERENCE           CREDIT_PAUL_FROESE
+LANG_ENGLISH        "Paul Froese"
+
+REFERENCE           CREDIT_PAUL_HAGGIS
+LANG_ENGLISH        "Paul Haggis"
+
+REFERENCE           CREDIT_PAUL_HUNT
+LANG_ENGLISH        "Paul Hunt"
+
+REFERENCE           CREDIT_PAUL_KERBY
+LANG_ENGLISH        "Paul Kerby"
+
+REFERENCE           CREDIT_PAUL_SANDLER
+LANG_ENGLISH        "Paul Sandler"
+
+REFERENCE           CREDIT_PAUL_STOUGHTON
+LANG_ENGLISH        "Paul Stoughton"
+
+REFERENCE           CREDIT_PAUL_TANIGUCHI
+LANG_ENGLISH        "Paul Taniguchi"
+
+REFERENCE           CREDIT_PCB_PRODUCTIONS
+LANG_ENGLISH        "PCB Productions"
+
+REFERENCE           CREDIT_PEDRO_AGUILAR
+LANG_ENGLISH        "Pedro Aguilar"
+
+REFERENCE           CREDIT_PENELOPE_BOWLING
+LANG_ENGLISH        "Penelope Bowling"
+
+REFERENCE           CREDIT_PETER_CHEN
+LANG_ENGLISH        "Peter Chen"
+
+REFERENCE           CREDIT_PETER_ELSLEY
+LANG_ENGLISH        "Peter Elsley"
+
+REFERENCE           CREDIT_PETER_SANTHA
+LANG_ENGLISH        "Peter Santha"
+
+REFERENCE           CREDIT_PETE_BLUMEL
+LANG_ENGLISH        "Pete Blumel"
+
+REFERENCE           CREDIT_PETROL
+LANG_ENGLISH        "Petrol"
+
+REFERENCE           CREDIT_PHILIPPE_MAYRAND
+LANG_ENGLISH        "Philippe Mayrand"
+
+REFERENCE           CREDIT_PHILIP_CHUNG
+LANG_ENGLISH        "Philip Chung"
+
+REFERENCE           CREDIT_PHILIP_EARL
+LANG_ENGLISH        "Philip Earl"
+
+REFERENCE           CREDIT_PHILLIP_SHEETS
+LANG_ENGLISH        "Phillip Sheets"
+
+REFERENCE           CREDIT_PHIL_KECK
+LANG_ENGLISH        "Phil Keck"
+
+REFERENCE           CREDIT_PHIL_TERZIAN
+LANG_ENGLISH        "Phil Terzian"
+
+REFERENCE           CREDIT_PIERRE_LUC_BUHLER
+LANG_ENGLISH        "Pierre-Luc Buhler"
+
+REFERENCE           CREDIT_PIERRE_LUC_VIENS_
+LANG_ENGLISH        "Pierre-Luc Viens "
+
+REFERENCE           CREDIT_PIERRE_MOREAU
+LANG_ENGLISH        "Pierre Moreau"
+
+REFERENCE           CREDIT_PIERRE_SCHIRO
+LANG_ENGLISH        "Pierre Schiro"
+
+REFERENCE           CREDIT_PIER_LUC_MILHOMME
+LANG_ENGLISH        "Pier-Luc Milhomme"
+
+REFERENCE           CREDIT_PIER_LUC_POULIN
+LANG_ENGLISH        "Pier-Luc Poulin"
+
+REFERENCE           CREDIT_PLACEHOLDER
+LANG_ENGLISH        "PLACEHOLDER"
+
+REFERENCE           CREDIT_PMK_BNC
+LANG_ENGLISH        "PMK BNC"
+
+REFERENCE           CREDIT_PRASHAN_GUNASINGAM
+LANG_ENGLISH        "Prashan Gunasingam"
+
+REFERENCE           CREDIT_PREDATOR_IS_A_US_REGISTERED_TRAD
+LANG_ENGLISH        "PREDATOR is a U.S. Registered Trademark of General Atomics Aeronautical Systems, Inc."
+
+REFERENCE           CREDIT_PRODUCTION_MANAGEMENT_
+LANG_ENGLISH        "Production Management "
+
+REFERENCE           CREDIT_PRODUCTION_MANAGEMENT_GROUP
+LANG_ENGLISH        "Production Management Group"
+
+REFERENCE           CREDIT_PRODUCTION_SERVICES___EUROPE
+LANG_ENGLISH        "Production Services - Europe"
+
+REFERENCE           CREDIT_PRODUCT_MANAGEMENT_AND_PUBLIC_RE
+LANG_ENGLISH        "Product Management and Public Relations"
+
+REFERENCE           CREDIT_PRODUCT_MANAGEMENT___PR
+LANG_ENGLISH        "Product Management & PR"
+
+REFERENCE           CREDIT_PROVIDED_BY_STEPHANIE_DEMING___X
+LANG_ENGLISH        "Provided by Stephanie Deming & XLOC, Inc."
+
+REFERENCE           CREDIT_PUBLISHED_BY_WEST_ONE_APM_ASCAP
+LANG_ENGLISH        "Published by West One APM (ASCAP)"
+
+REFERENCE           CREDIT_QUALITY_ASSURANCE
+LANG_ENGLISH        "Quality Assurance"
+
+REFERENCE           CREDIT_RACHEL_CHU
+LANG_ENGLISH        "Rachel Chu"
+
+REFERENCE           CREDIT_RACHEL_LEVINE
+LANG_ENGLISH        "Rachel Levine"
+
+REFERENCE           CREDIT_RACHEL_OVERTON
+LANG_ENGLISH        "Rachel Overton"
+
+REFERENCE           CREDIT_RAE_CHEN
+LANG_ENGLISH        "Rae Chen"
+
+REFERENCE           CREDIT_RAFAEL_SANTOS
+LANG_ENGLISH        "Rafael Santos"
+
+REFERENCE           CREDIT_RANDOLPH_DAMORE_
+LANG_ENGLISH        "Randolph d'Amore "
+
+REFERENCE           CREDIT_RAVEN_SOFTWARE__TREYARCH_AND_NEV
+LANG_ENGLISH        "Raven Software, Treyarch and Neversoft Entertainment"
+
+REFERENCE           CREDIT_RAY_KOWALEWSKI
+LANG_ENGLISH        "Ray Kowalewski"
+
+REFERENCE           CREDIT_REMINGTON
+LANG_ENGLISH        "Remington"
+
+REFERENCE           CREDIT_REMINGTON_ARMS
+LANG_ENGLISH        "Remington Arms"
+
+REFERENCE           CREDIT_REX_CHAO
+LANG_ENGLISH        "Rex Chao"
+
+REFERENCE           CREDIT_REYMUNDO_SIERRA
+LANG_ENGLISH        "Reymundo Sierra"
+
+REFERENCE           CREDIT_RHI_LEADBEATER
+LANG_ENGLISH        "Rhi Leadbeater"
+
+REFERENCE           CREDIT_RICARDO_ROMERO
+LANG_ENGLISH        "Ricardo Romero"
+
+REFERENCE           CREDIT_RICCARD_LINDE
+LANG_ENGLISH        "Riccard Linde"
+
+REFERENCE           CREDIT_RICHARD_KRIEGLER
+LANG_ENGLISH        "Richard Kriegler"
+
+REFERENCE           CREDIT_RICHARD_TOM
+LANG_ENGLISH        "Richard Tom"
+
+REFERENCE           CREDIT_RICK_ALVAREZ
+LANG_ENGLISH        "Rick Alvarez"
+
+REFERENCE           CREDIT_RICK_BARZILLI
+LANG_ENGLISH        "Rick Barzilli"
+
+REFERENCE           CREDIT_ROBERT_A_DYE
+LANG_ENGLISH        "Robert A. Dye"
+
+REFERENCE           CREDIT_ROBERT_BOWLING
+LANG_ENGLISH        "Robert Bowling"
+
+REFERENCE           CREDIT_ROBERT_FIELD
+LANG_ENGLISH        "Robert Field"
+
+REFERENCE           CREDIT_ROBERT_LOVE
+LANG_ENGLISH        "Robert Love"
+
+REFERENCE           CREDIT_ROBERT_PITTS
+LANG_ENGLISH        "Robert Pitts"
+
+REFERENCE           CREDIT_ROBERT_TAI
+LANG_ENGLISH        "Robert Tai"
+
+REFERENCE           CREDIT_ROBERT_TAYLOR
+LANG_ENGLISH        "Robert Taylor"
+
+REFERENCE           CREDIT_ROBIN_ATKIN_DOWNES
+LANG_ENGLISH        "Robin Atkin Downes"
+
+REFERENCE           CREDIT_ROB_KOSTICH
+LANG_ENGLISH        "Rob Kostich"
+
+REFERENCE           CREDIT_ROB_LEBEAU
+LANG_ENGLISH        "Rob LeBeau"
+
+REFERENCE           CREDIT_ROB_MCADOO
+LANG_ENGLISH        "Rob McAdoo"
+
+REFERENCE           CREDIT_ROB_TROY
+LANG_ENGLISH        "Rob Troy"
+
+REFERENCE           CREDIT_ROCHELLE_WEBB
+LANG_ENGLISH        "Rochelle Webb"
+
+REFERENCE           CREDIT_RODRIGO_MORA
+LANG_ENGLISH        "Rodrigo Mora"
+
+REFERENCE           CREDIT_RODRIGO_SUAREZ
+LANG_ENGLISH        "Rodrigo Suarez"
+
+REFERENCE           CREDIT_ROMAN_LISAGOR
+LANG_ENGLISH        "Roman Lisagor"
+
+REFERENCE           CREDIT_ROMAN_VARSHAVSKY
+LANG_ENGLISH        "Roman Varshavsky"
+
+REFERENCE           CREDIT_RONNIE_FAZIO
+LANG_ENGLISH        "Ronnie Fazio"
+
+REFERENCE           CREDIT_RON_ANDAYA
+LANG_ENGLISH        "Ron Andaya"
+
+REFERENCE           CREDIT_ROSANNE_HONG
+LANG_ENGLISH        "Rosanne Hong"
+
+REFERENCE           CREDIT_ROSIE_WREDE
+LANG_ENGLISH        "Rosie Wrede"
+
+REFERENCE           CREDIT_ROSS_KAYLOR
+LANG_ENGLISH        "Ross Kaylor"
+
+REFERENCE           CREDIT_ROXANA_BRACAMONTES
+LANG_ENGLISH        "Roxana Bracamontes"
+
+REFERENCE           CREDIT_RUAIDHR__POWER
+LANG_ENGLISH        "Ruaidhrí Power"
+
+REFERENCE           CREDIT_RUSSELL_JOHNSON
+LANG_ENGLISH        "Russell Johnson"
+
+REFERENCE           CREDIT_RUY_ASAN
+LANG_ENGLISH        "Ruy Asan"
+
+REFERENCE           CREDIT_RYAN_BROOKS
+LANG_ENGLISH        "Ryan Brooks"
+
+REFERENCE           CREDIT_RYAN_BURNETT
+LANG_ENGLISH        "Ryan Burnett"
+
+REFERENCE           CREDIT_RYAN_BUTTS
+LANG_ENGLISH        "Ryan Butts"
+
+REFERENCE           CREDIT_RYAN_DANZ
+LANG_ENGLISH        "Ryan Danz"
+
+REFERENCE           CREDIT_RYAN_FORD
+LANG_ENGLISH        "Ryan Ford"
+
+REFERENCE           CREDIT_RYAN_HAYS
+LANG_ENGLISH        "Ryan Hays"
+
+REFERENCE           CREDIT_RYAN_HUMMER
+LANG_ENGLISH        "Ryan Hummer"
+
+REFERENCE           CREDIT_RYAN_RIES
+LANG_ENGLISH        "Ryan Ries"
+
+REFERENCE           CREDIT_RYAN_TRONDSEN
+LANG_ENGLISH        "Ryan Trondsen"
+
+REFERENCE           CREDIT_RYDER_ROSS
+LANG_ENGLISH        "Ryder Ross"
+
+REFERENCE           CREDIT_SABRINA_XIA_JINLEI
+LANG_ENGLISH        "Sabrina Xia (JinLei)"
+
+REFERENCE           CREDIT_SAMI_ONUR
+LANG_ENGLISH        "Sami Onur"
+
+REFERENCE           CREDIT_SAMUEL_PETERSON
+LANG_ENGLISH        "Samuel Peterson"
+
+REFERENCE           CREDIT_SAM_AKIKI
+LANG_ENGLISH        "Sam Akiki"
+
+REFERENCE           CREDIT_SAM_FU
+LANG_ENGLISH        "Sam Fu"
+
+REFERENCE           CREDIT_SAM_KERRIDGE
+LANG_ENGLISH        "Sam Kerridge"
+
+REFERENCE           CREDIT_SAM_LOOC
+LANG_ENGLISH        "Sam Looc"
+
+REFERENCE           CREDIT_SANDY_LIN
+LANG_ENGLISH        "Sandy Lin"
+
+REFERENCE           CREDIT_SAN_VUONG
+LANG_ENGLISH        "San Vuong"
+
+REFERENCE           CREDIT_SARAH_SPERRY
+LANG_ENGLISH        "Sarah Sperry"
+
+REFERENCE           CREDIT_SARAH_WANAMAKER
+LANG_ENGLISH        "Sarah Wanamaker"
+
+REFERENCE           CREDIT_SASCHA_WAGNER
+LANG_ENGLISH        "Sascha Wagner"
+
+REFERENCE           CREDIT_SASHA_REBECCA_GROSS
+LANG_ENGLISH        "Sasha Rebecca Gross"
+
+REFERENCE           CREDIT_SCARLETT_SUNG
+LANG_ENGLISH        "Scarlett Sung"
+
+REFERENCE           CREDIT_SCOTT_BLAIR
+LANG_ENGLISH        "Scott Blair"
+
+REFERENCE           CREDIT_SCOTT_BORAKOVE
+LANG_ENGLISH        "Scott Borakove"
+
+REFERENCE           CREDIT_SCOTT_CARSON
+LANG_ENGLISH        "Scott Carson"
+
+REFERENCE           CREDIT_SCOTT_MCDANIEL_
+LANG_ENGLISH        "Scott McDaniel "
+
+REFERENCE           CREDIT_SCOTT_SMITH
+LANG_ENGLISH        "Scott Smith"
+
+REFERENCE           CREDIT_SCOTT_WHITNEY
+LANG_ENGLISH        "Scott Whitney"
+
+REFERENCE           CREDIT_SCOT_BOYD
+LANG_ENGLISH        "Scot Boyd"
+
+REFERENCE           CREDIT_SEAN_BERRY
+LANG_ENGLISH        "Sean Berry"
+
+REFERENCE           CREDIT_SEAN_HEFFRON
+LANG_ENGLISH        "Sean Heffron"
+
+REFERENCE           CREDIT_SEAN_ODONNELL
+LANG_ENGLISH        "Sean O'Donnell"
+
+REFERENCE           CREDIT_SEAN_OSULLIVAN
+LANG_ENGLISH        "Sean O'Sullivan"
+
+REFERENCE           CREDIT_SEAN_SOUCY
+LANG_ENGLISH        "Sean Soucy"
+
+REFERENCE           CREDIT_SEAN_THURLER
+LANG_ENGLISH        "Sean Thurler"
+
+REFERENCE           CREDIT_SEA_SNIPERS
+LANG_ENGLISH        "Sea Snipers"
+
+REFERENCE           CREDIT_SERGIO_PACHECO
+LANG_ENGLISH        "Sergio Pacheco"
+
+REFERENCE           CREDIT_SERGIO_PIMENTEL
+LANG_ENGLISH        "Sergio Pimentel"
+
+REFERENCE           CREDIT_SEROZH_SARKISYAN
+LANG_ENGLISH        "Serozh Sarkisyan"
+
+REFERENCE           CREDIT_SHADOWS_IN_DARKNESS
+LANG_ENGLISH        "Shadows in Darkness"
+
+REFERENCE           CREDIT_SHANE_CALNAN
+LANG_ENGLISH        "Shane Calnan"
+
+REFERENCE           CREDIT_SHANE_DALEY
+LANG_ENGLISH        "Shane Daley"
+
+REFERENCE           CREDIT_SHANE_MCNAMEE
+LANG_ENGLISH        "Shane McNamee"
+
+REFERENCE           CREDIT_SHANNON_WAHL
+LANG_ENGLISH        "Shannon Wahl"
+
+REFERENCE           CREDIT_SHAUN_PICCININO
+LANG_ENGLISH        "Shaun Piccinino"
+
+REFERENCE           CREDIT_SHAUN_YUE
+LANG_ENGLISH        "Shaun Yue"
+
+REFERENCE           CREDIT_SHAWN_BELEW
+LANG_ENGLISH        "Shawn Belew"
+
+REFERENCE           CREDIT_SHAWN_PEEPLES
+LANG_ENGLISH        "Shawn Peeples"
+
+REFERENCE           CREDIT_SHAWN_SOBERS
+LANG_ENGLISH        "Shawn Sobers"
+
+REFERENCE           CREDIT_SHAWN_WIEDERHOEFT
+LANG_ENGLISH        "Shawn Wiederhoeft"
+
+REFERENCE           CREDIT_SHEILAH_BROOKS
+LANG_ENGLISH        "Sheilah Brooks"
+
+REFERENCE           CREDIT_SHERBAN_DRULEA
+LANG_ENGLISH        "Sherban Drulea"
+
+REFERENCE           CREDIT_SHIVA_DEONARINE
+LANG_ENGLISH        "Shiva Deonarine"
+
+REFERENCE           CREDIT_SHORA_FARAHANI
+LANG_ENGLISH        "Shora Farahani"
+
+REFERENCE           CREDIT_SIAKA_HARDING
+LANG_ENGLISH        "Siaka Harding"
+
+REFERENCE           CREDIT_SIDDHARTH_ACHREKAR
+LANG_ENGLISH        "Siddharth Achrekar"
+
+REFERENCE           CREDIT_SIMON_BOUCHER
+LANG_ENGLISH        "Simon Boucher"
+
+REFERENCE           CREDIT_SIMON_COURNOYER
+LANG_ENGLISH        "Simon Cournoyer"
+
+REFERENCE           CREDIT_SIMON_DUQUET_GALARNEAU
+LANG_ENGLISH        "Simon Duquet-Galarneau"
+
+REFERENCE           CREDIT_SIMON_LEVESQUE
+LANG_ENGLISH        "Simon Levesque"
+
+REFERENCE           CREDIT_SIMON_PARKINSON
+LANG_ENGLISH        "Simon Parkinson"
+
+REFERENCE           CREDIT_SIMON_PIERRE_LEPAGE
+LANG_ENGLISH        "Simon-Pierre Lepage"
+
+REFERENCE           CREDIT_SINEAD_DEVEREAUX
+LANG_ENGLISH        "Sinead Devereaux"
+
+REFERENCE           CREDIT_SJOERD_VAN_DEN_BERG
+LANG_ENGLISH        "Sjoerd van den Berg"
+
+REFERENCE           CREDIT_SKYLER_CLARK
+LANG_ENGLISH        "Skyler Clark"
+
+REFERENCE           CREDIT_SKYLER_STANCIL
+LANG_ENGLISH        "Skyler Stancil"
+
+REFERENCE           CREDIT_SOLOMON_SMITH
+LANG_ENGLISH        "Solomon Smith"
+
+REFERENCE           CREDIT_SPACESMALL
+LANG_ENGLISH        "spacesmall"
+
+REFERENCE           CREDIT_SPECIAL_THANKS
+LANG_ENGLISH        "Special Thanks"
+
+REFERENCE           CREDIT_SPECIAL_THANKS_TO_ALL_FORMER_INF
+LANG_ENGLISH        "Special Thanks to all former Infinity Ward Employees"
+
+REFERENCE           CREDIT_SPENCER_NIGL
+LANG_ENGLISH        "Spencer Nigl"
+
+REFERENCE           CREDIT_SPOV
+LANG_ENGLISH        "SPOV"
+
+REFERENCE           CREDIT_STAN_LIN
+LANG_ENGLISH        "Stan Lin"
+
+REFERENCE           CREDIT_STAVROS_LEE
+LANG_ENGLISH        "Stavros Lee"
+
+REFERENCE           CREDIT_STEFANI_JONES
+LANG_ENGLISH        "Stefani Jones"
+
+REFERENCE           CREDIT_STEFAN_LULUDES
+LANG_ENGLISH        "Stefan Luludes"
+
+REFERENCE           CREDIT_STEFAN_TJARKS
+LANG_ENGLISH        "Stefan Tjarks"
+
+REFERENCE           CREDIT_STEFFEN_HIGEL
+LANG_ENGLISH        "Steffen Higel"
+
+REFERENCE           CREDIT_STELIO_SAVANTE
+LANG_ENGLISH        "Stelio Savante"
+
+REFERENCE           CREDIT_STEPHANIE_CATES
+LANG_ENGLISH        "Stephanie Cates"
+
+REFERENCE           CREDIT_STEPHANIE_DEAN
+LANG_ENGLISH        "Stephanie Dean"
+
+REFERENCE           CREDIT_STEPHEN_GLENN_SHEPPARD
+LANG_ENGLISH        "Stephen Glenn Sheppard"
+
+REFERENCE           CREDIT_STEPHEN_MILLER
+LANG_ENGLISH        "Stephen Miller"
+
+REFERENCE           CREDIT_STEPHEN_TANG
+LANG_ENGLISH        "Stephen Tang"
+
+REFERENCE           CREDIT_STEPHEN_WANG
+LANG_ENGLISH        "Stephen Wang"
+
+REFERENCE           CREDIT_STEP_3
+LANG_ENGLISH        "Step 3"
+
+REFERENCE           CREDIT_STEVEN_GIESLER
+LANG_ENGLISH        "Steven Giesler"
+
+REFERENCE           CREDIT_STEVE_ACKRICH
+LANG_ENGLISH        "Steve Ackrich"
+
+REFERENCE           CREDIT_STEVE_HOLMES
+LANG_ENGLISH        "Steve Holmes"
+
+REFERENCE           CREDIT_STEVE_PEARCE
+LANG_ENGLISH        "Steve Pearce"
+
+REFERENCE           CREDIT_STEVE_RAFFEL
+LANG_ENGLISH        "Steve Raffel"
+
+REFERENCE           CREDIT_STEVE_YOUNG
+LANG_ENGLISH        "Steve Young"
+
+REFERENCE           CREDIT_STEV_KALINOWSKI
+LANG_ENGLISH        "Stev Kalinowski"
+
+REFERENCE           CREDIT_STE_CORK
+LANG_ENGLISH        "Ste Cork"
+
+REFERENCE           CREDIT_STUART_BROWN
+LANG_ENGLISH        "Stuart Brown"
+
+REFERENCE           CREDIT_STUART_ROCH
+LANG_ENGLISH        "Stuart Roch"
+
+REFERENCE           CREDIT_STUART_WIEGERT
+LANG_ENGLISH        "Stuart Wiegert"
+
+REFERENCE           CREDIT_STUDIO___ACTIVISION_SHANGHAI
+LANG_ENGLISH        "Studio - Activision Shanghai"
+
+REFERENCE           CREDIT_ST_PHANE__LIE
+LANG_ENGLISH        "Stéphane Élie"
+
+REFERENCE           CREDIT_ST_PHANIE_LAMONTAGNE
+LANG_ENGLISH        "Stéphanie Lamontagne"
+
+REFERENCE           CREDIT_SUNG_YOO
+LANG_ENGLISH        "Sung Yoo"
+
+REFERENCE           CREDIT_SUSAN_HALLOCK
+LANG_ENGLISH        "Susan Hallock"
+
+REFERENCE           CREDIT_SUZANNE_TODD
+LANG_ENGLISH        "Suzanne Todd"
+
+REFERENCE           CREDIT_SUZANNE_WHELPLEY
+LANG_ENGLISH        "Suzanne Whelpley"
+
+REFERENCE           CREDIT_SYLVAIN_DEVOST
+LANG_ENGLISH        "Sylvain Devost"
+
+REFERENCE           CREDIT_SYLVAIN_VILLEDARY
+LANG_ENGLISH        "Sylvain Villedary"
+
+REFERENCE           CREDIT_S_BASTIEN_AUBUT
+LANG_ENGLISH        "Sébastien Aubut"
+
+REFERENCE           CREDIT_S_BASTIEN_DUSSEAULT
+LANG_ENGLISH        "Sébastien Dusseault"
+
+REFERENCE           CREDIT_T26
+LANG_ENGLISH        "T26"
+
+REFERENCE           CREDIT_TABARI_JEFFRIES
+LANG_ENGLISH        "Tabari Jeffries"
+
+REFERENCE           CREDIT_TAB_PATZ
+LANG_ENGLISH        "Tab Patz"
+
+REFERENCE           CREDIT_TAEHOON_OH
+LANG_ENGLISH        "Taehoon Oh"
+
+REFERENCE           CREDIT_TALENT__AUDIO_AND_MUSIC
+LANG_ENGLISH        "Talent, Audio and Music"
+
+REFERENCE           CREDIT_TAM_LY
+LANG_ENGLISH        "Tam Ly"
+
+REFERENCE           CREDIT_TAV_SHANDE
+LANG_ENGLISH        "Tav Shande"
+
+REFERENCE           CREDIT_TEAK_HOLLEY
+LANG_ENGLISH        "Teak Holley"
+
+REFERENCE           CREDIT_TEAM_TODD
+LANG_ENGLISH        "Team Todd"
+
+REFERENCE           CREDIT_TEDDY_HWANG
+LANG_ENGLISH        "Teddy Hwang"
+
+REFERENCE           CREDIT_TEDDY_HWANG_
+LANG_ENGLISH        "Teddy Hwang "
+
+REFERENCE           CREDIT_TED_ANGELILLI
+LANG_ENGLISH        "Ted Angelilli"
+
+REFERENCE           CREDIT_TED_THELEN
+LANG_ENGLISH        "Ted Thelen"
+
+REFERENCE           CREDIT_TENDAYI_MAWUSHE
+LANG_ENGLISH        "Tendayi Mawushe"
+
+REFERENCE           CREDIT_TENG_SONG
+LANG_ENGLISH        "Teng Song"
+
+REFERENCE           CREDIT_TERRAN_CASEY
+LANG_ENGLISH        "Terran Casey"
+
+REFERENCE           CREDIT_TERRI_DURHAM
+LANG_ENGLISH        "Terri Durham"
+
+REFERENCE           CREDIT_THANK_OUR_FAMILIES_AND_LOVED_ONE
+LANG_ENGLISH        "thank our families and loved ones for their overwhelming support."
+
+REFERENCE           CREDIT_THEERAPOL_SRISUPHAN
+LANG_ENGLISH        "Theerapol Srisuphan"
+
+REFERENCE           CREDIT_THE_ANT_FARM
+LANG_ENGLISH        "The Ant Farm"
+
+REFERENCE           CREDIT_THOMAS_DORLEANS
+LANG_ENGLISH        "Thomas Dorleans"
+
+REFERENCE           CREDIT_THOMAS_LOPEZ
+LANG_ENGLISH        "Thomas Lopez"
+
+REFERENCE           CREDIT_THOMAS_TIPPL
+LANG_ENGLISH        "Thomas Tippl"
+
+REFERENCE           CREDIT_TIFFANI_BURKETT
+LANG_ENGLISH        "Tiffani Burkett"
+
+REFERENCE           CREDIT_TILMAN_SCHAEFER
+LANG_ENGLISH        "Tilman Schaefer"
+
+REFERENCE           CREDIT_TIMOTHY_OLYPHANT
+LANG_ENGLISH        "Timothy Olyphant"
+
+REFERENCE           CREDIT_TIM_CZERNIAK
+LANG_ENGLISH        "Tim Czerniak"
+
+REFERENCE           CREDIT_TIM_GRIFFIN
+LANG_ENGLISH        "Tim Griffin"
+
+REFERENCE           CREDIT_TIM_MCDONAGH
+LANG_ENGLISH        "Tim McDonagh"
+
+REFERENCE           CREDIT_TIM_MCGRATH
+LANG_ENGLISH        "Tim McGrath"
+
+REFERENCE           CREDIT_TIM_RILEY
+LANG_ENGLISH        "Tim Riley"
+
+REFERENCE           CREDIT_TIM_RONDEAU
+LANG_ENGLISH        "Tim Rondeau"
+
+REFERENCE           CREDIT_TIM_SMILOVITCH
+LANG_ENGLISH        "Tim Smilovitch"
+
+REFERENCE           CREDIT_TIM_UTTECH
+LANG_ENGLISH        "Tim Uttech"
+
+REFERENCE           CREDIT_TODD_GROTEN
+LANG_ENGLISH        "Todd Groten"
+
+REFERENCE           CREDIT_TODD_HARVEY
+LANG_ENGLISH        "Todd Harvey"
+
+REFERENCE           CREDIT_TODD_LAMBERT
+LANG_ENGLISH        "Todd Lambert"
+
+REFERENCE           CREDIT_TODD_MUELLER
+LANG_ENGLISH        "Todd Mueller"
+
+REFERENCE           CREDIT_TODD_PRUYN
+LANG_ENGLISH        "Todd Pruyn"
+
+REFERENCE           CREDIT_TOMMY_CINQUEGRANO
+LANG_ENGLISH        "Tommy Cinquegrano"
+
+REFERENCE           CREDIT_TOMMY_KEEGAN
+LANG_ENGLISH        "Tommy Keegan"
+
+REFERENCE           CREDIT_TOMMY_LAWLER
+LANG_ENGLISH        "Tommy Lawler"
+
+REFERENCE           CREDIT_TOMY_CROUSSET
+LANG_ENGLISH        "Tomy Crousset"
+
+REFERENCE           CREDIT_TOM_DESMARAIS
+LANG_ENGLISH        "Tom Desmarais"
+
+REFERENCE           CREDIT_TOM_FELKER
+LANG_ENGLISH        "Tom Felker"
+
+REFERENCE           CREDIT_TOM_WELLS
+LANG_ENGLISH        "Tom Wells"
+
+REFERENCE           CREDIT_TONIE_MADRID
+LANG_ENGLISH        "Tonie Madrid"
+
+REFERENCE           CREDIT_TONY_CURRAN
+LANG_ENGLISH        "Tony Curran"
+
+REFERENCE           CREDIT_TONY_HSU
+LANG_ENGLISH        "Tony Hsu"
+
+REFERENCE           CREDIT_TONY_KELLY
+LANG_ENGLISH        "Tony Kelly"
+
+REFERENCE           CREDIT_TRAVELL_MCENTYRE
+LANG_ENGLISH        "Travell McEntyre"
+
+REFERENCE           CREDIT_TRAVIS_NAAS
+LANG_ENGLISH        "Travis Naas"
+
+REFERENCE           CREDIT_TRAVIS_RAMON
+LANG_ENGLISH        "Travis Ramon"
+
+REFERENCE           CREDIT_TRAVIS_STANSBURY
+LANG_ENGLISH        "Travis Stansbury"
+
+REFERENCE           CREDIT_TREVOR_BRESAW
+LANG_ENGLISH        "Trevor Bresaw"
+
+REFERENCE           CREDIT_TROY_BAKER
+LANG_ENGLISH        "Troy Baker"
+
+REFERENCE           CREDIT_TYLER_MICHAUD
+LANG_ENGLISH        "Tyler Michaud"
+
+REFERENCE           CREDIT_USES_BINK_VIDEO_COPYRIGHT___1997
+LANG_ENGLISH        "Uses Bink Video. Copyright © 1997-2011 by RAD Game Tools, Inc."
+
+REFERENCE           CREDIT_USES_MILES_SOUND_SYSTEM_COPYRIGH
+LANG_ENGLISH        "Uses Miles Sound System. Copyright 1991-2011 by RAD Game Tools, Inc."
+
+REFERENCE           CREDIT_VADIM_NUNIYANTS
+LANG_ENGLISH        "Vadim Nuniyants"
+
+REFERENCE           CREDIT_VALERIE_AREM
+LANG_ENGLISH        "Valerie Arem"
+
+REFERENCE           CREDIT_VELINDA_PELAYO
+LANG_ENGLISH        "Velinda Pelayo"
+
+REFERENCE           CREDIT_VICKY_SUN_WEIYI
+LANG_ENGLISH        "Vicky Sun (WeiYi)"
+
+REFERENCE           CREDIT_VICTOR_DURLING
+LANG_ENGLISH        "Victor Durling"
+
+REFERENCE           CREDIT_VICTOR_LOPEZ
+LANG_ENGLISH        "Victor Lopez"
+
+REFERENCE           CREDIT_VINCENT_EDWARDS
+LANG_ENGLISH        "Vincent Edwards"
+
+REFERENCE           CREDIT_VINCENT_FENNEL
+LANG_ENGLISH        "Vincent Fennel"
+
+REFERENCE           CREDIT_VINCENT_KANE
+LANG_ENGLISH        "Vincent Kane"
+
+REFERENCE           CREDIT_VINCENZO_FERRARA
+LANG_ENGLISH        "Vincenzo Ferrara"
+
+REFERENCE           CREDIT_VOICE_ACTORS
+LANG_ENGLISH        "Voice Actors"
+
+REFERENCE           CREDIT_VOICE_TALENT_DIRECTION
+LANG_ENGLISH        "Voice Talent Direction"
+
+REFERENCE           CREDIT_WABI_SABI
+LANG_ENGLISH        "Wabi Sabi"
+
+REFERENCE           CREDIT_WABI_SABI_SOUND
+LANG_ENGLISH        "Wabi Sabi Sound"
+
+REFERENCE           CREDIT_WADE_BRAINERD
+LANG_ENGLISH        "Wade Brainerd"
+
+REFERENCE           CREDIT_WES_THOMPSONS_RIFLE_RANGE
+LANG_ENGLISH        "Wes Thompson's Rifle Range"
+
+REFERENCE           CREDIT_WES_THOMPSON_S_RIFLE_RANGE
+LANG_ENGLISH        "Wes Thompson’s Rifle Range"
+
+REFERENCE           CREDIT_WE_THANK_OUR_FAMILIES_AND_LOVED_
+LANG_ENGLISH        "we thank our families and loved ones for their overwhelming support."
+
+REFERENCE           CREDIT_WILLIAM_DAGGETT
+LANG_ENGLISH        "William Daggett"
+
+REFERENCE           CREDIT_WILLIAM_DZIAMBOR
+LANG_ENGLISH        "William Dziambor"
+
+REFERENCE           CREDIT_WILLIAM_FICHTNER
+LANG_ENGLISH        "William Fichtner"
+
+REFERENCE           CREDIT_WILLIAM_RYAN
+LANG_ENGLISH        "William Ryan"
+
+REFERENCE           CREDIT_WILL_HUANG
+LANG_ENGLISH        "Will Huang"
+
+REFERENCE           CREDIT_WILL_LANE
+LANG_ENGLISH        "Will Lane"
+
+REFERENCE           CREDIT_WILL_STAPLES
+LANG_ENGLISH        "Will Staples"
+
+REFERENCE           CREDIT_WRITTEN_BY
+LANG_ENGLISH        "Written By"
+
+REFERENCE           CREDIT_YANICK_LEBEL
+LANG_ENGLISH        "Yanick Lebel"
+
+REFERENCE           CREDIT_YARON_LEVI
+LANG_ENGLISH        "Yaron Levi"
+
+REFERENCE           CREDIT_YIQI_MENG
+LANG_ENGLISH        "Yiqi Meng"
+
+REFERENCE           CREDIT_YOSHIO_IZUKA
+LANG_ENGLISH        "Yoshio Izuka"
+
+REFERENCE           CREDIT_YOUNG_GUL_KIM
+LANG_ENGLISH        "Young Gul Kim"
+
+REFERENCE           CREDIT_YOURI_GABBINO
+LANG_ENGLISH        "Youri Gabbino"
+
+REFERENCE           CREDIT_YOU_GAVE_US_THE_STRENGTH_TO_REAC
+LANG_ENGLISH        "You gave us the strength to reach further."
+
+REFERENCE           CREDIT_YUGEN_BLAKE
+LANG_ENGLISH        "Yugen Blake"
+
+REFERENCE           CREDIT_YURI_LOWENTHAL
+LANG_ENGLISH        "Yuri Lowenthal"
+
+REFERENCE           CREDIT_YU_GU
+LANG_ENGLISH        "Yu Gu"
+
+REFERENCE           CREDIT_ZACH_HANKS
+LANG_ENGLISH        "Zach Hanks"
+
+REFERENCE           CREDIT_ZACH_VOLKER
+LANG_ENGLISH        "Zach Volker"
+
+REFERENCE           CREDIT__MILIE_VILLENEUVE
+LANG_ENGLISH        "Émilie Villeneuve"
+
+REFERENCE           CREDIT__TIENNE_DUB_
+LANG_ENGLISH        "Étienne Dubé"
+
+REFERENCE           DUBAI_DONT_LEAVE
+LANG_ENGLISH        "Return to Yuri."
+
+REFERENCE           DUBAI_DONT_LEAVE_FAILURE
+LANG_ENGLISH        "You left the mission area."
+
+REFERENCE           DUBAI_FAILED_TO_STAB_COPILOT
+LANG_ENGLISH        "Makarov got away!"
+
+REFERENCE           DUBAI_FAILED_TO_THROW_PILOT
+LANG_ENGLISH        "Makarov got away!"
+
+REFERENCE           DUBAI_FLASH_CHOKE
+LANG_ENGLISH        "^3[{+speed_throw}]^7 and ^3[{+attack}]^7"
+
+REFERENCE           DUBAI_FLASH_CHOKE_PC
+LANG_ENGLISH        "^3[{+attack}]^7 and ^3[{+toggleads_throw}]^7"
+
+REFERENCE           DUBAI_FLASH_USE
+LANG_ENGLISH        "^3[{+activate}]^7"
+
+REFERENCE           DUBAI_GET_TO_THE_GUN
+LANG_ENGLISH        "Get To The Gun"
+
+REFERENCE           DUBAI_HIT_MELEE
+LANG_ENGLISH        "^3[{+melee}]^7"
+
+REFERENCE           DUBAI_HIT_MELEE_THROW
+LANG_ENGLISH        "^3[{+melee}]^7"
+
+REFERENCE           DUBAI_HOLD_CHOKE
+LANG_ENGLISH        "Hold ^3[{+speed_throw}]^7 and ^3[{+attack}]^7"
+
+REFERENCE           DUBAI_HOLD_CHOKE_PC
+LANG_ENGLISH        "Hold ^3[{+attack}]^7 and ^3[{+toggleads_throw}]^7"
+
+REFERENCE           DUBAI_INTROSCREEN_LINE1
+LANG_ENGLISH        "\"Dust to Dust\""
+
+REFERENCE           DUBAI_INTROSCREEN_LINE2
+LANG_ENGLISH        "January 21st - 22:14:[{FAKE_INTRO_SECONDS:37}]"
+
+REFERENCE           DUBAI_INTROSCREEN_LINE3
+LANG_ENGLISH        "Captain Price"
+
+REFERENCE           DUBAI_INTROSCREEN_LINE4
+LANG_ENGLISH        "Task Force 141"
+
+REFERENCE           DUBAI_INTROSCREEN_LINE5
+LANG_ENGLISH        "Arabian Peninsula"
+
+REFERENCE           DUBAI_JUMP
+LANG_ENGLISH        "Jump"
+
+REFERENCE           DUBAI_KILL
+LANG_ENGLISH        "Kill"
+
+REFERENCE           DUBAI_MAKAROV_ESCAPED_FINALE
+LANG_ENGLISH        "Makarov got away!"
+
+REFERENCE           DUBAI_MAKAROV_ESCAPING
+LANG_ENGLISH        "Makarov Escaping : "
+
+REFERENCE           DUBAI_MAKAROV_KILLED_YOU
+LANG_ENGLISH        "Makarov Killed You!"
+
+REFERENCE           DUBAI_OBJ_KILL_MAKAROV
+LANG_ENGLISH        "Kill Makarov."
+
+REFERENCE           DUBAI_PRESS_DRAG_RIGHT
+LANG_ENGLISH        "^3[{+attack}]^7"
+
+REFERENCE           SUBTITLE_DUBAI_MKV_GOODBYE71
+LANG_ENGLISH        "^1Makarov: ^7Goodbye, Captain Price."
+
+REFERENCE           SUBTITLE_DUBAI_NIK_ALMOSTGOTIT212_2
+LANG_ENGLISH        "^2Nikolai: ^7I've almost got it!"
+
+REFERENCE           SUBTITLE_DUBAI_NIK_BARRICADES36
+LANG_ENGLISH        "^2Nikolai: ^7Be careful, they're setting up barricades."
+
+REFERENCE           SUBTITLE_DUBAI_NIK_CONCERNED14_3
+LANG_ENGLISH        "^2Nikolai: ^7They'll be more concerned with staying out of your way, my friends."
+
+REFERENCE           SUBTITLE_DUBAI_NIK_DONTWORRY11_1
+LANG_ENGLISH        "^2Nikolai: ^7Don't worry.  They'll need something bigger to get in here."
+
+REFERENCE           SUBTITLE_DUBAI_NIK_ENEMYCHOPPER33
+LANG_ENGLISH        "^2Nikolai: ^7Enemy chopper closing on your position."
+
+REFERENCE           SUBTITLE_DUBAI_NIK_HERETHEYCOME110_1
+LANG_ENGLISH        "^2Nikolai: ^7More enemies!  Here they come!"
+
+REFERENCE           SUBTITLE_DUBAI_NIK_IMONIT2113
+LANG_ENGLISH        "^2Nikolai: ^7I'm on it."
+
+REFERENCE           SUBTITLE_DUBAI_NIK_KEEPRUNNING63
+LANG_ENGLISH        "^2Nikolai: ^7He's dead ahead.  Keep running!"
+
+REFERENCE           SUBTITLE_DUBAI_NIK_MAKAROVROOF62
+LANG_ENGLISH        "^2Nikolai: ^7Makarov's heading to the roof!"
+
+REFERENCE           SUBTITLE_DUBAI_NIK_ONTHEMOVE21_2
+LANG_ENGLISH        "^2Nikolai: ^7Still in the atrium, but he's on the move!"
+
+REFERENCE           SUBTITLE_DUBAI_NIK_RESTAURANT243_1
+LANG_ENGLISH        "^2Nikolai: ^7You're almost at the restaurant!"
+
+REFERENCE           SUBTITLE_DUBAI_NIK_SMALLARMY111
+LANG_ENGLISH        "^2Nikolai: ^7Makarov's got a small army in there!"
+
+REFERENCE           SUBTITLE_DUBAI_NIK_THREATSRIGHT42
+LANG_ENGLISH        "^2Nikolai: ^7Multiple threats to your right."
+
+REFERENCE           SUBTITLE_DUBAI_NIK_TOPFLOOR14_5
+LANG_ENGLISH        "^2Nikolai: ^7I've tapped in to their security feed.  Makarov's in the atrium on the top floor."
+
+REFERENCE           SUBTITLE_DUBAI_NIK_TOUCHEDDOWN315_1
+LANG_ENGLISH        "^2Nikolai: ^7Makarov's chopper just touched down!  He's heading there now!"
+
+REFERENCE           SUBTITLE_DUBAI_PRI_ANOTHERLIFT38
+LANG_ENGLISH        "^2Yuri: ^7Nikolai, we need another lift!"
+
+REFERENCE           SUBTITLE_DUBAI_PRI_BUYUSTIME14_2
+LANG_ENGLISH        "^2Price: ^7It will buy us time.  Nikolai, are you patched into their system?"
+
+REFERENCE           SUBTITLE_DUBAI_PRI_CONTROLOFLIFTS212_1
+LANG_ENGLISH        "^2Price: ^7Nikolai, we need control of those lifts!"
+
+REFERENCE           SUBTITLE_DUBAI_PRI_DONTLETUP19
+LANG_ENGLISH        "^2Price: ^7Don't let up!"
+
+REFERENCE           SUBTITLE_DUBAI_PRI_DONTLOSEHIM21_3
+LANG_ENGLISH        "^2Price: ^7Don't lose him!  We're almost there!"
+
+REFERENCE           SUBTITLE_DUBAI_PRI_ESCALATOR29
+LANG_ENGLISH        "^2Yuri: ^7Hostiles by the escalator!"
+
+REFERENCE           SUBTITLE_DUBAI_PRI_FORSOAP215
+LANG_ENGLISH        "^2Price: ^7This is for Soap."
+
+REFERENCE           SUBTITLE_DUBAI_PRI_FRAGOUT48
+LANG_ENGLISH        "^2Yuri: ^7Frag out!"
+
+REFERENCE           SUBTITLE_DUBAI_PRI_GETINTHELIFT28
+LANG_ENGLISH        "^2Yuri: ^7Price, get in the lift!"
+
+REFERENCE           SUBTITLE_DUBAI_PRI_GETREADY213_1
+LANG_ENGLISH        "^2Price: ^7Yuri, get ready."
+
+REFERENCE           SUBTITLE_DUBAI_PRI_GETTINGAWAY315_2
+LANG_ENGLISH        "^2Price: ^7He's not getting away!"
+
+REFERENCE           SUBTITLE_DUBAI_PRI_GOODSHOT35
+LANG_ENGLISH        "^2Yuri: ^7Good shot!"
+
+REFERENCE           SUBTITLE_DUBAI_PRI_GOTTHEIRATTENTION110
+LANG_ENGLISH        "^2Price: ^7We've got their attention. Second wave of responders will be coming any moment."
+
+REFERENCE           SUBTITLE_DUBAI_PRI_HEADINGFORROOF315
+LANG_ENGLISH        "^2Price: ^7One is heading for the roof, probably going for Makarov."
+
+REFERENCE           SUBTITLE_DUBAI_PRI_HERETHEYCOME114
+LANG_ENGLISH        "^2Price: ^7Here they come, right on schedule."
+
+REFERENCE           SUBTITLE_DUBAI_PRI_JUMP311
+LANG_ENGLISH        "^2Yuri: ^7Jump!"
+
+REFERENCE           SUBTITLE_DUBAI_PRI_KEEPFIRING18
+LANG_ENGLISH        "^2Price: ^7Keep firing!"
+
+REFERENCE           SUBTITLE_DUBAI_PRI_KEEPMOVING27
+LANG_ENGLISH        "^2Yuri: ^7Price, keep moving!"
+
+REFERENCE           SUBTITLE_DUBAI_PRI_KEEPPRESSING43
+LANG_ENGLISH        "^2Price: ^7Keep pressing.  We've almost got him."
+
+REFERENCE           SUBTITLE_DUBAI_PRI_KEEPPUSHING43_2
+LANG_ENGLISH        "^2Price: ^7Keep pushing forward!"
+
+REFERENCE           SUBTITLE_DUBAI_PRI_LETESCAPE43_3
+LANG_ENGLISH        "^2Price: ^7We can't let him escape!"
+
+REFERENCE           SUBTITLE_DUBAI_PRI_LIFTUPAHEAD26
+LANG_ENGLISH        "^2Price: ^7The lift's up ahead!"
+
+REFERENCE           SUBTITLE_DUBAI_PRI_LOOKOUT35_2
+LANG_ENGLISH        "^2Price: ^7Look out!"
+
+REFERENCE           SUBTITLE_DUBAI_PRI_OPPOSITION313
+LANG_ENGLISH        "^2Price: ^7What kind of opposition is waiting for us?"
+
+REFERENCE           SUBTITLE_DUBAI_PRI_PUSHFORWARD210
+LANG_ENGLISH        "^2Price: ^7Push forward!"
+
+REFERENCE           SUBTITLE_DUBAI_PRI_RESTAURANT46
+LANG_ENGLISH        "^2Price: ^7Restaurant's this way!"
+
+REFERENCE           SUBTITLE_DUBAI_PRI_ROCKETS53
+LANG_ENGLISH        "^2Yuri: ^7Rockets!"
+
+REFERENCE           SUBTITLE_DUBAI_PRI_RPG2NDFLOOR17
+LANG_ENGLISH        "^2Yuri: ^7RPGs!  Second floor!"
+
+REFERENCE           SUBTITLE_DUBAI_PRI_SHOOTCARS16
+LANG_ENGLISH        "^2Price: ^7Shoot the cars!"
+
+REFERENCE           SUBTITLE_DUBAI_PRI_SHOOTITDOWN34
+LANG_ENGLISH        "^2Price: ^7Shoot it down!"
+
+REFERENCE           SUBTITLE_DUBAI_PRI_SHREDDED37
+LANG_ENGLISH        "^2Yuri: ^7Our armor's shredded!"
+
+REFERENCE           SUBTITLE_DUBAI_PRI_THEREHEIS51
+LANG_ENGLISH        "^2Price: ^7There he is!"
+
+REFERENCE           SUBTITLE_DUBAI_PRI_THISISIT12
+LANG_ENGLISH        "^2Price: ^7This is it. Makarov doesn't leave here alive."
+
+REFERENCE           SUBTITLE_DUBAI_PRI_UPESCALATOR25
+LANG_ENGLISH        "^2Price: ^7Up the escalator!"
+
+REFERENCE           SUBTITLE_DUBAI_PRI_WATCHOUT52
+LANG_ENGLISH        "^2Price: ^7Watch out for that chopper!"
+
+REFERENCE           SUBTITLE_DUBAI_PRI_WATCHYOURSELF47
+LANG_ENGLISH        "^2Price: ^7Watch yourself, Yuri!  Your armor is gone!"
+
+REFERENCE           SUBTITLE_DUBAI_PRI_WHERESMAKAROV21_1
+LANG_ENGLISH        "^2Price: ^7Nikolai, where's Makarov?"
+
+REFERENCE           SUBTITLE_DUBAI_PRI_WONTHELPHIM112
+LANG_ENGLISH        "^2Price: ^7It won't help him. Take control of the lifts so he can't escape."
+
+REFERENCE           SUBTITLE_DUBAI_PRI_WONTHOLD310
+LANG_ENGLISH        "^2Yuri: ^7This won't hold much longer."
+
+REFERENCE           SUBTITLE_DUBAI_PRI_YURI253_1
+LANG_ENGLISH        "^2Price: ^7Yuri..."
+
+REFERENCE           SUBTITLE_DUBAI_PRI_YURICOMEON211
+LANG_ENGLISH        "^2Yuri: ^7Price, come on!"
+
+REFERENCE           SUBTITLE_DUBAI_PRI_YURIGETREADY14
+LANG_ENGLISH        "^2Price: ^7Get ready."
+
+REFERENCE           SUBTITLE_DUBAI_SCG1_FIRE11_10
+LANG_ENGLISH        "^2Security Guard: ^7Fire!"
+
+REFERENCE           SUBTITLE_DUBAI_SCG1_OPENFIRE11_9
+LANG_ENGLISH        "^2Security Guard: ^7We are going to open fire!"
+
+REFERENCE           SUBTITLE_DUBAI_SCG1_STEPOUT11_8
+LANG_ENGLISH        "^2Security Guard: ^7Step out of the vehicle!"
+
+REFERENCE           SUBTITLE_DUBAI_SND_ALMOSTGOTHIM411
+LANG_ENGLISH        "^2Nikolai: ^7He's still there! You've almost got him!"
+
+REFERENCE           SUBTITLE_DUBAI_SND_ARABICSRUSTY23
+LANG_ENGLISH        "^2Nikolai: ^7Working on it. My Arabic's a little rusty."
+
+REFERENCE           SUBTITLE_DUBAI_SND_CHOPPER64
+LANG_ENGLISH        "^2Nikolai: ^7He's going for the chopper! Run!"
+
+REFERENCE           SUBTITLE_DUBAI_SND_ELEVATORS213
+LANG_ENGLISH        "^2Nikolai: ^7Ok, I've got control of the elevators. Sending them down to your floor."
+
+REFERENCE           SUBTITLE_DUBAI_SND_ONITSWAY39
+LANG_ENGLISH        "^2Nikolai: ^7Copy, on it's way."
+
+REFERENCE           SUBTITLE_DUBAI_SND_RESTAURANT49
+LANG_ENGLISH        "^2Nikolai: ^7Makarov's moved to the restaurant, same floor! He's got a large security detail with him."
+
+REFERENCE           SUBTITLE_DUBAI_SND_THEYKNOW11
+LANG_ENGLISH        "^2Nikolai: ^7Looks like they know we're here."
+
+REFERENCE           SUBTITLE_DUBAI_SND_TWENTYPLUS314
+LANG_ENGLISH        "^2Nikolai: ^7Forty plus foot mobiles!  SMGs and Assault Rifles."
+
+REFERENCE           SUBTITLE_DUBAI_YUR_BUYUSTIME14_10
+LANG_ENGLISH        "^2Yuri: ^7It will buy us time.  Nikolai, are you patched into their system?"
+
+REFERENCE           SUBTITLE_DUBAI_YUR_CANTLETHIM43_6
+LANG_ENGLISH        "^2Yuri: ^7We can't let him escape!"
+
+REFERENCE           SUBTITLE_DUBAI_YUR_DONTLETHIM61
+LANG_ENGLISH        "^2Yuri: ^7Leave me!  Don't let him get away!"
+
+REFERENCE           SUBTITLE_DUBAI_YUR_DONTLETUP19_1
+LANG_ENGLISH        "^2Yuri: ^7Don't let up!"
+
+REFERENCE           SUBTITLE_DUBAI_YUR_DONTLOSEHIM21_5
+LANG_ENGLISH        "^2Yuri: ^7Don't lose him!  We're almost there!"
+
+REFERENCE           SUBTITLE_DUBAI_YUR_GETREADY13_2
+LANG_ENGLISH        "^2Yuri: ^7Price, get ready."
+
+REFERENCE           SUBTITLE_DUBAI_YUR_GOTATTENTION14_9
+LANG_ENGLISH        "^2Yuri: ^7We've got their attention now!"
+
+REFERENCE           SUBTITLE_DUBAI_YUR_GOTHIM35_1
+LANG_ENGLISH        "^2Yuri: ^7Got him!"
+
+REFERENCE           SUBTITLE_DUBAI_YUR_KEEPFIRING18_1
+LANG_ENGLISH        "^2Yuri: ^7Keep firing!"
+
+REFERENCE           SUBTITLE_DUBAI_YUR_KEEPPRESSING43_4
+LANG_ENGLISH        "^2Yuri: ^7Keep pressing.  We've almost got him."
+
+REFERENCE           SUBTITLE_DUBAI_YUR_KEEPUP116
+LANG_ENGLISH        "^2Yuri: ^7Price, keep up!"
+
+REFERENCE           SUBTITLE_DUBAI_YUR_KNOWWEREHERE14_4
+LANG_ENGLISH        "^2Yuri: ^7Looks like they know we're here."
+
+REFERENCE           SUBTITLE_DUBAI_YUR_LETSKILL14_8
+LANG_ENGLISH        "^2Yuri: ^7Alright.  Let's kill this fucker."
+
+REFERENCE           SUBTITLE_DUBAI_YUR_LOOKOUT35_3
+LANG_ENGLISH        "^2Yuri: ^7Look out!"
+
+REFERENCE           SUBTITLE_DUBAI_YUR_NEEDCONTROL212_3
+LANG_ENGLISH        "^2Yuri: ^7Nikolai, we need control of those lifts!"
+
+REFERENCE           SUBTITLE_DUBAI_YUR_NOTGETTING315_4
+LANG_ENGLISH        "^2Yuri: ^7He's not getting away!"
+
+REFERENCE           SUBTITLE_DUBAI_YUR_OURCUE14_6
+LANG_ENGLISH        "^2Yuri: ^7That's our cue."
+
+REFERENCE           SUBTITLE_DUBAI_YUR_OVERHERE117
+LANG_ENGLISH        "^2Yuri: ^7Price, over here!"
+
+REFERENCE           SUBTITLE_DUBAI_YUR_PRICE53_4
+LANG_ENGLISH        "^2Yuri: ^7Price..."
+
+REFERENCE           SUBTITLE_DUBAI_YUR_PRICENO311_2
+LANG_ENGLISH        "^2Yuri: ^7Price!  No!"
+
+REFERENCE           SUBTITLE_DUBAI_YUR_PROBABLY315_3
+LANG_ENGLISH        "^2Yuri: ^7One is heading for the roof, probably going for Makarov."
+
+REFERENCE           SUBTITLE_DUBAI_YUR_PUSHFORWARD210_1
+LANG_ENGLISH        "^2Yuri: ^7Push forward!"
+
+REFERENCE           SUBTITLE_DUBAI_YUR_PUSHINGFORWARD43_5
+LANG_ENGLISH        "^2Yuri: ^7Keep pushing forward!"
+
+REFERENCE           SUBTITLE_DUBAI_YUR_RESTAURANT46_1
+LANG_ENGLISH        "^2Yuri: ^7Restaurant's this way!"
+
+REFERENCE           SUBTITLE_DUBAI_YUR_RIGHTON114_1
+LANG_ENGLISH        "^2Yuri: ^7Right on schedule."
+
+REFERENCE           SUBTITLE_DUBAI_YUR_RIOTSHIELDS314_1
+LANG_ENGLISH        "^2Yuri: ^7Riot shields!  Use grenades!"
+
+REFERENCE           SUBTITLE_DUBAI_YUR_SHOOTCARS16_1
+LANG_ENGLISH        "^2Yuri: ^7Shoot the cars!"
+
+REFERENCE           SUBTITLE_DUBAI_YUR_SURETHISARMOR14_1
+LANG_ENGLISH        "^2Yuri: ^7You're sure this armor will protect us?"
+
+REFERENCE           SUBTITLE_DUBAI_YUR_THEREHEIS51_1
+LANG_ENGLISH        "^2Yuri: ^7There he is!"
+
+REFERENCE           SUBTITLE_DUBAI_YUR_UPAHEAD26_1
+LANG_ENGLISH        "^2Yuri: ^7The lift's up ahead!"
+
+REFERENCE           SUBTITLE_DUBAI_YUR_UPHERE25_1
+LANG_ENGLISH        "^2Yuri: ^7Up here!  This way!"
+
+REFERENCE           SUBTITLE_DUBAI_YUR_WATCHFIRE115
+LANG_ENGLISH        "^2Yuri: ^7Civilians coming out. Watch your fire."
+
+REFERENCE           SUBTITLE_DUBAI_YUR_WATCHOUT52_1
+LANG_ENGLISH        "^2Yuri: ^7Watch out for that chopper!"
+
+REFERENCE           SUBTITLE_DUBAI_YUR_WATCHYOURSELF47_1
+LANG_ENGLISH        "^2Yuri: ^7Watch yourself, Price! Your armor is gone!"
+
+REFERENCE           SUBTITLE_DUBAI_YUR_WHATKIND313_1
+LANG_ENGLISH        "^2Yuri: ^7What kind of opposition is waiting for us?"
+
+REFERENCE           SUBTITLE_DUBAI_YUR_WHERESMAK21_4
+LANG_ENGLISH        "^2Yuri: ^7Nikolai, where's Makarov?!"
+
+REFERENCE           SUBTITLE_DUBAI_YUR_WONTHELPHIM112_1
+LANG_ENGLISH        "^2Yuri: ^7It won't help him.  Get control of the lifts so he can't escape."
+
+ENDMARKER

@@ -1,0 +1,25 @@
+// Dumped from fastfile "localized_ui_mp".
+// In their original format the strings might have been separated in multiple files.
+VERSION             "1"
+CONFIG              "C:/trees/cod3/cod3/bin/StringEd.cfg"
+FILENOTES           ""
+
+REFERENCE           PATCH_MENU_ONLINEVAULT_COPYING
+LANG_ENGLISH        "Copying"
+
+REFERENCE           PATCH_MENU_ONLINEVAULT_FACEBOOK_PROCESSING
+LANG_ENGLISH        "Sharing..."
+
+REFERENCE           PATCH_MENU_THEATER_RECORDING
+LANG_ENGLISH        "Theater Recording"
+
+REFERENCE           PATCH_MENU_THEATER_RECORDING_DESC
+LANG_ENGLISH        "Enable or disable theater demo recording."
+
+REFERENCE           PATCH_MENU_WAITING_FOR_GOOD_HOST
+LANG_ENGLISH        "Waiting for better host"
+
+REFERENCE           PATCH_MENU_WAIT_TO_VOTE
+LANG_ENGLISH        "You must wait &&1 seconds between votes."
+
+ENDMARKER

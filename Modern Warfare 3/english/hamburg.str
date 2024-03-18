@@ -1,0 +1,451 @@
+// Dumped from fastfile "hamburg".
+// In their original format the strings might have been separated in multiple files.
+VERSION             "1"
+CONFIG              "C:/trees/cod3/cod3/bin/StringEd.cfg"
+FILENOTES           ""
+
+REFERENCE           HAMBURG_CLEAR_THE_WAY_FOR_TANKS
+LANG_ENGLISH        "Clear the way for tanks."
+
+REFERENCE           HAMBURG_EXITCRASHTANK
+LANG_ENGLISH        "Press ^3[{+usereload}]^7 to exit the tank."
+
+REFERENCE           HAMBURG_INSIDE
+LANG_ENGLISH        "Inside"
+
+REFERENCE           HAMBURG_LOC_GOALPOST
+LANG_ENGLISH        "Locate Goalpost."
+
+REFERENCE           HAMBURG_MOVE_INSIDE
+LANG_ENGLISH        "Move inside for cover."
+
+REFERENCE           HAMBURG_OBJECTIVE_HOP_ON_THE_TANK
+LANG_ENGLISH        "Man the minigun on the tank."
+
+REFERENCE           HAMBURG_REGROUP
+LANG_ENGLISH        "Regroup."
+
+REFERENCE           HAMBURG_SECURE_GOALPOST
+LANG_ENGLISH        "Breach and Secure Goalpost."
+
+REFERENCE           HAMBURG_USE_CLAYMORES
+LANG_ENGLISH        "Press^3 [{+actionslot 4}] ^7to use your claymores."
+
+REFERENCE           SUBTITLE_HAMBURG_RHG_AFTERYOUBUDDY523_6
+LANG_ENGLISH        "^2Rhino 2 Gunner: ^7After you buddy."
+
+REFERENCE           SUBTITLE_HAMBURG_RHG_ANYONEHURT523_1
+LANG_ENGLISH        "^2Rhino 2 Gunner: ^7Shit...anyone hurt???"
+
+REFERENCE           SUBTITLE_HAMBURG_RHG_CARTERSHIT323
+LANG_ENGLISH        "^2Rhino 2 Gunner: ^7Carter's hit!  He's hit!"
+
+REFERENCE           SUBTITLE_HAMBURG_RHG_CONTACT822
+LANG_ENGLISH        "^2Rhino 2 Gunner: ^7Contact!"
+
+REFERENCE           SUBTITLE_HAMBURG_RHG_GOINUP820
+LANG_ENGLISH        "^2Rhino 2 Gunner: ^7It's going up those stairs."
+
+REFERENCE           SUBTITLE_HAMBURG_RHG_HIND331
+LANG_ENGLISH        "^2Rhino 2 Gunner: ^7Hind!  Hind!"
+
+REFERENCE           SUBTITLE_HAMBURG_RHG_HOLDMYOWN623
+LANG_ENGLISH        "^2Rhino 2 Gunner: ^7Yeah, I can hold my own."
+
+REFERENCE           SUBTITLE_HAMBURG_RHG_INCOMING727
+LANG_ENGLISH        "^2Rhino 2 Gunner: ^7Incoming!"
+
+REFERENCE           SUBTITLE_HAMBURG_RHG_LETSGETOUT523_7
+LANG_ENGLISH        "^2Rhino 2 Gunner: ^7C'mon, man.  Let's get out there."
+
+REFERENCE           SUBTITLE_HAMBURG_RHG_LOTOFBLOOD819
+LANG_ENGLISH        "^2Rhino 2 Gunner: ^7Hey!  There's a lot of blood over here."
+
+REFERENCE           SUBTITLE_HAMBURG_RHG_NOTHINHERE814
+LANG_ENGLISH        "^2Rhino 2 Gunner: ^7Nothin' here!"
+
+REFERENCE           SUBTITLE_HAMBURG_RHG_OHSHIT523
+LANG_ENGLISH        "^2Rhino 2 Gunner: ^7Oh shit!"
+
+REFERENCE           SUBTITLE_HAMBURG_RHG_OUTWEGO523_4
+LANG_ENGLISH        "^2Rhino 2 Gunner: ^7OK, out we go."
+
+REFERENCE           SUBTITLE_HAMBURG_RHG_RPGS732
+LANG_ENGLISH        "^2Rhino 2 Gunner: ^7RPGs!  Third floor!"
+
+REFERENCE           SUBTITLE_HAMBURG_RHG_SYSTEMSAREDEAD523_5
+LANG_ENGLISH        "^2Rhino 2 Gunner: ^7Systems are dead...that shit was crazy, man..."
+
+REFERENCE           SUBTITLE_HAMBURG_RHG_TANK723
+LANG_ENGLISH        "^2Rhino 2 Gunner: ^7Tank!"
+
+REFERENCE           SUBTITLE_HAMBURG_RHG_TANKSDONE523_8
+LANG_ENGLISH        "^2Rhino 2 Gunner: ^7Tank's done, bro.  We gotta get out."
+
+REFERENCE           SUBTITLE_HAMBURG_RHG_TROPHYSYS333
+LANG_ENGLISH        "^2Rhino 2 Gunner: ^7Trophy system online!"
+
+REFERENCE           SUBTITLE_HAMBURG_RHG_WERECLEAR812
+LANG_ENGLISH        "^2Rhino 2 Gunner: ^7We're clear!"
+
+REFERENCE           SUBTITLE_HAMBURG_RHG_WEREGOOD621
+LANG_ENGLISH        "^2Rhino 2 Gunner: ^7Yeah.  We're good."
+
+REFERENCE           SUBTITLE_HAMBURG_RHG_WHEREAREYOU725
+LANG_ENGLISH        "^2Rhino 2 Gunner: ^7Rhino 1, where the hell are you?!"
+
+REFERENCE           SUBTITLE_HAMBURG_RHG_YOUALRIGHTMAN523_2
+LANG_ENGLISH        "^2Rhino 2 Gunner: ^7You ok?  You alright, man?"
+
+REFERENCE           SUBTITLE_HAMBURG_RHL_NAHGOOD523_3
+LANG_ENGLISH        "^2Rhino 2 Loader: ^7Nah, I'm good to go."
+
+REFERENCE           SUBTITLE_HAMBURG_RNO_FIRSTROUND913
+LANG_ENGLISH        "^2Grinch: ^7Nice.  I guess the first round's on us."
+
+REFERENCE           SUBTITLE_HAMBURG_RNO_GOODHUNTIN131
+LANG_ENGLISH        "^2Grinch: ^7We're already on foot.  Good hunting."
+
+REFERENCE           SUBTITLE_HAMBURG_SND_AFFIRMITIVE810
+LANG_ENGLISH        "^2Sandman: ^7Affirmative, Overlord, but we can't get to it yet!"
+
+REFERENCE           SUBTITLE_HAMBURG_SND_ANOTHERT90411
+LANG_ENGLISH        "^2Sandman: ^7Another T90 is pulling up in front!"
+
+REFERENCE           SUBTITLE_HAMBURG_SND_BASICS624
+LANG_ENGLISH        "^2Sandman: ^7Alright, basics fellas.  Find cover, return fire.  Let us know if you need help."
+
+REFERENCE           SUBTITLE_HAMBURG_SND_BREACHANDCLEAR95
+LANG_ENGLISH        "^2Sandman: ^7Breach and clear!  Let's go!"
+
+REFERENCE           SUBTITLE_HAMBURG_SND_CANYOUSHOOT622
+LANG_ENGLISH        "^2Sandman: ^7Can you shoot?"
+
+REFERENCE           SUBTITLE_HAMBURG_SND_CHECKVEHICLES813
+LANG_ENGLISH        "^2Sandman: ^7Check the vehicles."
+
+REFERENCE           SUBTITLE_HAMBURG_SND_CLEARAPATH234
+LANG_ENGLISH        "^2Sandman: ^7Copy, we'll clear you a path!"
+
+REFERENCE           SUBTITLE_HAMBURG_SND_CONVOYATEND731
+LANG_ENGLISH        "^2Sandman: ^7The convoy should be at the end of the street!"
+
+REFERENCE           SUBTITLE_HAMBURG_SND_COPYYOURLAST818
+LANG_ENGLISH        "^2Sandman: ^7Copy your last."
+
+REFERENCE           SUBTITLE_HAMBURG_SND_DAMNDOOR96
+LANG_ENGLISH        "^2Sandman: ^7Frost, get the damn door open!"
+
+REFERENCE           SUBTITLE_HAMBURG_SND_DAMNHOLE512
+LANG_ENGLISH        "^2Sandman: ^7Then blow a damn hole through the wall and take care of em!"
+
+REFERENCE           SUBTITLE_HAMBURG_SND_DONTSLOWDOWN228_2
+LANG_ENGLISH        "^2Sandman: ^7Don't slow down!"
+
+REFERENCE           SUBTITLE_HAMBURG_SND_EASY821
+LANG_ENGLISH        "^2Sandman: ^7Easy."
+
+REFERENCE           SUBTITLE_HAMBURG_SND_FROST618
+LANG_ENGLISH        "^2Sandman: ^7Frost!"
+
+REFERENCE           SUBTITLE_HAMBURG_SND_GARAGESECOND414
+LANG_ENGLISH        "^2Sandman: ^7Got shooters in the garage!  Second deck!"
+
+REFERENCE           SUBTITLE_HAMBURG_SND_GETACHARGE94
+LANG_ENGLISH        "^2Sandman: ^7Get a charge on the door!"
+
+REFERENCE           SUBTITLE_HAMBURG_SND_GETINSIDE728
+LANG_ENGLISH        "^2Sandman: ^7Get inside!  Go!  Go!"
+
+REFERENCE           SUBTITLE_HAMBURG_SND_GETOFFBEACH228_1
+LANG_ENGLISH        "^2Sandman: ^7Don't stop!  Get off this beach!"
+
+REFERENCE           SUBTITLE_HAMBURG_SND_GETONGUN330
+LANG_ENGLISH        "^2Sandman: ^7Get on the mini-gun so we can keep moving!"
+
+REFERENCE           SUBTITLE_HAMBURG_SND_GETTOCONVOY513
+LANG_ENGLISH        "^2Sandman: ^7We got to get to that convoy!  We need to get out on that street and we need to do it now!"
+
+REFERENCE           SUBTITLE_HAMBURG_SND_GOINRIGHT237
+LANG_ENGLISH        "^2Sandman: ^7Going right!"
+
+REFERENCE           SUBTITLE_HAMBURG_SND_GUYSHOME130
+LANG_ENGLISH        "^2Sandman: ^7Let's find it and get these guys home."
+
+REFERENCE           SUBTITLE_HAMBURG_SND_GUYSOK620
+LANG_ENGLISH        "^2Sandman: ^7You guys ok?!"
+
+REFERENCE           SUBTITLE_HAMBURG_SND_HITITNOW324
+LANG_ENGLISH        "^2Sandman: ^7Top floor of the building in front of you!  Hit it now!"
+
+REFERENCE           SUBTITLE_HAMBURG_SND_HOLDUP510
+LANG_ENGLISH        "^2Sandman: ^7What's the hold up?"
+
+REFERENCE           SUBTITLE_HAMBURG_SND_ITSHIM98
+LANG_ENGLISH        "^2Sandman: ^7It's him."
+
+REFERENCE           SUBTITLE_HAMBURG_SND_LAYDOWNFIRE415
+LANG_ENGLISH        "^2Sandman: ^7Frost, lay down some fire!"
+
+REFERENCE           SUBTITLE_HAMBURG_SND_LETSGOMOVE228
+LANG_ENGLISH        "^2Sandman: ^7Let's go!  Move!"
+
+REFERENCE           SUBTITLE_HAMBURG_SND_LIKEWISE132
+LANG_ENGLISH        "^2Sandman: ^7Likewise.  We'll catch you on the other side."
+
+REFERENCE           SUBTITLE_HAMBURG_SND_LOOKATME97
+LANG_ENGLISH        "^2Sandman: ^7Look at me, look at me."
+
+REFERENCE           SUBTITLE_HAMBURG_SND_LZNEPTUNE912
+LANG_ENGLISH        "^2Sandman: ^7Truck, Grinch - we got our guy.  We're on our way to LZ Neptune.  Meet us there."
+
+REFERENCE           SUBTITLE_HAMBURG_SND_MOVEFAST625
+LANG_ENGLISH        "^2Sandman: ^7Now we move fast, so keep your heads up.  Let's go."
+
+REFERENCE           SUBTITLE_HAMBURG_SND_MOVEMOVE37
+LANG_ENGLISH        "^2Sandman: ^7Move!  Move!"
+
+REFERENCE           SUBTITLE_HAMBURG_SND_MOVENOW823
+LANG_ENGLISH        "^2Sandman: ^7Move!  Now!"
+
+REFERENCE           SUBTITLE_HAMBURG_SND_MOVEWITHTANKS231
+LANG_ENGLISH        "^2Sandman: ^7Move with the tanks!  Keep going!"
+
+REFERENCE           SUBTITLE_HAMBURG_SND_NEGATIVECARGO816
+LANG_ENGLISH        "^2Sandman: ^7Overlord, negative precious cargo.  I say again - they're not at the convoy."
+
+REFERENCE           SUBTITLE_HAMBURG_SND_NEVERMADEIT129
+LANG_ENGLISH        "^2Sandman: ^7The convoy never made it to the extraction point."
+
+REFERENCE           SUBTITLE_HAMBURG_SND_NOTHERE815
+LANG_ENGLISH        "^2Sandman: ^7They're not here..."
+
+REFERENCE           SUBTITLE_HAMBURG_SND_OKYOUGOOD228_3
+LANG_ENGLISH        "^2Sandman: ^7Ok, you good?  C'mon!"
+
+REFERENCE           SUBTITLE_HAMBURG_SND_ONMINIGUN328
+LANG_ENGLISH        "^2Sandman: ^7Frost, get up on that mini-gun!"
+
+REFERENCE           SUBTITLE_HAMBURG_SND_ONOURWAY722
+LANG_ENGLISH        "^2Sandman: ^7Copy.  We're on our way."
+
+REFERENCE           SUBTITLE_HAMBURG_SND_REGROUP319
+LANG_ENGLISH        "^2Sandman: ^7Regroup on the tank!"
+
+REFERENCE           SUBTITLE_HAMBURG_SND_RIGHTFLANK235
+LANG_ENGLISH        "^2Sandman: ^7You're good, Rhino 1!  We'll take the right flank!"
+
+REFERENCE           SUBTITLE_HAMBURG_SND_ROOFTOPSCLEAR730
+LANG_ENGLISH        "^2Sandman: ^7Rooftop's clear!  Let's move!"
+
+REFERENCE           SUBTITLE_HAMBURG_SND_SNIPER322
+LANG_ENGLISH        "^2Sandman: ^7Sniper!"
+
+REFERENCE           SUBTITLE_HAMBURG_SND_STICKTORIGHT238
+LANG_ENGLISH        "^2Sandman: ^7Stick to the right flank!"
+
+REFERENCE           SUBTITLE_HAMBURG_SND_T90RIGHTSIDE38
+LANG_ENGLISH        "^2Sandman: ^7Rhino 1, you've got a T90 on the left side!"
+
+REFERENCE           SUBTITLE_HAMBURG_SND_TAKECOVER724
+LANG_ENGLISH        "^2Sandman: ^7Take cover!"
+
+REFERENCE           SUBTITLE_HAMBURG_SND_UPYOUGO329
+LANG_ENGLISH        "^2Sandman: ^7Up you go, Frost!  Move it!"
+
+REFERENCE           SUBTITLE_HAMBURG_SND_VICEPRES910
+LANG_ENGLISH        "^2Sandman: ^7Overlord, P.I.D. on the Vice President.  We're ready for extraction."
+
+REFERENCE           SUBTITLE_HAMBURG_SND_WATCHLEFT811
+LANG_ENGLISH        "^2Sandman: ^7Watch the left side!"
+
+REFERENCE           SUBTITLE_HAMBURG_SND_WHATEVERCOVER310
+LANG_ENGLISH        "^2Sandman: ^7Keep moving!  Use whatever cover you can find!"
+
+REFERENCE           SUBTITLE_TANK_APP1_CLEARTOPROCEED244
+LANG_ENGLISH        "^2Viper 1-1: ^7Alright, Rhino 1.  You're clear to proceed."
+
+REFERENCE           SUBTITLE_TANK_APP1_FIRING243
+LANG_ENGLISH        "^2Viper 1-1: ^7Firing."
+
+REFERENCE           SUBTITLE_TANK_APP1_WEGOTEM242
+LANG_ENGLISH        "^2Viper 1-1: ^7Roger that.  We got 'em."
+
+REFERENCE           SUBTITLE_TANK_CTR_PARKINGGARAGE320
+LANG_ENGLISH        "^2Carter: ^7The only way through is in to that parking garage and out the other side!"
+
+REFERENCE           SUBTITLE_TANK_CTR_TAKEITSLOW321
+LANG_ENGLISH        "^2Carter: ^7We're going to have to take slow - not sure if it can handle the wei-"
+
+REFERENCE           SUBTITLE_TANK_HQR_ANYSIGN817
+LANG_ENGLISH        "^2Overlord: ^7Copy.  Check the area for any sign of the delegates, but be advised - Raptor 4 will be on station for exfil in ten minutes, over."
+
+REFERENCE           SUBTITLE_TANK_HQR_ONSCENE911
+LANG_ENGLISH        "^2Overlord: ^7Solid Copy, 0-1.  Great work.  Raptor 4 is arriving on scene now."
+
+REFERENCE           SUBTITLE_TANK_HQR_REACHED89
+LANG_ENGLISH        "^2Overlord: ^7Metal Zero One, have you reached the convoy?"
+
+REFERENCE           SUBTITLE_TANK_HQR_SPOTTEDTHECONVOY721
+LANG_ENGLISH        "^2Overlord: ^7Metal 0-1, ISR has spotted the convoy half a click from your position.  Get there fast and secure a perimeter around that site."
+
+REFERENCE           SUBTITLE_TANK_RH1_22COMEIN619
+LANG_ENGLISH        "^2Rhino 1: ^72-2, you alright?!  2-2, come in!"
+
+REFERENCE           SUBTITLE_TANK_RH1_40DEGREES313
+LANG_ENGLISH        "^2Rhino 1: ^7Right!  Forty degrees!"
+
+REFERENCE           SUBTITLE_TANK_RH1_ALRIGHTLETSROLL339
+LANG_ENGLISH        "^2Rhino 1: ^7Alright, let's roll!"
+
+REFERENCE           SUBTITLE_TANK_RH1_BACKITUP332
+LANG_ENGLISH        "^2Rhino 1: ^7Back it up!  Now!"
+
+REFERENCE           SUBTITLE_TANK_RH1_BUILDINGINFRONT241
+LANG_ENGLISH        "^2Rhino 1: ^7Viper 1-1, we have RPG fire from the building in front of us."
+
+REFERENCE           SUBTITLE_TANK_RH1_DEPLOYINGSMOKE232
+LANG_ENGLISH        "^2Rhino 1: ^7Deploying smoke."
+
+REFERENCE           SUBTITLE_TANK_RH1_EVERYONEOK335
+LANG_ENGLISH        "^2Rhino 1: ^7Everyone OK?!"
+
+REFERENCE           SUBTITLE_TANK_RH1_FARTHERDOWNIN59
+LANG_ENGLISH        "^2Rhino 1: ^7They ran further down in to the garage."
+
+REFERENCE           SUBTITLE_TANK_RH1_HEARDTHEMAN514
+LANG_ENGLISH        "^2Rhino 1: ^7You heard the man."
+
+REFERENCE           SUBTITLE_TANK_RH1_LARGEGROUP511
+LANG_ENGLISH        "^2Rhino 1: ^7We got a large group of them just ahead."
+
+REFERENCE           SUBTITLE_TANK_RH1_LETSMOVEIN416
+LANG_ENGLISH        "^2Rhino 1: ^7Let's move in."
+
+REFERENCE           SUBTITLE_TANK_RH1_MOREINBOUND49
+LANG_ENGLISH        "^2Rhino 1: ^7Got more inbound!  Twelve o' clock!"
+
+REFERENCE           SUBTITLE_TANK_RH1_MOVEFAST515
+LANG_ENGLISH        "^2Rhino 1: ^7Just move fast.  Don't let 'em swarm you."
+
+REFERENCE           SUBTITLE_TANK_RH1_MOVIN236
+LANG_ENGLISH        "^2Rhino 1: ^7Roger that.  Moving."
+
+REFERENCE           SUBTITLE_TANK_RH1_RPGFIREOVEREHERE516_1
+LANG_ENGLISH        "^2Rhino 1: ^7Woah!  We got a shit ton of RPG fire over here!"
+
+REFERENCE           SUBTITLE_TANK_RH1_SAWANOTHER519
+LANG_ENGLISH        "^2Rhino 1: ^7Saw another group headed through here."
+
+REFERENCE           SUBTITLE_TANK_RH1_STANDCLEAR39
+LANG_ENGLISH        "^2Rhino 1: ^7Alright, stand clear.  We're gonna get some rounds in that direction."
+
+REFERENCE           SUBTITLE_TANK_RH1_TAKEITSLOW417
+LANG_ENGLISH        "^2Rhino 1: ^7Take it slow..."
+
+REFERENCE           SUBTITLE_TANK_RH1_TALKTOME336
+LANG_ENGLISH        "^2Rhino 1: ^7Talk to me, 2-2!"
+
+REFERENCE           SUBTITLE_TANK_RH1_THEYRESCARED413
+LANG_ENGLISH        "^2Rhino 1: ^7Yeah, they're scared shitless."
+
+REFERENCE           SUBTITLE_TANK_RH1_THREATNEUTRALIZED726
+LANG_ENGLISH        "^2Rhino 1: ^7Threat neutralized.  We're movin up."
+
+REFERENCE           SUBTITLE_TANK_RH1_WOAHWOAHWAIT521
+LANG_ENGLISH        "^2Rhino 1: ^7Woah, woah!  Wait!"
+
+REFERENCE           SUBTITLE_TANK_RH1_YOUBOYS233
+LANG_ENGLISH        "^2Rhino 1: ^7We're going to need you boys to sweep the forward area.  Make sure we're good to move up."
+
+REFERENCE           SUBTITLE_TANK_RH1_YOUOKAY239
+LANG_ENGLISH        "^2Rhino 1: ^73-2, 3-2!  You OK?!"
+
+REFERENCE           SUBTITLE_TANK_RH2_2MORET90S311
+LANG_ENGLISH        "^2Rhino 2: ^7Got two more T90's!  Left side!"
+
+REFERENCE           SUBTITLE_TANK_RH2_AFTERYOU520
+LANG_ENGLISH        "^2Rhino 2: ^7After you, 2-1."
+
+REFERENCE           SUBTITLE_TANK_RH2_BACKITUP522
+LANG_ENGLISH        "^2Rhino 2: ^7Back it up!  Back up!"
+
+REFERENCE           SUBTITLE_TANK_RH2_FALLINGBACK412
+LANG_ENGLISH        "^2Rhino 2: ^7They're falling back to the garage."
+
+REFERENCE           SUBTITLE_TANK_RH2_GETDOWN334
+LANG_ENGLISH        "^2Rhino 2: ^7Get down!"
+
+REFERENCE           SUBTITLE_TANK_RH2_HOLDON517
+LANG_ENGLISH        "^2Rhino 2: ^7Hold on!"
+
+REFERENCE           SUBTITLE_TANK_RH2_MOREONRIGHTFLANK312
+LANG_ENGLISH        "^2Rhino 2: ^7More on the right flank!"
+
+REFERENCE           SUBTITLE_TANK_RH2_RIGHTBEHINDYOU318
+LANG_ENGLISH        "^2Rhino 2: ^7Copy that, Rhino 1.  We're right behind you."
+
+REFERENCE           SUBTITLE_TANK_RH2_RIGHTTHERE518
+LANG_ENGLISH        "^2Rhino 2: ^7Right there!  Right there!"
+
+REFERENCE           SUBTITLE_TANK_RH2_SHOWONTHEROAD516
+LANG_ENGLISH        "^2Rhino 2: ^7Alright, let's get this show on the road!"
+
+REFERENCE           SUBTITLE_TANK_RH2_TAKECAREOFEM516_2
+LANG_ENGLISH        "^2Rhino 2: ^7We'll take care of them!"
+
+REFERENCE           SUBTITLE_TANK_RH2_WEREGOOD337
+LANG_ENGLISH        "^2Rhino 2: ^7We're good!"
+
+REFERENCE           SUBTITLE_TANK_RH3_DEADINTHEMUD240
+LANG_ENGLISH        "^2Rhino 3-2: ^7We're good.  Dead in the mud though."
+
+REFERENCE           TANKCOMMANDER_FAILED_SMOKESCREEN
+LANG_ENGLISH        "Smoke screen can help you out of a bind."
+
+REFERENCE           TANKCOMMANDER_FAILED_TANK_COVER
+LANG_ENGLISH        "Take cover inside the tank."
+
+REFERENCE           TANKCOMMANDER_FAILED_TANK_COVER_OUT
+LANG_ENGLISH        "Use minigun to help recover from damage."
+
+REFERENCE           TANKCOMMANDER_HINT_CHANGE_WEAPONS
+LANG_ENGLISH        "Press ^3[{weapnext}]^7 to change the main cannons's ammo."
+
+REFERENCE           TANKCOMMANDER_HINT_PRESS_DPAD_MAIN_GUN
+LANG_ENGLISH        "Press ^3[{+actionslot 3}]^7 to turn ir mode off and on.."
+
+REFERENCE           TANKCOMMANDER_HINT_START_MISSION
+LANG_ENGLISH        "Press ^3[{+usereload}]^7 to start mission."
+
+REFERENCE           TANKCOMMANDER_HINT_TAKE_QUICK_COVER
+LANG_ENGLISH        "Press ^3[{+stance}]^7 to use the mini gun or quickly take cover."
+
+REFERENCE           TANKCOMMANDER_HINT_USE_MACHINE_GUNS
+LANG_ENGLISH        "Press ^3[{+attack}]^7 to fire the machine gun."
+
+REFERENCE           TANKCOMMANDER_INTROSCREEN_LINE_1
+LANG_ENGLISH        "\"Goalpost\""
+
+REFERENCE           TANKCOMMANDER_INTROSCREEN_LINE_15
+LANG_ENGLISH        "October 6th - 13:01:[{FAKE_INTRO_SECONDS:35}]"
+
+REFERENCE           TANKCOMMANDER_INTROSCREEN_LINE_2
+LANG_ENGLISH        "Sgt. Derek \"Frost\" Westbrook"
+
+REFERENCE           TANKCOMMANDER_INTROSCREEN_LINE_3
+LANG_ENGLISH        "Delta Force"
+
+REFERENCE           TANKCOMMANDER_INTROSCREEN_LINE_4
+LANG_ENGLISH        "Hamburg, Germany"
+
+REFERENCE           TANKCOMMANDER_OBJECTIVE_KILL_ENEMIES
+LANG_ENGLISH        "Clear the surrounding enemies."
+
+REFERENCE           TANKCOMMANDER_OBJECTIVE_SCOUT_AHEAD
+LANG_ENGLISH        "Check out the crashed bomber."
+
+REFERENCE           TANKCOMMANDER_TAKE_OUT_THE_TANKS_1
+LANG_ENGLISH        "Take out the tanks [&&1] of [&&2]"
+
+ENDMARKER
