@@ -1,0 +1,1498 @@
+// Dumped from fastfile "sp_afghanistan".
+// In their original format the strings might have been separated in multiple files.
+VERSION             "1"
+CONFIG              "C:/projects/cod/t6/bin/StringEd.cfg"
+FILENOTES           ""
+
+REFERENCE           AFGHANISTAN_VOX_VOX_AFG_13_01_002A_MASO_D
+LANG_SPANISH        "^1Mason: ^7Any advance will come through one of the narrow passes leading into the valley."
+
+REFERENCE           AFGHANISTAN_VOX_VOX_AFG_13_01_003A_RAHM_D
+LANG_SPANISH        "^1Rahmaan: ^7I know this.  Our men defend these mountains."
+
+REFERENCE           AFGHANISTAN_VOX_VOX_AFG_13_01_004A_WOOD_M
+LANG_SPANISH        "^1Woods: ^7That's a bullshit plan.  You're talking about the Russian army here.  They come at you with brute force, which means strength in numbers..."
+
+REFERENCE           AFGHANISTAN_VOX_VOX_AFG_13_01_004A_WOOD_S
+LANG_SPANISH        "^1Woods: ^7That's a lousy plan.  You're talking about the Russian army here.  They come at you with brute force, which means strength in numbers..."
+
+REFERENCE           AFGHANISTAN_VOX_VOX_AFG_13_01_005A_WOOD_D
+LANG_SPANISH        "^1Woods: ^7... and heavy armor.  Are your men ready for that?"
+
+REFERENCE           AFGHANISTAN_VOX_VOX_AFG_13_01_006A_MASO_D
+LANG_SPANISH        "^1Mason: ^7They have no experience with the weaponry we brought."
+
+REFERENCE           AFGHANISTAN_VOX_VOX_AFG_13_01_007A_WOOD_D
+LANG_SPANISH        "^1Woods: ^7And we do.  We belong on the front lines."
+
+REFERENCE           AFGHANISTAN_VOX_VOX_AFG_13_01_008A_HUDS_D
+LANG_SPANISH        "^1Hudson: ^7Our weapons will give them an edge."
+
+REFERENCE           AFGHANISTAN_VOX_VOX_AFG_13_02_001A_RAHM_D
+LANG_SPANISH        "^1Rahmaan: ^7Our base is here."
+
+REFERENCE           AFGHANISTAN_VOX_VOX_AFG_13_02_019A_WOOD_D
+LANG_SPANISH        "^1Woods: ^7Mason!"
+
+REFERENCE           AFGHANISTAN_VOX_VOX_AFG_13_02_020A_WOOD_D
+LANG_SPANISH        "^1Woods: ^7Come on, brother!"
+
+REFERENCE           AFGHANISTAN_VOX_VOX_AFG_13_02_021A_MASO_D
+LANG_SPANISH        "^1Mason: ^7Bring us alongside the tank!"
+
+REFERENCE           AFGHANISTAN_VOX_VOX_AFG_13_02_022A_MASO_M
+LANG_SPANISH        "^1Mason: ^7We gotta take this fucker out!"
+
+REFERENCE           AFGHANISTAN_VOX_VOX_AFG_13_02_022A_MASO_S
+LANG_SPANISH        "^1Mason: ^7We gotta take this thing out!"
+
+REFERENCE           AFGHANISTAN_VOX_VOX_AFG_13_02_023A_WOOD_D
+LANG_SPANISH        "^1Woods: ^7Here!  Catch!"
+
+REFERENCE           AFGHANISTAN_VOX_VOX_AFG_13_02_024A_WOOD_M
+LANG_SPANISH        "^1Woods: ^7What the fuck?! It's fucking Kravchenko!"
+
+REFERENCE           AFGHANISTAN_VOX_VOX_AFG_13_02_024A_WOOD_S
+LANG_SPANISH        "^1Woods: ^7What the...?!  It's... Kravchenko!"
+
+REFERENCE           AFGHANISTAN_VOX_VOX_AFG_13_02_025A_WOOD_M
+LANG_SPANISH        "^1Woods: ^7Piece of shit..."
+
+REFERENCE           AFGHANISTAN_VOX_VOX_AFG_13_02_025A_WOOD_S
+LANG_SPANISH        "^1Woods: ^7Piece of..."
+
+REFERENCE           AFGHANISTAN_VOX_VOX_AFG_13_02_026A_WOOD_D
+LANG_SPANISH        "^1Woods: ^7Of course he's involved in all this!"
+
+REFERENCE           AFGHANISTAN_VOX_VOX_AFG_13_02_027A_WOOD_D
+LANG_SPANISH        "^1Woods: ^7You believe in 'an eye for an eye'... huh?"
+
+REFERENCE           AFGHANISTAN_VOX_VOX_AFG_13_03_001A_HUDS_D
+LANG_SPANISH        "^1Hudson: ^7I've arranged for a couple specialists to act in an advisory capacity."
+
+REFERENCE           AFGHANISTAN_VOX_VOX_AFG_13_03_002A_HUDS_D
+LANG_SPANISH        "^1Hudson: ^7Here they are now."
+
+REFERENCE           AFGHANISTAN_VOX_VOX_AFG_13_03_003A_HUDS_D
+LANG_SPANISH        "^1Hudson: ^7Russian armor has been spotted west of the base."
+
+REFERENCE           AFGHANISTAN_VOX_VOX_AFG_13_03_004A_WOOD_D
+LANG_SPANISH        "^1Woods: ^7Saddle up, Mason!"
+
+REFERENCE           AFGHANISTAN_VOX_VOX_AFG_13_03_005A_WOOD_D
+LANG_SPANISH        "^1Woods: ^7Hudson.  We're engaging Russian infantry at the west choke point!  No sign of armor yet."
+
+REFERENCE           AFGHANISTAN_VOX_VOX_AFG_13_03_006A_WOOD_D
+LANG_SPANISH        "^1Woods: ^7Move in!  Clear 'em out!"
+
+REFERENCE           AFGHANISTAN_VOX_VOX_AFG_13_03_007A_WOOD_D
+LANG_SPANISH        "^1Woods: ^7We got a BTR pushing through the ruins."
+
+REFERENCE           AFGHANISTAN_VOX_VOX_AFG_13_03_008A_ZHAO_D
+LANG_SPANISH        "^1Zhao: ^7Russian armor inbound!"
+
+REFERENCE           AFGHANISTAN_VOX_VOX_AFG_13_03_010A_WOOD_M
+LANG_SPANISH        "^1Woods: ^7A few land mines will fuck those vehicles up!"
+
+REFERENCE           AFGHANISTAN_VOX_VOX_AFG_13_03_010A_WOOD_S
+LANG_SPANISH        "^1Woods: ^7A few land mines will take those vehicles out!"
+
+REFERENCE           AFGHANISTAN_VOX_VOX_AFG_13_03_012A_WOOD_D
+LANG_SPANISH        "^1Woods: ^7Get those mines planted, Mason!"
+
+REFERENCE           AFGHANISTAN_VOX_VOX_AFG_13_03_013A_WOOD_D
+LANG_SPANISH        "^1Woods: ^7Try and lay them in the path of the vehicles."
+
+REFERENCE           AFGHANISTAN_VOX_VOX_AFG_13_03_017A_WOOD_M
+LANG_SPANISH        "^1Woods: ^7Got two of the bastards now!  Come on, Mason!  Take them down!"
+
+REFERENCE           AFGHANISTAN_VOX_VOX_AFG_13_03_017A_WOOD_S
+LANG_SPANISH        "^1Woods: ^7Got two of 'em now!  Come on, Mason!  Take them down!"
+
+REFERENCE           AFGHANISTAN_VOX_VOX_AFG_13_03_030A_HUDS_D
+LANG_SPANISH        "^1Hudson: ^7We have more Russian helos inbound from the north!"
+
+REFERENCE           AFGHANISTAN_VOX_VOX_AFG_13_03_031A_HUDS_D
+LANG_SPANISH        "^1Hudson: ^7Muj scouts are tracking Russian gunships, west of the valley."
+
+REFERENCE           AFGHANISTAN_VOX_VOX_AFG_13_03_032A_HUDS_D
+LANG_SPANISH        "^1Hudson: ^7We're tracking a number of enemy gunships moving in from the west."
+
+REFERENCE           AFGHANISTAN_VOX_VOX_AFG_13_03_034A_HUDS_D
+LANG_SPANISH        "^1Hudson: ^7We're seeing enemy helos approaching from the east."
+
+REFERENCE           AFGHANISTAN_VOX_VOX_AFG_13_03_036A_HUDS_D
+LANG_SPANISH        "^1Hudson: ^7More Russian gunships spotted to the east."
+
+REFERENCE           AFGHANISTAN_VOX_VOX_AFG_13_03_037A_HUDS_D
+LANG_SPANISH        "^1Hudson: ^7Muj are reporting Russian tanks moving in from the north."
+
+REFERENCE           AFGHANISTAN_VOX_VOX_AFG_13_03_038A_HUDS_D
+LANG_SPANISH        "^1Hudson: ^7Russian tanks are advancing north of the valley."
+
+REFERENCE           AFGHANISTAN_VOX_VOX_AFG_13_03_042A_HUDS_D
+LANG_SPANISH        "^1Hudson: ^7We're seeing another column of Russian tanks to the east."
+
+REFERENCE           AFGHANISTAN_VOX_VOX_AFG_13_03_052A_HUDS_D
+LANG_SPANISH        "^1Hudson: ^7The Russians have overrun the Muj ammo cache to the east!"
+
+REFERENCE           AFGHANISTAN_VOX_VOX_AFG_13_03_053A_HUDS_D
+LANG_SPANISH        "^1Hudson: ^7Do whatever is necessary to recapture it!"
+
+REFERENCE           AFGHANISTAN_VOX_VOX_AFG_13_03_054A_ZHAO_D
+LANG_SPANISH        "^1Zhao: ^7We need you to the west!"
+
+REFERENCE           AFGHANISTAN_VOX_VOX_AFG_13_03_055A_ZHAO_D
+LANG_SPANISH        "^1Zhao: ^7Get to the north of the valley and help the Mujahideen!"
+
+REFERENCE           AFGHANISTAN_VOX_VOX_AFG_13_03_056A_ZHAO_D
+LANG_SPANISH        "^1Zhao: ^7The Russians are breaking through to the east of the valley."
+
+REFERENCE           AFGHANISTAN_VOX_VOX_AFG_13_03_057A_WOOD_D
+LANG_SPANISH        "^1Woods: ^7We've got Russians swarming all over."
+
+REFERENCE           AFGHANISTAN_VOX_VOX_AFG_13_03_058A_WOOD_D
+LANG_SPANISH        "^1Woods: ^7They're all over the valley, Mason!"
+
+REFERENCE           AFGHANISTAN_VOX_VOX_AFG_13_03_059A_WOOD_M
+LANG_SPANISH        "^1Woods: ^7I'll handle shit at the west."
+
+REFERENCE           AFGHANISTAN_VOX_VOX_AFG_13_03_059A_WOOD_S
+LANG_SPANISH        "^1Woods: ^7I'll handle the west."
+
+REFERENCE           AFGHANISTAN_VOX_VOX_AFG_13_03_061A_WOOD_M
+LANG_SPANISH        "^1Woods: ^7Stay here.  I'll head east to kick ass!"
+
+REFERENCE           AFGHANISTAN_VOX_VOX_AFG_13_03_061A_WOOD_S
+LANG_SPANISH        "^1Woods: ^7Stay here.  I'll head east!"
+
+REFERENCE           AFGHANISTAN_VOX_VOX_AFG_13_03_063A_WOOD_M
+LANG_SPANISH        "^1Woods: ^7I'm gonna raise hell north of the valley."
+
+REFERENCE           AFGHANISTAN_VOX_VOX_AFG_13_03_063A_WOOD_S
+LANG_SPANISH        "^1Woods: ^7I'll cover north of the valley."
+
+REFERENCE           AFGHANISTAN_VOX_VOX_AFG_13_03_065A_HUDS_D
+LANG_SPANISH        "^1Hudson: ^7Russian forces have breached the valley.  They're approaching the Mujahideen base camp."
+
+REFERENCE           AFGHANISTAN_VOX_VOX_AFG_13_03_069A_HUDS_D
+LANG_SPANISH        "^1Hudson: ^7The base camp is under attack!"
+
+REFERENCE           AFGHANISTAN_VOX_VOX_AFG_13_03_070A_HUDS_D
+LANG_SPANISH        "^1Hudson: ^7The Muj defenses are weakening, Mason.  That base is under threat."
+
+REFERENCE           AFGHANISTAN_VOX_VOX_AFG_13_03_071A_HUDS_D
+LANG_SPANISH        "^1Hudson: ^7We're in danger of losing the base!"
+
+REFERENCE           AFGHANISTAN_VOX_VOX_AFG_13_03_072A_HUDS_D
+LANG_SPANISH        "^1Hudson: ^7The Muj can't hold the base much longer!"
+
+REFERENCE           AFGHANISTAN_VOX_VOX_AFG_13_03_073A_HUDS_D
+LANG_SPANISH        "^1Hudson: ^7The Muj can't hold off the attack!"
+
+REFERENCE           AFGHANISTAN_VOX_VOX_AFG_13_03_074A_HUDS_D
+LANG_SPANISH        "^1Hudson: ^7We've got gunships raining rockets on the our defenses!"
+
+REFERENCE           AFGHANISTAN_VOX_VOX_AFG_13_03_075A_HUDS_D
+LANG_SPANISH        "^1Hudson: ^7Russian helicopters have broken through!  Rockets are hammering the base!"
+
+REFERENCE           AFGHANISTAN_VOX_VOX_AFG_13_03_076A_HUDS_D
+LANG_SPANISH        "^1Hudson: ^7We're taking fire from gunships right above the base!"
+
+REFERENCE           AFGHANISTAN_VOX_VOX_AFG_13_03_077A_HUDS_D
+LANG_SPANISH        "^1Hudson: ^7Enemy tanks are firing on the base!"
+
+REFERENCE           AFGHANISTAN_VOX_VOX_AFG_13_03_078A_HUDS_D
+LANG_SPANISH        "^1Hudson: ^7We have tanks right in front of the base!"
+
+REFERENCE           AFGHANISTAN_VOX_VOX_AFG_13_03_079A_HUDS_D
+LANG_SPANISH        "^1Hudson: ^7Russian tanks are right on our doorstep!"
+
+REFERENCE           AFGHANISTAN_VOX_VOX_AFG_13_03_080A_HUDS_D
+LANG_SPANISH        "^1Hudson: ^7You have to return to the base and help them hold off!"
+
+REFERENCE           AFGHANISTAN_VOX_VOX_AFG_13_03_081A_HUDS_D
+LANG_SPANISH        "^1Hudson: ^7We need you back at the base!"
+
+REFERENCE           AFGHANISTAN_VOX_VOX_AFG_13_03_082A_HUDS_D
+LANG_SPANISH        "^1Hudson: ^7You have to defend the base, at all costs!"
+
+REFERENCE           AFGHANISTAN_VOX_VOX_AFG_13_03_083A_WOOD_M
+LANG_SPANISH        "^1Woods: ^7Damn, Mason!  Never knew you were such a bloodthirsty son of a bitch!"
+
+REFERENCE           AFGHANISTAN_VOX_VOX_AFG_13_03_083A_WOOD_S
+LANG_SPANISH        "^1Woods: ^7Mason!  Never knew you were so bloodthirsty!"
+
+REFERENCE           AFGHANISTAN_VOX_VOX_AFG_13_03_085A_WOOD_M
+LANG_SPANISH        "^1Woods: ^7Did you just take down a gunship with a fucking mortar shell?!"
+
+REFERENCE           AFGHANISTAN_VOX_VOX_AFG_13_03_085A_WOOD_S
+LANG_SPANISH        "^1Woods: ^7Did you just take down a gunship with a mortar shell?!"
+
+REFERENCE           AFGHANISTAN_VOX_VOX_AFG_13_03_087A_WOOD_M
+LANG_SPANISH        "^1Woods: ^7They never knew what fucking hit them, brother!"
+
+REFERENCE           AFGHANISTAN_VOX_VOX_AFG_13_03_087A_WOOD_S
+LANG_SPANISH        "^1Woods: ^7They never knew what hit 'em, brother!"
+
+REFERENCE           AFGHANISTAN_VOX_VOX_AFG_13_03_089A_WOOD_M
+LANG_SPANISH        "^1Woods: ^7Trust you to use a horse as a damn weapon, Mason!"
+
+REFERENCE           AFGHANISTAN_VOX_VOX_AFG_13_03_089A_WOOD_S
+LANG_SPANISH        "^1Woods: ^7Ha!  Trust you to use a horse as a weapon, Mason!"
+
+REFERENCE           AFGHANISTAN_VOX_VOX_AFG_13_03_091A_WOOD_M
+LANG_SPANISH        "^1Woods: ^7You're a Helo-hating son of a bitch, ain't ya Mason?"
+
+REFERENCE           AFGHANISTAN_VOX_VOX_AFG_13_03_091A_WOOD_S
+LANG_SPANISH        "^1Woods: ^7You're a Helo-hater, ain't ya Mason?"
+
+REFERENCE           AFGHANISTAN_VOX_VOX_AFG_13_03_093A_WOOD_D
+LANG_SPANISH        "^1Woods: ^7You wanna leave anything for the rest of us?!"
+
+REFERENCE           AFGHANISTAN_VOX_VOX_AFG_13_03_094A_WOOD_M
+LANG_SPANISH        "^1Woods: ^7No lock on?  Nice fucking going, Mason!"
+
+REFERENCE           AFGHANISTAN_VOX_VOX_AFG_13_03_094A_WOOD_S
+LANG_SPANISH        "^1Woods: ^7No lock on?  Nice going, Mason!"
+
+REFERENCE           AFGHANISTAN_VOX_VOX_AFG_13_03_096A_WOOD_D
+LANG_SPANISH        "^1Woods: ^7You trying to break records, Mason?"
+
+REFERENCE           AFGHANISTAN_VOX_VOX_AFG_13_03_097A_WOOD_M
+LANG_SPANISH        "^1Woods: ^7I'll say this... you're a thorough bastard."
+
+REFERENCE           AFGHANISTAN_VOX_VOX_AFG_13_03_097A_WOOD_S
+LANG_SPANISH        "^1Woods: ^7You're thorough... I'll give you that."
+
+REFERENCE           AFGHANISTAN_VOX_VOX_AFG_13_03_099A_WOOD_M
+LANG_SPANISH        "^1Woods: ^7Damn, Mason.  You're a machine!"
+
+REFERENCE           AFGHANISTAN_VOX_VOX_AFG_13_03_099A_WOOD_S
+LANG_SPANISH        "^1Woods: ^7You're a machine, Mason!"
+
+REFERENCE           AFGHANISTAN_VOX_VOX_AFG_13_04_007A_WOOD_D
+LANG_SPANISH        "^1Woods: ^7The Muj have ammo caches all over the valley."
+
+REFERENCE           AFGHANISTAN_VOX_VOX_AFG_13_04_008A_WOOD_D
+LANG_SPANISH        "^1Woods: ^7Grab ammo by the red banners!"
+
+REFERENCE           AFGHANISTAN_VOX_VOX_AFG_13_04_009A_WOOD_D
+LANG_SPANISH        "^1Woods: ^7Ammo caches are marked by red banners!"
+
+REFERENCE           AFGHANISTAN_VOX_VOX_AFG_13_04_012A_HUDS_D
+LANG_SPANISH        "^1Hudson: ^7Woods.  Mason.  They're throwing everything that have at us!  We've got threats all over the valley!"
+
+REFERENCE           AFGHANISTAN_VOX_VOX_AFG_13_04_026A_WOOD_M
+LANG_SPANISH        "^1Woods: ^7This bastard brings back bad memories...  You okay, brother?"
+
+REFERENCE           AFGHANISTAN_VOX_VOX_AFG_13_04_026A_WOOD_S
+LANG_SPANISH        "^1Woods: ^7This guy brings back bad memories...  You okay, brother?"
+
+REFERENCE           AFGHANISTAN_VOX_VOX_AFG_13_04_028A_WOOD_D
+LANG_SPANISH        "^1Woods: ^7So we're in the desert, buried up to here, and who does your father think rides up on a horse to save us?"
+
+REFERENCE           AFGHANISTAN_VOX_VOX_AFG_13_04_029A_SECT_D
+LANG_SPANISH        "^1Section: ^7Tricky Vik."
+
+REFERENCE           AFGHANISTAN_VOX_VOX_AFG_13_04_085A_WOOD_D
+LANG_SPANISH        "^1Woods: ^7Use your mortar shells, Mason!"
+
+REFERENCE           AFGHANISTAN_VOX_VOX_AFG_13_04_086A_WOOD_D
+LANG_SPANISH        "^1Woods: ^7Hit it with a mortar shell!"
+
+REFERENCE           AFGHANISTAN_VOX_VOX_AFG_13_04_087A_WOOD_M
+LANG_SPANISH        "^1Woods: ^7Throw a damn mortar at the bastard!"
+
+REFERENCE           AFGHANISTAN_VOX_VOX_AFG_13_04_087A_WOOD_S
+LANG_SPANISH        "^1Woods: ^7Throw a mortar shell at it!"
+
+REFERENCE           AFGHANISTAN_VOX_VOX_AFG_13_04_089A_HUDS_D
+LANG_SPANISH        "^1Hudson: ^7Move to engage."
+
+REFERENCE           AFGHANISTAN_VOX_VOX_AFG_13_04_090A_HUDS_D
+LANG_SPANISH        "^1Hudson: ^7Take them down."
+
+REFERENCE           AFGHANISTAN_VOX_VOX_AFG_13_04_091A_HUDS_D
+LANG_SPANISH        "^1Hudson: ^7Take them down any way you can."
+
+REFERENCE           AFGHANISTAN_VOX_VOX_AFG_13_04_092A_WOOD_D
+LANG_SPANISH        "^1Woods: ^7Come on, Mason.  Get on your horse!"
+
+REFERENCE           AFGHANISTAN_VOX_VOX_AFG_13_04_093A_WOOD_D
+LANG_SPANISH        "^1Woods: ^7Ha!  See!  You're just like your old man.  No, it wasn't him."
+
+REFERENCE           AFGHANISTAN_VOX_VOX_AFG_13_04_094A_WOOD_M
+LANG_SPANISH        "^1Woods: ^7Come on, if you think it was him, don't you think he would have stuck around for a bit, huh?  Maybe explain some shit?"
+
+REFERENCE           AFGHANISTAN_VOX_VOX_AFG_13_04_094A_WOOD_S
+LANG_SPANISH        "^1Woods: ^7Come on, if you think it was him, don't you think he would have stuck around for a bit, huh?  Maybe explain some things?"
+
+REFERENCE           AFGHANISTAN_VOX_VOX_AFG_16_01_001A_WOOD_D
+LANG_SPANISH        "^1Woods: ^7This side, Mason... Blow it now and you'll seal yourself in!"
+
+REFERENCE           AFGHANISTAN_VOX_VOX_AFG_16_01_002A_WOOD_D
+LANG_SPANISH        "^1Woods: ^7Don't you want to be on this side of the valley?"
+
+REFERENCE           AFGHANISTAN_VOX_VOX_AFG_16_01_012A_MASO_D
+LANG_SPANISH        "^1Mason: ^7Roger that, Hudson.  Moving to intercept."
+
+REFERENCE           AFGHANISTAN_VOX_VOX_AFG_16_01_013A_WOOD_D
+LANG_SPANISH        "^1Woods: ^7Leave it to us, Hudson."
+
+REFERENCE           AFGHANISTAN_VOX_VOX_AFG_16_01_014A_WOOD_D
+LANG_SPANISH        "^1Woods: ^7Bring down those gunships!"
+
+REFERENCE           AFGHANISTAN_VOX_VOX_AFG_16_01_015A_WOOD_D
+LANG_SPANISH        "^1Woods: ^7Take out the gunships, Mason!"
+
+REFERENCE           AFGHANISTAN_VOX_VOX_AFG_16_01_016A_WOOD_M
+LANG_SPANISH        "^1Woods: ^7Ground those Russian bastards!"
+
+REFERENCE           AFGHANISTAN_VOX_VOX_AFG_16_01_016A_WOOD_S
+LANG_SPANISH        "^1Woods: ^7Ground those Russians!"
+
+REFERENCE           AFGHANISTAN_VOX_VOX_AFG_16_01_017A_WOOD_M
+LANG_SPANISH        "^1Woods: ^7Fuckers are still airborne!  Hit 'em, Mason!"
+
+REFERENCE           AFGHANISTAN_VOX_VOX_AFG_16_01_017A_WOOD_S
+LANG_SPANISH        "^1Woods: ^7They're still airborne!  Hit 'em, Mason!"
+
+REFERENCE           AFGHANISTAN_VOX_VOX_AFG_16_01_018A_WOOD_D
+LANG_SPANISH        "^1Woods: ^7Not even close!"
+
+REFERENCE           AFGHANISTAN_VOX_VOX_AFG_16_01_019A_MASO_M
+LANG_SPANISH        "^1Mason: ^7Stay still, Dammit!"
+
+REFERENCE           AFGHANISTAN_VOX_VOX_AFG_16_01_019A_MASO_S
+LANG_SPANISH        "^1Mason: ^7Stay still!"
+
+REFERENCE           AFGHANISTAN_VOX_VOX_AFG_16_01_020A_WOOD_M
+LANG_SPANISH        "^1Woods: ^7Zero in on the bastard!"
+
+REFERENCE           AFGHANISTAN_VOX_VOX_AFG_16_01_020A_WOOD_S
+LANG_SPANISH        "^1Woods: ^7Zero in on him!"
+
+REFERENCE           AFGHANISTAN_VOX_VOX_AFG_16_01_021A_MASO_M
+LANG_SPANISH        "^1Mason: ^7Dammit!"
+
+REFERENCE           AFGHANISTAN_VOX_VOX_AFG_16_01_021A_MASO_S
+LANG_SPANISH        "^1Mason: ^7You gotta be kidding me!!"
+
+REFERENCE           AFGHANISTAN_VOX_VOX_AFG_16_01_022A_WOOD_D
+LANG_SPANISH        "^1Woods: ^7You got him!"
+
+REFERENCE           AFGHANISTAN_VOX_VOX_AFG_16_01_023A_WOOD_M
+LANG_SPANISH        "^1Woods: ^7Good fucking hit, Man!"
+
+REFERENCE           AFGHANISTAN_VOX_VOX_AFG_16_01_023A_WOOD_S
+LANG_SPANISH        "^1Woods: ^7Good hit!"
+
+REFERENCE           AFGHANISTAN_VOX_VOX_AFG_16_01_024A_WOOD_D
+LANG_SPANISH        "^1Woods: ^7It's coming down!"
+
+REFERENCE           AFGHANISTAN_VOX_VOX_AFG_16_01_025A_MASO_D
+LANG_SPANISH        "^1Mason: ^7Hudson.  Russian gunships are down."
+
+REFERENCE           AFGHANISTAN_VOX_VOX_AFG_16_01_026A_MASO_D
+LANG_SPANISH        "^1Mason: ^7Hudson.  The gunships are grounded."
+
+REFERENCE           AFGHANISTAN_VOX_VOX_AFG_16_01_027A_MASO_D
+LANG_SPANISH        "^1Mason: ^7The gunships are neutralized."
+
+REFERENCE           AFGHANISTAN_VOX_VOX_AFG_16_01_028A_WOOD_D
+LANG_SPANISH        "^1Woods: ^7Mason!  We gotta take these tanks out!"
+
+REFERENCE           AFGHANISTAN_VOX_VOX_AFG_16_01_029A_WOOD_D
+LANG_SPANISH        "^1Woods: ^7Tanks are still moving, Mason!"
+
+REFERENCE           AFGHANISTAN_VOX_VOX_AFG_16_01_030A_WOOD_D
+LANG_SPANISH        "^1Woods: ^7Hit the tanks!"
+
+REFERENCE           AFGHANISTAN_VOX_VOX_AFG_16_01_041A_ZHAO_D
+LANG_SPANISH        "^1Zhao: ^7The ammo cache is left of the valley."
+
+REFERENCE           AFGHANISTAN_VOX_VOX_AFG_16_01_042A_ZHAO_D
+LANG_SPANISH        "^1Zhao: ^7The path is impassable by horse."
+
+REFERENCE           AFGHANISTAN_VOX_VOX_AFG_16_01_043A_ZHAO_D
+LANG_SPANISH        "^1Zhao: ^7Dismount.  We will proceed on foot."
+
+REFERENCE           AFGHANISTAN_VOX_VOX_AFG_16_01_044A_ZHAO_D
+LANG_SPANISH        "^1Zhao: ^7Russian infantry holding the cave!"
+
+REFERENCE           AFGHANISTAN_VOX_VOX_AFG_16_01_045A_ZHAO_D
+LANG_SPANISH        "^1Zhao: ^7Clear them out!"
+
+REFERENCE           AFGHANISTAN_VOX_VOX_AFG_16_01_046A_ZHAO_D
+LANG_SPANISH        "^1Zhao: ^7Recapture the ammo cache."
+
+REFERENCE           AFGHANISTAN_VOX_VOX_AFG_16_01_048A_WOOD_D
+LANG_SPANISH        "^1Woods: ^7Faster!"
+
+REFERENCE           AFGHANISTAN_VOX_VOX_AFG_16_01_049A_WOOD_D
+LANG_SPANISH        "^1Woods: ^7Take it to 'em!"
+
+REFERENCE           AFGHANISTAN_VOX_VOX_AFG_16_01_050A_WOOD_D
+LANG_SPANISH        "^1Woods: ^7Let's finish this!"
+
+REFERENCE           AFGHANISTAN_VOX_VOX_AFG_16_01_051A_WOOD_D
+LANG_SPANISH        "^1Woods: ^7Tank's down!"
+
+REFERENCE           AFGHANISTAN_VOX_VOX_AFG_16_01_052A_WOOD_D
+LANG_SPANISH        "^1Woods: ^7Good kill, Mason.  Tank is history."
+
+REFERENCE           AFGHANISTAN_VOX_VOX_AFG_16_01_053A_WOOD_D
+LANG_SPANISH        "^1Woods: ^7Oh, you got him!"
+
+REFERENCE           AFGHANISTAN_VOX_VOX_AFG_16_01_054A_WOOD_M
+LANG_SPANISH        "^1Woods: ^7Fucked him good."
+
+REFERENCE           AFGHANISTAN_VOX_VOX_AFG_16_01_054A_WOOD_S
+LANG_SPANISH        "^1Woods: ^7Got him good."
+
+REFERENCE           AFGHANISTAN_VOX_VOX_AFG_16_01_055A_WOOD_M
+LANG_SPANISH        "^1Woods: ^7That's how you deal with a fucking tank."
+
+REFERENCE           AFGHANISTAN_VOX_VOX_AFG_16_01_055A_WOOD_S
+LANG_SPANISH        "^1Woods: ^7That's how you deal with a tank."
+
+REFERENCE           AFGHANISTAN_VOX_VOX_AFG_16_01_056A_WOOD_D
+LANG_SPANISH        "^1Woods: ^7He ain't gonna be any more trouble."
+
+REFERENCE           AFGHANISTAN_VOX_VOX_AFG_16_01_057A_WOOD_D
+LANG_SPANISH        "^1Woods: ^7That's it for him."
+
+REFERENCE           AFGHANISTAN_VOX_VOX_AFG_16_01_058A_WOOD_D
+LANG_SPANISH        "^1Woods: ^7Got him good, Mason."
+
+REFERENCE           AFGHANISTAN_VOX_VOX_AFG_16_01_059A_WOOD_D
+LANG_SPANISH        "^1Woods: ^7Nice work."
+
+REFERENCE           AFGHANISTAN_VOX_VOX_AFG_16_01_060A_MASO_D
+LANG_SPANISH        "^1Mason: ^7Hudson, tanks are down."
+
+REFERENCE           AFGHANISTAN_VOX_VOX_AFG_16_01_061A_MASO_D
+LANG_SPANISH        "^1Mason: ^7Tanks are down, Hudson."
+
+REFERENCE           AFGHANISTAN_VOX_VOX_AFG_16_01_062A_MASO_D
+LANG_SPANISH        "^1Mason: ^7Hudson, the tanks are destroyed."
+
+REFERENCE           AFGHANISTAN_VOX_VOX_AFG_16_01_063A_MASO_D
+LANG_SPANISH        "^1Mason: ^7Tanks are down and out, Hudson."
+
+REFERENCE           AFGHANISTAN_VOX_VOX_AFG_16_01_064A_WOOD_D
+LANG_SPANISH        "^1Woods: ^7Try again!"
+
+REFERENCE           AFGHANISTAN_VOX_VOX_AFG_16_01_065A_WOOD_M
+LANG_SPANISH        "^1Woods: ^7Dammit, Mason!  Ain't it a big enough target??"
+
+REFERENCE           AFGHANISTAN_VOX_VOX_AFG_16_01_065A_WOOD_S
+LANG_SPANISH        "^1Woods: ^7Mason!  Ain't it a big enough target??"
+
+REFERENCE           AFGHANISTAN_VOX_VOX_AFG_16_01_088A_MASO_D
+LANG_SPANISH        "^1Mason: ^7Hudson,  the ammo cache is ours."
+
+REFERENCE           AFGHANISTAN_VOX_VOX_AFG_16_02_011A_MASO_D
+LANG_SPANISH        "^1Mason: ^7HEEYAAH!!!"
+
+REFERENCE           AFGHANISTAN_VOX_VOX_AFG_16_05_001A_MUJ0_D
+LANG_SPANISH        "^1Mujahideen: ^7ADD MUJIHADEEN VICTORY CHEER"
+
+REFERENCE           AFGHANISTAN_VOX_VOX_AFG_1_02_003A_WOOD_D
+LANG_SPANISH        "^1Woods: ^7It's showtime, Mason."
+
+REFERENCE           AFGHANISTAN_VOX_VOX_AFG_1_03_001A_MASO_D
+LANG_SPANISH        "^1Mason: ^7What'd you see, Woods?"
+
+REFERENCE           AFGHANISTAN_VOX_VOX_AFG_1_03_002A_WOOD_M
+LANG_SPANISH        "^1Woods: ^7Sand, sand and more fucking sand."
+
+REFERENCE           AFGHANISTAN_VOX_VOX_AFG_1_03_002A_WOOD_S
+LANG_SPANISH        "^1Woods: ^7Sand, sand and more filthy sand."
+
+REFERENCE           AFGHANISTAN_VOX_VOX_AFG_1_03_003A_WOOD_D
+LANG_SPANISH        "^1Woods: ^7Hudson's contact's on his way."
+
+REFERENCE           AFGHANISTAN_VOX_VOX_AFG_1_03_004A_WOOD_M
+LANG_SPANISH        "^1Woods: ^7What the hell you gonna do with that?"
+
+REFERENCE           AFGHANISTAN_VOX_VOX_AFG_1_03_004A_WOOD_S
+LANG_SPANISH        "^1Woods: ^7What are you gonna do with that?"
+
+REFERENCE           AFGHANISTAN_VOX_VOX_AFG_1_03_005A_MASO_D
+LANG_SPANISH        "^1Mason: ^7You never know..."
+
+REFERENCE           AFGHANISTAN_VOX_VOX_AFG_1_03_006A_MASO_D
+LANG_SPANISH        "^1Mason: ^7You reckon we can trust the Chinese?"
+
+REFERENCE           AFGHANISTAN_VOX_VOX_AFG_1_03_007A_WOOD_D
+LANG_SPANISH        "^1Woods: ^7We can here.  They've been supporting the Mujahideen same as us."
+
+REFERENCE           AFGHANISTAN_VOX_VOX_AFG_1_03_008A_WOOD_D
+LANG_SPANISH        "^1Woods: ^7They know if Russia wins in Afghanistan, they'll be looking at China next."
+
+REFERENCE           AFGHANISTAN_VOX_VOX_AFG_1_03_009A_MASO_D
+LANG_SPANISH        "^1Mason: ^7No one likes the Russians, huh?"
+
+REFERENCE           AFGHANISTAN_VOX_VOX_AFG_1_04_001A_WOOD_D
+LANG_SPANISH        "^1Woods: ^7You know me...  I don't like anyone."
+
+REFERENCE           AFGHANISTAN_VOX_VOX_AFG_1_04_002A_WOOD_D
+LANG_SPANISH        "^1Woods: ^7You might want to get your head down."
+
+REFERENCE           AFGHANISTAN_VOX_VOX_AFG_1_05_001A_WOOD_D
+LANG_SPANISH        "^1Woods: ^7Take it easy, Zhao.  We delivered the weapons."
+
+REFERENCE           AFGHANISTAN_VOX_VOX_AFG_1_05_003A_WOOD_D
+LANG_SPANISH        "^1Woods: ^7Now, what about your end of the deal?"
+
+REFERENCE           AFGHANISTAN_VOX_VOX_AFG_1_05_007A_ZHAO_D
+LANG_SPANISH        "^1Zhao: ^7I will take you to the leader of the Mujahideen.  He can help you find Raul Menendez."
+
+REFERENCE           AFGHANISTAN_VOX_VOX_AFG_1_05_008A_ZHAO_D
+LANG_SPANISH        "^1Zhao: ^7We must hurry.  We believe the Soviets are about to launch an attack on the camp."
+
+REFERENCE           AFGHANISTAN_VOX_VOX_AFG_1_05_009A_ZHAO_D
+LANG_SPANISH        "^1Zhao: ^7We have fresh horses.  You will follow."
+
+REFERENCE           AFGHANISTAN_VOX_VOX_AFG_1_05_011A_WOOD_M
+LANG_SPANISH        "^1Woods: ^7No shit.  Let's do it."
+
+REFERENCE           AFGHANISTAN_VOX_VOX_AFG_1_05_011A_WOOD_S
+LANG_SPANISH        "^1Woods: ^7Alright.  Let's do it."
+
+REFERENCE           AFGHANISTAN_VOX_VOX_AFG_1_05_012A_WOOD_D
+LANG_SPANISH        "^1Woods: ^7Mason, kick it up a gear!"
+
+REFERENCE           AFGHANISTAN_VOX_VOX_AFG_1_05_013A_WOOD_M
+LANG_SPANISH        "^1Woods: ^7Dammit, Mason.  Can't that horse go any faster?"
+
+REFERENCE           AFGHANISTAN_VOX_VOX_AFG_1_05_013A_WOOD_S
+LANG_SPANISH        "^1Woods: ^7Mason, can't that horse go any faster?"
+
+REFERENCE           AFGHANISTAN_VOX_VOX_AFG_1_05_014A_HUDS_D
+LANG_SPANISH        "^1Hudson: ^7Mason, it's Hudson.  Did you make contact with Zhao?"
+
+REFERENCE           AFGHANISTAN_VOX_VOX_AFG_1_05_015A_MASO_D
+LANG_SPANISH        "^1Mason: ^7We're on our way to the Mujahideen camp now."
+
+REFERENCE           AFGHANISTAN_VOX_VOX_AFG_1_05_016A_HUDS_D
+LANG_SPANISH        "^1Hudson: ^7I'm sure I don't need to remind you that our presence here must remain 100% deniable."
+
+REFERENCE           AFGHANISTAN_VOX_VOX_AFG_2_01_001A_HUDS_D
+LANG_SPANISH        "^1Hudson: ^7There will be serious consequences if Russia learns of our involvement in Afghanistan."
+
+REFERENCE           AFGHANISTAN_VOX_VOX_AFG_2_01_002A_WOOD_D
+LANG_SPANISH        "^1Woods: ^7The only way they'll find out, is if  they take us down..."
+
+REFERENCE           AFGHANISTAN_VOX_VOX_AFG_2_01_003A_WOOD_D
+LANG_SPANISH        "^1Woods: ^7You know that ain't gonna happen."
+
+REFERENCE           AFGHANISTAN_VOX_VOX_AFG_2_01_007A_ZHAO_D
+LANG_SPANISH        "^1Zhao: ^7This way."
+
+REFERENCE           AFGHANISTAN_VOX_VOX_AFG_2_02_002A_HUDS_D
+LANG_SPANISH        "^1Hudson: ^7Rahmaan, this is Woods... and Mason."
+
+REFERENCE           AFGHANISTAN_VOX_VOX_AFG_2_02_003A_HUDS_D
+LANG_SPANISH        "^1Hudson: ^7My two best men."
+
+REFERENCE           AFGHANISTAN_VOX_VOX_AFG_2_02_004A_RAHM_D
+LANG_SPANISH        "^1Rahmaan: ^7We need weapons, not soldiers."
+
+REFERENCE           AFGHANISTAN_VOX_VOX_AFG_2_02_007A_WOOD_D
+LANG_SPANISH        "^1Woods: ^7This should be good."
+
+REFERENCE           AFGHANISTAN_VOX_VOX_AFG_2_02_008A_HUDS_D
+LANG_SPANISH        "^1Hudson: ^7If a Russian attack is indeed imminent, you're going to need all the help you can get."
+
+REFERENCE           AFGHANISTAN_VOX_VOX_AFG_2_03_016A_WOOD_D
+LANG_SPANISH        "^1Woods: ^7Just so we're clear...  We hold off the Russian attack.  You give us what you have on Menendez."
+
+REFERENCE           AFGHANISTAN_VOX_VOX_AFG_2_03_022A_RAHM_D
+LANG_SPANISH        "^1Rahmaan: ^7The Russian assault has begun."
+
+REFERENCE           AFGHANISTAN_VOX_VOX_AFG_2_03_023A_ZHAO_D
+LANG_SPANISH        "^1Zhao: ^7You have faith in your plans, American?"
+
+REFERENCE           AFGHANISTAN_VOX_VOX_AFG_2_03_024A_MASO_D
+LANG_SPANISH        "^1Mason: ^7I got more than faith, Zhao..."
+
+REFERENCE           AFGHANISTAN_VOX_VOX_AFG_2_03_025A_WOOD_D
+LANG_SPANISH        "^1Woods: ^7Let's rock it."
+
+REFERENCE           AFGHANISTAN_VOX_VOX_AFG_2_03_027A_ZHAO_D
+LANG_SPANISH        "^1Zhao: ^7We must hurry!  We cannot allow them to enter the valley!"
+
+REFERENCE           AFGHANISTAN_VOX_VOX_AFG_2_03_029A_MASO_D
+LANG_SPANISH        "^1Mason: ^7This may be tougher than we thought!  We've got HIPs dropping infantry right in front of the camp!"
+
+REFERENCE           AFGHANISTAN_VOX_VOX_AFG_2_03_030A_WOOD_D
+LANG_SPANISH        "^1Woods: ^7Leave them to the Mujahideen.  Just get to their choke points, and hold back their armor!"
+
+REFERENCE           AFGHANISTAN_VOX_VOX_AFG_2_03_033A_MASO_M
+LANG_SPANISH        "^1Mason: ^7Too fucking close!"
+
+REFERENCE           AFGHANISTAN_VOX_VOX_AFG_2_03_033A_MASO_S
+LANG_SPANISH        "^1Mason: ^7Too close!"
+
+REFERENCE           AFGHANISTAN_VOX_VOX_AFG_2_03_034A_WOOD_D
+LANG_SPANISH        "^1Woods: ^7Come on, Mason!"
+
+REFERENCE           AFGHANISTAN_VOX_VOX_AFG_2_04_001A_WOOD_D
+LANG_SPANISH        "^1Woods: ^7We need to stay with Zhao!"
+
+REFERENCE           AFGHANISTAN_VOX_VOX_AFG_2_04_004A_WOOD_D
+LANG_SPANISH        "^1Woods: ^7Right flank!!"
+
+REFERENCE           AFGHANISTAN_VOX_VOX_AFG_2_04_005A_WOOD_D
+LANG_SPANISH        "^1Woods: ^7Russian infantry inbound!"
+
+REFERENCE           AFGHANISTAN_VOX_VOX_AFG_2_04_007A_MASO_D
+LANG_SPANISH        "^1Mason: ^7They're bringing in a BTR!"
+
+REFERENCE           AFGHANISTAN_VOX_VOX_AFG_2_04_008A_WOOD_M
+LANG_SPANISH        "^1Woods: ^7Take the bastard out, Mason!"
+
+REFERENCE           AFGHANISTAN_VOX_VOX_AFG_2_04_008A_WOOD_S
+LANG_SPANISH        "^1Woods: ^7Take it out, Mason!"
+
+REFERENCE           AFGHANISTAN_VOX_VOX_AFG_2_04_009A_ZHAO_D
+LANG_SPANISH        "^1Zhao: ^7We cannot let it enter the valley!"
+
+REFERENCE           AFGHANISTAN_VOX_VOX_AFG_2_04_010A_WOOD_D
+LANG_SPANISH        "^1Woods: ^7Gonna need more than a rifle, Mason!"
+
+REFERENCE           AFGHANISTAN_VOX_VOX_AFG_2_04_011A_WOOD_D
+LANG_SPANISH        "^1Woods: ^7Grab an RPG from the weapons cache!"
+
+REFERENCE           AFGHANISTAN_VOX_VOX_AFG_2_04_012A_WOOD_D
+LANG_SPANISH        "^1Woods: ^7Armor's too tough!  Gonna take RPGs or stingers to put 'em down!"
+
+REFERENCE           AFGHANISTAN_VOX_VOX_AFG_2_04_013A_WOOD_D
+LANG_SPANISH        "^1Woods: ^7Hit it again, Mason!"
+
+REFERENCE           AFGHANISTAN_VOX_VOX_AFG_2_04_014A_WOOD_D
+LANG_SPANISH        "^1Woods: ^7One more hit'll take it down!"
+
+REFERENCE           AFGHANISTAN_VOX_VOX_AFG_2_04_015A_MASO_D
+LANG_SPANISH        "^1Mason: ^7It ain't outta this yet!"
+
+REFERENCE           AFGHANISTAN_VOX_VOX_AFG_2_04_016A_MASO_M
+LANG_SPANISH        "^1Mason: ^7Fucker's still going!!!"
+
+REFERENCE           AFGHANISTAN_VOX_VOX_AFG_2_04_016A_MASO_S
+LANG_SPANISH        "^1Mason: ^7It's still going!!!"
+
+REFERENCE           AFGHANISTAN_VOX_VOX_AFG_2_04_017A_WOOD_D
+LANG_SPANISH        "^1Woods: ^7Come on, Mason!  Finish it!"
+
+REFERENCE           AFGHANISTAN_VOX_VOX_AFG_2_04_018A_MASO_D
+LANG_SPANISH        "^1Mason: ^7The BTR's history!"
+
+REFERENCE           AFGHANISTAN_VOX_VOX_AFG_2_04_020A_WOOD_M
+LANG_SPANISH        "^1Woods: ^7Fucking - A!"
+
+REFERENCE           AFGHANISTAN_VOX_VOX_AFG_2_04_020A_WOOD_S
+LANG_SPANISH        "^1Woods: ^7Alright!"
+
+REFERENCE           AFGHANISTAN_VOX_VOX_AFG_2_04_021A_WOOD_D
+LANG_SPANISH        "^1Woods: ^7Nice work, Mason!"
+
+REFERENCE           AFGHANISTAN_VOX_VOX_AFG_2_04_022A_ZHAO_D
+LANG_SPANISH        "^1Zhao: ^7You fight bravely, American."
+
+REFERENCE           AFGHANISTAN_VOX_VOX_AFG_2_04_023A_ZHAO_D
+LANG_SPANISH        "^1Zhao: ^7Another BTR is headed this way!"
+
+REFERENCE           AFGHANISTAN_VOX_VOX_AFG_2_04_024A_WOOD_M
+LANG_SPANISH        "^1Woods: ^7Shit!  We got another BTR rolling up!"
+
+REFERENCE           AFGHANISTAN_VOX_VOX_AFG_2_04_024A_WOOD_S
+LANG_SPANISH        "^1Woods: ^7We got another BTR rolling up!"
+
+REFERENCE           AFGHANISTAN_VOX_VOX_AFG_2_04_025A_WOOD_D
+LANG_SPANISH        "^1Woods: ^7Watch your fire, Mason!"
+
+REFERENCE           AFGHANISTAN_VOX_VOX_AFG_2_04_026A_WOOD_M
+LANG_SPANISH        "^1Woods: ^7They're on our side, dammit!"
+
+REFERENCE           AFGHANISTAN_VOX_VOX_AFG_2_04_026A_WOOD_S
+LANG_SPANISH        "^1Woods: ^7They're on our side!"
+
+REFERENCE           AFGHANISTAN_VOX_VOX_AFG_2_04_047A_ZHAO_D
+LANG_SPANISH        "^1Zhao: ^7The Mujahideen can handle infantry."
+
+REFERENCE           AFGHANISTAN_VOX_VOX_AFG_2_04_048A_WOOD_M
+LANG_SPANISH        "^1Woods: ^7Let's make damn sure no more vehicles make it through here."
+
+REFERENCE           AFGHANISTAN_VOX_VOX_AFG_2_04_048A_WOOD_S
+LANG_SPANISH        "^1Woods: ^7Let's make sure no more vehicles make it through here."
+
+REFERENCE           AFGHANISTAN_VOX_VOX_AFG_2_04_049A_WOOD_D
+LANG_SPANISH        "^1Woods: ^7Mason, put a cratering charge under the archway."
+
+REFERENCE           AFGHANISTAN_VOX_VOX_AFG_2_04_050A_MASO_D
+LANG_SPANISH        "^1Mason: ^7Charge set!"
+
+REFERENCE           AFGHANISTAN_VOX_VOX_AFG_2_04_053A_WOOD_D
+LANG_SPANISH        "^1Woods: ^7Blow it, Mason."
+
+REFERENCE           AFGHANISTAN_VOX_VOX_AFG_2_04_054A_WOOD_D
+LANG_SPANISH        "^1Woods: ^7That'll do it."
+
+REFERENCE           AFGHANISTAN_VOX_VOX_AFG_2_04_055A_MASO_D
+LANG_SPANISH        "^1Mason: ^7Hudson.  The west choke point is secure.  Armor ain't getting through this way."
+
+REFERENCE           AFGHANISTAN_VOX_VOX_AFG_2_04_056A_HUDS_D
+LANG_SPANISH        "^1Hudson: ^7Not a moment too soon."
+
+REFERENCE           AFGHANISTAN_VOX_VOX_AFG_2_04_057A_HUDS_D
+LANG_SPANISH        "^1Hudson: ^7Scouts report enemy gunships to the north of the valley."
+
+REFERENCE           AFGHANISTAN_VOX_VOX_AFG_2_04_059A_HUDS_D
+LANG_SPANISH        "^1Hudson: ^7Ensure they don't push through to the base."
+
+REFERENCE           AFGHANISTAN_VOX_VOX_AFG_2_04_060A_MASO_D
+LANG_SPANISH        "^1Mason: ^7We're on it, Hudson."
+
+REFERENCE           AFGHANISTAN_VOX_VOX_AFG_2_04_061A_WOOD_D
+LANG_SPANISH        "^1Woods: ^7Let's ride!  Hya!"
+
+REFERENCE           AFGHANISTAN_VOX_VOX_AFG_2_04_062A_ZHAO_D
+LANG_SPANISH        "^1Zhao: ^7Mason. The Mujahideen have horses throughout the valley."
+
+REFERENCE           AFGHANISTAN_VOX_VOX_AFG_2_04_063A_WOOD_D
+LANG_SPANISH        "^1Woods: ^7Be a long walk without one..."
+
+REFERENCE           AFGHANISTAN_VOX_VOX_AFG_2_04_064A_WOOD_D
+LANG_SPANISH        "^1Woods: ^7Mason, find a horse."
+
+REFERENCE           AFGHANISTAN_VOX_VOX_AFG_2_04_065A_ZHAO_D
+LANG_SPANISH        "^1Zhao: ^7The Mujahideen are losing ground!  We cannot let the Russians gain a foothold."
+
+REFERENCE           AFGHANISTAN_VOX_VOX_AFG_2_04_071A_MASO_D
+LANG_SPANISH        "^1Mason: ^7Come on!!!"
+
+REFERENCE           AFGHANISTAN_VOX_VOX_AFG_2_04_080A_HUDS_D
+LANG_SPANISH        "^1Hudson: ^7Mullah Rahmaan is concerned.  He thinks we're losing the fight."
+
+REFERENCE           AFGHANISTAN_VOX_VOX_AFG_2_04_081A_WOOD_M
+LANG_SPANISH        "^1Woods: ^7You tell Rahmaan from me, I don't give a shit about his concerns."
+
+REFERENCE           AFGHANISTAN_VOX_VOX_AFG_2_04_081A_WOOD_S
+LANG_SPANISH        "^1Woods: ^7You tell Rahmaan from me, I don't care about his concerns."
+
+REFERENCE           AFGHANISTAN_VOX_VOX_AFG_2_04_082A_WOOD_M
+LANG_SPANISH        "^1Woods: ^7We'll kick fucking ass, same as always."
+
+REFERENCE           AFGHANISTAN_VOX_VOX_AFG_2_04_082A_WOOD_S
+LANG_SPANISH        "^1Woods: ^7We'll get it done, same as always."
+
+REFERENCE           AFGHANISTAN_VOX_VOX_AFG_2_04_083A_WOOD_D
+LANG_SPANISH        "^1Woods: ^7Just tell him he'd better come through with his intel on Menendez."
+
+REFERENCE           AFGHANISTAN_VOX_VOX_AFG_2_04_084A_MASO_D
+LANG_SPANISH        "^1Mason: ^7Infantry fast roping in!"
+
+REFERENCE           AFGHANISTAN_VOX_VOX_AFG_2_04_085A_WOOD_D
+LANG_SPANISH        "^1Woods: ^7Don't let their feet touch the ground!"
+
+REFERENCE           AFGHANISTAN_VOX_VOX_AFG_2_04_086A_ZHAO_D
+LANG_SPANISH        "^1Zhao: ^7Target the helicopters, Mason!"
+
+REFERENCE           AFGHANISTAN_VOX_VOX_AFG_2_04_096A_HUDS_D
+LANG_SPANISH        "^1Hudson: ^7Woods, the Russians didn't clock you as Americans, right?"
+
+REFERENCE           AFGHANISTAN_VOX_VOX_AFG_2_04_097A_WOOD_D
+LANG_SPANISH        "^1Woods: ^7Uh... Hudson, you're breaking up there."
+
+REFERENCE           AFGHANISTAN_VOX_VOX_AFG_2_04_098A_WOOD_M
+LANG_SPANISH        "^1Woods: ^7Dick."
+
+REFERENCE           AFGHANISTAN_VOX_VOX_AFG_2_04_098A_WOOD_S
+LANG_SPANISH        "^1Woods: ^7(sigh)"
+
+REFERENCE           AFGHANISTAN_VOX_VOX_AFG_2_05_002A_ZHAO_D
+LANG_SPANISH        "^1Zhao: ^7The Mujahideen are pinned down."
+
+REFERENCE           AFGHANISTAN_VOX_VOX_AFG_2_05_003A_WOOD_D
+LANG_SPANISH        "^1Woods: ^7Mason, take the high ground!"
+
+REFERENCE           AFGHANISTAN_VOX_VOX_AFG_2_05_004A_WOOD_D
+LANG_SPANISH        "^1Woods: ^7Get on the ledges.  Give the Muj some support."
+
+REFERENCE           AFGHANISTAN_VOX_VOX_AFG_2_05_005A_WOOD_D
+LANG_SPANISH        "^1Woods: ^7Tear 'em up, Mason."
+
+REFERENCE           AFGHANISTAN_VOX_VOX_AFG_2_05_006A_WOOD_M
+LANG_SPANISH        "^1Woods: ^7Don't let the bastards out of the riverbed!"
+
+REFERENCE           AFGHANISTAN_VOX_VOX_AFG_2_05_006A_WOOD_S
+LANG_SPANISH        "^1Woods: ^7Don't let 'em out of the riverbed!"
+
+REFERENCE           AFGHANISTAN_VOX_VOX_AFG_2_05_007A_WOOD_D
+LANG_SPANISH        "^1Woods: ^7Stay on 'em."
+
+REFERENCE           AFGHANISTAN_VOX_VOX_AFG_2_05_008A_WOOD_M
+LANG_SPANISH        "^1Woods: ^7Fucking bridges are letting them roll right in."
+
+REFERENCE           AFGHANISTAN_VOX_VOX_AFG_2_05_008A_WOOD_S
+LANG_SPANISH        "^1Woods: ^7Bridges are letting them roll right in."
+
+REFERENCE           AFGHANISTAN_VOX_VOX_AFG_2_05_009A_WOOD_D
+LANG_SPANISH        "^1Woods: ^7How you doing for cratering charges?"
+
+REFERENCE           AFGHANISTAN_VOX_VOX_AFG_2_05_010A_MASO_D
+LANG_SPANISH        "^1Mason: ^7I got enough to bring down half this valley."
+
+REFERENCE           AFGHANISTAN_VOX_VOX_AFG_2_05_011A_WOOD_D
+LANG_SPANISH        "^1Woods: ^7Do it."
+
+REFERENCE           AFGHANISTAN_VOX_VOX_AFG_2_05_012A_WOOD_D
+LANG_SPANISH        "^1Woods: ^7Mason, RPG!  Bring down those bridges!"
+
+REFERENCE           AFGHANISTAN_VOX_VOX_AFG_2_05_013A_WOOD_M
+LANG_SPANISH        "^1Woods: ^7Put an RPG into that damn bridge!"
+
+REFERENCE           AFGHANISTAN_VOX_VOX_AFG_2_05_013A_WOOD_S
+LANG_SPANISH        "^1Woods: ^7Put an RPG into that bridge!"
+
+REFERENCE           AFGHANISTAN_VOX_VOX_AFG_2_05_014A_WOOD_M
+LANG_SPANISH        "^1Woods: ^7That bridge, Mason!  Hit it with a fucking rocket."
+
+REFERENCE           AFGHANISTAN_VOX_VOX_AFG_2_05_014A_WOOD_S
+LANG_SPANISH        "^1Woods: ^7The bridge!  Mason, hit it with a rocket!"
+
+REFERENCE           AFGHANISTAN_VOX_VOX_AFG_2_05_015A_WOOD_M
+LANG_SPANISH        "^1Woods: ^7Hell, Yeah!"
+
+REFERENCE           AFGHANISTAN_VOX_VOX_AFG_2_05_015A_WOOD_S
+LANG_SPANISH        "^1Woods: ^7Yeah!"
+
+REFERENCE           AFGHANISTAN_VOX_VOX_AFG_2_05_025A_ZHAO_D
+LANG_SPANISH        "^1Zhao: ^7Brute force and strength in numbers?  You expected such a fight."
+
+REFERENCE           AFGHANISTAN_VOX_VOX_AFG_2_05_026A_WOOD_D
+LANG_SPANISH        "^1Woods: ^7Doesn't mean I wanted it."
+
+REFERENCE           AFGHANISTAN_VOX_VOX_AFG_2_05_027A_WOOD_D
+LANG_SPANISH        "^1Woods: ^7Come on!"
+
+REFERENCE           AFGHANISTAN_VOX_VOX_AFG_2_05_028A_HUDS_D
+LANG_SPANISH        "^1Hudson: ^7Mason, you sure you can pull this off?  Rahmaan is about to abandon the camp."
+
+REFERENCE           AFGHANISTAN_VOX_VOX_AFG_2_05_029A_MASO_D
+LANG_SPANISH        "^1Mason: ^7We got this, Hudson.  Just make sure he doesn't leave your sight.  We need him!"
+
+REFERENCE           AFGHANISTAN_VOX_VOX_AFG_2_05_032A_WOOD_D
+LANG_SPANISH        "^1Woods: ^7Stay on 'em!"
+
+REFERENCE           AFGHANISTAN_VOX_VOX_AFG_2_05_033A_WOOD_M
+LANG_SPANISH        "^1Woods: ^7The Russians must have sent half their damn armor!"
+
+REFERENCE           AFGHANISTAN_VOX_VOX_AFG_2_05_033A_WOOD_S
+LANG_SPANISH        "^1Woods: ^7The Russians must have sent half their armor!"
+
+REFERENCE           AFGHANISTAN_VOX_VOX_AFG_2_05_037A_WOOD_M
+LANG_SPANISH        "^1Woods: ^7I've had enough of this shit, Mason!  Nail that bastard!"
+
+REFERENCE           AFGHANISTAN_VOX_VOX_AFG_2_05_037A_WOOD_S
+LANG_SPANISH        "^1Woods: ^7I've had enough of this, Mason!  Nail that tank!"
+
+REFERENCE           AFGHANISTAN_VOX_VOX_AFG_2_05_063A_WOOD_D
+LANG_SPANISH        "^1Woods: ^7Upstairs!  Building with the red banner!"
+
+REFERENCE           AFGHANISTAN_VOX_VOX_AFG_3_01_001A_WOOD_M
+LANG_SPANISH        "^1Woods: ^7Shit... Mason, you better take a look."
+
+REFERENCE           AFGHANISTAN_VOX_VOX_AFG_3_01_001A_WOOD_S
+LANG_SPANISH        "^1Woods: ^7Mason, you better take a look."
+
+REFERENCE           AFGHANISTAN_VOX_VOX_AFG_3_01_002A_MASO_D
+LANG_SPANISH        "^1Mason: ^7The Russians want to give us one last display of brute force."
+
+REFERENCE           AFGHANISTAN_VOX_VOX_AFG_3_01_005A_WOOD_D
+LANG_SPANISH        "^1Woods: ^7Hya!"
+
+REFERENCE           AFGHANISTAN_VOX_VOX_AFG_3_01_006A_MASO_D
+LANG_SPANISH        "^1Mason: ^7Kravchenko!"
+
+REFERENCE           AFGHANISTAN_VOX_VOX_AFG_3_01_007A_MASO_D
+LANG_SPANISH        "^1Mason: ^7Let's give 'em one last display of courage."
+
+REFERENCE           AFGHANISTAN_VOX_VOX_AFG_3_01_007L_REZN_D
+LANG_SPANISH        "^1Reznov: ^7Mason!"
+
+REFERENCE           AFGHANISTAN_VOX_VOX_AFG_3_01_008A_MASO_D
+LANG_SPANISH        "^1Mason: ^7AAAARGH!"
+
+REFERENCE           AFGHANISTAN_VOX_VOX_AFG_3_01_010A_MASO_D
+LANG_SPANISH        "^1Mason: ^7This isn't over yet."
+
+REFERENCE           AFGHANISTAN_VOX_VOX_AFG_3_01_011A_MASO_D
+LANG_SPANISH        "^1Mason: ^7You with me?"
+
+REFERENCE           AFGHANISTAN_VOX_VOX_AFG_3_01_012A_HUDS_D
+LANG_SPANISH        "^1Hudson: ^7Mason.  Return to the base.  We have a problem."
+
+REFERENCE           AFGHANISTAN_VOX_VOX_AFG_3_01_013A_MASO_D
+LANG_SPANISH        "^1Mason: ^7What kind of problem?"
+
+REFERENCE           AFGHANISTAN_VOX_VOX_AFG_3_01_014A_HUDS_D
+LANG_SPANISH        "^1Hudson: ^7You'd better see it for yourself."
+
+REFERENCE           AFGHANISTAN_VOX_VOX_AFG_4_08_001A_REZN_D
+LANG_SPANISH        "^1Reznov: ^7Kravchenko...must die."
+
+REFERENCE           AFGHANISTAN_VOX_VOX_AFG_4_08_002A_WOOD_D
+LANG_SPANISH        "^1Woods: ^7Lev Kravchenko."
+
+REFERENCE           AFGHANISTAN_VOX_VOX_AFG_4_08_003A_SECT_D
+LANG_SPANISH        "^1Section: ^7The Russian who brainwashed my father?"
+
+REFERENCE           AFGHANISTAN_VOX_VOX_AFG_4_08_004A_WOOD_M
+LANG_SPANISH        "^1Woods: ^7Yeah. Same bastard who killed me."
+
+REFERENCE           AFGHANISTAN_VOX_VOX_AFG_4_08_004A_WOOD_S
+LANG_SPANISH        "^1Woods: ^7Yeah. Same one who killed me."
+
+REFERENCE           AFGHANISTAN_VOX_VOX_AFG_4_08_005A_REZN_D
+LANG_SPANISH        "^1Reznov: ^7Kravchenko... must die."
+
+REFERENCE           AFGHANISTAN_VOX_VOX_AFG_4_09_001A_REZN_D
+LANG_SPANISH        "^1Reznov: ^7Kravchenko."
+
+REFERENCE           AFGHANISTAN_VOX_VOX_AFG_4_09_002A_REZN_D
+LANG_SPANISH        "^1Reznov: ^7Must die."
+
+REFERENCE           AFGHANISTAN_VOX_VOX_AFG_4_09_004A_WOOD_M
+LANG_SPANISH        "^1Woods: ^7Seeing those fucking numbers again?!"
+
+REFERENCE           AFGHANISTAN_VOX_VOX_AFG_4_09_004A_WOOD_S
+LANG_SPANISH        "^1Woods: ^7Seeing those numbers again?!"
+
+REFERENCE           AFGHANISTAN_VOX_VOX_AFG_4_09_005A_MASO_D
+LANG_SPANISH        "^1Mason: ^7I could feel them, but they're gone now."
+
+REFERENCE           AFGHANISTAN_VOX_VOX_AFG_4_09_006A_MASO_D
+LANG_SPANISH        "^1Mason: ^7Trust me, Woods.  I'm fine."
+
+REFERENCE           AFGHANISTAN_VOX_VOX_AFG_5_02_001A_HUDS_D
+LANG_SPANISH        "^1Hudson: ^7Woods, maybe I should handle this interrogation."
+
+REFERENCE           AFGHANISTAN_VOX_VOX_AFG_5_02_002A_WOOD_M
+LANG_SPANISH        "^1Woods: ^7Maybe you stay the fuck out of my way.  I've got unfinished business with this bastard."
+
+REFERENCE           AFGHANISTAN_VOX_VOX_AFG_5_02_002A_WOOD_S
+LANG_SPANISH        "^1Woods: ^7Maybe you stay the ---- out of my way.  I've got unfinished business with this -------."
+
+REFERENCE           AFGHANISTAN_VOX_VOX_AFG_5_02_003A_KRAV_D
+LANG_SPANISH        "^1Kravchenko: ^7I left you to rot in Vietnam, Sergeant Woods.  You should be dead."
+
+REFERENCE           AFGHANISTAN_VOX_VOX_AFG_5_02_004A_WOOD_D
+LANG_SPANISH        "^1Woods: ^7Well, nobody told me."
+
+REFERENCE           AFGHANISTAN_VOX_VOX_AFG_5_02_005A_KRAV_D
+LANG_SPANISH        "^1Kravchenko: ^7Americans don't like getting their hands dirty in Afghanistan.  What is your real interest here?"
+
+REFERENCE           AFGHANISTAN_VOX_VOX_AFG_5_02_006A_WOOD_D
+LANG_SPANISH        "^1Woods: ^7You are."
+
+REFERENCE           AFGHANISTAN_VOX_VOX_AFG_5_03_001A_WOOD_D
+LANG_SPANISH        "^1Woods: ^7My buddy Rahman tells me you're in business with a Nicaraguan named Raul Menendez."
+
+REFERENCE           AFGHANISTAN_VOX_VOX_AFG_5_03_002A_WOOD_D
+LANG_SPANISH        "^1Woods: ^7What do you do for him?"
+
+REFERENCE           AFGHANISTAN_VOX_VOX_AFG_5_03_003A_KRAV_M
+LANG_SPANISH        "^1Kravchenko: ^7Fuck you."
+
+REFERENCE           AFGHANISTAN_VOX_VOX_AFG_5_03_003A_KRAV_S
+LANG_SPANISH        "^1Kravchenko: ^7...you."
+
+REFERENCE           AFGHANISTAN_VOX_VOX_AFG_5_03_004A_KRAV_D
+LANG_SPANISH        "^1Kravchenko: ^7AAAARGH!"
+
+REFERENCE           AFGHANISTAN_VOX_VOX_AFG_5_03_005A_KRAV_D
+LANG_SPANISH        "^1Kravchenko: ^7You can't begin to imagine what Menendez would do to me if I talk."
+
+REFERENCE           AFGHANISTAN_VOX_VOX_AFG_5_03_006A_WOOD_D
+LANG_SPANISH        "^1Woods: ^7You think you're walking out of here alive?"
+
+REFERENCE           AFGHANISTAN_VOX_VOX_AFG_5_03_007A_WOOD_D
+LANG_SPANISH        "^1Woods: ^7This is the Mujahideen, baby."
+
+REFERENCE           AFGHANISTAN_VOX_VOX_AFG_5_03_008A_WOOD_D
+LANG_SPANISH        "^1Woods: ^7They'll bury you up to your neck, peel your eyelids back and leave you to fry in the desert."
+
+REFERENCE           AFGHANISTAN_VOX_VOX_AFG_5_03_009A_WOOD_D
+LANG_SPANISH        "^1Woods: ^7I'll take you out quick."
+
+REFERENCE           AFGHANISTAN_VOX_VOX_AFG_5_03_010A_WOOD_D
+LANG_SPANISH        "^1Woods: ^7Tell me about Menendez."
+
+REFERENCE           AFGHANISTAN_VOX_VOX_AFG_5_03_011A_KRAV_D
+LANG_SPANISH        "^1Kravchenko: ^7I sell him weapons."
+
+REFERENCE           AFGHANISTAN_VOX_VOX_AFG_5_03_012A_WOOD_D
+LANG_SPANISH        "^1Woods: ^7That doesn't sound too Soviet of you, brother."
+
+REFERENCE           AFGHANISTAN_VOX_VOX_AFG_5_03_013A_KRAV_D
+LANG_SPANISH        "^1Kravchenko: ^7The Soviet Union is dying.  Money is all that matters."
+
+REFERENCE           AFGHANISTAN_VOX_VOX_AFG_5_03_014A_WOOD_D
+LANG_SPANISH        "^1Woods: ^7Where do the weapons go?"
+
+REFERENCE           AFGHANISTAN_VOX_VOX_AFG_5_03_015A_KRAV_D
+LANG_SPANISH        "^1Kravchenko: ^7Cuba... Angola... The third world..."
+
+REFERENCE           AFGHANISTAN_VOX_VOX_AFG_5_03_016A_WOOD_D
+LANG_SPANISH        "^1Woods: ^7Why?"
+
+REFERENCE           AFGHANISTAN_VOX_VOX_AFG_5_03_018A_KRAV_D
+LANG_SPANISH        "^1Kravchenko: ^7Menendez wants to see your world burn."
+
+REFERENCE           AFGHANISTAN_VOX_VOX_AFG_5_03_019A_WOOD_D
+LANG_SPANISH        "^1Woods: ^7Well that's not gonna happen."
+
+REFERENCE           AFGHANISTAN_VOX_VOX_AFG_5_03_020A_KRAV_D
+LANG_SPANISH        "^1Kravchenko: ^7He's more powerful than you know."
+
+REFERENCE           AFGHANISTAN_VOX_VOX_AFG_5_03_021A_KRAV_D
+LANG_SPANISH        "^1Kravchenko: ^7He even has people in the CIA."
+
+REFERENCE           AFGHANISTAN_VOX_VOX_AFG_5_03_022A_HUDS_M
+LANG_SPANISH        "^1Hudson: ^7Bullshit.  This guy's fucking with us."
+
+REFERENCE           AFGHANISTAN_VOX_VOX_AFG_5_03_022A_HUDS_S
+LANG_SPANISH        "^1Hudson: ^7Bull----.  This guy's ----ing with us."
+
+REFERENCE           AFGHANISTAN_VOX_VOX_AFG_5_03_023A_MUJ0_D
+LANG_SPANISH        "^1Mujahideen: ^7Hands up!"
+
+REFERENCE           AFGHANISTAN_VOX_VOX_AFG_5_03_024A_MUJ1_D
+LANG_SPANISH        "^1Mujahideen: ^7Don't move!"
+
+REFERENCE           AFGHANISTAN_VOX_VOX_AFG_5_03_025A_MUJ1_D
+LANG_SPANISH        "^1Mujahideen: ^7He said, hands up!"
+
+REFERENCE           AFGHANISTAN_VOX_VOX_AFG_5_03_026A_MUJ0_D
+LANG_SPANISH        "^1Mujahideen: ^7Grab him!"
+
+REFERENCE           AFGHANISTAN_VOX_VOX_AFG_5_04_001A_WOOD_M
+LANG_SPANISH        "^1Woods: ^7What the fuck are you doing?!"
+
+REFERENCE           AFGHANISTAN_VOX_VOX_AFG_5_04_001A_WOOD_S
+LANG_SPANISH        "^1Woods: ^7What the ---- are you doing?!"
+
+REFERENCE           AFGHANISTAN_VOX_VOX_AFG_5_04_002A_RAHM_D
+LANG_SPANISH        "^1Rahmaan: ^7Menendez told me you must suffer."
+
+REFERENCE           AFGHANISTAN_VOX_VOX_AFG_5_04_003A_WOOD_M
+LANG_SPANISH        "^1Woods: ^7You two faced piece of shit!"
+
+REFERENCE           AFGHANISTAN_VOX_VOX_AFG_5_04_003A_WOOD_S
+LANG_SPANISH        "^1Woods: ^7You two faced piece of ----!"
+
+REFERENCE           AFGHANISTAN_VOX_VOX_AFG_5_04_004A_WOOD_D
+LANG_SPANISH        "^1Woods: ^7We helped you fight the Russians!  We're on your side!!"
+
+REFERENCE           AFGHANISTAN_VOX_VOX_AFG_5_04_005A_RAHM_D
+LANG_SPANISH        "^1Rahmaan: ^7No. No, you are, and always will be, our true enemy."
+
+REFERENCE           AFGHANISTAN_VOX_VOX_AFG_6_01_001A_RAHM_D
+LANG_SPANISH        "^1Rahmaan: ^7Without water and shelter, you may last a day... If you are strong."
+
+REFERENCE           AFGHANISTAN_VOX_VOX_AFG_6_02_001A_MASO_D
+LANG_SPANISH        "^1Mason: ^7Reznov..."
+
+REFERENCE           AFGHANISTAN_VOX_VOX_AFG_6_02_002A_WOOD_D
+LANG_SPANISH        "^1Woods: ^7Your father swore it was Viktor Reznov that saved us, but no one else saw him."
+
+REFERENCE           AFGHANISTAN_VOX_VOX_AFG_6_02_003A_WOOD_D
+LANG_SPANISH        "^1Woods: ^7If it was him, he sure didn't stick around."
+
+REFERENCE           AFGHANISTAN_VOX_VOX_AFG_6_02_004A_MASO_D
+LANG_SPANISH        "^1Mason: ^7No... No, they'll..."
+
+REFERENCE           AFGHANISTAN_VOX_VOX_AFG_6_02_005A_MASO_D
+LANG_SPANISH        "^1Mason: ^7Frank... Frank!  Frank..."
+
+REFERENCE           AFGHANISTAN_VOX_VOX_AFG_7_03_061A_WOOD_M
+LANG_SPANISH        "^1Woods: ^7We chased those fuckers right out the valley."
+
+REFERENCE           AFGHANISTAN_VOX_VOX_AFG_7_03_061A_WOOD_S
+LANG_SPANISH        "^1Woods: ^7We chased those guys right out the valley."
+
+REFERENCE           AFGHANISTAN_VOX_VOX_AFG_7_03_062A_WOOD_D
+LANG_SPANISH        "^1Woods: ^7But if there's one thing I learned about Russians a long time ago..."
+
+REFERENCE           AFGHANISTAN_VOX_VOX_AFG_7_03_063A_WOOD_D
+LANG_SPANISH        "^1Woods: ^7It's that it doesn't matter what you throw at them... They'll just keep coming."
+
+REFERENCE           AFGHANISTAN_VOX_VOX_AFG_9_02_001A_ZHAO_D
+LANG_SPANISH        "^1Zhao: ^7Stay with me, Mason."
+
+REFERENCE           AFGHANISTAN_VOX_VOX_AFG_9_02_002A_ZHAO_D
+LANG_SPANISH        "^1Zhao: ^7Follow me."
+
+REFERENCE           AFGHANISTAN_VOX_VOX_AFG_9_02_003A_ZHAO_D
+LANG_SPANISH        "^1Zhao: ^7Stay Close."
+
+REFERENCE           AFGHANISTAN_VOX_VOX_AFG_9_02_004A_ZHAO_D
+LANG_SPANISH        "^1Zhao: ^7Keep up, Mason."
+
+REFERENCE           AFGHANISTAN_VOX_VOX_AFG_9_02_005A_WOOD_D
+LANG_SPANISH        "^1Woods: ^7Keep up, Mason."
+
+REFERENCE           AFGHANISTAN_VOX_VOX_AFG_9_02_006A_WOOD_D
+LANG_SPANISH        "^1Woods: ^7Stay close to me."
+
+REFERENCE           AFGHANISTAN_VOX_VOX_AFG_9_02_007A_WOOD_D
+LANG_SPANISH        "^1Woods: ^7This way.  Follow me."
+
+REFERENCE           AFGHANISTAN_VOX_VOX_AFG_9_02_008A_WOOD_D
+LANG_SPANISH        "^1Woods: ^7Stay with me, Mason."
+
+REFERENCE           AFGHANISTAN_VOX_VOX_AFG_9_02_009A_WOOD_D
+LANG_SPANISH        "^1Woods: ^7Quit messin' around, Mason!"
+
+REFERENCE           AFGHANISTAN_VOX_VOX_AFG_9_02_010A_WOOD_D
+LANG_SPANISH        "^1Woods: ^7Get back here!  We still got a battle on our hands."
+
+REFERENCE           AFGHANISTAN_VOX_VOX_AFG_9_02_011A_WOOD_D
+LANG_SPANISH        "^1Woods: ^7Hey!  Get your head in the game, Mason!"
+
+REFERENCE           AFGHANISTAN_VOX_VOX_AFG_9_02_012A_WOOD_M
+LANG_SPANISH        "^1Woods: ^7Where the hell are you goin'?"
+
+REFERENCE           AFGHANISTAN_VOX_VOX_AFG_9_02_012A_WOOD_S
+LANG_SPANISH        "^1Woods: ^7Where you goin'?"
+
+REFERENCE           AFGHANISTAN_VOX_VOX_AFG_9_02_013A_WOOD_D
+LANG_SPANISH        "^1Woods: ^7Get outta there!"
+
+REFERENCE           AFGHANISTAN_VOX_VOX_AFG_9_02_014A_WOOD_D
+LANG_SPANISH        "^1Woods: ^7Mason!  You're going the wrong way!"
+
+REFERENCE           AFGHANISTAN_VOX_VOX_AFG_9_02_015A_ZHAO_D
+LANG_SPANISH        "^1Zhao: ^7We need to get moving!"
+
+REFERENCE           AFGHANISTAN_VOX_VOX_AFG_9_02_016A_ZHAO_D
+LANG_SPANISH        "^1Zhao: ^7That's all we can do.  Let's go!"
+
+REFERENCE           AFGHANISTAN_VOX_VOX_AFG_9_02_017A_ZHAO_D
+LANG_SPANISH        "^1Zhao: ^7Let's get moving."
+
+REFERENCE           AFGHANISTAN_VOX_VOX_AFG_9_02_018A_ZHAO_D
+LANG_SPANISH        "^1Zhao: ^7Let's go."
+
+REFERENCE           AFGHANISTAN_VOX_VOX_AFG_9_02_019A_ZHAO_D
+LANG_SPANISH        "^1Zhao: ^7Push forward, Mason!"
+
+REFERENCE           AFGHANISTAN_VOX_VOX_AFG_9_02_020A_WOOD_D
+LANG_SPANISH        "^1Woods: ^7Let's go, Mason."
+
+REFERENCE           AFGHANISTAN_VOX_VOX_AFG_9_02_021A_WOOD_D
+LANG_SPANISH        "^1Woods: ^7Time to go.  Come on!"
+
+REFERENCE           AFGHANISTAN_VOX_VOX_AFG_9_02_022A_WOOD_D
+LANG_SPANISH        "^1Woods: ^7Forward, Mason."
+
+REFERENCE           AFGHANISTAN_VOX_VOX_AFG_9_02_023A_WOOD_D
+LANG_SPANISH        "^1Woods: ^7We need to go!"
+
+REFERENCE           AFGHANISTAN_VOX_VOX_AFG_9_02_024A_WOOD_D
+LANG_SPANISH        "^1Woods: ^7Come on.  Let's go!"
+
+REFERENCE           AFGHANISTAN_VOX_VOX_AFG_9_02_025A_WOOD_M
+LANG_SPANISH        "^1Woods: ^7Let's get the hell outta here."
+
+REFERENCE           AFGHANISTAN_VOX_VOX_AFG_9_02_025A_WOOD_S
+LANG_SPANISH        "^1Woods: ^7Let's get outta here."
+
+REFERENCE           AFGHANISTAN_VOX_VOX_AFG_9_02_026A_WOOD_D
+LANG_SPANISH        "^1Woods: ^7We're done here.  Let's go."
+
+REFERENCE           AFGHANISTAN_VOX_VOX_AFG_9_02_027A_WOOD_D
+LANG_SPANISH        "^1Woods: ^7Checkpoint's sealed.  Time to go."
+
+REFERENCE           AFGHANISTAN_VOX_VOX_AFG_9_02_028A_WOOD_D
+LANG_SPANISH        "^1Woods: ^7Come on, Mason.  We got bigger fish to fry."
+
+REFERENCE           AFGHANISTAN_VOX_VOX_AFG_9_02_029A_WOOD_D
+LANG_SPANISH        "^1Woods: ^7Leave the rest to the Muj."
+
+REFERENCE           AFGHANISTAN_VOX_VOX_AFG_9_02_030A_WOOD_D
+LANG_SPANISH        "^1Woods: ^7That's the last of 'em.  Come on!"
+
+REFERENCE           AFGHANISTAN_VOX_VOX_AFG_9_02_031A_WOOD_D
+LANG_SPANISH        "^1Woods: ^7Vehicles are down.  Move out."
+
+REFERENCE           AFGHANISTAN_VOX_VOX_AFG_9_02_032A_WOOD_D
+LANG_SPANISH        "^1Woods: ^7Blow it!  Make sure no more vehicles come through."
+
+REFERENCE           AFGHANISTAN_VOX_VOX_AFG_9_02_033A_WOOD_D
+LANG_SPANISH        "^1Woods: ^7You trying to blow yourself, up?!!"
+
+REFERENCE           AFGHANISTAN_VOX_VOX_AFG_9_02_034A_WOOD_D
+LANG_SPANISH        "^1Woods: ^7Back it up, Mason."
+
+REFERENCE           AFGHANISTAN_VOX_VOX_AFG_9_02_035A_WOOD_D
+LANG_SPANISH        "^1Woods: ^7Retreat to a safe distance."
+
+REFERENCE           AFGHANISTAN_VOX_VOX_AFG_9_02_036A_WOOD_D
+LANG_SPANISH        "^1Woods: ^7You're too close, Mason.  Get over here."
+
+REFERENCE           AFGHANISTAN_VOX_VOX_AFG_9_02_037A_WOOD_D
+LANG_SPANISH        "^1Woods: ^7Mason.  Come over here."
+
+REFERENCE           AFGHANISTAN_VOX_VOX_AFG_9_02_038A_WOOD_D
+LANG_SPANISH        "^1Woods: ^7Come here and blow that crater charge."
+
+REFERENCE           AFGHANISTAN_VOX_VOX_AFG_9_02_039A_WOOD_M
+LANG_SPANISH        "^1Woods: ^7Where the hell are you, Mason?"
+
+REFERENCE           AFGHANISTAN_VOX_VOX_AFG_9_02_039A_WOOD_S
+LANG_SPANISH        "^1Woods: ^7Where are you, Mason?"
+
+REFERENCE           AFGHANISTAN_VOX_VOX_AFG_9_02_040A_WOOD_D
+LANG_SPANISH        "^1Woods: ^7We need you with us."
+
+REFERENCE           AFGHANISTAN_VOX_VOX_AFG_9_02_041A_WOOD_D
+LANG_SPANISH        "^1Woods: ^7There's nothing else you can do.  Get moving."
+
+REFERENCE           AFGHANISTAN_VOX_VOX_AFG_9_02_042A_WOOD_D
+LANG_SPANISH        "^1Woods: ^7Job's done.  Gotta move, Mason."
+
+REFERENCE           AFGHANISTAN_VOX_VOX_AFG_9_03_001A_WOOD_D
+LANG_SPANISH        "^1Woods: ^7Don't get left behind, Mason.  You gotta follow us."
+
+REFERENCE           AFGHANISTAN_VOX_VOX_AFG_9_03_002A_WOOD_D
+LANG_SPANISH        "^1Woods: ^7We got UAZs targeting the weapons cache!"
+
+REFERENCE           AFGHANISTAN_VOX_VOX_AFG_9_03_003A_ZHAO_D
+LANG_SPANISH        "^1Zhao: ^7We must hurry!  The cache is under attack!"
+
+REFERENCE           AFGHANISTAN_VOX_VOX_AFG_9_03_004A_WOOD_D
+LANG_SPANISH        "^1Woods: ^7The weapons cache is under attack!"
+
+REFERENCE           AFGHANISTAN_VOX_VOX_AFG_9_03_005A_WOOD_D
+LANG_SPANISH        "^1Woods: ^7We got infantry repelling in!"
+
+REFERENCE           AFGHANISTAN_VOX_VOX_AFG_9_03_006A_WOOD_D
+LANG_SPANISH        "^1Woods: ^7We can't let them take the weapons cache!"
+
+REFERENCE           AFGHANISTAN_VOX_VOX_AFG_9_03_007A_WOOD_D
+LANG_SPANISH        "^1Woods: ^7Take out the UAZs!"
+
+REFERENCE           AFGHANISTAN_VOX_VOX_AFG_9_03_008A_WOOD_D
+LANG_SPANISH        "^1Woods: ^7Mason, stay on 'em!"
+
+REFERENCE           AFGHANISTAN_VOX_VOX_AFG_9_03_009A_WOOD_D
+LANG_SPANISH        "^1Woods: ^7The Muj need our help!"
+
+REFERENCE           AFGHANISTAN_VOX_VOX_AFG_9_03_010A_WOOD_D
+LANG_SPANISH        "^1Woods: ^7The Muj can't hold it on their own."
+
+REFERENCE           AFGHANISTAN_VOX_VOX_AFG_9_03_011A_WOOD_D
+LANG_SPANISH        "^1Woods: ^7Help the Muj, Mason!"
+
+REFERENCE           AFGHANISTAN_VOX_VOX_AFG_9_03_012A_WOOD_D
+LANG_SPANISH        "^1Woods: ^7The Muj can't hold the weapons cache without our help."
+
+REFERENCE           AFGHANISTAN_VOX_VOX_AFG_9_03_013A_WOOD_D
+LANG_SPANISH        "^1Woods: ^7The Muj are being overrun.  Help 'em, Mason!"
+
+REFERENCE           AFGHANISTAN_VOX_VOX_AFG_9_03_014A_WOOD_M
+LANG_SPANISH        "^1Woods: ^7Dammit! We got a BTR headed for the base!"
+
+REFERENCE           AFGHANISTAN_VOX_VOX_AFG_9_03_014A_WOOD_S
+LANG_SPANISH        "^1Woods: ^7We got a BTR headed for the base!"
+
+REFERENCE           AFGHANISTAN_VOX_VOX_AFG_9_03_015A_WOOD_D
+LANG_SPANISH        "^1Woods: ^7We can't let that BTR reach the base."
+
+REFERENCE           AFGHANISTAN_VOX_VOX_AFG_9_03_016A_WOOD_M
+LANG_SPANISH        "^1Woods: ^7Damn BTR will hit the Weapons cache at the base!"
+
+REFERENCE           AFGHANISTAN_VOX_VOX_AFG_9_03_016A_WOOD_S
+LANG_SPANISH        "^1Woods: ^7That BTR will hit the Weapons cache at the base!"
+
+REFERENCE           AFGHANISTAN_VOX_VOX_AFG_9_03_017A_WOOD_D
+LANG_SPANISH        "^1Woods: ^7Guess it's down to me to deal with it."
+
+REFERENCE           AFGHANISTAN_VOX_VOX_AFG_9_03_018A_WOOD_D
+LANG_SPANISH        "^1Woods: ^7I'm going after the BTR, Mason."
+
+REFERENCE           AFGHANISTAN_VOX_VOX_AFG_9_03_019A_WOOD_D
+LANG_SPANISH        "^1Woods: ^7Can't let it reach the base!"
+
+REFERENCE           AFGHANISTAN_VOX_VOX_AFG_9_03_020A_ZHAO_D
+LANG_SPANISH        "^1Zhao: ^7The Mujahideen need our help with the next choke point!"
+
+REFERENCE           AFGHANISTAN_VOX_VOX_AFG_9_03_021A_ZHAO_D
+LANG_SPANISH        "^1Zhao: ^7Without our help, they may lose the defensive position!"
+
+REFERENCE           AFGHANISTAN_VOX_VOX_AFG_9_03_022A_ZHAO_D
+LANG_SPANISH        "^1Zhao: ^7We need your help with the next choke point, Mason!"
+
+REFERENCE           AFGHANISTAN_VOX_VOX_AFG_9_03_023A_ZHAO_D
+LANG_SPANISH        "^1Zhao: ^7The Mujahideen cannot hold out without us!"
+
+REFERENCE           AFGHANISTAN_VOX_VOX_AFG_9_03_024A_ZHAO_D
+LANG_SPANISH        "^1Zhao: ^7I will head to the next choke point to help the Mujahideen."
+
+REFERENCE           AFGHANISTAN_VOX_VOX_AFG_9_03_025A_ZHAO_D
+LANG_SPANISH        "^1Zhao: ^7I will assist the Mujahideen at the choke point."
+
+REFERENCE           AFGHANISTAN_VOX_VOX_AFG_9_03_026A_ZHAO_D
+LANG_SPANISH        "^1Zhao: ^7I will defend the next choke point."
+
+REFERENCE           AFGHANISTAN_VOX_VOX_AFG_9_03_027A_ZHAO_D
+LANG_SPANISH        "^1Zhao: ^7I am moving to support the Mujahideen."
+
+REFERENCE           AFGHANISTAN_VOX_VOX_AFG_9_03_028A_ZHAO_D
+LANG_SPANISH        "^1Zhao: ^7I will ensure the choke point is defended."
+
+REFERENCE           AFGHANISTAN_VOX_VOX_AFG_9_03_029A_ZHAO_D
+LANG_SPANISH        "^1Zhao: ^7I'm heading to the choke point!"
+
+REFERENCE           AFGHANISTAN_VOX_VOX_AFG_9_03_030A_WOOD_D
+LANG_SPANISH        "^1Woods: ^7Mason, we lost a weapons cache."
+
+REFERENCE           AFGHANISTAN_VOX_VOX_AFG_9_03_031A_WOOD_D
+LANG_SPANISH        "^1Woods: ^7BTR rolled right through."
+
+REFERENCE           AFGHANISTAN_VOX_VOX_AFG_9_03_032A_WOOD_D
+LANG_SPANISH        "^1Woods: ^7Weapons cache at the base is down, Mason."
+
+REFERENCE           AFGHANISTAN_VOX_VOX_AFG_9_03_033A_WOOD_D
+LANG_SPANISH        "^1Woods: ^7We should have stopped that BTR."
+
+REFERENCE           AFGHANISTAN_VOX_VOX_AFG_9_03_034A_WOOD_D
+LANG_SPANISH        "^1Woods: ^7Yeah, Mason!  You smoked that BTR."
+
+REFERENCE           AFGHANISTAN_VOX_VOX_AFG_9_03_035A_WOOD_D
+LANG_SPANISH        "^1Woods: ^7That BTR picked the wrong people to mess with today."
+
+REFERENCE           AFGHANISTAN_VOX_VOX_AFG_9_03_036A_WOOD_D
+LANG_SPANISH        "^1Woods: ^7Let's get back to Zhao.  Hope he's still in one piece."
+
+REFERENCE           AFGHANISTAN_VOX_VOX_AFG_9_03_037A_WOOD_D
+LANG_SPANISH        "^1Woods: ^7Zhao needs our help, Mason.  Let's ride."
+
+REFERENCE           AFGHANISTAN_VOX_VOX_AFG_9_03_038A_WOOD_D
+LANG_SPANISH        "^1Woods: ^7Get that Hind, Mason!  Gotta bring him down."
+
+REFERENCE           AFGHANISTAN_VOX_VOX_AFG_9_04_001A_WOOD_D
+LANG_SPANISH        "^1Woods: ^7That tank's making a move on the base!"
+
+REFERENCE           AFGHANISTAN_VOX_VOX_AFG_9_04_002A_WOOD_D
+LANG_SPANISH        "^1Woods: ^7Hind's breaking off!  It's headed for the base!"
+
+REFERENCE           AFGHANISTAN_VOX_VOX_AFG_9_04_003A_WOOD_D
+LANG_SPANISH        "^1Woods: ^7Don't let them get to base!"
+
+REFERENCE           AFGHANISTAN_VOX_VOX_AFG_9_04_004A_WOOD_D
+LANG_SPANISH        "^1Woods: ^7Take 'em down before the reach the base!"
+
+REFERENCE           AFGHANISTAN_VOX_VOX_AFG_9_04_005A_WOOD_D
+LANG_SPANISH        "^1Woods: ^7I'm going after him!  On me!"
+
+REFERENCE           AFGHANISTAN_VOX_VOX_AFG_9_04_006A_WOOD_D
+LANG_SPANISH        "^1Woods: ^7Gotta stop 'em, Mason!"
+
+REFERENCE           AFGHANISTAN_VOX_VOX_AFG_9_04_007A_WOOD_M
+LANG_SPANISH        "^1Woods: ^7A few land mines will fuck those vehicles up!"
+
+REFERENCE           AFGHANISTAN_VOX_VOX_AFG_9_04_007A_WOOD_S
+LANG_SPANISH        "^1Woods: ^7A few land mines will take those vehicles out!"
+
+REFERENCE           AFGHANISTAN_VOX_VOX_AFG_9_04_008A_WOOD_D
+LANG_SPANISH        "^1Woods: ^7Use the mines to take out the vehicles!"
+
+REFERENCE           AFGHANISTAN_VOX_VOX_AFG_9_04_009A_WOOD_D
+LANG_SPANISH        "^1Woods: ^7Get those mines planted, Mason!"
+
+REFERENCE           AFGHANISTAN_VOX_VOX_AFG_9_04_010A_WOOD_D
+LANG_SPANISH        "^1Woods: ^7Try and lay them in the path of the vehicles!"
+
+REFERENCE           AFGHANISTAN_VOX_VOX_AFG_9_04_011A_WOOD_D
+LANG_SPANISH        "^1Woods: ^7Put a mine in the vehicle's path!"
+
+REFERENCE           AFGHANISTAN_VOX_VOX_AFG_9_04_012A_MASO_M
+LANG_SPANISH        "^1Mason: ^7Dammit!"
+
+REFERENCE           AFGHANISTAN_VOX_VOX_AFG_9_04_012A_MASO_S
+LANG_SPANISH        "^1Mason: ^7Aaarrgghh!"
+
+REFERENCE           AFGHANISTAN_VOX_VOX_AFG_9_04_014A_MASO_M
+LANG_SPANISH        "^1Mason: ^7Ya shoulda moved, fucker!"
+
+REFERENCE           AFGHANISTAN_VOX_VOX_AFG_9_04_014A_MASO_S
+LANG_SPANISH        "^1Mason: ^7Ya shoulda moved!"
+
+REFERENCE           AFGHANISTAN_VOX_VOX_AFG_9_04_015A_MASO_D
+LANG_SPANISH        "^1Mason: ^7Get outta the way!"
+
+REFERENCE           AFGHANISTAN_VOX_VOX_AFG_9_04_016A_MASO_M
+LANG_SPANISH        "^1Mason: ^7Fuck you!"
+
+REFERENCE           AFGHANISTAN_VOX_VOX_AFG_9_04_016A_MASO_S
+LANG_SPANISH        "^1Mason: ^7Gotcha!"
+
+REFERENCE           AFGHANISTAN_VOX_VOX_AFG_9_04_017A_WOOD_D
+LANG_SPANISH        "^1Woods: ^7You need a horse, Mason!"
+
+REFERENCE           AFGHANISTAN_VOX_VOX_AFG_9_04_018A_ZHAO_D
+LANG_SPANISH        "^1Zhao: ^7Find another horse!"
+
+REFERENCE           AFGHANISTAN_VOX_VOX_AFG_9_04_019A_WOOD_D
+LANG_SPANISH        "^1Woods: ^7It's too far to walk.  Get on a horse, Mason!"
+
+REFERENCE           AFGHANISTAN_VOX_VOX_AFG_9_04_020A_WOOD_D
+LANG_SPANISH        "^1Woods: ^7Get a horse!"
+
+REFERENCE           AFGHANISTAN_VOX_VOX_AFG_9_04_021A_MASO_D
+LANG_SPANISH        "^1Mason: ^7Okay, come on!  Come on!"
+
+REFERENCE           AFGHANISTAN_VOX_VOX_AFG_9_04_022A_MASO_D
+LANG_SPANISH        "^1Mason: ^7Easy boy, alright."
+
+REFERENCE           AFGHANISTAN_VOX_VOX_AFG_9_04_023A_MASO_D
+LANG_SPANISH        "^1Mason: ^7Woah!"
+
+REFERENCE           AFGHANISTAN_VOX_VOX_AFG_9_04_024A_MASO_D
+LANG_SPANISH        "^1Mason: ^7Easy now, easy now."
+
+REFERENCE           AFGHANISTAN_VOX_VOX_AFG_9_04_025A_MASO_D
+LANG_SPANISH        "^1Mason: ^7It's okay.  Shhh... Shhh...  It's okay."
+
+REFERENCE           AFGHANISTAN_VOX_VOX_AFG_9_04_026A_MASO_D
+LANG_SPANISH        "^1Mason: ^7Faster!  Come on!"
+
+REFERENCE           AFGHANISTAN_VOX_VOX_AFG_9_04_027A_MASO_D
+LANG_SPANISH        "^1Mason: ^7Hya! Hya!"
+
+REFERENCE           AFGHANISTAN_VOX_VOX_AFG_9_04_028A_MASO_D
+LANG_SPANISH        "^1Mason: ^7Come on, go!  Go!"
+
+REFERENCE           AFGHANISTAN_VOX_VOX_AFG_9_04_029A_MASO_D
+LANG_SPANISH        "^1Mason: ^7Gimme all you got, boy!"
+
+REFERENCE           AFGHANISTAN_VOX_VOX_AFG_9_04_030A_MASO_D
+LANG_SPANISH        "^1Mason: ^7Fast as you can!  Come on!"
+
+REFERENCE           AFGHANISTAN_VOX_VOX_AFG_9_04_031A_MASO_D
+LANG_SPANISH        "^1Mason: ^7Woah!"
+
+REFERENCE           AFGHANISTAN_VOX_VOX_AFG_9_04_032A_MASO_D
+LANG_SPANISH        "^1Mason: ^7Hold, now!"
+
+REFERENCE           AFGHANISTAN_VOX_VOX_AFG_9_04_033A_MASO_D
+LANG_SPANISH        "^1Mason: ^7That's it.  Easy...  Shhh..."
+
+ENDMARKER

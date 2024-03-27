@@ -1,0 +1,1093 @@
+// Dumped from fastfile "sp_nicaragua".
+// In their original format the strings might have been separated in multiple files.
+VERSION             "1"
+CONFIG              "C:/projects/cod/t6/bin/StringEd.cfg"
+FILENOTES           ""
+
+REFERENCE           NICARAGUA_CIA
+LANG_SPANISH        "Mantén ^3[{+activate}]^7 para obtener informe de la CIA."
+
+REFERENCE           NICARAGUA_INTROSCREEN_LINE_1
+LANG_SPANISH        "^L\"TIEMPO Y DESTINO\"^L"
+
+REFERENCE           NICARAGUA_INTROSCREEN_LINE_2
+LANG_SPANISH        "WASA KING, ^LNICARAGUA^L"
+
+REFERENCE           NICARAGUA_INTROSCREEN_LINE_3
+LANG_SPANISH        "ALEX ^LMASON^L"
+
+REFERENCE           NICARAGUA_INTROSCREEN_LINE_4
+LANG_SPANISH        "DIVISIÓN DE ACTIVIDADES ESPECIALES DE LA ^LCIA^L"
+
+REFERENCE           NICARAGUA_INTROSCREEN_LINE_5
+LANG_SPANISH        "25 DE SEPTIEMBRE DE ^L1986^L"
+
+REFERENCE           NICARAGUA_MASON_FAIL
+LANG_SPANISH        "Has abandonado a tu pelotón."
+
+REFERENCE           NICARAGUA_MASON_FAIL_WARNING
+LANG_SPANISH        "Te estás separando demasiado de tu pelotón."
+
+REFERENCE           NICARAGUA_MENENDEZ_INTROSCREEN_LINE_1
+LANG_SPANISH        "RAUL ^LMENENDEZ^L"
+
+REFERENCE           NICARAGUA_MENENDEZ_INTROSCREEN_LINE_2
+LANG_SPANISH        "JUNTO A SU HERMANA, ^LJOSEFINA^L"
+
+REFERENCE           NICARAGUA_MENENDEZ_TRUCK_ROAD_FAIL
+LANG_SPANISH        "Tienes que rescatar a Josefina."
+
+REFERENCE           NICARAGUA_MENENDEZ_TRUCK_ROAD_WARNING
+LANG_SPANISH        "¡Vas en la dirección equivocada!"
+
+REFERENCE           NICARAGUA_MOLOTOV_TUTORIAL
+LANG_SPANISH        "Pulsa ^3[{+actionslot 1}]^7 para elegir los cócteles molotov."
+
+REFERENCE           NICARAGUA_MORTAR_TUTORIAL
+LANG_SPANISH        "Pulsa ^3[{+actionslot 4}]^7 para seleccionar morteros."
+
+REFERENCE           NICARAGUA_OBJ_MASON_BUNKER
+LANG_SPANISH        "Despeja el búnker de cocaína."
+
+REFERENCE           NICARAGUA_OBJ_MASON_CLEAR_THE_MISSION
+LANG_SPANISH        "Asalta la misión."
+
+REFERENCE           NICARAGUA_OBJ_MASON_FIND_MENENDEZ
+LANG_SPANISH        "Encuentra y captura a Menendez."
+
+REFERENCE           NICARAGUA_OBJ_MASON_OBSERVE_MENENDEZ
+LANG_SPANISH        "Observa a Menendez."
+
+REFERENCE           NICARAGUA_OBJ_MASON_UP_HILL
+LANG_SPANISH        "Despeja el pueblo del cártel."
+
+REFERENCE           NICARAGUA_OBJ_MENENDEZ_OBSERVE_MENENDEZ
+LANG_SPANISH        "Observa a Menendez."
+
+REFERENCE           NICARAGUA_OBJ_OPEN_DOOR
+LANG_SPANISH        "Puerta abierta."
+
+REFERENCE           NICARAGUA_OBJ_SAVE_JOSEFINA
+LANG_SPANISH        "Rescata a Josefina."
+
+REFERENCE           NICARAGUA_RAGE_MELEE_PROMPT
+LANG_SPANISH        "Mantén ^3[{+activate}]^7 para usar."
+
+REFERENCE           NICARAGUA_TRANSITION_AGENTS
+LANG_SPANISH        "Agente Hudson, operadores Mason y Woods"
+
+REFERENCE           NICARAGUA_TRANSITION_BODY
+LANG_SPANISH        "En el lado norte del pueblo"
+
+REFERENCE           NICARAGUA_TRANSITION_TITLE
+LANG_SPANISH        "15 MINUTOS ANTES"
+
+REFERENCE           NICARAGUA_VOX_VOX_NIC_1_01_001A_HUDS_D
+LANG_SPANISH        "^1Hudson: ^7Intel checks out..."
+
+REFERENCE           NICARAGUA_VOX_VOX_NIC_1_01_002A_HUDS_D
+LANG_SPANISH        "^1Hudson: ^7It's Raul Menendez."
+
+REFERENCE           NICARAGUA_VOX_VOX_NIC_1_01_003A_NORI_D
+LANG_SPANISH        "^1Noriega: ^7I told you he would be here."
+
+REFERENCE           NICARAGUA_VOX_VOX_NIC_1_01_004A_MASO_D
+LANG_SPANISH        "^1Mason: ^7Are your men ready to move?"
+
+REFERENCE           NICARAGUA_VOX_VOX_NIC_1_01_005A_NORI_D
+LANG_SPANISH        "^1Noriega: ^7As soon as I give the order."
+
+REFERENCE           NICARAGUA_VOX_VOX_NIC_1_01_006A_MASO_D
+LANG_SPANISH        "^1Mason: ^7Give it."
+
+REFERENCE           NICARAGUA_VOX_VOX_NIC_1_01_007A_NORI_D
+LANG_SPANISH        "^1Noriega: ^7Move in."
+
+REFERENCE           NICARAGUA_VOX_VOX_NIC_1_01_008A_WOOD_M
+LANG_SPANISH        "^1Woods: ^7Let's not fuck around here, boys.  Let's smoke this bastard."
+
+REFERENCE           NICARAGUA_VOX_VOX_NIC_1_01_008A_WOOD_S
+LANG_SPANISH        "^1Woods: ^7Let's not fool around here, boys.  Let's smoke this bonehead."
+
+REFERENCE           NICARAGUA_VOX_VOX_NIC_1_01_010A_HUDS_D
+LANG_SPANISH        "^1Hudson: ^7That's not the mission, Woods.  We take him alive."
+
+REFERENCE           NICARAGUA_VOX_VOX_NIC_1_01_011A_MENE_D
+LANG_SPANISH        "^1Menendez: ^7Touch my sister and you're a dead man!"
+
+REFERENCE           NICARAGUA_VOX_VOX_NIC_1_01_012A_MENE_D
+LANG_SPANISH        "^1Menendez: ^7Josefina!"
+
+REFERENCE           NICARAGUA_VOX_VOX_NIC_1_01_013A_MENE_D
+LANG_SPANISH        "^1Menendez: ^7Animal!!!"
+
+REFERENCE           NICARAGUA_VOX_VOX_NIC_1_01_014A_MENE_D
+LANG_SPANISH        "^1Menendez: ^7I told you I did not want to be disturbed."
+
+REFERENCE           NICARAGUA_VOX_VOX_NIC_1_01_015A_MENE_M
+LANG_SPANISH        "^1Menendez: ^7What the hell?"
+
+REFERENCE           NICARAGUA_VOX_VOX_NIC_1_02_001A_PDF1_D
+LANG_SPANISH        "^1PDF Soldier: ^7What is this... a monster?"
+
+REFERENCE           NICARAGUA_VOX_VOX_NIC_1_02_002A_PDF1_M
+LANG_SPANISH        "^1PDF Soldier: ^7Shit!!!"
+
+REFERENCE           NICARAGUA_VOX_VOX_NIC_1_02_002A_PDF1_S
+LANG_SPANISH        "^1PDF Soldier: ^7Hey!!!"
+
+REFERENCE           NICARAGUA_VOX_VOX_NIC_1_02_003A_PDF2_M
+LANG_SPANISH        "^1PDF Soldier: ^7My God!!!"
+
+REFERENCE           NICARAGUA_VOX_VOX_NIC_1_02_003A_PDF2_S
+LANG_SPANISH        "^1PDF Soldier: ^7Stop him!!!"
+
+REFERENCE           NICARAGUA_VOX_VOX_NIC_1_02_004A_PDF1_D
+LANG_SPANISH        "^1PDF Soldier: ^7Get him off!"
+
+REFERENCE           NICARAGUA_VOX_VOX_NIC_1_02_005A_PDF3_M
+LANG_SPANISH        "^1PDF Soldier: ^7He's fucking crazy!"
+
+REFERENCE           NICARAGUA_VOX_VOX_NIC_1_02_005A_PDF3_S
+LANG_SPANISH        "^1PDF Soldier: ^7He's lost his mind!"
+
+REFERENCE           NICARAGUA_VOX_VOX_NIC_1_02_006A_PDF3_D
+LANG_SPANISH        "^1PDF Soldier: ^7Sedate him!"
+
+REFERENCE           NICARAGUA_VOX_VOX_NIC_1_02_007A_PDF1_D
+LANG_SPANISH        "^1PDF Soldier: ^7Quickly!"
+
+REFERENCE           NICARAGUA_VOX_VOX_NIC_1_02_008A_PDF3_D
+LANG_SPANISH        "^1PDF Soldier: ^7Hold him still!"
+
+REFERENCE           NICARAGUA_VOX_VOX_NIC_1_02_012A_MENE_D
+LANG_SPANISH        "^1Menendez: ^7Josefina..."
+
+REFERENCE           NICARAGUA_VOX_VOX_NIC_1_02_013A_WOOD_M
+LANG_SPANISH        "^1Woods: ^7Noriega's fucking animals... almost killed Menendez's sister.  But she was still alive."
+
+REFERENCE           NICARAGUA_VOX_VOX_NIC_1_02_013A_WOOD_S
+LANG_SPANISH        "^1Woods: ^7Noriega's... animals... almost killed Menendez's sister.  But she was still alive."
+
+REFERENCE           NICARAGUA_VOX_VOX_NIC_1_03_001A_PDF3_D
+LANG_SPANISH        "^1PDF Soldier: ^7Wake up."
+
+REFERENCE           NICARAGUA_VOX_VOX_NIC_1_03_002A_PDF1_D
+LANG_SPANISH        "^1PDF Soldier: ^7Hey!"
+
+REFERENCE           NICARAGUA_VOX_VOX_NIC_1_04_001A_PDF3_D
+LANG_SPANISH        "^1PDF Soldier: ^7I said, wake up."
+
+REFERENCE           NICARAGUA_VOX_VOX_NIC_1_04_002A_NORI_D
+LANG_SPANISH        "^1Noriega: ^7You removed him without being seen?"
+
+REFERENCE           NICARAGUA_VOX_VOX_NIC_1_04_003A_PDF1_D
+LANG_SPANISH        "^1PDF Soldier: ^7Yes.  It took four of us to restrain him."
+
+REFERENCE           NICARAGUA_VOX_VOX_NIC_1_04_004A_NORI_D
+LANG_SPANISH        "^1Noriega: ^7No witnesses."
+
+REFERENCE           NICARAGUA_VOX_VOX_NIC_1_04_005A_NORI_D
+LANG_SPANISH        "^1Noriega: ^7I saved your life.  You should be in American hands by now."
+
+REFERENCE           NICARAGUA_VOX_VOX_NIC_1_04_006A_NORI_D
+LANG_SPANISH        "^1Noriega: ^7Call it a favor."
+
+REFERENCE           NICARAGUA_VOX_VOX_NIC_1_04_007A_MENE_D
+LANG_SPANISH        "^1Menendez: ^7Josefina..."
+
+REFERENCE           NICARAGUA_VOX_VOX_NIC_1_04_010A_MENE_D
+LANG_SPANISH        "^1Menendez: ^7Get out of my way!"
+
+REFERENCE           NICARAGUA_VOX_VOX_NIC_1_04_017A_CF6_D
+LANG_SPANISH        "^1Woman: ^7Please let us go!  We've done nothing wrong!"
+
+REFERENCE           NICARAGUA_VOX_VOX_NIC_1_04_019A_CF7_D
+LANG_SPANISH        "^1Woman: ^7I beg you, have mercy!"
+
+REFERENCE           NICARAGUA_VOX_VOX_NIC_1_04_021A_MENE_D
+LANG_SPANISH        "^1Menendez: ^7Animals!"
+
+REFERENCE           NICARAGUA_VOX_VOX_NIC_1_04_022A_MENE_D
+LANG_SPANISH        "^1Menendez: ^7Filthy!  Soulless!  ANIMALS!"
+
+REFERENCE           NICARAGUA_VOX_VOX_NIC_1_04_026A_MENE_D
+LANG_SPANISH        "^1Menendez: ^7Die!"
+
+REFERENCE           NICARAGUA_VOX_VOX_NIC_1_04_027A_MENE_D
+LANG_SPANISH        "^1Menendez: ^7Aaaaarrgh!"
+
+REFERENCE           NICARAGUA_VOX_VOX_NIC_1_04_028A_CF7_D
+LANG_SPANISH        "^1Woman: ^7Nooooo!!!"
+
+REFERENCE           NICARAGUA_VOX_VOX_NIC_1_04_030A_CF7_D
+LANG_SPANISH        "^1Woman: ^7Get off!"
+
+REFERENCE           NICARAGUA_VOX_VOX_NIC_1_04_032A_MENE_D
+LANG_SPANISH        "^1Menendez: ^7Die for your sins!"
+
+REFERENCE           NICARAGUA_VOX_VOX_NIC_1_04_034A_CRT0_D
+LANG_SPANISH        "^1Cartel: ^7Menendez!   Are you okay?"
+
+REFERENCE           NICARAGUA_VOX_VOX_NIC_1_04_035A_MENE_D
+LANG_SPANISH        "^1Menendez: ^7Josefina....  I have to get to the house!"
+
+REFERENCE           NICARAGUA_VOX_VOX_NIC_1_04_036A_CRT0_D
+LANG_SPANISH        "^1Cartel: ^7You heard him.  Push forward to the house!"
+
+REFERENCE           NICARAGUA_VOX_VOX_NIC_1_04_037A_CRT0_D
+LANG_SPANISH        "^1Cartel: ^7Come on!   Take the courtyard!"
+
+REFERENCE           NICARAGUA_VOX_VOX_NIC_1_04_038A_CRT1_D
+LANG_SPANISH        "^1Cartel: ^7Kill them all!"
+
+REFERENCE           NICARAGUA_VOX_VOX_NIC_1_04_039A_CRT2_D
+LANG_SPANISH        "^1Cartel: ^7Protect Menendez!"
+
+REFERENCE           NICARAGUA_VOX_VOX_NIC_1_04_040A_MENE_D
+LANG_SPANISH        "^1Menendez: ^7I'm here, Josefina!  I'm here!"
+
+REFERENCE           NICARAGUA_VOX_VOX_NIC_1_04_044A_MENE_D
+LANG_SPANISH        "^1Menendez: ^7Smash the gate!"
+
+REFERENCE           NICARAGUA_VOX_VOX_NIC_1_04_045A_MENE_D
+LANG_SPANISH        "^1Menendez: ^7Hold on, Josefina!"
+
+REFERENCE           NICARAGUA_VOX_VOX_NIC_1_04_046A_MENE_D
+LANG_SPANISH        "^1Menendez: ^7I'm coming!"
+
+REFERENCE           NICARAGUA_VOX_VOX_NIC_1_05_001A_WOOD_D
+LANG_SPANISH        "^1Woods: ^7Menendez!"
+
+REFERENCE           NICARAGUA_VOX_VOX_NIC_1_05_002A_MASO_D
+LANG_SPANISH        "^1Mason: ^7Woods!  NO!!!"
+
+REFERENCE           NICARAGUA_VOX_VOX_NIC_1_05_003A_JOSE_D
+LANG_SPANISH        "^1Josefina: ^7Raul!!!!"
+
+REFERENCE           NICARAGUA_VOX_VOX_NIC_1_05_004A_MENE_D
+LANG_SPANISH        "^1Menendez: ^7I'm here!!"
+
+REFERENCE           NICARAGUA_VOX_VOX_NIC_1_05_005A_WOOD_D
+LANG_SPANISH        "^1Woods: ^7Get off me!"
+
+REFERENCE           NICARAGUA_VOX_VOX_NIC_1_05_006A_JOSE_D
+LANG_SPANISH        "^1Josefina: ^7Where are you, Raul?!!"
+
+REFERENCE           NICARAGUA_VOX_VOX_NIC_1_05_007A_MENE_D
+LANG_SPANISH        "^1Menendez: ^7Josefina!!!!"
+
+REFERENCE           NICARAGUA_VOX_VOX_NIC_1_05_010A_MASO_D
+LANG_SPANISH        "^1Mason: ^7Grenade!!!"
+
+REFERENCE           NICARAGUA_VOX_VOX_NIC_1_06_001A_MASO_D
+LANG_SPANISH        "^1Mason: ^7Who's the girl?"
+
+REFERENCE           NICARAGUA_VOX_VOX_NIC_1_06_002A_HUDS_D
+LANG_SPANISH        "^1Hudson: ^7Doesn't matter.  She's not a target."
+
+REFERENCE           NICARAGUA_VOX_VOX_NIC_1_06_003A_WOOD_M
+LANG_SPANISH        "^1Woods: ^7Probably just a whore..."
+
+REFERENCE           NICARAGUA_VOX_VOX_NIC_1_06_003A_WOOD_S
+LANG_SPANISH        "^1Woods: ^7Probably just some girl..."
+
+REFERENCE           NICARAGUA_VOX_VOX_NIC_1_06_004A_MASO_D
+LANG_SPANISH        "^1Mason: ^7Noriega's men are moving in.  Let's go."
+
+REFERENCE           NICARAGUA_VOX_VOX_NIC_1_06_006A_MASO_D
+LANG_SPANISH        "^1Mason: ^7Heavy fighting up ahead!"
+
+REFERENCE           NICARAGUA_VOX_VOX_NIC_1_06_007A_HUDS_D
+LANG_SPANISH        "^1Hudson: ^7Noriega's men are pushing across the riverbed!"
+
+REFERENCE           NICARAGUA_VOX_VOX_NIC_1_06_008A_WOOD_M
+LANG_SPANISH        "^1Woods: ^7I ain't keen on fighting alongside these bastards."
+
+REFERENCE           NICARAGUA_VOX_VOX_NIC_1_06_008A_WOOD_S
+LANG_SPANISH        "^1Woods: ^7I ain't keen on fighting alongside these guys."
+
+REFERENCE           NICARAGUA_VOX_VOX_NIC_1_06_009A_HUDS_D
+LANG_SPANISH        "^1Hudson: ^7Trust me, Woods.  The Cartel boys are hardcore.  You're gonna be glad  they're here."
+
+REFERENCE           NICARAGUA_VOX_VOX_NIC_1_06_010A_MASO_D
+LANG_SPANISH        "^1Mason: ^7On me!"
+
+REFERENCE           NICARAGUA_VOX_VOX_NIC_1_06_011A_WOOD_D
+LANG_SPANISH        "^1Woods: ^7Right behind you, brother!"
+
+REFERENCE           NICARAGUA_VOX_VOX_NIC_1_06_012A_WOOD_D
+LANG_SPANISH        "^1Woods: ^7Check your fire!  We got civilians!"
+
+REFERENCE           NICARAGUA_VOX_VOX_NIC_1_06_013A_HUDS_D
+LANG_SPANISH        "^1Hudson: ^7MG in the window!  Building on the right!"
+
+REFERENCE           NICARAGUA_VOX_VOX_NIC_1_06_014A_WOOD_D
+LANG_SPANISH        "^1Woods: ^7Guys posted on the rooftops!"
+
+REFERENCE           NICARAGUA_VOX_VOX_NIC_1_06_015A_HUDS_D
+LANG_SPANISH        "^1Hudson: ^7Watch the balconies!"
+
+REFERENCE           NICARAGUA_VOX_VOX_NIC_1_06_016A_HUDS_D
+LANG_SPANISH        "^1Hudson: ^7They're down!  Move up!"
+
+REFERENCE           NICARAGUA_VOX_VOX_NIC_1_06_017A_HUDS_D
+LANG_SPANISH        "^1Hudson: ^7We got more incoming!"
+
+REFERENCE           NICARAGUA_VOX_VOX_NIC_1_06_018A_WOOD_D
+LANG_SPANISH        "^1Woods: ^7In the window!"
+
+REFERENCE           NICARAGUA_VOX_VOX_NIC_1_06_019A_MASO_D
+LANG_SPANISH        "^1Mason: ^7Spread out!"
+
+REFERENCE           NICARAGUA_VOX_VOX_NIC_1_06_020A_WOOD_D
+LANG_SPANISH        "^1Woods: ^7Got another MG!"
+
+REFERENCE           NICARAGUA_VOX_VOX_NIC_1_06_021A_MASO_D
+LANG_SPANISH        "^1Mason: ^7Flanking right!"
+
+REFERENCE           NICARAGUA_VOX_VOX_NIC_1_06_022A_HUDS_D
+LANG_SPANISH        "^1Hudson: ^7Multiple enemies in that building!"
+
+REFERENCE           NICARAGUA_VOX_VOX_NIC_1_06_023A_WOOD_D
+LANG_SPANISH        "^1Woods: ^7Get a grenade in there!"
+
+REFERENCE           NICARAGUA_VOX_VOX_NIC_1_06_024A_HUDS_D
+LANG_SPANISH        "^1Hudson: ^7MG truck incoming!"
+
+REFERENCE           NICARAGUA_VOX_VOX_NIC_1_06_025A_WOOD_M
+LANG_SPANISH        "^1Woods: ^7Shoot the fucking driver, Mason!"
+
+REFERENCE           NICARAGUA_VOX_VOX_NIC_1_06_025A_WOOD_S
+LANG_SPANISH        "^1Woods: ^7Shoot the driver, Mason!"
+
+REFERENCE           NICARAGUA_VOX_VOX_NIC_1_06_026A_WOOD_D
+LANG_SPANISH        "^1Woods: ^7Like old times.  Huh, Mason?"
+
+REFERENCE           NICARAGUA_VOX_VOX_NIC_1_06_027A_MASO_D
+LANG_SPANISH        "^1Mason: ^7Ain't it just."
+
+REFERENCE           NICARAGUA_VOX_VOX_NIC_1_06_028A_WOOD_D
+LANG_SPANISH        "^1Woods: ^7Too slow, Mason!"
+
+REFERENCE           NICARAGUA_VOX_VOX_NIC_1_06_029A_HUDS_D
+LANG_SPANISH        "^1Hudson: ^7Take down the gunner!"
+
+REFERENCE           NICARAGUA_VOX_VOX_NIC_1_06_030A_HUDS_D
+LANG_SPANISH        "^1Hudson: ^7Move!"
+
+REFERENCE           NICARAGUA_VOX_VOX_NIC_1_06_031A_HUDS_D
+LANG_SPANISH        "^1Hudson: ^7Push up the hill!"
+
+REFERENCE           NICARAGUA_VOX_VOX_NIC_1_06_033A_WOOD_M
+LANG_SPANISH        "^1Woods: ^7Bastards are in cover!  Flush 'em out!"
+
+REFERENCE           NICARAGUA_VOX_VOX_NIC_1_06_033A_WOOD_S
+LANG_SPANISH        "^1Woods: ^7They're in cover!  Flush 'em out!"
+
+REFERENCE           NICARAGUA_VOX_VOX_NIC_1_06_034A_WOOD_D
+LANG_SPANISH        "^1Woods: ^7Guys in the windows!"
+
+REFERENCE           NICARAGUA_VOX_VOX_NIC_1_06_035A_HUDS_D
+LANG_SPANISH        "^1Hudson: ^7Into the building!  Clear 'em out!"
+
+REFERENCE           NICARAGUA_VOX_VOX_NIC_1_06_036A_HUDS_D
+LANG_SPANISH        "^1Hudson: ^7On me."
+
+REFERENCE           NICARAGUA_VOX_VOX_NIC_1_06_038A_HUDS_D
+LANG_SPANISH        "^1Hudson: ^7Come on, Mason.  Get up the stairs."
+
+REFERENCE           NICARAGUA_VOX_VOX_NIC_1_06_039A_HUDS_D
+LANG_SPANISH        "^1Hudson: ^7We're waiting on you, Mason."
+
+REFERENCE           NICARAGUA_VOX_VOX_NIC_1_06_040A_WOOD_M
+LANG_SPANISH        "^1Woods: ^7Alright!  About fucking time."
+
+REFERENCE           NICARAGUA_VOX_VOX_NIC_1_06_040A_WOOD_S
+LANG_SPANISH        "^1Woods: ^7Alright!  About time."
+
+REFERENCE           NICARAGUA_VOX_VOX_NIC_1_06_041A_HUDS_D
+LANG_SPANISH        "^1Hudson: ^7Taking fire from the balcony!"
+
+REFERENCE           NICARAGUA_VOX_VOX_NIC_1_07_001A_HUDS_D
+LANG_SPANISH        "^1Hudson: ^7The PDF really did a number on the village."
+
+REFERENCE           NICARAGUA_VOX_VOX_NIC_1_07_002A_HUDS_D
+LANG_SPANISH        "^1Hudson: ^7Wait... No... Can't be."
+
+REFERENCE           NICARAGUA_VOX_VOX_NIC_1_07_003A_WOOD_D
+LANG_SPANISH        "^1Woods: ^7What?"
+
+REFERENCE           NICARAGUA_VOX_VOX_NIC_1_07_004A_HUDS_M
+LANG_SPANISH        "^1Hudson: ^7Fucking Noriega.  His men were supposed to secure Menendez!"
+
+REFERENCE           NICARAGUA_VOX_VOX_NIC_1_07_004A_HUDS_S
+LANG_SPANISH        "^1Hudson: ^7Noriega!  His men were supposed to secure Menendez!"
+
+REFERENCE           NICARAGUA_VOX_VOX_NIC_1_07_005A_WOOD_M
+LANG_SPANISH        "^1Woods: ^7Did you fucking see Menendez?"
+
+REFERENCE           NICARAGUA_VOX_VOX_NIC_1_07_006A_WOOD_M
+LANG_SPANISH        "^1Woods: ^7If you are fucking dirty, you're dead!"
+
+REFERENCE           NICARAGUA_VOX_VOX_NIC_1_07_006A_WOOD_S
+LANG_SPANISH        "^1Woods: ^7If you are dirty, you're dead!"
+
+REFERENCE           NICARAGUA_VOX_VOX_NIC_1_07_007A_HUDS_D
+LANG_SPANISH        "^1Hudson: ^7Woods!!!"
+
+REFERENCE           NICARAGUA_VOX_VOX_NIC_1_07_008A_HUDS_D
+LANG_SPANISH        "^1Hudson: ^7Frank."
+
+REFERENCE           NICARAGUA_VOX_VOX_NIC_1_07_009A_HUDS_M
+LANG_SPANISH        "^1Hudson: ^7You need to get your shit together, now."
+
+REFERENCE           NICARAGUA_VOX_VOX_NIC_1_07_009A_HUDS_S
+LANG_SPANISH        "^1Hudson: ^7Get yourself together, right now."
+
+REFERENCE           NICARAGUA_VOX_VOX_NIC_1_07_010A_WOOD_D
+LANG_SPANISH        "^1Woods: ^7You got no idea what happened in Angola.  None!"
+
+REFERENCE           NICARAGUA_VOX_VOX_NIC_1_07_011A_HUDS_D
+LANG_SPANISH        "^1Hudson: ^7This isn't the way.  We're on mission."
+
+REFERENCE           NICARAGUA_VOX_VOX_NIC_1_07_012A_HUDS_D
+LANG_SPANISH        "^1Hudson: ^7He's headed to the house.  We'll get him, but we do it as a team."
+
+REFERENCE           NICARAGUA_VOX_VOX_NIC_1_07_013A_HUDS_D
+LANG_SPANISH        "^1Hudson: ^7Come on."
+
+REFERENCE           NICARAGUA_VOX_VOX_NIC_1_07_018A_HUDS_D
+LANG_SPANISH        "^1Hudson: ^7Main building up ahead!"
+
+REFERENCE           NICARAGUA_VOX_VOX_NIC_1_07_019A_HUDS_D
+LANG_SPANISH        "^1Hudson: ^7Fight your way up the stairs!  Secure the courtyard!"
+
+REFERENCE           NICARAGUA_VOX_VOX_NIC_1_07_020A_WOOD_M
+LANG_SPANISH        "^1Woods: ^7Let's fucking go!"
+
+REFERENCE           NICARAGUA_VOX_VOX_NIC_1_07_020A_WOOD_S
+LANG_SPANISH        "^1Woods: ^7Let's get going!"
+
+REFERENCE           NICARAGUA_VOX_VOX_NIC_1_07_021A_HUDS_D
+LANG_SPANISH        "^1Hudson: ^7Snipers on the roof!"
+
+REFERENCE           NICARAGUA_VOX_VOX_NIC_1_07_022A_MASO_D
+LANG_SPANISH        "^1Mason: ^7RPGs!!"
+
+REFERENCE           NICARAGUA_VOX_VOX_NIC_1_07_023A_MASO_D
+LANG_SPANISH        "^1Mason: ^7I'll provide cover from the belltower!"
+
+REFERENCE           NICARAGUA_VOX_VOX_NIC_1_07_024A_MASO_D
+LANG_SPANISH        "^1Mason: ^7I'm in position.  Move in!"
+
+REFERENCE           NICARAGUA_VOX_VOX_NIC_1_07_025A_WOOD_D
+LANG_SPANISH        "^1Woods: ^7MG nest!  Front entrance!"
+
+REFERENCE           NICARAGUA_VOX_VOX_NIC_1_07_026A_HUDS_D
+LANG_SPANISH        "^1Hudson: ^7RPGs!  Main balcony!"
+
+REFERENCE           NICARAGUA_VOX_VOX_NIC_1_07_027A_WOOD_D
+LANG_SPANISH        "^1Woods: ^7Snipers in the tower windows!"
+
+REFERENCE           NICARAGUA_VOX_VOX_NIC_1_07_028A_HUDS_D
+LANG_SPANISH        "^1Hudson: ^7That's the last of 'em."
+
+REFERENCE           NICARAGUA_VOX_VOX_NIC_1_07_029A_MASO_D
+LANG_SPANISH        "^1Mason: ^7Come on, Woods.  It'll be ok."
+
+REFERENCE           NICARAGUA_VOX_VOX_NIC_1_08_001A_HUDS_D
+LANG_SPANISH        "^1Hudson: ^7Woods.  Mason.  Coke lab's in the basement."
+
+REFERENCE           NICARAGUA_VOX_VOX_NIC_1_08_002A_HUDS_D
+LANG_SPANISH        "^1Hudson: ^7Clear it out.  Grab any intel relating to the Menendez cartel."
+
+REFERENCE           NICARAGUA_VOX_VOX_NIC_1_08_003A_WOOD_M
+LANG_SPANISH        "^1Woods: ^7If you capture him, you bring him to me.  I'll make that prick talk."
+
+REFERENCE           NICARAGUA_VOX_VOX_NIC_1_08_003A_WOOD_S
+LANG_SPANISH        "^1Woods: ^7If you capture him, you bring him to me.  I'll make that... talk."
+
+REFERENCE           NICARAGUA_VOX_VOX_NIC_1_08_004A_HUDS_D
+LANG_SPANISH        "^1Hudson: ^7You have your orders, Sergeant."
+
+REFERENCE           NICARAGUA_VOX_VOX_NIC_1_08_005A_HUDS_D
+LANG_SPANISH        "^1Hudson: ^7Mason."
+
+REFERENCE           NICARAGUA_VOX_VOX_NIC_1_08_006A_HUDS_D
+LANG_SPANISH        "^1Hudson: ^7Keep an eye on Woods.  Seeing Menendez again... He's losing it."
+
+REFERENCE           NICARAGUA_VOX_VOX_NIC_1_08_007A_MASO_D
+LANG_SPANISH        "^1Mason: ^7He's okay, Hudson.  I got his back."
+
+REFERENCE           NICARAGUA_VOX_VOX_NIC_1_08_008A_WOOD_M
+LANG_SPANISH        "^1Woods: ^7Hudson.  You scoped that son of a bitch yet?"
+
+REFERENCE           NICARAGUA_VOX_VOX_NIC_1_08_008A_WOOD_S
+LANG_SPANISH        "^1Woods: ^7Hudson.  You scoped that meat head yet?"
+
+REFERENCE           NICARAGUA_VOX_VOX_NIC_1_08_009A_HUDS_D
+LANG_SPANISH        "^1Hudson: ^7He's inside the house.  We're moving on him now."
+
+REFERENCE           NICARAGUA_VOX_VOX_NIC_1_08_010A_WOOD_D
+LANG_SPANISH        "^1Woods: ^7On my way!"
+
+REFERENCE           NICARAGUA_VOX_VOX_NIC_1_08_011A_HUDS_D
+LANG_SPANISH        "^1Hudson: ^7Negative, Woods.  We have the situation under control."
+
+REFERENCE           NICARAGUA_VOX_VOX_NIC_1_08_012A_HUDS_D
+LANG_SPANISH        "^1Hudson: ^7Woods?"
+
+REFERENCE           NICARAGUA_VOX_VOX_NIC_1_08_015A_WOOD_D
+LANG_SPANISH        "^1Woods: ^7Let's make this quick.  I don't wanna miss something bagging the real prize.  You ready, Mason?"
+
+REFERENCE           NICARAGUA_VOX_VOX_NIC_1_08_016A_CRT0_D
+LANG_SPANISH        "^1Cartel: ^7Enemy soldiers!"
+
+REFERENCE           NICARAGUA_VOX_VOX_NIC_1_08_017A_CRT1_D
+LANG_SPANISH        "^1Cartel: ^7Return fire!"
+
+REFERENCE           NICARAGUA_VOX_VOX_NIC_1_08_018A_CRT2_D
+LANG_SPANISH        "^1Cartel: ^7Get the stuff out of here!"
+
+REFERENCE           NICARAGUA_VOX_VOX_NIC_1_08_019A_WOOD_D
+LANG_SPANISH        "^1Woods: ^7Grab any evidence before they burn the place to the ground!"
+
+REFERENCE           NICARAGUA_VOX_VOX_NIC_1_08_020A_MASO_M
+LANG_SPANISH        "^1Mason: ^7What the fuck?  CIA?"
+
+REFERENCE           NICARAGUA_VOX_VOX_NIC_1_08_020A_MASO_S
+LANG_SPANISH        "^1Mason: ^7What the... CIA?"
+
+REFERENCE           NICARAGUA_VOX_VOX_NIC_1_08_021A_WOOD_D
+LANG_SPANISH        "^1Woods: ^7Come on, Mason!"
+
+REFERENCE           NICARAGUA_VOX_VOX_NIC_1_08_022A_WOOD_M
+LANG_SPANISH        "^1Woods: ^7Fucking junkies..."
+
+REFERENCE           NICARAGUA_VOX_VOX_NIC_1_08_022A_WOOD_S
+LANG_SPANISH        "^1Woods: ^7We're fighting junkies!"
+
+REFERENCE           NICARAGUA_VOX_VOX_NIC_1_08_023A_WOOD_M
+LANG_SPANISH        "^1Woods: ^7Hustle, Mason!  I'm not letting this bastard escape!"
+
+REFERENCE           NICARAGUA_VOX_VOX_NIC_1_08_023A_WOOD_S
+LANG_SPANISH        "^1Woods: ^7Hustle, Mason!  I'm not letting this man escape!"
+
+REFERENCE           NICARAGUA_VOX_VOX_NIC_1_08_024A_MASO_D
+LANG_SPANISH        "^1Mason: ^7Slow down!"
+
+REFERENCE           NICARAGUA_VOX_VOX_NIC_1_08_026A_CRT0_D
+LANG_SPANISH        "^1Cartel: ^7Pack up!  We're leaving!"
+
+REFERENCE           NICARAGUA_VOX_VOX_NIC_1_08_027A_CRT1_D
+LANG_SPANISH        "^1Cartel: ^7We heard gunfire.  What's going on?"
+
+REFERENCE           NICARAGUA_VOX_VOX_NIC_1_08_028A_CRT0_D
+LANG_SPANISH        "^1Cartel: ^7Foreign soldiers are all over the compound.  You need to get the goods on the trucks!"
+
+REFERENCE           NICARAGUA_VOX_VOX_NIC_1_08_029A_CRT2_D
+LANG_SPANISH        "^1Cartel: ^7We can't carry it all!"
+
+REFERENCE           NICARAGUA_VOX_VOX_NIC_1_08_030A_CRT0_D
+LANG_SPANISH        "^1Cartel: ^7What we can't carry we'll burn.  Now stop talking and get moving!"
+
+REFERENCE           NICARAGUA_VOX_VOX_NIC_1_08_031A_CRT1_D
+LANG_SPANISH        "^1Cartel: ^7Quickly!"
+
+REFERENCE           NICARAGUA_VOX_VOX_NIC_1_08_033A_MASO_M
+LANG_SPANISH        "^1Mason: ^7Damn, Woods!"
+
+REFERENCE           NICARAGUA_VOX_VOX_NIC_1_08_033A_MASO_S
+LANG_SPANISH        "^1Mason: ^7Easy, Woods!"
+
+REFERENCE           NICARAGUA_VOX_VOX_NIC_1_09_001A_WOOD_M
+LANG_SPANISH        "^1Woods: ^7You're a fucking dead man, Menendez!"
+
+REFERENCE           NICARAGUA_VOX_VOX_NIC_1_09_001A_WOOD_S
+LANG_SPANISH        "^1Woods: ^7You're a dead man, Menendez!"
+
+REFERENCE           NICARAGUA_VOX_VOX_NIC_1_09_002A_MASO_D
+LANG_SPANISH        "^1Mason: ^7Woods!  NO!!!"
+
+REFERENCE           NICARAGUA_VOX_VOX_NIC_1_09_003A_JOSE_D
+LANG_SPANISH        "^1Josefina: ^7Raul!!!!"
+
+REFERENCE           NICARAGUA_VOX_VOX_NIC_1_09_004A_MENE_D
+LANG_SPANISH        "^1Menendez: ^7I'm here!!"
+
+REFERENCE           NICARAGUA_VOX_VOX_NIC_1_09_005A_WOOD_D
+LANG_SPANISH        "^1Woods: ^7Off me!!!"
+
+REFERENCE           NICARAGUA_VOX_VOX_NIC_1_09_006A_JOSE_D
+LANG_SPANISH        "^1Josefina: ^7Raul, help me!!"
+
+REFERENCE           NICARAGUA_VOX_VOX_NIC_1_09_007A_MENE_D
+LANG_SPANISH        "^1Menendez: ^7Josefina!"
+
+REFERENCE           NICARAGUA_VOX_VOX_NIC_1_09_008A_JOSE_D
+LANG_SPANISH        "^1Josefina: ^7(Scream)"
+
+REFERENCE           NICARAGUA_VOX_VOX_NIC_1_09_009A_JOSE_D
+LANG_SPANISH        "^1Josefina: ^7Help me!!"
+
+REFERENCE           NICARAGUA_VOX_VOX_NIC_1_09_010A_JOSE_D
+LANG_SPANISH        "^1Josefina: ^7Please, help me!!"
+
+REFERENCE           NICARAGUA_VOX_VOX_NIC_1_09_011A_JOSE_D
+LANG_SPANISH        "^1Josefina: ^7Where are you, Raul?!!"
+
+REFERENCE           NICARAGUA_VOX_VOX_NIC_1_09_012A_JOSE_D
+LANG_SPANISH        "^1Josefina: ^7Where are you?!!"
+
+REFERENCE           NICARAGUA_VOX_VOX_NIC_1_09_013A_JOSE_D
+LANG_SPANISH        "^1Josefina: ^7Noooo!!"
+
+REFERENCE           NICARAGUA_VOX_VOX_NIC_1_09_015A_MASO_D
+LANG_SPANISH        "^1Mason: ^7Grenade!!!"
+
+REFERENCE           NICARAGUA_VOX_VOX_NIC_1_10_001A_MASO_D
+LANG_SPANISH        "^1Mason: ^7Frank, you okay?"
+
+REFERENCE           NICARAGUA_VOX_VOX_NIC_1_10_002A_HUDS_D
+LANG_SPANISH        "^1Hudson: ^7Get him outta here."
+
+REFERENCE           NICARAGUA_VOX_VOX_NIC_1_10_003A_MASO_D
+LANG_SPANISH        "^1Mason: ^7What happened, Hudson?  Where's Menendez?"
+
+REFERENCE           NICARAGUA_VOX_VOX_NIC_1_10_004A_HUDS_D
+LANG_SPANISH        "^1Hudson: ^7That's him, in the body bag."
+
+REFERENCE           NICARAGUA_VOX_VOX_NIC_1_10_005A_HUDS_D
+LANG_SPANISH        "^1Hudson: ^7From this point on... today never happened."
+
+REFERENCE           SCRIPT_AFGHANSTINGER_DETONATE_HINT
+LANG_SPANISH        "Pulsa ^3[{+attack}]^7 para detonar."
+
+REFERENCE           SCRIPT_AFGHANSTINGER_SWITCHTO_LOCKON
+LANG_SPANISH        "Pulsa ^3[{+actionslot 3}]^7 para cambiar al modo de fijación de aeronaves."
+
+REFERENCE           SCRIPT_AMMO_REFILL
+LANG_SPANISH        "Mantén ^3[{+activate}]^7 para reponer munición."
+
+REFERENCE           SCRIPT_AM_BONUS_HARDEST_2_KILL
+LANG_SPANISH        "Más difícil de matar +&&1"
+
+REFERENCE           SCRIPT_AM_BONUS_MOST_HEADSHOTS
+LANG_SPANISH        "Más tiros a la cabeza +&&1"
+
+REFERENCE           SCRIPT_AM_BONUS_MOST_REVIVES
+LANG_SPANISH        "Más reanimaciones +&&1"
+
+REFERENCE           SCRIPT_AM_DIFFICULTY_BONUS
+LANG_SPANISH        "Bonificación de dificultad"
+
+REFERENCE           SCRIPT_AM_DIFFICULTY_BONUS_X
+LANG_SPANISH        "x &&1"
+
+REFERENCE           SCRIPT_AM_LOW_SCORE_WARNING
+LANG_SPANISH        "AVISO: se te expulsará por tener una baja puntuación negativa."
+
+REFERENCE           SCRIPT_AM_MISSION_SCORE
+LANG_SPANISH        "Puntuación de la misión"
+
+REFERENCE           SCRIPT_AM_NEW_HIGH_SCORE
+LANG_SPANISH        "¡NUEVO RÉCORD!"
+
+REFERENCE           SCRIPT_AM_PLAYERNAME
+LANG_SPANISH        "&&1"
+
+REFERENCE           SCRIPT_AM_PLAYER_KICKED
+LANG_SPANISH        "&&1 ha sido expulsado."
+
+REFERENCE           SCRIPT_AM_ROUND_BONUS
+LANG_SPANISH        "Bonificación de rondas"
+
+REFERENCE           SCRIPT_AM_STREAK_BONUS_LOST
+LANG_SPANISH        "Bonificación caducada"
+
+REFERENCE           SCRIPT_AM_STREAK_COMPLETE
+LANG_SPANISH        "Bonificación terminada"
+
+REFERENCE           SCRIPT_AM_SUICIDE_COMMITED
+LANG_SPANISH        "Te han penalizado por suicidarte."
+
+REFERENCE           SCRIPT_AM_SUICIDE_KICKED
+LANG_SPANISH        "Te han expulsado por suicidarte demasiadas veces."
+
+REFERENCE           SCRIPT_AM_SUICIDE_ONE_LAST_GO
+LANG_SPANISH        "Estás a un suicidio de ser expulsado."
+
+REFERENCE           SCRIPT_AM_X
+LANG_SPANISH        "x"
+
+REFERENCE           SCRIPT_ARMOR_DAMAGE
+LANG_SPANISH        "El blindaje solo se puede dañar\ncon C4 y cohetes."
+
+REFERENCE           SCRIPT_ARTILLERY_TOOFAR
+LANG_SPANISH        "Estás demasiado lejos del operador de radio para usar la artillería."
+
+REFERENCE           SCRIPT_C4_USE
+LANG_SPANISH        "Pulsa ^3[{+actionslot 2}]^7 para usar C4."
+
+REFERENCE           SCRIPT_CLEARBUILDING
+LANG_SPANISH        "Despeja el edificio con las ametralladoras de su interior."
+
+REFERENCE           SCRIPT_COLLECTIBLE
+LANG_SPANISH        "Datos obtenidos"
+
+REFERENCE           SCRIPT_COLLECTIBLE_FOUND
+LANG_SPANISH        "Has encontrado %1 de %2 datos."
+
+REFERENCE           SCRIPT_COLLECTIBLE_PICKUP
+LANG_SPANISH        "Mantén ^3 &&1 ^7 para hacerte con los datos."
+
+REFERENCE           SCRIPT_COLON
+LANG_SPANISH        ":"
+
+REFERENCE           SCRIPT_COMPROMISE_FAIL
+LANG_SPANISH        "La misión se ha visto comprometida por tus actos."
+
+REFERENCE           SCRIPT_DEBUG_LEVEL_END
+LANG_SPANISH        "Fin del nivel actual."
+
+REFERENCE           SCRIPT_DOLLAR
+LANG_SPANISH        "$"
+
+REFERENCE           SCRIPT_ELIMINATE_THE_FLAK_88
+LANG_SPANISH        "Elimina las dotaciones de Flak 88. [&&1 restantes]"
+
+REFERENCE           SCRIPT_ELIMINATE_THE_FLAK_88_DONE
+LANG_SPANISH        "Elimina las dotaciones de Flak 88."
+
+REFERENCE           SCRIPT_EXPLODING_BARREL_DEATH
+LANG_SPANISH        "Te ha matado la explosión de un barril.\nLos barriles rojos explotan cuando les disparan."
+
+REFERENCE           SCRIPT_EXPLODING_NITROGEN_TANK_DEATH
+LANG_SPANISH        "Te ha matado la explosión de un tanque de nitrógeno.\nLos tanques de nitrógeno explotan cuando reciben un disparo."
+
+REFERENCE           SCRIPT_EXPLODING_VEHICLE_DEATH
+LANG_SPANISH        "Te ha matado la explosión de un vehículo.\nLos vehículos en llamas suelen explotar."
+
+REFERENCE           SCRIPT_EXPLOSIVESPLANTED
+LANG_SPANISH        "EXPLOSIVOS COLOCADOS. ¡ATRÁS!"
+
+REFERENCE           SCRIPT_EXPLOSIVE_BOLT_DEATH
+LANG_SPANISH        "Te ha matado un virote explosivo."
+
+REFERENCE           SCRIPT_EXPLOSIVE_FLECHETTE_DEATH
+LANG_SPANISH        "Te ha matado una flechette explosiva."
+
+REFERENCE           SCRIPT_FIRE_DIRECTION
+LANG_SPANISH        "Pulsa ^3[{+actionslot 1}]^7 para apuntar."
+
+REFERENCE           SCRIPT_FIRE_DIRECTION_CLAW
+LANG_SPANISH        "Pulsa ^3[{+actionslot 1}]^7 para apuntar."
+
+REFERENCE           SCRIPT_FIRE_DIRECTION_CONFIRM
+LANG_SPANISH        "Pulsa ^3[{+attack}]^7 para confirmar blanco."
+
+REFERENCE           SCRIPT_FIRE_TO_SKIP
+LANG_SPANISH        "Haz clic en DISPARO para omitir."
+
+REFERENCE           SCRIPT_GLOWING_MARKER
+LANG_SPANISH        "Busca el indicador brillante en el vehículo antiaéreo alemán."
+
+REFERENCE           SCRIPT_GOD_ROD
+LANG_SPANISH        "Pulsa ^3[{+actionslot 4}]^7 para apuntar."
+
+REFERENCE           SCRIPT_GOD_ROD_INVALID_TARGET
+LANG_SPANISH        "Zona objetivo no válida."
+
+REFERENCE           SCRIPT_GOD_ROD_OFFLINE
+LANG_SPANISH        "Arma de impacto cinético: no disponible"
+
+REFERENCE           SCRIPT_GOD_ROD_WIIU
+LANG_SPANISH        "Pulsa ^3[{+actionslot 4}]^7 para apuntar."
+
+REFERENCE           SCRIPT_GRENADE_DEATH
+LANG_SPANISH        "Te ha matado una granada.\nAtento al indicador de peligro de granadas."
+
+REFERENCE           SCRIPT_GRENADE_SUICIDE_LINE1
+LANG_SPANISH        "Has muerto al sujetar demasiado tiempo una granada."
+
+REFERENCE           SCRIPT_GRENADE_SUICIDE_LINE2
+LANG_SPANISH        "Mantén el botón de granada para demorar granadas activadas."
+
+REFERENCE           SCRIPT_HINTSTR_GRENADESFULL
+LANG_SPANISH        "No puedes llevar más granadas."
+
+REFERENCE           SCRIPT_HINT_BIGDOG_BULLET_DAMAGE
+LANG_SPANISH        "Las ametralladoras y las pistolas normales no pueden atravesar el blindaje."
+
+REFERENCE           SCRIPT_HINT_BIGDOG_CHARGED_SHOT
+LANG_SPANISH        "Carga tu disparo para atravesar el blindaje."
+
+REFERENCE           SCRIPT_HINT_BRUTE_FORCE
+LANG_SPANISH        "Mantén ^3[{+activate}]^7 para abrir por la fuerza."
+
+REFERENCE           SCRIPT_HINT_CAMO_SUIT_ACTIVATE
+LANG_SPANISH        "Pulsa ^3[{+actionslot 2}]^7 para usar el camuflaje óptico."
+
+REFERENCE           SCRIPT_HINT_CAMO_SUIT_OFF
+LANG_SPANISH        "Camuflaje: desactivado"
+
+REFERENCE           SCRIPT_HINT_CAMO_SUIT_ON
+LANG_SPANISH        "Camuflaje: activado"
+
+REFERENCE           SCRIPT_HINT_CANT_DISMOUNT_HERE
+LANG_SPANISH        "No puedes desmontar aquí."
+
+REFERENCE           SCRIPT_HINT_CANT_OPEN_DOORS
+LANG_SPANISH        "Esta puerta no se puede abrir. No te molestes en intentar abrir puertas cerradas."
+
+REFERENCE           SCRIPT_HINT_DOOR
+LANG_SPANISH        "Mantén ^3[{+activate}]^7 para abrir la puerta."
+
+REFERENCE           SCRIPT_HINT_HACK
+LANG_SPANISH        "Mantén ^3[{+activate}]^7 para piratear."
+
+REFERENCE           SCRIPT_HINT_INTRUDER
+LANG_SPANISH        "Mantén ^3[{+activate}]^7 para cortar."
+
+REFERENCE           SCRIPT_HINT_LEANINGSLOWMOVE
+LANG_SPANISH        "Mientras estés inclinado, te moverás más lento."
+
+REFERENCE           SCRIPT_HINT_LOCK_BREAKER
+LANG_SPANISH        "Mantén ^3[{+activate}]^7 para forzar la cerradura."
+
+REFERENCE           SCRIPT_HINT_MELEE
+LANG_SPANISH        "Pulsa ^3[{+melee}]^7 para cuerpo a cuerpo."
+
+REFERENCE           SCRIPT_HINT_OBJECTIVEONCOMPASS
+LANG_SPANISH        "La estrella de tu brújula señala tu siguiente objetivo."
+
+REFERENCE           SCRIPT_HINT_PICKUPAMMOKEY
+LANG_SPANISH        "Para recoger munición para otra arma, acércate a ella o mírala y pulsa USAR [&&1]."
+
+REFERENCE           SCRIPT_HINT_THROW_C4
+LANG_SPANISH        "Pulsa ^3[{+throw}]^7 para lanzar C4."
+
+REFERENCE           SCRIPT_HINT_THROW_C4_SPEED
+LANG_SPANISH        "Pulsa ^3[{+speed_throw}]^7 para lanzar C4."
+
+REFERENCE           SCRIPT_HINT_THROW_C4_SPEED_TRIGGER
+LANG_SPANISH        "Usa ^3[{+speed_throw}]^7 para lanzar C4."
+
+REFERENCE           SCRIPT_HINT_THROW_C4_TOGGLE
+LANG_SPANISH        "Pulsa ^3[{+toggleads_throw}]^7 para lanzar C4."
+
+REFERENCE           SCRIPT_HOLD_TO_USE
+LANG_SPANISH        "Mantén ^3[{+activate}]^7 para usar."
+
+REFERENCE           SCRIPT_INTELLIGENCE_FOUND
+LANG_SPANISH        "Has encontrado datos de inteligencia enemigos."
+
+REFERENCE           SCRIPT_INTELLIGENCE_OF_FOURTYFIVE
+LANG_SPANISH        "&&1/45 datos de inteligencia enemigos encontrados."
+
+REFERENCE           SCRIPT_INTELLIGENCE_OF_SIXTY
+LANG_SPANISH        "&&1/60 datos de inteligencia enemigos encontrados."
+
+REFERENCE           SCRIPT_INTELLIGENCE_OF_THIRTY
+LANG_SPANISH        "&&1/30 datos de inteligencia enemigos encontrados."
+
+REFERENCE           SCRIPT_INTELLIGENCE_ONEREMAINING
+LANG_SPANISH        "Queda &&1 dato de inteligencia enemigo."
+
+REFERENCE           SCRIPT_INTELLIGENCE_PICKUP
+LANG_SPANISH        "Mantén ^3 &&1 ^7 para obtener inteligencia del enemigo."
+
+REFERENCE           SCRIPT_INTELLIGENCE_PTS
+LANG_SPANISH        "Has encontrado &&1 datos de inteligencia enemigos."
+
+REFERENCE           SCRIPT_INTELLIGENCE_REMAINING
+LANG_SPANISH        "Quedan &&1 datos de inteligencia enemigos."
+
+REFERENCE           SCRIPT_LEARN_CHOPPER_AIR_SUPPORT1
+LANG_SPANISH        "¡Apoyo aéreo a la espera!"
+
+REFERENCE           SCRIPT_LEARN_CHOPPER_AIR_SUPPORT1_PC
+LANG_SPANISH        "¡Apoyo aéreo a la espera! Pulsa ^3[{+actionslot 4}]."
+
+REFERENCE           SCRIPT_LEARN_CLAYMORES
+LANG_SPANISH        "Pulsa ^3 [{+actionslot 4}] ^7 para usar las Claymore."
+
+REFERENCE           SCRIPT_LEARN_CLAYMORE_PLACEMENT
+LANG_SPANISH        "Pulsa ^3 [{+attack}] ^7 para colocar minas Claymore."
+
+REFERENCE           SCRIPT_LEARN_GRENADE_LAUNCHER
+LANG_SPANISH        "Pulsa ^3 [{+actionslot 3}] ^7 para usar el lanzagranadas M203."
+
+REFERENCE           SCRIPT_LEARN_M14_SWITCH
+LANG_SPANISH        "Pulsa ^3[{weapnext}]^7 para cambiar a tu fusil de precisión M21."
+
+REFERENCE           SCRIPT_MANTLE
+LANG_SPANISH        "Pulsa ^3[{+gostand}]^7 para "
+
+REFERENCE           SCRIPT_MINUS
+LANG_SPANISH        "-"
+
+REFERENCE           SCRIPT_MINUS_AMOUNT
+LANG_SPANISH        "-%s"
+
+REFERENCE           SCRIPT_MINUS_DOLLAR
+LANG_SPANISH        "-$"
+
+REFERENCE           SCRIPT_MISSIONFAIL_ESCAPE
+LANG_SPANISH        "No has logrado escapar a tiempo."
+
+REFERENCE           SCRIPT_MISSIONFAIL_KILLTEAM_AMERICAN
+LANG_SPANISH        "¡No se permitirá el fuego amigo!"
+
+REFERENCE           SCRIPT_MISSIONFAIL_KILLTEAM_BRITISH
+LANG_SPANISH        "¡No se permitirá el fuego amigo!"
+
+REFERENCE           SCRIPT_MISSIONFAIL_KILLTEAM_NEUTRAL
+LANG_SPANISH        "Le has dado a un civil. ¡Mira adónde disparas!"
+
+REFERENCE           SCRIPT_MISSIONFAIL_KILLTEAM_RUSSIAN
+LANG_SPANISH        "¡Has traicionado a tus hermanos!"
+
+REFERENCE           SCRIPT_MOVING_VEHICLE_DEATH
+LANG_SPANISH        "Te ha matado un vehículo en movimiento."
+
+REFERENCE           SCRIPT_NIGHTVISION_STOP_USE
+LANG_SPANISH        "Pulsa ^3 [{+actionslot 1}] ^7 para desactivar la visión nocturna."
+
+REFERENCE           SCRIPT_NIGHTVISION_USE
+LANG_SPANISH        "Pulsa ^3 [{+actionslot 1}] ^7 para activar la visión nocturna."
+
+REFERENCE           SCRIPT_OBJ_DESTROYFLAKPANZERS
+LANG_SPANISH        "Destruye los tanques antiaéreos \"Flakpanzer\" [quedan &&1]"
+
+REFERENCE           SCRIPT_OBJ_FOLEYDEBRIEF
+LANG_SPANISH        "Entrevístate con el capitán Foley en el cruce de caminos."
+
+REFERENCE           SCRIPT_PICKUPSTIELHANDGRANATES
+LANG_SPANISH        "Stielhandgranates recogidas."
+
+REFERENCE           SCRIPT_PLUS
+LANG_SPANISH        "+"
+
+REFERENCE           SCRIPT_PLUS_AMOUNT
+LANG_SPANISH        "+%s"
+
+REFERENCE           SCRIPT_PLUS_DOLLAR
+LANG_SPANISH        "+$"
+
+REFERENCE           SCRIPT_RADIATION_DEATH
+LANG_SPANISH        "Evita las zonas de radiación.\nAtento a las señales del contador Geiger."
+
+REFERENCE           SCRIPT_SHOT_TEAMMATE
+LANG_SPANISH        "¡Has disparado a un compañero de equipo!"
+
+REFERENCE           SCRIPT_TAKELEFTFLANK
+LANG_SPANISH        "Toma el flanco izquierdo."
+
+REFERENCE           SCRIPT_TANKSHELL_DEATH
+LANG_SPANISH        "¡Te han matado con un obús de tanque!"
+
+REFERENCE           SCRIPT_TIME_REMAINING
+LANG_SPANISH        "TIEMPO RESTANTE:"
+
+REFERENCE           SCRIPT_TOTAL_SCORE
+LANG_SPANISH        "PUNTUACIÓN TOTAL:"
+
+REFERENCE           SCRIPT_USE_THE_PANZERFAUST_ANTITANK
+LANG_SPANISH        "Usa las armas anticarro Panzerfaust de detrás del búnker para destruir los tanques."
+
+REFERENCE           SCRIPT_X2
+LANG_SPANISH        "x2"
+
+REFERENCE           SCRIPT_X3
+LANG_SPANISH        "x3"
+
+REFERENCE           SP_OBJECTIVES_AMMO
+LANG_SPANISH        "Munición"
+
+REFERENCE           SP_OBJECTIVES_BREACH
+LANG_SPANISH        "Incursión"
+
+REFERENCE           SP_OBJECTIVES_CLEAR
+LANG_SPANISH        "Quitar"
+
+REFERENCE           SP_OBJECTIVES_CLIMB
+LANG_SPANISH        "Escala"
+
+REFERENCE           SP_OBJECTIVES_DEFEND
+LANG_SPANISH        "Defiende"
+
+REFERENCE           SP_OBJECTIVES_DESTROY
+LANG_SPANISH        "Destruye"
+
+REFERENCE           SP_OBJECTIVES_DETONATE
+LANG_SPANISH        "Detona"
+
+REFERENCE           SP_OBJECTIVES_DISABLE
+LANG_SPANISH        "Inutiliza"
+
+REFERENCE           SP_OBJECTIVES_ENTER
+LANG_SPANISH        "Entra"
+
+REFERENCE           SP_OBJECTIVES_ESCORT
+LANG_SPANISH        "Escolta"
+
+REFERENCE           SP_OBJECTIVES_FOLLOW
+LANG_SPANISH        "Sigue"
+
+REFERENCE           SP_OBJECTIVES_HELP
+LANG_SPANISH        "Ayuda"
+
+REFERENCE           SP_OBJECTIVES_INCOMING_HELOS
+LANG_SPANISH        "Llegan (helicópteros)"
+
+REFERENCE           SP_OBJECTIVES_INCOMING_TANKS
+LANG_SPANISH        "Llegan (tanques)"
+
+REFERENCE           SP_OBJECTIVES_INTERACT
+LANG_SPANISH        "Accede"
+
+REFERENCE           SP_OBJECTIVES_JUMP
+LANG_SPANISH        "Salta"
+
+REFERENCE           SP_OBJECTIVES_KILL
+LANG_SPANISH        "Elimina"
+
+REFERENCE           SP_OBJECTIVES_MELEE
+LANG_SPANISH        "Cuerpo a cuerpo"
+
+REFERENCE           SP_OBJECTIVES_PICKUP
+LANG_SPANISH        "Recogida"
+
+REFERENCE           SP_OBJECTIVES_PROTECT
+LANG_SPANISH        "Protege"
+
+REFERENCE           SP_OBJECTIVES_RAPPEL
+LANG_SPANISH        "Desciende"
+
+REFERENCE           SP_OBJECTIVES_REGROUP
+LANG_SPANISH        "Reagrúpate"
+
+REFERENCE           SP_OBJECTIVES_SEARCH
+LANG_SPANISH        "Busca"
+
+REFERENCE           SP_OBJECTIVES_SHOOT
+LANG_SPANISH        "Dispara"
+
+REFERENCE           SP_OBJECTIVES_SUPPORT
+LANG_SPANISH        "Ayuda"
+
+REFERENCE           SP_OBJECTIVES_SWEEP
+LANG_SPANISH        "Barre"
+
+REFERENCE           SP_OBJECTIVES_TARGET
+LANG_SPANISH        "Blanco"
+
+REFERENCE           SP_OBJECTIVES_USE
+LANG_SPANISH        "Usa"
+
+REFERENCE           SP_OBJECTIVES_WEAPONS
+LANG_SPANISH        "Armas"
+
+ENDMARKER

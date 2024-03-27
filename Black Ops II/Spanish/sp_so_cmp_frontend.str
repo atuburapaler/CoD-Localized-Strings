@@ -1,0 +1,139 @@
+// Dumped from fastfile "sp_so_cmp_frontend".
+// In their original format the strings might have been separated in multiple files.
+VERSION             "1"
+CONFIG              "C:/projects/cod/t6/bin/StringEd.cfg"
+FILENOTES           ""
+
+REFERENCE           FRONTEND_CYCLE_MISSIONS
+LANG_SPANISH        "Pulsa ^3[{+actionslot 3}]^7 para elegir misión."
+
+REFERENCE           FRONTEND_INCOMING_MESSAGE
+LANG_SPANISH        "Mensaje entrante del almirante Briggs"
+
+REFERENCE           FRONTEND_PRESENCE_REQUESTED
+LANG_SPANISH        "David Mason, se requiere tu presencia en el centro de mando."
+
+REFERENCE           FRONTEND_PRESS_X_TO_SELECT
+LANG_SPANISH        "Pulsa ^3[{+activate}]^7 para confirmar la elección de misión."
+
+REFERENCE           FRONTEND_REPORT_TO_WAR_ROOM
+LANG_SPANISH        "Preséntate en el centro de mando."
+
+REFERENCE           FRONTEND_SF_AFGHANISTAN
+LANG_SPANISH        "Afganistán"
+
+REFERENCE           FRONTEND_SF_AT_RISK
+LANG_SPANISH        "En peligro"
+
+REFERENCE           FRONTEND_SF_CARRIER
+LANG_SPANISH        "Portaaviones"
+
+REFERENCE           FRONTEND_SF_DRONE
+LANG_SPANISH        "Fábrica de drones"
+
+REFERENCE           FRONTEND_SF_OVERFLOW
+LANG_SPANISH        "Desbordamiento"
+
+REFERENCE           FRONTEND_SF_SINGAPORE
+LANG_SPANISH        "Muelle"
+
+REFERENCE           FRONTEND_SF_SOCOTRA
+LANG_SPANISH        "Socotra"
+
+REFERENCE           FRONTEND_UNITS_REMAINING
+LANG_SPANISH        "Unidades por desplegar"
+
+REFERENCE           FRONTEND_USE_STRIKEFORCE
+LANG_SPANISH        "Pulsa ^3[{+activate}]^7 para acceder a fuerza de asalto."
+
+REFERENCE           FRONTEND_WARMAP_AVAILABLE
+LANG_SPANISH        "Mapa de Strikeforce disponible"
+
+REFERENCE           SP_OBJECTIVES_AMMO
+LANG_SPANISH        "Munición"
+
+REFERENCE           SP_OBJECTIVES_BREACH
+LANG_SPANISH        "Incursión"
+
+REFERENCE           SP_OBJECTIVES_CLEAR
+LANG_SPANISH        "Quitar"
+
+REFERENCE           SP_OBJECTIVES_CLIMB
+LANG_SPANISH        "Escala"
+
+REFERENCE           SP_OBJECTIVES_DEFEND
+LANG_SPANISH        "Defiende"
+
+REFERENCE           SP_OBJECTIVES_DESTROY
+LANG_SPANISH        "Destruye"
+
+REFERENCE           SP_OBJECTIVES_DETONATE
+LANG_SPANISH        "Detona"
+
+REFERENCE           SP_OBJECTIVES_DISABLE
+LANG_SPANISH        "Inutiliza"
+
+REFERENCE           SP_OBJECTIVES_ENTER
+LANG_SPANISH        "Entra"
+
+REFERENCE           SP_OBJECTIVES_ESCORT
+LANG_SPANISH        "Escolta"
+
+REFERENCE           SP_OBJECTIVES_FOLLOW
+LANG_SPANISH        "Sigue"
+
+REFERENCE           SP_OBJECTIVES_HELP
+LANG_SPANISH        "Ayuda"
+
+REFERENCE           SP_OBJECTIVES_INCOMING_HELOS
+LANG_SPANISH        "Llegan (helicópteros)"
+
+REFERENCE           SP_OBJECTIVES_INCOMING_TANKS
+LANG_SPANISH        "Llegan (tanques)"
+
+REFERENCE           SP_OBJECTIVES_INTERACT
+LANG_SPANISH        "Accede"
+
+REFERENCE           SP_OBJECTIVES_JUMP
+LANG_SPANISH        "Salta"
+
+REFERENCE           SP_OBJECTIVES_KILL
+LANG_SPANISH        "Elimina"
+
+REFERENCE           SP_OBJECTIVES_MELEE
+LANG_SPANISH        "Cuerpo a cuerpo"
+
+REFERENCE           SP_OBJECTIVES_PICKUP
+LANG_SPANISH        "Recogida"
+
+REFERENCE           SP_OBJECTIVES_PROTECT
+LANG_SPANISH        "Protege"
+
+REFERENCE           SP_OBJECTIVES_RAPPEL
+LANG_SPANISH        "Desciende"
+
+REFERENCE           SP_OBJECTIVES_REGROUP
+LANG_SPANISH        "Reagrúpate"
+
+REFERENCE           SP_OBJECTIVES_SEARCH
+LANG_SPANISH        "Busca"
+
+REFERENCE           SP_OBJECTIVES_SHOOT
+LANG_SPANISH        "Dispara"
+
+REFERENCE           SP_OBJECTIVES_SUPPORT
+LANG_SPANISH        "Ayuda"
+
+REFERENCE           SP_OBJECTIVES_SWEEP
+LANG_SPANISH        "Barre"
+
+REFERENCE           SP_OBJECTIVES_TARGET
+LANG_SPANISH        "Blanco"
+
+REFERENCE           SP_OBJECTIVES_USE
+LANG_SPANISH        "Usa"
+
+REFERENCE           SP_OBJECTIVES_WEAPONS
+LANG_SPANISH        "Armas"
+
+ENDMARKER

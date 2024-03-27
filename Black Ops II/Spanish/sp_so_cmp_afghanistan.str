@@ -1,0 +1,349 @@
+// Dumped from fastfile "sp_so_cmp_afghanistan".
+// In their original format the strings might have been separated in multiple files.
+VERSION             "1"
+CONFIG              "C:/projects/cod/t6/bin/StringEd.cfg"
+FILENOTES           ""
+
+REFERENCE           AFGHANISTAN_BASECAMP_1
+LANG_SPANISH        "Reúnete con Woods."
+
+REFERENCE           AFGHANISTAN_BASECAMP_2
+LANG_SPANISH        "Espera al contacto afgano.\n"
+
+REFERENCE           AFGHANISTAN_BASECAMP_3
+LANG_SPANISH        "Sigue a Zhao hasta la base de los muyahidines."
+
+REFERENCE           AFGHANISTAN_BP1WAVE3_VEHICLES
+LANG_SPANISH        "Destruye los vehículos enemigos [&&1 de 2]."
+
+REFERENCE           AFGHANISTAN_BP1_FIRE_CRATER_CHARGE
+LANG_SPANISH        "Pulsa ^3[{+attack}]^7 para detonar la carga cráter."
+
+REFERENCE           AFGHANISTAN_BP1_PLACE_CRATER_CHARGE
+LANG_SPANISH        "Mantén ^3[{+activate}]^7 para colocar la carga cráter."
+
+REFERENCE           AFGHANISTAN_BP1_VEHICLES
+LANG_SPANISH        "Destruye los BTR soviéticos [&&1 de 2]."
+
+REFERENCE           AFGHANISTAN_BP2WAVE2_VEHICLES
+LANG_SPANISH        "Destruye los vehículos enemigos [&&1 de 3]."
+
+REFERENCE           AFGHANISTAN_BP2WAVE3_VEHICLES
+LANG_SPANISH        "Destruye los vehículos enemigos [&&1 de 2]."
+
+REFERENCE           AFGHANISTAN_BP3WAVE2_VEHICLES
+LANG_SPANISH        "Destruye los vehículos enemigos [&&1 de 3]."
+
+REFERENCE           AFGHANISTAN_BP3WAVE3_VEHICLES
+LANG_SPANISH        "Destruye los vehículos enemigos [&&1 de 2]."
+
+REFERENCE           AFGHANISTAN_BRAINWASH_1
+LANG_SPANISH        "Mantén ^3[{+movestick}]^7 hacia abajo."
+
+REFERENCE           AFGHANISTAN_BRAINWASH_2
+LANG_SPANISH        "Mantén ^3[{+movestick}]^7 hacia la izquierda."
+
+REFERENCE           AFGHANISTAN_BRAINWASH_3
+LANG_SPANISH        "Mantén ^3[{+movestick}]^7 y ^3[{+lookstick}]^7 hacia abajo."
+
+REFERENCE           AFGHANISTAN_BRAINWASH_PROMPT2
+LANG_SPANISH        "Pulsa ^F^3[{+activate}]^7^F para resistirte."
+
+REFERENCE           AFGHANISTAN_BRAINWASH_PROMPT3
+LANG_SPANISH        "Pulsa        para resistirte."
+
+REFERENCE           AFGHANISTAN_C4_FAIL
+LANG_SPANISH        "Espera hasta que tu equipo salga del alcance de la onda expansiva."
+
+REFERENCE           AFGHANISTAN_CREW_HINT
+LANG_SPANISH        "Pulsa ^3[{+actionslot 4}]^7 para enviar una dotación."
+
+REFERENCE           AFGHANISTAN_DISTANCE_FAILED
+LANG_SPANISH        "Has abandonado la misión."
+
+REFERENCE           AFGHANISTAN_HINT_MINE_PLACE
+LANG_SPANISH        "Pulsa ^3[{+attack}]^7 para colocar minas."
+
+REFERENCE           AFGHANISTAN_HINT_MINE_SELECT
+LANG_SPANISH        "Pulsa ^3[{+actionslot 1}]^7 para seleccionar minas."
+
+REFERENCE           AFGHANISTAN_HINT_STICKY_THROW
+LANG_SPANISH        "Pulsa ^3[{+actionslot 4}]^7 para seleccionar morteros."
+
+REFERENCE           AFGHANISTAN_HORSE_DISMOUNT
+LANG_SPANISH        "Mantén ^3[{+activate}]^7 para desmontar."
+
+REFERENCE           AFGHANISTAN_HORSE_SHOOTING_TUTORIAL_1
+LANG_SPANISH        "¿Has disparado alguna vez un arma a caballo?\n"
+
+REFERENCE           AFGHANISTAN_HORSE_SHOOTING_TUTORIAL_2
+LANG_SPANISH        "Lleva tiempo acostumbrarse. Intenta disparar a los buitres que están sobre ese tanque oxidado."
+
+REFERENCE           AFGHANISTAN_HORSE_SHOOTING_TUTORIAL_FAIL
+LANG_SPANISH        "Vas a tener que practicar más si quieres sobrevivir en el desierto.\n"
+
+REFERENCE           AFGHANISTAN_HORSE_SHOOTING_TUTORIAL_GOOD
+LANG_SPANISH        "Buena puntería."
+
+REFERENCE           AFGHANISTAN_INEFFECTIVE_WEAPON
+LANG_SPANISH        "El arma actual no es eficaz contra este tipo de vehículo."
+
+REFERENCE           AFGHANISTAN_INTROSCREEN_LINE_1
+LANG_SPANISH        "^L\"VIEJAS HERIDAS\"^L"
+
+REFERENCE           AFGHANISTAN_INTROSCREEN_LINE_2
+LANG_SPANISH        "PROVINCIA DE KHOST, ^LAFGANISTÁN^L"
+
+REFERENCE           AFGHANISTAN_INTROSCREEN_LINE_3
+LANG_SPANISH        "ALEX ^LMASON^L"
+
+REFERENCE           AFGHANISTAN_INTROSCREEN_LINE_4
+LANG_SPANISH        "DIVISIÓN DE ACTIVIDADES ESPECIALES DE LA ^LCIA^L"
+
+REFERENCE           AFGHANISTAN_INTROSCREEN_LINE_5
+LANG_SPANISH        "5 DE SEPTIEMBRE DE ^L1986^L"
+
+REFERENCE           AFGHANISTAN_INTRUDER
+LANG_SPANISH        "Mantén ^3[{+activate}]^7 para forzar la cerradura."
+
+REFERENCE           AFGHANISTAN_LOCKBREAKER
+LANG_SPANISH        "Mantén ^3[{+activate}]^7 para cortar."
+
+REFERENCE           AFGHANISTAN_MAP_A
+LANG_SPANISH        "^3[{+gostand}]^7: tanque."
+
+REFERENCE           AFGHANISTAN_MAP_B
+LANG_SPANISH        "^3[{+stance}]^7"
+
+REFERENCE           AFGHANISTAN_MAP_MOVEMENT
+LANG_SPANISH        "^3[{+movestick}]^7: movimiento."
+
+REFERENCE           AFGHANISTAN_MAP_NO_UNIT
+LANG_SPANISH        "Este tipo de dotación no está disponible."
+
+REFERENCE           AFGHANISTAN_MAP_TUT_1
+LANG_SPANISH        "Mueve ^3[{+movestick}]^7 para identificar el punto de bloqueo 1."
+
+REFERENCE           AFGHANISTAN_MAP_TUT_2
+LANG_SPANISH        "Mueve ^3[{+movestick}]^7 para identificar el punto de bloqueo 2."
+
+REFERENCE           AFGHANISTAN_MAP_TUT_3
+LANG_SPANISH        "Mueve ^3[{+movestick}]^7 para identificar el punto de bloqueo 3."
+
+REFERENCE           AFGHANISTAN_MAP_TUT_4
+LANG_SPANISH        "Pulsa ^3[{+activate}]^7, ^3[{+weapnext_inventory}]^7 o ^3[{+stance}]^7 para colocar una unidad."
+
+REFERENCE           AFGHANISTAN_MAP_TUT_5
+LANG_SPANISH        "Pulsa ^3[{+gostand}]^7 para colocar el tanque en el Arena."
+
+REFERENCE           AFGHANISTAN_MAP_TUT_6
+LANG_SPANISH        "Cuando estés listo, pulsa ^3[{+actionslot 4}]^7 para salir del mapa."
+
+REFERENCE           AFGHANISTAN_MAP_TUT_7
+LANG_SPANISH        "Pulsa ^3[{+actionslot 4}]^7 cuando quieras llamar por radio a Woods."
+
+REFERENCE           AFGHANISTAN_MAP_TUT_8
+LANG_SPANISH        "Mueve ^3[{+movestick}]^7 para identificar el Arena."
+
+REFERENCE           AFGHANISTAN_MAP_X
+LANG_SPANISH        "^3[{+activate}]^7"
+
+REFERENCE           AFGHANISTAN_MAP_Y
+LANG_SPANISH        "^3[{+weapnext_inventory}]^7"
+
+REFERENCE           AFGHANISTAN_MORTAR_HINT
+LANG_SPANISH        "Pulsa ^3[{+attack}]^7 para detonar en el aire y que llueva fuego."
+
+REFERENCE           AFGHANISTAN_MORTAR_HINT1
+LANG_SPANISH        "Haz que llueva fuego sobre los blancos del mortero."
+
+REFERENCE           AFGHANISTAN_MORTAR_HINT2
+LANG_SPANISH        "Usa el modo de fuego libre del FIM-92 Stinger para que llueva fuego."
+
+REFERENCE           AFGHANISTAN_MORTAR_HINT3
+LANG_SPANISH        "Apunta sobre el emplazamiento de mortero y detona el cohete para que llueva fuego."
+
+REFERENCE           AFGHANISTAN_MSG_BASEATTACK
+LANG_SPANISH        "LA BASE ESTÁ SIENDO ATACADA."
+
+REFERENCE           AFGHANISTAN_NEED_HORSE
+LANG_SPANISH        "No llegarás a tiempo a pie."
+
+REFERENCE           AFGHANISTAN_OBJECTIVE_FAIL
+LANG_SPANISH        "No has cumplido el objetivo."
+
+REFERENCE           AFGHANISTAN_OBJ_BP1
+LANG_SPANISH        "Defiende el punto de bloqueo oeste."
+
+REFERENCE           AFGHANISTAN_OBJ_BP2
+LANG_SPANISH        "Defiende el punto de bloqueo 2."
+
+REFERENCE           AFGHANISTAN_OBJ_BP2_MORTAR
+LANG_SPANISH        "Destruye los emplazamientos de morteros [&&1 de 2]."
+
+REFERENCE           AFGHANISTAN_OBJ_BP3
+LANG_SPANISH        "Defiende el punto de bloqueo 3."
+
+REFERENCE           AFGHANISTAN_OBJ_BRIDGES
+LANG_SPANISH        "Destruye los puentes [&&1 de 2]."
+
+REFERENCE           AFGHANISTAN_OBJ_DEFEND_ALL
+LANG_SPANISH        "Destruye las amenazas contra la base [&&1 de 6]."
+
+REFERENCE           AFGHANISTAN_OBJ_DEFEND_CACHE1
+LANG_SPANISH        "Defiende el alijo de armas."
+
+REFERENCE           AFGHANISTAN_OBJ_DEFEND_CACHE2
+LANG_SPANISH        "Defiende el alijo de armas."
+
+REFERENCE           AFGHANISTAN_OBJ_DESTROY_BTR
+LANG_SPANISH        "Destruye el BTR."
+
+REFERENCE           AFGHANISTAN_OBJ_DESTROY_DOME
+LANG_SPANISH        "Bloquea la entrada al pueblo."
+
+REFERENCE           AFGHANISTAN_OBJ_INTERROGATE
+LANG_SPANISH        "Interroga a Kravchenko."
+
+REFERENCE           AFGHANISTAN_OBJ_OVERALL
+LANG_SPANISH        "Investiga la relación de Menendez con los soviéticos."
+
+REFERENCE           AFGHANISTAN_OBJ_PROTECT
+LANG_SPANISH        "Impide que destruyan la base."
+
+REFERENCE           AFGHANISTAN_OBJ_RETURN_BASE
+LANG_SPANISH        "Vuelve a la base."
+
+REFERENCE           AFGHANISTAN_OBJ_RIDE
+LANG_SPANISH        "Monta"
+
+REFERENCE           AFGHANISTAN_OBJ_SECURE_CACHE
+LANG_SPANISH        "Recupera el depósito de armas."
+
+REFERENCE           AFGHANISTAN_OBJ_WAVE2_THREAT
+LANG_SPANISH        "Destruye la amenaza contra la base."
+
+REFERENCE           AFGHANISTAN_OBJ_WAVE3
+LANG_SPANISH        "Defiende los puntos de bloqueo [&&1 de 2]."
+
+REFERENCE           AFGHANISTAN_OBJ_WAVE3_THREAT
+LANG_SPANISH        "Destruye las amenazas contra la base [&&1 de 2]."
+
+REFERENCE           AFGHANISTAN_OBJ_WEAPONS
+LANG_SPANISH        "Armas"
+
+REFERENCE           AFGHANISTAN_OBTAIN_PULWAR
+LANG_SPANISH        "Mantén ^3[{+activate}]^7 para sacar."
+
+REFERENCE           AFGHANISTAN_PROTECT_FAILED
+LANG_SPANISH        "No has logrado proteger la base."
+
+REFERENCE           AFGHANISTAN_PUSH_OFF_HORSE
+LANG_SPANISH        "Mantén ^3[{+speed_throw}]^7 y ^3[{+attack}]^7 para escapar."
+
+REFERENCE           AFGHANISTAN_REBEL_CAMP
+LANG_SPANISH        "Entra en la sala de mando."
+
+REFERENCE           AFGHANISTAN_RETURN_TO_BASE
+LANG_SPANISH        "Vuelve a la base de los muyahidines."
+
+REFERENCE           AFGHANISTAN_ROCK_ARCH_FAIL
+LANG_SPANISH        "Has sido aplastado."
+
+REFERENCE           AFGHANISTAN_SPRINT
+LANG_SPANISH        "Pulsa ^3[{+breath_sprint}]^7 para esprintar."
+
+REFERENCE           AFGHANISTAN_STINGER_FF_HINT
+LANG_SPANISH        "Pulsa ^3[{+attack}]^7 para disparar un cohete y ^3[{+attack}]^7 de nuevo para detonarlo en el aire y que llueva fuego."
+
+REFERENCE           AFGHANISTAN_STINGER_HINT
+LANG_SPANISH        "Pulsa ^3[{+actionslot 3}]^7 para cambiar al modo de fijación de aeronaves."
+
+REFERENCE           SP_OBJECTIVES_AMMO
+LANG_SPANISH        "Munición"
+
+REFERENCE           SP_OBJECTIVES_BREACH
+LANG_SPANISH        "Incursión"
+
+REFERENCE           SP_OBJECTIVES_CLEAR
+LANG_SPANISH        "Quitar"
+
+REFERENCE           SP_OBJECTIVES_CLIMB
+LANG_SPANISH        "Escala"
+
+REFERENCE           SP_OBJECTIVES_DEFEND
+LANG_SPANISH        "Defiende"
+
+REFERENCE           SP_OBJECTIVES_DESTROY
+LANG_SPANISH        "Destruye"
+
+REFERENCE           SP_OBJECTIVES_DETONATE
+LANG_SPANISH        "Detona"
+
+REFERENCE           SP_OBJECTIVES_DISABLE
+LANG_SPANISH        "Inutiliza"
+
+REFERENCE           SP_OBJECTIVES_ENTER
+LANG_SPANISH        "Entra"
+
+REFERENCE           SP_OBJECTIVES_ESCORT
+LANG_SPANISH        "Escolta"
+
+REFERENCE           SP_OBJECTIVES_FOLLOW
+LANG_SPANISH        "Sigue"
+
+REFERENCE           SP_OBJECTIVES_HELP
+LANG_SPANISH        "Ayuda"
+
+REFERENCE           SP_OBJECTIVES_INCOMING_HELOS
+LANG_SPANISH        "Llegan (helicópteros)"
+
+REFERENCE           SP_OBJECTIVES_INCOMING_TANKS
+LANG_SPANISH        "Llegan (tanques)"
+
+REFERENCE           SP_OBJECTIVES_INTERACT
+LANG_SPANISH        "Accede"
+
+REFERENCE           SP_OBJECTIVES_JUMP
+LANG_SPANISH        "Salta"
+
+REFERENCE           SP_OBJECTIVES_KILL
+LANG_SPANISH        "Elimina"
+
+REFERENCE           SP_OBJECTIVES_MELEE
+LANG_SPANISH        "Cuerpo a cuerpo"
+
+REFERENCE           SP_OBJECTIVES_PICKUP
+LANG_SPANISH        "Recogida"
+
+REFERENCE           SP_OBJECTIVES_PROTECT
+LANG_SPANISH        "Protege"
+
+REFERENCE           SP_OBJECTIVES_RAPPEL
+LANG_SPANISH        "Desciende"
+
+REFERENCE           SP_OBJECTIVES_REGROUP
+LANG_SPANISH        "Reagrúpate"
+
+REFERENCE           SP_OBJECTIVES_SEARCH
+LANG_SPANISH        "Busca"
+
+REFERENCE           SP_OBJECTIVES_SHOOT
+LANG_SPANISH        "Dispara"
+
+REFERENCE           SP_OBJECTIVES_SUPPORT
+LANG_SPANISH        "Ayuda"
+
+REFERENCE           SP_OBJECTIVES_SWEEP
+LANG_SPANISH        "Barre"
+
+REFERENCE           SP_OBJECTIVES_TARGET
+LANG_SPANISH        "Blanco"
+
+REFERENCE           SP_OBJECTIVES_USE
+LANG_SPANISH        "Usa"
+
+REFERENCE           SP_OBJECTIVES_WEAPONS
+LANG_SPANISH        "Armas"
+
+ENDMARKER

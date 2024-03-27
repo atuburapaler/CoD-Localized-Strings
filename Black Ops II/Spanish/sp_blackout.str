@@ -1,0 +1,751 @@
+// Dumped from fastfile "sp_blackout".
+// In their original format the strings might have been separated in multiple files.
+VERSION             "1"
+CONFIG              "C:/projects/cod/t6/bin/StringEd.cfg"
+FILENOTES           ""
+
+REFERENCE           BLACKOUT_ACCESS_TERMINAL
+LANG_SPANISH        "Mantén ^3[{+activate}]^7 para acceder al ordenador."
+
+REFERENCE           BLACKOUT_BRUTE_FORCE
+LANG_SPANISH        "Mantén ^3[{+activate}]^7 para abrir por la fuerza."
+
+REFERENCE           BLACKOUT_COMPUTER_SERVER_PIP_USE
+LANG_SPANISH        "Pulsa ^3[{+activate}]^7 para enviar las imágenes a las gafas."
+
+REFERENCE           BLACKOUT_COMPUTER_SERVER_USE
+LANG_SPANISH        "Pulsa ^3[{+activate}]^7 para usar el servidor."
+
+REFERENCE           BLACKOUT_EXPOSED_SIDE
+LANG_SPANISH        "Has dejado expuesto un lado al enemigo."
+
+REFERENCE           BLACKOUT_GETUP
+LANG_SPANISH        "Pulsa ^3[{+melee}]^7."
+
+REFERENCE           BLACKOUT_HACK_TURRET
+LANG_SPANISH        "Pulsa ^3[{+activate}]^7 para piratear la torreta."
+
+REFERENCE           BLACKOUT_INTROSCREEN_LINE_1
+LANG_SPANISH        "^L\"ULISES\"^L"
+
+REFERENCE           BLACKOUT_INTROSCREEN_LINE_2
+LANG_SPANISH        "USS BARACK OBAMA, ^LGOLFO DE MÉXICO^L"
+
+REFERENCE           BLACKOUT_INTROSCREEN_LINE_3
+LANG_SPANISH        "DAVID MASON // NOMBRE EN CLAVE: ^L\"SECTION\"^L"
+
+REFERENCE           BLACKOUT_INTROSCREEN_LINE_4
+LANG_SPANISH        "FUERZA ANTITERRORISTA DEL ^LJSOC^L"
+
+REFERENCE           BLACKOUT_INTROSCREEN_LINE_5
+LANG_SPANISH        "19 DE JUNIO DE ^L2025^L"
+
+REFERENCE           BLACKOUT_OBJ_CLEAR
+LANG_SPANISH        "Evacua el USS Barack Obama."
+
+REFERENCE           BLACKOUT_OBJ_EVAC
+LANG_SPANISH        "Llega al VTOL para la evacuación."
+
+REFERENCE           BLACKOUT_OBJ_FIND_MENEN
+LANG_SPANISH        "Encuentra a Menendez."
+
+REFERENCE           BLACKOUT_OBJ_FIND_SALAZAR
+LANG_SPANISH        "Llega al hangar."
+
+REFERENCE           BLACKOUT_OBJ_GRAB_BRIGGS
+LANG_SPANISH        "Reduce al almirante Briggs."
+
+REFERENCE           BLACKOUT_OBJ_HELP_SEALS
+LANG_SPANISH        "Ayuda a los SEAL con un fusil de precisión."
+
+REFERENCE           BLACKOUT_OBJ_INTERROGATE
+LANG_SPANISH        "Interroga a Raul Menendez."
+
+REFERENCE           BLACKOUT_OBJ_PICKUP_GUNS
+LANG_SPANISH        "Coge tus armas."
+
+REFERENCE           BLACKOUT_OBJ_RESTORE_CONTROL
+LANG_SPANISH        "Recupera el control del buque."
+
+REFERENCE           BLACKOUT_OBJ_SERVER
+LANG_SPANISH        "Llega a la sala del servidor."
+
+REFERENCE           BLACKOUT_OBJ_SHOOT_BRIGGS
+LANG_SPANISH        "Mata o hiere al almirante Briggs."
+
+REFERENCE           BLACKOUT_OBJ_SNIPE
+LANG_SPANISH        "Proporciona apoyo."
+
+REFERENCE           BLACKOUT_OBJ_STOP_MENEN
+LANG_SPANISH        "Evita que Menendez despegue."
+
+REFERENCE           BLACKOUT_OBJ_VIEW_CCTV
+LANG_SPANISH        "Mira las imágenes del circuito cerrado."
+
+REFERENCE           BLACKOUT_OPEN_DOOR
+LANG_SPANISH        "Mantén ^3[{+activate}]^7 para abrir la puerta."
+
+REFERENCE           BLACKOUT_PHALANX_TERMINAL
+LANG_SPANISH        "Pulsa ^3[{+activate}]^7 para anular los cañones Phalanx."
+
+REFERENCE           BLACKOUT_USE_PERSONAL_EFFECTS
+LANG_SPANISH        "Pulsa ^3[{+activate}]^7 para recoger los efectos personales."
+
+REFERENCE           BLACKOUT_VISOR_INTERROGATION
+LANG_SPANISH        "Transmisión de vídeo entrante...\nConexión establecida.\nMostrando imágenes remotas."
+
+REFERENCE           BLACKOUT_VISOR_REBOOT_1
+LANG_SPANISH        "Sistemas de seguridad reiniciándose..."
+
+REFERENCE           BLACKOUT_VISOR_REBOOT_2
+LANG_SPANISH        "Sistemas de torreta desconectados..."
+
+REFERENCE           BLACKOUT_VISOR_REBOOT_3
+LANG_SPANISH        "Control de dron desconectado..."
+
+REFERENCE           BLACKOUT_VISOR_REBOOT_4
+LANG_SPANISH        "Cierre de puertas desconectado..."
+
+REFERENCE           BLACKOUT_VISOR_TURRET_DESTROYED
+LANG_SPANISH        "Torreta centinela destruida.\nConexión remota perdida."
+
+REFERENCE           BLACKOUT_VOX_VOX_BLA_11_01_001A_SALA_D
+LANG_SPANISH        "^1Salazar: ^7It's good you do not talk."
+
+REFERENCE           BLACKOUT_VOX_VOX_BLA_11_01_002A_SALA_D
+LANG_SPANISH        "^1Salazar: ^7We can take our time."
+
+REFERENCE           BLACKOUT_VOX_VOX_BLA_11_01_003A_MENE_D
+LANG_SPANISH        "^1Menendez: ^7I will speak only to David Mason."
+
+REFERENCE           BLACKOUT_VOX_VOX_BLA_11_01_004A_MENE_D
+LANG_SPANISH        "^1Menendez: ^7Bring him to me.  I will tell him everything."
+
+REFERENCE           BLACKOUT_VOX_VOX_BLA_11_01_005A_BRIG_D
+LANG_SPANISH        "^1Adm. Briggs: ^7David?"
+
+REFERENCE           BLACKOUT_VOX_VOX_BLA_11_02_003A_BRIG_D
+LANG_SPANISH        "^1Adm. Briggs: ^7Do what you can.  I'll be on the bridge."
+
+REFERENCE           BLACKOUT_VOX_VOX_BLA_11_03_001A_SECT_D
+LANG_SPANISH        "^1Section: ^7I'm not a kid this time..."
+
+REFERENCE           BLACKOUT_VOX_VOX_BLA_11_03_002A_SECT_D
+LANG_SPANISH        "^1Section: ^7...But you can go ahead and try what you did back then."
+
+REFERENCE           BLACKOUT_VOX_VOX_BLA_11_03_003A_SECT_D
+LANG_SPANISH        "^1Section: ^7Yeah. Go ahead, Admiral Briggs."
+
+REFERENCE           BLACKOUT_VOX_VOX_BLA_11_03_004A_BRIG_D
+LANG_SPANISH        "^1Adm. Briggs: ^7We have a situation.  We're tracking a passenger jet entering the Obama's airspace..."
+
+REFERENCE           BLACKOUT_VOX_VOX_BLA_11_03_005A_BRIG_D
+LANG_SPANISH        "^1Adm. Briggs: ^7Wait... What is that?  Are those birds?"
+
+REFERENCE           BLACKOUT_VOX_VOX_BLA_11_03_006A_MENE_D
+LANG_SPANISH        "^1Menendez: ^7I mete and dole unequal laws unto a savage race."
+
+REFERENCE           BLACKOUT_VOX_VOX_BLA_11_03_007A_SECT_D
+LANG_SPANISH        "^1Section: ^7We're under attack!  We're under attack!!"
+
+REFERENCE           BLACKOUT_VOX_VOX_BLA_11_03_008A_BRIG_D
+LANG_SPANISH        "^1Adm. Briggs: ^7There are hundreds of them!"
+
+REFERENCE           BLACKOUT_VOX_VOX_BLA_11_03_009A_BRIG_D
+LANG_SPANISH        "^1Adm. Briggs: ^7We've just lost the camera feed to the interrogation room!"
+
+REFERENCE           BLACKOUT_VOX_VOX_BLA_11_03_010A_BRIG_D
+LANG_SPANISH        "^1Adm. Briggs: ^7Secure Menendez!  Meet me on the bridge!"
+
+REFERENCE           BLACKOUT_VOX_VOX_BLA_11_03_011A_SECT_D
+LANG_SPANISH        "^1Section: ^7If he so much as moves an inch, you put a bullet in his brain!  You got me?"
+
+REFERENCE           BLACKOUT_VOX_VOX_BLA_11_03_012A_SECT_D
+LANG_SPANISH        "^1Section: ^7The Obama is under attack!  Ensure no one leaves this room!"
+
+REFERENCE           BLACKOUT_VOX_VOX_BLA_11_03_013A_MENE_D
+LANG_SPANISH        "^1Menendez: ^7You know I will not kill you, David.  But if you do not drop your gun, I will kill your friend."
+
+REFERENCE           BLACKOUT_VOX_VOX_BLA_11_03_014A_MENE_D
+LANG_SPANISH        "^1Menendez: ^7You've got five seconds to decide."
+
+REFERENCE           BLACKOUT_VOX_VOX_BLA_11_03_015A_SECT_D
+LANG_SPANISH        "^1Section: ^7How did you even..."
+
+REFERENCE           BLACKOUT_VOX_VOX_BLA_11_03_016A_MENE_D
+LANG_SPANISH        "^1Menendez: ^7Put them on... Now turn around."
+
+REFERENCE           BLACKOUT_VOX_VOX_BLA_11_03_017A_SECT_M
+LANG_SPANISH        "^1Section: ^7Such a self indulgent piece of shit...  Stop talking in riddles!"
+
+REFERENCE           BLACKOUT_VOX_VOX_BLA_11_03_018A_MENE_D
+LANG_SPANISH        "^1Menendez: ^7Opulence is sinful and we all pay for it."
+
+REFERENCE           BLACKOUT_VOX_VOX_BLA_11_03_019A_MENE_D
+LANG_SPANISH        "^1Menendez: ^7She was taken from me."
+
+REFERENCE           BLACKOUT_VOX_VOX_BLA_11_03_020A_MENE_D
+LANG_SPANISH        "^1Menendez: ^7Do you know what that feels like yet?"
+
+REFERENCE           BLACKOUT_VOX_VOX_BLA_11_03_021A_MENE_D
+LANG_SPANISH        "^1Menendez: ^7An American torched the warehouse for insurance money. 11,000 dollars. That was the value they placed on her life."
+
+REFERENCE           BLACKOUT_VOX_VOX_BLA_11_03_022A_MENE_D
+LANG_SPANISH        "^1Menendez: ^7She was the reason for me to live.  What about you, David?  What drives you?"
+
+REFERENCE           BLACKOUT_VOX_VOX_BLA_11_03_023A_MENE_D
+LANG_SPANISH        "^1Menendez: ^7Is it me?"
+
+REFERENCE           BLACKOUT_VOX_VOX_BLA_11_03_024A_MENE_D
+LANG_SPANISH        "^1Menendez: ^7Einstein once said that the economic anarchy of capitalism is the real source of evil."
+
+REFERENCE           BLACKOUT_VOX_VOX_BLA_11_03_025A_MENE_D
+LANG_SPANISH        "^1Menendez: ^7Your father... and his people... took Josefina from me."
+
+REFERENCE           BLACKOUT_VOX_VOX_BLA_11_03_026A_MENE_D
+LANG_SPANISH        "^1Menendez: ^7Pues... tu papa esta muerto.  Your father is dead."
+
+REFERENCE           BLACKOUT_VOX_VOX_BLA_11_03_027A_MENE_D
+LANG_SPANISH        "^1Menendez: ^7And his people..."
+
+REFERENCE           BLACKOUT_VOX_VOX_BLA_11_03_028A_MENE_D
+LANG_SPANISH        "^1Menendez: ^7Finished!"
+
+REFERENCE           BLACKOUT_VOX_VOX_BLA_11_03_029A_BRIG_D
+LANG_SPANISH        "^1Adm. Briggs: ^7Section..."
+
+REFERENCE           BLACKOUT_VOX_VOX_BLA_11_05_001A_SALA_D
+LANG_SPANISH        "^1Salazar: ^7Menendez has escaped!"
+
+REFERENCE           BLACKOUT_VOX_VOX_BLA_11_05_002A_SECT_D
+LANG_SPANISH        "^1Section: ^7What?"
+
+REFERENCE           BLACKOUT_VOX_VOX_BLA_11_06_001A_HARP_D
+LANG_SPANISH        "^1Harper: ^7PMCs used Glider Wings to launch a massive air assault on the Obama!"
+
+REFERENCE           BLACKOUT_VOX_VOX_BLA_11_06_003A_HARP_D
+LANG_SPANISH        "^1Harper: ^7They used stealth tech.  Our guns only hit a fraction of 'em!"
+
+REFERENCE           BLACKOUT_VOX_VOX_BLA_11_06_004A_HARP_D
+LANG_SPANISH        "^1Harper: ^7They're tearing this ship apart!"
+
+REFERENCE           BLACKOUT_VOX_VOX_BLA_11_06_005A_BRIG_D
+LANG_SPANISH        "^1Adm. Briggs: ^7PMCs have launched a jet wing assault on our fleet.  They've boarded the Obama!"
+
+REFERENCE           BLACKOUT_VOX_VOX_BLA_11_06_007A_BRIG_D
+LANG_SPANISH        "^1Adm. Briggs: ^7They use stealth tech.  Estimates suggest we can only hit about 10% of them!"
+
+REFERENCE           BLACKOUT_VOX_VOX_BLA_11_06_008A_SALA_D
+LANG_SPANISH        "^1Salazar: ^7We need heavy firepower from the armory."
+
+REFERENCE           BLACKOUT_VOX_VOX_BLA_11_06_009A_SALA_D
+LANG_SPANISH        "^1Salazar: ^7They killed the security detail guarding Menendez."
+
+REFERENCE           BLACKOUT_VOX_VOX_BLA_11_07_001A_SALA_D
+LANG_SPANISH        "^1Salazar: ^7Take what you want."
+
+REFERENCE           BLACKOUT_VOX_VOX_BLA_11_07_002A_SALA_D
+LANG_SPANISH        "^1Salazar: ^7Menendez couldn't have done this alone.  He must have men inside."
+
+REFERENCE           BLACKOUT_VOX_VOX_BLA_11_07_003A_SECT_D
+LANG_SPANISH        "^1Section: ^7Right now we have to focus on regaining control of the Obama."
+
+REFERENCE           BLACKOUT_VOX_VOX_BLA_11_07_004A_SALA_D
+LANG_SPANISH        "^1Salazar: ^7Ready?"
+
+REFERENCE           BLACKOUT_VOX_VOX_BLA_11_07_005A_SECT_D
+LANG_SPANISH        "^1Section: ^7Go."
+
+REFERENCE           BLACKOUT_VOX_VOX_BLA_11_07_006A_SALA_D
+LANG_SPANISH        "^1Salazar: ^7Come on!"
+
+REFERENCE           BLACKOUT_VOX_VOX_BLA_11_07_007A_SALA_D
+LANG_SPANISH        "^1Salazar: ^7More on the stairs!"
+
+REFERENCE           BLACKOUT_VOX_VOX_BLA_11_07_008A_SALA_D
+LANG_SPANISH        "^1Salazar: ^7Move up!"
+
+REFERENCE           BLACKOUT_VOX_VOX_BLA_11_08_003A_HARP_D
+LANG_SPANISH        "^1Harper: ^7Section!  The Obama's automated security system's now under enemy control."
+
+REFERENCE           BLACKOUT_VOX_VOX_BLA_11_08_004A_SECT_D
+LANG_SPANISH        "^1Section: ^7Where's Briggs?"
+
+REFERENCE           BLACKOUT_VOX_VOX_BLA_11_08_005A_HARP_D
+LANG_SPANISH        "^1Harper: ^7The server room, lower deck."
+
+REFERENCE           BLACKOUT_VOX_VOX_BLA_11_08_006A_BRIG_D
+LANG_SPANISH        "^1Adm. Briggs: ^7Section, our automated defenses have been compromised!  We have to restore order or we'll lose the ship!"
+
+REFERENCE           BLACKOUT_VOX_VOX_BLA_11_08_007A_SECT_D
+LANG_SPANISH        "^1Section: ^7Where are you, Admiral?"
+
+REFERENCE           BLACKOUT_VOX_VOX_BLA_11_08_008A_BRIG_M
+LANG_SPANISH        "^1Adm. Briggs: ^7Below decks, in the server room.  The techs are trying to figure out what the hell happened!"
+
+REFERENCE           BLACKOUT_VOX_VOX_BLA_11_08_008A_BRIG_S
+LANG_SPANISH        "^1Adm. Briggs: ^7Below decks, in the server room.  The techs are trying to figure out what happened!"
+
+REFERENCE           BLACKOUT_VOX_VOX_BLA_11_08_009A_SECT_D
+LANG_SPANISH        "^1Section: ^7Salazar, get below and secure Briggs."
+
+REFERENCE           BLACKOUT_VOX_VOX_BLA_11_08_010A_SECT_D
+LANG_SPANISH        "^1Section: ^7Seal the server room doors.  No one in or out."
+
+REFERENCE           BLACKOUT_VOX_VOX_BLA_11_08_011A_SALA_D
+LANG_SPANISH        "^1Salazar: ^7Got it."
+
+REFERENCE           BLACKOUT_VOX_VOX_BLA_11_08_012A_SALA_D
+LANG_SPANISH        "^1Salazar: ^7This will be over soon.  Good luck, Section."
+
+REFERENCE           BLACKOUT_VOX_VOX_BLA_11_08_013A_SECT_D
+LANG_SPANISH        "^1Section: ^7You too, Sal."
+
+REFERENCE           BLACKOUT_VOX_VOX_BLA_11_08_014A_SECT_D
+LANG_SPANISH        "^1Section: ^7We gotta fight our way to the bridge."
+
+REFERENCE           BLACKOUT_VOX_VOX_BLA_11_08_015A_SECT_D
+LANG_SPANISH        "^1Section: ^7On me."
+
+REFERENCE           BLACKOUT_VOX_VOX_BLA_11_09_002A_SECT_D
+LANG_SPANISH        "^1Section: ^7It's worse than we thought!  The carrier's defense systems aren't just down, they're firing on the fleet!"
+
+REFERENCE           BLACKOUT_VOX_VOX_BLA_11_09_003A_HARP_D
+LANG_SPANISH        "^1Harper: ^7We got another wave of Jet Wings landing now!  I'm trying to take some of the heat off our men!"
+
+REFERENCE           BLACKOUT_VOX_VOX_BLA_11_09_004A_SECT_D
+LANG_SPANISH        "^1Section: ^7Stay on it!  I'm headed to the bridge.  I'll shut down the automated systems from there!"
+
+REFERENCE           BLACKOUT_VOX_VOX_BLA_11_09_005A_SECT_D
+LANG_SPANISH        "^1Section: ^7Admiral Briggs!"
+
+REFERENCE           BLACKOUT_VOX_VOX_BLA_11_09_007A_BRIG_D
+LANG_SPANISH        "^1Adm. Briggs: ^7We have another wave of Jet Wings boarding the ship!  We have to regain control, Section!"
+
+REFERENCE           BLACKOUT_VOX_VOX_BLA_11_09_008A_SECT_D
+LANG_SPANISH        "^1Section: ^7I'm headed to the bridge.  I'll shut down the automated systems from there!"
+
+REFERENCE           BLACKOUT_VOX_VOX_BLA_12_01_001A_SECT_M
+LANG_SPANISH        "^1Section: ^7Dammit!"
+
+REFERENCE           BLACKOUT_VOX_VOX_BLA_12_01_002A_SECT_D
+LANG_SPANISH        "^1Section: ^7Admiral Briggs!  The auto turrets are tearing our men to shreds!"
+
+REFERENCE           BLACKOUT_VOX_VOX_BLA_12_01_003A_SECT_D
+LANG_SPANISH        "^1Section: ^7We need a solution... and fast!"
+
+REFERENCE           BLACKOUT_VOX_VOX_BLA_12_01_004A_BRIG_D
+LANG_SPANISH        "^1Adm. Briggs: ^7Tech team's working on it!"
+
+REFERENCE           BLACKOUT_VOX_VOX_BLA_12_01_005A_BRIG_D
+LANG_SPANISH        "^1Adm. Briggs: ^7The techs identified local relay terminals controlling each turret."
+
+REFERENCE           BLACKOUT_VOX_VOX_BLA_12_01_006A_BRIG_D
+LANG_SPANISH        "^1Adm. Briggs: ^7Use them to isolate the turrets from the main network."
+
+REFERENCE           BLACKOUT_VOX_VOX_BLA_12_01_007A_SECT_D
+LANG_SPANISH        "^1Section: ^7Got it."
+
+REFERENCE           BLACKOUT_VOX_VOX_BLA_12_01_009A_SECT_D
+LANG_SPANISH        "^1Section: ^7Secure the bridge!"
+
+REFERENCE           BLACKOUT_VOX_VOX_BLA_12_02_007A_SECT_D
+LANG_SPANISH        "^1Section: ^7Come on... Come on."
+
+REFERENCE           BLACKOUT_VOX_VOX_BLA_12_02_008A_SECT_D
+LANG_SPANISH        "^1Section: ^7Admiral Briggs, bridge control terminal is completely locked down."
+
+REFERENCE           BLACKOUT_VOX_VOX_BLA_12_02_009A_BRIG_M
+LANG_SPANISH        "^1Adm. Briggs: ^7We're trying to gain access from the server room.  I've seen revolutions come and go faster than this shit."
+
+REFERENCE           BLACKOUT_VOX_VOX_BLA_12_02_009A_BRIG_S
+LANG_SPANISH        "^1Adm. Briggs: ^7We're trying to gain access from the server room.  I've seen revolutions come and go faster than this."
+
+REFERENCE           BLACKOUT_VOX_VOX_BLA_12_02_010A_SECT_D
+LANG_SPANISH        "^1Section: ^7Menendez...  Always one step ahead of us.  We need to find him!"
+
+REFERENCE           BLACKOUT_VOX_VOX_BLA_12_02_011A_BRIG_D
+LANG_SPANISH        "^1Adm. Briggs: ^7Head to the security room.  Techs should have the camera feeds back up soon."
+
+REFERENCE           BLACKOUT_VOX_VOX_BLA_12_02_012A_SECT_D
+LANG_SPANISH        "^1Section: ^7I'm on my way."
+
+REFERENCE           BLACKOUT_VOX_VOX_BLA_12_03_001A_SECT_D
+LANG_SPANISH        "^1Section: ^7Harper!  I'm pinned down by PMCs en route to the security room."
+
+REFERENCE           BLACKOUT_VOX_VOX_BLA_12_03_002A_SECT_D
+LANG_SPANISH        "^1Section: ^7Hack the relay terminal.  Take manual control of the auto turrets."
+
+REFERENCE           BLACKOUT_VOX_VOX_BLA_12_03_003A_HARP_D
+LANG_SPANISH        "^1Harper: ^7You got it."
+
+REFERENCE           BLACKOUT_VOX_VOX_BLA_12_03_004A_BRIG_D
+LANG_SPANISH        "^1Adm. Briggs: ^7Section, we're out of options.  We're at risk of losing the entire fleet."
+
+REFERENCE           BLACKOUT_VOX_VOX_BLA_12_03_005A_BRIG_D
+LANG_SPANISH        "^1Adm. Briggs: ^7Our only chance is to reboot the entire system."
+
+REFERENCE           BLACKOUT_VOX_VOX_BLA_12_03_006A_SECT_D
+LANG_SPANISH        "^1Section: ^7That's suicide."
+
+REFERENCE           BLACKOUT_VOX_VOX_BLA_12_03_007A_BRIG_D
+LANG_SPANISH        "^1Adm. Briggs: ^7Section?  Do you copy?"
+
+REFERENCE           BLACKOUT_VOX_VOX_BLA_12_03_008A_SECT_D
+LANG_SPANISH        "^1Section: ^7Admiral Briggs?"
+
+REFERENCE           BLACKOUT_VOX_VOX_BLA_12_03_010A_SECT_M
+LANG_SPANISH        "^1Section: ^7Dammit!  Comms are down!  He can't hear a word!"
+
+REFERENCE           BLACKOUT_VOX_VOX_BLA_12_03_010A_SECT_S
+LANG_SPANISH        "^1Section: ^7Comms are down!  He can't hear a word!"
+
+REFERENCE           BLACKOUT_VOX_VOX_BLA_12_04_002A_SECT_D
+LANG_SPANISH        "^1Section: ^7Seal the door!"
+
+REFERENCE           BLACKOUT_VOX_VOX_BLA_12_04_003A_SECT_D
+LANG_SPANISH        "^1Section: ^7Where are we at on the security feed?"
+
+REFERENCE           BLACKOUT_VOX_VOX_BLA_12_04_004A_TEC1_D
+LANG_SPANISH        "^1Technician: ^7We should have it back up in a few minutes."
+
+REFERENCE           BLACKOUT_VOX_VOX_BLA_12_04_005A_SECT_D
+LANG_SPANISH        "^1Section: ^7I need a team cutting through this wall right now!"
+
+REFERENCE           BLACKOUT_VOX_VOX_BLA_12_04_006A_SECT_D
+LANG_SPANISH        "^1Section: ^7I lost comms to Admiral Briggs.  He may be in danger."
+
+REFERENCE           BLACKOUT_VOX_VOX_BLA_12_04_007A_TEC1_D
+LANG_SPANISH        "^1Technician: ^7Security feed... It's back up!"
+
+REFERENCE           BLACKOUT_VOX_VOX_BLA_12_04_008A_SECT_D
+LANG_SPANISH        "^1Section: ^7Alright, run a facial ID scan across the entire ship.  We have to find Menendez!"
+
+REFERENCE           BLACKOUT_VOX_VOX_BLA_12_04_009A_TEC1_D
+LANG_SPANISH        "^1Technician: ^7Search... security camera image database."
+
+REFERENCE           BLACKOUT_VOX_VOX_BLA_12_04_010A_TEC2_D
+LANG_SPANISH        "^1Technician: ^7Rebooting the whole system is a risk, Sir.  We have no guarantee it'll come back online."
+
+REFERENCE           BLACKOUT_VOX_VOX_BLA_12_04_011A_BRIG_D
+LANG_SPANISH        "^1Adm. Briggs: ^7Better no system, than one that's destroying the fleet.  Do it!"
+
+REFERENCE           BLACKOUT_VOX_VOX_BLA_12_04_012A_TEC2_D
+LANG_SPANISH        "^1Technician: ^7I'll need your security clearance, Sir."
+
+REFERENCE           BLACKOUT_VOX_VOX_BLA_12_04_013A_SECT_D
+LANG_SPANISH        "^1Section: ^7Briggs!  Menendez is right outside the server room!"
+
+REFERENCE           BLACKOUT_VOX_VOX_BLA_12_04_014A_SECT_D
+LANG_SPANISH        "^1Section: ^7DO NOT shut down the systems!"
+
+REFERENCE           BLACKOUT_VOX_VOX_BLA_12_04_015A_SECT_D
+LANG_SPANISH        "^1Section: ^7If the security goes down, Menendez will waltz right in!"
+
+REFERENCE           BLACKOUT_VOX_VOX_BLA_12_04_016A_SECT_D
+LANG_SPANISH        "^1Section: ^7Briggs!!!"
+
+REFERENCE           BLACKOUT_VOX_VOX_BLA_12_05_002A_DEFA_D
+LANG_SPANISH        "^1Defalco: ^7Menendez, Briggs is rebooting their systems now, trying to regain control of their automatic defenses."
+
+REFERENCE           BLACKOUT_VOX_VOX_BLA_12_05_004A_MENE_D
+LANG_SPANISH        "^1Menendez: ^7Y Salazar?"
+
+REFERENCE           BLACKOUT_VOX_VOX_BLA_12_05_005A_DEFA_D
+LANG_SPANISH        "^1Defalco: ^7In position, by Briggs's side."
+
+REFERENCE           BLACKOUT_VOX_VOX_BLA_12_06_001A_MENE_D
+LANG_SPANISH        "^1Menendez: ^7Back off!"
+
+REFERENCE           BLACKOUT_VOX_VOX_BLA_12_06_002A_BRIG_D
+LANG_SPANISH        "^1Adm. Briggs: ^7Salazar."
+
+REFERENCE           BLACKOUT_VOX_VOX_BLA_12_06_003A_BRIG_M
+LANG_SPANISH        "^1Adm. Briggs: ^7Shoot through me!  Kill this son of a bitch!"
+
+REFERENCE           BLACKOUT_VOX_VOX_BLA_12_06_003A_BRIG_S
+LANG_SPANISH        "^1Adm. Briggs: ^7Shoot through me, and kill this son of a..."
+
+REFERENCE           BLACKOUT_VOX_VOX_BLA_12_06_004A_BRIG_D
+LANG_SPANISH        "^1Adm. Briggs: ^7NO!!!"
+
+REFERENCE           BLACKOUT_VOX_VOX_BLA_12_06_008A_MENE_D
+LANG_SPANISH        "^1Menendez: ^7Admiral Briggs."
+
+REFERENCE           BLACKOUT_VOX_VOX_BLA_12_07_001A_BRIG_M
+LANG_SPANISH        "^1Adm. Briggs: ^7You rotten cocksucker!"
+
+REFERENCE           BLACKOUT_VOX_VOX_BLA_12_07_001A_BRIG_S
+LANG_SPANISH        "^1Adm. Briggs: ^7You rotten traitor!"
+
+REFERENCE           BLACKOUT_VOX_VOX_BLA_12_07_002A_SALA_D
+LANG_SPANISH        "^1Salazar: ^7I'll surrender when it's done."
+
+REFERENCE           BLACKOUT_VOX_VOX_BLA_12_07_003A_BRIG_D
+LANG_SPANISH        "^1Adm. Briggs: ^7I'd rather see you die than surrender, boy."
+
+REFERENCE           BLACKOUT_VOX_VOX_BLA_12_07_004A_SALA_D
+LANG_SPANISH        "^1Salazar: ^7I don't blame you."
+
+REFERENCE           BLACKOUT_VOX_VOX_BLA_12_07_005A_BRIG_D
+LANG_SPANISH        "^1Adm. Briggs: ^7Why don't you have Salazar do it?"
+
+REFERENCE           BLACKOUT_VOX_VOX_BLA_12_07_006A_SALA_D
+LANG_SPANISH        "^1Salazar: ^7Briggs is a good man, Menendez.  Don't kill him.  Shoot him in the leg."
+
+REFERENCE           BLACKOUT_VOX_VOX_BLA_12_07_007A_SALA_D
+LANG_SPANISH        "^1Salazar: ^7You said no unnecessary killing!"
+
+REFERENCE           BLACKOUT_VOX_VOX_BLA_12_07_008A_MENE_D
+LANG_SPANISH        "^1Menendez: ^7I decide what is necessary."
+
+REFERENCE           BLACKOUT_VOX_VOX_BLA_12_09_001A_SECT_D
+LANG_SPANISH        "^1Section: ^7Salazar."
+
+REFERENCE           BLACKOUT_VOX_VOX_BLA_12_09_002A_SECT_M
+LANG_SPANISH        "^1Section: ^7Hurry the fuck up!"
+
+REFERENCE           BLACKOUT_VOX_VOX_BLA_12_09_002A_SECT_S
+LANG_SPANISH        "^1Section: ^7Hurry up!"
+
+REFERENCE           BLACKOUT_VOX_VOX_BLA_12_09_003A_SECT_D
+LANG_SPANISH        "^1Section: ^7Harper, get to the server room!  Briggs is down!"
+
+REFERENCE           BLACKOUT_VOX_VOX_BLA_12_09_004A_SALA_D
+LANG_SPANISH        "^1Salazar: ^7He's alive.  Thank you, Raul."
+
+REFERENCE           BLACKOUT_VOX_VOX_BLA_12_09_005A_MENE_D
+LANG_SPANISH        "^1Menendez: ^7If we truly succeed today, Admiral Briggs will come to understand why I did not kill him."
+
+REFERENCE           BLACKOUT_VOX_VOX_BLA_13_01_001A_SECT_D
+LANG_SPANISH        "^1Section: ^7Check the wounded!"
+
+REFERENCE           BLACKOUT_VOX_VOX_BLA_13_01_002A_SECT_D
+LANG_SPANISH        "^1Section: ^7This was his plan..."
+
+REFERENCE           BLACKOUT_VOX_VOX_BLA_13_01_003A_SECT_D
+LANG_SPANISH        "^1Section: ^7Menendez smuggled a Celerium chip onboard.  Hacked our whole system."
+
+REFERENCE           BLACKOUT_VOX_VOX_BLA_13_01_004A_SECT_D
+LANG_SPANISH        "^1Section: ^7He's now in command of the satellite network controlling the entire US drone fleet."
+
+REFERENCE           BLACKOUT_VOX_VOX_BLA_13_01_005A_SECT_D
+LANG_SPANISH        "^1Section: ^7We need to inform the Pentagon."
+
+REFERENCE           BLACKOUT_VOX_VOX_BLA_13_01_006A_CHLO_D
+LANG_SPANISH        "^1Chloe: ^7Let me try something..."
+
+REFERENCE           BLACKOUT_VOX_VOX_BLA_13_01_007A_CHLO_D
+LANG_SPANISH        "^1Chloe: ^7In order to control our satellites, the signal has to be relayed through proxies.  One of them will give us the source of the transmission."
+
+REFERENCE           BLACKOUT_VOX_VOX_BLA_13_01_008A_CHLO_D
+LANG_SPANISH        "^1Chloe: ^7It'll take some time."
+
+REFERENCE           BLACKOUT_VOX_VOX_BLA_13_01_009A_SECT_D
+LANG_SPANISH        "^1Section: ^7Do it, Chloe."
+
+REFERENCE           BLACKOUT_VOX_VOX_BLA_13_01_010A_SECT_D
+LANG_SPANISH        "^1Section: ^7Okay... We'll need our tech team working on this ASAP.  We have to find the source of the satellite control transmission."
+
+REFERENCE           BLACKOUT_VOX_VOX_BLA_13_01_011A_BRIG_D
+LANG_SPANISH        "^1Adm. Briggs: ^7You better watch your back.  Whoever compromised Salazar can get to you.  Be careful... Good luck."
+
+REFERENCE           BLACKOUT_VOX_VOX_BLA_13_01_012A_SECT_D
+LANG_SPANISH        "^1Section: ^7Get him to sick bay."
+
+REFERENCE           BLACKOUT_VOX_VOX_BLA_13_01_014A_HARP_M
+LANG_SPANISH        "^1Harper: ^7What the hell happened here, man?"
+
+REFERENCE           BLACKOUT_VOX_VOX_BLA_13_01_015A_SECT_D
+LANG_SPANISH        "^1Section: ^7Salazar... He played us all.  He was working with Menendez."
+
+REFERENCE           BLACKOUT_VOX_VOX_BLA_13_01_016A_HARP_M
+LANG_SPANISH        "^1Harper: ^7What the fuck?  How could he do that, man?  What are you talking about?  He was one of us!"
+
+REFERENCE           BLACKOUT_VOX_VOX_BLA_13_01_017A_SECT_D
+LANG_SPANISH        "^1Section: ^7Attention all Security officers.  Commander David Mason.  Seal team member Salazar is working with the enemy."
+
+REFERENCE           BLACKOUT_VOX_VOX_BLA_13_01_017B_SECT_D
+LANG_SPANISH        "^1Section: ^7Attention all Security officers.  Commander David Mason.  Seal team member Salazar is working with the enemy."
+
+REFERENCE           BLACKOUT_VOX_VOX_BLA_13_01_018A_SECT_D
+LANG_SPANISH        "^1Section: ^7I want him taken him alive."
+
+REFERENCE           BLACKOUT_VOX_VOX_BLA_13_01_018B_SECT_D
+LANG_SPANISH        "^1Section: ^7I want him taken him alive."
+
+REFERENCE           BLACKOUT_VOX_VOX_BLA_13_01_019A_SECU_D
+LANG_SPANISH        "^1Security: ^7Section.  Security team Epsilon.  We have Salazar secure.  He surrendered without incident."
+
+REFERENCE           BLACKOUT_VOX_VOX_BLA_13_01_020A_SECT_D
+LANG_SPANISH        "^1Section: ^7Where are you?"
+
+REFERENCE           BLACKOUT_VOX_VOX_BLA_13_01_021A_SECU_D
+LANG_SPANISH        "^1Security: ^7Hangar bay two."
+
+REFERENCE           BLACKOUT_VOX_VOX_BLA_13_01_022A_SECT_D
+LANG_SPANISH        "^1Section: ^7On my way.  What about Menendez?"
+
+REFERENCE           BLACKOUT_VOX_VOX_BLA_13_02_001A_SECT_D
+LANG_SPANISH        "^1Section: ^7You betrayed us all, Salazar!"
+
+REFERENCE           BLACKOUT_VOX_VOX_BLA_13_02_002A_SALA_D
+LANG_SPANISH        "^1Salazar: ^7Today is a difficult day, Section."
+
+REFERENCE           BLACKOUT_VOX_VOX_BLA_13_02_003A_SALA_D
+LANG_SPANISH        "^1Salazar: ^7But tomorrow, we all win."
+
+REFERENCE           BLACKOUT_VOX_VOX_BLA_13_02_004A_HARP_D
+LANG_SPANISH        "^1Harper: ^7Not you!"
+
+REFERENCE           BLACKOUT_VOX_VOX_BLA_13_02_005A_SECT_D
+LANG_SPANISH        "^1Section: ^7Get him out of here!"
+
+REFERENCE           BLACKOUT_VOX_VOX_BLA_13_02_006A_SECT_D
+LANG_SPANISH        "^1Section: ^7I'm going after Menendez."
+
+REFERENCE           BLACKOUT_VOX_VOX_BLA_13_02_007A_SECT_D
+LANG_SPANISH        "^1Section: ^7Send the platform up to the deck."
+
+REFERENCE           BLACKOUT_VOX_VOX_BLA_13_03_001A_SECT_D
+LANG_SPANISH        "^1Section: ^7Attention all on this channel.  This is Commander David Mason.  Our defense network has been compromised."
+
+REFERENCE           BLACKOUT_VOX_VOX_BLA_13_03_001B_SECT_D
+LANG_SPANISH        "^1Section: ^7Attention all on this channel.  This is Commander David Mason.  Our defense network has been compromised."
+
+REFERENCE           BLACKOUT_VOX_VOX_BLA_13_03_002A_SECT_D
+LANG_SPANISH        "^1Section: ^7All hands prep for evac.  Abandon ship!"
+
+REFERENCE           BLACKOUT_VOX_VOX_BLA_13_03_002B_SECT_D
+LANG_SPANISH        "^1Section: ^7All hands prep for evac.  Abandon ship!"
+
+REFERENCE           BLACKOUT_VOX_VOX_BLA_13_03_003A_SECT_D
+LANG_SPANISH        "^1Section: ^7I say again, abandon ship!"
+
+REFERENCE           BLACKOUT_VOX_VOX_BLA_13_03_003B_SECT_D
+LANG_SPANISH        "^1Section: ^7I say again, abandon ship!"
+
+REFERENCE           BLACKOUT_VOX_VOX_BLA_13_03_006A_SECT_D
+LANG_SPANISH        "^1Section: ^7I need a VTOL prepped and ready to go."
+
+REFERENCE           BLACKOUT_VOX_VOX_BLA_13_03_007A_SECT_D
+LANG_SPANISH        "^1Section: ^7Tac Command, Menendez is already in the air!"
+
+REFERENCE           BLACKOUT_VOX_VOX_BLA_13_03_008A_SECT_D
+LANG_SPANISH        "^1Section: ^7He has total control over our drone fleet."
+
+REFERENCE           BLACKOUT_VOX_VOX_BLA_13_03_013A_HARP_D
+LANG_SPANISH        "^1Harper: ^7Hundreds died today, Section."
+
+REFERENCE           BLACKOUT_VOX_VOX_BLA_13_03_014A_HARP_M
+LANG_SPANISH        "^1Harper: ^7I'm gonna see that son of a bitch burn for what he's done."
+
+REFERENCE           BLACKOUT_VOX_VOX_BLA_13_03_014A_HARP_S
+LANG_SPANISH        "^1Harper: ^7I'm gonna see that son of a... burn for what he's done."
+
+REFERENCE           BLACKOUT_VOX_VOX_BLA_13_03_017A_SECT_D
+LANG_SPANISH        "^1Section: ^7This is his endgame. He's about to unleash our drones on cities across the globe."
+
+REFERENCE           BLACKOUT_VOX_VOX_BLA_13_03_018A_SECT_D
+LANG_SPANISH        "^1Section: ^7We're too late!"
+
+REFERENCE           BLACKOUT_VOX_VOX_BLA_13_03_019A_NAV3_D
+LANG_SPANISH        "^1US Sailor: ^7Confirmed.  Security teams will move to secure our remaining air assets."
+
+REFERENCE           BLACKOUT_VOX_VOX_BLA_13_03_021A_SECT_D
+LANG_SPANISH        "^1Section: ^7Attention, all.  I'm assuming OPCON of CLAW unit on deck."
+
+REFERENCE           BLACKOUT_VOX_VOX_BLA_13_03_022A_SECT_D
+LANG_SPANISH        "^1Section: ^7Stand clear."
+
+REFERENCE           BLACKOUT_VTOL_FAIL
+LANG_SPANISH        "No has llegado a tu evacuación."
+
+REFERENCE           SP_OBJECTIVES_AMMO
+LANG_SPANISH        "Munición"
+
+REFERENCE           SP_OBJECTIVES_BREACH
+LANG_SPANISH        "Incursión"
+
+REFERENCE           SP_OBJECTIVES_CLEAR
+LANG_SPANISH        "Quitar"
+
+REFERENCE           SP_OBJECTIVES_CLIMB
+LANG_SPANISH        "Escala"
+
+REFERENCE           SP_OBJECTIVES_DEFEND
+LANG_SPANISH        "Defiende"
+
+REFERENCE           SP_OBJECTIVES_DESTROY
+LANG_SPANISH        "Destruye"
+
+REFERENCE           SP_OBJECTIVES_DETONATE
+LANG_SPANISH        "Detona"
+
+REFERENCE           SP_OBJECTIVES_DISABLE
+LANG_SPANISH        "Inutiliza"
+
+REFERENCE           SP_OBJECTIVES_ENTER
+LANG_SPANISH        "Entra"
+
+REFERENCE           SP_OBJECTIVES_ESCORT
+LANG_SPANISH        "Escolta"
+
+REFERENCE           SP_OBJECTIVES_FOLLOW
+LANG_SPANISH        "Sigue"
+
+REFERENCE           SP_OBJECTIVES_HELP
+LANG_SPANISH        "Ayuda"
+
+REFERENCE           SP_OBJECTIVES_INCOMING_HELOS
+LANG_SPANISH        "Llegan (helicópteros)"
+
+REFERENCE           SP_OBJECTIVES_INCOMING_TANKS
+LANG_SPANISH        "Llegan (tanques)"
+
+REFERENCE           SP_OBJECTIVES_INTERACT
+LANG_SPANISH        "Accede"
+
+REFERENCE           SP_OBJECTIVES_JUMP
+LANG_SPANISH        "Salta"
+
+REFERENCE           SP_OBJECTIVES_KILL
+LANG_SPANISH        "Elimina"
+
+REFERENCE           SP_OBJECTIVES_MELEE
+LANG_SPANISH        "Cuerpo a cuerpo"
+
+REFERENCE           SP_OBJECTIVES_PICKUP
+LANG_SPANISH        "Recogida"
+
+REFERENCE           SP_OBJECTIVES_PROTECT
+LANG_SPANISH        "Protege"
+
+REFERENCE           SP_OBJECTIVES_RAPPEL
+LANG_SPANISH        "Desciende"
+
+REFERENCE           SP_OBJECTIVES_REGROUP
+LANG_SPANISH        "Reagrúpate"
+
+REFERENCE           SP_OBJECTIVES_SEARCH
+LANG_SPANISH        "Busca"
+
+REFERENCE           SP_OBJECTIVES_SHOOT
+LANG_SPANISH        "Dispara"
+
+REFERENCE           SP_OBJECTIVES_SUPPORT
+LANG_SPANISH        "Ayuda"
+
+REFERENCE           SP_OBJECTIVES_SWEEP
+LANG_SPANISH        "Barre"
+
+REFERENCE           SP_OBJECTIVES_TARGET
+LANG_SPANISH        "Blanco"
+
+REFERENCE           SP_OBJECTIVES_USE
+LANG_SPANISH        "Usa"
+
+REFERENCE           SP_OBJECTIVES_WEAPONS
+LANG_SPANISH        "Armas"
+
+ENDMARKER

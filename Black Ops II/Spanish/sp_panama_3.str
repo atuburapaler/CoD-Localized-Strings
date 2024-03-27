@@ -1,0 +1,580 @@
+// Dumped from fastfile "sp_panama_3".
+// In their original format the strings might have been separated in multiple files.
+VERSION             "1"
+CONFIG              "C:/projects/cod/t6/bin/StringEd.cfg"
+FILENOTES           ""
+
+REFERENCE           PANAMA_3_VOX_VOX_PAN_3_01_001A_WOOD_M
+LANG_SPANISH        "^1Woods: ^7This place is a fucking mess."
+
+REFERENCE           PANAMA_3_VOX_VOX_PAN_3_01_001A_WOOD_S
+LANG_SPANISH        "^1Woods: ^7This place is a mess."
+
+REFERENCE           PANAMA_3_VOX_VOX_PAN_3_01_002A_MASO_D
+LANG_SPANISH        "^1Mason: ^7It wasn't much better before the raid..."
+
+REFERENCE           PANAMA_3_VOX_VOX_PAN_3_01_004A_WOOD_D
+LANG_SPANISH        "^1Woods: ^7I hear it."
+
+REFERENCE           PANAMA_3_VOX_VOX_PAN_3_01_005A_WOOD_D
+LANG_SPANISH        "^1Woods: ^7She's hurt bad, Mason."
+
+REFERENCE           PANAMA_3_VOX_VOX_PAN_3_01_007A_MASO_M
+LANG_SPANISH        "^1Mason: ^7Shit!  Noriega's running!"
+
+REFERENCE           PANAMA_3_VOX_VOX_PAN_3_01_007A_MASO_S
+LANG_SPANISH        "^1Mason: ^7Noriega's running!"
+
+REFERENCE           PANAMA_3_VOX_VOX_PAN_3_01_008A_MASO_D
+LANG_SPANISH        "^1Mason: ^7More in front!"
+
+REFERENCE           PANAMA_3_VOX_VOX_PAN_3_01_009A_MASO_D
+LANG_SPANISH        "^1Mason: ^7He is gonna get himself killed!"
+
+REFERENCE           PANAMA_3_VOX_VOX_PAN_3_01_010A_WOOD_D
+LANG_SPANISH        "^1Woods: ^7We gotta get after him!"
+
+REFERENCE           PANAMA_3_VOX_VOX_PAN_3_01_011A_MASO_M
+LANG_SPANISH        "^1Mason: ^7I knew we were giving that son of a bitch too much freedom."
+
+REFERENCE           PANAMA_3_VOX_VOX_PAN_3_01_011A_MASO_S
+LANG_SPANISH        "^1Mason: ^7I knew we were giving him too much freedom."
+
+REFERENCE           PANAMA_3_VOX_VOX_PAN_3_01_012A_MASO_M
+LANG_SPANISH        "^1Mason: ^7Awww, shit..."
+
+REFERENCE           PANAMA_3_VOX_VOX_PAN_3_01_012A_MASO_S
+LANG_SPANISH        "^1Mason: ^7Oh no..."
+
+REFERENCE           PANAMA_3_VOX_VOX_PAN_3_01_016A_MASO_D
+LANG_SPANISH        "^1Mason: ^7Nooo!!!"
+
+REFERENCE           PANAMA_3_VOX_VOX_PAN_3_01_017A_NORI_D
+LANG_SPANISH        "^1Noriega: ^7Help me!  Help!"
+
+REFERENCE           PANAMA_3_VOX_VOX_PAN_3_01_018A_NORI_D
+LANG_SPANISH        "^1Noriega: ^7Pull me up!  Pull me up!"
+
+REFERENCE           PANAMA_3_VOX_VOX_PAN_3_01_019A_WOOD_M
+LANG_SPANISH        "^1Woods: ^7Listen to me, you piece of shit..."
+
+REFERENCE           PANAMA_3_VOX_VOX_PAN_3_01_019A_WOOD_S
+LANG_SPANISH        "^1Woods: ^7Listen to me..."
+
+REFERENCE           PANAMA_3_VOX_VOX_PAN_3_01_020A_WOOD_M
+LANG_SPANISH        "^1Woods: ^7From this point on, you don't even fucking BREATHE unless we say it's okay."
+
+REFERENCE           PANAMA_3_VOX_VOX_PAN_3_01_020A_WOOD_S
+LANG_SPANISH        "^1Woods: ^7From this point on, you don't even BREATHE unless we say it's okay."
+
+REFERENCE           PANAMA_3_VOX_VOX_PAN_3_01_021A_NORI_M
+LANG_SPANISH        "^1Noriega: ^7Go to hell."
+
+REFERENCE           PANAMA_3_VOX_VOX_PAN_3_01_021A_NORI_S
+LANG_SPANISH        "^1Noriega: ^7(moaning in pain)"
+
+REFERENCE           PANAMA_3_VOX_VOX_PAN_3_01_022A_MASO_M
+LANG_SPANISH        "^1Mason: ^7Hell?  We've already been."
+
+REFERENCE           PANAMA_3_VOX_VOX_PAN_3_01_022A_MASO_S
+LANG_SPANISH        "^1Mason: ^7Hey... Move.  Get up."
+
+REFERENCE           PANAMA_3_VOX_VOX_PAN_3_01_024A_MASO_D
+LANG_SPANISH        "^1Mason: ^7Come on!  Move!!"
+
+REFERENCE           PANAMA_3_VOX_VOX_PAN_3_01_025A_MASO_D
+LANG_SPANISH        "^1Mason: ^7Gotta jump!!"
+
+REFERENCE           PANAMA_3_VOX_VOX_PAN_3_01_026A_HUDS_D
+LANG_SPANISH        "^1Hudson: ^7Mason."
+
+REFERENCE           PANAMA_3_VOX_VOX_PAN_3_01_027A_MASO_M
+LANG_SPANISH        "^1Mason: ^7Hudson!  Where the hell have you been?"
+
+REFERENCE           PANAMA_3_VOX_VOX_PAN_3_01_027A_MASO_S
+LANG_SPANISH        "^1Mason: ^7Hudson!  Where have you been?"
+
+REFERENCE           PANAMA_3_VOX_VOX_PAN_3_01_028A_HUDS_D
+LANG_SPANISH        "^1Hudson: ^7Are you at the checkpoint?"
+
+REFERENCE           PANAMA_3_VOX_VOX_PAN_3_01_029A_MASO_D
+LANG_SPANISH        "^1Mason: ^7Yes."
+
+REFERENCE           PANAMA_3_VOX_VOX_PAN_3_01_032A_HUDS_D
+LANG_SPANISH        "^1Hudson: ^7Do you still have the precious cargo?"
+
+REFERENCE           PANAMA_3_VOX_VOX_PAN_3_01_033A_MASO_M
+LANG_SPANISH        "^1Mason: ^7Yes... But who the hell is Nexus target?"
+
+REFERENCE           PANAMA_3_VOX_VOX_PAN_3_01_033A_MASO_S
+LANG_SPANISH        "^1Mason: ^7Yes... But who is Nexus target?"
+
+REFERENCE           PANAMA_3_VOX_VOX_PAN_3_01_034A_MASO_D
+LANG_SPANISH        "^1Mason: ^7What's more important than objective False Profit?"
+
+REFERENCE           PANAMA_3_VOX_VOX_PAN_3_01_035A_MASO_D
+LANG_SPANISH        "^1Mason: ^7Hudson?"
+
+REFERENCE           PANAMA_3_VOX_VOX_PAN_3_01_036A_HUDS_D
+LANG_SPANISH        "^1Hudson: ^7You have to trust me, Mason...  You have to."
+
+REFERENCE           PANAMA_3_VOX_VOX_PAN_3_01_037A_HUDS_D
+LANG_SPANISH        "^1Hudson: ^7Hudson out."
+
+REFERENCE           PANAMA_3_VOX_VOX_PAN_3_01_038A_NORI_D
+LANG_SPANISH        "^1Noriega: ^7Slow down!"
+
+REFERENCE           PANAMA_3_VOX_VOX_PAN_3_01_041A_MASO_D
+LANG_SPANISH        "^1Mason: ^7Hudson, it's Mason.  We're almost at the checkpoint... Just a couple more blocks."
+
+REFERENCE           PANAMA_3_VOX_VOX_PAN_3_01_042A_MASO_M
+LANG_SPANISH        "^1Mason: ^7Hudson?  Dammit."
+
+REFERENCE           PANAMA_3_VOX_VOX_PAN_3_01_042A_MASO_S
+LANG_SPANISH        "^1Mason: ^7Hudson?"
+
+REFERENCE           PANAMA_3_VOX_VOX_PAN_3_01_043A_MASO_D
+LANG_SPANISH        "^1Mason: ^7I don't know what's going on with comms, Woods."
+
+REFERENCE           PANAMA_3_VOX_VOX_PAN_3_01_043A_WOOD_M
+LANG_SPANISH        "^1Woods: ^7Good.  I can't wait till this asshole is someone else's problem."
+
+REFERENCE           PANAMA_3_VOX_VOX_PAN_3_01_043A_WOOD_S
+LANG_SPANISH        "^1Woods: ^7Good.  I can't wait till this clown is someone else's problem."
+
+REFERENCE           PANAMA_3_VOX_VOX_PAN_3_01_044A_MASO_D
+LANG_SPANISH        "^1Mason: ^7Keep moving..."
+
+REFERENCE           PANAMA_3_VOX_VOX_PAN_3_01_044A_WOOD_D
+LANG_SPANISH        "^1Woods: ^7Don't sweat it, Mason.  Tech's always screwin' up."
+
+REFERENCE           PANAMA_3_VOX_VOX_PAN_3_01_048A_MASO_D
+LANG_SPANISH        "^1Mason: ^7Okay... Checkpoint's up ahead."
+
+REFERENCE           PANAMA_3_VOX_VOX_PAN_3_01_A_KRAV_D
+LANG_SPANISH        "^1Kravchenko: ^7He even has people in the CIA."
+
+REFERENCE           PANAMA_3_VOX_VOX_PAN_3_02_001A_MASO_D
+LANG_SPANISH        "^1Mason: ^7Woods... You in position?"
+
+REFERENCE           PANAMA_3_VOX_VOX_PAN_3_02_002A_WOOD_D
+LANG_SPANISH        "^1Woods: ^7We've run into resistance.  What about you?"
+
+REFERENCE           PANAMA_3_VOX_VOX_PAN_3_02_003A_MASO_D
+LANG_SPANISH        "^1Mason: ^7On top of the west building.  I have a clear LOS on the Courtyard."
+
+REFERENCE           PANAMA_3_VOX_VOX_PAN_3_02_004A_WOOD_M
+LANG_SPANISH        "^1Woods: ^7Fucking comms."
+
+REFERENCE           PANAMA_3_VOX_VOX_PAN_3_02_004A_WOOD_S
+LANG_SPANISH        "^1Woods: ^7Comms out."
+
+REFERENCE           PANAMA_3_VOX_VOX_PAN_3_02_005A_NORI_D
+LANG_SPANISH        "^1Noriega: ^7This way.  Everything is ready."
+
+REFERENCE           PANAMA_3_VOX_VOX_PAN_3_03_001A_HUDS_D
+LANG_SPANISH        "^1Hudson: ^7Sitrep."
+
+REFERENCE           PANAMA_3_VOX_VOX_PAN_3_03_002A_WOOD_D
+LANG_SPANISH        "^1Woods: ^7I'm moving to the roof of the south building."
+
+REFERENCE           PANAMA_3_VOX_VOX_PAN_3_03_003A_HUDS_D
+LANG_SPANISH        "^1Hudson: ^7Roger.  Report when established in final shooting position."
+
+REFERENCE           PANAMA_3_VOX_VOX_PAN_3_03_004A_NORI_D
+LANG_SPANISH        "^1Noriega: ^7No one must know I betrayed him."
+
+REFERENCE           PANAMA_3_VOX_VOX_PAN_3_03_005A_WOOD_D
+LANG_SPANISH        "^1Woods: ^7Him?"
+
+REFERENCE           PANAMA_3_VOX_VOX_PAN_3_03_006A_WOOD_D
+LANG_SPANISH        "^1Woods: ^7Hudson, who is Nexus target?"
+
+REFERENCE           PANAMA_3_VOX_VOX_PAN_3_03_007A_WOOD_D
+LANG_SPANISH        "^1Woods: ^7Hudson?"
+
+REFERENCE           PANAMA_3_VOX_VOX_PAN_3_03_008A_HUDS_D
+LANG_SPANISH        "^1Hudson: ^7It's him, Woods.  Nexus target is... Raul Menendez."
+
+REFERENCE           PANAMA_3_VOX_VOX_PAN_3_03_009A_NORI_D
+LANG_SPANISH        "^1Noriega: ^7We are ready.  Bring him out."
+
+REFERENCE           PANAMA_3_VOX_VOX_PAN_3_03_010A_WOOD_D
+LANG_SPANISH        "^1Woods: ^7You should have told us, Hudson."
+
+REFERENCE           PANAMA_3_VOX_VOX_PAN_3_03_011A_HUDS_D
+LANG_SPANISH        "^1Hudson: ^7Confirm visual."
+
+REFERENCE           PANAMA_3_VOX_VOX_PAN_3_03_012A_WOOD_D
+LANG_SPANISH        "^1Woods: ^7You should have told us."
+
+REFERENCE           PANAMA_3_VOX_VOX_PAN_3_03_013A_WOOD_M
+LANG_SPANISH        "^1Woods: ^7They're bringing the son of a bitch out."
+
+REFERENCE           PANAMA_3_VOX_VOX_PAN_3_03_013A_WOOD_S
+LANG_SPANISH        "^1Woods: ^7They're bringing him out."
+
+REFERENCE           PANAMA_3_VOX_VOX_PAN_3_03_014A_NORI_D
+LANG_SPANISH        "^1Noriega: ^7Take the shot, Woods, take the shot."
+
+REFERENCE           PANAMA_3_VOX_VOX_PAN_3_03_015A_HUDS_D
+LANG_SPANISH        "^1Hudson: ^7End this now, Woods."
+
+REFERENCE           PANAMA_3_VOX_VOX_PAN_3_03_016A_HUDS_D
+LANG_SPANISH        "^1Hudson: ^7Take the headshot!"
+
+REFERENCE           PANAMA_3_VOX_VOX_PAN_3_03_017A_NORI_D
+LANG_SPANISH        "^1Noriega: ^7Now, Woods!   NOW!!"
+
+REFERENCE           PANAMA_3_VOX_VOX_PAN_3_03_018A_HUDS_D
+LANG_SPANISH        "^1Hudson: ^7That is a direct order!!"
+
+REFERENCE           PANAMA_3_VOX_VOX_PAN_3_03_019A_HUDS_M
+LANG_SPANISH        "^1Hudson: ^7Shoot him in the fucking head!"
+
+REFERENCE           PANAMA_3_VOX_VOX_PAN_3_03_019A_HUDS_S
+LANG_SPANISH        "^1Hudson: ^7Shoot him in the head!"
+
+REFERENCE           PANAMA_3_VOX_VOX_PAN_3_04_010A_MASO_M
+LANG_SPANISH        "^1Mason: ^7Shit!  Gunship strike incoming!"
+
+REFERENCE           PANAMA_3_VOX_VOX_PAN_3_04_010A_MASO_S
+LANG_SPANISH        "^1Mason: ^7Gunship strike incoming!"
+
+REFERENCE           PANAMA_3_VOX_VOX_PAN_3_04_010A_WOOD_D
+LANG_SPANISH        "^1Woods: ^7Move!  Gunship strike inbound!"
+
+REFERENCE           PANAMA_3_VOX_VOX_PAN_4_01_001A_NORI_D
+LANG_SPANISH        "^1Noriega: ^7Fool."
+
+REFERENCE           PANAMA_3_VOX_VOX_PAN_4_01_002A_WOOD_D
+LANG_SPANISH        "^1Woods: ^7Mason..."
+
+REFERENCE           PANAMA_3_VOX_VOX_PAN_4_01_004A_WOOD_D
+LANG_SPANISH        "^1Woods: ^7What are you looking so smug about?"
+
+REFERENCE           PANAMA_3_VOX_VOX_PAN_4_01_005A_WOOD_M
+LANG_SPANISH        "^1Woods: ^7What the fuck is going on?"
+
+REFERENCE           PANAMA_3_VOX_VOX_PAN_4_01_005A_WOOD_S
+LANG_SPANISH        "^1Woods: ^7What's going on here?"
+
+REFERENCE           PANAMA_3_VOX_VOX_PAN_4_01_006A_WOOD_D
+LANG_SPANISH        "^1Woods: ^7No, no, no, no, no, no..."
+
+REFERENCE           PANAMA_3_VOX_VOX_PAN_4_01_007A_WOOD_M
+LANG_SPANISH        "^1Woods: ^7You bastard..."
+
+REFERENCE           PANAMA_3_VOX_VOX_PAN_4_01_007A_WOOD_S
+LANG_SPANISH        "^1Woods: ^7Hudson?"
+
+REFERENCE           PANAMA_3_VOX_VOX_PAN_4_01_009A_WOOD_D
+LANG_SPANISH        "^1Woods: ^7Hudson!"
+
+REFERENCE           PANAMA_3_VOX_VOX_PAN_4_01_010A_WOOD_D
+LANG_SPANISH        "^1Woods: ^7What's going on here?"
+
+REFERENCE           PANAMA_3_VOX_VOX_PAN_4_02_001A_MENE_D
+LANG_SPANISH        "^1Menendez: ^7Your best friend, Alex Mason is dead..."
+
+REFERENCE           PANAMA_3_VOX_VOX_PAN_4_02_002A_MENE_D
+LANG_SPANISH        "^1Menendez: ^7...by your own hand."
+
+REFERENCE           PANAMA_3_VOX_VOX_PAN_4_02_003A_MENE_D
+LANG_SPANISH        "^1Menendez: ^7Do you understand why?"
+
+REFERENCE           PANAMA_3_VOX_VOX_PAN_4_02_004A_HUDS_D
+LANG_SPANISH        "^1Hudson: ^7He was gonna kill David..."
+
+REFERENCE           PANAMA_3_VOX_VOX_PAN_4_02_005A_MENE_D
+LANG_SPANISH        "^1Menendez: ^7Because you must suffer, as I have suffered."
+
+REFERENCE           PANAMA_3_VOX_VOX_PAN_4_02_006A_MENE_D
+LANG_SPANISH        "^1Menendez: ^7Now one more must die. You..."
+
+REFERENCE           PANAMA_3_VOX_VOX_PAN_4_02_007A_MENE_D
+LANG_SPANISH        "^1Menendez: ^7Woods."
+
+REFERENCE           PANAMA_3_VOX_VOX_PAN_4_02_008A_MENE_D
+LANG_SPANISH        "^1Menendez: ^7Or David."
+
+REFERENCE           PANAMA_3_VOX_VOX_PAN_4_02_009A_MENE_D
+LANG_SPANISH        "^1Menendez: ^7Make a decision now or in ten seconds you're all dead!"
+
+REFERENCE           PANAMA_3_VOX_VOX_PAN_4_02_010A_HUDS_D
+LANG_SPANISH        "^1Hudson: ^7Woods...I can't...I have two kids...they..."
+
+REFERENCE           PANAMA_3_VOX_VOX_PAN_4_02_011A_HUDS_M
+LANG_SPANISH        "^1Hudson: ^7Fuck...  Okay... Me!  Do it...  DO IT!!"
+
+REFERENCE           PANAMA_3_VOX_VOX_PAN_4_02_011A_HUDS_S
+LANG_SPANISH        "^1Hudson: ^7Okay...  Okay... Me!.  Do it...  DO IT!!"
+
+REFERENCE           PANAMA_3_VOX_VOX_PAN_4_02_012A_MENE_D
+LANG_SPANISH        "^1Menendez: ^7This..."
+
+REFERENCE           PANAMA_3_VOX_VOX_PAN_4_02_013A_MENE_D
+LANG_SPANISH        "^1Menendez: ^7...is the beginning."
+
+REFERENCE           PANAMA_3_VOX_VOX_PAN_4_02_014A_MENE_D
+LANG_SPANISH        "^1Menendez: ^7Your life will be consumed by absolute loss."
+
+REFERENCE           PANAMA_3_VOX_VOX_PAN_4_02_015A_MENE_D
+LANG_SPANISH        "^1Menendez: ^7Then and only then, will you understand what you have done to me."
+
+REFERENCE           PANAMA_3_VOX_VOX_PAN_4_02_016A_MENE_D
+LANG_SPANISH        "^1Menendez: ^7I will not kill you, boy. Now like Woods, you suffer with me."
+
+REFERENCE           PANAMA_3_VOX_VOX_PAN_4_02_017A_MENE_D
+LANG_SPANISH        "^1Menendez: ^7You will see this pendant again."
+
+REFERENCE           PANAMA_3_VOX_VOX_PAN_4_02_018A_MENE_D
+LANG_SPANISH        "^1Menendez: ^7And you will remember..."
+
+REFERENCE           PANAMA_3_VOX_VOX_PAN_4_02_020A_MENE_D
+LANG_SPANISH        "^1Menendez: ^7You will remember all the years of anger and pain."
+
+REFERENCE           PANAMA_3_VOX_VOX_PAN_4_02_021A_MENE_D
+LANG_SPANISH        "^1Menendez: ^7And when you do, David..."
+
+REFERENCE           PANAMA_3_VOX_VOX_PAN_4_02_022A_MENE_D
+LANG_SPANISH        "^1Menendez: ^7please..."
+
+REFERENCE           PANAMA_3_VOX_VOX_PAN_4_02_023A_MENE_D
+LANG_SPANISH        "^1Menendez: ^7...come to me."
+
+REFERENCE           PANAMA_3_VOX_VOX_PAN_4_02_025A_MENE_D
+LANG_SPANISH        "^1Menendez: ^7Everything you saw and felt tonight."
+
+REFERENCE           PANAMA_3_VOX_VOX_PAN_4_02_030A_MENE_D
+LANG_SPANISH        "^1Menendez: ^7And then one day..."
+
+REFERENCE           PANAMA_3_VOX_VOX_PAN_4_02_032A_DAVI_D
+LANG_SPANISH        "^1David Mason: ^7Dad... No... Dad!"
+
+REFERENCE           PANAMA_3_VOX_VOX_PAN_5_01_020A_MASO_D
+LANG_SPANISH        "^1Mason: ^7Shh... Do you hear that?"
+
+REFERENCE           PANAMA_ABANDON_MISSION
+LANG_SPANISH        "Has abandonado la misión."
+
+REFERENCE           PANAMA_AC130_FAILQUOTE
+LANG_SPANISH        "Has muerto por los disparos del helicóptero artillado.\n"
+
+REFERENCE           PANAMA_APACHE_ESCAPE_FAIL
+LANG_SPANISH        "Debes esprintar para estar por delante del Apache."
+
+REFERENCE           PANAMA_BREACH_FAIL
+LANG_SPANISH        "Noriega debe salir vivo."
+
+REFERENCE           PANAMA_BREAK_LOCK
+LANG_SPANISH        "Mantén ^3[{+activate}]^7 para cortar."
+
+REFERENCE           PANAMA_CLOSE_HANGAR_DOORS
+LANG_SPANISH        "Pulsa ^3[{+activate}]^7 para cerrar las puertas del hangar."
+
+REFERENCE           PANAMA_CONTEXTUAL_KILL
+LANG_SPANISH        "Pulsa ^3[{+attack}]^7 para lanzar cuchillo."
+
+REFERENCE           PANAMA_DOCKS_FAIL
+LANG_SPANISH        "Has abandonado a Noriega."
+
+REFERENCE           PANAMA_DOCKS_WARNING
+LANG_SPANISH        "¡Debes escoltar a Noriega!"
+
+REFERENCE           PANAMA_FRIENDLY_FIRE_FAILURE
+LANG_SPANISH        "¡No se permitirá el fuego amigo!"
+
+REFERENCE           PANAMA_HANGAR_FAIL
+LANG_SPANISH        "No has logrado seguir a Mason."
+
+REFERENCE           PANAMA_HANGAR_WARNING
+LANG_SPANISH        "Te equivocas de camino. Sigue a Mason."
+
+REFERENCE           PANAMA_HINT_NIGHTINGALE
+LANG_SPANISH        "Pulsa ^3[{+attack}]^7 para lanzar una Nightingale y distraer a los enemigos."
+
+REFERENCE           PANAMA_HINT_NIGHTINGALE_SELECT
+LANG_SPANISH        "Pulsa ^3[{+actionslot 1}]^7 para seleccionar Nightingale."
+
+REFERENCE           PANAMA_HINT_THROW_IRSTROBE
+LANG_SPANISH        "Pulsa ^3[{+attack}]^7 para lanzar una granada de destellos."
+
+REFERENCE           PANAMA_INTROSCREEN_LINE_1
+LANG_SPANISH        "^L\"SUFRIRÁ CONMIGO\"^L"
+
+REFERENCE           PANAMA_INTROSCREEN_LINE_2
+LANG_SPANISH        "BASE DEL EJÉRCITO DE FORT CLAYTON, ^LPANAMÁ^L"
+
+REFERENCE           PANAMA_INTROSCREEN_LINE_3
+LANG_SPANISH        "SARGENTO FRANK ^LWOODS^L"
+
+REFERENCE           PANAMA_INTROSCREEN_LINE_4
+LANG_SPANISH        "DIVISIÓN DE ACTIVIDADES ESPECIALES DE LA ^LCIA^L"
+
+REFERENCE           PANAMA_INTROSCREEN_LINE_5
+LANG_SPANISH        "19 DE DICIEMBRE DE ^L1989^L"
+
+REFERENCE           PANAMA_LIFT_RUBBLE
+LANG_SPANISH        "Pulsa ^3[{+activate}]^7 para interactuar."
+
+REFERENCE           PANAMA_MOTEL_BREACH
+LANG_SPANISH        "Pulsa ^3 [{+activate}]^7 para irrumpir."
+
+REFERENCE           PANAMA_NORIEGA_DEAD_FAIL
+LANG_SPANISH        "Misión fallida"
+
+REFERENCE           PANAMA_OBJ_ASSIST_SEALS
+LANG_SPANISH        "Ayuda a los SEAL."
+
+REFERENCE           PANAMA_OBJ_CAPTURE_MENENDEZ
+LANG_SPANISH        "Escolta la mercancía."
+
+REFERENCE           PANAMA_OBJ_CAPTURE_NORIEGA
+LANG_SPANISH        "Captura a Noriega."
+
+REFERENCE           PANAMA_OBJ_DOCKS_KILL_MENENDEZ
+LANG_SPANISH        "Mata a Menendez."
+
+REFERENCE           PANAMA_OBJ_DOCKS_SNIPER
+LANG_SPANISH        "Proporciona apoyo."
+
+REFERENCE           PANAMA_OBJ_FIND_FALSE_PROFIT
+LANG_SPANISH        "Encuentra a Falso Beneficio."
+
+REFERENCE           PANAMA_OBJ_FRONTYARD
+LANG_SPANISH        "Llega al vehículo de Woods."
+
+REFERENCE           PANAMA_OBJ_MEET
+LANG_SPANISH        "Reúnete con Mason y con McKnight."
+
+REFERENCE           PANAMA_OBJ_MEET_MCKNIGHT
+LANG_SPANISH        "Reúnete con McKnight."
+
+REFERENCE           PANAMA_OBJ_REACH_CHECKPOINT
+LANG_SPANISH        "Escolta a Noriega hasta el punto de control del ejército."
+
+REFERENCE           PANAMA_OBJ_SHED
+LANG_SPANISH        "Recupera la bolsa del cobertizo."
+
+REFERENCE           PANAMA_OPEN_GRATE
+LANG_SPANISH        "Mantén ^3[{+activate}]^7 para abrir por la fuerza."
+
+REFERENCE           PANAMA_PERK_FLAK_JACKET
+LANG_SPANISH        "Chaleco antibalas protege del daño por explosivos."
+
+REFERENCE           PANAMA_PICK_LOCK
+LANG_SPANISH        "Mantén ^3[{+activate}]^7 para forzar la cerradura."
+
+REFERENCE           PANAMA_PLAYER_JUMP_FAIL
+LANG_SPANISH        "Debes saltar para escapar del edificio."
+
+REFERENCE           PANAMA_PLAYER_JUMP_PROMPT
+LANG_SPANISH        "Pulsa ^3[{+gostand}]^7 para saltar."
+
+REFERENCE           PANAMA_ROOFTOP_FAIL
+LANG_SPANISH        "Los SEAL han sido eliminados."
+
+REFERENCE           PANAMA_SELECT_IRSTROBE
+LANG_SPANISH        "Pulsa ^3[{+actionslot 4}]^7 para seleccionar granada de destellos."
+
+REFERENCE           PANAMA_SNIPER_FAIL
+LANG_SPANISH        "La misión se ha visto comprometida por tus actos."
+
+REFERENCE           PANAMA_STREET_FAIL
+LANG_SPANISH        "Tienes que encontrarte con Mason y quedarte con él."
+
+REFERENCE           PANAMA_STREET_WARNING
+LANG_SPANISH        "¡Vas en la dirección equivocada!"
+
+REFERENCE           PANAMA_STROBE_GRENADE_TUTORIAL
+LANG_SPANISH        "Usa granadas de destellos para solicitar un ataque con artillados en una posición."
+
+REFERENCE           SP_OBJECTIVES_AMMO
+LANG_SPANISH        "Munición"
+
+REFERENCE           SP_OBJECTIVES_BREACH
+LANG_SPANISH        "Incursión"
+
+REFERENCE           SP_OBJECTIVES_CLEAR
+LANG_SPANISH        "Quitar"
+
+REFERENCE           SP_OBJECTIVES_CLIMB
+LANG_SPANISH        "Escala"
+
+REFERENCE           SP_OBJECTIVES_DEFEND
+LANG_SPANISH        "Defiende"
+
+REFERENCE           SP_OBJECTIVES_DESTROY
+LANG_SPANISH        "Destruye"
+
+REFERENCE           SP_OBJECTIVES_DETONATE
+LANG_SPANISH        "Detona"
+
+REFERENCE           SP_OBJECTIVES_DISABLE
+LANG_SPANISH        "Inutiliza"
+
+REFERENCE           SP_OBJECTIVES_ENTER
+LANG_SPANISH        "Entra"
+
+REFERENCE           SP_OBJECTIVES_ESCORT
+LANG_SPANISH        "Escolta"
+
+REFERENCE           SP_OBJECTIVES_FOLLOW
+LANG_SPANISH        "Sigue"
+
+REFERENCE           SP_OBJECTIVES_HELP
+LANG_SPANISH        "Ayuda"
+
+REFERENCE           SP_OBJECTIVES_INCOMING_HELOS
+LANG_SPANISH        "Llegan (helicópteros)"
+
+REFERENCE           SP_OBJECTIVES_INCOMING_TANKS
+LANG_SPANISH        "Llegan (tanques)"
+
+REFERENCE           SP_OBJECTIVES_INTERACT
+LANG_SPANISH        "Accede"
+
+REFERENCE           SP_OBJECTIVES_JUMP
+LANG_SPANISH        "Salta"
+
+REFERENCE           SP_OBJECTIVES_KILL
+LANG_SPANISH        "Elimina"
+
+REFERENCE           SP_OBJECTIVES_MELEE
+LANG_SPANISH        "Cuerpo a cuerpo"
+
+REFERENCE           SP_OBJECTIVES_PICKUP
+LANG_SPANISH        "Recogida"
+
+REFERENCE           SP_OBJECTIVES_PROTECT
+LANG_SPANISH        "Protege"
+
+REFERENCE           SP_OBJECTIVES_RAPPEL
+LANG_SPANISH        "Desciende"
+
+REFERENCE           SP_OBJECTIVES_REGROUP
+LANG_SPANISH        "Reagrúpate"
+
+REFERENCE           SP_OBJECTIVES_SEARCH
+LANG_SPANISH        "Busca"
+
+REFERENCE           SP_OBJECTIVES_SHOOT
+LANG_SPANISH        "Dispara"
+
+REFERENCE           SP_OBJECTIVES_SUPPORT
+LANG_SPANISH        "Ayuda"
+
+REFERENCE           SP_OBJECTIVES_SWEEP
+LANG_SPANISH        "Barre"
+
+REFERENCE           SP_OBJECTIVES_TARGET
+LANG_SPANISH        "Blanco"
+
+REFERENCE           SP_OBJECTIVES_USE
+LANG_SPANISH        "Usa"
+
+REFERENCE           SP_OBJECTIVES_WEAPONS
+LANG_SPANISH        "Armas"
+
+ENDMARKER

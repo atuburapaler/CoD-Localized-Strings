@@ -1,0 +1,1465 @@
+// Dumped from fastfile "sp_so_rts_mp_socotra".
+// In their original format the strings might have been separated in multiple files.
+VERSION             "1"
+CONFIG              "C:/projects/cod/t6/bin/StringEd.cfg"
+FILENOTES           ""
+
+REFERENCE           KILLSTREAK_AIRSPACE_FULL
+LANG_SPANISH        "El apoyo aéreo no está disponible"
+
+REFERENCE           KILLSTREAK_AI_TANK_1_ROCKETS
+LANG_SPANISH        "^3[{+speed_throw}]^7 1 cohete listo"
+
+REFERENCE           KILLSTREAK_AI_TANK_2_ROCKETS
+LANG_SPANISH        "^3[{+speed_throw}]^7 2 cohetes listos"
+
+REFERENCE           KILLSTREAK_AI_TANK_3_ROCKETS
+LANG_SPANISH        "^3[{+speed_throw}]^7 3 cohetes listos"
+
+REFERENCE           KILLSTREAK_AI_TANK_CRATE
+LANG_SPANISH        "Mantén ^3&&1^7 para AGR."
+
+REFERENCE           KILLSTREAK_AI_TANK_DESC
+LANG_SPANISH        "Lanza un robot autónomo terrestre (AGR) que patrulla en busca de enemigos. Se puede controlar a distancia."
+
+REFERENCE           KILLSTREAK_AI_TANK_DROP
+LANG_SPANISH        "AGR"
+
+REFERENCE           KILLSTREAK_AI_TANK_GUNS
+LANG_SPANISH        "^3[{+attack}]^7 Disparar ametralladoras"
+
+REFERENCE           KILLSTREAK_AI_TANK_INBOUND
+LANG_SPANISH        "AGR en camino"
+
+REFERENCE           KILLSTREAK_AI_TANK_NOT_AVAILABLE
+LANG_SPANISH        "AGR no disponible"
+
+REFERENCE           KILLSTREAK_AI_TANK_ROCKETS
+LANG_SPANISH        "^3[{+speed_throw}]^7 Disparar cohetes"
+
+REFERENCE           KILLSTREAK_AMMO_CRATE
+LANG_SPANISH        "Mantén ^3&&1^7 para munición."
+
+REFERENCE           KILLSTREAK_AUTO_TURRET
+LANG_SPANISH        "Centinela "
+
+REFERENCE           KILLSTREAK_AUTO_TURRET_CAPS
+LANG_SPANISH        "CENTINELA "
+
+REFERENCE           KILLSTREAK_AUTO_TURRET_CRATE
+LANG_SPANISH        "Mantén ^3&&1^7 para centinela."
+
+REFERENCE           KILLSTREAK_AUTO_TURRET_DESC
+LANG_SPANISH        "Coloca un centinela automático. Se puede controlar a distancia."
+
+REFERENCE           KILLSTREAK_AUTO_TURRET_DROP
+LANG_SPANISH        "Centinela"
+
+REFERENCE           KILLSTREAK_AUTO_TURRET_DROP_DESC
+LANG_SPANISH        "Lanza un centinela desplegable."
+
+REFERENCE           KILLSTREAK_AUTO_TURRET_NOT_AVAILABLE
+LANG_SPANISH        "Centinela no disponible"
+
+REFERENCE           KILLSTREAK_CAPTURING_CRATE
+LANG_SPANISH        "Recogiendo caja"
+
+REFERENCE           KILLSTREAK_CHOPPER_GUNNER_NOT_USABLE
+LANG_SPANISH        "No se puede usar el VTOL en esta ubicación."
+
+REFERENCE           KILLSTREAK_COUNTERU2_CRATE
+LANG_SPANISH        "Mantén ^3&&1^7 para UAV de respuesta."
+
+REFERENCE           KILLSTREAK_COUNTERUAV_INBOUND
+LANG_SPANISH        "UAV de respuesta en camino"
+
+REFERENCE           KILLSTREAK_COUNTERUAV_NOT_AVAILABLE
+LANG_SPANISH        "UAV de respuesta no disponible"
+
+REFERENCE           KILLSTREAK_COUNTER_UAV
+LANG_SPANISH        "UAV de respuesta"
+
+REFERENCE           KILLSTREAK_COUNTER_UAV_DESC
+LANG_SPANISH        "Desactiva temporalmente el minimapa enemigo."
+
+REFERENCE           KILLSTREAK_DESTROYED_CHALLENGE_DESC
+LANG_SPANISH        "Destruye &&1 &&2 veces."
+
+REFERENCE           KILLSTREAK_DESTROYED_COUNTERUAV
+LANG_SPANISH        "UAV de respuesta destruido"
+
+REFERENCE           KILLSTREAK_DESTROYED_HELICOPTER
+LANG_SPANISH        "Helicóptero destruido"
+
+REFERENCE           KILLSTREAK_DESTROYED_HELICOPTER_GUNNER
+LANG_SPANISH        "VTOL destruido"
+
+REFERENCE           KILLSTREAK_DESTROYED_REMOTE_MORTAR
+LANG_SPANISH        "Lodestar destruido"
+
+REFERENCE           KILLSTREAK_DESTROYED_UAV
+LANG_SPANISH        "¡UAV destruido!"
+
+REFERENCE           KILLSTREAK_DOGS
+LANG_SPANISH        "Unidad canina"
+
+REFERENCE           KILLSTREAK_DOGS_CRATE
+LANG_SPANISH        "Mantén ^3&&1^7 para unidad canina."
+
+REFERENCE           KILLSTREAK_DOGS_DESC
+LANG_SPANISH        "Perros de presa que dan caza al enemigo."
+
+REFERENCE           KILLSTREAK_DOGS_DESTROYED_CHALLENGE_DESC
+LANG_SPANISH        "Mata a &&1 perros."
+
+REFERENCE           KILLSTREAK_DOGS_INBOUND
+LANG_SPANISH        "Unidad canina en camino."
+
+REFERENCE           KILLSTREAK_DOGS_LVL2_DESC
+LANG_SPANISH        "Perros de presa que dan caza al enemigo."
+
+REFERENCE           KILLSTREAK_DOGS_LVL3_DESC
+LANG_SPANISH        "Perros de presa que dan caza al enemigo."
+
+REFERENCE           KILLSTREAK_DOGS_NOT_AVAILABLE
+LANG_SPANISH        "Unidad canina no disponible."
+
+REFERENCE           KILLSTREAK_EARNED_AIRSTRIKE
+LANG_SPANISH        "Pulsa ^3[{+actionslot 4}]^7 para Rolling Thunder."
+
+REFERENCE           KILLSTREAK_EARNED_AUTO_TURRET
+LANG_SPANISH        "Pulsa ^3[{+actionslot 4}]^7 para centinela."
+
+REFERENCE           KILLSTREAK_EARNED_CHALLENGE_DESC
+LANG_SPANISH        "Usa &&1 &&2 veces."
+
+REFERENCE           KILLSTREAK_EARNED_COUNTERUAV
+LANG_SPANISH        "Pulsa ^3[{+actionslot 4}]^7 para UAV de respuesta."
+
+REFERENCE           KILLSTREAK_EARNED_DOGS
+LANG_SPANISH        "Pulsa ^3[{+actionslot 4}]^7 para unidad canina."
+
+REFERENCE           KILLSTREAK_EARNED_EMP
+LANG_SPANISH        "Pulsa ^3[{+actionslot 4}]^7 para sistemas PEM."
+
+REFERENCE           KILLSTREAK_EARNED_HELICOPTER_COMLINK
+LANG_SPANISH        "Pulsa ^3[{+actionslot 4}]^7 para helicóptero furtivo."
+
+REFERENCE           KILLSTREAK_EARNED_HELICOPTER_GUARD
+LANG_SPANISH        "Pulsa ^3[{+actionslot 4}]^7 para escolta AQ-10."
+
+REFERENCE           KILLSTREAK_EARNED_HELICOPTER_GUNNER
+LANG_SPANISH        "Pulsa ^3[{+actionslot 4}]^7 para VTOL."
+
+REFERENCE           KILLSTREAK_EARNED_HELICOPTER_PLAYER
+LANG_SPANISH        "Pulsa ^3[{+actionslot 4}]^7 para helicóptero artillado."
+
+REFERENCE           KILLSTREAK_EARNED_M202_FLASH
+LANG_SPANISH        "Pulsa ^3[{+actionslot 4}]^7 para Ángel de la muerte."
+
+REFERENCE           KILLSTREAK_EARNED_M220_TOW
+LANG_SPANISH        "Pulsa ^3[{+actionslot 4}]^7 para Valkyrie."
+
+REFERENCE           KILLSTREAK_EARNED_M32
+LANG_SPANISH        "Pulsa ^3[{+actionslot 4}]^7 para Máquina de guerra."
+
+REFERENCE           KILLSTREAK_EARNED_MICROWAVE_TURRET
+LANG_SPANISH        "Pulsa ^3[{+actionslot 4}]^7 para guardián."
+
+REFERENCE           KILLSTREAK_EARNED_MINIGUN
+LANG_SPANISH        "Pulsa ^3[{+actionslot 4}]^7 para Máquina de muerte."
+
+REFERENCE           KILLSTREAK_EARNED_MISSILE_DRONE
+LANG_SPANISH        "Pulsa ^3[{+actionslot 4}]^7 para cazador."
+
+REFERENCE           KILLSTREAK_EARNED_MISSILE_SWARM
+LANG_SPANISH        "Pulsa ^3[{+actionslot 4}]^7 para enjambre."
+
+REFERENCE           KILLSTREAK_EARNED_MOBILESPAWN
+LANG_SPANISH        "Pulsa ^3[{+actionslot 4}]^7 para reaparición móvil."
+
+REFERENCE           KILLSTREAK_EARNED_MORTAR
+LANG_SPANISH        "Pulsa ^3[{+actionslot 4}]^7 para ataque relámpago."
+
+REFERENCE           KILLSTREAK_EARNED_NAPALM
+LANG_SPANISH        "Pulsa ^3[{+actionslot 4}]^7 para ataque de napalm."
+
+REFERENCE           KILLSTREAK_EARNED_QRDRONE
+LANG_SPANISH        "Pulsa ^3[{+actionslot 4}]^7 para Dragonfire."
+
+REFERENCE           KILLSTREAK_EARNED_RADAR
+LANG_SPANISH        "Pulsa ^3[{+actionslot 4}]^7 para UAV."
+
+REFERENCE           KILLSTREAK_EARNED_RCBOMB
+LANG_SPANISH        "Pulsa ^3[{+actionslot 4}]^7 para RC-XD."
+
+REFERENCE           KILLSTREAK_EARNED_REMOTE_MISSILE
+LANG_SPANISH        "Pulsa ^3[{+actionslot 4}]^7 para misil Hellstorm."
+
+REFERENCE           KILLSTREAK_EARNED_REMOTE_MORTAR
+LANG_SPANISH        "Pulsa ^3[{+actionslot 4}]^7 para Lodestar."
+
+REFERENCE           KILLSTREAK_EARNED_SUPPLY_DROP
+LANG_SPANISH        "Pulsa ^3[{+actionslot 4}]^7 para paquete de ayuda."
+
+REFERENCE           KILLSTREAK_EARNED_TOW_TURRET
+LANG_SPANISH        "Pulsa ^3[{+actionslot 4}]^7 para batería SAM."
+
+REFERENCE           KILLSTREAK_EMP
+LANG_SPANISH        "Sistemas PEM"
+
+REFERENCE           KILLSTREAK_EMP_CRATE
+LANG_SPANISH        "Mantén ^3&&1^7 para sistemas PEM."
+
+REFERENCE           KILLSTREAK_EMP_DESC
+LANG_SPANISH        "Inutiliza temporalmente los dispositivos electrónicos enemigos."
+
+REFERENCE           KILLSTREAK_EMP_INBOUND
+LANG_SPANISH        "PEM detonado"
+
+REFERENCE           KILLSTREAK_EMP_NOT_AVAILABLE
+LANG_SPANISH        "Sistemas PEM no disponibles."
+
+REFERENCE           KILLSTREAK_HACKING_CRATE
+LANG_SPANISH        "Recoger y poner trampa en caja"
+
+REFERENCE           KILLSTREAK_HELICOPTER_COMLINK
+LANG_SPANISH        "Helicóptero furtivo"
+
+REFERENCE           KILLSTREAK_HELICOPTER_COMLINK_DESC
+LANG_SPANISH        "Llama un helicóptero furtivo. No aparece en el minimapa enemigo."
+
+REFERENCE           KILLSTREAK_HELICOPTER_COMLINK_INBOUND
+LANG_SPANISH        "Helicóptero furtivo en camino"
+
+REFERENCE           KILLSTREAK_HELICOPTER_COMLINK_NOT_AVAILABLE
+LANG_SPANISH        "Helicóptero furtivo no disponible"
+
+REFERENCE           KILLSTREAK_HELICOPTER_CRATE
+LANG_SPANISH        "Mantén ^3&&1^7 para helicóptero furtivo."
+
+REFERENCE           KILLSTREAK_HELICOPTER_GUARD
+LANG_SPANISH        "Dron de escolta"
+
+REFERENCE           KILLSTREAK_HELICOPTER_GUARD_CRATE
+LANG_SPANISH        "Mantén ^3&&1^7 para dron de escolta."
+
+REFERENCE           KILLSTREAK_HELICOPTER_GUARD_DESC
+LANG_SPANISH        "Obtén apoyo aéreo personal de un dron de escolta."
+
+REFERENCE           KILLSTREAK_HELICOPTER_GUARD_INBOUND
+LANG_SPANISH        "Dron de escolta en camino."
+
+REFERENCE           KILLSTREAK_HELICOPTER_GUARD_NOT_AVAILABLE
+LANG_SPANISH        "Dron de escolta no disponible."
+
+REFERENCE           KILLSTREAK_HELICOPTER_GUNNER
+LANG_SPANISH        "VTOL"
+
+REFERENCE           KILLSTREAK_HELICOPTER_GUNNER_CRATE
+LANG_SPANISH        "Mantén ^3&&1^7 para VTOL."
+
+REFERENCE           KILLSTREAK_HELICOPTER_GUNNER_DESC
+LANG_SPANISH        "Conviértete en el artillero de un poderoso VTOL."
+
+REFERENCE           KILLSTREAK_HELICOPTER_GUNNER_INBOUND
+LANG_SPANISH        "VTOL en camino."
+
+REFERENCE           KILLSTREAK_HELICOPTER_GUNNER_NOT_AVAILABLE
+LANG_SPANISH        "VTOL no disponible."
+
+REFERENCE           KILLSTREAK_HELICOPTER_PLAYER
+LANG_SPANISH        "Helicóp. artillado"
+
+REFERENCE           KILLSTREAK_HELICOPTER_PLAYER_CRATE
+LANG_SPANISH        "Mantén ^3&&1^7 para helicóptero artillado."
+
+REFERENCE           KILLSTREAK_HELICOPTER_PLAYER_DESC
+LANG_SPANISH        "Pilota un helicóptero de ataque."
+
+REFERENCE           KILLSTREAK_HELICOPTER_PLAYER_INBOUND
+LANG_SPANISH        "Helicóptero artillado en camino"
+
+REFERENCE           KILLSTREAK_HELICOPTER_PLAYER_NOT_AVAILABLE
+LANG_SPANISH        "Helicóptero artillado no disponible"
+
+REFERENCE           KILLSTREAK_INCREASE_ZOOM
+LANG_SPANISH        "^3[{+speed_throw}]^7 Acercar vista"
+
+REFERENCE           KILLSTREAK_KILLCOUNT_DISPLAY
+LANG_SPANISH        "¡Racha de &&1 bajas!"
+
+REFERENCE           KILLSTREAK_KILLS_CHALLENGE_DESC
+LANG_SPANISH        "Consigue &&1 bajas con: &&2."
+
+REFERENCE           KILLSTREAK_KILLS_COUNTER_U2
+LANG_SPANISH        "Contrainteligencia"
+
+REFERENCE           KILLSTREAK_KILLS_COUNTER_U2_DESC
+LANG_SPANISH        "Mata a &&1 enemigos mientras tengas un Blackbird en el aire."
+
+REFERENCE           KILLSTREAK_KILLS_SATELLITE
+LANG_SPANISH        "En lo más alto"
+
+REFERENCE           KILLSTREAK_KILLS_SATELLITE_DESC
+LANG_SPANISH        "Mata a &&1 enemigos mientras tengas un VSAT orbital en el aire."
+
+REFERENCE           KILLSTREAK_KILLS_U2
+LANG_SPANISH        "Datos concluyentes"
+
+REFERENCE           KILLSTREAK_KILLS_U2_DESC
+LANG_SPANISH        "Mata a &&1 enemigos mientras tengas un Blackbird en el aire."
+
+REFERENCE           KILLSTREAK_M202_FLASH
+LANG_SPANISH        "Ángel de la muerte"
+
+REFERENCE           KILLSTREAK_M202_FLASH_CRATE
+LANG_SPANISH        "Mantén ^3&&1^7 para Ángel de la muerte."
+
+REFERENCE           KILLSTREAK_M202_FLASH_DESC
+LANG_SPANISH        "Lanzacohetes semiautomático capaz de seguir al blanco."
+
+REFERENCE           KILLSTREAK_M202_FLASH_DROP
+LANG_SPANISH        "Ángel de la muerte"
+
+REFERENCE           KILLSTREAK_M202_FLASH_DROP_DESC
+LANG_SPANISH        "Lanzacohetes semiautomático capaz de seguir al blanco."
+
+REFERENCE           KILLSTREAK_M202_FLASH_INBOUND
+LANG_SPANISH        "Ángel de la muerte equipado"
+
+REFERENCE           KILLSTREAK_M202_FLASH_KILLS_CHALLENGE_DESC
+LANG_SPANISH        "Elimina &&1 jugadores o aeronaves enemigas con el Ángel de la muerte."
+
+REFERENCE           KILLSTREAK_M202_FLASH_NOT_AVAILABLE
+LANG_SPANISH        "Ángel de la muerte no disponible"
+
+REFERENCE           KILLSTREAK_M220_TOW
+LANG_SPANISH        "Cohetes Valkyrie"
+
+REFERENCE           KILLSTREAK_M220_TOW_CRATE
+LANG_SPANISH        "Mantén ^3&&1^7 para cohetes Valkyrie."
+
+REFERENCE           KILLSTREAK_M220_TOW_DESC
+LANG_SPANISH        "Lanzacohetes teledirigidos."
+
+REFERENCE           KILLSTREAK_M220_TOW_DROP
+LANG_SPANISH        "Cohetes Valkyrie"
+
+REFERENCE           KILLSTREAK_M220_TOW_DROP_DESC
+LANG_SPANISH        "Lanzacohetes teledirigidos."
+
+REFERENCE           KILLSTREAK_M220_TOW_INBOUND
+LANG_SPANISH        "Cohetes Valkyrie equipados"
+
+REFERENCE           KILLSTREAK_M220_TOW_NOT_AVAILABLE
+LANG_SPANISH        "Cohetes Valkyrie no disponibles"
+
+REFERENCE           KILLSTREAK_M32
+LANG_SPANISH        "Máquina de guerra"
+
+REFERENCE           KILLSTREAK_M32_CRATE
+LANG_SPANISH        "Mantén ^3&&1^7 para Máquina de guerra."
+
+REFERENCE           KILLSTREAK_M32_DESC
+LANG_SPANISH        "Lanzagranadas con fuego rápido semiautomático."
+
+REFERENCE           KILLSTREAK_M32_DROP
+LANG_SPANISH        "Máquina de guerra"
+
+REFERENCE           KILLSTREAK_M32_DROP_CRATE
+LANG_SPANISH        "Mantén ^3&&1^7 para Máquina de guerra."
+
+REFERENCE           KILLSTREAK_M32_DROP_DESC
+LANG_SPANISH        "Lanzagranadas con fuego rápido semiautomático."
+
+REFERENCE           KILLSTREAK_M32_INBOUND
+LANG_SPANISH        "Máquina de guerra equipada."
+
+REFERENCE           KILLSTREAK_M32_NOT_AVAILABLE
+LANG_SPANISH        "Máquina de guerra no disponible"
+
+REFERENCE           KILLSTREAK_MICROWAVE_TURRET
+LANG_SPANISH        "Guardián"
+
+REFERENCE           KILLSTREAK_MICROWAVE_TURRET_CRATE
+LANG_SPANISH        "Mantén ^3&&1^7 para guardián."
+
+REFERENCE           KILLSTREAK_MICROWAVE_TURRET_DESC
+LANG_SPANISH        "Parabólica reubicable que proyecta un cono de radiación de microondas que aturde al enemigo."
+
+REFERENCE           KILLSTREAK_MICROWAVE_TURRET_NOT_AVAILABLE
+LANG_SPANISH        "Guardián no disponible."
+
+REFERENCE           KILLSTREAK_MICROWAVE_TURRET_PICKUP
+LANG_SPANISH        "Mantén ^3&&1^7 para recoger guardián."
+
+REFERENCE           KILLSTREAK_MINIGUN
+LANG_SPANISH        "Máquina de muerte"
+
+REFERENCE           KILLSTREAK_MINIGUN_CRATE
+LANG_SPANISH        "Mantén ^3&&1^7 para Máquina de muerte."
+
+REFERENCE           KILLSTREAK_MINIGUN_DESC
+LANG_SPANISH        "Tu propio cañón automático portátil."
+
+REFERENCE           KILLSTREAK_MINIGUN_DROP
+LANG_SPANISH        "Máquina de muerte"
+
+REFERENCE           KILLSTREAK_MINIGUN_DROP_DESC
+LANG_SPANISH        "Tu propio cañón automático portátil."
+
+REFERENCE           KILLSTREAK_MINIGUN_INBOUND
+LANG_SPANISH        "Máquina de muerte equipada"
+
+REFERENCE           KILLSTREAK_MINIGUN_NOT_AVAILABLE
+LANG_SPANISH        "Máquina de muerte no disponible"
+
+REFERENCE           KILLSTREAK_MISSILE_DRONE
+LANG_SPANISH        "Cazador"
+
+REFERENCE           KILLSTREAK_MISSILE_DRONE_CRATE
+LANG_SPANISH        "Mantén ^3&&1^7 para cazador."
+
+REFERENCE           KILLSTREAK_MISSILE_DRONE_DESC
+LANG_SPANISH        "Dron desplegado por la infantería que sigue a un blanco o vehículo enemigo."
+
+REFERENCE           KILLSTREAK_MISSILE_DRONE_INBOUND
+LANG_SPANISH        "Cazador en camino."
+
+REFERENCE           KILLSTREAK_MISSILE_DRONE_NOT_AVAILABLE
+LANG_SPANISH        "Cazador no disponible."
+
+REFERENCE           KILLSTREAK_MISSILE_SWARM
+LANG_SPANISH        "Enjambre"
+
+REFERENCE           KILLSTREAK_MISSILE_SWARM_CRATE
+LANG_SPANISH        "Mantén ^3&&1^7 para enjambre."
+
+REFERENCE           KILLSTREAK_MISSILE_SWARM_DESC
+LANG_SPANISH        "Solicita un enjambre de drones cazadores letales."
+
+REFERENCE           KILLSTREAK_MISSILE_SWARM_INBOUND
+LANG_SPANISH        "Enjambre en camino."
+
+REFERENCE           KILLSTREAK_MISSILE_SWARM_NOT_AVAILABLE
+LANG_SPANISH        "Enjambre no disponible."
+
+REFERENCE           KILLSTREAK_MOBILESPAWN_INBOUND
+LANG_SPANISH        "Reaparición móvil en camino"
+
+REFERENCE           KILLSTREAK_MOBILESPAWN_NOT_AVAILABLE
+LANG_SPANISH        "Reaparición móvil no disponible"
+
+REFERENCE           KILLSTREAK_MORTAR
+LANG_SPANISH        "mortero"
+
+REFERENCE           KILLSTREAK_MORTAR_CRATE
+LANG_SPANISH        "Mantén ^3&&1^7 para mortero."
+
+REFERENCE           KILLSTREAK_MORTAR_DESC
+LANG_SPANISH        "Señala tres posiciones para bombardearlas con morteros."
+
+REFERENCE           KILLSTREAK_MORTAR_INBOUND
+LANG_SPANISH        "Ataque de mortero en camino"
+
+REFERENCE           KILLSTREAK_MORTAR_NOT_AVAILABLE
+LANG_SPANISH        "Mortero no disponible"
+
+REFERENCE           KILLSTREAK_NAPALM
+LANG_SPANISH        "ataque de napalm"
+
+REFERENCE           KILLSTREAK_NAPALM_CRATE
+LANG_SPANISH        "Mantén ^3&&1^7 para ataque de napalm."
+
+REFERENCE           KILLSTREAK_NAPALM_DESC
+LANG_SPANISH        "Ataque aéreo que cubre una zona con napalm."
+
+REFERENCE           KILLSTREAK_NAPALM_NOT_AVAILABLE
+LANG_SPANISH        "Ataque de napalm no disponible"
+
+REFERENCE           KILLSTREAK_NOT_AVAILABLE_EMP_ACTIVE
+LANG_SPANISH        "PEM activo durante &&1 segundos."
+
+REFERENCE           KILLSTREAK_NULL
+LANG_SPANISH        ""
+
+REFERENCE           KILLSTREAK_PLANEMORTAR
+LANG_SPANISH        "Ataque relámpago"
+
+REFERENCE           KILLSTREAK_PLANEMORTAR_DESC
+LANG_SPANISH        "Lanza un ataque relámpago coordinado en tres posiciones."
+
+REFERENCE           KILLSTREAK_PLANEMORTAR_NOT_AVAILABLE
+LANG_SPANISH        "Ataque relámpago no disponible"
+
+REFERENCE           KILLSTREAK_PLANE_MORTAR_CRATE
+LANG_SPANISH        "Mantén ^3&&1^7 para obtener ataque relámpago."
+
+REFERENCE           KILLSTREAK_PRESS_TO_KILLSTREAK
+LANG_SPANISH        "^3&&1^7 para activar"
+
+REFERENCE           KILLSTREAK_QRDRONE
+LANG_SPANISH        "Dragonfire"
+
+REFERENCE           KILLSTREAK_QRDRONE_CRATE
+LANG_SPANISH        "Mantén ^3&&1^7 para Dragonfire."
+
+REFERENCE           KILLSTREAK_QRDRONE_DESC
+LANG_SPANISH        "Dron cuad. con control remoto con una ametralladora ligera."
+
+REFERENCE           KILLSTREAK_QRDRONE_INBOUND
+LANG_SPANISH        "Dragonfire activo."
+
+REFERENCE           KILLSTREAK_QRDRONE_NOT_AVAILABLE
+LANG_SPANISH        "Dragonfire no disponible."
+
+REFERENCE           KILLSTREAK_QRDRONE_NOT_PLACEABLE
+LANG_SPANISH        "Imposible desplegar el Dragonfire en esta posición."
+
+REFERENCE           KILLSTREAK_RADAR_CRATE
+LANG_SPANISH        "Mantén ^3&&1^7 para UAV."
+
+REFERENCE           KILLSTREAK_RADAR_INBOUND
+LANG_SPANISH        "UAV en camino"
+
+REFERENCE           KILLSTREAK_RADAR_INCOMING
+LANG_SPANISH        "UAV solicitado por"
+
+REFERENCE           KILLSTREAK_RADAR_NOT_AVAILABLE
+LANG_SPANISH        "UAV no disponible"
+
+REFERENCE           KILLSTREAK_RCBOMB
+LANG_SPANISH        "RC-XD"
+
+REFERENCE           KILLSTREAK_RCBOMB_CRATE
+LANG_SPANISH        "Mantén ^3&&1^7 para RC-XD."
+
+REFERENCE           KILLSTREAK_RCBOMB_DESC
+LANG_SPANISH        "Coche por control remoto repleto de explosivos."
+
+REFERENCE           KILLSTREAK_RCBOMB_INBOUND
+LANG_SPANISH        "RC-XD en camino"
+
+REFERENCE           KILLSTREAK_RCBOMB_NOT_AVAILABLE
+LANG_SPANISH        "RC-XD no disponible"
+
+REFERENCE           KILLSTREAK_RCBOMB_NOT_PLACEABLE
+LANG_SPANISH        "Aquí no se puede colocar RC-XD"
+
+REFERENCE           KILLSTREAK_RECON
+LANG_SPANISH        "UAV"
+
+REFERENCE           KILLSTREAK_RECON_DESC
+LANG_SPANISH        "Muestra a los enemigos en el minimapa."
+
+REFERENCE           KILLSTREAK_REMOTE_MISSILE
+LANG_SPANISH        "Misil Hellstorm"
+
+REFERENCE           KILLSTREAK_REMOTE_MISSILE_CRATE
+LANG_SPANISH        "Mantén ^3&&1^7 para misil Hellstorm."
+
+REFERENCE           KILLSTREAK_REMOTE_MISSILE_DEPLOY
+LANG_SPANISH        "^3[{+attack}]^7 Desplegar bomba de racimo"
+
+REFERENCE           KILLSTREAK_REMOTE_MISSILE_DESC
+LANG_SPANISH        "Misil Hellstorm a control remoto con carga de bombas de racimo."
+
+REFERENCE           KILLSTREAK_REMOTE_MISSILE_INBOUND
+LANG_SPANISH        "Misil Hellstorm en camino"
+
+REFERENCE           KILLSTREAK_REMOTE_MISSILE_NOT_AVAILABLE
+LANG_SPANISH        "Misil Hellstorm no disponible"
+
+REFERENCE           KILLSTREAK_REMOTE_MISSILE_NOT_USABLE
+LANG_SPANISH        "No se puede usar el misil Hellstorm en esta ubicación."
+
+REFERENCE           KILLSTREAK_REMOTE_MORTAR
+LANG_SPANISH        "Lodestar"
+
+REFERENCE           KILLSTREAK_REMOTE_MORTAR_CRATE
+LANG_SPANISH        "Mantén ^3&&1^7 para Lodestar."
+
+REFERENCE           KILLSTREAK_REMOTE_MORTAR_DESC
+LANG_SPANISH        "Marca blancos para misiles a distancia desde el Lodestar."
+
+REFERENCE           KILLSTREAK_REMOTE_MORTAR_INBOUND
+LANG_SPANISH        "Lodestar en camino"
+
+REFERENCE           KILLSTREAK_REMOTE_MORTAR_NOT_AVAILABLE
+LANG_SPANISH        "Lodestar no disponible."
+
+REFERENCE           KILLSTREAK_REMOTE_MORTAR_NOT_USABLE
+LANG_SPANISH        "No se puede usar el Lodestar en esta ubicación."
+
+REFERENCE           KILLSTREAK_SATELLITE
+LANG_SPANISH        "VSAT orbital"
+
+REFERENCE           KILLSTREAK_SATELLITE_CRATE
+LANG_SPANISH        "Mantén ^3&&1^7 para obtener VSAT orbital."
+
+REFERENCE           KILLSTREAK_SATELLITE_DESC
+LANG_SPANISH        "Muestra la posición y dirección del enemigo en el minimapa. No se puede derribar."
+
+REFERENCE           KILLSTREAK_SATELLITE_INBOUND
+LANG_SPANISH        "VSAT orbital activo"
+
+REFERENCE           KILLSTREAK_SATELLITE_NOT_AVAILABLE
+LANG_SPANISH        "VSAT orbital no disponible"
+
+REFERENCE           KILLSTREAK_SENTRY_TURRET_PICKUP
+LANG_SPANISH        "Mantén ^3&&1^7 para recoger centinela."
+
+REFERENCE           KILLSTREAK_STRAFERUN
+LANG_SPANISH        "Warthog"
+
+REFERENCE           KILLSTREAK_STRAFERUN_CRATE
+LANG_SPANISH        "Mantén ^3&&1^7 para Warthog."
+
+REFERENCE           KILLSTREAK_STRAFERUN_DESC
+LANG_SPANISH        "Avión a reacción que proporciona apoyo aéreo mediante varios ametrallamientos. "
+
+REFERENCE           KILLSTREAK_STRAFERUN_NOT_AVAILABLE
+LANG_SPANISH        "Warthog no disponible."
+
+REFERENCE           KILLSTREAK_SUPPLY_DROP
+LANG_SPANISH        "Paquete de ayuda"
+
+REFERENCE           KILLSTREAK_SUPPLY_DROP_DESC
+LANG_SPANISH        "Lanza una racha de puntos aleatoria."
+
+REFERENCE           KILLSTREAK_SUPPLY_DROP_DISARMING_CRATE
+LANG_SPANISH        "Desarmando caja con trampa"
+
+REFERENCE           KILLSTREAK_SUPPLY_DROP_DISARM_HINT
+LANG_SPANISH        "Mantén ^3&&1^7 para desarmar caja con trampa."
+
+REFERENCE           KILLSTREAK_SUPPLY_DROP_INBOUND
+LANG_SPANISH        "Paquete de ayuda en camino."
+
+REFERENCE           KILLSTREAK_TOW_TURRET
+LANG_SPANISH        "Batería SAM"
+
+REFERENCE           KILLSTREAK_TOW_TURRET_CRATE
+LANG_SPANISH        "Mantén ^3&&1^7 para batería SAM."
+
+REFERENCE           KILLSTREAK_TOW_TURRET_DESC
+LANG_SPANISH        "Lanza una torreta SAM que destruye aeronaves."
+
+REFERENCE           KILLSTREAK_TOW_TURRET_DROP
+LANG_SPANISH        "Batería SAM"
+
+REFERENCE           KILLSTREAK_TOW_TURRET_DROP_DESC
+LANG_SPANISH        "Lanza una torreta SAM que destruye aeronaves."
+
+REFERENCE           KILLSTREAK_TOW_TURRET_KILLS_CHALLENGE_DESC
+LANG_SPANISH        "Destruye &&1 aeronaves con la torreta SAM."
+
+REFERENCE           KILLSTREAK_TOW_TURRET_NOT_AVAILABLE
+LANG_SPANISH        "Batería SAM no disponible"
+
+REFERENCE           KILLSTREAK_TOW_TURRET_PICKUP
+LANG_SPANISH        "Mantén ^3&&1^7 para recoger batería SAM."
+
+REFERENCE           KILLSTREAK_TURRET_HACKING
+LANG_SPANISH        "Mantén ^3&&1^7 para piratear centinela."
+
+REFERENCE           KILLSTREAK_TURRET_KNIFED
+LANG_SPANISH        "Atacar cuerpo a cuerpo no sirve de nada."
+
+REFERENCE           KILLSTREAK_TURRET_MICROWAVE_DISABLE
+LANG_SPANISH        "Mantén ^3&&1^7 para desactivar guardián."
+
+REFERENCE           KILLSTREAK_TURRET_MICROWAVE_HACKING
+LANG_SPANISH        "Mantén ^3&&1^7 para piratear guardián."
+
+REFERENCE           KILLSTREAK_TURRET_SENTRY_DISABLE
+LANG_SPANISH        "Mantén ^3&&1^7 para desactivar centinela."
+
+REFERENCE           KILLSTREAK_USE_TALON
+LANG_SPANISH        "^3&&1^7 para desplegar AGR"
+
+REFERENCE           SO_RTS_ACTIVE_UNITS_CAPS
+LANG_SPANISH        "UNIDADES ACTIVAS"
+
+REFERENCE           SO_RTS_ACTIVE_UNIT_PANEL_CAPS
+LANG_SPANISH        "PANEL DE UNIDADES ACTIVAS"
+
+REFERENCE           SO_RTS_AIRSTRIKEPKG_DESC
+LANG_SPANISH        "Devastador ataque aéreo guiado que puede causar numerosas víctimas y enormes daños."
+
+REFERENCE           SO_RTS_AIRSTRIKEPKG_NAME
+LANG_SPANISH        "Ataque aéreo guiado"
+
+REFERENCE           SO_RTS_AIRSTRIKE_AVAIL
+LANG_SPANISH        "Pulsa ^3[{+activate}]^7 PARA LANZAR ATAQUE."
+
+REFERENCE           SO_RTS_AIRSTRIKE_AVAILABLE_IN
+LANG_SPANISH        "ATAQUE AÉREO DISPONIBLE EN"
+
+REFERENCE           SO_RTS_AIRSTRIKE_NOTAVAIL
+LANG_SPANISH        "ATAQUE AÉREO NO DISPONIBLE ACTUALMENTE"
+
+REFERENCE           SO_RTS_ALLY_BASE_DAMAGE
+LANG_SPANISH        "LA BASE DE OPERACIONES ALIADA ESTÁ SIENDO ATACADA"
+
+REFERENCE           SO_RTS_ALLY_BASE_DESTROYED
+LANG_SPANISH        "LA BASE DE OPERACIONES ALIADA HA SIDO DESTRUIDA"
+
+REFERENCE           SO_RTS_ALL_FOLLOW
+LANG_SPANISH        "MANTENER ^3[{+smoke}]^7 ORDENAR A TODOS"
+
+REFERENCE           SO_RTS_ARGUS
+LANG_SPANISH        "NOMBRE: %1\nDESCRIPCIÓN: %2\nTIPO: %3\nSALUD: %4\nARMADURA: %5\nBAJAS CONFIRMADAS: %6\n"
+
+REFERENCE           SO_RTS_ARGUS_BASE
+LANG_SPANISH        "EQUIPO DE BASE: %1\nSALUD DE BASE: %2\n"
+
+REFERENCE           SO_RTS_ARGUS_POI
+LANG_SPANISH        "NOMBRE: %1\nDESCRIPCIÓN: %2\n\nEQUIPO: %3"
+
+REFERENCE           SO_RTS_AUTO_ORDER
+LANG_SPANISH        "ORDENAR AUTOMÁTICAMENTE: "
+
+REFERENCE           SO_RTS_BEGIN_MISSION_CAPS
+LANG_SPANISH        "INICIAR MISIÓN"
+
+REFERENCE           SO_RTS_BIGDOG_DESC
+LANG_SPANISH        "Vehículo de asalto mecanizado autónomo.  "
+
+REFERENCE           SO_RTS_BIGDOG_NAME
+LANG_SPANISH        "ALPHA DOG TELEDIRIGIDO"
+
+REFERENCE           SO_RTS_BTN_FPS_FOLLOW
+LANG_SPANISH        "^3[{+actionslot 2}]^7 para reunir el pelotón a tu alrededor."
+
+REFERENCE           SO_RTS_BTN_FPS_RALLY
+LANG_SPANISH        "^3[{+smoke}]^7 para fijar punto de reunión."
+
+REFERENCE           SO_RTS_BTN_FPS_RTSMODE
+LANG_SPANISH        "^BBUTTON_MP_CANCELCOMMAND^ para volver al mapa de batalla."
+
+REFERENCE           SO_RTS_BTN_HELP
+LANG_SPANISH        "^3[{+breath_sprint}]^7 para mostrar/ocultar ayuda de botones\n"
+
+REFERENCE           SO_RTS_BTN_RTS_CATALOG_SCROLL
+LANG_SPANISH        "^3[{+actionslot 3}]^7 o ^3[{+actionslot 4}]^7 para mover el selector de unidades."
+
+REFERENCE           SO_RTS_BTN_RTS_CYCLE
+LANG_SPANISH        "^3[{+actionslot 3}]^7 o ^3[{+actionslot 4}]^7 para cambiar de pelotón."
+
+REFERENCE           SO_RTS_BTN_RTS_MOVE
+LANG_SPANISH        "^3[{+smoke}]^7 para mover las unidades seleccionadas."
+
+REFERENCE           SO_RTS_BTN_RTS_RESET
+LANG_SPANISH        "^3[{+melee}]^7 para centrarte en tu base de operaciones."
+
+REFERENCE           SO_RTS_BTN_RTS_TAKEOVER
+LANG_SPANISH        "^BBUTTON_MP_CANCELCOMMAND^ para controlar la unidad resaltada."
+
+REFERENCE           SO_RTS_CANNOT_HACK
+LANG_SPANISH        "ENCRIPTADO. NO SE PUEDE PIRATEAR."
+
+REFERENCE           SO_RTS_CODE
+LANG_SPANISH        "Especial"
+
+REFERENCE           SO_RTS_COMMANDS_CAPS
+LANG_SPANISH        "ACCIONES"
+
+REFERENCE           SO_RTS_COMMANDS_CONT_CAPS
+LANG_SPANISH        "ACCIONES (CONT.)"
+
+REFERENCE           SO_RTS_CONTINUE_STORY_CAPS
+LANG_SPANISH        "CONTINUAR HISTORIA"
+
+REFERENCE           SO_RTS_CONTROLS_CAPS
+LANG_SPANISH        "CONTROLES"
+
+REFERENCE           SO_RTS_DEFENDING
+LANG_SPANISH        "Defendiendo posición"
+
+REFERENCE           SO_RTS_DELIVERY
+LANG_SPANISH        "ENTREGA:  "
+
+REFERENCE           SO_RTS_DELIVERY_ARRIVED
+LANG_SPANISH        "LAS UNIDADES HAN LLEGADO"
+
+REFERENCE           SO_RTS_DELIVERY_INCOMMING
+LANG_SPANISH        "ENTREGA DE UNIDADES EN CAMINO"
+
+REFERENCE           SO_RTS_DELIVERY_NOTAVAIL
+LANG_SPANISH        "TRANSPORTE NO DISPONIBLE: VOLANDO"
+
+REFERENCE           SO_RTS_DELIVERY_REFUEL
+LANG_SPANISH        "TRANSPORTE NO DISPONIBLE: REPOSTANDO"
+
+REFERENCE           SO_RTS_DOGPKG_DESC
+LANG_SPANISH        "El paquete de perros de asalto contiene tres perros entrenados para buscar y asesinar a la infantería enemiga."
+
+REFERENCE           SO_RTS_DOGPKG_NAME
+LANG_SPANISH        "Perros de asalto"
+
+REFERENCE           SO_RTS_DOG_DESC
+LANG_SPANISH        "Unidad canina entrenada para buscar y asesinar a la infantería enemiga."
+
+REFERENCE           SO_RTS_DOG_NAME
+LANG_SPANISH        "Perro de presa"
+
+REFERENCE           SO_RTS_ENEMY_ARRIVED
+LANG_SPANISH        "NUEVA ACTIVIDAD ENEMIGA DETECTADA"
+
+REFERENCE           SO_RTS_ENGAGED
+LANG_SPANISH        "Contacto enemigo."
+
+REFERENCE           SO_RTS_FASTROPE_HELO
+LANG_SPANISH        "Helicóptero"
+
+REFERENCE           SO_RTS_FASTROPE_VTOL
+LANG_SPANISH        "VTOL"
+
+REFERENCE           SO_RTS_FIRESTORMPKG_DESC
+LANG_SPANISH        "Vehículo de asalto mecanizado autónomo.  "
+
+REFERENCE           SO_RTS_FIRESTORMPKG_NAME
+LANG_SPANISH        "Vehículo teledirigido Firestorm"
+
+REFERENCE           SO_RTS_FPS_MODE
+LANG_SPANISH        "Jugando como unidad (1a persona)"
+
+REFERENCE           SO_RTS_FUBAR
+LANG_SPANISH        "Estado desconocido"
+
+REFERENCE           SO_RTS_INFANTRY_CQB_DESC
+LANG_SPANISH        "Soldado veterano especializado en combate a corta distancia."
+
+REFERENCE           SO_RTS_INFANTRY_CQB_NAME
+LANG_SPANISH        "Infantería, CaC"
+
+REFERENCE           SO_RTS_INFANTRY_ELITEPKG_DESC
+LANG_SPANISH        "Pelotón de las fuerzas especiales que contiene cuatro unidades de infantería formadas por artilleros pesados."
+
+REFERENCE           SO_RTS_INFANTRY_ELITEPKG_NAME
+LANG_SPANISH        "Pelotón de fuerzas especiales"
+
+REFERENCE           SO_RTS_INFANTRY_ELITE_DESC
+LANG_SPANISH        "Soldado veterano entrenado en las fuerzas especiales rusas."
+
+REFERENCE           SO_RTS_INFANTRY_ELITE_NAME
+LANG_SPANISH        "Infantería, Spetsnaz"
+
+REFERENCE           SO_RTS_INFANTRY_HEAVY_DESC
+LANG_SPANISH        "Soldado veterano con amplio entrenamiento en el uso de armamento pesado y explosivos."
+
+REFERENCE           SO_RTS_INFANTRY_HEAVY_NAME
+LANG_SPANISH        "Infantería, artillero pesado"
+
+REFERENCE           SO_RTS_INFANTRY_JUG_DESC
+LANG_SPANISH        "Unidad de asalto fuertemente protegida capaz de aguantar daños considerables."
+
+REFERENCE           SO_RTS_INFANTRY_JUG_NAME
+LANG_SPANISH        "Unidad táctica de asalto"
+
+REFERENCE           SO_RTS_INFANTRY_REGPKG_DESC
+LANG_SPANISH        "El pelotón de infantería corriente contiene cuatro unidades básicas de infantería."
+
+REFERENCE           SO_RTS_INFANTRY_REGPKG_NAME
+LANG_SPANISH        "Pelotón de infantería básica"
+
+REFERENCE           SO_RTS_INFANTRY_REG_DESC
+LANG_SPANISH        "Soldado básico con entrenamiento y armamento básicos."
+
+REFERENCE           SO_RTS_INFANTRY_SNIPER_NAME
+LANG_SPANISH        "Infantería, francotirador"
+
+REFERENCE           SO_RTS_INFANTRY_SPEC_SNIPER_DESC
+LANG_SPANISH        "Soldado veterano y diestro tirador con entrenamiento en el uso de armas de francotirador."
+
+REFERENCE           SO_RTS_INFRA_CONTESTED
+LANG_SPANISH        "BATALLA POR CONTROLAR LA INFRAESTRUCTURA EN PROCESO"
+
+REFERENCE           SO_RTS_INFRA_LOST
+LANG_SPANISH        "SE HA PERDIDO LA INFRAESTRUCTURA"
+
+REFERENCE           SO_RTS_INFRA_WON
+LANG_SPANISH        "SE HA CONQUISTADO LA INFRAESTRUCTURA"
+
+REFERENCE           SO_RTS_INTRUDER_ATTACK
+LANG_SPANISH        "DISPOSITIVO ATACADO"
+
+REFERENCE           SO_RTS_INTRUDER_DESTROYED
+LANG_SPANISH        "DISPOSITIVO DESTRUIDO"
+
+REFERENCE           SO_RTS_INTRUDER_SET
+LANG_SPANISH        "DISPOSITIVO COLOCADO"
+
+REFERENCE           SO_RTS_ISSUE_COMMANDS_CAPS
+LANG_SPANISH        "DAR ÓRDENES A PELOTONES"
+
+REFERENCE           SO_RTS_ISSUE_COMMANDS_TWIST_WIIU_REMOTE_CAPS
+LANG_SPANISH        "DAR ÓRDENES\nA PELOTONES (GIRAR\nMANDO DE Wii)"
+
+REFERENCE           SO_RTS_ISSUE_COMMANDS_TWO_LINES_CAPS
+LANG_SPANISH        "DAR ÓRDENES\nA PELOTONES"
+
+REFERENCE           SO_RTS_MISSILE_HINT
+LANG_SPANISH        "Usa ^3[{+lookstick}]^7 para dirigir el misil."
+
+REFERENCE           SO_RTS_MISSION_FAILED
+LANG_SPANISH        "MISIÓN FALLIDA"
+
+REFERENCE           SO_RTS_MISSION_SUCCESS
+LANG_SPANISH        "MISIÓN CUMPLIDA"
+
+REFERENCE           SO_RTS_MISSION_TIME_REMAINING_CAPS
+LANG_SPANISH        "TIEMPO DE MISIÓN"
+
+REFERENCE           SO_RTS_MOVING
+LANG_SPANISH        "En movimiento"
+
+REFERENCE           SO_RTS_MP_SOCOTRA_FREE_KARMA
+LANG_SPANISH        "Mantén ^3[{+activate}]^7 para rescatar."
+
+REFERENCE           SO_RTS_MP_SOCOTRA_HVT_RESCUE
+LANG_SPANISH        "TIEMPO DE RESCATE DE VIP"
+
+REFERENCE           SO_RTS_MP_SOCOTRA_INTROSCREEN_LINE_1
+LANG_SPANISH        "^L\"SEGUNDA OPORTUNIDAD\"^L"
+
+REFERENCE           SO_RTS_MP_SOCOTRA_INTROSCREEN_LINE_2
+LANG_SPANISH        "ISLA DE SOCOTRA, ^LYEMEN^L"
+
+REFERENCE           SO_RTS_MP_SOCOTRA_INTROSCREEN_LINE_3
+LANG_SPANISH        "FUERZA DE ASALTO DEL ^LJSOC^L "
+
+REFERENCE           SO_RTS_MP_SOCOTRA_INTROSCREEN_LINE_4
+LANG_SPANISH        "14 DE JUNIO DE ^L2025^L"
+
+REFERENCE           SO_RTS_MP_SOCOTRA_KARMA
+LANG_SPANISH        "KARMA"
+
+REFERENCE           SO_RTS_MP_SOCOTRA_KARMA_HINT
+LANG_SPANISH        "Mantén ^3[{+actionslot 1}]^7 para controlar a Karma."
+
+REFERENCE           SO_RTS_MP_SOCOTRA_OBJ_ESCORT
+LANG_SPANISH        "Escolta al VIP al punto de extracción."
+
+REFERENCE           SO_RTS_MP_SOCOTRA_OBJ_FIND
+LANG_SPANISH        "Localiza al VIP."
+
+REFERENCE           SO_RTS_MP_SOCOTRA_OBJ_RESCUE
+LANG_SPANISH        "Rescata al VIP."
+
+REFERENCE           SO_RTS_MP_SOCOTRA_OBJ_SEARCH
+LANG_SPANISH        "Busca al VIP en los pisos francos designados [&&1 de 5]."
+
+REFERENCE           SO_RTS_MP_SOCOTRA_OBJ_SECURE
+LANG_SPANISH        "ASEGURA AL VIP:"
+
+REFERENCE           SO_RTS_MP_SOCOTRA_TIME_TO_VTOL
+LANG_SPANISH        "LLEGADA DE LA EVACUACIÓN"
+
+REFERENCE           SO_RTS_MP_SOCOTRA_VOX_VOX_SOC_ALPHA_COMEON_000_SO0_D
+LANG_SPANISH        "^1Soldier: ^7Come on, come on!"
+
+REFERENCE           SO_RTS_MP_SOCOTRA_VOX_VOX_SOC_ALPHA_COMEON_000_SO1_D
+LANG_SPANISH        "^1Soldier: ^7Come on, come on!"
+
+REFERENCE           SO_RTS_MP_SOCOTRA_VOX_VOX_SOC_ALPHA_COMEON_000_SO2_D
+LANG_SPANISH        "^1Soldier: ^7Come on, come on!"
+
+REFERENCE           SO_RTS_MP_SOCOTRA_VOX_VOX_SOC_ALPHA_FULL_000_SO0_D
+LANG_SPANISH        "^1Soldier: ^7All eagles on board -  Full head count!"
+
+REFERENCE           SO_RTS_MP_SOCOTRA_VOX_VOX_SOC_ALPHA_FULL_000_SO1_D
+LANG_SPANISH        "^1Soldier: ^7All eagles on board -  Full head count!"
+
+REFERENCE           SO_RTS_MP_SOCOTRA_VOX_VOX_SOC_ALPHA_FULL_000_SO2_D
+LANG_SPANISH        "^1Soldier: ^7All eagles on board -  Full head count!"
+
+REFERENCE           SO_RTS_MP_SOCOTRA_VOX_VOX_SOC_ALPHA_GETOUT_000_SO0_D
+LANG_SPANISH        "^1Soldier: ^7Get us out of here!"
+
+REFERENCE           SO_RTS_MP_SOCOTRA_VOX_VOX_SOC_ALPHA_GETOUT_000_SO1_D
+LANG_SPANISH        "^1Soldier: ^7Get us out of here!"
+
+REFERENCE           SO_RTS_MP_SOCOTRA_VOX_VOX_SOC_ALPHA_GETOUT_000_SO2_D
+LANG_SPANISH        "^1Soldier: ^7Get us out of here!"
+
+REFERENCE           SO_RTS_MP_SOCOTRA_VOX_VOX_SOC_FIND_HVI_000_SECT_D
+LANG_SPANISH        "^1Section: ^7Search all areas until HVI is located."
+
+REFERENCE           SO_RTS_MP_SOCOTRA_VOX_VOX_SOC_HELO_LOST_002_SECT_D
+LANG_SPANISH        "^1Section: ^7Enemy has destroyed our extraction Helo."
+
+REFERENCE           SO_RTS_MP_SOCOTRA_VOX_VOX_SOC_INTRO_01_000_SECT_D
+LANG_SPANISH        "^1Section: ^7POTUS Level 1 OP is approved."
+
+REFERENCE           SO_RTS_MP_SOCOTRA_VOX_VOX_SOC_INTRO_02_000_SECT_D
+LANG_SPANISH        "^1Section: ^7High Value Individual extraction is a go."
+
+REFERENCE           SO_RTS_MP_SOCOTRA_VOX_VOX_SOC_INTRO_ALIVE_000_SECT_D
+LANG_SPANISH        "^1Section: ^7Remember, we need them alive."
+
+REFERENCE           SO_RTS_MP_SOCOTRA_VOX_VOX_SOC_INTRO_GAS_000_SECT_D
+LANG_SPANISH        "^1Section: ^7Tear gas deployed in the AO - Civilians presence minimized."
+
+REFERENCE           SO_RTS_MP_SOCOTRA_VOX_VOX_SOC_INTRO_QUICK_000_SECT_D
+LANG_SPANISH        "^1Section: ^7Let's make this quick."
+
+REFERENCE           SO_RTS_MP_SOCOTRA_VOX_VOX_SOC_KILO_COMEON_000_SO3_D
+LANG_SPANISH        "^1Soldier: ^7Come on, come on!"
+
+REFERENCE           SO_RTS_MP_SOCOTRA_VOX_VOX_SOC_KILO_COMEON_000_SO4_D
+LANG_SPANISH        "^1Soldier: ^7Come on, come on!"
+
+REFERENCE           SO_RTS_MP_SOCOTRA_VOX_VOX_SOC_KILO_COMEON_000_SO5_D
+LANG_SPANISH        "^1Soldier: ^7Come on, come on!"
+
+REFERENCE           SO_RTS_MP_SOCOTRA_VOX_VOX_SOC_KILO_FULL_000_SO3_D
+LANG_SPANISH        "^1Soldier: ^7All eagles on board -  Full head count!"
+
+REFERENCE           SO_RTS_MP_SOCOTRA_VOX_VOX_SOC_KILO_FULL_000_SO4_D
+LANG_SPANISH        "^1Soldier: ^7All eagles on board -  Full head count!"
+
+REFERENCE           SO_RTS_MP_SOCOTRA_VOX_VOX_SOC_KILO_FULL_000_SO5_D
+LANG_SPANISH        "^1Soldier: ^7All eagles on board -  Full head count!"
+
+REFERENCE           SO_RTS_MP_SOCOTRA_VOX_VOX_SOC_KILO_GETOUT_000_SO3_D
+LANG_SPANISH        "^1Soldier: ^7Get us out of here!"
+
+REFERENCE           SO_RTS_MP_SOCOTRA_VOX_VOX_SOC_KILO_GETOUT_000_SO4_D
+LANG_SPANISH        "^1Soldier: ^7Get us out of here!"
+
+REFERENCE           SO_RTS_MP_SOCOTRA_VOX_VOX_SOC_KILO_GETOUT_000_SO5_D
+LANG_SPANISH        "^1Soldier: ^7Get us out of here!"
+
+REFERENCE           SO_RTS_MP_SOCOTRA_VOX_VOX_SOC_RAPTOR_LOST_000_SECT_D
+LANG_SPANISH        "^1Section: ^7Raptor 1.1. is down."
+
+REFERENCE           SO_RTS_MP_SOCOTRA_VOX_VOX_SOC_RAPTOR_LOST_001_SECT_D
+LANG_SPANISH        "^1Section: ^7Our extract platform has burned in."
+
+REFERENCE           SO_RTS_MP_SOCOTRA_VOX_VOX_SOC_TIME_LOW_002_SECT_D
+LANG_SPANISH        "^1Section: ^7Enemy forces are on their way.  We're up against the clock here."
+
+REFERENCE           SO_RTS_MP_SOCOTRA_VOX_VOX_SOC_VTOL_EVAC_000_PIL_D
+LANG_SPANISH        "^1Pilot: ^7You got ten seconds before we light this place up!"
+
+REFERENCE           SO_RTS_MP_SOCOTRA_VOX_VOX_SOC_VTOL_RTB_000_PIL_D
+LANG_SPANISH        "^1Pilot: ^7Roger that!"
+
+REFERENCE           SO_RTS_MP_SOCOTRA_VTOL_LEAVE
+LANG_SPANISH        "TRANSPORTE DE EVACUACIÓN"
+
+REFERENCE           SO_RTS_NONE
+LANG_SPANISH        "NINGUNO"
+
+REFERENCE           SO_RTS_NO_UNITS_FAILURE
+LANG_SPANISH        "No tienes más equipos de Fuerza de asalto y vas a volver a la sala de informes."
+
+REFERENCE           SO_RTS_OBJ3D_CAPTURE
+LANG_SPANISH        "Asegura"
+
+REFERENCE           SO_RTS_OBJ3D_DEFEND
+LANG_SPANISH        "DEFENDER"
+
+REFERENCE           SO_RTS_OBJ3D_DESTROY
+LANG_SPANISH        "DESTRUYE"
+
+REFERENCE           SO_RTS_OBJ3D_PROTECT
+LANG_SPANISH        "Protege"
+
+REFERENCE           SO_RTS_OBJ3D_RESCUE
+LANG_SPANISH        "Rescata"
+
+REFERENCE           SO_RTS_OBJ_CAPTURE
+LANG_SPANISH        "Toma y hazte con el control de la infraestructura crítica del enemigo."
+
+REFERENCE           SO_RTS_OBJ_DESTROY
+LANG_SPANISH        "Destruye la base de operaciones enemiga."
+
+REFERENCE           SO_RTS_OBJ_PROTECT
+LANG_SPANISH        "Protege la base de operaciones aliada."
+
+REFERENCE           SO_RTS_OFF
+LANG_SPANISH        "NO"
+
+REFERENCE           SO_RTS_ON
+LANG_SPANISH        "SÍ"
+
+REFERENCE           SO_RTS_ONE_MINUTE_WARNING
+LANG_SPANISH        "Queda un minuto para completar el objetivo."
+
+REFERENCE           SO_RTS_OR
+LANG_SPANISH        "o"
+
+REFERENCE           SO_RTS_PATROLING
+LANG_SPANISH        "Patrullando sector"
+
+REFERENCE           SO_RTS_PKG_NOT_READY
+LANG_SPANISH        "UNIDAD DE ESTE TIPO NO DISPONIBLE ACTUALMENTE "
+
+REFERENCE           SO_RTS_PLACE
+LANG_SPANISH        "Mantén ^3[{+gostand}]^7 para colocar."
+
+REFERENCE           SO_RTS_PLANT_INTRUDER
+LANG_SPANISH        "Mantén ^3[{+activate}]^7 para colocar intruso de red."
+
+REFERENCE           SO_RTS_POI_ARMORY_DESC
+LANG_SPANISH        "Alijo de armas que contiene armamento avanzado."
+
+REFERENCE           SO_RTS_PREPTIME
+LANG_SPANISH        "TIEMPO DE PREPARACIÓN:  "
+
+REFERENCE           SO_RTS_QUADPKG_DESC
+LANG_SPANISH        "Vehículo volador de asalto mecanizado autónomo.  "
+
+REFERENCE           SO_RTS_QUADPKG_NAME
+LANG_SPANISH        "Cuadrirrotor teledirigido"
+
+REFERENCE           SO_RTS_QUAD_DESC
+LANG_SPANISH        "Vehículo volador de asalto mecanizado autónomo.  "
+
+REFERENCE           SO_RTS_QUAD_NAME
+LANG_SPANISH        "Cuadrirrotor teledirigido"
+
+REFERENCE           SO_RTS_RECONPKG_DESC
+LANG_SPANISH        "Vehículo mecanizado de reconocimiento teledirigido."
+
+REFERENCE           SO_RTS_RECONPKG_NAME
+LANG_SPANISH        "Infiltrador teledirigido"
+
+REFERENCE           SO_RTS_REPLAY_TUT_CAPS
+LANG_SPANISH        "REPETIR TUTORIAL"
+
+REFERENCE           SO_RTS_REQUIREMENT
+LANG_SPANISH        "REQUIERE:  "
+
+REFERENCE           SO_RTS_RETRY_CURRENT_MISSION_CAPS
+LANG_SPANISH        "REINTENTAR MISIÓN ACTUAL"
+
+REFERENCE           SO_RTS_RETRY_MISSION
+LANG_SPANISH        "¿Reintentar misión?"
+
+REFERENCE           SO_RTS_RETRY_MISSION_QUESTION
+LANG_SPANISH        "¿Quieres reintentar esta misión?"
+
+REFERENCE           SO_RTS_RETRY_MISSION_UNIT
+LANG_SPANISH        "Si quieres reintentar esta misión, te costará otra unidad. Si prefieres no hacerlo, volverás a la sala de informes."
+
+REFERENCE           SO_RTS_ROPE_VTOL
+LANG_SPANISH        "VTOL"
+
+REFERENCE           SO_RTS_RTS_MODE
+LANG_SPANISH        "Operando en el mapa de batalla (estrategia)"
+
+REFERENCE           SO_RTS_SECONDS
+LANG_SPANISH        "SEGUNDOS"
+
+REFERENCE           SO_RTS_SELECTION_CAPS
+LANG_SPANISH        "ELECCIÓN"
+
+REFERENCE           SO_RTS_SELECT_SQUADS
+LANG_SPANISH        "El panel de unidad activa muestra los tipos de pelotones disponibles.\nUsa el MANDO D para elegir y cambiar de pelotón.\n\nPulsa una dirección en el MANDO D para elegir pelotón.\nMantén una dirección en el MANDO D para cambiar a ese pelotón."
+
+REFERENCE           SO_RTS_SELECT_SQUADS_CAPS
+LANG_SPANISH        "ELEGIR PELOTONES EN FUERZA DE ASALTO"
+
+REFERENCE           SO_RTS_SELECT_SQUADS_PC
+LANG_SPANISH        "El panel de unidad activa muestra los tipos de pelotones disponibles.\nUsa un botón de selección de pelotón ^3[{+actionslots}]^7 para elegir y cambiar de pelotón.\n\nPulsa un botón de selección de pelotón ^3[{+actionslots}]^7 para elegir un pelotón.\n\nMantén un botón de selección de pelotón ^3[{+actionslots}]^7 para cambiar a ese pelotón."
+
+REFERENCE           SO_RTS_SELECT_SQUADS_PS3
+LANG_SPANISH        "El panel de unidad activa muestra los tipos de pelotones disponibles.\nUsa los botones de dirección para elegir y cambiar de pelotón.\n\nPulsa una dirección para elegir pelotón.\nMantén una dirección para cambiar a ese pelotón."
+
+REFERENCE           SO_RTS_SELECT_SQUADS_TWO_LINES_CAPS
+LANG_SPANISH        "ELEGIR PELOTONES EN\nFUERZA DE ASALTO"
+
+REFERENCE           SO_RTS_SELECT_SQUADS_WIIU
+LANG_SPANISH        "El panel de unidad activa muestra los tipos de pelotones disponibles.\nUsa la cruz de control para elegir y cambiar de pelotón.\n\nPulsa una dirección en la cruz de control para elegir pelotón.\n\nMantén una dirección en la cruz de control para cambiar a ese pelotón."
+
+REFERENCE           SO_RTS_SELECT_SQUADS_WIIU_CAROUSEL
+LANG_SPANISH        "El panel de unidad activa muestra los tipos de pelotones disponibles.\nUsa el carrusel ([{+actionslot_carousel_full}]) para elegir y cambiar de pelotón.\n\nPulsa una dirección en el carrusel para elegir un pelotón. Mantén una dirección en el carrusel para cambiar a ese pelotón."
+
+REFERENCE           SO_RTS_SF_NO_UNITS_REMAINING
+LANG_SPANISH        "NO QUEDAN EQUIPOS DE LAS FUERZAS DE ASALTO"
+
+REFERENCE           SO_RTS_SF_UNITS_REMAINING
+LANG_SPANISH        "EQUIPOS RESTANTES"
+
+REFERENCE           SO_RTS_SQUAD_COMMANDS_CAPS
+LANG_SPANISH        "ÓRDENES A PELOTONES"
+
+REFERENCE           SO_RTS_SQUAD_COMMANDS_TARGETING
+LANG_SPANISH        "Coloca el cursor sobre el objetivo y pulsa ^3[{+smoke}]^7 para enviar al pelotón elegido allí.\n\nMantén ^3[{+smoke}]^7 para enviar a todos los pelotones al objetivo."
+
+REFERENCE           SO_RTS_SQUAD_COMMANDS_TARGETING_CAPS
+LANG_SPANISH        "DESIGNAR OBJETIVOS"
+
+REFERENCE           SO_RTS_SQUAD_COMMANDS_TARGETING_ENEMIES
+LANG_SPANISH        "Coloca el cursor sobre un enemigo y pulsa ^3[{+smoke}]^7 para que el pelotón elegido lo ataque.\n\nMantén ^3[{+smoke}]^7 para que todos los pelotones ataquen al enemigo designado."
+
+REFERENCE           SO_RTS_SQUAD_COMMANDS_TARGETING_ENEMIES_CAPS
+LANG_SPANISH        "DESIGNAR ENEMIGOS"
+
+REFERENCE           SO_RTS_SQUAD_COMMANDS_WAYPOINTS
+LANG_SPANISH        "Pulsa la dirección correspondiente en los botones de dirección para elegir el tipo de pelotón."
+
+REFERENCE           SO_RTS_SQUAD_COMMANDS_WAYPOINTS2
+LANG_SPANISH        "Coloca el cursor en el lugar en el que quieras colocar un punto de destino.\n\nLuego, pulsa ^3[{+smoke}]^7 para crear un punto de destino. El pelotón elegido se dirigirá automáticamente allí.\n\nMantén ^3[{+smoke}]^7 para enviar todos los pelotones al punto de destino creado."
+
+REFERENCE           SO_RTS_SQUAD_COMMANDS_WAYPOINTS_CAPS
+LANG_SPANISH        "FIJAR PUNTOS DE DESTINO PARA PELOTONES"
+
+REFERENCE           SO_RTS_SQUAD_COMMANDS_WAYPOINTS_PC
+LANG_SPANISH        "Pulsa un botón de selección de pelotón ^3[{+actionslots}]^7 para elegir el tipo de pelotón."
+
+REFERENCE           SO_RTS_SQUAD_COMMANDS_WAYPOINTS_WIIU
+LANG_SPANISH        "Pulsa la dirección correspondiente en la cruz de control para elegir el tipo de pelotón."
+
+REFERENCE           SO_RTS_SQUAD_COMMANDS_WAYPOINTS_WIIU_CAROUSEL
+LANG_SPANISH        "Pulsa la dirección correspondiente en el carrusel ([{+actionslot_carousel_full}]) para elegir el tipo de pelotón."
+
+REFERENCE           SO_RTS_SQUAD_FOLLOW
+LANG_SPANISH        "PULSAR ^3[{+smoke}]^7 MANDAR PELOTÓN"
+
+REFERENCE           SO_RTS_SQUAD_ICON
+LANG_SPANISH        "Muestra los tipos de pelotones disponibles y de cuántos miembros dispone cada uno."
+
+REFERENCE           SO_RTS_SQUAD_ICON_CAPS
+LANG_SPANISH        "ICONO DE PELOTÓN"
+
+REFERENCE           SO_RTS_SQUAD_ICON_INFO
+LANG_SPANISH        "El icono de pelotón te muestra los tipos de pelotones disponibles y con cuántos miembros cuenta cada uno.\nAl elegirlos, los iconos de pelotón brillarán de color naranja."
+
+REFERENCE           SO_RTS_SQUAD_SELECTION_CAPS
+LANG_SPANISH        "SELECCIÓN DE PELOTONES"
+
+REFERENCE           SO_RTS_STANDARD
+LANG_SPANISH        "Campo desplegado"
+
+REFERENCE           SO_RTS_STATUS
+LANG_SPANISH        "Estado:"
+
+REFERENCE           SO_RTS_STRATEGIC_VIEWS_CAP
+LANG_SPANISH        "UNA VISTA ESTRATÉGICA"
+
+REFERENCE           SO_RTS_SWITCH_UNITS
+LANG_SPANISH        "MANTÉN ^3[{+actionslots}]^7 PARA CAMBIAR DE UNIDAD"
+
+REFERENCE           SO_RTS_SWITCH_UNITS_WIIU_CAROUSEL
+LANG_SPANISH        "MANTÉN [{+actionslot_carousel_full}] CAMBIAR DE UNIDAD."
+
+REFERENCE           SO_RTS_TACTICAL_INSTRUCTION_ENEMY
+LANG_SPANISH        "Pulsa ^3[{+smoke}]^7 para ordenar un ataque contra esta unidad."
+
+REFERENCE           SO_RTS_TACTICAL_INSTRUCTION_FRIENDLY
+LANG_SPANISH        "Pulsa ^3[{togglescores}]^7 para tomar el mando de esta unidad."
+
+REFERENCE           SO_RTS_TACTICAL_INSTRUCTION_POI
+LANG_SPANISH        "Pulsa ^3[{+smoke}]^7 para ordenar a las unidades que aseguren este punto."
+
+REFERENCE           SO_RTS_TACTICAL_VIEW_CAPS
+LANG_SPANISH        "VISTA TÁCTICA"
+
+REFERENCE           SO_RTS_TACTICAL_VIEW_INFO
+LANG_SPANISH        "La vista táctica proporciona una imagen estratégica del campo de batalla, en el que podrás ver tus pelotones, las tropas enemigas y los objetivos.\n\nDirigir pelotones mediante la vista táctica es igual que hacerlo desde tierra.\n\nPulsa ^BBUTTON_MP_CANCELCOMMAND^ para acceder a la vista táctica.\n\nPara salir de ella y volver al pelotón, mantén pulsado uno de los botones de dirección o coloca el cursor sobre un miembro del pelotón y pulsa ^BBUTTON_MP_CANCELCOMMAND^."
+
+REFERENCE           SO_RTS_TACTICAL_VIEW_INFO_PC
+LANG_SPANISH        "La vista táctica proporciona una imagen estratégica del campo de batalla, en el que podrás ver tus pelotones, las tropas enemigas y los objetivos.\n\nDirigir pelotones mediante la vista táctica es igual que hacerlo desde tierra.\n\nPulsa ^3[{togglescores}]^7 para acceder a la vista táctica.\n\nPara salir de ella y volver al pelotón, mantén un botón de selección de pelotón ^3[{+actionslots}]^7 o coloca el cursor sobre un miembro del pelotón y pulsa ^3[{togglescores}]^7."
+
+REFERENCE           SO_RTS_TACTICAL_VIEW_INFO_WIIU
+LANG_SPANISH        "La vista táctica proporciona una imagen estratégica del campo de batalla, en el que podrás ver tus pelotones, las tropas enemigas y los objetivos.\n\nDirigir pelotones mediante la vista táctica es igual que hacerlo desde tierra.\n\nPulsa [{togglescores}] para acceder a la vista táctica.\n\nPara salir de ella y volver al pelotón, mantén una dirección en la cruz de control o coloca el cursor sobre un miembro del pelotón y pulsa [{togglescores}]."
+
+REFERENCE           SO_RTS_TACTICAL_VIEW_INFO_WIIU_CAROUSEL
+LANG_SPANISH        "La vista táctica proporciona una imagen estratégica del campo de batalla, en el que podrás ver tus pelotones, las tropas enemigas y los objetivos.\n\nDirigir pelotones mediante la vista táctica es igual que hacerlo desde tierra.\n\nPulsa [{togglescores}] para acceder a la vista táctica.\n\nPara salir de ella y volver al pelotón, mantén una dirección en el carrusel ([{+actionslot_carousel_full}]) o coloca el cursor sobre un miembro del pelotón y pulsa [{togglescores}]."
+
+REFERENCE           SO_RTS_TACT_MAP
+LANG_SPANISH        "PULSAR ^3[{togglescores}]^7 VISTA TÁCTICA"
+
+REFERENCE           SO_RTS_TIME_LEFT
+LANG_SPANISH        "Tiempo restante:"
+
+REFERENCE           SO_RTS_TOO_MANY_INFANTRY
+LANG_SPANISH        "MÁXIMO DE PELOTONES DE INFANTERÍA YA DESPLEGADO"
+
+REFERENCE           SO_RTS_TOO_MANY_MECHANIZED
+LANG_SPANISH        "MÁXIMO DE UNIDADES MECANIZADAS YA DESPLEGADO"
+
+REFERENCE           SO_RTS_TRANSPORT_AVAIL
+LANG_SPANISH        "TRANSPORTE LISTO PARA VOLAR"
+
+REFERENCE           SO_RTS_TRANSPORT_INFLIGHT
+LANG_SPANISH        "Volando"
+
+REFERENCE           SO_RTS_TRANSPORT_PREP
+LANG_SPANISH        "Recibiendo carga"
+
+REFERENCE           SO_RTS_TRANSPORT_REFUELING
+LANG_SPANISH        "Repostando"
+
+REFERENCE           SO_RTS_TUTORIAL_AVAILABLE
+LANG_SPANISH        "El tutorial está disponible en cualquier momento desde la pantalla Informe de la misión."
+
+REFERENCE           SO_RTS_TUTORIAL_BIGDOG_PKG
+LANG_SPANISH        "^3[{+speed_throw}]^7 PARA ACERCAR/ALEJAR VISTA, ^3[{+attack}]^7 PARA DISPARAR ARMA\nY ^3[{+frag}]^7 PARA DISPARAR LANZAGRANADAS."
+
+REFERENCE           SO_RTS_TUTORIAL_COMPLETE
+LANG_SPANISH        "Tutorial completado"
+
+REFERENCE           SO_RTS_TUTORIAL_FPS_0
+LANG_SPANISH        "Pulsa ^3[{togglescores}]^7 para entrar en el mapa táctico."
+
+REFERENCE           SO_RTS_TUTORIAL_FPS_1
+LANG_SPANISH        "Pulsa ^3[{+actionslot 2}]^7 para seleccionar la infantería y pulsa [{+smoke}] para darle órdenes."
+
+REFERENCE           SO_RTS_TUTORIAL_FPS_2
+LANG_SPANISH        "Mantén ^3[{+smoke}]^7 para seleccionar o dejar de seleccionar todas las unidades."
+
+REFERENCE           SO_RTS_TUTORIAL_FPS_3
+LANG_SPANISH        "Mantén ^3[{+actionslot 2}]^7 para cambiar a la infantería más cercana."
+
+REFERENCE           SO_RTS_TUTORIAL_METALSTORM_PKG
+LANG_SPANISH        "^3[{+speed_throw}]^7 PARA DISPARAR COHETES Y ^3[{+attack}]^7 PARA DISPARAR ARMA."
+
+REFERENCE           SO_RTS_TUTORIAL_NEW_AIRSUPERIORITY_PKG
+LANG_SPANISH        "Nueva unidad: APOYO AÉREO\nPulsa ^3[{+actionslot 3}]^7 para seleccionar o mantén para tomar el control."
+
+REFERENCE           SO_RTS_TUTORIAL_NEW_BIGDOG_PKG
+LANG_SPANISH        "Nueva unidad: CLAW\nPulsa ^3[{+actionslot 3}]^7 para seleccionar o mantén para tomar el control."
+
+REFERENCE           SO_RTS_TUTORIAL_NEW_INFANTRY_ALLY_HEAVY_PKG
+LANG_SPANISH        "Nueva unidad: Infantería pesada\nPulsa ^3[{+actionslot 4}]^7 para seleccionar o mantén para tomar el control."
+
+REFERENCE           SO_RTS_TUTORIAL_NEW_METALSTORM_PKG
+LANG_SPANISH        "Nueva unidad: ASD\nPulsa ^3[{+actionslot 4}]^7 para seleccionar o mantén para tomar el control."
+
+REFERENCE           SO_RTS_TUTORIAL_NEW_QUADROTOR_PKG
+LANG_SPANISH        "Nueva unidad: CUADRIRROTOR\nPulsa ^3[{+actionslot 1}]^7 para seleccionar o mantén para tomar el control."
+
+REFERENCE           SO_RTS_TUTORIAL_QUADROTOR_PKG
+LANG_SPANISH        "^3[{+speed_throw}]^7 PARA ACERCAR/ALEJAR VISTA Y ^3[{+attack}]^7 PARA DISPARAR ARMA.\n^3[{+melee}]^7 PARA AUTODESTRUCCIÓN."
+
+REFERENCE           SO_RTS_TUTORIAL_RTS_0
+LANG_SPANISH        "Mantén ^3[{+smoke}]^7 para seleccionar todas las unidades y pulsa [{+attack}] para darles órdenes."
+
+REFERENCE           SO_RTS_TUTORIAL_RTS_1
+LANG_SPANISH        "Pulsa ^3[{+actionslot 2}]^7 para seleccionar la infantería y pulsa [{+attack}] para darle órdenes."
+
+REFERENCE           SO_RTS_TUTORIAL_RTS_2
+LANG_SPANISH        "Pulsa ^3[{togglescores}]^7 tras resaltar una unidad aliada para cambiar a esa unidad."
+
+REFERENCE           SO_RTS_TWO_MINUTE_WARNING
+LANG_SPANISH        "Quedan 2 minutos para completar el objetivo."
+
+REFERENCE           SO_RTS_TYPE_INFANTRY
+LANG_SPANISH        "UNIDAD DE INFANTERÍA"
+
+REFERENCE           SO_RTS_TYPE_MECHANIZED
+LANG_SPANISH        "UNIDAD MECANIZADA"
+
+REFERENCE           SO_RTS_TYPE_OTHER
+LANG_SPANISH        "\"OTRAS\" UNIDADES"
+
+REFERENCE           SO_RTS_TYPE_STATIONARY
+LANG_SPANISH        "UNIDAD ESTÁTICA"
+
+REFERENCE           SO_RTS_UNITS
+LANG_SPANISH        "NÚM. UNIDADES:  "
+
+REFERENCE           SO_RTS_UNITS_REMAINING
+LANG_SPANISH        "Equipos restantes"
+
+REFERENCE           SO_RTS_UNIT_CANT_MOVE_THERE
+LANG_SPANISH        "NO SE PUEDEN DESPLEGAR UNIDADES EN ESE LUGAR"
+
+REFERENCE           SO_RTS_UNIT_NOTAVAIL
+LANG_SPANISH        "UNIDAD NO DISPONIBLE"
+
+REFERENCE           SP_OBJECTIVES_AMMO
+LANG_SPANISH        "Munición"
+
+REFERENCE           SP_OBJECTIVES_BREACH
+LANG_SPANISH        "Incursión"
+
+REFERENCE           SP_OBJECTIVES_CLEAR
+LANG_SPANISH        "Quitar"
+
+REFERENCE           SP_OBJECTIVES_CLIMB
+LANG_SPANISH        "Escala"
+
+REFERENCE           SP_OBJECTIVES_DEFEND
+LANG_SPANISH        "Defiende"
+
+REFERENCE           SP_OBJECTIVES_DESTROY
+LANG_SPANISH        "Destruye"
+
+REFERENCE           SP_OBJECTIVES_DETONATE
+LANG_SPANISH        "Detona"
+
+REFERENCE           SP_OBJECTIVES_DISABLE
+LANG_SPANISH        "Inutiliza"
+
+REFERENCE           SP_OBJECTIVES_ENTER
+LANG_SPANISH        "Entra"
+
+REFERENCE           SP_OBJECTIVES_ESCORT
+LANG_SPANISH        "Escolta"
+
+REFERENCE           SP_OBJECTIVES_FOLLOW
+LANG_SPANISH        "Sigue"
+
+REFERENCE           SP_OBJECTIVES_HELP
+LANG_SPANISH        "Ayuda"
+
+REFERENCE           SP_OBJECTIVES_INCOMING_HELOS
+LANG_SPANISH        "Llegan (helicópteros)"
+
+REFERENCE           SP_OBJECTIVES_INCOMING_TANKS
+LANG_SPANISH        "Llegan (tanques)"
+
+REFERENCE           SP_OBJECTIVES_INTERACT
+LANG_SPANISH        "Accede"
+
+REFERENCE           SP_OBJECTIVES_JUMP
+LANG_SPANISH        "Salta"
+
+REFERENCE           SP_OBJECTIVES_KILL
+LANG_SPANISH        "Elimina"
+
+REFERENCE           SP_OBJECTIVES_MELEE
+LANG_SPANISH        "Cuerpo a cuerpo"
+
+REFERENCE           SP_OBJECTIVES_PICKUP
+LANG_SPANISH        "Recogida"
+
+REFERENCE           SP_OBJECTIVES_PROTECT
+LANG_SPANISH        "Protege"
+
+REFERENCE           SP_OBJECTIVES_RAPPEL
+LANG_SPANISH        "Desciende"
+
+REFERENCE           SP_OBJECTIVES_REGROUP
+LANG_SPANISH        "Reagrúpate"
+
+REFERENCE           SP_OBJECTIVES_SEARCH
+LANG_SPANISH        "Busca"
+
+REFERENCE           SP_OBJECTIVES_SHOOT
+LANG_SPANISH        "Dispara"
+
+REFERENCE           SP_OBJECTIVES_SUPPORT
+LANG_SPANISH        "Ayuda"
+
+REFERENCE           SP_OBJECTIVES_SWEEP
+LANG_SPANISH        "Barre"
+
+REFERENCE           SP_OBJECTIVES_TARGET
+LANG_SPANISH        "Blanco"
+
+REFERENCE           SP_OBJECTIVES_USE
+LANG_SPANISH        "Usa"
+
+REFERENCE           SP_OBJECTIVES_WEAPONS
+LANG_SPANISH        "Armas"
+
+ENDMARKER
