@@ -15,8 +15,8 @@ Compilation of **Localized Strings** from **Call of Duty** games. _Currently on 
 * **Call of Duty: Black Ops II** (2012)
   
 # Notes
-If you are editing strings that contain **Latin characters** (such as Spanish), please first save the file in the **ISO 8859-1 (Western) encoder**.
-**Black Ops II** only has **subtitles on English**, they were not translated by Keywords to Spanish since **the game does not allow them to be used**.
+* If you are editing strings that contain **Latin characters** (such as Spanish), please first save the file in the **ISO 8859-1 (Western) encoder**.
+* **Black Ops II** only has **subtitles on English**, they were not translated by Keywords to Spanish since **the game doesn't use them**.
 
 # Info
 The content of the repository was extracted thanks to [Laupetin's OpenAssetTools](https://github.com/Laupetin/OpenAssetTools) with the purpose of archiving, preserving and/or helping in the creation of community mods and translations.
