@@ -10,11 +10,13 @@ Compilation of **Localized Strings** from **Call of Duty** games. _Currently on 
 # Games
 > This repository is constantly growing, so this list is not definitive. New content is added regularly.
 * **Call of Duty: Modern Warfare 2** (2009)
-* **Call of Duty: Black Ops** (2010)
 * **Call of Duty: Modern Warfare 3** (2011)
+* **Call of Duty: Black Ops** (2010)
+* **Call of Duty: Black Ops II** (2012)
   
 # Notes
 If you are editing strings that contain **Latin characters** (such as Spanish), please first save the file in the **ISO 8859-1 (Western) encoder**.
+**Black Ops II** only has **subtitles on English**, they were not translated by Keywords to Spanish since **the game does not allow them to be used**.
 
 # Info
 The content of the repository was extracted thanks to [Laupetin's OpenAssetTools](https://github.com/Laupetin/OpenAssetTools) with the purpose of archiving, preserving and/or helping in the creation of community mods and translations.
