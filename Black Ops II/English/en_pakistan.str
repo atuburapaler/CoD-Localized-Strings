@@ -1,0 +1,754 @@
+// Dumped from fastfile "en_pakistan".
+// In their original format the strings might have been separated in multiple files.
+VERSION             "1"
+CONFIG              "C:/projects/cod/t6/bin/StringEd.cfg"
+FILENOTES           ""
+
+REFERENCE           PAKISTAN_NEWREF
+LANG_ENGLISH        "New text"
+
+REFERENCE           PAKISTAN_SHARED_ANTHEM_ALERT_FAIL
+LANG_ENGLISH        "You gave away your position."
+
+REFERENCE           PAKISTAN_SHARED_BUS_FAIL
+LANG_ENGLISH        "Get off the street to avoid the bus."
+
+REFERENCE           PAKISTAN_SHARED_BUS_PUSH_F
+LANG_ENGLISH        "Tap ^F^3[{+activate}]^7^F to push"
+
+REFERENCE           PAKISTAN_SHARED_BUS_RUNOVER
+LANG_ENGLISH        "Avoid the bus."
+
+REFERENCE           PAKISTAN_SHARED_CHOOSE_VEHICLE_TO_FINISH_LEVEL
+LANG_ENGLISH        "Press ^3[{+activate}]^7 for SOC-T\nPress ^3[{+stance}]^7 for drone"
+
+REFERENCE           PAKISTAN_SHARED_CHOOSE_VEHICLE_TO_FINISH_LEVEL_KEYBOARD
+LANG_ENGLISH        "Press ^3[{+activate}]^7 to continue in the SOC-T.\nPress ^3[{+reload}]^7 to continue in the Drone."
+
+REFERENCE           PAKISTAN_SHARED_CLAW_HINT_FLAMETHROWER
+LANG_ENGLISH        "Press ^3[{+speed_throw}]^7 to fire flamethrower"
+
+REFERENCE           PAKISTAN_SHARED_CLAW_HINT_GRENADE
+LANG_ENGLISH        "Press ^3[{+frag}]^7 to fire the grenade launcher."
+
+REFERENCE           PAKISTAN_SHARED_CLAW_HINT_MINIGUN
+LANG_ENGLISH        "Press ^3[{+attack}]^7 to fire minigun\nPress ^3[{+frag}]^7 to fire grenade launcher"
+
+REFERENCE           PAKISTAN_SHARED_CLAW_HINT_MOVEMENT
+LANG_ENGLISH        "Use ^3[{+movestick}]^7 to move and ^3[{+lookstick}]^7 to aim the turret."
+
+REFERENCE           PAKISTAN_SHARED_CLAW_HINT_SWITCH
+LANG_ENGLISH        "Press ^3[{+switchseat}]^7 to switch which CLAW you control at any time."
+
+REFERENCE           PAKISTAN_SHARED_CLAW_ONLINE
+LANG_ENGLISH        "CLAW: MAXIMUS ONLINE"
+
+REFERENCE           PAKISTAN_SHARED_CLAW_SWITCH_TO
+LANG_ENGLISH        "Press ^3[{+switchseat}]^7 to switch to the CLAW"
+
+REFERENCE           PAKISTAN_SHARED_COMMS
+LANG_ENGLISH        "COMM LINK OPEN"
+
+REFERENCE           PAKISTAN_SHARED_COURTYARD_WARNING
+LANG_ENGLISH        "You're leaving the battle area!"
+
+REFERENCE           PAKISTAN_SHARED_DIRECT_CLAW_FIRE
+LANG_ENGLISH        "Press ^3[{+actionslot 1}]^7 to direct CLAW fire"
+
+REFERENCE           PAKISTAN_SHARED_DRONE_FAIL_SIGHT
+LANG_ENGLISH        "You alerted the drone. \nStay out of its spotlight."
+
+REFERENCE           PAKISTAN_SHARED_DRONE_FAIL_SOUND
+LANG_ENGLISH        "You alerted the drone. \nLoud sounds will draw its attention."
+
+REFERENCE           PAKISTAN_SHARED_DRONE_HINT_MISSILE
+LANG_ENGLISH        "Press ^3[{+speed_throw}]^7 to fire missiles"
+
+REFERENCE           PAKISTAN_SHARED_DRONE_HINT_SWITCH
+LANG_ENGLISH        "Press ^3[{+switchseat}]^7 to drive SOC-T"
+
+REFERENCE           PAKISTAN_SHARED_DRONE_HINT_TURRET
+LANG_ENGLISH        "Press ^3[{+attack}]^7 to fire machine gun\nPress ^3[{+speed_throw}]^7 to fire rockets"
+
+REFERENCE           PAKISTAN_SHARED_DRONE_MISSILE_LOCK_HELPER
+LANG_ENGLISH        "Press ^3[{+speed_throw}]^7 to fire homing missiles at targets"
+
+REFERENCE           PAKISTAN_SHARED_FAILURE_LOST_SCOT_CONTROL
+LANG_ENGLISH        "Mission Failure: Lost directional control of the SOC-T."
+
+REFERENCE           PAKISTAN_SHARED_FAIL_ID
+LANG_ENGLISH        "You failed to locate and surveil Menendez."
+
+REFERENCE           PAKISTAN_SHARED_FAIL_ID_MENENDEZ
+LANG_ENGLISH        "You must ID Menendez."
+
+REFERENCE           PAKISTAN_SHARED_FAIL_SURVEILLANCE
+LANG_ENGLISH        "Failed to record conversation."
+
+REFERENCE           PAKISTAN_SHARED_FLAMETHROWER_ENABLED
+LANG_ENGLISH        "CLAW flamethrower enabled"
+
+REFERENCE           PAKISTAN_SHARED_FROGGER_FAIL
+LANG_ENGLISH        "You were killed by debris. \nLarge objects do damage on contact."
+
+REFERENCE           PAKISTAN_SHARED_GATE_PUSH_FAIL
+LANG_ENGLISH        "Help Harper push the gate open."
+
+REFERENCE           PAKISTAN_SHARED_GCM_OFFLINE
+LANG_ENGLISH        "GCM OFFLINE"
+
+REFERENCE           PAKISTAN_SHARED_GCM_ONLINE
+LANG_ENGLISH        "GCM ONLINE"
+
+REFERENCE           PAKISTAN_SHARED_GRAPPLE_INIT
+LANG_ENGLISH        "INITIALIZING GRAPPLE MODE"
+
+REFERENCE           PAKISTAN_SHARED_GRAPPLE_LOCATED
+LANG_ENGLISH        "ANCHOR POINT LOCATED"
+
+REFERENCE           PAKISTAN_SHARED_GRAPPLE_SCAN
+LANG_ENGLISH        "SCANNING..."
+
+REFERENCE           PAKISTAN_SHARED_GRAPPLE_SEARCH_ACTIVATED
+LANG_ENGLISH        "GRAPPLE SEARCH ACTIVE"
+
+REFERENCE           PAKISTAN_SHARED_GRAPPLE_STANDBY
+LANG_ENGLISH        "STANDING BY..."
+
+REFERENCE           PAKISTAN_SHARED_GRENADE_GRAPPLE
+LANG_ENGLISH        "Hold ^3[{+frag}]^7  to aim"
+
+REFERENCE           PAKISTAN_SHARED_HINT_PRONE
+LANG_ENGLISH        "Hold ^3[{+stance}]^7  to prone"
+
+REFERENCE           PAKISTAN_SHARED_HINT_PRONE_KEYBOARD
+LANG_ENGLISH        "Press ^3[{toggleprone}]^7  to prone"
+
+REFERENCE           PAKISTAN_SHARED_INFO1
+LANG_ENGLISH        "First mission critical info recorded"
+
+REFERENCE           PAKISTAN_SHARED_INFO2
+LANG_ENGLISH        "Second mission critical info recorded"
+
+REFERENCE           PAKISTAN_SHARED_INFO3
+LANG_ENGLISH        "Third mission critical info recorded"
+
+REFERENCE           PAKISTAN_SHARED_INFO_COMPLETE
+LANG_ENGLISH        "Record mission critical info: Complete (3 of 3)"
+
+REFERENCE           PAKISTAN_SHARED_INFO_INCOMPLETE1
+LANG_ENGLISH        "Record mission critical info: Incomplete (1 of 3)"
+
+REFERENCE           PAKISTAN_SHARED_INFO_INCOMPLETE2
+LANG_ENGLISH        "Record mission critical info: Incomplete (2 of 3)"
+
+REFERENCE           PAKISTAN_SHARED_INTROSCREEN_LINE_1
+LANG_ENGLISH        "^L\"FALLEN ANGEL\"^L"
+
+REFERENCE           PAKISTAN_SHARED_INTROSCREEN_LINE_2
+LANG_ENGLISH        "LAHORE, ^LPAKISTAN^L"
+
+REFERENCE           PAKISTAN_SHARED_INTROSCREEN_LINE_3
+LANG_ENGLISH        "DAVID MASON // CODENAME: ^L'SECTION'^L"
+
+REFERENCE           PAKISTAN_SHARED_INTROSCREEN_LINE_4
+LANG_ENGLISH        "^LJSOC^L COUNTER TERRORIST FORCE"
+
+REFERENCE           PAKISTAN_SHARED_INTROSCREEN_LINE_5
+LANG_ENGLISH        "MAY 29th, ^L2025^L"
+
+REFERENCE           PAKISTAN_SHARED_KILLED_BY_DRONE
+LANG_ENGLISH        "You were killed by a MQ drone"
+
+REFERENCE           PAKISTAN_SHARED_MELEE_HINT
+LANG_ENGLISH        "Press ^3[{+melee}]^7 to melee"
+
+REFERENCE           PAKISTAN_SHARED_MILLIBAR_ZOOM_2X
+LANG_ENGLISH        "ZOOM LEVEL: 2X"
+
+REFERENCE           PAKISTAN_SHARED_MILLIBAR_ZOOM_6X
+LANG_ENGLISH        "ZOOM LEVEL: 6X"
+
+REFERENCE           PAKISTAN_SHARED_MOUNT_SOCT_TRIGGER_HINT
+LANG_ENGLISH        "Press ^3[{+activate}]^7 to enter the SOC-T."
+
+REFERENCE           PAKISTAN_SHARED_NON_SUPER_SOCT_FAIL
+LANG_ENGLISH        "Your SOC-T does not have the stength to get through. Find another path."
+
+REFERENCE           PAKISTAN_SHARED_OBJ_AVOID_DRONES
+LANG_ENGLISH        "Avoid being spotted by MQ drones"
+
+REFERENCE           PAKISTAN_SHARED_OBJ_BLOCKADE
+LANG_ENGLISH        "Destroy the blockade"
+
+REFERENCE           PAKISTAN_SHARED_OBJ_BUS_ESCAPE
+LANG_ENGLISH        "Escape"
+
+REFERENCE           PAKISTAN_SHARED_OBJ_CLEAR_RAILYARD
+LANG_ENGLISH        "Clear the rail yard"
+
+REFERENCE           PAKISTAN_SHARED_OBJ_ESCAPE
+LANG_ENGLISH        "Escape Anthem"
+
+REFERENCE           PAKISTAN_SHARED_OBJ_EVAC
+LANG_ENGLISH        "Get to the extraction point."
+
+REFERENCE           PAKISTAN_SHARED_OBJ_GET_TO_BASE
+LANG_ENGLISH        "Gain access to Anthem"
+
+REFERENCE           PAKISTAN_SHARED_OBJ_GET_TO_EXTRACTION_POINT
+LANG_ENGLISH        "Get to the extraction point"
+
+REFERENCE           PAKISTAN_SHARED_OBJ_GRAPPLE
+LANG_ENGLISH        "Get to observation point"
+
+REFERENCE           PAKISTAN_SHARED_OBJ_ID_MENENDEZ
+LANG_ENGLISH        "Identify Menendez"
+
+REFERENCE           PAKISTAN_SHARED_OBJ_REACQUIRE
+LANG_ENGLISH        "Reacquire Menendez"
+
+REFERENCE           PAKISTAN_SHARED_OBJ_REACQUIRE_AGAIN
+LANG_ENGLISH        "Reacquire Menendez"
+
+REFERENCE           PAKISTAN_SHARED_OBJ_RECORD_MENENDEZ
+LANG_ENGLISH        "Record Menendez's conversation"
+
+REFERENCE           PAKISTAN_SHARED_OBJ_SALAZAR
+LANG_ENGLISH        "Rendezvous with Salazar"
+
+REFERENCE           PAKISTAN_SHARED_OBJ_SURVEIL_MENENDEZ
+LANG_ENGLISH        "Surveil Menendez"
+
+REFERENCE           PAKISTAN_SHARED_PERK_CLAW_SUPPORT
+LANG_ENGLISH        "Press ^3[{+activate}]^7 to remove lock"
+
+REFERENCE           PAKISTAN_SHARED_PERK_GET_FLAMETHROWER
+LANG_ENGLISH        "Hold ^3[{+activate}]^7 to hack CLAW flamethrower"
+
+REFERENCE           PAKISTAN_SHARED_PERK_INTRUDER_SOCT
+LANG_ENGLISH        "Hold ^3[{+activate}]^7 to cut open"
+
+REFERENCE           PAKISTAN_SHARED_PIPE_FAIL
+LANG_ENGLISH        "Dodge the pipes that the bosses are dropping on you."
+
+REFERENCE           PAKISTAN_SHARED_PIPE_MELEE_INTERACT_TRIGGER_HINT
+LANG_ENGLISH        "Press ^3[{+activate}]^7 to climb down."
+
+REFERENCE           PAKISTAN_SHARED_PLAYER_DRONE_DESTROYED
+LANG_ENGLISH        "Drone Destroyed"
+
+REFERENCE           PAKISTAN_SHARED_PLAYER_SWITCH
+LANG_ENGLISH        "Press ^3[{+actionslot 2}]^7 to switch back to Mason"
+
+REFERENCE           PAKISTAN_SHARED_ROOFTOP_CLAW_SWITCH
+LANG_ENGLISH        "Press ^3[{+actionslot 4}]^7 to control Maximus"
+
+REFERENCE           PAKISTAN_SHARED_SCOT_DESTROYED
+LANG_ENGLISH        "SOC-T Destroyed"
+
+REFERENCE           PAKISTAN_SHARED_SCOT_DISTANCE_WARNING
+LANG_ENGLISH        "Stay close to Salazar."
+
+REFERENCE           PAKISTAN_SHARED_SOCT_ABANDON_FAIL
+LANG_ENGLISH        "You abandoned your squad."
+
+REFERENCE           PAKISTAN_SHARED_SOCT_ABANDON_WARNING
+LANG_ENGLISH        "Return to your squad."
+
+REFERENCE           PAKISTAN_SHARED_SOCT_DISTANCE_FAIL
+LANG_ENGLISH        "You failed to stay with Salazar."
+
+REFERENCE           PAKISTAN_SHARED_SOCT_DISTANCE_WARNING_2
+LANG_ENGLISH        "Keep up with Salazar you are too far away\n"
+
+REFERENCE           PAKISTAN_SHARED_SOCT_DISTANCE_WARNING_3
+LANG_ENGLISH        "Final warning, stay close to Salazar"
+
+REFERENCE           PAKISTAN_SHARED_SOCT_HINT_BOOST
+LANG_ENGLISH        "Press ^3[{+gostand}]^7  to boost"
+
+REFERENCE           PAKISTAN_SHARED_SOCT_HINT_BRAKE
+LANG_ENGLISH        "Hold ^3[{+speed_throw}]^7  to brake / reverse"
+
+REFERENCE           PAKISTAN_SHARED_SOCT_HINT_GAS
+LANG_ENGLISH        "Press ^3[{+gas}]^7  to accelerate"
+
+REFERENCE           PAKISTAN_SHARED_SOCT_HINT_RAM
+LANG_ENGLISH        "Press ^3[{+gostand}]^7 to boost"
+
+REFERENCE           PAKISTAN_SHARED_SOCT_HINT_STEER
+LANG_ENGLISH        "Use ^3[{+strafestick}]^7 to steer"
+
+REFERENCE           PAKISTAN_SHARED_SOCT_INFO
+LANG_ENGLISH        "SOC-T INTEL ACQUIRED"
+
+REFERENCE           PAKISTAN_SHARED_SOCT_SPEED_FAIL
+LANG_ENGLISH        "Keep moving to get to the evacuation site"
+
+REFERENCE           PAKISTAN_SHARED_SOCT_SPEED_WARNING_1
+LANG_ENGLISH        "Keep moving to the evacuation site"
+
+REFERENCE           PAKISTAN_SHARED_SOCT_SPEED_WARNING_2
+LANG_ENGLISH        "Mason head to the evacuation site now"
+
+REFERENCE           PAKISTAN_SHARED_SOCT_TO_DRONE_HINT
+LANG_ENGLISH        "Press ^3[{+switchseat}]^7 anytime to switch between the SOC-T and the drone "
+
+REFERENCE           PAKISTAN_SHARED_STREET_CLAW_SWITCH
+LANG_ENGLISH        "Press ^3[{+actionslot 3}]^7 to control Brutus"
+
+REFERENCE           PAKISTAN_SHARED_SURVEILLANCE_ACTIVE
+LANG_ENGLISH        "SURVEILLANCE ACTIVE"
+
+REFERENCE           PAKISTAN_SHARED_SURVEILLANCE_DEACTIVATE
+LANG_ENGLISH        "DEACTIVATING SURVEILLANCE"
+
+REFERENCE           PAKISTAN_SHARED_SURVEILLANCE_INITIALIZE
+LANG_ENGLISH        "INITIALIZING SURVEILLANCE"
+
+REFERENCE           PAKISTAN_SHARED_SURV_ACTIVATE
+LANG_ENGLISH        "Press ^3[{+actionslot 1}]^7 to activate surveillance mode"
+
+REFERENCE           PAKISTAN_SHARED_SURV_MODE_HINT
+LANG_ENGLISH        "SURVEILLANCE MODE STANDING BY"
+
+REFERENCE           PAKISTAN_SHARED_SURV_TOGGLE
+LANG_ENGLISH        "Press ^3[{+actionslot 1}]^7 to toggle surveillance mode"
+
+REFERENCE           PAKISTAN_SHARED_SURV_ZOOM
+LANG_ENGLISH        "Hold ^3[{+speed_throw}]^7 to zoom"
+
+REFERENCE           PAKISTAN_VOX_VOX_PAK_1_01_001A_HARP_D
+LANG_ENGLISH        "^1Harper: ^7ISI got us pinned down!"
+
+REFERENCE           PAKISTAN_VOX_VOX_PAK_1_01_002A_HARP_D
+LANG_ENGLISH        "^1Harper: ^7C'mon!  We need this thing up and running, today!"
+
+REFERENCE           PAKISTAN_VOX_VOX_PAK_1_01_003A_SECT_D
+LANG_ENGLISH        "^1Section: ^7I'm trying!"
+
+REFERENCE           PAKISTAN_VOX_VOX_PAK_1_01_004A_HARP_D
+LANG_ENGLISH        "^1Harper: ^7Your GCM must be stuck!"
+
+REFERENCE           PAKISTAN_VOX_VOX_PAK_1_01_005A_HARP_D
+LANG_ENGLISH        "^1Harper: ^7There... Unstuck!"
+
+REFERENCE           PAKISTAN_VOX_VOX_PAK_1_01_006A_SECT_D
+LANG_ENGLISH        "^1Section: ^7CLAW units are active!  Weapon systems online!"
+
+REFERENCE           PAKISTAN_VOX_VOX_PAK_1_01_007A_HARP_M
+LANG_ENGLISH        "^1Harper: ^7Start marking targets.  Let's see what this bastard can do."
+
+REFERENCE           PAKISTAN_VOX_VOX_PAK_1_01_007A_HARP_S
+LANG_ENGLISH        "^1Harper: ^7Start marking targets.  Let's see what this can do."
+
+REFERENCE           PAKISTAN_VOX_VOX_PAK_1_01_008A_SALA_D
+LANG_ENGLISH        "^1Salazar: ^7More ISI!"
+
+REFERENCE           PAKISTAN_VOX_VOX_PAK_1_01_009A_HARP_D
+LANG_ENGLISH        "^1Harper: ^7Let the CLAWs take point!  Stay behind the heavy guns!"
+
+REFERENCE           PAKISTAN_VOX_VOX_PAK_1_01_014A_HARP_D
+LANG_ENGLISH        "^1Harper: ^7Get back, Section!"
+
+REFERENCE           PAKISTAN_VOX_VOX_PAK_1_01_020A_SALA_D
+LANG_ENGLISH        "^1Salazar: ^7Drone support!"
+
+REFERENCE           PAKISTAN_VOX_VOX_PAK_1_01_021A_HARP_D
+LANG_ENGLISH        "^1Harper: ^7Take down that drone!"
+
+REFERENCE           PAKISTAN_VOX_VOX_PAK_1_01_022A_HARP_D
+LANG_ENGLISH        "^1Harper: ^7Anthem's two klicks southeast of our position."
+
+REFERENCE           PAKISTAN_VOX_VOX_PAK_1_01_023A_SECT_D
+LANG_ENGLISH        "^1Section: ^7The CLAWs are bugging out in the deep water.  Salazar, Crosby, get them to higher ground.  We'll regroup at Anthem."
+
+REFERENCE           PAKISTAN_VOX_VOX_PAK_1_01_024A_HARP_D
+LANG_ENGLISH        "^1Harper: ^7They must have made us on the way in!"
+
+REFERENCE           PAKISTAN_VOX_VOX_PAK_2_01_004A_SALA_D
+LANG_ENGLISH        "^1Salazar: ^7Section!  To the roof!"
+
+REFERENCE           PAKISTAN_VOX_VOX_PAK_2_01_012A_HARP_D
+LANG_ENGLISH        "^1Harper: ^7Call 'em in, Section!"
+
+REFERENCE           PAKISTAN_VOX_VOX_PAK_2_01_014A_HARP_D
+LANG_ENGLISH        "^1Harper: ^7Mark the target for the CLAWs!"
+
+REFERENCE           PAKISTAN_VOX_VOX_PAK_2_01_016A_HARP_D
+LANG_ENGLISH        "^1Harper: ^7Shop front. Right side!"
+
+REFERENCE           PAKISTAN_VOX_VOX_PAK_2_01_017A_HARP_D
+LANG_ENGLISH        "^1Harper: ^7Hit 'em, Section."
+
+REFERENCE           PAKISTAN_VOX_VOX_PAK_2_01_018A_HARP_D
+LANG_ENGLISH        "^1Harper: ^7Alright!"
+
+REFERENCE           PAKISTAN_VOX_VOX_PAK_2_01_019A_HARP_D
+LANG_ENGLISH        "^1Harper: ^7Use anything for cover!  Watch yourself, Section!"
+
+REFERENCE           PAKISTAN_VOX_VOX_PAK_2_01_020A_SALA_D
+LANG_ENGLISH        "^1Salazar: ^7Section, you're moving out of the CLAW's line of sight.  You're on your own."
+
+REFERENCE           PAKISTAN_VOX_VOX_PAK_2_01_024A_HARP_M
+LANG_ENGLISH        "^1Harper: ^7What the hell is that noise?!"
+
+REFERENCE           PAKISTAN_VOX_VOX_PAK_2_01_024A_HARP_S
+LANG_ENGLISH        "^1Harper: ^7What is that noise?!"
+
+REFERENCE           PAKISTAN_VOX_VOX_PAK_2_01_025A_HARP_D
+LANG_ENGLISH        "^1Harper: ^7Section!"
+
+REFERENCE           PAKISTAN_VOX_VOX_PAK_2_01_026A_HARP_D
+LANG_ENGLISH        "^1Harper: ^7Come on!  Get over here, man!  We gotta get off the street!"
+
+REFERENCE           PAKISTAN_VOX_VOX_PAK_2_01_028A_HARP_D
+LANG_ENGLISH        "^1Harper: ^7Push hard!  PUSH!  1... 2... 3... PUSH!"
+
+REFERENCE           PAKISTAN_VOX_VOX_PAK_2_01_029A_HARP_M
+LANG_ENGLISH        "^1Harper: ^7Oh shit.  That was a close one, huh?  Still got my balls... How about you?  Let's go."
+
+REFERENCE           PAKISTAN_VOX_VOX_PAK_2_01_029A_HARP_S
+LANG_ENGLISH        "^1Harper: ^7Oh.  That was a close one, huh?  Still got my... How about you?  Let's go."
+
+REFERENCE           PAKISTAN_VOX_VOX_PAK_2_01_029A_SECT_D
+LANG_ENGLISH        "^1Section: ^7Take Brutus and Maximus up top to provide cover fire while we push through the street."
+
+REFERENCE           PAKISTAN_VOX_VOX_PAK_2_01_030A_HARP_M
+LANG_ENGLISH        "^1Harper: ^7ISI troops are taking position across the whole damn street!"
+
+REFERENCE           PAKISTAN_VOX_VOX_PAK_2_01_030A_HARP_S
+LANG_ENGLISH        "^1Harper: ^7ISI troops are taking position across the whole street!"
+
+REFERENCE           PAKISTAN_VOX_VOX_PAK_2_01_031A_SALA_D
+LANG_ENGLISH        "^1Salazar: ^7Section, Brutus and Maximus in position."
+
+REFERENCE           PAKISTAN_VOX_VOX_PAK_2_01_032A_HARP_D
+LANG_ENGLISH        "^1Harper: ^7Find, cover!"
+
+REFERENCE           PAKISTAN_VOX_VOX_PAK_2_01_033A_SECT_D
+LANG_ENGLISH        "^1Section: ^7Roger that, Salazar.  We'll regroup at Anthem."
+
+REFERENCE           PAKISTAN_VOX_VOX_PAK_2_01_034A_HARP_D
+LANG_ENGLISH        "^1Harper: ^7More ISI!  Headed right for us!"
+
+REFERENCE           PAKISTAN_VOX_VOX_PAK_2_01_035A_HARP_D
+LANG_ENGLISH        "^1Harper: ^7Come on, Section.  Let's go!"
+
+REFERENCE           PAKISTAN_VOX_VOX_PAK_2_01_036A_HARP_D
+LANG_ENGLISH        "^1Harper: ^7Let's move, Section."
+
+REFERENCE           PAKISTAN_VOX_VOX_PAK_2_01_037A_HARP_D
+LANG_ENGLISH        "^1Harper: ^7Hurry up, Section.  Over here."
+
+REFERENCE           PAKISTAN_VOX_VOX_PAK_2_02_001A_HARP_D
+LANG_ENGLISH        "^1Harper: ^7Anthem's just up the way.  Come on."
+
+REFERENCE           PAKISTAN_VOX_VOX_PAK_2_02_002A_HARP_M
+LANG_ENGLISH        "^1Harper: ^7What a fucking mess..."
+
+REFERENCE           PAKISTAN_VOX_VOX_PAK_2_02_002A_HARP_S
+LANG_ENGLISH        "^1Harper: ^7What a mess..."
+
+REFERENCE           PAKISTAN_VOX_VOX_PAK_2_02_003A_HARP_D
+LANG_ENGLISH        "^1Harper: ^7Obviously, these folks weren't prepared for the flooding."
+
+REFERENCE           PAKISTAN_VOX_VOX_PAK_2_02_005A_HARP_D
+LANG_ENGLISH        "^1Harper: ^7Looks like they've just been left to fend for themselves.  Not good... Not good."
+
+REFERENCE           PAKISTAN_VOX_VOX_PAK_2_02_006A_HARP_M
+LANG_ENGLISH        "^1Harper: ^7Aww Shit..."
+
+REFERENCE           PAKISTAN_VOX_VOX_PAK_2_02_006A_HARP_S
+LANG_ENGLISH        "^1Harper: ^7Aww..."
+
+REFERENCE           PAKISTAN_VOX_VOX_PAK_2_03_001A_HARP_D
+LANG_ENGLISH        "^1Harper: ^7Drones!!  Get down!"
+
+REFERENCE           PAKISTAN_VOX_VOX_PAK_2_03_002A_HARP_D
+LANG_ENGLISH        "^1Harper: ^7Don't move. We got a drone scouting the area."
+
+REFERENCE           PAKISTAN_VOX_VOX_PAK_2_03_003A_HARP_D
+LANG_ENGLISH        "^1Harper: ^7It'll rip us to shreds if it spots us."
+
+REFERENCE           PAKISTAN_VOX_VOX_PAK_2_03_004A_HARP_D
+LANG_ENGLISH        "^1Harper: ^7Okay. GO!"
+
+REFERENCE           PAKISTAN_VOX_VOX_PAK_2_03_005A_HARP_D
+LANG_ENGLISH        "^1Harper: ^7It's comin' back around!  This way, into the building."
+
+REFERENCE           PAKISTAN_VOX_VOX_PAK_2_03_006A_HARP_D
+LANG_ENGLISH        "^1Harper: ^7Oh, I'm watchin' you."
+
+REFERENCE           PAKISTAN_VOX_VOX_PAK_2_03_007A_HARP_M
+LANG_ENGLISH        "^1Harper: ^7That's right, you dumb bastard.  Keep looking the wrong fuckin' way."
+
+REFERENCE           PAKISTAN_VOX_VOX_PAK_2_03_007A_HARP_S
+LANG_ENGLISH        "^1Harper: ^7That's right... Keep looking the wrong way."
+
+REFERENCE           PAKISTAN_VOX_VOX_PAK_2_03_008A_HARP_D
+LANG_ENGLISH        "^1Harper: ^7Entry point's beyond the building at the end of the street.  You ready?"
+
+REFERENCE           PAKISTAN_VOX_VOX_PAK_2_03_009A_SECT_D
+LANG_ENGLISH        "^1Section: ^7Ready when you are."
+
+REFERENCE           PAKISTAN_VOX_VOX_PAK_2_03_010A_HARP_D
+LANG_ENGLISH        "^1Harper: ^7Stay left, brother!"
+
+REFERENCE           PAKISTAN_VOX_VOX_PAK_2_03_011A_HARP_D
+LANG_ENGLISH        "^1Harper: ^7It's turning around!"
+
+REFERENCE           PAKISTAN_VOX_VOX_PAK_2_03_012A_HARP_M
+LANG_ENGLISH        "^1Harper: ^7Fuck!  We gotta go!"
+
+REFERENCE           PAKISTAN_VOX_VOX_PAK_2_03_012A_HARP_S
+LANG_ENGLISH        "^1Harper: ^7We gotta go!"
+
+REFERENCE           PAKISTAN_VOX_VOX_PAK_2_03_013A_HARP_D
+LANG_ENGLISH        "^1Harper: ^7Move, Section!"
+
+REFERENCE           PAKISTAN_VOX_VOX_PAK_2_03_014A_HARP_M
+LANG_ENGLISH        "^1Harper: ^7DAMMIT!  It's seen you!"
+
+REFERENCE           PAKISTAN_VOX_VOX_PAK_2_03_014A_HARP_S
+LANG_ENGLISH        "^1Harper: ^7It's seen you!"
+
+REFERENCE           PAKISTAN_VOX_VOX_PAK_2_03_016A_HARP_D
+LANG_ENGLISH        "^1Harper: ^7Those drones are acting as death squads... Executing looters."
+
+REFERENCE           PAKISTAN_VOX_VOX_PAK_2_03_017A_HARP_D
+LANG_ENGLISH        "^1Harper: ^7Careful, man.  Stick to the shadows."
+
+REFERENCE           PAKISTAN_VOX_VOX_PAK_2_03_018A_HARP_D
+LANG_ENGLISH        "^1Harper: ^7Spotlight's getting a little close, Section."
+
+REFERENCE           PAKISTAN_VOX_VOX_PAK_2_03_019A_HARP_D
+LANG_ENGLISH        "^1Harper: ^7Let's go!  Move before it sees you!"
+
+REFERENCE           PAKISTAN_VOX_VOX_PAK_2_03_020A_HARP_D
+LANG_ENGLISH        "^1Harper: ^7What are you doing, man?!"
+
+REFERENCE           PAKISTAN_VOX_VOX_PAK_2_03_021A_HARP_D
+LANG_ENGLISH        "^1Harper: ^7Stay low.  Let it pass."
+
+REFERENCE           PAKISTAN_VOX_VOX_PAK_2_03_022A_HARP_D
+LANG_ENGLISH        "^1Harper: ^7We got another drone up ahead."
+
+REFERENCE           PAKISTAN_VOX_VOX_PAK_2_04_002A_HARP_D
+LANG_ENGLISH        "^1Harper: ^7Drone's coming back!"
+
+REFERENCE           PAKISTAN_VOX_VOX_PAK_2_04_003A_HARP_D
+LANG_ENGLISH        "^1Harper: ^7Stay low.  Let it pass."
+
+REFERENCE           PAKISTAN_VOX_VOX_PAK_2_04_004A_HARP_D
+LANG_ENGLISH        "^1Harper: ^7Okay... Go!"
+
+REFERENCE           PAKISTAN_VOX_VOX_PAK_2_04_013A_HARP_D
+LANG_ENGLISH        "^1Harper: ^7We're clear.  Move up."
+
+REFERENCE           PAKISTAN_VOX_VOX_PAK_2_04_014A_HARP_D
+LANG_ENGLISH        "^1Harper: ^7These sewers run right under Anthem."
+
+REFERENCE           PAKISTAN_VOX_VOX_PAK_2_04_015A_HARP_D
+LANG_ENGLISH        "^1Harper: ^7Talk about dirty jobs."
+
+REFERENCE           PAKISTAN_VOX_VOX_PAK_2_04_016A_HARP_D
+LANG_ENGLISH        "^1Harper: ^7Hold up.  We got ISI posted at the sewer entrance."
+
+REFERENCE           PAKISTAN_VOX_VOX_PAK_2_04_017A_HARP_D
+LANG_ENGLISH        "^1Harper: ^7Take the guy on the right... other one's mine."
+
+REFERENCE           PAKISTAN_VOX_VOX_PAK_2_04_018A_HARP_D
+LANG_ENGLISH        "^1Harper: ^7Waitin' on you, buddy... I got a quicker trigger finger."
+
+REFERENCE           PAKISTAN_VOX_VOX_PAK_2_04_019A_HARP_D
+LANG_ENGLISH        "^1Harper: ^7Yeah... Thanks for nothing."
+
+REFERENCE           PAKISTAN_VOX_VOX_PAK_2_04_020A_SALA_D
+LANG_ENGLISH        "^1Salazar: ^7Section, in position.  Train yard.  Lot of activity."
+
+REFERENCE           PAKISTAN_VOX_VOX_PAK_2_04_021A_SECT_D
+LANG_ENGLISH        "^1Section: ^7Monitor the area.  Keep me updated."
+
+REFERENCE           PAKISTAN_VOX_VOX_PAK_2_04_022A_HARP_D
+LANG_ENGLISH        "^1Harper: ^7You hear that?"
+
+REFERENCE           PAKISTAN_VOX_VOX_PAK_2_04_034A_HARP_D
+LANG_ENGLISH        "^1Harper: ^7They're talking about new SOC-Ts... over by the train yard."
+
+REFERENCE           PAKISTAN_VOX_VOX_PAK_2_04_036A_HARP_D
+LANG_ENGLISH        "^1Harper: ^7We'd better keep moving."
+
+REFERENCE           PAKISTAN_VOX_VOX_PAK_2_05_015A_SECT_D
+LANG_ENGLISH        "^1Section: ^7Admiral, we're in position."
+
+REFERENCE           PAKISTAN_VOX_VOX_PAK_2_05_016A_BRIG_D
+LANG_ENGLISH        "^1Adm. Briggs: ^7Well done Commander.  Patching you through Anthem's interior schematics."
+
+REFERENCE           PAKISTAN_VOX_VOX_PAK_2_05_017A_BRIG_D
+LANG_ENGLISH        "^1Adm. Briggs: ^7Your best vantage point will be here, overlooking the main courtyard."
+
+REFERENCE           PAKISTAN_VOX_VOX_PAK_2_05_018A_BRIG_D
+LANG_ENGLISH        "^1Adm. Briggs: ^7CLAWs will flank your infiltration route at all times.  These boys are all you got.  If they get taken out, you're on your own."
+
+REFERENCE           PAKISTAN_VOX_VOX_PAK_2_05_019A_BRIG_M
+LANG_ENGLISH        "^1Adm. Briggs: ^7Remember don't take your eyes off that patrolling drone, son.  If that cocksucker gets a bead on you, you can run but you'll only die tired."
+
+REFERENCE           PAKISTAN_VOX_VOX_PAK_2_05_019A_BRIG_S
+LANG_ENGLISH        "^1Adm. Briggs: ^7Remember don't take your eyes off that patrolling drone, son.  It gets a bead on you, you can run but you'll only die tired."
+
+REFERENCE           PAKISTAN_VOX_VOX_PAK_2_05_020A_SECT_D
+LANG_ENGLISH        "^1Section: ^7If I choose to run, Admiral, it'll be right at him."
+
+REFERENCE           PAKISTAN_VOX_VOX_PAK_2_05_021A_BRIG_D
+LANG_ENGLISH        "^1Adm. Briggs: ^7Good luck, Commander."
+
+REFERENCE           PAKISTAN_VOX_VOX_PAK_2_05_022A_SECT_D
+LANG_ENGLISH        "^1Section: ^7Salazar.  The ISI have taken delivery of some new SOC-Ts near your position."
+
+REFERENCE           PAKISTAN_VOX_VOX_PAK_2_05_024A_SALA_D
+LANG_ENGLISH        "^1Salazar: ^7Understood."
+
+REFERENCE           PAKISTAN_VOX_VOX_PAK_2_05_027A_SALA_D
+LANG_ENGLISH        "^1Salazar: ^7Menendez is here.  Main courtyard, with ISI Leader."
+
+REFERENCE           PAKISTAN_VOX_VOX_PAK_2_05_028A_SECT_D
+LANG_ENGLISH        "^1Section: ^7I'll contact Briggs."
+
+REFERENCE           PAKISTAN_VOX_VOX_PAK_2_07_005A_HARP_D
+LANG_ENGLISH        "^1Harper: ^7It's comin' back around!  This way, into the building."
+
+REFERENCE           PAKISTAN_VOX_VOX_PAK_2_07_006A_HARP_D
+LANG_ENGLISH        "^1Harper: ^7Oh, I'm watchin' you."
+
+REFERENCE           PAKISTAN_VOX_VOX_PAK_2_07_007A_HARP_M
+LANG_ENGLISH        "^1Harper: ^7That's right, you dumb bastard.  Keep looking the wrong fuckin' way."
+
+REFERENCE           PAKISTAN_VOX_VOX_PAK_2_07_007A_HARP_S
+LANG_ENGLISH        "^1Harper: ^7That's right... Keep looking the wrong way."
+
+REFERENCE           PAKISTAN_VOX_VOX_PAK_2_07_008A_HARP_D
+LANG_ENGLISH        "^1Harper: ^7Entry point's beyond the building at the end of the street.  You ready?"
+
+REFERENCE           PAKISTAN_VOX_VOX_PAK_2_07_011A_HARP_D
+LANG_ENGLISH        "^1Harper: ^7It's turning around!"
+
+REFERENCE           PAKISTAN_VOX_VOX_PAK_2_07_012A_HARP_M
+LANG_ENGLISH        "^1Harper: ^7Fuck!  We gotta go!"
+
+REFERENCE           PAKISTAN_VOX_VOX_PAK_2_07_012A_HARP_S
+LANG_ENGLISH        "^1Harper: ^7We gotta go!"
+
+REFERENCE           PAKISTAN_VOX_VOX_PAK_2_07_014A_HARP_M
+LANG_ENGLISH        "^1Harper: ^7DAMMIT!  It's seen you!"
+
+REFERENCE           PAKISTAN_VOX_VOX_PAK_2_07_014A_HARP_S
+LANG_ENGLISH        "^1Harper: ^7It's seen you!"
+
+REFERENCE           PAKISTAN_VOX_VOX_PAK_2_07_017A_HARP_D
+LANG_ENGLISH        "^1Harper: ^7Careful, man.  Stick to the shadows."
+
+REFERENCE           PAKISTAN_VOX_VOX_PAK_2_07_018A_HARP_D
+LANG_ENGLISH        "^1Harper: ^7Spotlight's getting a little close, Section."
+
+REFERENCE           PAKISTAN_VOX_VOX_PAK_2_07_019A_HARP_D
+LANG_ENGLISH        "^1Harper: ^7Let's go!  Move before it sees you!"
+
+REFERENCE           PAKISTAN_VOX_VOX_PAK_2_07_020A_HARP_D
+LANG_ENGLISH        "^1Harper: ^7What are you doing, man?!"
+
+REFERENCE           PAKISTAN_VOX_VOX_PAK_2_07_021A_HARP_D
+LANG_ENGLISH        "^1Harper: ^7Stay low.  Let it pass."
+
+REFERENCE           PAKISTAN_VOX_VOX_PAK_2_07_022A_HARP_D
+LANG_ENGLISH        "^1Harper: ^7We got another drone up ahead."
+
+REFERENCE           SP_OBJECTIVES_AMMO
+LANG_ENGLISH        "Ammo"
+
+REFERENCE           SP_OBJECTIVES_BREACH
+LANG_ENGLISH        "Breach"
+
+REFERENCE           SP_OBJECTIVES_CLEAR
+LANG_ENGLISH        "Clear"
+
+REFERENCE           SP_OBJECTIVES_CLIMB
+LANG_ENGLISH        "Climb"
+
+REFERENCE           SP_OBJECTIVES_DEFEND
+LANG_ENGLISH        "Defend"
+
+REFERENCE           SP_OBJECTIVES_DESTROY
+LANG_ENGLISH        "Destroy"
+
+REFERENCE           SP_OBJECTIVES_DETONATE
+LANG_ENGLISH        "Detonate"
+
+REFERENCE           SP_OBJECTIVES_DISABLE
+LANG_ENGLISH        "Disable"
+
+REFERENCE           SP_OBJECTIVES_ENTER
+LANG_ENGLISH        "Enter"
+
+REFERENCE           SP_OBJECTIVES_ESCORT
+LANG_ENGLISH        "Escort"
+
+REFERENCE           SP_OBJECTIVES_FOLLOW
+LANG_ENGLISH        "Follow"
+
+REFERENCE           SP_OBJECTIVES_HELP
+LANG_ENGLISH        "Help"
+
+REFERENCE           SP_OBJECTIVES_INCOMING_HELOS
+LANG_ENGLISH        "Incoming (helos)"
+
+REFERENCE           SP_OBJECTIVES_INCOMING_TANKS
+LANG_ENGLISH        "Incoming (tanks)"
+
+REFERENCE           SP_OBJECTIVES_INTERACT
+LANG_ENGLISH        "Access"
+
+REFERENCE           SP_OBJECTIVES_JUMP
+LANG_ENGLISH        "Jump"
+
+REFERENCE           SP_OBJECTIVES_KILL
+LANG_ENGLISH        "Kill"
+
+REFERENCE           SP_OBJECTIVES_MELEE
+LANG_ENGLISH        "Melee"
+
+REFERENCE           SP_OBJECTIVES_PICKUP
+LANG_ENGLISH        "Pick Up"
+
+REFERENCE           SP_OBJECTIVES_PROTECT
+LANG_ENGLISH        "Protect"
+
+REFERENCE           SP_OBJECTIVES_RAPPEL
+LANG_ENGLISH        "Rappel"
+
+REFERENCE           SP_OBJECTIVES_REGROUP
+LANG_ENGLISH        "Regroup"
+
+REFERENCE           SP_OBJECTIVES_SEARCH
+LANG_ENGLISH        "Search"
+
+REFERENCE           SP_OBJECTIVES_SHOOT
+LANG_ENGLISH        "Shoot"
+
+REFERENCE           SP_OBJECTIVES_SUPPORT
+LANG_ENGLISH        "Support"
+
+REFERENCE           SP_OBJECTIVES_SWEEP
+LANG_ENGLISH        "Sweep"
+
+REFERENCE           SP_OBJECTIVES_TARGET
+LANG_ENGLISH        "Target"
+
+REFERENCE           SP_OBJECTIVES_USE
+LANG_ENGLISH        "Use"
+
+REFERENCE           SP_OBJECTIVES_WEAPONS
+LANG_ENGLISH        "Weapons"
+
+ENDMARKER

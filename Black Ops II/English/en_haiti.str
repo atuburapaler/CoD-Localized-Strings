@@ -1,0 +1,553 @@
+// Dumped from fastfile "en_haiti".
+// In their original format the strings might have been separated in multiple files.
+VERSION             "1"
+CONFIG              "C:/projects/cod/t6/bin/StringEd.cfg"
+FILENOTES           ""
+
+REFERENCE           HAITI_CAPTURE_MENENDEZ
+LANG_ENGLISH        "Press ^3[{+gostand}]^7 to capture Menendez"
+
+REFERENCE           HAITI_HARPER_KILL
+LANG_ENGLISH        "You killed Harper"
+
+REFERENCE           HAITI_INTROSCREEN_LINE_1
+LANG_ENGLISH        "^L\"JUDGMENT DAY\"^L"
+
+REFERENCE           HAITI_INTROSCREEN_LINE_2
+LANG_ENGLISH        "WEST COAST OF ^LHAITI^L"
+
+REFERENCE           HAITI_INTROSCREEN_LINE_3
+LANG_ENGLISH        "D. MASON // CODENAME: ^L'SECTION'^L"
+
+REFERENCE           HAITI_INTROSCREEN_LINE_4
+LANG_ENGLISH        "^LJSOC^L COUNTER TERRORIST FORCE"
+
+REFERENCE           HAITI_INTROSCREEN_LINE_5
+LANG_ENGLISH        "JUNE 19th, ^L2025^L"
+
+REFERENCE           HAITI_JETWING_LOOK
+LANG_ENGLISH        "Use ^3[{+lookstick}]^7 to look."
+
+REFERENCE           HAITI_JETWING_MOVE
+LANG_ENGLISH        "Use ^3[{+movestick}]^7 to steer."
+
+REFERENCE           HAITI_OBJ_ASSAULT_BUILDING
+LANG_ENGLISH        "Gain entry to the military facility"
+
+REFERENCE           HAITI_OBJ_AVOID_COLLISIONS
+LANG_ENGLISH        "Avoid the aircraft debris and enemy missiles"
+
+REFERENCE           HAITI_OBJ_FIND_MENENDEZ
+LANG_ENGLISH        "Find Menendez"
+
+REFERENCE           HAITI_OBJ_GOTO_CONTROL_ROOM
+LANG_ENGLISH        "Advance to the control room"
+
+REFERENCE           HAITI_OBJ_STOP_CONTROL
+LANG_ENGLISH        "Shut down the drone control"
+
+REFERENCE           HAITI_OBJ_STOP_TRANSMISSION
+LANG_ENGLISH        "Shut down the transmission"
+
+REFERENCE           HAITI_PLAYER_FAIL
+LANG_ENGLISH        "You have failed"
+
+REFERENCE           HAITI_SHOOT_MENENDEZ
+LANG_ENGLISH        "Press ^3[{+activate}]^7 to shoot Menendez"
+
+REFERENCE           HAITI_SOURCE_CLOSEST_MATCH
+LANG_ENGLISH        "Displaying probable locations"
+
+REFERENCE           HAITI_SOURCE_MISMATCH
+LANG_ENGLISH        "Source does not match"
+
+REFERENCE           HAITI_SOURCE_NOT_FOUND
+LANG_ENGLISH        "Source cannot be pinpointed"
+
+REFERENCE           HAITI_SOURCE_SCANNING
+LANG_ENGLISH        "Scanning for transmission source"
+
+REFERENCE           HAITI_VOX_VOX_HAT_1_01_001A_VTOL_D
+LANG_ENGLISH        "^1Pilot: ^7Time on target, 60 seconds."
+
+REFERENCE           HAITI_VOX_VOX_HAT_1_01_002A_SOL1_D
+LANG_ENGLISH        "^1Army Ranger: ^7Okay, you're set."
+
+REFERENCE           HAITI_VOX_VOX_HAT_1_01_003A_SOL1_D
+LANG_ENGLISH        "^1Army Ranger: ^7Your HUD link clear?"
+
+REFERENCE           HAITI_VOX_VOX_HAT_1_01_004A_HARP_D
+LANG_ENGLISH        "^1Harper: ^7It's all good."
+
+REFERENCE           HAITI_VOX_VOX_HAT_1_01_005A_SOL2_D
+LANG_ENGLISH        "^1Army Ranger: ^7Confirmed."
+
+REFERENCE           HAITI_VOX_VOX_HAT_1_01_006A_SOL1_D
+LANG_ENGLISH        "^1Army Ranger: ^7All right, Section.  You're good to go."
+
+REFERENCE           HAITI_VOX_VOX_HAT_1_01_007A_SECT_D
+LANG_ENGLISH        "^1Section: ^7Alright, listen up.  We have our objectives."
+
+REFERENCE           HAITI_VOX_VOX_HAT_1_01_008A_SECT_D
+LANG_ENGLISH        "^1Section: ^7Shut down the transmission controlling the drones..."
+
+REFERENCE           HAITI_VOX_VOX_HAT_1_01_009A_SECT_D
+LANG_ENGLISH        "^1Section: ^7Execute kill/capture order on target Raul Menendez."
+
+REFERENCE           HAITI_VOX_VOX_HAT_1_01_010A_HARP_D
+LANG_ENGLISH        "^1Harper: ^7I vote kill.  Taking him alive didn't work out last time."
+
+REFERENCE           HAITI_VOX_VOX_HAT_1_01_011A_VTOL_D
+LANG_ENGLISH        "^1Pilot: ^7Time on target, 30 seconds."
+
+REFERENCE           HAITI_VOX_VOX_HAT_1_01_012A_SOL1_M
+LANG_ENGLISH        "^1Army Ranger: ^7Shit!  That was close!"
+
+REFERENCE           HAITI_VOX_VOX_HAT_1_01_012A_SOL1_S
+LANG_ENGLISH        "^1Army Ranger: ^7That was close."
+
+REFERENCE           HAITI_VOX_VOX_HAT_1_01_013A_SOL2_M
+LANG_ENGLISH        "^1Army Ranger: ^7FUCK!"
+
+REFERENCE           HAITI_VOX_VOX_HAT_1_01_013A_SOL2_S
+LANG_ENGLISH        "^1Army Ranger: ^7WHOA!"
+
+REFERENCE           HAITI_VOX_VOX_HAT_1_01_014A_VTOL_D
+LANG_ENGLISH        "^1Pilot: ^7Time on target, 15 seconds."
+
+REFERENCE           HAITI_VOX_VOX_HAT_1_01_016A_SECT_D
+LANG_ENGLISH        "^1Section: ^7Go, now!"
+
+REFERENCE           HAITI_VOX_VOX_HAT_1_01_017A_HARP_D
+LANG_ENGLISH        "^1Harper: ^7Go, go, go!  Everyone out!"
+
+REFERENCE           HAITI_VOX_VOX_HAT_1_01_018A_VTOL_D
+LANG_ENGLISH        "^1Pilot: ^7Get out!  Get out!"
+
+REFERENCE           HAITI_VOX_VOX_HAT_1_02_001A_HARP_M
+LANG_ENGLISH        "^1Harper: ^7C'mon, bitch!  You want to live forever?"
+
+REFERENCE           HAITI_VOX_VOX_HAT_1_02_001A_HARP_S
+LANG_ENGLISH        "^1Harper: ^7C'mon, man!  You want to live forever?"
+
+REFERENCE           HAITI_VOX_VOX_HAT_1_03_010A_SECT_D
+LANG_ENGLISH        "^1Section: ^7Taking fire from ground!  Watch the flak!"
+
+REFERENCE           HAITI_VOX_VOX_HAT_1_03_012A_HARP_M
+LANG_ENGLISH        "^1Harper: ^7Stay out of their fucking way!"
+
+REFERENCE           HAITI_VOX_VOX_HAT_1_03_012A_HARP_S
+LANG_ENGLISH        "^1Harper: ^7Stay out of their way!"
+
+REFERENCE           HAITI_VOX_VOX_HAT_1_03_013A_SECT_D
+LANG_ENGLISH        "^1Section: ^7Control your descent!"
+
+REFERENCE           HAITI_VOX_VOX_HAT_1_03_014A_SECT_D
+LANG_ENGLISH        "^1Section: ^7Avoid the missiles!"
+
+REFERENCE           HAITI_VOX_VOX_HAT_1_03_015A_SECT_D
+LANG_ENGLISH        "^1Section: ^7Supporting element one, say status!"
+
+REFERENCE           HAITI_VOX_VOX_HAT_1_03_016A_SE1_D
+LANG_ENGLISH        "^1Navy SEAL: ^7Established containment western flank, 100 series buildings."
+
+REFERENCE           HAITI_VOX_VOX_HAT_1_03_017A_SE1_D
+LANG_ENGLISH        "^1Navy SEAL: ^7Chinese special forces are in support!"
+
+REFERENCE           HAITI_VOX_VOX_HAT_1_03_018A_SECT_D
+LANG_ENGLISH        "^1Section: ^7SE2, are you up?"
+
+REFERENCE           HAITI_VOX_VOX_HAT_1_03_019A_SE2_D
+LANG_ENGLISH        "^1Navy SEAL: ^7Affirm.  In position to parallel your movement east side.  Set on roof tops 300 series building."
+
+REFERENCE           HAITI_VOX_VOX_HAT_1_03_020A_SECT_D
+LANG_ENGLISH        "^1Section: ^7Copy all.  Main effort moving south.  Updates as needed!"
+
+REFERENCE           HAITI_VOX_VOX_HAT_1_03_021A_HARP_M
+LANG_ENGLISH        "^1Harper: ^7They're making a hell of a last stand!"
+
+REFERENCE           HAITI_VOX_VOX_HAT_1_03_021A_HARP_S
+LANG_ENGLISH        "^1Harper: ^7They're making a solid last stand!"
+
+REFERENCE           HAITI_VOX_VOX_HAT_1_03_022A_SECT_D
+LANG_ENGLISH        "^1Section: ^7Push forward!  We've only got one chance at this!"
+
+REFERENCE           HAITI_VOX_VOX_HAT_1_03_023A_SECT_D
+LANG_ENGLISH        "^1Section: ^7Rear units are being hammered before they even hit deck."
+
+REFERENCE           HAITI_VOX_VOX_HAT_1_03_025A_SECT_D
+LANG_ENGLISH        "^1Section: ^7Knock out the AA laser mounts on the roofs!"
+
+REFERENCE           HAITI_VOX_VOX_HAT_1_03_026A_HARP_D
+LANG_ENGLISH        "^1Harper: ^7Friendly CLAWs moving in for support!  Use 'em for cover!"
+
+REFERENCE           HAITI_VOX_VOX_HAT_1_03_032A_HARP_M
+LANG_ENGLISH        "^1Harper: ^7Kill that damn CLAW!"
+
+REFERENCE           HAITI_VOX_VOX_HAT_1_03_032A_HARP_S
+LANG_ENGLISH        "^1Harper: ^7Kill that CLAW, Section!"
+
+REFERENCE           HAITI_VOX_VOX_HAT_1_03_034A_SECT_D
+LANG_ENGLISH        "^1Section: ^7Push forward!  Clear the 2nd deck!"
+
+REFERENCE           HAITI_VOX_VOX_HAT_1_03_036A_SECT_D
+LANG_ENGLISH        "^1Section: ^7Quad support online.  Moving to engage!"
+
+REFERENCE           HAITI_VOX_VOX_HAT_1_03_037A_SECT_D
+LANG_ENGLISH        "^1Section: ^7Targeting quad rotors.  Watch their fire!"
+
+REFERENCE           HAITI_VOX_VOX_HAT_1_03_040A_SECT_D
+LANG_ENGLISH        "^1Section: ^7Kinetic strike weapon is online.  Be advised, I'm calling down the thunder!"
+
+REFERENCE           HAITI_VOX_VOX_HAT_1_03_041A_SECT_D
+LANG_ENGLISH        "^1Section: ^7Targeting kinetic strike weapon!"
+
+REFERENCE           HAITI_VOX_VOX_HAT_1_03_042A_SECT_D
+LANG_ENGLISH        "^1Section: ^7Hyper velocity package inbound!  Everybody clear!"
+
+REFERENCE           HAITI_VOX_VOX_HAT_1_03_043A_SECT_D
+LANG_ENGLISH        "^1Section: ^7Kinetic strike initiated!  Get your heads down!"
+
+REFERENCE           HAITI_VOX_VOX_HAT_1_03_047A_HARP_D
+LANG_ENGLISH        "^1Harper: ^7Let's clear 'em out."
+
+REFERENCE           HAITI_VOX_VOX_HAT_1_03_048A_HARP_D
+LANG_ENGLISH        "^1Harper: ^7Take out that gunner!"
+
+REFERENCE           HAITI_VOX_VOX_HAT_1_03_053A_SECT_D
+LANG_ENGLISH        "^1Section: ^7Target building up ahead."
+
+REFERENCE           HAITI_VOX_VOX_HAT_1_03_054A_SECT_D
+LANG_ENGLISH        "^1Section: ^7Chinese Special forces landing on the roofs.  They'll deal with the snipers."
+
+REFERENCE           HAITI_VOX_VOX_HAT_1_03_056A_SECT_D
+LANG_ENGLISH        "^1Section: ^7SE1 and 2 are taking key positions to support our advance, so watch your fire!"
+
+REFERENCE           HAITI_VOX_VOX_HAT_1_03_057A_SECT_D
+LANG_ENGLISH        "^1Section: ^7Don't get sidetracked.  We're here to shutdown the transmission and kill Menendez."
+
+REFERENCE           HAITI_VOX_VOX_HAT_1_03_063A_SECT_D
+LANG_ENGLISH        "^1Section: ^7Keep moving!  Get up the stairs!"
+
+REFERENCE           HAITI_VOX_VOX_HAT_1_03_064A_SECT_D
+LANG_ENGLISH        "^1Section: ^7SE1, we have enemy CLAWs in front of target building.  Request fire support."
+
+REFERENCE           HAITI_VOX_VOX_HAT_1_03_067A_SECT_D
+LANG_ENGLISH        "^1Section: ^7Everyone on me!  Push into the building!"
+
+REFERENCE           HAITI_VOX_VOX_HAT_1_03_068A_HARP_D
+LANG_ENGLISH        "^1Harper: ^7You heard the man!  Come on!"
+
+REFERENCE           HAITI_VOX_VOX_HAT_1_03_070A_SECT_D
+LANG_ENGLISH        "^1Section: ^7Watch your fire!  Friendlies upstairs!"
+
+REFERENCE           HAITI_VOX_VOX_HAT_1_03_071A_SECT_D
+LANG_ENGLISH        "^1Section: ^7Friendlies!  Check your fire!"
+
+REFERENCE           HAITI_VOX_VOX_HAT_1_03_073A_SECT_D
+LANG_ENGLISH        "^1Section: ^7This way!  Downstairs!"
+
+REFERENCE           HAITI_VOX_VOX_HAT_1_03_074A_SECT_M
+LANG_ENGLISH        "^1Section: ^7Dammit!  Return fire!"
+
+REFERENCE           HAITI_VOX_VOX_HAT_1_03_074A_SECT_S
+LANG_ENGLISH        "^1Section: ^7Return fire!"
+
+REFERENCE           HAITI_VOX_VOX_HAT_3_01_001A_GENE_D
+LANG_ENGLISH        "^1General: ^7Lt. Commander, we stand on the brink of global catastrophe."
+
+REFERENCE           HAITI_VOX_VOX_HAT_3_01_002A_GENE_D
+LANG_ENGLISH        "^1General: ^7America and China face imminent annihilation from Menendez's drones."
+
+REFERENCE           HAITI_VOX_VOX_HAT_3_01_003A_GENE_D
+LANG_ENGLISH        "^1General: ^7We're out of time.  Locate that control room and shutdown the broadcast signals."
+
+REFERENCE           HAITI_VOX_VOX_HAT_3_01_004A_HARP_D
+LANG_ENGLISH        "^1Harper: ^7Clear!"
+
+REFERENCE           HAITI_VOX_VOX_HAT_3_01_005A_HARP_D
+LANG_ENGLISH        "^1Harper: ^7Section, shut down the transmission."
+
+REFERENCE           HAITI_VOX_VOX_HAT_3_01_013A_HARP_D
+LANG_ENGLISH        "^1Harper: ^7They're setting up defensive positions!"
+
+REFERENCE           HAITI_VOX_VOX_HAT_3_01_014A_HARP_D
+LANG_ENGLISH        "^1Harper: ^7Maintain fire on the lower level!"
+
+REFERENCE           HAITI_VOX_VOX_HAT_3_01_015A_HARP_D
+LANG_ENGLISH        "^1Harper: ^7Don't let them breathe!"
+
+REFERENCE           HAITI_VOX_VOX_HAT_3_01_016A_SECT_D
+LANG_ENGLISH        "^1Section: ^7Enemy ASD reprogrammed to support!"
+
+REFERENCE           HAITI_VOX_VOX_HAT_3_01_019A_SECT_D
+LANG_ENGLISH        "^1Section: ^7Keep moving!  Broadcast room's just ahead!"
+
+REFERENCE           HAITI_VOX_VOX_HAT_3_01_020A_SECT_D
+LANG_ENGLISH        "^1Section: ^7Main effort has located broadcast source.  SE1, say status."
+
+REFERENCE           HAITI_VOX_VOX_HAT_3_01_021A_SE1_D
+LANG_ENGLISH        "^1Navy SEAL: ^7100 series building perimeter established."
+
+REFERENCE           HAITI_VOX_VOX_HAT_3_01_022A_SECT_D
+LANG_ENGLISH        "^1Section: ^7SE1, switch profile to checkpoint responsibilities.  I want this place locked down."
+
+REFERENCE           HAITI_VOX_VOX_HAT_3_01_023A_SE1_D
+LANG_ENGLISH        "^1Navy SEAL: ^7Roger that."
+
+REFERENCE           HAITI_VOX_VOX_HAT_3_01_024A_HARP_D
+LANG_ENGLISH        "^1Harper: ^7More quads!  Take them down!"
+
+REFERENCE           HAITI_VOX_VOX_HAT_3_01_025A_SECT_D
+LANG_ENGLISH        "^1Section: ^7Enemy quads incoming!"
+
+REFERENCE           HAITI_VOX_VOX_HAT_3_01_036A_SECT_D
+LANG_ENGLISH        "^1Section: ^7Alright.  Let's move out."
+
+REFERENCE           HAITI_VOX_VOX_HAT_4_01_002A_MENE_D
+LANG_ENGLISH        "^1Menendez: ^7...opulence is sinful, and we all pay for it... Los Angeles was the flagship of their absurd materialism, so I destroyed it... They thought I wanted to kill the President. Madame President, with all your drones at my command I could have buried you a million times over. No...I wanted you to see it, to feel what it's like."
+
+REFERENCE           HAITI_VOX_VOX_HAT_4_01_003A_MENE_D
+LANG_ENGLISH        "^1Menendez: ^7I followed your rules of war. I achieved the objective, with acceptable loss, no?"
+
+REFERENCE           HAITI_VOX_VOX_HAT_4_01_004A_MENE_D
+LANG_ENGLISH        "^1Menendez: ^7Today two billion people exist... in abject misery, tyrannized by war while corporate parasites devour their weakness. I demand their freedom from such extraordinary sacrifice."
+
+REFERENCE           HAITI_VOX_VOX_HAT_4_01_005A_MENE_D
+LANG_ENGLISH        "^1Menendez: ^7And they shall have it."
+
+REFERENCE           HAITI_VOX_VOX_HAT_4_01_006A_MENE_D
+LANG_ENGLISH        "^1Menendez: ^7Cordis Die heralds a new beginning."
+
+REFERENCE           HAITI_VOX_VOX_HAT_4_01_007A_MENE_D
+LANG_ENGLISH        "^1Menendez: ^7Witness the death of materialism gone mad."
+
+REFERENCE           HAITI_VOX_VOX_HAT_4_01_008A_MENE_D
+LANG_ENGLISH        "^1Menendez: ^7Like billions before her, my sister Josefina suffered for their sins."
+
+REFERENCE           HAITI_VOX_VOX_HAT_4_01_009A_MENE_D
+LANG_ENGLISH        "^1Menendez: ^7For this suffering to mean something, you must never forget this moment."
+
+REFERENCE           HAITI_VOX_VOX_HAT_4_01_010A_MENE_D
+LANG_ENGLISH        "^1Menendez: ^7Madame President, your war machines are no more. Your military is crippled. You cannot stop us now. Cordis Die, rise, and strike while they are down. Strike now, and strike deep."
+
+REFERENCE           HAITI_VOX_VOX_HAT_4_01_012A_MENE_D
+LANG_ENGLISH        "^1Menendez: ^7If you fail, and nothing changes..."
+
+REFERENCE           HAITI_VOX_VOX_HAT_4_01_013A_MENE_D
+LANG_ENGLISH        "^1Menendez: ^7...a year from today, I launch a second attack... to extinguish.  If you doubt my resolve..."
+
+REFERENCE           HAITI_VOX_VOX_HAT_4_01_014A_MENE_D
+LANG_ENGLISH        "^1Menendez: ^7Consider Los Angeles a demonstration of will."
+
+REFERENCE           HAITI_VOX_VOX_HAT_4_01_015A_MENE_D
+LANG_ENGLISH        "^1Menendez: ^7I will let the world burn... before I let her go."
+
+REFERENCE           HAITI_VOX_VOX_HAT_4_01_016A_MENE_D
+LANG_ENGLISH        "^1Menendez: ^7Your clock is ticking."
+
+REFERENCE           HAITI_VOX_VOX_HAT_4_01_017A_SECT_M
+LANG_ENGLISH        "^1Section: ^7No.  Move your fucking ass!"
+
+REFERENCE           HAITI_VOX_VOX_HAT_4_01_017A_SECT_S
+LANG_ENGLISH        "^1Section: ^7No."
+
+REFERENCE           HAITI_VOX_VOX_HAT_4_01_018A_MENE_D
+LANG_ENGLISH        "^1Menendez: ^7Martyr me for Cordis Die."
+
+REFERENCE           HAITI_VOX_VOX_HAT_4_01_019A_SECT_D
+LANG_ENGLISH        "^1Section: ^7I got you, brother."
+
+REFERENCE           HAITI_VOX_VOX_HAT_4_01_020A_HARP_D
+LANG_ENGLISH        "^1Harper: ^7You nailed him, right?"
+
+REFERENCE           HAITI_VOX_VOX_HAT_4_01_021A_HARP_M
+LANG_ENGLISH        "^1Harper: ^7Oh man, shit..."
+
+REFERENCE           HAITI_VOX_VOX_HAT_4_01_021A_HARP_S
+LANG_ENGLISH        "^1Harper: ^7Man..."
+
+REFERENCE           HAITI_VOX_VOX_HAT_4_01_022A_SECT_D
+LANG_ENGLISH        "^1Section: ^7Over here!"
+
+REFERENCE           HAITI_VOX_VOX_HAT_4_01_023A_HARP_D
+LANG_ENGLISH        "^1Harper: ^7Next time, Section... Next time."
+
+REFERENCE           HAITI_VOX_VOX_HAT_4_01_024A_SECT_D
+LANG_ENGLISH        "^1Section: ^7Yeah, Harper... Next time."
+
+REFERENCE           HAITI_VOX_VOX_HAT_4_01_025A_MENE_D
+LANG_ENGLISH        "^1Menendez: ^7Cordis Die has my instructions.  I give them a year."
+
+REFERENCE           HAITI_VOX_VOX_HAT_4_01_026A_MENE_D
+LANG_ENGLISH        "^1Menendez: ^7To my people, I am Messiah.  To you, I am a sin.  Of course, we are both."
+
+REFERENCE           HAITI_VOX_VOX_HAT_4_01_027A_MENE_D
+LANG_ENGLISH        "^1Menendez: ^7And we... have unfinished business."
+
+REFERENCE           HAITI_VOX_VOX_HAT_4_01_028A_MENE_D
+LANG_ENGLISH        "^1Menendez: ^7No, DeFalco."
+
+REFERENCE           HAITI_VOX_VOX_HAT_4_01_029A_SECT_D
+LANG_ENGLISH        "^1Section: ^7I got you, brother."
+
+REFERENCE           HAITI_VOX_VOX_HAT_4_01_030A_HARP_M
+LANG_ENGLISH        "^1Harper: ^7You had me worried, man.  For a while there, I thought you were gonna let that bastard live."
+
+REFERENCE           HAITI_VOX_VOX_HAT_4_01_030A_HARP_S
+LANG_ENGLISH        "^1Harper: ^7You had me worried, man.  For a while there, I thought you were gonna let that... live."
+
+REFERENCE           HAITI_VOX_VOX_HAT_4_01_031A_SECT_D
+LANG_ENGLISH        "^1Section: ^7Over here!"
+
+REFERENCE           HAITI_VOX_VOX_HAT_4_01_032A_HARP_D
+LANG_ENGLISH        "^1Harper: ^7Later, Section."
+
+REFERENCE           HAITI_VOX_VOX_HAT_4_01_033A_HARP_D
+LANG_ENGLISH        "^1Harper: ^7If it were up to me, you'd be with your sister right now."
+
+REFERENCE           HAITI_VOX_VOX_HAT_4_01_034A_HARP_D
+LANG_ENGLISH        "^1Harper: ^7Hey, how 'bout some help over here?"
+
+REFERENCE           HAITI_VOX_VOX_HAT_4_01_035A_HARP_D
+LANG_ENGLISH        "^1Harper: ^7Later, Section."
+
+REFERENCE           HAITI_VOX_VOX_HAT_4_01_036A_MENE_D
+LANG_ENGLISH        "^1Menendez: ^7I will see you one year from now.  Study Ulysses... and be ready."
+
+REFERENCE           HAITI_VOX_VOX_HAT_4_01_037A_SECT_D
+LANG_ENGLISH        "^1Section: ^7No."
+
+REFERENCE           HAITI_VOX_VOX_HAT_4_01_038A_SECT_D
+LANG_ENGLISH        "^1Section: ^7He's just a sad old man, talking to himself.  Let him talk."
+
+REFERENCE           HAITI_VOX_VOX_HAT_4_01_042A_USR0_D
+LANG_ENGLISH        "^1Army Ranger: ^7Section, we got a body.  One of ours.  He's been stripped of his uniform and kit."
+
+REFERENCE           HAITI_VOX_VOX_HAT_4_01_043A_SECT_D
+LANG_ENGLISH        "^1Section: ^7Wait!  Don't move him!"
+
+REFERENCE           HAITI_VOX_VOX_HAT_4_01_044A_SE2_D
+LANG_ENGLISH        "^1Navy SEAL: ^7Section, this is SE2.  We're monitoring multiple explosions across the facility!"
+
+REFERENCE           HAITI_VOX_VOX_HAT_4_01_045A_SECT_D
+LANG_ENGLISH        "^1Section: ^7It's Menendez.  He's trying to cover his escape."
+
+REFERENCE           HAITI_VOX_VOX_HAT_4_01_046A_SECT_D
+LANG_ENGLISH        "^1Section: ^7All stations this net.  All check points detain anyone attempting to leave AO... even those in uniform!"
+
+REFERENCE           HAITI_VOX_VOX_HAT_4_01_047A_USR3_D
+LANG_ENGLISH        "^1Army Ranger: ^7Checkpoint 4.  We have unidentified persons approaching."
+
+REFERENCE           HAITI_VOX_VOX_HAT_4_01_048A_USR3_D
+LANG_ENGLISH        "^1Army Ranger: ^7Halt!!  Hands up drop your weapons."
+
+REFERENCE           HAITI_VOX_VOX_HAT_4_01_049A_SECT_D
+LANG_ENGLISH        "^1Section: ^7Push checkpoint 4's location to my HUD!"
+
+REFERENCE           HAITI_VOX_VOX_HAT_4_01_050A_MENE_D
+LANG_ENGLISH        "^1Menendez: ^7We're Americans.  Take it easy."
+
+REFERENCE           HAITI_VOX_VOX_HAT_4_01_051A_USR3_D
+LANG_ENGLISH        "^1Army Ranger: ^7Orders are no one passes.  Stop where you are!"
+
+REFERENCE           HAITI_VOX_VOX_HAT_4_01_052A_MENE_D
+LANG_ENGLISH        "^1Menendez: ^7Relax.  We're on the same team."
+
+REFERENCE           HAITI_VOX_VOX_HAT_4_01_053A_SECT_D
+LANG_ENGLISH        "^1Section: ^7Check point 4 is down.  We need to move!"
+
+REFERENCE           HAITI_VOX_VOX_HAT_4_01_054A_HARP_D
+LANG_ENGLISH        "^1Harper: ^7Section!  You got a signal?"
+
+REFERENCE           HAITI_VOX_VOX_HAT_4_01_062A_MENE_D
+LANG_ENGLISH        "^1Menendez: ^7DO IT!!  ...David."
+
+REFERENCE           SP_OBJECTIVES_AMMO
+LANG_ENGLISH        "Ammo"
+
+REFERENCE           SP_OBJECTIVES_BREACH
+LANG_ENGLISH        "Breach"
+
+REFERENCE           SP_OBJECTIVES_CLEAR
+LANG_ENGLISH        "Clear"
+
+REFERENCE           SP_OBJECTIVES_CLIMB
+LANG_ENGLISH        "Climb"
+
+REFERENCE           SP_OBJECTIVES_DEFEND
+LANG_ENGLISH        "Defend"
+
+REFERENCE           SP_OBJECTIVES_DESTROY
+LANG_ENGLISH        "Destroy"
+
+REFERENCE           SP_OBJECTIVES_DETONATE
+LANG_ENGLISH        "Detonate"
+
+REFERENCE           SP_OBJECTIVES_DISABLE
+LANG_ENGLISH        "Disable"
+
+REFERENCE           SP_OBJECTIVES_ENTER
+LANG_ENGLISH        "Enter"
+
+REFERENCE           SP_OBJECTIVES_ESCORT
+LANG_ENGLISH        "Escort"
+
+REFERENCE           SP_OBJECTIVES_FOLLOW
+LANG_ENGLISH        "Follow"
+
+REFERENCE           SP_OBJECTIVES_HELP
+LANG_ENGLISH        "Help"
+
+REFERENCE           SP_OBJECTIVES_INCOMING_HELOS
+LANG_ENGLISH        "Incoming (helos)"
+
+REFERENCE           SP_OBJECTIVES_INCOMING_TANKS
+LANG_ENGLISH        "Incoming (tanks)"
+
+REFERENCE           SP_OBJECTIVES_INTERACT
+LANG_ENGLISH        "Access"
+
+REFERENCE           SP_OBJECTIVES_JUMP
+LANG_ENGLISH        "Jump"
+
+REFERENCE           SP_OBJECTIVES_KILL
+LANG_ENGLISH        "Kill"
+
+REFERENCE           SP_OBJECTIVES_MELEE
+LANG_ENGLISH        "Melee"
+
+REFERENCE           SP_OBJECTIVES_PICKUP
+LANG_ENGLISH        "Pick Up"
+
+REFERENCE           SP_OBJECTIVES_PROTECT
+LANG_ENGLISH        "Protect"
+
+REFERENCE           SP_OBJECTIVES_RAPPEL
+LANG_ENGLISH        "Rappel"
+
+REFERENCE           SP_OBJECTIVES_REGROUP
+LANG_ENGLISH        "Regroup"
+
+REFERENCE           SP_OBJECTIVES_SEARCH
+LANG_ENGLISH        "Search"
+
+REFERENCE           SP_OBJECTIVES_SHOOT
+LANG_ENGLISH        "Shoot"
+
+REFERENCE           SP_OBJECTIVES_SUPPORT
+LANG_ENGLISH        "Support"
+
+REFERENCE           SP_OBJECTIVES_SWEEP
+LANG_ENGLISH        "Sweep"
+
+REFERENCE           SP_OBJECTIVES_TARGET
+LANG_ENGLISH        "Target"
+
+REFERENCE           SP_OBJECTIVES_USE
+LANG_ENGLISH        "Use"
+
+REFERENCE           SP_OBJECTIVES_WEAPONS
+LANG_ENGLISH        "Weapons"
+
+ENDMARKER

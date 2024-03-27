@@ -1,0 +1,139 @@
+// Dumped from fastfile "en_so_cmp_frontend".
+// In their original format the strings might have been separated in multiple files.
+VERSION             "1"
+CONFIG              "C:/projects/cod/t6/bin/StringEd.cfg"
+FILENOTES           ""
+
+REFERENCE           FRONTEND_CYCLE_MISSIONS
+LANG_ENGLISH        "Press ^3[{+actionslot 3}]^7 to select mission."
+
+REFERENCE           FRONTEND_INCOMING_MESSAGE
+LANG_ENGLISH        "Incoming Message From Adm. Briggs"
+
+REFERENCE           FRONTEND_PRESENCE_REQUESTED
+LANG_ENGLISH        "David Mason, your presence is required in The War Room."
+
+REFERENCE           FRONTEND_PRESS_X_TO_SELECT
+LANG_ENGLISH        "Press ^3[{+activate}]^7 to confirm mission selection."
+
+REFERENCE           FRONTEND_REPORT_TO_WAR_ROOM
+LANG_ENGLISH        "Report to The War Room"
+
+REFERENCE           FRONTEND_SF_AFGHANISTAN
+LANG_ENGLISH        "Afghanistan"
+
+REFERENCE           FRONTEND_SF_AT_RISK
+LANG_ENGLISH        "At Risk"
+
+REFERENCE           FRONTEND_SF_CARRIER
+LANG_ENGLISH        "Carrier"
+
+REFERENCE           FRONTEND_SF_DRONE
+LANG_ENGLISH        "Drone Factory"
+
+REFERENCE           FRONTEND_SF_OVERFLOW
+LANG_ENGLISH        "Overflow"
+
+REFERENCE           FRONTEND_SF_SINGAPORE
+LANG_ENGLISH        "Dockside"
+
+REFERENCE           FRONTEND_SF_SOCOTRA
+LANG_ENGLISH        "Socotra"
+
+REFERENCE           FRONTEND_UNITS_REMAINING
+LANG_ENGLISH        "Deployment Units Remaining"
+
+REFERENCE           FRONTEND_USE_STRIKEFORCE
+LANG_ENGLISH        "Press  ^3[{+activate}]^7  to access Strikeforce."
+
+REFERENCE           FRONTEND_WARMAP_AVAILABLE
+LANG_ENGLISH        "Strikeforce Map Available"
+
+REFERENCE           SP_OBJECTIVES_AMMO
+LANG_ENGLISH        "Ammo"
+
+REFERENCE           SP_OBJECTIVES_BREACH
+LANG_ENGLISH        "Breach"
+
+REFERENCE           SP_OBJECTIVES_CLEAR
+LANG_ENGLISH        "Clear"
+
+REFERENCE           SP_OBJECTIVES_CLIMB
+LANG_ENGLISH        "Climb"
+
+REFERENCE           SP_OBJECTIVES_DEFEND
+LANG_ENGLISH        "Defend"
+
+REFERENCE           SP_OBJECTIVES_DESTROY
+LANG_ENGLISH        "Destroy"
+
+REFERENCE           SP_OBJECTIVES_DETONATE
+LANG_ENGLISH        "Detonate"
+
+REFERENCE           SP_OBJECTIVES_DISABLE
+LANG_ENGLISH        "Disable"
+
+REFERENCE           SP_OBJECTIVES_ENTER
+LANG_ENGLISH        "Enter"
+
+REFERENCE           SP_OBJECTIVES_ESCORT
+LANG_ENGLISH        "Escort"
+
+REFERENCE           SP_OBJECTIVES_FOLLOW
+LANG_ENGLISH        "Follow"
+
+REFERENCE           SP_OBJECTIVES_HELP
+LANG_ENGLISH        "Help"
+
+REFERENCE           SP_OBJECTIVES_INCOMING_HELOS
+LANG_ENGLISH        "Incoming (helos)"
+
+REFERENCE           SP_OBJECTIVES_INCOMING_TANKS
+LANG_ENGLISH        "Incoming (tanks)"
+
+REFERENCE           SP_OBJECTIVES_INTERACT
+LANG_ENGLISH        "Access"
+
+REFERENCE           SP_OBJECTIVES_JUMP
+LANG_ENGLISH        "Jump"
+
+REFERENCE           SP_OBJECTIVES_KILL
+LANG_ENGLISH        "Kill"
+
+REFERENCE           SP_OBJECTIVES_MELEE
+LANG_ENGLISH        "Melee"
+
+REFERENCE           SP_OBJECTIVES_PICKUP
+LANG_ENGLISH        "Pick Up"
+
+REFERENCE           SP_OBJECTIVES_PROTECT
+LANG_ENGLISH        "Protect"
+
+REFERENCE           SP_OBJECTIVES_RAPPEL
+LANG_ENGLISH        "Rappel"
+
+REFERENCE           SP_OBJECTIVES_REGROUP
+LANG_ENGLISH        "Regroup"
+
+REFERENCE           SP_OBJECTIVES_SEARCH
+LANG_ENGLISH        "Search"
+
+REFERENCE           SP_OBJECTIVES_SHOOT
+LANG_ENGLISH        "Shoot"
+
+REFERENCE           SP_OBJECTIVES_SUPPORT
+LANG_ENGLISH        "Support"
+
+REFERENCE           SP_OBJECTIVES_SWEEP
+LANG_ENGLISH        "Sweep"
+
+REFERENCE           SP_OBJECTIVES_TARGET
+LANG_ENGLISH        "Target"
+
+REFERENCE           SP_OBJECTIVES_USE
+LANG_ENGLISH        "Use"
+
+REFERENCE           SP_OBJECTIVES_WEAPONS
+LANG_ENGLISH        "Weapons"
+
+ENDMARKER

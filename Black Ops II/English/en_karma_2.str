@@ -1,0 +1,1063 @@
+// Dumped from fastfile "en_karma_2".
+// In their original format the strings might have been separated in multiple files.
+VERSION             "1"
+CONFIG              "C:/projects/cod/t6/bin/StringEd.cfg"
+FILENOTES           ""
+
+REFERENCE           KARMA_2_DEFALCO_ENDLEVEL_FATAL_SHOT
+LANG_ENGLISH        "Killing Defalco will detonate all explosives on Colossus"
+
+REFERENCE           KARMA_2_DEFALCO_ESCAPES_WITH_KARMA
+LANG_ENGLISH        "Mission Failure: Defalco escapes with Karma."
+
+REFERENCE           KARMA_2_ENDLEVEL_FAILED_TO_SHOOT_KARMA
+LANG_ENGLISH        "Failed to disable Karma"
+
+REFERENCE           KARMA_2_HINT_SHOOT_KARMA
+LANG_ENGLISH        "Karma will survive hit in green areas"
+
+REFERENCE           KARMA_2_INTRUDER_SELECT
+LANG_ENGLISH        "Press ^3[{+actionslot 3}]^7 to use the FHJ18."
+
+REFERENCE           KARMA_2_KARMA_ENDLEVEL_FATAL_SHOT
+LANG_ENGLISH        "Karma killed, mission failure\n"
+
+REFERENCE           KARMA_2_OBJ_3D_DEFALCO
+LANG_ENGLISH        "DeFalco"
+
+REFERENCE           KARMA_2_OBJ_OPEN_GATE
+LANG_ENGLISH        "Open the mall door"
+
+REFERENCE           KARMA_2_OBJ_STOP_DEFALCO
+LANG_ENGLISH        "Stop Defalco from escaping with Karma"
+
+REFERENCE           KARMA_2_STRENGTH_TEST
+LANG_ENGLISH        "RAPIDLY TAP ^3[{+activate}]^7 TO FIGHT BACK"
+
+REFERENCE           KARMA_2_VOX_VOX_KAR_9_03_001A_SECU_D
+LANG_ENGLISH        "^1Security Guard: ^7What's happening?"
+
+REFERENCE           KARMA_2_VOX_VOX_KAR_9_03_002A_HARP_D
+LANG_ENGLISH        "^1Harper: ^7We're U.S. Navy SEALs."
+
+REFERENCE           KARMA_2_VOX_VOX_KAR_9_03_003A_HARP_D
+LANG_ENGLISH        "^1Harper: ^7This ship is under attack."
+
+REFERENCE           KARMA_2_VOX_VOX_KAR_9_03_004A_SECU_M
+LANG_ENGLISH        "^1Security Guard: ^7Attack?  Oh my God..."
+
+REFERENCE           KARMA_2_VOX_VOX_KAR_9_03_004A_SECU_S
+LANG_ENGLISH        "^1Security Guard: ^7Attack?"
+
+REFERENCE           KARMA_2_VOX_VOX_KAR_9_03_005A_HARP_D
+LANG_ENGLISH        "^1Harper: ^7Listen, you need to open the armory, get your guys armed and ready to fight."
+
+REFERENCE           KARMA_2_VOX_VOX_KAR_9_03_006A_HARP_D
+LANG_ENGLISH        "^1Harper: ^7Hey, hey, hey!  Look at me.  Focus.  All right?  You need to get this done."
+
+REFERENCE           KARMA_2_VOX_VOX_KAR_9_03_007A_SECU_D
+LANG_ENGLISH        "^1Security Guard: ^7Okay... Okay... The security armory..."
+
+REFERENCE           KARMA_2_VOX_VOX_KAR_9_03_008A_FARI_D
+LANG_ENGLISH        "^1Farid: ^7What happened?"
+
+REFERENCE           KARMA_2_VOX_VOX_KAR_9_03_009A_HARP_M
+LANG_ENGLISH        "^1Harper: ^7DeFalco detonated a fucking bomb outside the nightclub!  He's got the girl."
+
+REFERENCE           KARMA_2_VOX_VOX_KAR_9_03_009A_HARP_S
+LANG_ENGLISH        "^1Harper: ^7DeFalco detonated a bomb outside the nightclub!  He's got the girl."
+
+REFERENCE           KARMA_2_VOX_VOX_KAR_9_03_010A_SECT_D
+LANG_ENGLISH        "^1Section: ^7Patch us into security cameras for this deck."
+
+REFERENCE           KARMA_2_VOX_VOX_KAR_9_03_011A_HARP_D
+LANG_ENGLISH        "^1Harper: ^7These mall cops don't stand a chance against mercs."
+
+REFERENCE           KARMA_2_VOX_VOX_KAR_9_03_012A_SECT_D
+LANG_ENGLISH        "^1Section: ^7There!  He's in the mall!"
+
+REFERENCE           KARMA_2_VOX_VOX_KAR_9_03_013A_SECT_D
+LANG_ENGLISH        "^1Section: ^7Let's go!"
+
+REFERENCE           KARMA_2_VOX_VOX_KAR_9_03_016A_HARP_M
+LANG_ENGLISH        "^1Harper: ^7We can't let that Defalco bastard escape!"
+
+REFERENCE           KARMA_2_VOX_VOX_KAR_9_03_016A_HARP_S
+LANG_ENGLISH        "^1Harper: ^7We can't let Defalco escape!"
+
+REFERENCE           KARMA_2_VOX_VOX_KAR_9_03_017A_HARP_M
+LANG_ENGLISH        "^1Harper: ^7Dammit, we gotta pick up the pace, man!"
+
+REFERENCE           KARMA_2_VOX_VOX_KAR_9_03_017A_HARP_S
+LANG_ENGLISH        "^1Harper: ^7We gotta pick up the pace, man!"
+
+REFERENCE           KARMA_2_VOX_VOX_KAR_9_03_018A_HARP_D
+LANG_ENGLISH        "^1Harper: ^7Push through before DeFalco escapes!"
+
+REFERENCE           KARMA_2_VOX_VOX_KAR_9_03_019A_HARP_M
+LANG_ENGLISH        "^1Harper: ^7Ahh shit, man!  He's getting away!"
+
+REFERENCE           KARMA_2_VOX_VOX_KAR_9_03_019A_HARP_S
+LANG_ENGLISH        "^1Harper: ^7Let's move, man!  He's getting away!"
+
+REFERENCE           KARMA_2_VOX_VOX_KAR_9_03_020A_HARP_D
+LANG_ENGLISH        "^1Harper: ^7Briggs ain't gonna be happy if Defalco gets Chloe off the ship!"
+
+REFERENCE           KARMA_2_VOX_VOX_KAR_9_03_021A_HARP_D
+LANG_ENGLISH        "^1Harper: ^7Keep moving, Section."
+
+REFERENCE           KARMA_2_VOX_VOX_KAR_9_03_022A_HARP_D
+LANG_ENGLISH        "^1Harper: ^7We're losing ground!  We gotta move!"
+
+REFERENCE           KARMA_2_VOX_VOX_KAR_9_03_023A_SALA_M
+LANG_ENGLISH        "^1Salazar: ^7Where the hell is he?"
+
+REFERENCE           KARMA_2_VOX_VOX_KAR_9_03_023A_SALA_S
+LANG_ENGLISH        "^1Salazar: ^7Where is he?"
+
+REFERENCE           KARMA_2_VOX_VOX_KAR_9_03_024A_SALA_D
+LANG_ENGLISH        "^1Salazar: ^7We're going to lose him!"
+
+REFERENCE           KARMA_2_VOX_VOX_KAR_9_03_025A_SALA_D
+LANG_ENGLISH        "^1Salazar: ^7DeFalco's getting away."
+
+REFERENCE           KARMA_2_VOX_VOX_KAR_9_03_026A_SALA_D
+LANG_ENGLISH        "^1Salazar: ^7We have to move faster!"
+
+REFERENCE           KARMA_2_VOX_VOX_KAR_9_03_027A_SALA_D
+LANG_ENGLISH        "^1Salazar: ^7Don't slow down!"
+
+REFERENCE           KARMA_2_VOX_VOX_KAR_9_03_028A_SALA_D
+LANG_ENGLISH        "^1Salazar: ^7We're losing him!"
+
+REFERENCE           KARMA_2_VOX_VOX_KAR_9_03_029A_SALA_D
+LANG_ENGLISH        "^1Salazar: ^7Hurry, Section!  HURRY!!"
+
+REFERENCE           KARMA_2_VOX_VOX_KAR_9_03_030A_HARP_D
+LANG_ENGLISH        "^1Harper: ^7DeFalco's getting Chloe off the ship!"
+
+REFERENCE           KARMA_2_VOX_VOX_KAR_9_03_031A_HARP_D
+LANG_ENGLISH        "^1Harper: ^7Move!  We got to catch DeFalco!"
+
+REFERENCE           KARMA_2_VOX_VOX_KAR_9_04_002A_SALA_D
+LANG_ENGLISH        "^1Salazar: ^7Infantry rappelling in!"
+
+REFERENCE           KARMA_2_VOX_VOX_KAR_9_04_003A_HARP_D
+LANG_ENGLISH        "^1Harper: ^7They really want this Karma chick bad."
+
+REFERENCE           KARMA_2_VOX_VOX_KAR_9_04_004A_SECT_D
+LANG_ENGLISH        "^1Section: ^7Farid!  DeFalco's blowing the ship!"
+
+REFERENCE           KARMA_2_VOX_VOX_KAR_9_04_005A_HARP_M
+LANG_ENGLISH        "^1Harper: ^7Is that son of a bitch still on board?"
+
+REFERENCE           KARMA_2_VOX_VOX_KAR_9_04_005A_HARP_S
+LANG_ENGLISH        "^1Harper: ^7Is he still on board?"
+
+REFERENCE           KARMA_2_VOX_VOX_KAR_9_04_006A_FARI_D
+LANG_ENGLISH        "^1Farid: ^7I'm not sure.  I can't see."
+
+REFERENCE           KARMA_2_VOX_VOX_KAR_9_04_007A_FARI_D
+LANG_ENGLISH        "^1Farid: ^7I have him!  Exiting the mall!"
+
+REFERENCE           KARMA_2_VOX_VOX_KAR_9_04_008A_HARP_M
+LANG_ENGLISH        "^1Harper: ^7This bastard's really starting to piss me off!!"
+
+REFERENCE           KARMA_2_VOX_VOX_KAR_9_04_008A_HARP_S
+LANG_ENGLISH        "^1Harper: ^7This guy's really getting on my nerves!!"
+
+REFERENCE           KARMA_2_VOX_VOX_KAR_9_04_009A_SECT_D
+LANG_ENGLISH        "^1Section: ^7Farid, you have to jam DeFalco's detonator!"
+
+REFERENCE           KARMA_2_VOX_VOX_KAR_9_04_010A_FARI_D
+LANG_ENGLISH        "^1Farid: ^7I'm working on it!"
+
+REFERENCE           KARMA_2_VOX_VOX_KAR_9_04_011A_SECT_D
+LANG_ENGLISH        "^1Section: ^7Get it open."
+
+REFERENCE           KARMA_2_VOX_VOX_KAR_9_04_016A_HARP_D
+LANG_ENGLISH        "^1Harper: ^7Let's go people!  Get outta here!  Let's move!"
+
+REFERENCE           KARMA_2_VOX_VOX_KAR_9_04_017A_FARI_D
+LANG_ENGLISH        "^1Farid: ^7Colossus's defenses are now armed to respond to a terrorist attack."
+
+REFERENCE           KARMA_2_VOX_VOX_KAR_9_04_018A_FARI_D
+LANG_ENGLISH        "^1Farid: ^7Automated security will target armed personnel as hostile!"
+
+REFERENCE           KARMA_2_VOX_VOX_KAR_9_04_022A_FARI_D
+LANG_ENGLISH        "^1Farid: ^7ANY armed personnel."
+
+REFERENCE           KARMA_2_VOX_VOX_KAR_9_04_023A_HARP_D
+LANG_ENGLISH        "^1Harper: ^7At least it's not all bad news."
+
+REFERENCE           KARMA_2_VOX_VOX_KAR_9_04_024A_SECT_D
+LANG_ENGLISH        "^1Section: ^7Farid, can you hack an ASD unit at remote station 55?"
+
+REFERENCE           KARMA_2_VOX_VOX_KAR_9_04_027A_FARI_D
+LANG_ENGLISH        "^1Farid: ^7Station 55... 55.... Got it!"
+
+REFERENCE           KARMA_2_VOX_VOX_KAR_9_04_028A_FARI_D
+LANG_ENGLISH        "^1Farid: ^7Set parameters... ID monitor and protect..."
+
+REFERENCE           KARMA_2_VOX_VOX_KAR_9_04_029A_FARI_D
+LANG_ENGLISH        "^1Farid: ^7Initiate boot sequence..."
+
+REFERENCE           KARMA_2_VOX_VOX_KAR_9_04_030A_HARP_D
+LANG_ENGLISH        "^1Harper: ^7You're a miracle worker, Farid!"
+
+REFERENCE           KARMA_2_VOX_VOX_KAR_9_04_031A_HARP_M
+LANG_ENGLISH        "^1Harper: ^7Shit!  PMCs are already in the mall!"
+
+REFERENCE           KARMA_2_VOX_VOX_KAR_9_04_031A_HARP_S
+LANG_ENGLISH        "^1Harper: ^7PMCs are already in the mall!"
+
+REFERENCE           KARMA_2_VOX_VOX_KAR_9_04_032A_HARP_D
+LANG_ENGLISH        "^1Harper: ^7That includes the enemy?"
+
+REFERENCE           KARMA_2_VOX_VOX_KAR_9_05_001A_FARI_D
+LANG_ENGLISH        "^1Farid: ^7It's the cell phone!"
+
+REFERENCE           KARMA_2_VOX_VOX_KAR_9_05_002A_SECT_D
+LANG_ENGLISH        "^1Section: ^7Block the signal."
+
+REFERENCE           KARMA_2_VOX_VOX_KAR_9_05_003A_FARI_D
+LANG_ENGLISH        "^1Farid: ^7Okay, working on it."
+
+REFERENCE           KARMA_2_VOX_VOX_KAR_9_05_004A_FARI_D
+LANG_ENGLISH        "^1Farid: ^7You guys need to pick up the pace!  He's nearly at the Evac deck."
+
+REFERENCE           KARMA_2_VOX_VOX_KAR_9_05_005A_FARI_D
+LANG_ENGLISH        "^1Farid: ^7DeFalco's gone to a lot of trouble to get this woman."
+
+REFERENCE           KARMA_2_VOX_VOX_KAR_9_05_006A_FARI_D
+LANG_ENGLISH        "^1Farid: ^7He will not hesitate to send Colossus to the bottom of the ocean just to cover his tracks."
+
+REFERENCE           KARMA_2_VOX_VOX_KAR_9_05_007A_DEFA_D
+LANG_ENGLISH        "^1Defalco: ^7We're done here."
+
+REFERENCE           KARMA_2_VOX_VOX_KAR_9_05_008A_CHLO_D
+LANG_ENGLISH        "^1Chloe: ^7Done?  I am only coming with you because people were dying."
+
+REFERENCE           KARMA_2_VOX_VOX_KAR_9_05_009A_DEFA_D
+LANG_ENGLISH        "^1Defalco: ^7People are always dying."
+
+REFERENCE           KARMA_2_VOX_VOX_KAR_9_05_010A_CHLO_M
+LANG_ENGLISH        "^1Chloe: ^7Just because you've found me doesn't mean I'm going to give you fucking nutjobs what you want."
+
+REFERENCE           KARMA_2_VOX_VOX_KAR_9_05_010A_CHLO_S
+LANG_ENGLISH        "^1Chloe: ^7Just because you've found me doesn't mean I'm going to give you all the info that you want."
+
+REFERENCE           KARMA_2_VOX_VOX_KAR_9_05_011A_DEFA_D
+LANG_ENGLISH        "^1Defalco: ^7Yes you will."
+
+REFERENCE           KARMA_2_VOX_VOX_KAR_9_05_012A_SECT_D
+LANG_ENGLISH        "^1Section: ^7Salazar."
+
+REFERENCE           KARMA_2_VOX_VOX_KAR_9_05_013A_CHLO_M
+LANG_ENGLISH        "^1Chloe: ^7You need to get it through your souless fucking brain, I am done."
+
+REFERENCE           KARMA_2_VOX_VOX_KAR_9_05_013A_CHLO_S
+LANG_ENGLISH        "^1Chloe: ^7You need to get it through your souless little brain, I am done."
+
+REFERENCE           KARMA_2_VOX_VOX_KAR_9_05_014A_DEFA_D
+LANG_ENGLISH        "^1Defalco: ^7Shut up Karma."
+
+REFERENCE           KARMA_2_VOX_VOX_KAR_9_05_015A_FARI_D
+LANG_ENGLISH        "^1Farid: ^7Whatever attack Menendez is planning, she is part of it. You CANNOT let them take her."
+
+REFERENCE           KARMA_2_VOX_VOX_KAR_9_05_016A_HARP_D
+LANG_ENGLISH        "^1Harper: ^7He's right, Section.  If it comes to it, we're gonna have to take her down."
+
+REFERENCE           KARMA_2_VOX_VOX_KAR_9_05_017A_HARP_D
+LANG_ENGLISH        "^1Harper: ^7Just try not to kill her."
+
+REFERENCE           KARMA_2_VOX_VOX_KAR_9_05_018A_SECT_D
+LANG_ENGLISH        "^1Section: ^7You take the guards.  I'll take the girl."
+
+REFERENCE           KARMA_2_VOX_VOX_KAR_9_05_019A_DEFA_M
+LANG_ENGLISH        "^1Defalco: ^7You REALLY fucked up!!"
+
+REFERENCE           KARMA_2_VOX_VOX_KAR_9_05_019A_DEFA_S
+LANG_ENGLISH        "^1Defalco: ^7You REALLY messed up!!"
+
+REFERENCE           KARMA_2_VOX_VOX_KAR_9_05_020A_HARP_D
+LANG_ENGLISH        "^1Harper: ^7Salazar!"
+
+REFERENCE           KARMA_2_VOX_VOX_KAR_9_05_021A_DEFA_D
+LANG_ENGLISH        "^1Defalco: ^7Get us out of here, now!"
+
+REFERENCE           KARMA_2_VOX_VOX_KAR_9_05_022A_SECT_M
+LANG_ENGLISH        "^1Section: ^7Bastard!!"
+
+REFERENCE           KARMA_2_VOX_VOX_KAR_9_05_022A_SECT_S
+LANG_ENGLISH        "^1Section: ^7He's getting away!!"
+
+REFERENCE           KARMA_2_VOX_VOX_KAR_9_05_023A_FARI_D
+LANG_ENGLISH        "^1Farid: ^7The detonator!"
+
+REFERENCE           KARMA_2_VOX_VOX_KAR_9_05_024A_SECT_M
+LANG_ENGLISH        "^1Section: ^7Farid!  Defalco escaped!  He'll blow the ship as soon as he's clear."
+
+REFERENCE           KARMA_2_VOX_VOX_KAR_9_05_025A_FARI_D
+LANG_ENGLISH        "^1Farid: ^7Not anymore.  The detonator signal's jammed."
+
+REFERENCE           KARMA_2_VOX_VOX_KAR_9_05_026A_HARP_D
+LANG_ENGLISH        "^1Harper: ^7Nice going, Egghead."
+
+REFERENCE           KARMA_2_VOX_VOX_KAR_9_05_027A_SECT_D
+LANG_ENGLISH        "^1Section: ^7Good to know."
+
+REFERENCE           KARMA_2_VOX_VOX_KAR_9_05_028A_SECT_M
+LANG_ENGLISH        "^1Section: ^7Lights out, Fucker."
+
+REFERENCE           KARMA_2_VOX_VOX_KAR_9_05_028A_SECT_S
+LANG_ENGLISH        "^1Section: ^7Lights out, DeFalco."
+
+REFERENCE           KARMA_2_VOX_VOX_KAR_9_05_029A_SECT_D
+LANG_ENGLISH        "^1Section: ^7We're leaving.  How is she?"
+
+REFERENCE           KARMA_2_VOX_VOX_KAR_9_05_030A_HARP_D
+LANG_ENGLISH        "^1Harper: ^7It's okay, it's okay... She'll live.  Okay... C'mon... Let's go.  Let's go.  Here.  This way.  I got you."
+
+REFERENCE           KARMA_2_VOX_VOX_KAR_9_05_031A_HARP_M
+LANG_ENGLISH        "^1Harper: ^7She's fucking dead... and we don't know a damn thing about her."
+
+REFERENCE           KARMA_2_VOX_VOX_KAR_9_05_031A_HARP_S
+LANG_ENGLISH        "^1Harper: ^7She's ------- dead... and we don't know a single thing about her."
+
+REFERENCE           KARMA_2_VOX_VOX_KAR_9_05_032A_SECT_D
+LANG_ENGLISH        "^1Section: ^7You okay, Sal?"
+
+REFERENCE           KARMA_2_VOX_VOX_KAR_9_05_033A_SALA_D
+LANG_ENGLISH        "^1Salazar: ^7I... I am okay."
+
+REFERENCE           KARMA_2_VOX_VOX_KAR_9_05_034A_SECT_D
+LANG_ENGLISH        "^1Section: ^7No!!"
+
+REFERENCE           KARMA_2_VOX_VOX_KAR_9_05_035A_SECT_D
+LANG_ENGLISH        "^1Section: ^7We need to get back to the Obama..."
+
+REFERENCE           KARMA_2_VOX_VOX_KAR_9_05_036A_SECT_D
+LANG_ENGLISH        "^1Section: ^7Find out why the girl's so important to Menendez.."
+
+REFERENCE           KARMA_2_VOX_VOX_KAR_9_05_037A_HARP_D
+LANG_ENGLISH        "^1Harper: ^7Sal, help me with the garbage."
+
+REFERENCE           KARMA_2_VOX_VOX_KAR_9_05_038A_SECT_D
+LANG_ENGLISH        "^1Section: ^7So, without your expertise, Menendez's plans for Celerium will have hit a roadblock."
+
+REFERENCE           KARMA_2_VOX_VOX_KAR_9_05_039A_HARP_D
+LANG_ENGLISH        "^1Harper: ^7We can't let him take her, Section!"
+
+REFERENCE           KARMA_2_VOX_VOX_KAR_9_05_040A_SECT_D
+LANG_ENGLISH        "^1Section: ^7I know..."
+
+REFERENCE           KARMA_2_VOX_VOX_KAR_9_05_041A_SECT_D
+LANG_ENGLISH        "^1Section: ^7I'm sorry, Chloe..."
+
+REFERENCE           KARMA_2_VOX_VOX_KAR_9_05_042A_SECT_D
+LANG_ENGLISH        "^1Section: ^7Find out why the girl was so important to Menendez.."
+
+REFERENCE           KARMA_2_VOX_VOX_KAR_9_05_043A_KARM_D
+LANG_ENGLISH        "^1Karma: ^7It may slow his progress, but it won't stop him.  He will get what he wants... Believe me."
+
+REFERENCE           KARMA_ACCESSING_SOURCE_DATA
+LANG_ENGLISH        "ACCESSING SOURCE DATA..."
+
+REFERENCE           KARMA_ACCESS_GRANTED
+LANG_ENGLISH        "ACCESS GRANTED"
+
+REFERENCE           KARMA_DEFALCO_ENDLEVEL_FATAL_SHOT
+LANG_ENGLISH        "Defalco shot, mission failure."
+
+REFERENCE           KARMA_ELECTRICAL_FIELD_DEATH_HINT
+LANG_ENGLISH        "Electrical fields will damage Ziggy"
+
+REFERENCE           KARMA_ENDLEVEL_FAILED_TO_SHOOT_KARMA
+LANG_ENGLISH        "Failed to disable Karma"
+
+REFERENCE           KARMA_FAILED_LOST_SIGNAL
+LANG_ENGLISH        "SIGNAL LOST"
+
+REFERENCE           KARMA_FAN_DEATH_HINT
+LANG_ENGLISH        "Avoid falling into the fans\n"
+
+REFERENCE           KARMA_HINT_ATTACK
+LANG_ENGLISH        "Press ^3[{+attack}]^7"
+
+REFERENCE           KARMA_HINT_LOOK_DOWN
+LANG_ENGLISH        "^3[{+rsdown}]^7"
+
+REFERENCE           KARMA_HINT_LOOK_LEFT
+LANG_ENGLISH        "^3[{+rsleft}]^7"
+
+REFERENCE           KARMA_HINT_LOOK_RIGHT
+LANG_ENGLISH        "^3[{+rsright}]^7"
+
+REFERENCE           KARMA_HINT_LOOK_UP
+LANG_ENGLISH        "^3[{+rsup}]^7"
+
+REFERENCE           KARMA_HINT_MELEE
+LANG_ENGLISH        "Click ^3[{+melee}]^7"
+
+REFERENCE           KARMA_HINT_MOVE_DOWN
+LANG_ENGLISH        "^3[{+lsdown}]^7 ^3[{+rsdown}]^7"
+
+REFERENCE           KARMA_HINT_MOVE_LEFT
+LANG_ENGLISH        "^3[{+lsleft}]^7 ^3[{+rsleft}]^7"
+
+REFERENCE           KARMA_HINT_MOVE_RIGHT
+LANG_ENGLISH        "^3[{+lsright}]^7 ^3[{+rsright}]^7"
+
+REFERENCE           KARMA_HINT_MOVE_UP
+LANG_ENGLISH        "^3[{+lsup}]^7 ^3[{+rsup}]^7"
+
+REFERENCE           KARMA_HINT_SPIDERBOT_CLIMB
+LANG_ENGLISH        "Ziggy can cling to most surfaces"
+
+REFERENCE           KARMA_HINT_SPIDERBOT_JUMP
+LANG_ENGLISH        "Press ^3[{+gostand}]^7 to jump"
+
+REFERENCE           KARMA_HINT_SPIDERBOT_REGISTER
+LANG_ENGLISH        "Register now to extend your warranty and be notified of important updates!"
+
+REFERENCE           KARMA_HINT_SPIDERBOT_TAZER
+LANG_ENGLISH        "Press ^3[{+attack}]^7 to fire zapper"
+
+REFERENCE           KARMA_HINT_SPRINT
+LANG_ENGLISH        "Click ^3[{+breath_sprint}]^7"
+
+REFERENCE           KARMA_HINT_UNZOOM
+LANG_ENGLISH        "^3[{+lsright}]^7 ^3[{+rsleft}]^7"
+
+REFERENCE           KARMA_HINT_USE
+LANG_ENGLISH        "Press ^3[{+activate}]^7"
+
+REFERENCE           KARMA_HINT_ZOOM
+LANG_ENGLISH        "^3[{+lsleft}]^7 ^3[{+rsright}]^7"
+
+REFERENCE           KARMA_INTROSCREEN_LINE_1
+LANG_ENGLISH        "^L\"KARMA\"^L"
+
+REFERENCE           KARMA_INTROSCREEN_LINE_2
+LANG_ENGLISH        "COLOSSUS, ^LCAYMAN ISLANDS^L"
+
+REFERENCE           KARMA_INTROSCREEN_LINE_3
+LANG_ENGLISH        "DAVID MASON // CODENAME: ^L'SECTION'^L"
+
+REFERENCE           KARMA_INTROSCREEN_LINE_4
+LANG_ENGLISH        "^LJSOC^L COUNTER TERRORIST FORCE"
+
+REFERENCE           KARMA_INTROSCREEN_LINE_5
+LANG_ENGLISH        "JUNE 12th, ^L2025^L"
+
+REFERENCE           KARMA_KARMA_ENDLEVEL_FATAL_SHOT
+LANG_ENGLISH        "Karma killed, mission failure\n"
+
+REFERENCE           KARMA_LOWLIGHT_OFF
+LANG_ENGLISH        "Low Light Vision Disabled"
+
+REFERENCE           KARMA_LOWLIGHT_ON
+LANG_ENGLISH        "Low Light Vision Activated"
+
+REFERENCE           KARMA_MATCH_COMPLETE
+LANG_ENGLISH        "MATCH COMPLETE"
+
+REFERENCE           KARMA_MSG_ASD_SYNC
+LANG_ENGLISH        "INITIALIZING DATA LINK"
+
+REFERENCE           KARMA_OBJ_CRC_GUY
+LANG_ENGLISH        "Stun the CRC worker"
+
+REFERENCE           KARMA_OBJ_DISABLE_ZAPPER
+LANG_ENGLISH        "Disable the electro-static filter"
+
+REFERENCE           KARMA_OBJ_EXIT_CLUB
+LANG_ENGLISH        "Stop Defalco from escaping with Karma"
+
+REFERENCE           KARMA_OBJ_FIND_CRC
+LANG_ENGLISH        "Head to the CRC"
+
+REFERENCE           KARMA_OBJ_GET_TO_CLUB
+LANG_ENGLISH        "Get to Club Solar"
+
+REFERENCE           KARMA_OBJ_ID_KARMA
+LANG_ENGLISH        "Access CRC computer and search for Karma"
+
+REFERENCE           KARMA_OBJ_INFILTRATE_CRC
+LANG_ENGLISH        "Infiltrate the CRC room"
+
+REFERENCE           KARMA_OBJ_KILL_CLUB_GUARDS
+LANG_ENGLISH        "Neutralize all remaining terrorists"
+
+REFERENCE           KARMA_OBJ_MEET_KARMA
+LANG_ENGLISH        "Rendezvous inside Club Solar"
+
+REFERENCE           KARMA_OBJ_SECURITY
+LANG_ENGLISH        "Get through security checkpoint"
+
+REFERENCE           KARMA_PICKUP_SPIDERBOT_HINT
+LANG_ENGLISH        "Hold ^3[{+activate}]^7 to pick up Ziggy"
+
+REFERENCE           KARMA_TAZE_FAIL_HINT
+LANG_ENGLISH        "Taze your target before he damages Ziggy"
+
+REFERENCE           KARMA_TRESPASSER_DATA
+LANG_ENGLISH        "Retrieving data..."
+
+REFERENCE           KARMA_VOX_VOX_KAR_11_01_001A_SECT_D
+LANG_ENGLISH        "^1Section: ^7Comms are open, Farid.  We're all listening."
+
+REFERENCE           KARMA_VOX_VOX_KAR_11_01_002A_FARI_D
+LANG_ENGLISH        "^1Farid: ^7Okay..."
+
+REFERENCE           KARMA_VOX_VOX_KAR_11_01_003A_FARI_D
+LANG_ENGLISH        "^1Farid: ^7The ID bands identify you as union inspectors."
+
+REFERENCE           KARMA_VOX_VOX_KAR_11_01_004A_FARI_D
+LANG_ENGLISH        "^1Farid: ^7You'll have access to most areas... uh... except the one you actually want."
+
+REFERENCE           KARMA_VOX_VOX_KAR_11_01_005A_FARI_D
+LANG_ENGLISH        "^1Farid: ^7The Central Records Computer is subject to increased security.  Access is only permitted via retina scan. That's... where Ziggy comes in."
+
+REFERENCE           KARMA_VOX_VOX_KAR_11_01_006A_SECT_D
+LANG_ENGLISH        "^1Section: ^7In short, the CRC's our best shot of locating Karma before DeFalco's people."
+
+REFERENCE           KARMA_VOX_VOX_KAR_11_01_007A_SECT_D
+LANG_ENGLISH        "^1Section: ^7Farid, did you manage to access the personnel files?"
+
+REFERENCE           KARMA_VOX_VOX_KAR_11_01_008A_FARI_D
+LANG_ENGLISH        "^1Farid: ^7Uhh... Not yet.  The encryption is very complicated."
+
+REFERENCE           KARMA_VOX_VOX_KAR_11_01_009A_SECT_D
+LANG_ENGLISH        "^1Section: ^7You're smart.  I have faith in ya.  Section out."
+
+REFERENCE           KARMA_VOX_VOX_KAR_12_01_001A_SALA_D
+LANG_ENGLISH        "^1Salazar: ^7So this is how the 1% live."
+
+REFERENCE           KARMA_VOX_VOX_KAR_12_01_003A_FARI_D
+LANG_ENGLISH        "^1Farid: ^7Okay, stay cool..."
+
+REFERENCE           KARMA_VOX_VOX_KAR_12_01_005A_SALA_M
+LANG_ENGLISH        "^1Salazar: ^7We're all going to hell, man."
+
+REFERENCE           KARMA_VOX_VOX_KAR_12_01_005A_SALA_S
+LANG_ENGLISH        "^1Salazar: ^7We're all going to pay, man."
+
+REFERENCE           KARMA_VOX_VOX_KAR_12_01_008A_HARP_M
+LANG_ENGLISH        "^1Harper: ^7No shit..."
+
+REFERENCE           KARMA_VOX_VOX_KAR_12_01_008A_HARP_S
+LANG_ENGLISH        "^1Harper: ^7No kidding?"
+
+REFERENCE           KARMA_VOX_VOX_KAR_12_01_009A_HARP_D
+LANG_ENGLISH        "^1Harper: ^7Whoa!  How you doing, beautiful?"
+
+REFERENCE           KARMA_VOX_VOX_KAR_12_02_001A_SECT_D
+LANG_ENGLISH        "^1Section: ^7Harper, sweep the floor.  Salazar and I will proceed to the insertion point."
+
+REFERENCE           KARMA_VOX_VOX_KAR_12_02_002A_HARP_D
+LANG_ENGLISH        "^1Harper: ^7Copy that."
+
+REFERENCE           KARMA_VOX_VOX_KAR_12_02_003A_SECT_D
+LANG_ENGLISH        "^1Section: ^7Harper, heads up.  The Mercs are priming explosives on board."
+
+REFERENCE           KARMA_VOX_VOX_KAR_12_02_011A_GUAR_D
+LANG_ENGLISH        "^1Guard: ^7Hey! You shouldn't be in here."
+
+REFERENCE           KARMA_VOX_VOX_KAR_12_02_012A_SECT_D
+LANG_ENGLISH        "^1Section: ^7We have Union IDs."
+
+REFERENCE           KARMA_VOX_VOX_KAR_12_02_014A_FARI_D
+LANG_ENGLISH        "^1Farid: ^7Okay... Section, I'm in."
+
+REFERENCE           KARMA_VOX_VOX_KAR_12_02_015A_SECT_D
+LANG_ENGLISH        "^1Section: ^7Go ahead."
+
+REFERENCE           KARMA_VOX_VOX_KAR_12_02_016A_FARI_D
+LANG_ENGLISH        "^1Farid: ^7Colossus recently employed Private Military Contractors to augment its regular security team... all ex-Cuban militia."
+
+REFERENCE           KARMA_VOX_VOX_KAR_12_02_017A_SECT_M
+LANG_ENGLISH        "^1Section: ^7No shit.   We just ran into some of 'em."
+
+REFERENCE           KARMA_VOX_VOX_KAR_12_02_017A_SECT_S
+LANG_ENGLISH        "^1Section: ^7Yeah.   We just ran into some of 'em."
+
+REFERENCE           KARMA_VOX_VOX_KAR_12_02_018A_SECT_D
+LANG_ENGLISH        "^1Section: ^7Watch for anything suspicious.  We need to know their objective."
+
+REFERENCE           KARMA_VOX_VOX_KAR_12_02_019A_SECT_D
+LANG_ENGLISH        "^1Section: ^7Harper, the security team's been compromised by PMCs.  They're hostile."
+
+REFERENCE           KARMA_VOX_VOX_KAR_12_02_020A_HARP_D
+LANG_ENGLISH        "^1Harper: ^7Understood."
+
+REFERENCE           KARMA_VOX_VOX_KAR_12_02_021A_SECT_D
+LANG_ENGLISH        "^1Section: ^7Alright, Ziggy... Time to go to work."
+
+REFERENCE           KARMA_VOX_VOX_KAR_12_02_022A_SALA_D
+LANG_ENGLISH        "^1Salazar: ^7Wait."
+
+REFERENCE           KARMA_VOX_VOX_KAR_12_02_023A_SALA_D
+LANG_ENGLISH        "^1Salazar: ^7What are they doing?"
+
+REFERENCE           KARMA_VOX_VOX_KAR_12_02_024A_SECT_D
+LANG_ENGLISH        "^1Section: ^7Planting explosives."
+
+REFERENCE           KARMA_VOX_VOX_KAR_12_02_025A_SALA_D
+LANG_ENGLISH        "^1Salazar: ^7They're going to blow the ship?"
+
+REFERENCE           KARMA_VOX_VOX_KAR_12_02_026A_SECT_D
+LANG_ENGLISH        "^1Section: ^7Not before they've secured Karma."
+
+REFERENCE           KARMA_VOX_VOX_KAR_12_02_028A_HARP_D
+LANG_ENGLISH        "^1Harper: ^7I'm tailing some of these guys right now.  They're headed your way!"
+
+REFERENCE           KARMA_VOX_VOX_KAR_12_02_029A_SECT_M
+LANG_ENGLISH        "^1Section: ^7Dammit."
+
+REFERENCE           KARMA_VOX_VOX_KAR_12_02_029A_SECT_S
+LANG_ENGLISH        "^1Section: ^7Alright..."
+
+REFERENCE           KARMA_VOX_VOX_KAR_12_02_030A_SECT_D
+LANG_ENGLISH        "^1Section: ^7We'd better get moving."
+
+REFERENCE           KARMA_VOX_VOX_KAR_12_02_031A_SALA_D
+LANG_ENGLISH        "^1Salazar: ^7Should be a control box nearby."
+
+REFERENCE           KARMA_VOX_VOX_KAR_12_02_032A_SALA_D
+LANG_ENGLISH        "^1Salazar: ^7Taze it."
+
+REFERENCE           KARMA_VOX_VOX_KAR_12_02_033A_SALA_D
+LANG_ENGLISH        "^1Salazar: ^7Okay."
+
+REFERENCE           KARMA_VOX_VOX_KAR_12_02_034A_SECT_D
+LANG_ENGLISH        "^1Section: ^7There's our mark."
+
+REFERENCE           KARMA_VOX_VOX_KAR_12_02_039A_SALA_D
+LANG_ENGLISH        "^1Salazar: ^7Taze him, Section!"
+
+REFERENCE           KARMA_VOX_VOX_KAR_12_02_040A_SECT_D
+LANG_ENGLISH        "^1Section: ^7Scanning now."
+
+REFERENCE           KARMA_VOX_VOX_KAR_12_02_043A_SECT_D
+LANG_ENGLISH        "^1Section: ^7It's the PMCs!"
+
+REFERENCE           KARMA_VOX_VOX_KAR_12_02_044A_SECT_D
+LANG_ENGLISH        "^1Section: ^7Harper, you were right.  They're already inside the server room!"
+
+REFERENCE           KARMA_VOX_VOX_KAR_12_02_045A_SECT_D
+LANG_ENGLISH        "^1Section: ^7Let's go."
+
+REFERENCE           KARMA_VOX_VOX_KAR_12_02_046A_SECT_D
+LANG_ENGLISH        "^1Section: ^7Come on, come on..."
+
+REFERENCE           KARMA_VOX_VOX_KAR_12_02_047A_SECT_D
+LANG_ENGLISH        "^1Section: ^7Ready?"
+
+REFERENCE           KARMA_VOX_VOX_KAR_12_02_048A_SECT_D
+LANG_ENGLISH        "^1Section: ^7Go!"
+
+REFERENCE           KARMA_VOX_VOX_KAR_12_02_049A_SALA_D
+LANG_ENGLISH        "^1Salazar: ^7Clear."
+
+REFERENCE           KARMA_VOX_VOX_KAR_12_02_051A_SECT_D
+LANG_ENGLISH        "^1Section: ^7Placing the uplink."
+
+REFERENCE           KARMA_VOX_VOX_KAR_12_02_052A_SECT_D
+LANG_ENGLISH        "^1Section: ^7You sure this will work, Farid?"
+
+REFERENCE           KARMA_VOX_VOX_KAR_12_02_053A_FARI_D
+LANG_ENGLISH        "^1Farid: ^7I thought you had faith in me?"
+
+REFERENCE           KARMA_VOX_VOX_KAR_12_02_054A_FARI_D
+LANG_ENGLISH        "^1Farid: ^7Okay... We're in."
+
+REFERENCE           KARMA_VOX_VOX_KAR_12_02_055A_SECT_D
+LANG_ENGLISH        "^1Section: ^7The Karma weapon may have been smuggled on board alongside regular supplies."
+
+REFERENCE           KARMA_VOX_VOX_KAR_12_02_056A_SECT_D
+LANG_ENGLISH        "^1Section: ^7Search supply manifest.  Keyword 'Karma'."
+
+REFERENCE           KARMA_VOX_VOX_KAR_12_02_057A_SECT_D
+LANG_ENGLISH        "^1Section: ^7Nothing."
+
+REFERENCE           KARMA_VOX_VOX_KAR_12_02_058A_SECT_D
+LANG_ENGLISH        "^1Section: ^7Search automated security systems.  Keyword 'Karma'."
+
+REFERENCE           KARMA_VOX_VOX_KAR_12_02_059A_SECT_D
+LANG_ENGLISH        "^1Section: ^7We're missing something."
+
+REFERENCE           KARMA_VOX_VOX_KAR_12_02_060A_SECT_D
+LANG_ENGLISH        "^1Section: ^7Search security camera image database.  Text recognition 'Karma'."
+
+REFERENCE           KARMA_VOX_VOX_KAR_12_02_061A_SALA_D
+LANG_ENGLISH        "^1Salazar: ^7There."
+
+REFERENCE           KARMA_VOX_VOX_KAR_12_02_062A_SECT_D
+LANG_ENGLISH        "^1Section: ^7Karma isn't a weapon.  It's a woman."
+
+REFERENCE           KARMA_VOX_VOX_KAR_12_02_063A_FARI_D
+LANG_ENGLISH        "^1Farid: ^7Chloe Lynch.  Former employee of TACITUS... Recently resigned."
+
+REFERENCE           KARMA_VOX_VOX_KAR_12_02_064A_SECT_D
+LANG_ENGLISH        "^1Section: ^7Now we know her name.  We can we track her location on the ship."
+
+REFERENCE           KARMA_VOX_VOX_KAR_12_02_065A_SALA_D
+LANG_ENGLISH        "^1Salazar: ^7Upstairs.  Club Solar."
+
+REFERENCE           KARMA_VOX_VOX_KAR_12_02_068A_SECT_D
+LANG_ENGLISH        "^1Section: ^7Farid.  I need to be able to ID the enemy."
+
+REFERENCE           KARMA_VOX_VOX_KAR_12_02_069A_SECT_D
+LANG_ENGLISH        "^1Section: ^7Live link the PMCs listed in the personnel files with their BIOMETRIC IDs."
+
+REFERENCE           KARMA_VOX_VOX_KAR_12_02_070A_FARI_D
+LANG_ENGLISH        "^1Farid: ^7You got it."
+
+REFERENCE           KARMA_VOX_VOX_KAR_12_02_071A_SECT_D
+LANG_ENGLISH        "^1Section: ^7Upload the data to my HUD."
+
+REFERENCE           KARMA_VOX_VOX_KAR_12_02_074A_SECT_D
+LANG_ENGLISH        "^1Section: ^7Harper, Karma is NOT a weapon.  She's a girl.  I'm sending you her picture now."
+
+REFERENCE           KARMA_VOX_VOX_KAR_12_02_075A_HARP_D
+LANG_ENGLISH        "^1Harper: ^7Got it... Hey!  Hey, hey, hey!  That's the chick I saw in the elevator!"
+
+REFERENCE           KARMA_VOX_VOX_KAR_12_02_076A_SECT_D
+LANG_ENGLISH        "^1Section: ^7She's in Club Solar, but you'd better make it there fast!  The PMCs are moving on her right now!"
+
+REFERENCE           KARMA_VOX_VOX_KAR_12_02_077A_HARP_D
+LANG_ENGLISH        "^1Harper: ^7I'm on it."
+
+REFERENCE           KARMA_VOX_VOX_KAR_12_02_081A_KARM_D
+LANG_ENGLISH        "^1Karma: ^7You?"
+
+REFERENCE           KARMA_VOX_VOX_KAR_12_02_082A_HARP_D
+LANG_ENGLISH        "^1Harper: ^7Chloe... Chloe, you need to come with me now!"
+
+REFERENCE           KARMA_VOX_VOX_KAR_12_02_083A_KARM_M
+LANG_ENGLISH        "^1Karma: ^7Who the hell are you?!  How'd you know my name?!"
+
+REFERENCE           KARMA_VOX_VOX_KAR_12_02_083A_KARM_S
+LANG_ENGLISH        "^1Karma: ^7Who are you?!  How'd you know my name?!"
+
+REFERENCE           KARMA_VOX_VOX_KAR_12_02_084A_HARP_D
+LANG_ENGLISH        "^1Harper: ^7I'm Mike Harper, a Navy Seal."
+
+REFERENCE           KARMA_VOX_VOX_KAR_12_02_085A_KARM_M
+LANG_ENGLISH        "^1Karma: ^7Get the fuck away from me!"
+
+REFERENCE           KARMA_VOX_VOX_KAR_12_02_085A_KARM_S
+LANG_ENGLISH        "^1Karma: ^7Get... Get away from me!"
+
+REFERENCE           KARMA_VOX_VOX_KAR_12_02_086A_HARP_D
+LANG_ENGLISH        "^1Harper: ^7Listen, you hear me?  Your life is in danger.  Terrorists are coming for you NOW!"
+
+REFERENCE           KARMA_VOX_VOX_KAR_12_02_087A_KARM_D
+LANG_ENGLISH        "^1Karma: ^7Terrorists?!  What are you talking about?"
+
+REFERENCE           KARMA_VOX_VOX_KAR_12_02_088A_HARP_D
+LANG_ENGLISH        "^1Harper: ^7Chloe, they've been sent by Raul Menendez."
+
+REFERENCE           KARMA_VOX_VOX_KAR_12_02_089A_SECT_D
+LANG_ENGLISH        "^1Section: ^7Secure her, Harper.  We're on our way."
+
+REFERENCE           KARMA_VOX_VOX_KAR_12_02_090A_SECT_D
+LANG_ENGLISH        "^1Section: ^7Salazar, find another way into the club.  Get a vantage point on the crowds."
+
+REFERENCE           KARMA_VOX_VOX_KAR_12_02_091A_SECT_D
+LANG_ENGLISH        "^1Section: ^7Harper, where are you?"
+
+REFERENCE           KARMA_VOX_VOX_KAR_12_02_092A_HARP_D
+LANG_ENGLISH        "^1Harper: ^7We're on the dance floor!"
+
+REFERENCE           KARMA_VOX_VOX_KAR_12_02_093A_SECT_D
+LANG_ENGLISH        "^1Section: ^7On my way."
+
+REFERENCE           KARMA_VOX_VOX_KAR_12_02_094A_SECT_D
+LANG_ENGLISH        "^1Section: ^7We have to leave now, Chloe!"
+
+REFERENCE           KARMA_VOX_VOX_KAR_12_02_095A_SALA_D
+LANG_ENGLISH        "^1Salazar: ^7SECTION!"
+
+REFERENCE           KARMA_VOX_VOX_KAR_12_02_096A_SALA_D
+LANG_ENGLISH        "^1Salazar: ^7At least ten mercs, taking hostages!"
+
+REFERENCE           KARMA_VOX_VOX_KAR_12_02_097A_DEFA_D
+LANG_ENGLISH        "^1Defalco: ^7Chloe Lynch!"
+
+REFERENCE           KARMA_VOX_VOX_KAR_12_02_098A_SECT_D
+LANG_ENGLISH        "^1Section: ^7He's got hostages.  Hold fire."
+
+REFERENCE           KARMA_VOX_VOX_KAR_12_02_099A_DEFA_D
+LANG_ENGLISH        "^1Defalco: ^7Chloe?"
+
+REFERENCE           KARMA_VOX_VOX_KAR_12_03_002A_SECT_D
+LANG_ENGLISH        "^1Section: ^7Salazar.  Take the shot."
+
+REFERENCE           KARMA_VOX_VOX_KAR_12_03_003A_DEFA_D
+LANG_ENGLISH        "^1Defalco: ^7Five seconds, Chloe."
+
+REFERENCE           KARMA_VOX_VOX_KAR_12_03_004A_SALA_D
+LANG_ENGLISH        "^1Salazar: ^7No shot.  Too many hostages."
+
+REFERENCE           KARMA_VOX_VOX_KAR_12_03_005A_KARM_D
+LANG_ENGLISH        "^1Karma: ^7NO!!!"
+
+REFERENCE           KARMA_VOX_VOX_KAR_12_03_006A_DEFA_D
+LANG_ENGLISH        "^1Defalco: ^7Open fire!"
+
+REFERENCE           KARMA_VOX_VOX_KAR_12_03_008A_HARP_M
+LANG_ENGLISH        "^1Harper: ^7Let's kill that sick fuck!"
+
+REFERENCE           KARMA_VOX_VOX_KAR_12_03_008A_HARP_S
+LANG_ENGLISH        "^1Harper: ^7Let's kill this 'Defalco'!"
+
+REFERENCE           KARMA_VOX_VOX_KAR_12_03_009A_SECT_D
+LANG_ENGLISH        "^1Section: ^7DeFalco has Karma!  We're in pursuit."
+
+REFERENCE           KARMA_VOX_VOX_KAR_12_03_010A_SECT_D
+LANG_ENGLISH        "^1Section: ^7We need you to track their movements, Farid.  We can't let them get off the ship!"
+
+REFERENCE           KARMA_VOX_VOX_KAR_12_03_015A_SALA_D
+LANG_ENGLISH        "^1Salazar: ^7Understood."
+
+REFERENCE           KARMA_VOX_VOX_KAR_12_03_016A_SALA_D
+LANG_ENGLISH        "^1Salazar: ^7Section, you hear that?  More PMCs outside the door!"
+
+REFERENCE           KARMA_VOX_VOX_KAR_12_03_017A_SECT_D
+LANG_ENGLISH        "^1Section: ^7Farid.  We've enemies right outside... No way round."
+
+REFERENCE           KARMA_VOX_VOX_KAR_12_03_018A_SECT_D
+LANG_ENGLISH        "^1Section: ^7Open the CRC room door."
+
+REFERENCE           KARMA_VOX_VOX_KAR_12_03_035A_SECT_D
+LANG_ENGLISH        "^1Section: ^7Split up.  Take the elevator to the upper floor."
+
+REFERENCE           KARMA_VOX_VOX_KAR_12_03_036A_SALA_D
+LANG_ENGLISH        "^1Salazar: ^7Understood."
+
+REFERENCE           KARMA_VOX_VOX_KAR_12_03_037A_SALA_D
+LANG_ENGLISH        "^1Salazar: ^7Section, I'm in position on the club balcony."
+
+REFERENCE           KARMA_VOX_VOX_KAR_12_03_037A_SECT_D
+LANG_ENGLISH        "^1Section: ^7I'll regroup with Harper."
+
+REFERENCE           KARMA_VOX_VOX_KAR_12_03_039A_DEFA_D
+LANG_ENGLISH        "^1Defalco: ^7No?"
+
+REFERENCE           KARMA_VOX_VOX_KAR_12_03_040A_HARP_D
+LANG_ENGLISH        "^1Harper: ^7Peel left, peel left!"
+
+REFERENCE           KARMA_VOX_VOX_KAR_12_03_041A_SECT_D
+LANG_ENGLISH        "^1Section: ^7Moving!"
+
+REFERENCE           KARMA_VOX_VOX_KAR_12_03_042A_HARP_D
+LANG_ENGLISH        "^1Harper: ^7Let's go!  The main door's our out!"
+
+REFERENCE           KARMA_VOX_VOX_KAR_12_03_043A_SECT_D
+LANG_ENGLISH        "^1Section: ^7Last man!"
+
+REFERENCE           KARMA_VOX_VOX_KAR_12_03_044A_SECT_D
+LANG_ENGLISH        "^1Section: ^7Set!"
+
+REFERENCE           KARMA_VOX_VOX_KAR_12_03_045A_SECT_D
+LANG_ENGLISH        "^1Section: ^7It's DeFalco, Menendez's right hand man."
+
+REFERENCE           KARMA_VOX_VOX_KAR_12_03_048A_HARP_D
+LANG_ENGLISH        "^1Harper: ^7Moving!"
+
+REFERENCE           KARMA_VOX_VOX_KAR_12_03_049A_SECT_D
+LANG_ENGLISH        "^1Section: ^7Move!"
+
+REFERENCE           KARMA_VOX_VOX_KAR_12_03_050A_HARP_D
+LANG_ENGLISH        "^1Harper: ^7Out the door, go black!"
+
+REFERENCE           KARMA_VOX_VOX_KAR_13_01_001A_SALA_D
+LANG_ENGLISH        "^1Salazar: ^7Watch the gap coming up."
+
+REFERENCE           KARMA_VOX_VOX_KAR_13_01_002A_SALA_D
+LANG_ENGLISH        "^1Salazar: ^7Ziggy can jump across."
+
+REFERENCE           KARMA_VOX_VOX_KAR_13_01_012A_SECT_D
+LANG_ENGLISH        "^1Section: ^7Looks like part of the filtration system.  The CRC must be a clean environment."
+
+REFERENCE           KARMA_VOX_VOX_KAR_13_01_013A_SALA_D
+LANG_ENGLISH        "^1Salazar: ^7Careful, Section.  Contact will fry the robot."
+
+REFERENCE           KARMA_VOX_VOX_KAR_1_01_006A_HARP_D
+LANG_ENGLISH        "^1Harper: ^7You know if this wasn't an op, I believe I could get myself a little hot chick action here."
+
+REFERENCE           KARMA_VOX_VOX_KAR_1_01_007A_SALA_D
+LANG_ENGLISH        "^1Salazar: ^7You forgetting Pakistan?  Your face don't look too good, Harper."
+
+REFERENCE           KARMA_VOX_VOX_KAR_1_01_008A_HARP_D
+LANG_ENGLISH        "^1Harper: ^7Hey, it's not the face. It's the body they're going to be after."
+
+REFERENCE           KARMA_VOX_VOX_KAR_1_01_009A_HARP_D
+LANG_ENGLISH        "^1Harper: ^7Come on, man."
+
+REFERENCE           KARMA_VOX_VOX_KAR_1_01_010A_SALA_D
+LANG_ENGLISH        "^1Salazar: ^7Something wrong, Section?"
+
+REFERENCE           KARMA_VOX_VOX_KAR_1_01_011A_HARP_D
+LANG_ENGLISH        "^1Harper: ^7Hey, we're on a schedule here, bro."
+
+REFERENCE           KARMA_VOX_VOX_KAR_2_01_001A_HARP_D
+LANG_ENGLISH        "^1Harper: ^7ASDs... You think they're expecting trouble?"
+
+REFERENCE           KARMA_VOX_VOX_KAR_2_01_002A_SALA_D
+LANG_ENGLISH        "^1Salazar: ^7It's the richest city in the world."
+
+REFERENCE           KARMA_VOX_VOX_KAR_2_01_003A_SECT_D
+LANG_ENGLISH        "^1Section: ^7Which makes it a likely target for Raul Menendez."
+
+REFERENCE           KARMA_VOX_VOX_KAR_2_02_002A_HARP_M
+LANG_ENGLISH        "^1Harper: ^7Dammit, Egghead.  I thought we were burned that time."
+
+REFERENCE           KARMA_VOX_VOX_KAR_2_02_002A_HARP_S
+LANG_ENGLISH        "^1Harper: ^7Oh man, Egghead.  I thought we were burned that time."
+
+REFERENCE           KARMA_VOX_VOX_KAR_2_03_002A_SALA_D
+LANG_ENGLISH        "^1Salazar: ^7What are you waiting for?"
+
+REFERENCE           KARMA_VOX_VOX_KAR_2_03_003A_HARP_M
+LANG_ENGLISH        "^1Harper: ^7Hey!  Quit eyeballin' the chicks.  We gotta get our asses in gear.  Let's move."
+
+REFERENCE           KARMA_VOX_VOX_KAR_2_03_003A_HARP_S
+LANG_ENGLISH        "^1Harper: ^7Hey!  Quit eyeballin' the chicks.  We gotta get ourselves in gear.  Let's move."
+
+REFERENCE           KARMA_VOX_VOX_KAR_2_05_001A_FARI_D
+LANG_ENGLISH        "^1Farid: ^7Relax, Harper.  I told you the shielding would work.  The scanner couldn't see a thing."
+
+REFERENCE           KARMA_VOX_VOX_KAR_2_05_002A_FARI_D
+LANG_ENGLISH        "^1Farid: ^7Okay, now just show your ID and walk right through."
+
+REFERENCE           KARMA_VOX_VOX_KAR_2_05_006A_HARP_D
+LANG_ENGLISH        "^1Harper: ^7Hello ladies.  We're from the union."
+
+REFERENCE           KARMA_VOX_VOX_KAR_2_05_007A_FARI_D
+LANG_ENGLISH        "^1Farid: ^7People don't do a whole lot at Colossus."
+
+REFERENCE           KARMA_VOX_VOX_KAR_2_05_009A_SALA_D
+LANG_ENGLISH        "^1Salazar: ^7What is this?"
+
+REFERENCE           KARMA_VOX_VOX_KAR_2_05_010A_HARP_D
+LANG_ENGLISH        "^1Harper: ^7That's it?"
+
+REFERENCE           KARMA_VOX_VOX_KAR_3_01_002A_FARI_D
+LANG_ENGLISH        "^1Farid: ^7It's an automated system.  It's triggered by your biometric ID."
+
+REFERENCE           KARMA_VOX_VOX_KAR_3_02_003A_HARP_D
+LANG_ENGLISH        "^1Harper: ^7Wow!  Look at that.  This place is unbelievable, huh?"
+
+REFERENCE           KARMA_VOX_VOX_KAR_3_02_004A_SECT_M
+LANG_ENGLISH        "^1Section: ^7Menendez picked a hell of a place to hide his Karma weapon..."
+
+REFERENCE           KARMA_VOX_VOX_KAR_3_02_004A_SECT_S
+LANG_ENGLISH        "^1Section: ^7Menendez picked a smart place to hide his Karma weapon..."
+
+REFERENCE           KARMA_VOX_VOX_KAR_3_03_001A_HARP_D
+LANG_ENGLISH        "^1Harper: ^7Hey... What do you figure it'd cost to spend a weekend here?"
+
+REFERENCE           KARMA_VOX_VOX_KAR_3_03_002A_SECT_D
+LANG_ENGLISH        "^1Section: ^7More than you make in a year."
+
+REFERENCE           KARMA_VOX_VOX_KAR_3_03_003A_SALA_D
+LANG_ENGLISH        "^1Salazar: ^7No wonder Menendez rallies so much support."
+
+REFERENCE           KARMA_VOX_VOX_KAR_3_05_003A_SALA_D
+LANG_ENGLISH        "^1Salazar: ^7So far, so good."
+
+REFERENCE           KARMA_ZAPPER_PROXIMITY_WARNING
+LANG_ENGLISH        "WARNING: Electrical Field"
+
+REFERENCE           SP_OBJECTIVES_AMMO
+LANG_ENGLISH        "Ammo"
+
+REFERENCE           SP_OBJECTIVES_BREACH
+LANG_ENGLISH        "Breach"
+
+REFERENCE           SP_OBJECTIVES_CLEAR
+LANG_ENGLISH        "Clear"
+
+REFERENCE           SP_OBJECTIVES_CLIMB
+LANG_ENGLISH        "Climb"
+
+REFERENCE           SP_OBJECTIVES_DEFEND
+LANG_ENGLISH        "Defend"
+
+REFERENCE           SP_OBJECTIVES_DESTROY
+LANG_ENGLISH        "Destroy"
+
+REFERENCE           SP_OBJECTIVES_DETONATE
+LANG_ENGLISH        "Detonate"
+
+REFERENCE           SP_OBJECTIVES_DISABLE
+LANG_ENGLISH        "Disable"
+
+REFERENCE           SP_OBJECTIVES_ENTER
+LANG_ENGLISH        "Enter"
+
+REFERENCE           SP_OBJECTIVES_ESCORT
+LANG_ENGLISH        "Escort"
+
+REFERENCE           SP_OBJECTIVES_FOLLOW
+LANG_ENGLISH        "Follow"
+
+REFERENCE           SP_OBJECTIVES_HELP
+LANG_ENGLISH        "Help"
+
+REFERENCE           SP_OBJECTIVES_INCOMING_HELOS
+LANG_ENGLISH        "Incoming (helos)"
+
+REFERENCE           SP_OBJECTIVES_INCOMING_TANKS
+LANG_ENGLISH        "Incoming (tanks)"
+
+REFERENCE           SP_OBJECTIVES_INTERACT
+LANG_ENGLISH        "Access"
+
+REFERENCE           SP_OBJECTIVES_JUMP
+LANG_ENGLISH        "Jump"
+
+REFERENCE           SP_OBJECTIVES_KILL
+LANG_ENGLISH        "Kill"
+
+REFERENCE           SP_OBJECTIVES_MELEE
+LANG_ENGLISH        "Melee"
+
+REFERENCE           SP_OBJECTIVES_PICKUP
+LANG_ENGLISH        "Pick Up"
+
+REFERENCE           SP_OBJECTIVES_PROTECT
+LANG_ENGLISH        "Protect"
+
+REFERENCE           SP_OBJECTIVES_RAPPEL
+LANG_ENGLISH        "Rappel"
+
+REFERENCE           SP_OBJECTIVES_REGROUP
+LANG_ENGLISH        "Regroup"
+
+REFERENCE           SP_OBJECTIVES_SEARCH
+LANG_ENGLISH        "Search"
+
+REFERENCE           SP_OBJECTIVES_SHOOT
+LANG_ENGLISH        "Shoot"
+
+REFERENCE           SP_OBJECTIVES_SUPPORT
+LANG_ENGLISH        "Support"
+
+REFERENCE           SP_OBJECTIVES_SWEEP
+LANG_ENGLISH        "Sweep"
+
+REFERENCE           SP_OBJECTIVES_TARGET
+LANG_ENGLISH        "Target"
+
+REFERENCE           SP_OBJECTIVES_USE
+LANG_ENGLISH        "Use"
+
+REFERENCE           SP_OBJECTIVES_WEAPONS
+LANG_ENGLISH        "Weapons"
+
+ENDMARKER

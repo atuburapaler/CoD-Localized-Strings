@@ -1,0 +1,457 @@
+// Dumped from fastfile "en_frontend".
+// In their original format the strings might have been separated in multiple files.
+VERSION             "1"
+CONFIG              "C:/projects/cod/t6/bin/StringEd.cfg"
+FILENOTES           ""
+
+REFERENCE           FRONTEND_CYCLE_MISSIONS
+LANG_ENGLISH        "Press ^3[{+actionslot 3}]^7 to select mission."
+
+REFERENCE           FRONTEND_INCOMING_MESSAGE
+LANG_ENGLISH        "Incoming Message From Adm. Briggs"
+
+REFERENCE           FRONTEND_PRESENCE_REQUESTED
+LANG_ENGLISH        "David Mason, your presence is required in The War Room."
+
+REFERENCE           FRONTEND_PRESS_X_TO_SELECT
+LANG_ENGLISH        "Press ^3[{+activate}]^7 to confirm mission selection."
+
+REFERENCE           FRONTEND_REPORT_TO_WAR_ROOM
+LANG_ENGLISH        "Report to The War Room"
+
+REFERENCE           FRONTEND_SF_AFGHANISTAN
+LANG_ENGLISH        "Afghanistan"
+
+REFERENCE           FRONTEND_SF_AT_RISK
+LANG_ENGLISH        "At Risk"
+
+REFERENCE           FRONTEND_SF_CARRIER
+LANG_ENGLISH        "Carrier"
+
+REFERENCE           FRONTEND_SF_DRONE
+LANG_ENGLISH        "Drone Factory"
+
+REFERENCE           FRONTEND_SF_OVERFLOW
+LANG_ENGLISH        "Overflow"
+
+REFERENCE           FRONTEND_SF_SINGAPORE
+LANG_ENGLISH        "Dockside"
+
+REFERENCE           FRONTEND_SF_SOCOTRA
+LANG_ENGLISH        "Socotra"
+
+REFERENCE           FRONTEND_UNITS_REMAINING
+LANG_ENGLISH        "Deployment Units Remaining"
+
+REFERENCE           FRONTEND_USE_STRIKEFORCE
+LANG_ENGLISH        "Press  ^3[{+activate}]^7  to access Strikeforce."
+
+REFERENCE           FRONTEND_VOX_VOX_SFF_1_01_001A_SECT_D
+LANG_ENGLISH        "^1Section: ^7This freighter's jam packed with Dong-Feng hypersonic cruise missiles.  Mach 7 capable.  One strike could take out any of our aircraft carriers, including the Obama."
+
+REFERENCE           FRONTEND_VOX_VOX_SFF_1_01_002A_SECT_D
+LANG_ENGLISH        "^1Section: ^7The missiles will be delivered to these destroyers, coated with carbon nanotubes, rendering them invisible to our satellites. That's why Harper had to get this footage the old fashioned way!  SDC plan to launch these missiles on Iran."
+
+REFERENCE           FRONTEND_VOX_VOX_SFF_1_01_003A_BRIG_M
+LANG_ENGLISH        "^1Adm. Briggs: ^7That's right boys, Iran.  Now, I got enough problems.  I don't need Persia being SDC's bitch."
+
+REFERENCE           FRONTEND_VOX_VOX_SFF_1_01_003A_BRIG_S
+LANG_ENGLISH        "^1Adm. Briggs: ^7That's right boys, Iran.  We got enough problems, so I don't need Persia being SDC's friend."
+
+REFERENCE           FRONTEND_VOX_VOX_SFF_1_01_004A_SECT_D
+LANG_ENGLISH        "^1Section: ^7Keppel terminal's primary defense is a single Dong Feng missile, located in the central hub."
+
+REFERENCE           FRONTEND_VOX_VOX_SFF_1_01_005A_SECT_D
+LANG_ENGLISH        "^1Section: ^7You will be equipped with HPM explosives.  High Powered Microwave bursts to scramble the missile's guidance system."
+
+REFERENCE           FRONTEND_VOX_VOX_SFF_1_01_006A_SECT_D
+LANG_ENGLISH        "^1Section: ^7The east and west perimeter is flanked by free electron lasers, supercharged beams able to take out any short range missile.  We need these down to take out the freighter."
+
+REFERENCE           FRONTEND_VOX_VOX_SFF_1_01_007A_SECT_D
+LANG_ENGLISH        "^1Section: ^7Your portable hacking modules will reprogram their targeting systems to fry them in their own juice."
+
+REFERENCE           FRONTEND_VOX_VOX_SFF_1_01_008A_SECT_D
+LANG_ENGLISH        "^1Section: ^7When their defenses are down, you call up the Kraken and we air strike the freighter."
+
+REFERENCE           FRONTEND_VOX_VOX_SFF_1_02_001A_SECT_D
+LANG_ENGLISH        "^1Section: ^7Admiral on deck!"
+
+REFERENCE           FRONTEND_VOX_VOX_SFF_1_02_002A_BRIG_D
+LANG_ENGLISH        "^1Adm. Briggs: ^7Thank you, Commander Mason."
+
+REFERENCE           FRONTEND_VOX_VOX_SFF_1_02_003A_BRIG_M
+LANG_ENGLISH        "^1Adm. Briggs: ^7Check out this beauty. “Chairman” Tian Zhao, leader of China's military.  The head of the SDC coalition's armed forces.  Cocksucker plays hardball, even with China's government.  They have as much control over him as we do.  This cat walks alone."
+
+REFERENCE           FRONTEND_VOX_VOX_SFF_1_02_003A_BRIG_S
+LANG_ENGLISH        "^1Adm. Briggs: ^7Check out this beauty. “Chairman” Tian Zhao, leader of China's military.  The head of the SDC coalition's armed forces.  He plays hardball, even with China's government.  They have as much control over him as we do.  This cat walks alone."
+
+REFERENCE           FRONTEND_VOX_VOX_SFF_1_02_004A_BRIG_M
+LANG_ENGLISH        "^1Adm. Briggs: ^7Chairman Zhao's squeezing Russia's balls, real tight.  Commander."
+
+REFERENCE           FRONTEND_VOX_VOX_SFF_1_02_004A_BRIG_S
+LANG_ENGLISH        "^1Adm. Briggs: ^7Chairman Zhao's squeezing Russia, real tight.  Commander."
+
+REFERENCE           FRONTEND_VOX_VOX_SFF_1_02_005A_SECT_D
+LANG_ENGLISH        "^1Section: ^7If Russia caves in and joins SDC, they'd be the largest military force on the planet.  Which is precisely what Menendez wants, setting up the superpowers to wipe each other out."
+
+REFERENCE           FRONTEND_VOX_VOX_SFF_1_02_006A_SECT_D
+LANG_ENGLISH        "^1Section: ^7Right now, Iran and India are both under threat.  SDC's making their move.  Time for JSOC to step up."
+
+REFERENCE           FRONTEND_VOX_VOX_SFF_1_02_007A_SECT_D
+LANG_ENGLISH        "^1Section: ^7These Sovremenniy class destroyers are coated with carbon nanotubes, rendering them invisible to our satellites.  So Harper got this footage the old fashioned way!"
+
+REFERENCE           FRONTEND_VOX_VOX_SFF_1_02_008A_HARP_M
+LANG_ENGLISH        "^1Harper: ^7No shit Section.  I swam a little too close to the sharks that day."
+
+REFERENCE           FRONTEND_VOX_VOX_SFF_1_02_008A_HARP_S
+LANG_ENGLISH        "^1Harper: ^7No kidding Section.  I swam a little too close to the sharks that day."
+
+REFERENCE           FRONTEND_VOX_VOX_SFF_1_02_009A_BRIG_D
+LANG_ENGLISH        "^1Adm. Briggs: ^7These sharks are carrying ASATs..."
+
+REFERENCE           FRONTEND_VOX_VOX_SFF_1_02_010A_BRIG_D
+LANG_ENGLISH        "^1Adm. Briggs: ^7...and are, right now, cruising the Arabian Sea with enough fire to toast half the world's satellites."
+
+REFERENCE           FRONTEND_VOX_VOX_SFF_1_02_011A_SECT_D
+LANG_ENGLISH        "^1Section: ^7FOB Spectre is vital to securing India's northern border.  For rapid response, our only option is to HALO in."
+
+REFERENCE           FRONTEND_VOX_VOX_SFF_1_02_012A_SECT_D
+LANG_ENGLISH        "^1Section: ^7Once on deck, your primary objective is to disable the carrier."
+
+REFERENCE           FRONTEND_VOX_VOX_SFF_1_02_013A_SECT_D
+LANG_ENGLISH        "^1Section: ^7They control all their automated defense systems from this area.  You will commandeer their ASDs, then destroy the ship's engines and power systems."
+
+REFERENCE           FRONTEND_VOX_VOX_SFF_1_02_014A_SECT_D
+LANG_ENGLISH        "^1Section: ^7Now, as the Admiral indicated, we can't get our own jets into their airspace, so... we're just gonna have to use theirs."
+
+REFERENCE           FRONTEND_VOX_VOX_SFF_1_02_015A_SECT_D
+LANG_ENGLISH        "^1Section: ^7You fly those VTOLs right off the flight deck.  Wipe out the entire fleet.  Am I clear?"
+
+REFERENCE           FRONTEND_VOX_VOX_SFF_1_02_019A_SECT_D
+LANG_ENGLISH        "^1Section: ^7The enemy's primary objective will be to smash the defense grid by targeting power generators and the satellite uplinks.  If the grid goes down, there's nothing to stop them penetrating the main control room."
+
+REFERENCE           FRONTEND_VOX_VOX_SFF_1_02_020A_SECT_D
+LANG_ENGLISH        "^1Section: ^7If that happens, FOB Spectre is down and it's open season on India."
+
+REFERENCE           FRONTEND_VOX_VOX_SFF_1_03_001A_BRIG_D
+LANG_ENGLISH        "^1Adm. Briggs: ^7Lt. Commander Mason, report to the war room."
+
+REFERENCE           FRONTEND_VOX_VOX_SFF_1_03_002A_BRIG_D
+LANG_ENGLISH        "^1Adm. Briggs: ^7Mason, we're waiting for you in the war room."
+
+REFERENCE           FRONTEND_VOX_VOX_SFF_1_03_003A_BRIG_D
+LANG_ENGLISH        "^1Adm. Briggs: ^7Lt. Commander Mason, report to the war room now."
+
+REFERENCE           FRONTEND_VOX_VOX_SFF_1_03_004A_BRIG_D
+LANG_ENGLISH        "^1Adm. Briggs: ^7Your team is prepped and ready for briefing, Mason."
+
+REFERENCE           FRONTEND_VOX_VOX_SFF_1_03_005A_BRIG_D
+LANG_ENGLISH        "^1Adm. Briggs: ^7Quit wasting time, Mason.  Get to the war room on the double."
+
+REFERENCE           FRONTEND_VOX_VOX_SFF_1_03_006A_BRIG_D
+LANG_ENGLISH        "^1Adm. Briggs: ^7Report to the war room now, Commander.  That's an order."
+
+REFERENCE           FRONTEND_VOX_VOX_SFF_1_03_007A_BRIG_S
+LANG_ENGLISH        "^1Adm. Briggs: ^7Mason!  Quit messing around and get to the war room."
+
+REFERENCE           FRONTEND_VOX_VOX_SFF_1_03_008A_BRIG_D
+LANG_ENGLISH        "^1Adm. Briggs: ^7Nice work, Mason."
+
+REFERENCE           FRONTEND_VOX_VOX_SFF_1_03_009A_BRIG_D
+LANG_ENGLISH        "^1Adm. Briggs: ^7I knew I could rely on you, Commander."
+
+REFERENCE           FRONTEND_VOX_VOX_SFF_1_03_010A_BRIG_M
+LANG_ENGLISH        "^1Adm. Briggs: ^7Hell of a job there, Mason."
+
+REFERENCE           FRONTEND_VOX_VOX_SFF_1_03_010A_BRIG_S
+LANG_ENGLISH        "^1Adm. Briggs: ^7Nicely done there, Mason."
+
+REFERENCE           FRONTEND_VOX_VOX_SFF_1_03_011A_BRIG_M
+LANG_ENGLISH        "^1Adm. Briggs: ^7That's what I like to see. Fucking textbook."
+
+REFERENCE           FRONTEND_VOX_VOX_SFF_1_03_011A_BRIG_S
+LANG_ENGLISH        "^1Adm. Briggs: ^7That's what I like to see. Straight up textbook."
+
+REFERENCE           FRONTEND_VOX_VOX_SFF_1_03_012A_BRIG_M
+LANG_ENGLISH        "^1Adm. Briggs: ^7That's how we get shit done.  Good work, Mason."
+
+REFERENCE           FRONTEND_VOX_VOX_SFF_1_03_012A_BRIG_S
+LANG_ENGLISH        "^1Adm. Briggs: ^7That's how we get it done.  Good work, Mason."
+
+REFERENCE           FRONTEND_VOX_VOX_SFF_1_03_013A_BRIG_D
+LANG_ENGLISH        "^1Adm. Briggs: ^7That was one for the books, Mason."
+
+REFERENCE           FRONTEND_VOX_VOX_SFF_1_03_014A_BRIG_M
+LANG_ENGLISH        "^1Adm. Briggs: ^7What the fuck was that, Mason?  I expect better from you."
+
+REFERENCE           FRONTEND_VOX_VOX_SFF_1_03_014A_BRIG_S
+LANG_ENGLISH        "^1Adm. Briggs: ^7What was that, Mason?  I expect better from you."
+
+REFERENCE           FRONTEND_VOX_VOX_SFF_1_03_015A_BRIG_M
+LANG_ENGLISH        "^1Adm. Briggs: ^7I've never seen such a sorry execution of a mission.  Get your shit together, Mason."
+
+REFERENCE           FRONTEND_VOX_VOX_SFF_1_03_015A_BRIG_S
+LANG_ENGLISH        "^1Adm. Briggs: ^7I've never seen such a sorry execution of a mission.  Get it together, Mason."
+
+REFERENCE           FRONTEND_VOX_VOX_SFF_1_03_016A_BRIG_M
+LANG_ENGLISH        "^1Adm. Briggs: ^7That was a full scale fucking failure across the board."
+
+REFERENCE           FRONTEND_VOX_VOX_SFF_1_03_016A_BRIG_S
+LANG_ENGLISH        "^1Adm. Briggs: ^7That was a full scale failure across the board."
+
+REFERENCE           FRONTEND_VOX_VOX_SFF_1_03_017A_BRIG_M
+LANG_ENGLISH        "^1Adm. Briggs: ^7What the hell went wrong back there?  Get your head in the game, son."
+
+REFERENCE           FRONTEND_VOX_VOX_SFF_1_03_017A_BRIG_S
+LANG_ENGLISH        "^1Adm. Briggs: ^7What went wrong back there?  Get your head in the game, son."
+
+REFERENCE           FRONTEND_VOX_VOX_SFF_1_03_018A_BRIG_D
+LANG_ENGLISH        "^1Adm. Briggs: ^7We'll talk about this fiasco later, Mason."
+
+REFERENCE           FRONTEND_VOX_VOX_SFF_1_03_019A_BRIG_M
+LANG_ENGLISH        "^1Adm. Briggs: ^7I'm disappointed and pissed...  You know that ain't a good combination."
+
+REFERENCE           FRONTEND_VOX_VOX_SFF_1_03_019A_BRIG_S
+LANG_ENGLISH        "^1Adm. Briggs: ^7I'm disappointed and upset...  You know that ain't a good combination."
+
+REFERENCE           FRONTEND_VOX_VOX_SFF_2_02_001A_BRIG_M
+LANG_ENGLISH        "^1Adm. Briggs: ^7How about that.  Chairman Zhao just sent me his resume.  Cocksucker's looking for a new gig!"
+
+REFERENCE           FRONTEND_VOX_VOX_SFF_2_02_001A_BRIG_S
+LANG_ENGLISH        "^1Adm. Briggs: ^7How about that.  Chairman Zhao just sent me his resume.  He's looking for a new gig!"
+
+REFERENCE           FRONTEND_VOX_VOX_SFF_2_02_002A_BRIG_M
+LANG_ENGLISH        "^1Adm. Briggs: ^7You bet your ass, we got these dickwads on the run.  Alright, alright, alright, settle down."
+
+REFERENCE           FRONTEND_VOX_VOX_SFF_2_02_002A_BRIG_S
+LANG_ENGLISH        "^1Adm. Briggs: ^7You bet your... we got these... on the run.  Alright, alright, alright.  Settle down."
+
+REFERENCE           FRONTEND_VOX_VOX_SFF_2_02_003A_BRIG_D
+LANG_ENGLISH        "^1Adm. Briggs: ^7An hour ago, Tehran issued a pledge of allegiance to the SDC.  China owns the Middle East."
+
+REFERENCE           FRONTEND_VOX_VOX_SFF_2_02_004A_BRIG_M
+LANG_ENGLISH        "^1Adm. Briggs: ^7Thank God you protected Spectre yesterday, or you'd be brushing up on your Mandarin now.  Fuck it...  It could be worse."
+
+REFERENCE           FRONTEND_VOX_VOX_SFF_2_02_004A_BRIG_S
+LANG_ENGLISH        "^1Adm. Briggs: ^7Thank... you protected Spectre, or you'd be brushing up on your Mandarin now.  It could be worse."
+
+REFERENCE           FRONTEND_VOX_VOX_SFF_2_02_005A_BRIG_M
+LANG_ENGLISH        "^1Adm. Briggs: ^7You can bet your left nut that Chairman Zhao is eyeing a New Dehli penthouse suite right now."
+
+REFERENCE           FRONTEND_VOX_VOX_SFF_2_02_005A_BRIG_S
+LANG_ENGLISH        "^1Adm. Briggs: ^7You can bet your left... that Chairman Zhao is eyeing a New Dehli penthouse suite right now."
+
+REFERENCE           FRONTEND_VOX_VOX_SFF_2_02_006A_BRIG_M
+LANG_ENGLISH        "^1Adm. Briggs: ^7Ok, so we cock-blocked Iran, but make no mistake.  If we fuck this up, the Kremlin's gonna have Zhao over for vodka and caviar."
+
+REFERENCE           FRONTEND_VOX_VOX_SFF_2_02_006A_BRIG_S
+LANG_ENGLISH        "^1Adm. Briggs: ^7Ok, so we blocked Iran, but make no mistake.  If we... this up, the Kremlin's gonna have Zhao over for vodka and caviar."
+
+REFERENCE           FRONTEND_VOX_VOX_SFF_2_02_007A_BRIG_M
+LANG_ENGLISH        "^1Adm. Briggs: ^7What a holy God forsaken mess.  Right now, the SDC has infested Iran and is crawling all over India's border."
+
+REFERENCE           FRONTEND_VOX_VOX_SFF_2_02_007A_BRIG_S
+LANG_ENGLISH        "^1Adm. Briggs: ^7What a holy forsaken mess.  Right now, the SDC has infested Iran and is crawling all over India's border."
+
+REFERENCE           FRONTEND_VOX_VOX_SFF_2_02_008A_BRIG_M
+LANG_ENGLISH        "^1Adm. Briggs: ^7For God's sake, get your shit together people!  I'm not losing this war... and neither are you."
+
+REFERENCE           FRONTEND_VOX_VOX_SFF_2_02_008A_BRIG_S
+LANG_ENGLISH        "^1Adm. Briggs: ^7For... sake, get your... together people!  I'm not losing this war... and neither are you."
+
+REFERENCE           FRONTEND_VOX_VOX_SFF_2_02_009A_SECT_D
+LANG_ENGLISH        "^1Section: ^7In light of the assassination threat, the summit location has changed to Maidan Shahr, 50 miles west of Kabul."
+
+REFERENCE           FRONTEND_VOX_VOX_SFF_2_02_010A_SECT_D
+LANG_ENGLISH        "^1Section: ^7We'll provide overwatch for the government's convoy.  At the first sign of trouble, use of terminal force is authorized."
+
+REFERENCE           FRONTEND_VOX_VOX_SFF_2_02_011A_BRIG_M
+LANG_ENGLISH        "^1Adm. Briggs: ^7Authorized and fucking mandated."
+
+REFERENCE           FRONTEND_VOX_VOX_SFF_2_02_011A_BRIG_S
+LANG_ENGLISH        "^1Adm. Briggs: ^7Authorized and mandated."
+
+REFERENCE           FRONTEND_VOX_VOX_SFF_2_02_012A_SECT_M
+LANG_ENGLISH        "^1Section: ^7Use your quads for aerial surveillance. You'll need those birds, 'cause the bastards'll dig in those mountains."
+
+REFERENCE           FRONTEND_VOX_VOX_SFF_2_02_012A_SECT_S
+LANG_ENGLISH        "^1Section: ^7Use your quads for aerial surveillance. You'll need those birds, 'cause they'll dig in those mountains."
+
+REFERENCE           FRONTEND_VOX_VOX_SFF_2_02_013A_SECT_D
+LANG_ENGLISH        "^1Section: ^7Kraken will track your every move and is ready with ordinance from above, if needed."
+
+REFERENCE           FRONTEND_VOX_VOX_SFF_2_02_014A_SECT_D
+LANG_ENGLISH        "^1Section: ^7ASDs will flank you on the dirt.  We're playing it real safe, so no boots on the ground this time.  Just drones and the eye in the sky."
+
+REFERENCE           FRONTEND_VOX_VOX_SFF_2_02_016A_SECT_D
+LANG_ENGLISH        "^1Section: ^7We got trouble in Afghanistan. The Russian foreign minister's in Kabul negotiating a peace treaty with the Afghan president."
+
+REFERENCE           FRONTEND_VOX_VOX_SFF_2_02_017A_SECT_D
+LANG_ENGLISH        "^1Section: ^7And on top of that, the fleet is still out there... cruising for India."
+
+REFERENCE           FRONTEND_VOX_VOX_SFF_2_02_018A_BRIG_M
+LANG_ENGLISH        "^1Adm. Briggs: ^7That shithead Zhao's flown off the reservation.  He can and will use those assets anytime he wants.  We cannot lose India."
+
+REFERENCE           FRONTEND_VOX_VOX_SFF_2_02_018A_BRIG_S
+LANG_ENGLISH        "^1Adm. Briggs: ^7That... Zhao's flown off the reservation.  He can and will use those assets anytime he wants.  We cannot lose India."
+
+REFERENCE           FRONTEND_VOX_VOX_SFF_2_02_030A_SECT_D
+LANG_ENGLISH        "^1Section: ^7Our sat feeds show SDC troops swarming all over India's northern border."
+
+REFERENCE           FRONTEND_VOX_VOX_SFF_2_02_040A_SECT_D
+LANG_ENGLISH        "^1Section: ^7Problem is, Central Intelligence intercepted an assassination order directed by Raul Menendez himself."
+
+REFERENCE           FRONTEND_VOX_VOX_SFF_3_03_001A_BRIG_M
+LANG_ENGLISH        "^1Adm. Briggs: ^7Are you fucking kidding me?  We lost the Middle East!  The Afghan brass is getting whacked and the SDC are farting around!"
+
+REFERENCE           FRONTEND_VOX_VOX_SFF_3_03_001A_BRIG_S
+LANG_ENGLISH        "^1Adm. Briggs: ^7Are you kidding me?  We lost the Middle East! The Afghan brass is getting whacked and the SDC are farting around!"
+
+REFERENCE           FRONTEND_VOX_VOX_SFF_3_03_002A_BRIG_M
+LANG_ENGLISH        "^1Adm. Briggs: ^7Yank your heads out of your ass, people, and sort this mess out!"
+
+REFERENCE           FRONTEND_VOX_VOX_SFF_3_03_002A_BRIG_S
+LANG_ENGLISH        "^1Adm. Briggs: ^7Yank your heads out of your... people, and sort this mess out!"
+
+REFERENCE           FRONTEND_VOX_VOX_SFF_3_03_003A_BRIG_M
+LANG_ENGLISH        "^1Adm. Briggs: ^7Look, we are one sweet step away from being checkmate, people.  Look, we gotta haul ass and make it count."
+
+REFERENCE           FRONTEND_VOX_VOX_SFF_3_03_003A_BRIG_S
+LANG_ENGLISH        "^1Adm. Briggs: ^7Look, we are one sweet step away from being checkmate, people.  Look, we gotta haul... and make it count."
+
+REFERENCE           FRONTEND_VOX_VOX_SFF_3_03_004A_BRIG_M
+LANG_ENGLISH        "^1Adm. Briggs: ^7We are on a head on collision course with our ass.  We have only secured one territory, while the SDC is eating our lunch."
+
+REFERENCE           FRONTEND_VOX_VOX_SFF_3_03_004A_BRIG_S
+LANG_ENGLISH        "^1Adm. Briggs: ^7We are on a head on collision course with our...  We have only secured one territory, while the SDC is eating our lunch."
+
+REFERENCE           FRONTEND_VOX_VOX_SFF_3_03_005A_BRIG_D
+LANG_ENGLISH        "^1Adm. Briggs: ^7Now, we owe our Commander in Chief more than this."
+
+REFERENCE           FRONTEND_VOX_VOX_SFF_3_03_006A_BRIG_M
+LANG_ENGLISH        "^1Adm. Briggs: ^7Alright... Alright... We're toe to toe with 'em now, alright?  We gotta knock these cocksuckers out cold.  We take just one more territory from them, and we got 'em."
+
+REFERENCE           FRONTEND_VOX_VOX_SFF_3_03_006A_BRIG_S
+LANG_ENGLISH        "^1Adm. Briggs: ^7Alright... Alright... We're toe to toe with 'em now, alright?  We gotta knock these... out cold.  We take just one more territory from them, and we got 'em."
+
+REFERENCE           FRONTEND_VOX_VOX_SFF_3_03_007A_BRIG_D
+LANG_ENGLISH        "^1Adm. Briggs: ^7That's right, people. But don't get cocky.  Get smart.  We're not out of the woods yet."
+
+REFERENCE           FRONTEND_VOX_VOX_SFF_3_03_008A_BRIG_D
+LANG_ENGLISH        "^1Adm. Briggs: ^7Russia's foreign minister has officially denounced the SDC, and has declared it a belligerent threat to the peace and stability of the civilized world!  If they had smoked him in Afghanistan, today the world would look a lot different."
+
+REFERENCE           FRONTEND_VOX_VOX_SFF_3_03_009A_BRIG_D
+LANG_ENGLISH        "^1Adm. Briggs: ^7This is the beginning of the end of the SDC, people. You keep this up, and they will be finished."
+
+REFERENCE           FRONTEND_VOX_VOX_SFF_3_03_010A_BRIG_D
+LANG_ENGLISH        "^1Adm. Briggs: ^7FOB Spectre, in North Korea, is under attack and they have mayday'ed assist.  Now, they have boots on the ground, but are outnumbered ten to one.  Details on the tangos are sketchy, but it has all the charm of an SDC hit."
+
+REFERENCE           FRONTEND_VOX_VOX_SFF_3_03_011A_BRIG_D
+LANG_ENGLISH        "^1Adm. Briggs: ^7FOB houses the Dante 702 hypersonic stealth drone.  If Spectre goes down, it'll be open season on Pyongyang."
+
+REFERENCE           FRONTEND_VOX_VOX_SFF_3_03_012A_SECT_D
+LANG_ENGLISH        "^1Section: ^7An hour ago, Agent Farid in the Yemen archipelago got intel that one of the world's foremost experts in Celerium technology is being held captive at a local village."
+
+REFERENCE           FRONTEND_VOX_VOX_SFF_3_03_013A_BRIG_D
+LANG_ENGLISH        "^1Adm. Briggs: ^7The brains downstairs haven't been able to crack the Celerium device that we recovered from Myanmar.  This scientist is our best shot."
+
+REFERENCE           FRONTEND_VOX_VOX_SFF_3_03_014A_FOB_D
+LANG_ENGLISH        "^1Commander: ^7Their initial strike caught us off guard and crippled our primary defenses.  We held them off but our regiment was decimated.  We cannot withstand another attack."
+
+REFERENCE           FRONTEND_VOX_VOX_SFF_3_03_015A_BRIG_D
+LANG_ENGLISH        "^1Adm. Briggs: ^7Was it SDC, Commander?"
+
+REFERENCE           FRONTEND_VOX_VOX_SFF_3_03_016A_FOB_D
+LANG_ENGLISH        "^1Commander: ^7We were hit by ground and air drones..."
+
+REFERENCE           FRONTEND_VOX_VOX_SFF_3_03_017A_BRIG_M
+LANG_ENGLISH        "^1Adm. Briggs: ^7The base is heavily protected by these emplacements.  The enemy can't do shit unless they take these out."
+
+REFERENCE           FRONTEND_VOX_VOX_SFF_3_03_017A_BRIG_S
+LANG_ENGLISH        "^1Adm. Briggs: ^7The base is heavily protected by fixed gun emplacements.  The enemy can't do a thing unless they take those out."
+
+REFERENCE           FRONTEND_VOX_VOX_SFF_3_03_018A_BRIG_D
+LANG_ENGLISH        "^1Adm. Briggs: ^7Now, these guns are all juiced through this central control room.  An EMP blast here would leave the base wide open."
+
+REFERENCE           FRONTEND_VOX_VOX_SFF_3_03_019A_BRIG_D
+LANG_ENGLISH        "^1Adm. Briggs: ^7Now, these drones are sitting ducks.  They can't launch while they're under attack.  They'd be dropped like clay pigeons.  Protect the drones at all costs."
+
+REFERENCE           FRONTEND_VOX_VOX_SFF_3_03_020A_BRIG_D
+LANG_ENGLISH        "^1Adm. Briggs: ^7The hot tamale's inside this warehouse.  If they waste Dante 702, Pyongyang's skies are theirs for the taking."
+
+REFERENCE           FRONTEND_VOX_VOX_SFF_3_03_021A_SECT_D
+LANG_ENGLISH        "^1Section: ^7Our HVI is being held in the Haghier Mountains, on the northwestern peninsula of Socotra."
+
+REFERENCE           FRONTEND_VOX_VOX_SFF_3_03_022A_SECT_D
+LANG_ENGLISH        "^1Section: ^7He could be in any one of these compounds.  Wherever he is, the place will be swarming with insurgents."
+
+REFERENCE           FRONTEND_VOX_VOX_SFF_3_03_023A_BRIG_M
+LANG_ENGLISH        "^1Adm. Briggs: ^7This is a textbook snatch and grab.  We got to do this fucking quick."
+
+REFERENCE           FRONTEND_VOX_VOX_SFF_3_03_023A_BRIG_S
+LANG_ENGLISH        "^1Adm. Briggs: ^7This is a textbook catch and grab.  We got to do this... quick."
+
+REFERENCE           FRONTEND_VOX_VOX_SFF_3_03_024A_SECT_D
+LANG_ENGLISH        "^1Section: ^7Once you've scaled the cliffs, we'll carpet the place with tear gas."
+
+REFERENCE           FRONTEND_VOX_VOX_SFF_3_03_025A_SECT_D
+LANG_ENGLISH        "^1Section: ^7Sweep the area until you locate the HVI.  Leave no stone unturned."
+
+REFERENCE           FRONTEND_VOX_VOX_SFF_3_03_026A_BRIG_D
+LANG_ENGLISH        "^1Adm. Briggs: ^7Once you hit paydirt, you call up the Kraken and Commander Mason will handle the extraction."
+
+REFERENCE           FRONTEND_VOX_VOX_SFF_3_03_027A_SECT_D
+LANG_ENGLISH        "^1Section: ^7You got it, Admiral.  Once I get the signal, hang tight until I arrive."
+
+REFERENCE           FRONTEND_VOX_VOX_SFF_3_03_028A_BRIG_D
+LANG_ENGLISH        "^1Adm. Briggs: ^7This egghead scientist could be our only chance at cracking the Celerium device.  Let's go get him."
+
+REFERENCE           FRONTEND_VOX_VOX_SFF_3_03_039A_SECT_D
+LANG_ENGLISH        "^1Section: ^7We are JSOC Navy Seals.  Remember what it took to get us here, and remember what your country has to lose if we fail."
+
+REFERENCE           FRONTEND_VOX_VOX_SFF_4_04_001A_BRIG_D
+LANG_ENGLISH        "^1Adm. Briggs: ^7Yeah, yeah, yeah... Alright, as you know, yesterday, Russia has officially denounced the SDC, and has fully pledged allegiance to the United States Armed Forces."
+
+REFERENCE           FRONTEND_VOX_VOX_SFF_4_04_002A_BRIG_M
+LANG_ENGLISH        "^1Adm. Briggs: ^7Ahh!  Don't blow your wad, boys!  We still gotta go to the prom."
+
+REFERENCE           FRONTEND_VOX_VOX_SFF_4_04_002A_BRIG_S
+LANG_ENGLISH        "^1Adm. Briggs: ^7Ahh!  Don't... boys!  We still gotta go to the prom."
+
+REFERENCE           FRONTEND_VOX_VOX_SFF_4_04_003A_BRIG_D
+LANG_ENGLISH        "^1Adm. Briggs: ^7This whack job has been juicing his boys to invade Russia.  China has lost control, and they've asked for our help."
+
+REFERENCE           FRONTEND_VOX_VOX_SFF_4_04_004A_BRIG_D
+LANG_ENGLISH        "^1Adm. Briggs: ^7Now just five minutes ago, I was on the phone with the President.  She called it.  We're gonna take him out."
+
+REFERENCE           FRONTEND_VOX_VOX_SFF_4_04_006A_SECT_D
+LANG_ENGLISH        "^1Section: ^7Zhao will fly over Peshawar at approximately sixteen hundred hours tomorrow.  It's boots on the ground, old school.  Target Zhao's VTOL, tag him and bag him.  You'll have an entire platoon in support."
+
+REFERENCE           FRONTEND_VOX_VOX_SFF_4_04_007A_SECT_D
+LANG_ENGLISH        "^1Section: ^7We just got intel that Zhao will be airborne somewhere around Islamabad tomorrow afternoon.  We don't have pinpoint, so you'll split into teams of 4.  It's boots on the ground, old school. Target Zhao's VTOL, tag him and bag him.  Don't miss."
+
+REFERENCE           FRONTEND_VOX_VOX_SFF_4_04_008A_BRIG_M
+LANG_ENGLISH        "^1Adm. Briggs: ^7Good luck, Commander.  This is it. You have to take out Zhao before SDC camps out in Moscow.  You fuck it up, and our military supremacy is just a wet dream."
+
+REFERENCE           FRONTEND_VOX_VOX_SFF_4_04_008A_BRIG_S
+LANG_ENGLISH        "^1Adm. Briggs: ^7Good luck, Commander.  This is it. You have to take out Zhao before SDC camps out in Moscow.  You... it up, and our military supremacy is just a... dream."
+
+REFERENCE           FRONTEND_VOX_VOX_SFF_4_04_011A_SECT_D
+LANG_ENGLISH        "^1Section: ^7Killing Zhao will deal a massive blow to Menendez's plan to start all our war between America and SDC."
+
+REFERENCE           FRONTEND_WARMAP_AVAILABLE
+LANG_ENGLISH        "Strikeforce Map Available"
+
+REFERENCE           UIPLS_PLAYLIST_CATEGORY_NOTVISIBLE
+LANG_ENGLISH        "CLASSIFIED"
+
+REFERENCE           UIPLS_PLAYLIST_NOTVISIBLE
+LANG_ENGLISH        "CLASSIFIED"
+
+REFERENCE           UIPLS_PLAYLIST_NOTVISIBLE_CAPS
+LANG_ENGLISH        "This map contains CLASSIFIED materials.  A higher clearance level is required."
+
+REFERENCE           UIPLS_PLAYLIST_NOTVISIBLE_DESC
+LANG_ENGLISH        "This map contains CLASSIFIED materials.  A higher clearance level is required."
+
+ENDMARKER
