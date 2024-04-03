@@ -16,7 +16,7 @@ Compilation of **Localized Strings** from **Call of Duty** games. _Currently on 
   
 # Notes
 * If you are editing strings that contain **Latin characters** (such as Spanish), please first save the file in the **ISO 8859-1 (Western) encoder**.
-* This applies to any game **older than Black Ops II**, as T6 uses **UTF-8**.
+  (This applies to any game **older than Black Ops II**, as T6 uses **UTF-8**).
 * **Black Ops II** only has **subtitles on English**, they were not translated by Keywords to Spanish since **the game doesn't use them**.
 
 # Info
