@@ -1,0 +1,401 @@
+a1_vault_menendez_1,0.2,3,^1Guard: ^7Security...Rise and shine Woods...
+a1_vault_menendez_2,4,5.2,^1Woods: ^7Now that's an entrance. 
+a1_vault_menendez_2,6.1,9,^1Woods: ^7Started thinking you weren't gonna make it.
+a1_vault_menendez_3,1.1,3.2,"^1Menendez: ^7Mi hermana, Josefina."
+a1_vault_menendez_3,7.2,11,^1Woods: ^7Yeah...I've been waiting for this.
+a1_vault_menendez_4,1,3.2,^1Menendez: ^7She survived the fire...
+a1_vault_menendez_4,5,7,^1Menendez: ^7...for me.
+a1_vault_menendez_4,8,10.2,^1Menendez: ^7I didn't leave her.
+a1_vault_menendez_5,0.1,1.2,^1Menendez: ^7You took her from me.
+a1_vault_menendez_5,2.1,4.1,^1Woods: ^7What'd you learn from that?
+a1_vault_menendez_5,5.1,6.1,^1Menendez: ^7What did I learn?
+a1_vault_menendez_6,13.2,15.2,^1Menendez: ^7Cordis Die.
+a2_vault_jr_dead,1,2,^1Woods: ^7Do not enter...
+a2_vault_jr_dead,2.2,6,"^1Woods: ^7I swear to God, I will shove this wheelchair right up y-"
+a2_vault_jr_dead,6.1,7.2,^1Mason: ^7...Ass.
+a2_vault_jr_dead,10.1,13.1,"^1Mason: ^7Hey Woods, you look like hammered shit."
+a2_vault_jr_dead,14,15.1,^1Woods: ^7You stay right there.
+a2_vault_jr_dead,21,24.2,^1Woods: ^7Mason...I shot you!
+a2_vault_jr_dead,28.2,30.2,^1Mason: ^7Turns out you're a lousy shot.
+a2_vault_jr_dead,31.2,36.1,^1Woods: ^7My ass.  Where the fuck you been for thirty years?
+a2_vault_reunite_1,0.7,2.1,^1Section: ^7David Mason for Sgt. Woods. 
+a2_vault_reunite_1,2.2,3.8,^1Guard: ^7Another Mason?
+a2_vault_reunite_1,4.8,7.2,^1Section: ^7Oh fuck...Secure the building!
+a2_vault_reunite_2,1,3.2,"^1Woods: ^7Hey kid, come on."
+a2_vault_reunite_2,2.1,3.1,"^1Section: ^7Jesus, Frank..."
+a2_vault_reunite_3,0.1,2,^1Woods: ^7I'll introduce you to somebody.
+a2_vault_reunite_3,2.1,4.1,^1Woods: ^7Al this is Dave. Dave... 
+a2_vault_reunite_3,4.1,5,^1Section: ^7How ya doin'...
+a2_vault_reunite_3,5.1,8.1,^1Woods: ^7...this is your dad!
+a2_vault_reunite_4,3.2,5.2,^1Section: ^7Dad?...
+a2_vault_reunite_5,4,7.1,^1David: ^7Dad...No...DAD!
+a2_vault_reunite_6,4.9,6.1,^1Section: ^7What the fuck...?
+a2_vault_reunite_6,6.2,11,"^1Woods: ^7Ahh, you're a couple of fucking broads, work this shit out on your own. Need some smokes..."
+a2_vault_reunite_6,11.1,14.2,"^1Woods: ^7Nurse Batshit, where's my smokes?!"
+a2_vault_reunite_7,0.1,2.2,^1Mason: ^7Still got that scar?
+a2_vault_reunite_7,6.1,8.2,^1Mason: ^7You made me proud that day.
+a2_vault_reunite_7,10.1,12.1,^1Section: ^7I fell...
+a2_vault_reunite_7,13,16,^1Mason: ^7Yeah...but you got back up.
+a3_grave_jr_alive_3,0.1,1.2,^1Section: ^7I get it now.
+a3_grave_jr_alive_3,3.1,5.1,^1Woods: ^7He loved you kid.
+a3_grave_jr_alive_3,6.1,8,^1Section: ^7I know.
+a3_grave_jr_alive_4,0.1,4.1,^1Woods: ^7This is the price we pay for what we do.
+a3_grave_jr_alive_6,1.1,3.2,"^1Section: ^7I'm done, Sarge."
+a3_grave_jr_alive_6,5.1,6.2,^1Woods: ^7Good...
+a3_grave_jr_alive_7,1.2,4,^1Woods: ^7...he's happy to hear that.
+a3_grave_jr_alive_7,5.2,7.4,"^1Section: ^7You talking to the dead now, Sarge?"
+a3_grave_jr_alive_7,8,12.5,^1Woods: ^7Nah. They talk to me
+a7x,7.3,10.1,^1Woods: ^7Hey! I got it!
+a7x,14.1,16,^1Woods: ^7Hah?! What do ya think?!
+a7x,16.1,18,^1Menendez: ^7Hijo de puta...
+a7x,18.2,20.1,^1Menendez: ^7I've been practicing this all fucking week...
+a7x,20.2,22,"^1Woods: ^7Hey, what's going on, man?"
+a7x,22.1,25.2,^1Menendez: ^7Sarge...I get nervous when I go on stage.  
+a7x,26,29.3,"^1Menendez: ^7My...my mind, it...it draws a blank. I feel like I want to throw up."
+a7x,30.1,37.1,"^1Woods: ^7Dezzy, we talked about this already, right? You gotta let that Cordis Die shit go, man!"
+a7x,37.2,41,"^1Woods: ^7Ahh...come on, dude, come on...breathe! You gotta breathe!"
+a7x,41.3,43,^1Menendez: ^7Ah sh...
+a7x,43.1,46.1,^1M. Shadows: ^7Menendez! What the fuck are you doing?!
+a7x,46.2,48.2,^1Menendez: ^7I...I've been...practicing so hard...
+a7x,49.1,54.3,"^1Synyster Gates: ^7Hey, goddamnit! Our fans are expecting a killer show tonight, so DO NOT fuck this up."
+a7x,56.2,59.6,"^1M. Shadows: ^7Hey, old timer, you ready to rock?"
+a7x,61.1,63.1,"^1Woods: ^7I'm ready to ROLL, baby!"
+a7x,63.2,64.2,^1Menendez: ^7What the fuck?!
+a7x,64.3,69,"^1Woods: ^7Oh that shit? Nah, I'm just fucking lazy.  Let's go kill this thing!"
+a7x,69.1,73.2,"^1M. Shadows: ^7Oorah, double time! That means you, Menendez."
+a7x,76.1,80.1,^1Menendez: ^7Yes yes...I've been practicing so hard all week...ok-
+a7x,80.2,81.2,^1M. Shadows: ^7MENENDEZ!
+a7x,81.3,86.1,"^1Menendez: ^7Okay! Okay, okay...Adios mio..."
+afghanistan_int_1,0.1,2.1,^1Harper: ^7Your old man was one tough son of a bitch.
+afghanistan_int_1,2.2,3.4,^1Woods: ^7Bet your ass he was.
+afghanistan_int_1,6.1,12.1,"^1Woods: ^7Kravchenko basically carved a hole in his head, and he shoved those fucking numbers in there, and he survived that."
+afghanistan_int_1,13.4,18.1,"^1Woods: ^7Now, Mason said he didn't see those numbers anymore, but...I don't know..."
+afghanistan_int_1,19.1,21.1,^1Woods: ^7Not so sure about that.
+afghanistan_int_2,1,7.1,"^1Woods: ^7Couple times, I saw the tick... he'd get that look in his eye, and he'd start scanning the room..."
+afghanistan_int_2,9.1,11.1,"^1Woods: ^7...Next thing you know, he's talking to the Russian..."
+afghanistan_int_2,16,19.5,^1Woods: ^7Fucking Reznov...good old tricky Vik!
+angola_2_load,2,3.2,^1Woods: ^7I was MIA in 'Nam...
+angola_2_load,6.1,8.2,^1Woods: ^7...but your old man thought I was dead.
+angola_2_load,11,18.1,"^1Woods: ^7After all that shit Kravchenko did to him, the numbers... Reznov being stuck in his head..."
+angola_2_load,19.1,22.1,^1Woods: ^7...He had no idea what was real...How the fuck could he?
+angola_2_load,23,28.1,"^1Woods: ^7Kravchenko. When I sliced that bastard open, it saved everyone's ass."
+angola_2_load,28.2,33.2,"^1Woods: ^7He comes to first, BOOM! Welcome to the Hanoi Hilton."
+angola_2_load,34,40.3,^1Woods: ^7Six months later they shipped me over to Da Nang. And this fucking place made the Hilton look good.
+angola_2_load,41.1,47,^1Woods: ^7We lost 17 in my group. By '72 it was just me.
+angola_2_load,47.1,51.3,^1Woods: ^7I was not gonna die in a fucking swamp!
+angola_load,1,6.1,^1Woods: ^7They found where I was held prisoner with a spy satellite...one of them KH-09s.
+angola_load,6.2,14.2,"^1Woods: ^7This baby, it shits out a film canister 12 miles up, then a C-130 comes by... pffft...snags it at about 30,000 ft."
+angola_load,14.3,22,"^1Woods: ^7This was not the digital age. This film had to be processed, analyzed and delivered...all by hand."
+angola_load,22.2,27.2,^1Woods: ^7Our dog in the fight was a guy named Jonas Savimbi. (laughs)
+angola_load,29,32.1,^1Woods: ^7You think I'm fucking nuts? This guy...
+b1_karma_alive2,0.1,1.1,^1Karma: ^7Colonel Kurtz...
+b1_karma_alive2,2,13.2,"^1Karma: ^7Celerium WORM, attacking the electrical grid. Power stations...water distribution...it's every state...oh wait...it's all over the world."
+b1_karma_alive2,14.1,15.2,^1Col. Kurtz: ^7Get me the President!
+b1_karma_alive2,16,17.2,"^1Karma: ^7Chill out jerkoff, I got it."
+b1_karma_alive3,0.1,3.1,^1Col. Kurtz: ^7President Bosworth would like to thank you personally.
+b1_karma_alive3,7.1,8.1,^1Karma: ^7Yeah?
+b1_karma_alive3,8.2,11,"^1President Bosworth: ^7On behalf of our great nation, thank you."
+b1_karma_alive3,11.1,13.2,"^1Karma: ^7Don't sweat it bitch, I didn't vote for you."
+b2_karma_dead2,0.1,4.2,"^1CIA Nerd: ^7It's a Celerium WORM, mate. Same twat that copped the drones."
+b2_karma_dead2,6,8.2,^1CIA Nerd: ^7It's knackered power stations all over the east coast.
+b2_karma_dead2,9.3,11.2,^1Col. Kurtz: ^7How long will it take you to stop it?
+b2_karma_dead2,13,21.2,^1CIA Nerd: ^7I've spent the last year trying to crack this sod. Best thing I can do right now is leggit back to England.
+b3_revolution,0.1,16.2,"^1Menendez: ^7This video is triggered to play upon my assassination. Cordis Die, you know how to proceed. My death will shine light upon ubiquitous darkness..."
+blackout_frontenda,0,1.1,^1Soldier: ^7The Chinese fighters are here.
+blackout_frontenda,3.3,5.2,^1Soldier: ^7The Obama is secured!
+blackout_frontendb,0.1,5,"^1Soldier: ^7All hands, abandon ship! The Obama is lost."
+blackout_load_2a,0.1,14.1,"^1Briggs: ^7I have a thousand drones at standby alert, ready to launch on my command. If Russia or SDC gets any bright ideas, make no mistake Secretary Petraeus, your armed forces are ready."
+blackout_load_2a,14.2,19,^1Petraeus: ^7The last order to DEFCON 3 was given by Secretary Rumsfeld almost 25 years ago.
+blackout_load_2a,19.2,24.2,^1Briggs: ^7I know. I flew a patrol myself that day.
+blackout_load_2b,0.1,7.2,^1Petraeus: ^7Premier Chen has pledged China's military support to all US operations disrupting Raul Menendez's infrastructure in anticipation of the cyber attack.
+blackout_load_2b,8,20,"^1Briggs: ^7SDC is finished, Secretary Petraeus. America and China joining forces truly marks the beginning of a new era."
+blackout_load_2b,21,23,"^1Petraeus: ^7And one that you should be damn proud of, Admiral."
+blackout_load_3,5.1,6.1,^1Section: ^7Sir.
+blackout_load_3,8.1,10.1,^1Section: ^7Secretary.
+blackout_load_3,24,27,^1Petraeus: ^7President Bosworth sends her regards.
+blackout_load_3,29,34,"^1Menendez: ^7For those souls who have toiled, and wrought, and thought with me..."
+blackout_load_3,35,39,^1Menendez: ^7...some work of noble note may yet be done.
+blackout_load_3,43.2,47,^1Briggs: ^7Get this cocksucker off my flight deck.
+blackout_load_3,47.1,49.2,"^1Section: ^7Gladly, sir."
+blackout_load_3,56.2,59,^1Petraeus: ^7We got him.
+c1_karma_alive,0.1,9,^1Kimmel: ^7So I guess you're famous now for...saving the world. It's very rare that we have a celebrity that has actually done something.
+c1_karma_alive,10,11.7,^1Kimmel: ^7You're not going to do a reality show are you?
+c1_karma_alive,12,14,^1Karma: ^7Oh... you got it Jimmy!
+c1_karma_alive,14.1,21.1,"^1Kimmel: ^7Okay. So um...I mean tell me what this is like, it must be, I mean must be a great day to be you?"
+c1_karma_alive,21.2,27.1,"^1Karma: ^7Yeah, and it's a bad fucking day to be Raul Menendez."
+c1_karma_dead,2.1,9.2,"^1Kimmel: ^7You know we invited Raul Menendez to be here on the show tonight, but uh he had other plans, something about an anniversary..."
+c1_karma_dead,19.2,20.2,^1Guard: ^7Secure him. 
+c1_karma_dead,23,24.2,^1Commando: ^7What happened to the lights?!
+c1_karma_dead,24.3,25.3,^1Commando: ^7...the fuck?!
+haiti_int_1,0.1,6.2,"^1Menendez: ^7...opulence is sinful, and we all pay for it."
+haiti_int_1,9.1,18,"^1Menendez: ^7Los Angeles was the flagship of their absurd materialism, so I destroyed it."
+haiti_int_1,18.2,22,^1Menendez: ^7They thought I wanted to kill the President.
+haiti_int_1,23,34,"^1Menendez: ^7Madame President, I could have buried you a million times over...no... I wanted you to see it, to feel what it's like."
+haiti_int_1,41,48,"^1Menendez: ^7Today two billion people exist in abject misery, tyrannized by war."
+haiti_int_1b,10.9,16.4,"^1Menendez: ^7Madame President, your war machines are no more."
+haiti_int_1c,0.1,6.2,^1Menendez: ^7Your military is crippled. You cannot stop us now.
+haiti_int_1c,9.2,24.5,"^1Menendez: ^7Cordis Die, rise, and strike while they are down. Strike now, and strike deep."
+haiti_load,0.1,4.2,"^1Petraeus: ^7Madame President, we now know how Menendez pulled it off."
+haiti_load,5,12.1,"^1Petraeus: ^7It's now clear that Menendez intended to be captured and brought to the Obama, in order to execute his attack."
+haiti_load,13,16.1,^1President Bosworth: ^7A Trojan Horse. Odysseus.
+haiti_load,18,25.1,^1Petraeus: ^7He used a Celerium device to infect our internal servers with a virus compromising our entire military satellite infrastructure.
+haiti_load,26,33.2,"^1Petraeus: ^7The bad news is, the drones are still his. He's piggybacking on communications satellites all over the world."
+haiti_load,34.1,35.2,^1President Bosworth: ^7What are our options?
+haiti_load,37,42.2,"^1Petraeus: ^7Well, there is some good news. We've traced the source of the signals."
+haiti_load,44,45,^1President Bosworth: ^7Haiti?
+haiti_load,45.1,49.2,"^1Petraeus: ^7JSOC's in the sky right now. In T minus ten minutes, we'll be boots on the ground."
+haiti_load,50.1,52.2,^1President Bosworth: ^7How long before the drones get to the other cities?
+haiti_load,53.1,59.1,^1Petraeus: ^7At the current rate and trajectory... Approximately T minus ten.
+haiti_load_2a,0.1,2.1,"^1President Bosworth: ^7Oh my God, what about China?"
+haiti_load_2a,3,10.2,"^1Petraeus: ^7We are launching a coordinated simultaneous attack on Haiti. We can trust Premier Chen now, he will not let us down."
+haiti_load_2b,0.1,2.1,"^1President Bosworth: ^7Oh my God, what about China?"
+haiti_load_2b,2.2,12.1,"^1Petraeus: ^7Well, all diplomatic contact has ceased, but as you can see... Beijing, Shanghai and Hong Kong...they're in as much danger as we are."
+haiti_load_3,0.1,1.1,^1President Bosworth: ^7Is this it?
+haiti_load_3,2.1,3.1,^1President Bosworth: ^7Is this the end?
+haiti_load_3,4,8,"^1Petraeus: ^7Madame President, may God help us."
+intro,1.2,6.2,"^1Section: ^7My father, Alex Mason, gave up everything he had."
+intro,8,18,^1Section: ^7He abandoned me...so he could defend his country from people like you. I hated him for that.
+intro,19.1,25,"^1Section: ^7But now here I am, with you."
+intro,26.1,31.2,"^1Menendez: ^7So we are the same, David. Shaped by those we lost."
+intro,123.1,127.1,^1Josefina: ^7Don't...leave...me.
+intro,127.3,129.2,^1Menendez: ^7Cordis Die!
+intro,133,136.3,^1Crowd: ^7Cordis Die! Cordis Die!
+karma_2_load,4.1,6.2,^1Section: ^7Patching into the security camera feeds.
+karma_2_load,9.1,11,^1Section: ^7Unmarked choppers.
+karma_2_load,16,21.2,"^1Section: ^7Menendez's PMCs, mercenaries. There's dozens of them."
+karma_2_load,24,30,"^1Section: ^7Wait, there! Right there. You see that? That's him! That's him!"
+karma_2_load,33.2,37,"^1Section: ^7Damn it, I lost the feed. DeFalco's jamming the signals."
+karma_2_load,41.2,44.2,^1Section: ^7He's rigged the ship. We move now. Cut him off at the atrium. 
+karma_load_a,0.1,6.1,^1Menendez: ^7[Spanish] Ensure that all intelligence relating to the drone is available ahead of our discussion.
+karma_load_a,6.2,9,^1Harper: ^7China would pay billions to get their hands on this drone. 
+karma_load_a,10,12,"^1Menendez: ^7[Spanish] Good...fortune, DeFalco."
+karma_load_a,12.3,14,^1Section: ^7Good Karma.
+karma_load_a,14.3,15.2,^1Harper: ^7The cyber weapon.
+karma_load_a,16.1,19,^1Section: ^7Wait. There...right there. You see that?
+karma_load_a,20,23.1,^1Section: ^7Cross reference image with active US corporate logos.
+karma_load_a,23.2,24,^1Computer: ^7No matches.
+karma_load_a,25,26.2,"^1Section: ^7Cross reference, worldwide."
+karma_load_a,27.1,30.2,"^1Harper: ^7Wait a minute, wait a minute...it's ""Colossus""!"
+karma_load_a,31,33.1,^1Harper: ^7This Karma weapon's on a floating city. 
+karma_load_a,33.2,41.2,"^1Section: ^7That's how they could get close to the mainland. Salazar. Prep a covert response team, ready to go in 60 minutes. Inform Admiral Briggs."
+karma_load_a,45,51.1,"^1Section: ^7We're getting really close to Menendez. To get the upper hand, I've gotta get some answers from the horse's mouth. I'm going to see Woods at the Vault."
+karma_load_a,51.2,55.1,^1Section: ^7First things first. Karma.
+karma_load_b,0.1,6.1,^1Menendez: ^7[Spanish] Ensure that all intelligence relating to the drone is available ahead of our discussion.
+karma_load_b,6.2,9,^1Harper: ^7China would pay billions to get their hands on this drone. 
+karma_load_b,10,12,"^1Menendez: ^7[Spanish] Good...fortune, DeFalco."
+karma_load_b,12.3,14,^1Section: ^7Good Karma.
+karma_load_b,14.3,15.2,^1Harper: ^7The cyber weapon.
+karma_load_b,16.1,19,^1Section: ^7Wait. There...right there. You see that?
+karma_load_b,20,23.1,^1Section: ^7Cross reference image with active US corporate logos.
+karma_load_b,23.2,24,^1Computer: ^7No matches.
+karma_load_b,25,26.2,"^1Section: ^7Cross reference, worldwide."
+karma_load_b,27.1,30.2,"^1Harper: ^7Wait a minute, wait a minute...it's ""Colossus""!"
+karma_load_b,31,33.1,^1Harper: ^7This Karma weapon's on a floating city. 
+karma_load_b,33.2,41.2,"^1Section: ^7That's how they could get close to the mainland. Salazar, prep a covert response team, ready to go in 60 minutes. Inform Admiral Briggs."
+karma_load_b,45,51.1,"^1Section: ^7We're getting really close to Menendez. To get the upper hand, I've gotta get some answers from the horse's mouth. I'm going to see Woods at the Vault."
+karma_load_b,51.2,55.1,^1Section: ^7First things first. Karma.
+la_1_load_2a,0.2,8,^1President Bosworth: ^7All ASEAN units of the United States Navy have been instructed to defend China against Raul Menendez's drone attacks. 
+la_1_load_2a,9,17.1,"^1Premier Chen: ^7(In Mandarin Chinese) Thank you.  (In English) Thank you, Madame President. Your actions speak louder than any words."
+la_1_load_2b,0.1,9.1,^1President Bosworth: ^7Raul Menendez launched the drone attacks against your cities. The United States has nothing to gain by invading China - we are all pawns of Raul Menendez-
+la_1_load_2b,8,18,"^1Premier Chen: ^7Thousands of American drones are heading for our capital cities. Your weapons, Madame President..."
+la_1_load_3,0.1,0.7,^1Petraeus: ^7Madame President.
+la_1_load_3,0.8,10,^1Petraeus: ^7The Seal Commander who captured Menendez requested to head up your security detail.  He's our best authority on Menendez and he still believes you may be a target.
+la_1_load_3,10.1,13.2,"^1Agent: ^7Sir, we have activity on the ground. Multiple hostiles."
+la_1_load_3,14.2,18,"^1Petraeus: ^7Oh my God, the drones... They're changing course..."
+la_1_load_3,18.1,24.2,^1Section: ^7Los Angeles. I knew it was too easy to crack that Celerium drive. He's targeting the President. 
+la_1_load_3,30.1,35.3,^1Section: ^7Marine One is under attack!  Go to ground! Go to ground! Alert the MRAP for immediate pickup.
+la_1_load_3,38,40,^1Section: ^7We're going down!
+la_1_load_3,45.2,56.1,^1Section: ^7Madame President... are you okay? Are you sure? Evac the President to Prom Night.
+monsoon_load,0.1,13.1,"^1Woods: ^7That's how it started. Your old man tries to kill Menendez. Menendez, wants payback...even if it takes decades. Menendez, back then...he was a uh...a big fish in a small pond..."
+monsoon_load,13.2,21.1,"^1Woods: ^7He made his cake by running a drug cartel out of Nicaragua. It was a hand-me-down, the CIA smoked his old man."
+monsoon_load,22,24,^1Woods: ^7Old Cyclops is pretty pissed at America.
+monsoon_load,24.2,29.1,"^1Woods: ^7While we're fucking around in the Middle East, the Russians and Chinese get real cozy."
+monsoon_load,30.1,39.2,"^1Woods: ^7Now the politicians, they want you to think this is about ideology. That's a lot of horseshit. Give me your phone."
+monsoon_load,43,47.1,^1Woods: ^7Rare Earth Elements. The whole fucking world runs on this shit.
+monsoon_load,48.1,51.1,^1Woods: ^7Who controls all of it? China.
+monsoon_load,52.2,55.1,^1Woods: ^7So while Corporate America's kissing China's ass...
+monsoon_load,55.2,62.1,"^1Robins: ^7...Now the mysterious ""Cordis Die"" social network has crowdsourced simultaneous protests in both Iran and North Korea."
+monsoon_load,63.1,67.1,"^1Robins: ^7Never seen in public, who really is the leader of Cordis Die?"
+monsoon_load,67.2,69.8,^1Robins: ^7He's known only as Odysseus
+monsoon_load,70.1,78.2,"^1Woods: ^7Odysseus, my ass... Raul fucking Menendez. Asshole!"
+monsoon_load,80,82,^1Woods: ^7I told the JSOC...but they were too busy.
+monsoon_load,82.1,84.1,^1Woods: ^7See the Drone race had started.
+monsoon_load,84.2,90.2,^1Woods: ^7Really guys? You're gonna build an entire military based on a mineral element that is wholly controlled by China?
+monsoon_load,91.1,97,"^1Woods: ^7I need a drink. Dipshit, go get me a soda. Get it from the nurses stash, none of that diet crap."
+monsoon_load,97.2,104.1,^1Robins: ^7China's Premier Chen is outraged by Cordis Die's leaked memo alleging the Cyber Attack was covertly ordered by the White House.
+monsoon_load,104.2,111.1,"^1Woods: ^7After all the dirty shit the US government has  gotten away with, this time they're innocent. And no one fucking believes them."
+monsoon_load,112,113.2,^1Woods: ^7They take out Cordis Die's network
+monsoon_load,114,119,"^1Woods: ^7Two days later, the Director of the FBI, burned alive."
+monsoon_load,119.2,124.1,"^1Woods: ^7Right now, a billion people believe that Raul Menendez is their savior."
+monsoon_load,124.2,130.1,"^1Woods: ^7Well, guess what boys. He's not. You'd better take him out pretty fucking quick."
+monsoon_load,134.1,135.1,^1Woods: ^7Bad shit's gonna happen.
+nicaragua_frontend,0.1,4.2,"^1Woods: ^7You let the PDF walk off with the body, and now he's back."
+nicaragua_frontend,6.1,8,^1Woods: ^7...and he's pretty pissed off too.
+nicaragua_frontend,8.2,13.1,"^1Section: ^7Well he sure can't kill my old man, 'cause somebody already beat him to it long ago."
+nicaragua_frontend,14.5,16.2,^1Section: ^7But he could have killed you.
+nicaragua_frontend,17.1,19.3,"^1Section: ^7So why are you still alive, Frank?"
+nicaragua_frontend,22.1,24.1,^1Menendez: ^7Now it begins...
+nicaragua_frontend,24.2,28.2,"^1Woods: ^7I'm done talkin', go find that maniac."
+nicaragua_int_1,0.1,4,^1Section: ^7Menendez's sister Josefina died in the blast? Who threw the grenade?
+nicaragua_int_1,4.1,11,"^1Woods: ^7I had no idea she was there, David. I just saw Menendez...and I lost my shit."
+nicaragua_int_1,11.1,16,"^1Section: ^7Frank, you don't lose your shit. What the fuck did Menendez do to you in Angola?"
+nicaragua_int_1,18.2,24,^1Woods: ^7Menendez he... he wanted to know what the CIA had on him.
+nicaragua_int_1,25,29.1,"^1Woods: ^7So, he tortured my men in front of me... thought I'd break."
+nicaragua_int_1,31.1,41.1,"^1Woods: ^7One, by one, I watched my team die, then he...dumped us in a tin can and locked the door...left me in there for weeks."
+nicaragua_int_1,41.2,48,"^1Woods: ^7So yeah, the next time I saw Menendez, I lost my shit! WHAT THE FUCK WOULD YOU DO?"
+nicaragua_load,4.2,6.2,^1Harper: ^7What took you so long?
+nicaragua_load,8.2,10.1,^1Harper: ^7So the boss is back in town.
+nicaragua_load,11.1,12.3,^1Harper: ^7Now go get that fuck Menendez.
+nicaragua_load,15.1,17.2,^1Harper: ^7He blames your Dad for killing his sister. 
+nicaragua_load,19.2,21.1,^1Harper: ^7He also blames Woods...
+nicaragua_load,22.1,24,^1Harper: ^7And now he's coming for you.
+nicaragua_load,37.1,42.3,"^1Harper: ^7Dude, I think Menendez is going down."
+nicaragua_load,43.1,50,"^1Section: ^7I keep seeing these flashes...the night my father died, when I was a kid...Why now?"
+nicaragua_load,50.1,52.4,"^1Harper: ^7Ah fuck it, I just didn't hit you hard enough."
+nicaragua_load,53.1,57.2,"^1Section: ^7Alright look, Woods gave us all the pieces - we just gotta put 'em together."
+nicaragua_load,58.3,63.1,"^1Woods: ^7Menendez was in Nicaragua, got that from Kravchenko."
+nicaragua_load,63.2,70.1,"^1Woods: ^7He was being offered up on a silver platter by old pineapple face himself, Manuel Noriega."
+nicaragua_load,71,76.1,"^1Woods: ^7One of the perks of being president of Panama, is you get to use the army as your private police force."
+nicaragua_load,76.2,86,"^1Woods: ^7So CIA, in their infinite wisdom, they sign off on the deal, and the White House cuts Noriega a check for a million bucks and everybody takes their victory lap."
+nicaragua_load,87.1,89.1,^1Woods: ^7And off we go to the jungle...
+nicaragua_load,90.1,99,^1Woods: ^7What we did in Nicaragua...that was an accident. We don't target civilians.
+pakistan_2_load,0.1,1.2,"^1Section: ^7Admiral, we're in position."
+pakistan_2_load,1.3,6.1,^1Briggs: ^7Well done Commander. I'm patching you through Anthem's interior schematics.
+pakistan_2_load,6.2,11.1,^1Briggs: ^7Now your best vantage point is gonna be here... overlooking the courtyard.
+pakistan_2_load,12.1,20.2,"^1Briggs: ^7CLAWs will flank you on your infiltration route. These boys are all you got. So if you lose one of them, you're on your own."
+pakistan_2_load,21.2,30.2,"^1Briggs: ^7And you keep your eye on that patrolling drone, son. If that cocksucker gets a bead on you, you can run but you'll die tired."
+pakistan_2_load,32,34,"^1Section: ^7If I choose to run Admiral, it will be right at him."
+pakistan_2_load,34.7,36,^1Briggs: ^7Good luck Commander.
+pakistan_3_load,0.1,4.1,"^1Section: ^7Admiral, we've commandeered enemy SOC-Ts. Request immediate air support and extraction."
+pakistan_3_load,4.2,8.2,"^1Briggs: ^7Negative Commander, you got the whole fucking SDC descending on your current position."
+pakistan_3_load,9,16,"^1Briggs: ^7Alright, now there are many escape routes throughout the town. Use the drones to clear safe passage for the SOC-Ts."
+pakistan_3_load,16.1,17.2,^1Section: ^7What if SDC get to us first?
+pakistan_3_load,18,21,^1Briggs: ^7Then you better hope that they're in a fucking good mood.
+pakistan_load,0.1,7.1,"^1Briggs: ^7Known only as DeFalco. Our undercover operative shot this off of Socotra Island, Yemen."
+pakistan_load,8,8.3,^1Briggs: ^7Farid.
+pakistan_load,9.2,13,^1Farid: ^7Thank you Admiral. DeFalco is Menendez's number two.
+pakistan_load,14,17.1,"^1Farid: ^7The concept of empathy is understood by him, but...irrelevant."
+pakistan_load,17.2,23,"^1Briggs: ^7A whisper drone captured this two days ago at an abandoned prison in Lahore, Pakistan."
+pakistan_load,23.2,28,^1Harper: ^7We lost contact with a reconnaissance drone over Pakistan just last week.
+pakistan_load,28.1,37.1,^1Section: ^7Wait a minute...the scientist we captured at Myanmar told us Menendez is using Celerium to develop a Cyber Weapon called Karma. What if it's Karma taking out our drones?
+pakistan_load,38.1,41.2,^1Harper: ^7You know what? This DeFalco guy could be fairly entertaining.
+pakistan_load,42,42.8,^1Salazar: ^7Fairly.
+pakistan_load,43.2,46.1,"^1Harper: ^7What do you say we blow off a little steam, huh? Throw a few punches first?"
+pakistan_load,48.1,49.1,^1Section: ^7You got it.
+pakistan_load,50,51.1,^1Harper: ^7Come on. Come suffer with me.
+pakistan_load,55.2,59.1,^1Section: ^7What did you just say? Come suffer...what?
+pakistan_load,62.2,70.1,"^1Section: ^7These flashes I'm getting...I know I was kidnapped the night my father died, but I could never see..."
+pakistan_load,71.2,77.1,^1Section: ^7It was Menendez. Did he kill my father?
+pakistan_load,79,85.1,"^1Section: ^7Woods raised me after my father died, but he always told me it was just some nut that killed him...some drifter..."
+pakistan_load,88,89.2,^1Section: ^7What the hell's going on?
+pakistan_load,93,101,^1Menendez: ^7You suffer with me.  For all the sins of those who came before you.
+pakistan_load,104.2,106.1,^1Section: ^7Why didn't Woods tell me?
+pakistan_load,107,114,^1Menendez: ^7Woods...Hudson...They created this...
+pakistan_load,119,123,^1Menendez: ^7For Josefina...
+pakistan_load,123.3,126.1,^1Menendez: ^7TONIGHT! Your father will DIE!
+panama_2_load,0.1,2,^1Woods: ^7The mission was snatch and grab.
+panama_2_load,3,8.1,"^1Woods: ^7Then fucking Hudson gets on the radio, says that Noriega is not the mission. He's a hand off."
+panama_2_load,9,13,^1Woods: ^7He's a prisoner swap. And right fucking then I should have known...right then and there...
+panama_2_load,13.1,16.2,"^1Woods: ^7I should have known right then and there... Like, what the fuck is wrong with me! What the fuck!"
+panama_2_load,17,20,"^1Section: ^7Frank, just take it easy."
+panama_2_load,21.1,25.1,^1Woods: ^7Fucking Hudson! I should have smoked him in 'Nam.
+panama_3_load,1.1,5,^1Section: ^7Did he go out like a soldier? 
+panama_3_load,7.1,11,^1Section: ^7Don't you tell me that fat fucking slob took him out. Don't you tell me that!
+panama_3_load,13.1,21.2,"^1Woods: ^7It didn't go down like that, kid. Noriega was a puppet. We're all just puppets."
+panama_frontend,3,7,"^1Section: ^7There's nothing you could have done, Frank. It wasn't your fault."
+panama_frontend,9.2,17.2,"^1Woods: ^7Me and your old man, we were the best...and we still couldn't stop him."
+panama_frontend,19,24,^1Section: ^7Times have changed old man. He's going down.
+panama_int_1,0.1,3,"^1Woods: ^7This mission was good, planning good."
+panama_int_1,3.2,7.2,"^1Woods: ^7The only piece that didn't fit was Hudson, on the comm link running the show."
+panama_int_1,9.2,19.2,"^1Woods: ^7It just felt off, even on the way in...I felt it...you know it was gnawing at me...I just didn't look at it."
+panama_int_2,0.1,3,"^1Woods: ^7I may have questioned orders, but I never questioned motives."
+panama_int_2,3.2,8,"^1Woods: ^7You take care of your unit, you get your guys home safe."
+panama_int_2,8.1,9.1,"^1Section: ^7Roger that, Frank."
+panama_int_2,10.1,16,^1Woods: ^7That's not how it is. Chain of command's fucked.
+panama_int_2,17,23,^1Woods: ^7I'm a soldier. I take orders and I get shit done.
+panama_load,0.1,1.2,"^1Section: ^7Commander Mason, for Sergeant Woods."
+panama_load,6.1,8.2,^1Woods: ^7I gotcha kid. You're okay...
+panama_load,8.3,11,^1Woods: ^7What took you so long? Started thinking you weren't gonna make it.
+panama_load,16,17.1,^1Section: ^7What the fuck was I doing there?
+panama_load,24,28.2,^1Woods: ^7The dead don't suffer. That's why you and I are still here.
+panama_load,29.5,32,^1Menendez: ^7You suffer with me.
+panama_load,32.1,39,^1Woods: ^7He's got a plan for you kid. He's been working it for 30 years and he is counting on you coming after him.
+panama_load,39.1,42,^1Section: ^7Wait a minute..Frank you have intel?
+panama_load,42.2,49.1,"^1Woods: ^7Remember that pendant? Pfft... disappeared...What do you think, it just sprouted legs and walked away?"
+panama_load,51,59,"^1Woods: ^7This guy, he knows every angle, every move you're gonna make, he's gonna take out 20, 30 million people."
+panama_load,61.1,65.1,^1Woods: ^7As if that's gonna bring her back. It's about his sister.
+panama_load,66,70,^1Section: ^7He killed my father to get to you.
+panama_load,72,74,^1Woods: ^7There's no clean shot with that guy- 
+panama_load,74.1,77.1,^1Section: ^7Hey! What the fuck happened in Panama? 
+panama_load,79.2,82.1,^1Woods: ^7I was pretty sure we got him in Nicaragua.
+panama_load,83.1,87,"^1Woods: ^7About a year later, he shows up in Panama with that piece of shit Noriega."
+panama_load,88,94,^1Woods: ^7That's the last straw for the CIA. The orders come down from George H. W. for a snatch and grab.
+panama_load,95,97.1,"^1Woods: ^7So, your Dad and I, we go in..."
+panama_load,97.3,99,^1Woods: ^7...what a shit show.
+prologue,18.2,20.2,^1Harper: ^7Secure the building.
+prologue,38.2,43.2,"^1Commando: ^7We've scoured every inch of ""The Vault"" sir, except this room. "
+prologue,50,52.1,"^1Woods: ^7Safety's on, dipshit."
+prologue,54,55.4,"^1Section: ^7Hey, old man."
+prologue,56,58.1,^1Section: ^7Was Raul Menendez here?
+prologue,58.2,66.2,"^1Harper: ^7Sergeant Woods! Raul Menendez is the leader of Cordis Die, and the most dangerous terrorist since Osama Bin Laden. "
+prologue,76.1,79.1,"^1Harper: ^7Fucking waste of time, guy's a vegetable. "
+prologue,79.2,80.5,^1Section: ^7Back off!
+prologue,86.1,89.2,"^1Woods: ^7All he said was...""Mi hermana...""."
+prologue,91.2,94.1,"^1Woods: ^7That's Spanish for sister, Dipshit."
+prologue,100.2,102.2,^1Section: ^7You suffer with me...
+prologue,104,110,^1Woods: ^7You boys better get your shit together...he's gonna attack.
+prologue,111,115.1,"^1Woods: ^7If you have information about a threat to national security, you got to tell us."
+prologue,116,117.3,^1Woods: ^7Turn the camera on.
+prologue,120,126.3,"^1Woods: ^7Your old man, he was doing okay in Alaska...fucking Hudson showed up..."
+prologue,128,132,^1David: ^7Dad! I'm scared...I need help!
+prologue,132.1,135,"^1Mason: ^7You're 7 years old David, stop acting like a baby."
+prologue,137.1,139,^1David: ^7I hate you. 
+prologue,143,145,^1Mason: ^7David....wait!
+prologue,152.2,157,"^1David: ^7Go back to the army, like you did when Mom died. "
+prologue,161.2,165,"^1Lt. Colonel North: ^7Lt. Colonel North, NSC. You already know Jason Hudson. "
+prologue,165.1,166.3,^1Mason: ^7What are you doing here? 
+prologue,167.1,174.3,"^1Lt. Colonel North: ^7Yesterday, Sgt. Woods led a covert team to take out an arms smuggling ring in Angola. This morning, we lost contact."
+prologue,175.1,178,"^1Mason: ^7So go get him, CIA. Why are you here? "
+prologue,178.1,186.2,"^1Hudson: ^7Castro and the Russians are all over Angola, we can't go in. The CIA have buried the mission. Woods, and his squad, no longer exist. "
+prologue,187,189.7,"^1Lt. Colonel North: ^7We've got whatever you need, Mason. Name it. "
+prologue,190.2,196.1,"^1Hudson: ^7David can stay with Jenny, like before. She loves having him...he'll be fine. "
+prologue,197,202,"^1David: ^7Dad, you said you'd never go back to the army. You promised me. "
+prologue,202.2,207.1,"^1Mason: ^7It's Uncle Woods, son. He'd do it for me. "
+so_cmp_afghanistan_load,0.1,3.2,"^1Section: ^7I can't figure out Menendez, without getting inside his fucking head."
+so_cmp_afghanistan_load,5.1,7.2,"^1Section: ^7Salazar, you grew up in Nicaragua during his rise to power."
+so_cmp_afghanistan_load,8.1,14,"^1Section: ^7You know his legends better than anyone. Tell me, why does he hate us so much?"
+so_cmp_afghanistan_load,15.1,17.1,^1Salazar: ^7(In Spanish) The First Cold War.
+so_cmp_afghanistan_load,18.2,22,"^1Salazar: ^7As a boy, he witnessed the Contras rape and murder his people..."
+so_cmp_afghanistan_load,22.2,27.1,^1Salazar: ^7In '72 there was a colossal earthquake. His family lost everything.
+so_cmp_afghanistan_load,27.2,34,"^1Salazar: ^7A year later the only thing he ever loved, his sister, Josefina, was crippled in a fire."
+so_cmp_afghanistan_load,34.1,41.1,"^1Salazar: ^7Raul and his father started over, sold drugs for easy money. They became rich, powerful, legends of Managua."
+so_cmp_afghanistan_load,41.2,48.2,^1Salazar: ^7The Menendez cartel was all but untouchable. So the CIA took out Raul's father in a U.S. sanctioned assassination.
+so_cmp_afghanistan_load,49.2,54.2,"^1Section: ^7Right, so now Menendez fucking hated America and started running guns in Afghanistan for his own private army..."
+so_cmp_afghanistan_load,55.2,58.1,"^1Section: ^7CIA got wind of it, and went on the hunt for him in Kabul."
+so_cmp_afghanistan_load,61,63.1,"^1Section: ^7That was the photo Woods showed us in the Vault, remember?"
+so_cmp_afghanistan_load,63.2,68,^1Woods: ^7See that handsome bastard? That's me...the ugly one's your father
+so_cmp_afghanistan_load,68.1,74.1,"^1Woods: ^7After 'Nam, the numbers and all that, he was one dangerous son of a bitch."
+yemen_load_2a,0.1,1.1,^1Section: ^7Did you do it?
+yemen_load_2a,2.2,3,^1Karma: ^7...I'm in.
+yemen_load_2a,3.1,3.9,"^1Salazar: ^7Fucking A, sister."
+yemen_load_2a,4.2,15,"^1Karma: ^7You don't understand. Right before I quit Tacitus, I created a Celerium WORM which could decrypt anything... Quantum shit don't crack this easy... Even for me."
+yemen_load_2b,0.1,1,^1Section: ^7What do you got?
+yemen_load_2b,2,4.1,"^1CIA Nerd: ^7Ahhh, it's a piece of piss, this Celerium."
+yemen_load_2b,6.1,8.2,^1CIA Nerd: ^7Ohh...Hell's bells to buggery...hang on mate...
+yemen_load_2b,10.2,14.1,^1CIA Nerd: ^7Bingo! Some tosser left the back door open.
+yemen_load_3,0.1,5,^1Section: ^7Menendez's network. All countries getting fucked by the New Cold War...
+yemen_load_3,6.2,13.1,"^1Section: ^7Wait a minute...New York, D.C., The Pentagon..."
+yemen_load_3,16.1,20,"^1Section: ^7Shanghai, Beijing, Hong Kong..."
+yemen_load_3,21,25.2,"^1Section: ^7Menendez is gonna attack America and China, taking out both superpowers at the same time."
+yemen_load_3,26.1,33.1,^1Section: ^7Wh..Wh... All those files have the same prefix...6-1-9...6-1...Six-nineteen...
+yemen_load_3,34.2,37.1,^1Section: ^7Oh my God. June nineteenth...that's...
+yemen_load_3,39,39.4,^1Section: ^7That's tomorrow. 
+yemen_load_3,41,49,"^1Salazar: ^7(In spanish) June 19th.... ""Freedom day"". The abolition of slavery."
+yemen_load_3,54,56.2,^1Section: ^7That son of a bitch. Get me Briggs.
+yemen_load_3,57.1,61,"^1Section: ^7Admiral, the cyber attack is 6/19, tomorrow."
+yemen_load_3,62,67,"^1Briggs: ^7We have to move on Yemen right away. No, you have to go in there, capture Menendez for interrogation."
+yemen_load_3,67.1,67.5,^1Section: ^7It's a tr-
+yemen_load_3,67.6,72,"^1Briggs: ^7You contact Farid and the Yemeni militia, we need their help."
+yemen_load_3,72.2,78.2,"^1Section: ^7Admiral, it's a trap. Menendez has been playing us the whole time. If we move on Yemen, that's exactly what he wants us to do."
+yemen_load_3,79.1,82.1,^1Briggs: ^7You get your team together. You got two hours.
+
