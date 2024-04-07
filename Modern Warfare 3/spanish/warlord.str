@@ -1,0 +1,571 @@
+// Dumped from fastfile "warlord".
+// In their original format the strings might have been separated in multiple files.
+VERSION             "1"
+CONFIG              "C:/trees/cod3/cod3/bin/StringEd.cfg"
+FILENOTES           ""
+
+REFERENCE           SUBTITLE_WARLORD_KGR_GOTCONFIRMATION115
+LANG_ENGLISH        "^2Nikolai: ^7Es el único sitio al que pueden haberlo trasladado. Si no está ahí, es que ya va de camino a Europa."
+
+REFERENCE           SUBTITLE_WARLORD_KGR_RVTHERE66
+LANG_ENGLISH        "^2Nikolai: ^7Debe de haberse trasladado al cuartel de la milicia, en el centro del pueblo."
+
+REFERENCE           SUBTITLE_WARLORD_MCT_2MOREONBRIDGE32
+LANG_ENGLISH        "^2Soap: ^7Dos más en el puente. Tendremos que abatirlos a ambos."
+
+REFERENCE           SUBTITLE_WARLORD_MCT_ANOTHERPATROL221
+LANG_ENGLISH        "^2Soap: ^7Otra patrulla. Justo delante."
+
+REFERENCE           SUBTITLE_WARLORD_MCT_AREACLEAR117
+LANG_ENGLISH        "^2Soap: ^7Zona despejada."
+
+REFERENCE           SUBTITLE_WARLORD_MCT_BASTARDS29
+LANG_ENGLISH        "^2Soap: ^7Cabrones."
+
+REFERENCE           SUBTITLE_WARLORD_MCT_BLOODYEMPTY63
+LANG_ENGLISH        "^2Soap: ^7¿Despejado? Aquí no hay una mierda."
+
+REFERENCE           SUBTITLE_WARLORD_MCT_BOUNDING256
+LANG_ENGLISH        "^2Soap: ^7Continúo."
+
+REFERENCE           SUBTITLE_WARLORD_MCT_BOUNDINGUP51
+LANG_ENGLISH        "^2Soap: ^7Avanzando."
+
+REFERENCE           SUBTITLE_WARLORD_MCT_CHANGINGMAGS714
+LANG_ENGLISH        "^2Soap: ^7¡Cambio de cargador!"
+
+REFERENCE           SUBTITLE_WARLORD_MCT_CHURCHISCLEAR142
+LANG_ENGLISH        "^2Soap: ^7¡Iglesia despejada!"
+
+REFERENCE           SUBTITLE_WARLORD_MCT_CLEAR2115
+LANG_ENGLISH        "^2Soap: ^7Despejado."
+
+REFERENCE           SUBTITLE_WARLORD_MCT_CLEAR62
+LANG_ENGLISH        "^2Price: ^7Despejado."
+
+REFERENCE           SUBTITLE_WARLORD_MCT_CONTACTLEFT87
+LANG_ENGLISH        "^2Soap: ^7¡Contacto izquierda! "
+
+REFERENCE           SUBTITLE_WARLORD_MCT_EMPTY155
+LANG_ENGLISH        "^2Soap: ^7Nada. ¿Qué cree usted que planeaba Makarov?"
+
+REFERENCE           SUBTITLE_WARLORD_MCT_EXECUTION22
+LANG_ENGLISH        "^2Soap: ^7Van a asar a ese pobre desgraciado."
+
+REFERENCE           SUBTITLE_WARLORD_MCT_FIRINGATBIRD144
+LANG_ENGLISH        "^2Soap: ^7¡Disparen a ese pájaro!"
+
+REFERENCE           SUBTITLE_WARLORD_MCT_GETUP813
+LANG_ENGLISH        "^2Soap: ^7¡Arriba, tenemos que largarnos de aquí!"
+
+REFERENCE           SUBTITLE_WARLORD_MCT_GETUPHERE74
+LANG_ENGLISH        "^2Soap: ^7¡Suba aquí, Yuri! ¡Deprisa!"
+
+REFERENCE           SUBTITLE_WARLORD_MCT_GOTHOSTILE68
+LANG_ENGLISH        "^2Soap: ^7Tenemos actividad enemiga."
+
+REFERENCE           SUBTITLE_WARLORD_MCT_HEADSUP64
+LANG_ENGLISH        "^2Soap: ^7Atentos, tenemos compañía."
+
+REFERENCE           SUBTITLE_WARLORD_MCT_HEARTHAT116
+LANG_ENGLISH        "^2Soap: ^7¿Oye eso?"
+
+REFERENCE           SUBTITLE_WARLORD_MCT_HOLDON812
+LANG_ENGLISH        "^2Soap: ^7¡Agárrense!"
+
+REFERENCE           SUBTITLE_WARLORD_MCT_HOLDUP31
+LANG_ENGLISH        "^2Soap: ^7Esperad."
+
+REFERENCE           SUBTITLE_WARLORD_MCT_KEEPFIRINGMORTAR1014
+LANG_ENGLISH        "^2Soap: ^7¡Siga dándole al mortero!"
+
+REFERENCE           SUBTITLE_WARLORD_MCT_LETSHOPE116
+LANG_ENGLISH        "^2Soap: ^7Crucemos los dedos."
+
+REFERENCE           SUBTITLE_WARLORD_MCT_MAGAZINE715
+LANG_ENGLISH        "^2Soap: ^7¡Cargador!"
+
+REFERENCE           SUBTITLE_WARLORD_MCT_MORTARDOWN105
+LANG_ENGLISH        "^2Soap: ^7Silenciados."
+
+REFERENCE           SUBTITLE_WARLORD_MCT_MORTARFIRE811
+LANG_ENGLISH        "^2Soap: ^7¡Obuses de mortero!"
+
+REFERENCE           SUBTITLE_WARLORD_MCT_MOVEYOURARSE75
+LANG_ENGLISH        "^2Soap: ^7¡Mueva el culo, Yuri!"
+
+REFERENCE           SUBTITLE_WARLORD_MCT_MOVING54
+LANG_ENGLISH        "^2Soap: ^7En marcha."
+
+REFERENCE           SUBTITLE_WARLORD_MCT_ORNOT25
+LANG_ENGLISH        "^2Soap: ^7Pues nada."
+
+REFERENCE           SUBTITLE_WARLORD_MCT_PINNEDDOWN103
+LANG_ENGLISH        "^2Soap: ^7¡Nos tienen inmovilizados! ¡Yuri, ocúpese de ellos!"
+
+REFERENCE           SUBTITLE_WARLORD_MCT_RIGHTRIGHT88
+LANG_ENGLISH        "^2Soap: ^7¡Derecha, derecha!"
+
+REFERENCE           SUBTITLE_WARLORD_MCT_ROGERTHAT16
+LANG_ENGLISH        "^2Soap: ^7Preocúpese de usted mismo, viejo."
+
+REFERENCE           SUBTITLE_WARLORD_MCT_RUNGO91
+LANG_ENGLISH        "^2Soap: ^7¡Corran! ¡Corran!"
+
+REFERENCE           SUBTITLE_WARLORD_MCT_SEWERPIPE113
+LANG_ENGLISH        "^2Soap: ^7Por aquí."
+
+REFERENCE           SUBTITLE_WARLORD_MCT_TAKECAREOFMORTARS104
+LANG_ENGLISH        "^2Soap: ^7¡Maldita sea, Yuri! ¡Ocúpese de esos morteros!"
+
+REFERENCE           SUBTITLE_WARLORD_MCT_TAKETHESHOT24
+LANG_ENGLISH        "^2Soap: ^7Dispare, Yuri."
+
+REFERENCE           SUBTITLE_WARLORD_MCT_TANGOSAPPROACHING110
+LANG_ENGLISH        "^2Soap: ^7Se acercan vehículos."
+
+REFERENCE           SUBTITLE_WARLORD_MCT_THEYKNOW712
+LANG_ENGLISH        "^2Soap: ^7Creo que saben que estamos aquí."
+
+REFERENCE           SUBTITLE_WARLORD_MCT_THROUGHHERE711
+LANG_ENGLISH        "^2Soap: ^7¡Por aquí! ¡Vamos, vamos!"
+
+REFERENCE           SUBTITLE_WARLORD_MCT_WATCHTHEROOFTOPS710
+LANG_ENGLISH        "^2Soap: ^7¡Atentos a los tejados! "
+
+REFERENCE           SUBTITLE_WARLORD_MCT_WHOLEMILITIA814
+LANG_ENGLISH        "^2Soap: ^7¡Se nos va a echar encima toda la milicia!"
+
+REFERENCE           SUBTITLE_WARLORD_MCT_YURISDOWN914
+LANG_ENGLISH        "^2Soap: ^7¡Yuri!"
+
+REFERENCE           SUBTITLE_WARLORD_NIK_ONEHOUR12
+LANG_ENGLISH        "^2Nikolai: ^7Recibido. Los recogeré en una hora."
+
+REFERENCE           SUBTITLE_WARLORD_NIK_SENDINGBIRD154
+LANG_ENGLISH        "^2Nikolai: ^7Recibido. Enviaré un pájaro para recogerlos."
+
+REFERENCE           SUBTITLE_WARLORD_NIK_WHATABOUT152
+LANG_ENGLISH        "^2Nikolai: ^7¿Qué hay de Makarov?"
+
+REFERENCE           SUBTITLE_WARLORD_PRI_ALLCLEAR219
+LANG_ENGLISH        "^2Price: ^7Despejado."
+
+REFERENCE           SUBTITLE_WARLORD_PRI_ALRIGHTGETREADY211
+LANG_ENGLISH        "^2Price: ^7Bien, prepárense..."
+
+REFERENCE           SUBTITLE_WARLORD_PRI_ALRIGHTLADS134
+LANG_ENGLISH        "^2Price: ^7Ahora o nunca, muchachos."
+
+REFERENCE           SUBTITLE_WARLORD_PRI_ARUNNER153
+LANG_ENGLISH        "^2Price: ^7Se habrá ido también. Sáquenos de aquí."
+
+REFERENCE           SUBTITLE_WARLORD_PRI_BASTARDS28
+LANG_ENGLISH        "^2Price: ^7No cometan ninguna estupidez."
+
+REFERENCE           SUBTITLE_WARLORD_PRI_BETTERTHEYDONT26
+LANG_ENGLISH        "^2Price: ^7Mejor que no sepan que estamos aquí."
+
+REFERENCE           SUBTITLE_WARLORD_PRI_BOUNDING55
+LANG_ENGLISH        "^2Price: ^7Andando."
+
+REFERENCE           SUBTITLE_WARLORD_PRI_BREACHINGFACTORY61
+LANG_ENGLISH        "^2Price: ^7Vamos a entrar."
+
+REFERENCE           SUBTITLE_WARLORD_PRI_COMPROMISED71
+LANG_ENGLISH        "^2Price: ^7¡Nos han descubierto!  "
+
+REFERENCE           SUBTITLE_WARLORD_PRI_CONTACTFRONT77
+LANG_ENGLISH        "^2Price: ^7¡Contacto al frente!"
+
+REFERENCE           SUBTITLE_WARLORD_PRI_CONTACTLEFT86
+LANG_ENGLISH        "^2Price: ^7¡Contacto izquierda! "
+
+REFERENCE           SUBTITLE_WARLORD_PRI_COVERSBLOWN174
+LANG_ENGLISH        "^2Price: ^7¡Nos han descubierto!"
+
+REFERENCE           SUBTITLE_WARLORD_PRI_COVERUS42
+LANG_ENGLISH        "^2Price: ^7Bien. Soap y yo avanzaremos. Yuri, usted vigile. Busque una buena posición en el tejado y cúbranos."
+
+REFERENCE           SUBTITLE_WARLORD_PRI_DAMN145
+LANG_ENGLISH        "^2Price: ^7Mierda..."
+
+REFERENCE           SUBTITLE_WARLORD_PRI_DONTSTOPMOVING98
+LANG_ENGLISH        "^2Soap: ^7¡No se detenga!"
+
+REFERENCE           SUBTITLE_WARLORD_PRI_DROPEM34
+LANG_ENGLISH        "^2Price: ^7Elimínelos."
+
+REFERENCE           SUBTITLE_WARLORD_PRI_DRYHOLE65
+LANG_ENGLISH        "^2Price: ^7Nikolai, en la fábrica no hay nada. Ni rastro de Makarov."
+
+REFERENCE           SUBTITLE_WARLORD_PRI_DUCK111
+LANG_ENGLISH        "^2Price: ^7Al suelo."
+
+REFERENCE           SUBTITLE_WARLORD_PRI_EASY215
+LANG_ENGLISH        "^2Price: ^7Calma..."
+
+REFERENCE           SUBTITLE_WARLORD_PRI_ENEMYROOFTOP85
+LANG_ENGLISH        "^2Price: ^7¡El tejado de la derecha!"
+
+REFERENCE           SUBTITLE_WARLORD_PRI_GETDOWNNOW214
+LANG_ENGLISH        "^2Price: ^7¡Al suelo! ¡Ya!"
+
+REFERENCE           SUBTITLE_WARLORD_PRI_GETINPOSITION44
+LANG_ENGLISH        "^2Price: ^7Suba al tejado, Yuri."
+
+REFERENCE           SUBTITLE_WARLORD_PRI_GETOFFROAD213
+LANG_ENGLISH        "^2Price: ^7¡Fuera de la carretera!"
+
+REFERENCE           SUBTITLE_WARLORD_PRI_GETON5083
+LANG_ENGLISH        "^2Price: ^7¡Yuri, a la calibre 50!"
+
+REFERENCE           SUBTITLE_WARLORD_PRI_GETOVERHERE133
+LANG_ENGLISH        "^2Price: ^7¡Venga aquí de una vez, Yuri!"
+
+REFERENCE           SUBTITLE_WARLORD_PRI_GETTHEHELL73
+LANG_ENGLISH        "^2Price: ^7¡Venga aquí de una vez, Yuri!"
+
+REFERENCE           SUBTITLE_WARLORD_PRI_GETTOTHATCHURCH124
+LANG_ENGLISH        "^2Price: ^7¡No queda tiempo! ¡A la iglesia, rápido!"
+
+REFERENCE           SUBTITLE_WARLORD_PRI_GETUPLADDER43
+LANG_ENGLISH        "^2Price: ^7Yuri, por la escalera."
+
+REFERENCE           SUBTITLE_WARLORD_PRI_GO296
+LANG_ENGLISH        "^2Price: ^7¡Vamos!"
+
+REFERENCE           SUBTITLE_WARLORD_PRI_GOGOGO93
+LANG_ENGLISH        "^2Soap: ^7¡Vamos, vamos! "
+
+REFERENCE           SUBTITLE_WARLORD_PRI_HANDLETHEMLATER210
+LANG_ENGLISH        "^2Price: ^7Luego nos ocuparemos de ellos. Ahora céntrense."
+
+REFERENCE           SUBTITLE_WARLORD_PRI_HESGETTINGAWAY143
+LANG_ENGLISH        "^2Price: ^7¡Están huyendo con la carga!"
+
+REFERENCE           SUBTITLE_WARLORD_PRI_HITTHECHURCH112
+LANG_ENGLISH        "^2Price: ^7Tenemos que ir a la iglesia. Se nos acaba el tiempo."
+
+REFERENCE           SUBTITLE_WARLORD_PRI_HOPETHEYDID67
+LANG_ENGLISH        "^2Price: ^7Pues vamos para allá."
+
+REFERENCE           SUBTITLE_WARLORD_PRI_HOSEDOWN1012
+LANG_ENGLISH        "^2Price: ^7¡Vuele en pedazos a esos cerdos con el mortero!"
+
+REFERENCE           SUBTITLE_WARLORD_PRI_INCOMINGLEFT910
+LANG_ENGLISH        "^2Price: ^7¡Obús a la izquierda!"
+
+REFERENCE           SUBTITLE_WARLORD_PRI_INCOMINGRIGHT912
+LANG_ENGLISH        "^2Price: ^7¡Obús a la derecha!"
+
+REFERENCE           SUBTITLE_WARLORD_PRI_ISEEIT123
+LANG_ENGLISH        "^2Price: ^7¡Lo veo!"
+
+REFERENCE           SUBTITLE_WARLORD_PRI_JUSTFLEWOVER122
+LANG_ENGLISH        "^2Soap: ^7¡Price! ¡Ahí está el pájaro! ¡Van a trasladar la carga!"
+
+REFERENCE           SUBTITLE_WARLORD_PRI_KAMARASHOME141
+LANG_ENGLISH        "^2Price: ^7Yuri, adelántese."
+
+REFERENCE           SUBTITLE_WARLORD_PRI_KARAMASARMY13
+LANG_ENGLISH        "^2Price: ^7La fábrica no queda lejos. El cargamento debería estar allí. Vamos allá, en silencio."
+
+REFERENCE           SUBTITLE_WARLORD_PRI_KEEPMOVING2915
+LANG_ENGLISH        "^2Price: ^7¡Yuri, ya lo veo! ¡Siga avanzando!"
+
+REFERENCE           SUBTITLE_WARLORD_PRI_KEEPMOVING3163
+LANG_ENGLISH        "^2Price: ^7¡Yuri, siga adelante!"
+
+REFERENCE           SUBTITLE_WARLORD_PRI_KEEPMOVING95
+LANG_ENGLISH        "^2Soap: ^7¡Avancen!"
+
+REFERENCE           SUBTITLE_WARLORD_PRI_KEEPQUIET21
+LANG_ENGLISH        "^2Price: ^7Silencio. Nos estamos acercando."
+
+REFERENCE           SUBTITLE_WARLORD_PRI_LIGHTEMUP1013
+LANG_ENGLISH        "^2Price: ^7Han llegado un par de vehículos con infantería. ¡Reviéntelos!"
+
+REFERENCE           SUBTITLE_WARLORD_PRI_LOSTYOU916
+LANG_ENGLISH        "^2Soap: ^7¡Disparan con morteros desde esa torre!"
+
+REFERENCE           SUBTITLE_WARLORD_PRI_LOWPROFILE14
+LANG_ENGLISH        "^2Soap: ^7Procuren pasar desapercibidos. Esto está lleno de milicianos."
+
+REFERENCE           SUBTITLE_WARLORD_PRI_MAGAZINE716
+LANG_ENGLISH        "^2Price: ^7¡Cargador!"
+
+REFERENCE           SUBTITLE_WARLORD_PRI_MAKAROVSCARGO713
+LANG_ENGLISH        "^2Price: ^7Lo único que importa es el cargamento de Makarov."
+
+REFERENCE           SUBTITLE_WARLORD_PRI_MAN50CAL82
+LANG_ENGLISH        "^2Price: ^7¡Yuri, fuego de cobertura con la calibre 50!"
+
+REFERENCE           SUBTITLE_WARLORD_PRI_MILITIA59
+LANG_ENGLISH        "^2Soap: ^7Otra patrulla en la carretera. Mátelos rápido."
+
+REFERENCE           SUBTITLE_WARLORD_PRI_MISSEDWINDOW151
+LANG_ENGLISH        "^2Price: ^7Nikolai, se han llevado el cargamento. Hemos fracasado."
+
+REFERENCE           SUBTITLE_WARLORD_PRI_MORTARINCOMING99
+LANG_ENGLISH        "^2Price: ^7¡Fuego de mortero!"
+
+REFERENCE           SUBTITLE_WARLORD_PRI_MORTARLEFT911
+LANG_ENGLISH        "^2Soap: ^7¡Mortero a la izquierda!"
+
+REFERENCE           SUBTITLE_WARLORD_PRI_MORTARRIGHT913
+LANG_ENGLISH        "^2Soap: ^7¡Mortero a la derecha!"
+
+REFERENCE           SUBTITLE_WARLORD_PRI_MORTARTUBE106
+LANG_ENGLISH        "^2Soap: ^7Un gran número de milicianos se dirige hacia aquí."
+
+REFERENCE           SUBTITLE_WARLORD_PRI_MOVE253
+LANG_ENGLISH        "^2Price: ^7¡Vamos!"
+
+REFERENCE           SUBTITLE_WARLORD_PRI_MOVE3112
+LANG_ENGLISH        "^2Price: ^7Vamos."
+
+REFERENCE           SUBTITLE_WARLORD_PRI_MOVE94
+LANG_ENGLISH        "^2Price: ^7¡Vamos!"
+
+REFERENCE           SUBTITLE_WARLORD_PRI_MOVEUP2212
+LANG_ENGLISH        "^2Price: ^7Tangos delante."
+
+REFERENCE           SUBTITLE_WARLORD_PRI_MOVEUP35
+LANG_ENGLISH        "^2Price: ^7Vamos."
+
+REFERENCE           SUBTITLE_WARLORD_PRI_MOVING52
+LANG_ENGLISH        "^2Price: ^7En marcha."
+
+REFERENCE           SUBTITLE_WARLORD_PRI_MULTIPLEGUARDS57
+LANG_ENGLISH        "^2Soap: ^7Vienen dos más por el oeste. Elimínelos."
+
+REFERENCE           SUBTITLE_WARLORD_PRI_ONLYMILITIA109
+LANG_ENGLISH        "^2Price: ^7Ahí abajo solo hay milicianos; si algo se mueve, mátelo."
+
+REFERENCE           SUBTITLE_WARLORD_PRI_OTHERSIDE118
+LANG_ENGLISH        "^2Price: ^7¡Soap, a la puerta!"
+
+REFERENCE           SUBTITLE_WARLORD_PRI_OUTOFTIME131
+LANG_ENGLISH        "^2Price: ^7¡Formen en la puerta!"
+
+REFERENCE           SUBTITLE_WARLORD_PRI_OVERHERE162
+LANG_ENGLISH        "^2Price: ^7¡Por aquí!"
+
+REFERENCE           SUBTITLE_WARLORD_PRI_PROPERWELCOME108
+LANG_ENGLISH        "^2Price: ^7Les daremos una calurosa bienvenida. Yuri, al mortero del tejado."
+
+REFERENCE           SUBTITLE_WARLORD_PRI_PUSHFORWARD79
+LANG_ENGLISH        "^2Price: ^7Yuri, avance."
+
+REFERENCE           SUBTITLE_WARLORD_PRI_PUSHTOCHURCH121
+LANG_ENGLISH        "^2Price: ^7¡Continúen hacia la iglesia!"
+
+REFERENCE           SUBTITLE_WARLORD_PRI_PUTFIRE810
+LANG_ENGLISH        "^2Price: ^7¡Reviente ya ese vehículo!"
+
+REFERENCE           SUBTITLE_WARLORD_PRI_RALLYONME276
+LANG_ENGLISH        "^2Price: ^7¡A mí!"
+
+REFERENCE           SUBTITLE_WARLORD_PRI_REGROUP111
+LANG_ENGLISH        "^2Price: ^7¡Con eso bastará por ahora! ¡Vamos!"
+
+REFERENCE           SUBTITLE_WARLORD_PRI_RUN97
+LANG_ENGLISH        "^2Price: ^7¡Corra!"
+
+REFERENCE           SUBTITLE_WARLORD_PRI_SECUREWEAPONS11
+LANG_ENGLISH        "^2Price: ^7Nikolai, estamos en las afueras de la aldea."
+
+REFERENCE           SUBTITLE_WARLORD_PRI_SHELLSDOWNRANGE1011
+LANG_ENGLISH        "^2Soap: ^7¡Empiece a escupir proyectiles!  "
+
+REFERENCE           SUBTITLE_WARLORD_PRI_SLOTMORTAR101
+LANG_ENGLISH        "^2Price: ^7¡Yuri, mate a esos cerdos!"
+
+REFERENCE           SUBTITLE_WARLORD_PRI_SOMUCH117
+LANG_ENGLISH        "^2Soap: ^7Al cuerno el sigilo."
+
+REFERENCE           SUBTITLE_WARLORD_PRI_STACKUPLETSGO132
+LANG_ENGLISH        "^2Price: ^7¡Yuri, a formar! ¡Va!"
+
+REFERENCE           SUBTITLE_WARLORD_PRI_SWITCHTOAK78
+LANG_ENGLISH        "^2Price: ^7Utilice el AK."
+
+REFERENCE           SUBTITLE_WARLORD_PRI_TAKECONTROL107
+LANG_ENGLISH        "^2Price: ^7Yuri, vaya a manejar ese mortero."
+
+REFERENCE           SUBTITLE_WARLORD_PRI_TAKEHIMOUT173
+LANG_ENGLISH        "^2Price: ^7¡A por ellos!"
+
+REFERENCE           SUBTITLE_WARLORD_PRI_TAKEOUTMORTARS102
+LANG_ENGLISH        "^2Price: ^7¡Acabe con esos morteros!"
+
+REFERENCE           SUBTITLE_WARLORD_PRI_TAKETHEMOUT27
+LANG_ENGLISH        "^2Price: ^7Acaben con ellos."
+
+REFERENCE           SUBTITLE_WARLORD_PRI_TARGETSINVILLAGE1015
+LANG_ENGLISH        "^2Price: ^7¡En la aldea solo hay enemigos! ¡Use el mortero contra todo lo que se mueva!"
+
+REFERENCE           SUBTITLE_WARLORD_PRI_TECHNICAL81
+LANG_ENGLISH        "^2Price: ^7¡Vehículo al frente!"
+
+REFERENCE           SUBTITLE_WARLORD_PRI_TECHNICALINCOMING89
+LANG_ENGLISH        "^2Soap: ^7¡Se acerca otro vehículo! ¡Destrúyalo!"
+
+REFERENCE           SUBTITLE_WARLORD_PRI_THERESCHURCH119
+LANG_ENGLISH        "^2Soap: ^7¡Ahí está la iglesia!"
+
+REFERENCE           SUBTITLE_WARLORD_PRI_THEYVESEEN172
+LANG_ENGLISH        "^2Price: ^7¡Nos han visto!"
+
+REFERENCE           SUBTITLE_WARLORD_PRI_TOOMANY27_1
+LANG_ENGLISH        "^2Price: ^7Alto el fuego. Son demasiados."
+
+REFERENCE           SUBTITLE_WARLORD_PRI_TRIANGULATING92
+LANG_ENGLISH        "^2Price: ^7¡No se pare o les dará un blanco fácil!"
+
+REFERENCE           SUBTITLE_WARLORD_PRI_TRYNOTTODIE15
+LANG_ENGLISH        "^2Price: ^7Soap, no se me vuelva a morir."
+
+REFERENCE           SUBTITLE_WARLORD_PRI_TWOHOSTILES58
+LANG_ENGLISH        "^2Price: ^7Enemigos acercándose, a 5 metros."
+
+REFERENCE           SUBTITLE_WARLORD_PRI_TWOXRAYS113
+LANG_ENGLISH        "^2Soap: ^7Dos enemigos a las doce."
+
+REFERENCE           SUBTITLE_WARLORD_PRI_UPTHEROAD41
+LANG_ENGLISH        "^2Soap: ^7Veo la fábrica, está carretera arriba."
+
+REFERENCE           SUBTITLE_WARLORD_PRI_WAITFORTRUCK33
+LANG_ENGLISH        "^2Price: ^7Esperen a que pase el camión."
+
+REFERENCE           SUBTITLE_WARLORD_PRI_WAITHERE223
+LANG_ENGLISH        "^2Price: ^7Esperen aquí."
+
+REFERENCE           SUBTITLE_WARLORD_PRI_WELLASK156
+LANG_ENGLISH        "^2Price: ^7Se lo preguntaremos cuando lo encontremos."
+
+REFERENCE           SUBTITLE_WARLORD_PRI_WELLDONEYURI114
+LANG_ENGLISH        "^2Price: ^7A por ellos."
+
+REFERENCE           SUBTITLE_WARLORD_PRI_WERESPOTTED171
+LANG_ENGLISH        "^2Price: ^7¡Nos han visto! ¡Dispare!"
+
+REFERENCE           SUBTITLE_WARLORD_PRI_YOUCERTAIN114
+LANG_ENGLISH        "^2Price: ^7Nikolai, nos acercamos a la iglesia. ¿Seguro que guardan allí el cargamento?"
+
+REFERENCE           SUBTITLE_WARLORD_PRI_YOURCALL23
+LANG_ENGLISH        "^2Price: ^7No si antes los asamos nosotros a ellos. Cuando quiera, Yuri."
+
+REFERENCE           SUBTITLE_WARLORD_PRI_YURIMORTAR1010
+LANG_ENGLISH        "^2Price: ^7¡Yuri, ese mortero, rápido!"
+
+REFERENCE           SUBTITLE_WARLORD_PRI_YURIOVERHERE84
+LANG_ENGLISH        "^2Price: ^7¡Eh! ¡Por aquí, Yuri!"
+
+REFERENCE           SUBTITLE_WARLORD_PRI_YURIRUN72
+LANG_ENGLISH        "^2Price: ^7¡Yuri, corra!"
+
+REFERENCE           SUBTITLE_WARLORD_PRI_YURITHISWAY161
+LANG_ENGLISH        "^2Price: ^7¡Yuri, por aquí!"
+
+REFERENCE           VARIABLE_SCOPE_SNIPER_MAG
+LANG_ENGLISH        "Mag X "
+
+REFERENCE           VARIABLE_SCOPE_SNIPER_ZOOM
+LANG_ENGLISH        "Clic ^3[{+changezoom}]^7 para hacer zoom."
+
+REFERENCE           WARLORD_HINT_CROUCH
+LANG_ENGLISH        "Pulsa ^3[{gocrouch}]^7 para agacharte."
+
+REFERENCE           WARLORD_HINT_CROUCH_HOLD
+LANG_ENGLISH        "Mantén ^3[{+movedown}]^7 para agacharte."
+
+REFERENCE           WARLORD_HINT_CROUCH_STANCE
+LANG_ENGLISH        "Pulsa ^3[{+stance}]^7 para agacharte."
+
+REFERENCE           WARLORD_HINT_CROUCH_TOGGLE
+LANG_ENGLISH        "Pulsa ^3[{togglecrouch}]^7 para agacharte."
+
+REFERENCE           WARLORD_HINT_PRONE
+LANG_ENGLISH        "Pulsa ^3[{goprone}]^7 para echarte cuerpo a tierra."
+
+REFERENCE           WARLORD_HINT_PRONE_HOLD
+LANG_ENGLISH        "Mantén ^3[{+prone}]^7 para echarte cuerpo a tierra."
+
+REFERENCE           WARLORD_HINT_PRONE_STANCE
+LANG_ENGLISH        "Mantén ^3[{+stance}]^7 para echarte cuerpo a tierra."
+
+REFERENCE           WARLORD_HINT_PRONE_TOGGLE
+LANG_ENGLISH        "Pulsa ^3[{toggleprone}]^7 para echarte cuerpo a tierra."
+
+REFERENCE           WARLORD_HINT_USE_MORTAR
+LANG_ENGLISH        "Mantén ^3&&1^7 para usar el mortero."
+
+REFERENCE           WARLORD_HINT_WEAPON_SWITCH
+LANG_ENGLISH        "Pulsa ^3[{weapnext}]^7 para pasar a tu arma secundaria."
+
+REFERENCE           WARLORD_INTROSCREEN_LINE1
+LANG_ENGLISH        "\"Regreso a la parrilla\""
+
+REFERENCE           WARLORD_INTROSCREEN_LINE2
+LANG_ENGLISH        "5 de octubre, 18:27:[{FAKE_INTRO_SECONDS:02}]"
+
+REFERENCE           WARLORD_INTROSCREEN_LINE3
+LANG_ENGLISH        "Yuri"
+
+REFERENCE           WARLORD_INTROSCREEN_LINE4
+LANG_ENGLISH        "Fuerza operativa 141 - Renegados"
+
+REFERENCE           WARLORD_INTROSCREEN_LINE5
+LANG_ENGLISH        "Sierra Leona, África"
+
+REFERENCE           WARLORD_MORTAR_DEATH
+LANG_ENGLISH        "Esprinta para esquivar los obuses de mortero."
+
+REFERENCE           WARLORD_OBJ_CAPTURE_WARLORD
+LANG_ENGLISH        "Asegura la carga"
+
+REFERENCE           WARLORD_OBJ_COMMANDEER_TECHNICAL
+LANG_ENGLISH        "Aprópiate del vehículo"
+
+REFERENCE           WARLORD_OBJ_COVER_PRICE
+LANG_ENGLISH        "Usa el mortero"
+
+REFERENCE           WARLORD_OBJ_COVER_PRICE_AND_SOAP
+LANG_ENGLISH        "Proporciona apoyo a Price y Soap"
+
+REFERENCE           WARLORD_OBJ_ENTER_COMPOUND
+LANG_ENGLISH        "Llega a la iglesia"
+
+REFERENCE           WARLORD_OBJ_EVADE_MORTAR_FIRE
+LANG_ENGLISH        "Sigue al capitán Price"
+
+REFERENCE           WARLORD_OBJ_FOLLOW_PRICE
+LANG_ENGLISH        "Sigue al capitán Price"
+
+REFERENCE           WARLORD_OBJ_LET_CONVOY_IN
+LANG_ENGLISH        "Ayuda al convoy"
+
+REFERENCE           WARLORD_OBJ_MOVE_THROUGH_SHANTY
+LANG_ENGLISH        "Reúnete con el capitán Price"
+
+REFERENCE           WARLORD_OBJ_POINTER_CAPTURE
+LANG_ENGLISH        "Toma"
+
+REFERENCE           WARLORD_OBJ_POINTER_DESTROY
+LANG_ENGLISH        "Destruye"
+
+REFERENCE           WARLORD_OBJ_POINTER_PROTECT
+LANG_ENGLISH        "Protege"
+
+REFERENCE           WARLORD_OBJ_POINTER_TARGET
+LANG_ENGLISH        "Blanco"
+
+REFERENCE           WARLORD_PRONE_DEATH
+LANG_ENGLISH        "Tírate al suelo para que no te vean."
+
+REFERENCE           WARLORD_STEALTH_DEATH
+LANG_ENGLISH        "Has alertado al enemigo. Procura ser más sigiloso."
+
+ENDMARKER

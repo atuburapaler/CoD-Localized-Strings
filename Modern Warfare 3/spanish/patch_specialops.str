@@ -1,0 +1,10 @@
+// Dumped from fastfile "patch_specialops".
+// In their original format the strings might have been separated in multiple files.
+VERSION             "1"
+CONFIG              "C:/trees/cod3/cod3/bin/StringEd.cfg"
+FILENOTES           ""
+
+REFERENCE           SO_STEALTH_PRAGUE_COLLECT_CIVILIAN
+LANG_ENGLISH        "^3[{+activate}]^7 Ven conmigo."
+
+ENDMARKER

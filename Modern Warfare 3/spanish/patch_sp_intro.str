@@ -1,0 +1,112 @@
+// Dumped from fastfile "patch_sp_intro".
+// In their original format the strings might have been separated in multiple files.
+VERSION             "1"
+CONFIG              "C:/trees/cod3/cod3/bin/StringEd.cfg"
+FILENOTES           ""
+
+REFERENCE           INTRO_HELI_DMG_HINT
+LANG_ENGLISH        "Tus armas no pueden dañar a este vehículo."
+
+REFERENCE           INTRO_HELP
+LANG_ENGLISH        "Ayuda"
+
+REFERENCE           INTRO_HELP_SOAP
+LANG_ENGLISH        "Mantén ^3&&1^7 para ayudar a Soap."
+
+REFERENCE           INTRO_HINT_PRIMARY_SWAP
+LANG_ENGLISH        "Pulsa ^3[{weapnext}]^7 para pasar a tu arma principal."
+
+REFERENCE           INTRO_HINT_SPRINT
+LANG_ENGLISH        "Haz clic en ^3[{+sprint}]^7 mientras vas adelante para esprintar."
+
+REFERENCE           INTRO_HINT_SPRINT_BREATH
+LANG_ENGLISH        "Haz clic en ^3[{+sprint}]^7 mientras vas adelante para esprintar."
+
+REFERENCE           INTRO_HINT_SPRINT_BREATH_PC
+LANG_ENGLISH        "Pulsa ^3[{+sprint}]^7 mientras vas adelante para esprintar."
+
+REFERENCE           INTRO_HINT_SPRINT_PC
+LANG_ENGLISH        "Pulsa ^3[{+sprint}]^7 mientras vas adelante para esprintar."
+
+REFERENCE           INTRO_HINT_TOGGLE_VIEW
+LANG_ENGLISH        "Pulsa ^3[{weapnext}]^7 para alternar la vista."
+
+REFERENCE           INTRO_HINT_UGV_GRENADE
+LANG_ENGLISH        "Pulsa ^3[{+frag}]^7 para lanzar granadas."
+
+REFERENCE           INTRO_HINT_UGV_ZOOM
+LANG_ENGLISH        "Mantén ^3[{+speed}]^7 para usar el zoom."
+
+REFERENCE           INTRO_HINT_UGV_ZOOM_360
+LANG_ENGLISH        "Mantén ^3[{+speed}]^7 para usar el zoom."
+
+REFERENCE           INTRO_HINT_UGV_ZOOM_THROW
+LANG_ENGLISH        "Mantén ^3[{+speed_throw}]^7 para usar el zoom."
+
+REFERENCE           INTRO_HINT_UGV_ZOOM_THROW_360
+LANG_ENGLISH        "Mantén ^3[{+speed_throw}]^7 para usar el zoom."
+
+REFERENCE           INTRO_HINT_UGV_ZOOM_TOGGLE
+LANG_ENGLISH        "Mantén ^3[{toggleads}]^7 para usar el zoom."
+
+REFERENCE           INTRO_HINT_UGV_ZOOM_TOGGLE_THROW
+LANG_ENGLISH        "Mantén ^3[{+toggleads_throw}]^7 para usar el zoom."
+
+REFERENCE           INTRO_INTROSCREEN_LINE1
+LANG_ENGLISH        "\"Persona non grata\""
+
+REFERENCE           INTRO_INTROSCREEN_LINE2
+LANG_ENGLISH        "17 de agosto, 9:51:[{FAKE_INTRO_SECONDS:11}]"
+
+REFERENCE           INTRO_INTROSCREEN_LINE3
+LANG_ENGLISH        "Yuri"
+
+REFERENCE           INTRO_INTROSCREEN_LINE4
+LANG_ENGLISH        "Fuerza operativa 141 - Renegados"
+
+REFERENCE           INTRO_INTROSCREEN_LINE5
+LANG_ENGLISH        "Himachal Pradesh, India"
+
+REFERENCE           INTRO_OBJ_CLEAR_HELICOPTER
+LANG_ENGLISH        "Despeja la zona alrededor del helicóptero"
+
+REFERENCE           INTRO_OBJ_CONTROL_UGV
+LANG_ENGLISH        "Toma el control del UGV"
+
+REFERENCE           INTRO_OBJ_DEFEND_COURTYARD
+LANG_ENGLISH        "Defiende a Soap"
+
+REFERENCE           INTRO_OBJ_EXIT_HOTEL
+LANG_ENGLISH        "Sigue al capitán Price"
+
+REFERENCE           INTRO_OBJ_HELICOPTER
+LANG_ENGLISH        "Llega al helicóptero"
+
+REFERENCE           INTRO_OBJ_HELP_SOAP
+LANG_ENGLISH        "Ayuda a Soap"
+
+REFERENCE           INTRO_OBJ_WEAPON_CACHE
+LANG_ENGLISH        "Llega a la reserva de armas"
+
+REFERENCE           INTRO_PROTECT
+LANG_ENGLISH        "Protege"
+
+REFERENCE           INTRO_RIVER_RIDE_HINT
+LANG_ENGLISH        "^3[{+usereload}]^7"
+
+REFERENCE           INTRO_UGV_DEATH_QUOTE
+LANG_ENGLISH        "               Tu UGV ha sido destruido.\nNo has logrado proteger a Price y a Soap."
+
+REFERENCE           INTRO_UGV_GRENADE
+LANG_ENGLISH        "GRANADA"
+
+REFERENCE           INTRO_UGV_KILLTEAM_DEATH_QUOTE
+LANG_ENGLISH        "¡No se tolerará el fratricidio!"
+
+REFERENCE           INTRO_UGV_YURI_DEATH_QUOTE
+LANG_ENGLISH        "Te has suicidado."
+
+REFERENCE           INTRO_USE_UGV
+LANG_ENGLISH        "Mantén ^3&&1^7 para usar el UGV."
+
+ENDMARKER

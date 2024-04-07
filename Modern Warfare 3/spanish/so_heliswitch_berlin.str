@@ -1,0 +1,877 @@
+// Dumped from fastfile "so_heliswitch_berlin".
+// In their original format the strings might have been separated in multiple files.
+VERSION             "1"
+CONFIG              "C:/trees/cod3/cod3/bin/StringEd.cfg"
+FILENOTES           ""
+
+REFERENCE           LONDON_HINT_FLASHBANG
+LANG_ENGLISH        "Pulsa [{+smoke}] para lanzar cegadora."
+
+REFERENCE           LONDON_HINT_TRUCK_DOORS
+LANG_ENGLISH        "Mantén ^3[{+activate}]^7 para abrir."
+
+REFERENCE           LONDON_HINT_TRUCK_GETIN
+LANG_ENGLISH        "Mantén ^3[{+activate}]^7 para entrar."
+
+REFERENCE           LONDON_INTROSCREEN_LINE_1
+LANG_ENGLISH        "\"Cuidado con el hueco\""
+
+REFERENCE           LONDON_INTROSCREEN_LINE_2
+LANG_ENGLISH        "6 de octubre, 4:11:[{FAKE_INTRO_SECONDS:32}]"
+
+REFERENCE           LONDON_INTROSCREEN_LINE_3
+LANG_ENGLISH        "Sargento Marcus Burns"
+
+REFERENCE           LONDON_INTROSCREEN_LINE_4
+LANG_ENGLISH        "22º Regimiento del SAS"
+
+REFERENCE           LONDON_INTROSCREEN_LINE_5
+LANG_ENGLISH        "Canary Wharf, Londres"
+
+REFERENCE           LONDON_OBJECTIVE_ASSAULT_DOCKS
+LANG_ENGLISH        "Asalta los muelles"
+
+REFERENCE           LONDON_OBJECTIVE_CHASE_HOSTILES
+LANG_ENGLISH        "Persigue a los enemigos"
+
+REFERENCE           LONDON_OBJECTIVE_CHASE_HOSTILES_TO_STATION
+LANG_ENGLISH        "Persigue a los enemigos hasta la estación de tren"
+
+REFERENCE           LONDON_OBJECTIVE_CLEAR_STATION
+LANG_ENGLISH        "Despeja la estación de Westminster"
+
+REFERENCE           LONDON_OBJECTIVE_CLEAR_WAREHOUSE
+LANG_ENGLISH        "Despeja el almacén"
+
+REFERENCE           LONDON_OBJECTIVE_SECURE_TRUCK
+LANG_ENGLISH        "Asegura el camión"
+
+REFERENCE           LONDON_OBJECTIVE_SECURE_TRUCK_ICON
+LANG_ENGLISH        "Asegura"
+
+REFERENCE           LONDON_OBJECTIVE_SETUP_BLOCKADE
+LANG_ENGLISH        "Coloca una barricada"
+
+REFERENCE           LONDON_OBJECTIVE_STACK_UP
+LANG_ENGLISH        "Aprovisiónate en el almacén"
+
+REFERENCE           LONDON_OBJECTIVE_TRAIN_CHASE
+LANG_ENGLISH        "¡Alcanza al malo!"
+
+REFERENCE           LONDON_OBJECTIVE_TRAIN_STOP_TRAIN
+LANG_ENGLISH        "Detén el metro"
+
+REFERENCE           LONDON_OBJECTIVE_TRAIN_TAILGATE
+LANG_ENGLISH        "¡Llega al camión!"
+
+REFERENCE           LONDON_OBJECTIVE_TRUCK_DOOR
+LANG_ENGLISH        "Abre la puerta del camión"
+
+REFERENCE           LONDON_REC
+LANG_ENGLISH        "GRA"
+
+REFERENCE           LONDON_SUBWAY_CART_GOT_AWAY
+LANG_ENGLISH        "¡No pierdas el tren de vista!"
+
+REFERENCE           NY_MANHATTAN_BLACKHAWK_KILLED
+LANG_ENGLISH        "Un Hind enemigo ha destruido tu Black Hawk.  "
+
+REFERENCE           NY_MANHATTAN_BRAVO_KILLED
+LANG_ENGLISH        "Has abandonado el combate y tu pelotón ha sido aniquilado."
+
+REFERENCE           NY_MANHATTAN_DEATH_BROAD_HIND
+LANG_ENGLISH        "No puedes enfrentarte a un Hind con las armas que tienes. Sigue al pelotón hacia el interior de los edificios y flanquea a los rusos."
+
+REFERENCE           NY_MANHATTAN_DETONATE_THERMITE
+LANG_ENGLISH        "Detona la carga de termita"
+
+REFERENCE           NY_MANHATTAN_FAIL_BACKTRACK
+LANG_ENGLISH        "Has abandonado a tu pelotón."
+
+REFERENCE           NY_MANHATTAN_FLASHBANG
+LANG_ENGLISH        "Pulsa ^3[{+smoke}]^7 para arrojar una nueve destellos."
+
+REFERENCE           NY_MANHATTAN_HINT_ADS
+LANG_ENGLISH        "Mantén ^3[{+speed_throw}]^7 para apuntar con la mira de tu arma."
+
+REFERENCE           NY_MANHATTAN_HINT_ADS_TOGGLE
+LANG_ENGLISH        "Usa ^3[{+toggleads_throw}]^7 para activar y desactivar el apuntado con la mira del arma."
+
+REFERENCE           NY_MANHATTAN_HINT_ENTER_HIND
+LANG_ENGLISH        "Mantén ^3[{+activate}]^7 para entrar en el Black Hawk."
+
+REFERENCE           NY_MANHATTAN_HINT_FRAG
+LANG_ENGLISH        "Pulsa ^3[{+frag}]^7 para arrojar una granada de fragmentación."
+
+REFERENCE           NY_MANHATTAN_HINT_HIND_DMG
+LANG_ENGLISH        "Tus armas no pueden dañar a este vehículo."
+
+REFERENCE           NY_MANHATTAN_HINT_HIND_DMG_PRED
+LANG_ENGLISH        "Tus armas no sirven. ¡Utiliza el Predator!"
+
+REFERENCE           NY_MANHATTAN_HINT_HYBRID
+LANG_ENGLISH        "Pulsa ^3[{+actionslot 3}]^7 para cambiar a la mira doble."
+
+REFERENCE           NY_MANHATTAN_HINT_OBJECTIVE
+LANG_ENGLISH        "Sigue el indicador blanco y encontrarás tu objetivo."
+
+REFERENCE           NY_MANHATTAN_HINT_SHOOT
+LANG_ENGLISH        "Pulsa ^3[{+attack}]^7 para disparar tu arma."
+
+REFERENCE           NY_MANHATTAN_HINT_SHOOT_PREDATOR
+LANG_ENGLISH        "Pulsa ^3[{+attack}]^7 para disparar Hellfire."
+
+REFERENCE           NY_MANHATTAN_HINT_SNAPTO
+LANG_ENGLISH        "Suelta y mantén ^3[{+speed_throw}]^7 para cambiar a un blanco cercano."
+
+REFERENCE           NY_MANHATTAN_HINT_THERMITE_DETONATE
+LANG_ENGLISH        "Pulsa ^3[{+attack}]^7 para detonar la termita."
+
+REFERENCE           NY_MANHATTAN_HINT_THERMITE_SWITCH
+LANG_ENGLISH        "Pulsa ^3[{+actionslot 2}]^7 para cambiar a termita."
+
+REFERENCE           NY_MANHATTAN_HINT_XM25
+LANG_ENGLISH        "Pulsa ^3[{weapnext}]^7 para cambiar a la XM25."
+
+REFERENCE           NY_MANHATTAN_INTROSCREEN_FROST
+LANG_ENGLISH        "Sargento Derek \"Frost\" Westbrook"
+
+REFERENCE           NY_MANHATTAN_INTROSCREEN_LINE1
+LANG_ENGLISH        "\"Martes negro\""
+
+REFERENCE           NY_MANHATTAN_INTROSCREEN_LINE2
+LANG_ENGLISH        "17 de agosto, 10:18:[{FAKE_INTRO_SECONDS:02}]"
+
+REFERENCE           NY_MANHATTAN_INTROSCREEN_LINE3
+LANG_ENGLISH        "Delta Force"
+
+REFERENCE           NY_MANHATTAN_INTROSCREEN_LINE4
+LANG_ENGLISH        "Segundo batallón de combate estadounidense"
+
+REFERENCE           NY_MANHATTAN_INTROSCREEN_LINE5
+LANG_ENGLISH        "Manhattan, Nueva York"
+
+REFERENCE           NY_MANHATTAN_ITIOT
+LANG_ENGLISH        "En virtud del tiempo..."
+
+REFERENCE           NY_MANHATTAN_OBJ_BROAD
+LANG_ENGLISH        "Ábrete paso hasta el edificio de la Bolsa"
+
+REFERENCE           NY_MANHATTAN_OBJ_CAPTURE_HIND
+LANG_ENGLISH        "Sube al Black Hawk"
+
+REFERENCE           NY_MANHATTAN_OBJ_CLIMB_TO_ROOF
+LANG_ENGLISH        "Sube al tejado por la escalerilla"
+
+REFERENCE           NY_MANHATTAN_OBJ_DOT_HIND
+LANG_ENGLISH        "Destruye"
+
+REFERENCE           NY_MANHATTAN_OBJ_FOLLOW_THROUGH_BUILDINGS
+LANG_ENGLISH        "Flanquea a los rusos en Wall Street"
+
+REFERENCE           NY_MANHATTAN_OBJ_JAMMER
+LANG_ENGLISH        "Coloca una carga de termita en el inhibidor"
+
+REFERENCE           NY_MANHATTAN_OBJ_RALLY_LOBBY
+LANG_ENGLISH        "Reúnete en el vestíbulo con tu pelotón"
+
+REFERENCE           NY_MANHATTAN_OBJ_ROOF
+LANG_ENGLISH        "Sube al tejado del edificio de la Bolsa"
+
+REFERENCE           NY_MANHATTAN_OBJ_USEREAPER
+LANG_ENGLISH        "Usa el Predator para acabar con las tropas enemigas"
+
+REFERENCE           NY_MANHATTAN_PREDATOR
+LANG_ENGLISH        "Pulsa ^3[{+actionslot 4}]^7 para usar el dron Predator."
+
+REFERENCE           NY_MANHATTAN_PREDATOR_HIND
+LANG_ENGLISH        "Usa el Predator para acabar con el Hind enemigo"
+
+REFERENCE           NY_MANHATTAN_THERMITE_HINT
+LANG_ENGLISH        "Mantén ^3[{+activate}]^7 para colocar la termita."
+
+REFERENCE           NY_MANHATTAN_WARN_BACKTRACK
+LANG_ENGLISH        "¡Da media vuelta y reúnete con tu pelotón!"
+
+REFERENCE           SO_HELISWITCH_BERLIN_BONUS_1_SKILL_SHOT
+LANG_ENGLISH        "Bajas al retirarse del bulevar"
+
+REFERENCE           SO_HELISWITCH_BERLIN_BONUS_2_LEAVE_EM
+LANG_ENGLISH        "Enemigos eliminados con bomba"
+
+REFERENCE           SO_HELISWITCH_BERLIN_BONUS_FAIL
+LANG_ENGLISH        "--"
+
+REFERENCE           SO_HELISWITCH_BERLIN_BONUS_LEAVE_EM_SMALL
+LANG_ENGLISH        "Bajas con bomba: "
+
+REFERENCE           SO_HELISWITCH_BERLIN_BONUS_SKILL_SHOT_SMALL
+LANG_ENGLISH        "Bajas al extraer: "
+
+REFERENCE           SO_HELISWITCH_BERLIN_BONUS_SKILL_SHOT_TEXT
+LANG_ENGLISH        "¡Tiro a gran distancia!"
+
+REFERENCE           SO_HELISWITCH_BERLIN_BONUS_SUCCESS
+LANG_ENGLISH        "¡Bonificación!"
+
+REFERENCE           SO_HELISWITCH_BERLIN_HINT_DEFUSE_BOMB
+LANG_ENGLISH        "Mantén ^3&&1^7 para armar la bomba."
+
+REFERENCE           SO_HELISWITCH_BERLIN_HINT_DEFUSING
+LANG_ENGLISH        "Armando..."
+
+REFERENCE           SO_HELISWITCH_BERLIN_HINT_DETONATION
+LANG_ENGLISH        "Detonación en: "
+
+REFERENCE           SO_HELISWITCH_BERLIN_HINT_GETOUT
+LANG_ENGLISH        "¡Lárgate antes de que la bomba explote! "
+
+REFERENCE           SO_HELISWITCH_BERLIN_HINT_GET_OFF_HELI
+LANG_ENGLISH        "Mantén ^3&&1^7 para saltar\n"
+
+REFERENCE           SO_HELISWITCH_BERLIN_HINT_GET_ON_HELI
+LANG_ENGLISH        "Sube a bordo del Little Bird."
+
+REFERENCE           SO_HELISWITCH_BERLIN_HINT_GET_TO_EXTRACTION
+LANG_ENGLISH        "Despeja la zona de aterrizaje de enemigos."
+
+REFERENCE           SO_HELISWITCH_BERLIN_HINT_HELP_ARRIVING
+LANG_ENGLISH        "La ayuda llega en: "
+
+REFERENCE           SO_HELISWITCH_BERLIN_HINT_INTEL
+LANG_ENGLISH        "Mantén ^3&&1^7 para obtener datos."
+
+REFERENCE           SO_HELISWITCH_BERLIN_HINT_MISS_OBJ
+LANG_ENGLISH        "¡Arma la bomba!"
+
+REFERENCE           SO_HELISWITCH_BERLIN_HINT_NOPRONE
+LANG_ENGLISH        "No puedes armarla si estás cuerpo a tierra."
+
+REFERENCE           SO_HELISWITCH_BERLIN_HINT_SWITCH_THERMAL
+LANG_ENGLISH        "Pulsa ^3[{+actionslot 4}]^7 para activar la visión térmica."
+
+REFERENCE           SO_HELISWITCH_BERLIN_HINT_SWITCH_WEAPON
+LANG_ENGLISH        "Te has quedado sin munición, pulsa ^3[{weapnext}]^7 para cambiar de arma."
+
+REFERENCE           SO_HELISWITCH_BERLIN_HINT_THERMAL_NAG
+LANG_ENGLISH        "¡Pasa a la visión térmica!"
+
+REFERENCE           SO_HELISWITCH_BERLIN_HINT_USE_TO_BOARD
+LANG_ENGLISH        "Mantén ^3&&1^7 para montar\n"
+
+REFERENCE           SO_HELISWITCH_BERLIN_HINT_WAITING
+LANG_ENGLISH        "Falta tu compañero."
+
+REFERENCE           SO_HELISWITCH_BERLIN_OBJ_CLEAR_LZ
+LANG_ENGLISH        "Despeja la zona de aterrizaje"
+
+REFERENCE           SO_HELISWITCH_BERLIN_OBJ_EXTRACTION
+LANG_ENGLISH        "Reúnete con el equipo de rescate en el punto de extracción"
+
+REFERENCE           SO_HELISWITCH_BERLIN_OBJ_GETON_HELI
+LANG_ENGLISH        "Reúnete con el equipo Bravo"
+
+REFERENCE           SO_HELISWITCH_BERLIN_OBJ_INFILTRATE
+LANG_ENGLISH        "Infíltrate en el edificio de inteligencia"
+
+REFERENCE           SO_HELISWITCH_BERLIN_OBJ_PROTECT
+LANG_ENGLISH        "Encuentra y arma la bomba"
+
+REFERENCE           SUBTITLE_MANHATTAN_BRVL_JTAC321
+LANG_ENGLISH        "^2Grizzly: ^7Todavía nada. Los sistemas de guía no funcionan. Tenemos que eliminar ese inhibidor ya."
+
+REFERENCE           SUBTITLE_MANHATTAN_BRVL_LOCKEDDOWN319
+LANG_ENGLISH        "^2Grizzly: ^7Los rusos han cortado el acceso. Nos están dando a base de bien. ¡No podemos pasar!"
+
+REFERENCE           SUBTITLE_MANHATTAN_BRVL_TRADINGFLOOR42
+LANG_ENGLISH        "^2Grizzly: ^7Nosotros aseguraremos el vestíbulo, usted vaya al parqué."
+
+REFERENCE           SUBTITLE_MANHATTAN_DLT2_WEREGOOD317
+LANG_ENGLISH        "^2Grizzly: ^7¡Vamos bien!"
+
+REFERENCE           SUBTITLE_MANHATTAN_HP1_COMEON631
+LANG_ENGLISH        "^2Black Hawk Pilot: ^7¡Reacciona, hijo de puta!"
+
+REFERENCE           SUBTITLE_MANHATTAN_HP1_EXFILCOMPLETE61
+LANG_ENGLISH        "^2Black Hawk Pilot: ^7Cuatro águilas confirmadas, extracción completada."
+
+REFERENCE           SUBTITLE_MANHATTAN_HP1_FUEL70PERCENT632
+LANG_ENGLISH        "^2Black Hawk Pilot: ^7El par de torsión parece intacto, el rotor funciona y el colector aguanta. Combustible al 70%."
+
+REFERENCE           SUBTITLE_MANHATTAN_HP1_HOLDON619_1
+LANG_ENGLISH        "^2Black Hawk Pilot: ^7¡Vamos a inclinarnos!"
+
+REFERENCE           SUBTITLE_MANHATTAN_HP1_PRESSURE630
+LANG_ENGLISH        "^2Black Hawk Pilot: ^7¡Todavía funcionan los controles!"
+
+REFERENCE           SUBTITLE_MANHATTAN_HP1_RIGHTSIDEHIGH617
+LANG_ENGLISH        "^2Black Hawk Pilot: ^7¡Bandidos arriba a la derecha!"
+
+REFERENCE           SUBTITLE_MANHATTAN_HQR_ASSAULTVESSEL65
+LANG_ENGLISH        "^2Overlord: ^7Tenemos múltiples barcos rusos cerca de nuestros puertos. Los SEAL van a asaltar la nave de mando. Vayan al puerto de Nueva York para prestar apoyo."
+
+REFERENCE           SUBTITLE_MANHATTAN_HQR_BACKONLINE59
+LANG_ENGLISH        "^2Overlord: ^7IVR en línea. Detectamos múltiples enemigos en los tejados de su zona. Tienen a su disposición un Predator totalmente armado."
+
+REFERENCE           SUBTITLE_MANHATTAN_HQR_ENEMYBIRDS68
+LANG_ENGLISH        "^2Overlord: ^7Metal 0-1, vayan con cuidado. Vemos numerosos helicópteros enemigos en su espacio aéreo."
+
+REFERENCE           SUBTITLE_MANHATTAN_HQR_NEWDIRECTIVE63
+LANG_ENGLISH        "^2Overlord: ^7Metal 0-1, esperen instrucciones adicionales. Cambio."
+
+REFERENCE           SUBTITLE_MANHATTAN_HQR_PROCEED57
+LANG_ENGLISH        "^2Overlord: ^7Recibido, 0-1. Todos los sistemas operativos. Les enviamos un Black Hawk para evacuarlos, tiempo estimado de llegada 3 minutos."
+
+REFERENCE           SUBTITLE_MANHATTAN_HQR_SKIESCLEAR634
+LANG_ENGLISH        "^2Overlord: ^7Recibido, 0-1. Cielo despejado. Buena suerte. Corto."
+
+REFERENCE           SUBTITLE_MANHATTAN_RNO_ADIOS423_1
+LANG_ENGLISH        "^2Grinch: ^7Adiós."
+
+REFERENCE           SUBTITLE_MANHATTAN_RNO_ANYTHINGONCOMMS229
+LANG_ENGLISH        "^2Grinch: ^7Truck, ¿capta alguna transmisión?"
+
+REFERENCE           SUBTITLE_MANHATTAN_RNO_BADGUYS313
+LANG_ENGLISH        "^2Grinch: ^7¡Tenemos compañía!"
+
+REFERENCE           SUBTITLE_MANHATTAN_RNO_BALCONY414
+LANG_ENGLISH        "^2Grinch: ^7¡En el balcón!"
+
+REFERENCE           SUBTITLE_MANHATTAN_RNO_BALCONYCLEAR415
+LANG_ENGLISH        "^2Grinch: ^7¡Balcón despejado!"
+
+REFERENCE           SUBTITLE_MANHATTAN_RNO_BEHINDBUILDING624
+LANG_ENGLISH        "^2Grinch: ^7¡Está detrás del edificio! ¡Detrás del edificio!"
+
+REFERENCE           SUBTITLE_MANHATTAN_RNO_BIRDDOWN614
+LANG_ENGLISH        "^2Grinch: ^7¡Pájaro enemigo abatido!  "
+
+REFERENCE           SUBTITLE_MANHATTAN_RNO_CONTACT413
+LANG_ENGLISH        "^2Grinch: ^7¡Contacto! "
+
+REFERENCE           SUBTITLE_MANHATTAN_RNO_COVERING39
+LANG_ENGLISH        "^2Grinch: ^7¡Yo lo cubro!"
+
+REFERENCE           SUBTITLE_MANHATTAN_RNO_GETINHERE212_2
+LANG_ENGLISH        "^2Grinch: ^7¡Frost, métase aquí!"
+
+REFERENCE           SUBTITLE_MANHATTAN_RNO_GOODWORK615
+LANG_ENGLISH        "^2Grinch: ^7¡Bien hecho!"
+
+REFERENCE           SUBTITLE_MANHATTAN_RNO_HANGON628
+LANG_ENGLISH        "^2Grinch: ^7¡Agárrense!"
+
+REFERENCE           SUBTITLE_MANHATTAN_RNO_HOLDON629_1
+LANG_ENGLISH        "^2Grinch: ^7¡Agárrense!"
+
+REFERENCE           SUBTITLE_MANHATTAN_RNO_IMONIT36
+LANG_ENGLISH        "^2Grinch: ^7Me encargaré."
+
+REFERENCE           SUBTITLE_MANHATTAN_RNO_LIKEIT216
+LANG_ENGLISH        "^2Grinch: ^7Así me gusta."
+
+REFERENCE           SUBTITLE_MANHATTAN_RNO_LOSTEM620
+LANG_ENGLISH        "^2Grinch: ^7Lo hemos perdido."
+
+REFERENCE           SUBTITLE_MANHATTAN_RNO_MEMORIALBUILDING324
+LANG_ENGLISH        "^2Grinch: ^7¡Contacto! ¡En el memorial del norte!"
+
+REFERENCE           SUBTITLE_MANHATTAN_RNO_MORENATASHAS210
+LANG_ENGLISH        "^2Grinch: ^7¡Enemigos al descubierto enfrente!"
+
+REFERENCE           SUBTITLE_MANHATTAN_RNO_MOVEMOVEMOVE17
+LANG_ENGLISH        "^2Grinch: ^7¡Venga, vamos, vamos!"
+
+REFERENCE           SUBTITLE_MANHATTAN_RNO_MOVING29
+LANG_ENGLISH        "^2Grinch: ^7¡Vamos!"
+
+REFERENCE           SUBTITLE_MANHATTAN_RNO_NOSHIT19
+LANG_ENGLISH        "^2Grinch: ^7No joda."
+
+REFERENCE           SUBTITLE_MANHATTAN_RNO_PROVIDINGCOVER47
+LANG_ENGLISH        "^2Grinch: ^7Fuego de cobertura. ¡Adelante!"
+
+REFERENCE           SUBTITLE_MANHATTAN_RNO_ROGERWITHYOU34
+LANG_ENGLISH        "^2Grinch: ^7Recibido."
+
+REFERENCE           SUBTITLE_MANHATTAN_RNO_RUARMOR24
+LANG_ENGLISH        "^2Grinch: ^7¡Tenemos un blindado ruso!"
+
+REFERENCE           SUBTITLE_MANHATTAN_RNO_STOREBELOW32
+LANG_ENGLISH        "^2Grinch: ^7Tiradores en tienda de abajo. ¿Vamos a por ellos?"
+
+REFERENCE           SUBTITLE_MANHATTAN_RNO_WEREGOOD14
+LANG_ENGLISH        "^2Grinch: ^7¡Vamos bien!"
+
+REFERENCE           SUBTITLE_MANHATTAN_SND_5TARGETS521
+LANG_ENGLISH        "^2Sandman: ^7¡Cinco blancos menos!"
+
+REFERENCE           SUBTITLE_MANHATTAN_SND_AIMFORBOXES2420
+LANG_ENGLISH        "^2Sandman: ^7¡Ponga termita en el inhibidor!"
+
+REFERENCE           SUBTITLE_MANHATTAN_SND_AIMFORBOXESALT418
+LANG_ENGLISH        "^2Sandman: ^7¡Frost, ponga termita en la alimentación del inhibidor! ¡Lo cubrimos!"
+
+REFERENCE           SUBTITLE_MANHATTAN_SND_ALLOVERUS529
+LANG_ENGLISH        "^2Sandman: ^7Frost, ese Hind nos está reteniendo. Acabe con él."
+
+REFERENCE           SUBTITLE_MANHATTAN_SND_ALMOSTFORWARD325
+LANG_ENGLISH        "^2Sandman: ^7El objetivo está justo delante. ¡Sigamos!"
+
+REFERENCE           SUBTITLE_MANHATTAN_SND_ANOTHERMISSILE516
+LANG_ENGLISH        "^2Sandman: ^7Dispare otro misil, Frost."
+
+REFERENCE           SUBTITLE_MANHATTAN_SND_ANYBODYHIT316
+LANG_ENGLISH        "^2Sandman: ^7¿Algún herido?"
+
+REFERENCE           SUBTITLE_MANHATTAN_SND_APPROACHING314
+LANG_ENGLISH        "^2Sandman: ^7¡No disparen! ¡Es el equipo Anvil!"
+
+REFERENCE           SUBTITLE_MANHATTAN_SND_BEADONHIM623
+LANG_ENGLISH        "^2Sandman: ^7Frost, ¿tiene línea de tiro hacia él?"
+
+REFERENCE           SUBTITLE_MANHATTAN_SND_BLASTRADIUS422
+LANG_ENGLISH        "^2Truck: ^7Termita colocada. ¡Aléjense de la explosión!"
+
+REFERENCE           SUBTITLE_MANHATTAN_SND_BOARDHELO535
+LANG_ENGLISH        "^2Sandman: ^7Al helicóptero, Frost."
+
+REFERENCE           SUBTITLE_MANHATTAN_SND_BURNHOLE419
+LANG_ENGLISH        "^2Sandman: ^7Reviente ya ese inhibidor."
+
+REFERENCE           SUBTITLE_MANHATTAN_SND_BURNINGDAYLIGHT533
+LANG_ENGLISH        "^2Sandman: ^7Es para hoy, Frost. Muévase de una vez."
+
+REFERENCE           SUBTITLE_MANHATTAN_SND_BURNIT425
+LANG_ENGLISH        "^2Sandman: ^7¡Quémelo, Frost!"
+
+REFERENCE           SUBTITLE_MANHATTAN_SND_CHECKCORNERS223
+LANG_ENGLISH        "^2Sandman: ^7¡Atentos a los rincones!"
+
+REFERENCE           SUBTITLE_MANHATTAN_SND_CHECKPOINT3B56
+LANG_ENGLISH        "^2Sandman: ^7¡Overlord, aquí Metal 0-1! ¡Objetivo neutralizado! ¿Me recibe? Cambio."
+
+REFERENCE           SUBTITLE_MANHATTAN_SND_COMINGDOWN423
+LANG_ENGLISH        "^2Truck: ^7Está cayendo."
+
+REFERENCE           SUBTITLE_MANHATTAN_SND_ENEMYPERSONNEL323
+LANG_ENGLISH        "^2Truck: ^7¡Vienen los malos!"
+
+REFERENCE           SUBTITLE_MANHATTAN_SND_ENROUTE633
+LANG_ENGLISH        "^2Sandman: ^7Overlord, aquí 0-1, vamos de camino hacia el puerto. Corto.  "
+
+REFERENCE           SUBTITLE_MANHATTAN_SND_ESTABLISHUPLINK510
+LANG_ENGLISH        "^2Sandman: ^7¡Frost, abra un enlace con el Predator y consíganos más tiempo!"
+
+REFERENCE           SUBTITLE_MANHATTAN_SND_EXCHANGEMOVE26
+LANG_ENGLISH        "^2Sandman: ^7Atentos al edificio. ¡A la izquierda justo delante!"
+
+REFERENCE           SUBTITLE_MANHATTAN_SND_FIREFIREFIRE625
+LANG_ENGLISH        "^2Sandman: ^7¡Fuego!"
+
+REFERENCE           SUBTITLE_MANHATTAN_SND_FLANKLEFT21
+LANG_ENGLISH        "^2Sandman: ^7Grinch, Truck, vayan por la izquierda."
+
+REFERENCE           SUBTITLE_MANHATTAN_SND_FLUSHEMOUT326
+LANG_ENGLISH        "^2Sandman: ^7Se han atrincherado. ¡Frost, coja la XM25 y sáquelos de ahí!"
+
+REFERENCE           SUBTITLE_MANHATTAN_SND_FROSTUPLADDER416
+LANG_ENGLISH        "^2Sandman: ^7Frost, por la escalera. Vamos a sus seis."
+
+REFERENCE           SUBTITLE_MANHATTAN_SND_GETONIT536
+LANG_ENGLISH        "^2Sandman: ^7¡Frost, múltiples contactos en la parte baja del tejado!"
+
+REFERENCE           SUBTITLE_MANHATTAN_SND_GETTHISDONE322
+LANG_ENGLISH        "^2Sandman: ^7¡Pues en marcha!"
+
+REFERENCE           SUBTITLE_MANHATTAN_SND_GOGO221
+LANG_ENGLISH        "^2Sandman: ^7¡Vamos! "
+
+REFERENCE           SUBTITLE_MANHATTAN_SND_GOGO2310
+LANG_ENGLISH        "^2Sandman: ^7¡Vamos! "
+
+REFERENCE           SUBTITLE_MANHATTAN_SND_GOHOTENGAGE22
+LANG_ENGLISH        "^2Sandman: ^7¡Nos han visto! ¡Abran fuego!"
+
+REFERENCE           SUBTITLE_MANHATTAN_SND_GOODEFFECT522
+LANG_ENGLISH        "^2Sandman: ^7Les ha dado de lleno."
+
+REFERENCE           SUBTITLE_MANHATTAN_SND_GOODHIT519
+LANG_ENGLISH        "^2Sandman: ^7¡Buen disparo!"
+
+REFERENCE           SUBTITLE_MANHATTAN_SND_GOODKILL613
+LANG_ENGLISH        "^2Sandman: ^7¡Buen tiro, Frost!"
+
+REFERENCE           SUBTITLE_MANHATTAN_SND_HEADINGAME412
+LANG_ENGLISH        "^2Sandman: ^7¡Frost, céntrese en la misión!"
+
+REFERENCE           SUBTITLE_MANHATTAN_SND_HEADUPTOP48
+LANG_ENGLISH        "^2Sandman: ^7¡Arriba! ¡Vamos, vamos!"
+
+REFERENCE           SUBTITLE_MANHATTAN_SND_HINDHINDHIND622
+LANG_ENGLISH        "^2Sandman: ^7¡Mierda! ¡Hind enemigo!"
+
+REFERENCE           SUBTITLE_MANHATTAN_SND_HINDSMOKING530
+LANG_ENGLISH        "^2Sandman: ^7¡El Hind arde! ¡Buen tiro!"
+
+REFERENCE           SUBTITLE_MANHATTAN_SND_HITCONFIRMED520
+LANG_ENGLISH        "^2Sandman: ^7Impacto confirmado."
+
+REFERENCE           SUBTITLE_MANHATTAN_SND_HITEMAGAIN515
+LANG_ENGLISH        "^2Sandman: ^7Vuelva a atizarles."
+
+REFERENCE           SUBTITLE_MANHATTAN_SND_HITEXCHANGE226
+LANG_ENGLISH        "^2Sandman: ^7Vamos mal de tiempo, tenemos que llegar a la Bolsa."
+
+REFERENCE           SUBTITLE_MANHATTAN_SND_HOLDTILMYGO218
+LANG_ENGLISH        "^2Sandman: ^7Grinch, Truck, esperen aquí a mi señal. Frost, sígame."
+
+REFERENCE           SUBTITLE_MANHATTAN_SND_HOLDUP31
+LANG_ENGLISH        "^2Sandman: ^7Quietos. Silencio."
+
+REFERENCE           SUBTITLE_MANHATTAN_SND_HOLEINTHEWALL38
+LANG_ENGLISH        "^2Sandman: ^7¡Frost, tire unas granadas!"
+
+REFERENCE           SUBTITLE_MANHATTAN_SND_HOPTHERAIL49
+LANG_ENGLISH        "^2Sandman: ^7¡Salten la barandilla!"
+
+REFERENCE           SUBTITLE_MANHATTAN_SND_INSIDEEXCHANGE41
+LANG_ENGLISH        "^2Sandman: ^7¡Vamos a entrar en la Bolsa! ¡Adelante!"
+
+REFERENCE           SUBTITLE_MANHATTAN_SND_INTHEALLEY227
+LANG_ENGLISH        "^2Sandman: ^7Oigo voces en el callejón, tras la puerta. Frost, use una nueve destellos."
+
+REFERENCE           SUBTITLE_MANHATTAN_SND_ISRISOPCON511
+LANG_ENGLISH        "^2Sandman: ^7Frost, el IVR es todo nuestro. Encárguese."
+
+REFERENCE           SUBTITLE_MANHATTAN_SND_KILLINGTIME534
+LANG_ENGLISH        "^2Sandman: ^7Se nos acaba el tiempo, Frost. ¡Suba!"
+
+REFERENCE           SUBTITLE_MANHATTAN_SND_KNOCKITOUT526
+LANG_ENGLISH        "^2Sandman: ^7¡Se acerca un Hind! Derríbelo enseguida."
+
+REFERENCE           SUBTITLE_MANHATTAN_SND_LEGIT15
+LANG_ENGLISH        "^2Sandman: ^7El inhibidor está a 500 metros al norte. Habrá que ir a pie. ¡Vamos!"
+
+REFERENCE           SUBTITLE_MANHATTAN_SND_LESSRESISTANCE228
+LANG_ENGLISH        "^2Sandman: ^7Por aquí volveremos a Wall Street. El inhibidor no queda lejos. Vigilen puertas y ventanas, y atentos a las sombras."
+
+REFERENCE           SUBTITLE_MANHATTAN_SND_LETSMOVE344
+LANG_ENGLISH        "^2Sandman: ^7Andando."
+
+REFERENCE           SUBTITLE_MANHATTAN_SND_LETSROLL43
+LANG_ENGLISH        "^2Sandman: ^7Recibido. Metal, en marcha."
+
+REFERENCE           SUBTITLE_MANHATTAN_SND_LIGHTTHERMITE424
+LANG_ENGLISH        "^2Sandman: ^7¡Frost, coloque esa termita!"
+
+REFERENCE           SUBTITLE_MANHATTAN_SND_MIDTOWN318
+LANG_ENGLISH        "^2Sandman: ^7¿Cómo está el centro de la ciudad?"
+
+REFERENCE           SUBTITLE_MANHATTAN_SND_MOVE2220
+LANG_ENGLISH        "^2Sandman: ^7¡Vamos!"
+
+REFERENCE           SUBTITLE_MANHATTAN_SND_MOVE28
+LANG_ENGLISH        "^2Sandman: ^7¡Sigamos avanzando!"
+
+REFERENCE           SUBTITLE_MANHATTAN_SND_MOVEMOVE45
+LANG_ENGLISH        "^2Sandman: ^7¡Deprisa! ¡Deprisa!"
+
+REFERENCE           SUBTITLE_MANHATTAN_SND_MULTIPLEDOWN517
+LANG_ENGLISH        "^2Sandman: ^7¡Varios blancos alcanzados!"
+
+REFERENCE           SUBTITLE_MANHATTAN_SND_MULTIPLEELIMINATED518
+LANG_ENGLISH        "^2Sandman: ^7Varios blancos eliminados."
+
+REFERENCE           SUBTITLE_MANHATTAN_SND_OUREXFIL531
+LANG_ENGLISH        "^2Sandman: ^7¡Ahí está nuestro vehículo!"
+
+REFERENCE           SUBTITLE_MANHATTAN_SND_PINNEDDOWN527
+LANG_ENGLISH        "^2Sandman: ^7Frost, ese Hind nos tiene acorralados. ¡Elimínelo!"
+
+REFERENCE           SUBTITLE_MANHATTAN_SND_PRESSTHEATTACK23
+LANG_ENGLISH        "^2Truck: ^7¡Se acercan más cuervos de frente!"
+
+REFERENCE           SUBTITLE_MANHATTAN_SND_PROVIDEOVERWATCH35
+LANG_ENGLISH        "^2Sandman: ^7Grinch, monte guardia mientras despejamos la tienda."
+
+REFERENCE           SUBTITLE_MANHATTAN_SND_PUSHMOVEMOVE427
+LANG_ENGLISH        "^2Sandman: ^7¡A la carga!  "
+
+REFERENCE           SUBTITLE_MANHATTAN_SND_QUITDRAGGIN410
+LANG_ENGLISH        "^2Sandman: ^7Frost, mueva el culo. ¡Tenemos que seguir!"
+
+REFERENCE           SUBTITLE_MANHATTAN_SND_RALLYTOEAST212
+LANG_ENGLISH        "^2Sandman: ^7¡Fuera de la calle! ¡A la derecha!"
+
+REFERENCE           SUBTITLE_MANHATTAN_SND_REAPERSMISSILE513
+LANG_ENGLISH        "^2Sandman: ^7Frost, dirija los misiles del Predator."
+
+REFERENCE           SUBTITLE_MANHATTAN_SND_REGROUP219
+LANG_ENGLISH        "^2Sandman: ^7Grinch, Truck, vuelvan aquí."
+
+REFERENCE           SUBTITLE_MANHATTAN_SND_RIKITIK411
+LANG_ENGLISH        "^2Sandman: ^7¡Venga, Frost, muévase!"
+
+REFERENCE           SUBTITLE_MANHATTAN_SND_ROGERLAST66
+LANG_ENGLISH        "^2Sandman: ^7Recibido."
+
+REFERENCE           SUBTITLE_MANHATTAN_SND_ROGERTHAT33
+LANG_ENGLISH        "^2Sandman: ^7Recibido."
+
+REFERENCE           SUBTITLE_MANHATTAN_SND_RPGRPG64
+LANG_ENGLISH        "^2Sandman: ^7Recibido, Overlord. Corto."
+
+REFERENCE           SUBTITLE_MANHATTAN_SND_RUSSIANBIRD611
+LANG_ENGLISH        "^2Sandman: ^7¡Frost, derribe ese pájaro ruso!"
+
+REFERENCE           SUBTITLE_MANHATTAN_SND_SAMEASBEFORE214
+LANG_ENGLISH        "^2Sandman: ^7Lo mismo: eliminamos el inhibidor y matamos a los malos."
+
+REFERENCE           SUBTITLE_MANHATTAN_SND_SCANSECTORS621
+LANG_ENGLISH        "^2Sandman: ^7Sigan atentos a sus sectores."
+
+REFERENCE           SUBTITLE_MANHATTAN_SND_SECONDTIER417
+LANG_ENGLISH        "^2Sandman: ^7¡Adelante! ¡El inhibidor está en el segundo nivel!"
+
+REFERENCE           SUBTITLE_MANHATTAN_SND_SENDANOTHERMISSILE514
+LANG_ENGLISH        "^2Sandman: ^7Dispare otro misil, Frost."
+
+REFERENCE           SUBTITLE_MANHATTAN_SND_SHORTREPEAT524
+LANG_ENGLISH        "^2Sandman: ^7¡Negativo! ¡Repita!"
+
+REFERENCE           SUBTITLE_MANHATTAN_SND_STANDINGBY58
+LANG_ENGLISH        "^2Sandman: ^7Recibido, estaremos listos."
+
+REFERENCE           SUBTITLE_MANHATTAN_SND_STAYINGHERE532
+LANG_ENGLISH        "^2Sandman: ^7Frost, ¿prefiere quedarse? ¡Vamos!"
+
+REFERENCE           SUBTITLE_MANHATTAN_SND_STAYTOGETHER224
+LANG_ENGLISH        "^2Sandman: ^7¡No se separen!"
+
+REFERENCE           SUBTITLE_MANHATTAN_SND_SWITCHEDON12
+LANG_ENGLISH        "^2Sandman: ^7Espabilen. ¡Tenemos que movernos ya!"
+
+REFERENCE           SUBTITLE_MANHATTAN_SND_SWITCHTOGRENADE326_1
+LANG_ENGLISH        "^2Sandman: ^7¡Frost, cambie al lanzagranadas y dispare!"
+
+REFERENCE           SUBTITLE_MANHATTAN_SND_TAKECOVER37
+LANG_ENGLISH        "^2Sandman: ^7¡Contacto! ¡A cubierto!"
+
+REFERENCE           SUBTITLE_MANHATTAN_SND_THATSAMISS523
+LANG_ENGLISH        "^2Sandman: ^7Ha fallado."
+
+REFERENCE           SUBTITLE_MANHATTAN_SND_THISWAY222
+LANG_ENGLISH        "^2Sandman: ^7¡Por aquí!"
+
+REFERENCE           SUBTITLE_MANHATTAN_SND_UPDATEONAIR320
+LANG_ENGLISH        "^2Sandman: ^7¿Seguimos sin apoyo aéreo?"
+
+REFERENCE           SUBTITLE_MANHATTAN_SND_UPTHESTAIRS215
+LANG_ENGLISH        "^2Sandman: ^7¡Por las escaleras!"
+
+REFERENCE           SUBTITLE_MANHATTAN_SND_USETHEREAPER528
+LANG_ENGLISH        "^2Sandman: ^7¡Use el Predator contra el Hind!"
+
+REFERENCE           SUBTITLE_MANHATTAN_SND_USETHERMITE421
+LANG_ENGLISH        "^2Sandman: ^7¡Use la termita, Frost!"
+
+REFERENCE           SUBTITLE_MANHATTAN_SND_VERTICAL62
+LANG_ENGLISH        "^2Sandman: ^7¡Agárrense, no puedo controlarlo!"
+
+REFERENCE           SUBTITLE_MANHATTAN_SND_WEREHIT627
+LANG_ENGLISH        "^2Sandman: ^7¡Joder, nos han dado!"
+
+REFERENCE           SUBTITLE_MANHATTAN_SND_WESTTOSTREET312
+LANG_ENGLISH        "^2Sandman: ^7¡Vayan al oeste, a la calle! ¡Va!"
+
+REFERENCE           SUBTITLE_MANHATTAN_SND_YOUOWNIT512
+LANG_ENGLISH        "^2Sandman: ^7Frost, nos han puesto un Predator en bandeja. ¡Utilícelo!"
+
+REFERENCE           SUBTITLE_MANHATTAN_SND_YOUUP13
+LANG_ENGLISH        "^2Sandman: ^7Grinch, Truck, ¿todo bien?"
+
+REFERENCE           SUBTITLE_MANHATTAN_SND_ZEROKILLS525
+LANG_ENGLISH        "^2Sandman: ^7Cero bajas, cero bajas."
+
+REFERENCE           SUBTITLE_MANHATTAN_SND_ZEROTIME426
+LANG_ENGLISH        "^2Sandman: ^7¡Frost, no queda tiempo! ¡Use la termita!"
+
+REFERENCE           SUBTITLE_MANHATTAN_TRK_BIRDINCOMING211
+LANG_ENGLISH        "^2Truck: ^7¡Atentos, viene un pájaro!"
+
+REFERENCE           SUBTITLE_MANHATTAN_TRK_CLEAR38
+LANG_ENGLISH        "^2Truck: ^7¡Despejado!"
+
+REFERENCE           SUBTITLE_MANHATTAN_TRK_COMSON55_1
+LANG_ENGLISH        "^2Truck: ^7Tenemos conexión, jefe."
+
+REFERENCE           SUBTITLE_MANHATTAN_TRK_DONTSHOOTHIM18
+LANG_ENGLISH        "^2Truck: ^7Eso significa que no dispare, Grinch."
+
+REFERENCE           SUBTITLE_MANHATTAN_TRK_ENEMYBIRD69
+LANG_ENGLISH        "^2Truck: ^7¡Un pájaro enemigo!"
+
+REFERENCE           SUBTITLE_MANHATTAN_TRK_FRIENDLIES16
+LANG_ENGLISH        "^2Sandman: ^7¡Aliados! ¡No disparen!"
+
+REFERENCE           SUBTITLE_MANHATTAN_TRK_GAMEPLAN213
+LANG_ENGLISH        "^2Truck: ^7¿Y cuál es el plan?"
+
+REFERENCE           SUBTITLE_MANHATTAN_TRK_GETINSIDE212_1
+LANG_ENGLISH        "^2Truck: ^7¡Salgan de la calle! ¡Adentro!"
+
+REFERENCE           SUBTITLE_MANHATTAN_TRK_GOINGDOWN629
+LANG_ENGLISH        "^2Truck: ^7¡Mierda! ¡Vamos a caer!"
+
+REFERENCE           SUBTITLE_MANHATTAN_TRK_HINDSINBOUND616
+LANG_ENGLISH        "^2Truck: ^7¡Dos más! ¡Dos más!"
+
+REFERENCE           SUBTITLE_MANHATTAN_TRK_LOOKOUT626
+LANG_ENGLISH        "^2Truck: ^7¡Cuidado!  "
+
+REFERENCE           SUBTITLE_MANHATTAN_TRK_LOWERROOFTOP510_1
+LANG_ENGLISH        "^2Truck: ^7¡Blancos en el tejado!"
+
+REFERENCE           SUBTITLE_MANHATTAN_TRK_MOVING2311
+LANG_ENGLISH        "^2Truck: ^7¡Vamos!"
+
+REFERENCE           SUBTITLE_MANHATTAN_TRK_MOVING27
+LANG_ENGLISH        "^2Truck: ^7¡Recibido, lo veo!"
+
+REFERENCE           SUBTITLE_MANHATTAN_TRK_ONYOU217
+LANG_ENGLISH        "^2Truck: ^7Lo seguimos."
+
+REFERENCE           SUBTITLE_MANHATTAN_TRK_STATIC230
+LANG_ENGLISH        "^2Truck: ^7Nada más que estática. El inhibidor nos tiene a ciegas."
+
+REFERENCE           SUBTITLE_MANHATTAN_TRK_STAYONHIM610
+LANG_ENGLISH        "^2Truck: ^7¡Sígalo! ¡No lo pierda!"
+
+REFERENCE           SUBTITLE_MANHATTAN_TRK_TAKECOVER25
+LANG_ENGLISH        "^2Truck: ^7¡A cubierto! ¡A cubierto!"
+
+REFERENCE           SUBTITLE_MANHATTAN_TRK_TAKINGHEAVYFIRE618
+LANG_ENGLISH        "^2Truck: ^7¡Nos están acribillando!"
+
+REFERENCE           SUBTITLE_MANHATTAN_TRK_THREATABOVE225
+LANG_ENGLISH        "^2Sandman: ^7¡Peligro a las 12 arriba!"
+
+REFERENCE           SUBTITLE_MANHATTAN_TRK_TRADINGFLOOR46
+LANG_ENGLISH        "^2Truck: ^7¡Contacto!"
+
+REFERENCE           SUBTITLE_SO_HELISWITCH_PLT_11OCLOCK115
+LANG_ENGLISH        "^2Vulture 2-2: ^7Tanques a las 11, acabe con ellos."
+
+REFERENCE           SUBTITLE_SO_HELISWITCH_PLT_20SECONDS137
+LANG_ENGLISH        "^2Vulture 2-2: ^7¡20 segundos!"
+
+REFERENCE           SUBTITLE_SO_HELISWITCH_PLT_30SECONDS136
+LANG_ENGLISH        "^2Vulture 2-2: ^7¡30 segundos!"
+
+REFERENCE           SUBTITLE_SO_HELISWITCH_PLT_ARMTHEBOMB130
+LANG_ENGLISH        "^2Vulture 2-2: ^7¡Vuelva y active la bomba!"
+
+REFERENCE           SUBTITLE_SO_HELISWITCH_PLT_ATRENDEZVOUS133
+LANG_ENGLISH        "^2Vulture 2-2: ^7En el punto de encuentro."
+
+REFERENCE           SUBTITLE_SO_HELISWITCH_PLT_BOMBISARMED131
+LANG_ENGLISH        "^2Vulture 2-2: ^7¡Bomba activa, bien hecho!"
+
+REFERENCE           SUBTITLE_SO_HELISWITCH_PLT_CHANGINGPOSITIONS15
+LANG_ENGLISH        "^2Vulture 2-2: ^7Cambiando de posición."
+
+REFERENCE           SUBTITLE_SO_HELISWITCH_PLT_COMEABOARD117
+LANG_ENGLISH        "^2Vulture 2-2: ^7Suba a bordo."
+
+REFERENCE           SUBTITLE_SO_HELISWITCH_PLT_COMINGAROUND11
+LANG_ENGLISH        "^2Vulture 2-2: ^7No lo veo, rodearé el edificio."
+
+REFERENCE           SUBTITLE_SO_HELISWITCH_PLT_DROPOFF122
+LANG_ENGLISH        "^2Vulture 2-2: ^7Me dispongo a soltar carga."
+
+REFERENCE           SUBTITLE_SO_HELISWITCH_PLT_DROPPEDSMOKE18
+LANG_ENGLISH        "^2Vulture 2-2: ^7Han soltado humo, al parecer saben que estamos aquí."
+
+REFERENCE           SUBTITLE_SO_HELISWITCH_PLT_EXTRACTIONPOINT132
+LANG_ENGLISH        "^2Vulture 2-2: ^7Voy al punto de extracción."
+
+REFERENCE           SUBTITLE_SO_HELISWITCH_PLT_EYESON12
+LANG_ENGLISH        "^2Vulture 2-2: ^7Contacto visual."
+
+REFERENCE           SUBTITLE_SO_HELISWITCH_PLT_FINDBRIEFCASE129
+LANG_ENGLISH        "^2Vulture 2-2: ^7Encuentren el maletín."
+
+REFERENCE           SUBTITLE_SO_HELISWITCH_PLT_GETOUTTATHERE138
+LANG_ENGLISH        "^2Vulture 2-2: ^7¿Dónde se han metido? ¡Salgan de ahí cuanto antes!"
+
+REFERENCE           SUBTITLE_SO_HELISWITCH_PLT_GOODLUCK123
+LANG_ENGLISH        "^2Vulture 2-2: ^7Nos veremos al otro lado. Buena suerte."
+
+REFERENCE           SUBTITLE_SO_HELISWITCH_PLT_GOTENEMIES112
+LANG_ENGLISH        "^2Vulture 2-2: ^7Aún quedan enemigos en la zona."
+
+REFERENCE           SUBTITLE_SO_HELISWITCH_PLT_GOTTALIFTOFF119
+LANG_ENGLISH        "^2Vulture 2-2: ^7¡Vamos, tengo que despegar!"
+
+REFERENCE           SUBTITLE_SO_HELISWITCH_PLT_GOTYOURBACK110
+LANG_ENGLISH        "^2Vulture 2-2: ^7Le cubro la retaguardia, puede continuar."
+
+REFERENCE           SUBTITLE_SO_HELISWITCH_PLT_GOTYOURSIX19
+LANG_ENGLISH        "^2Vulture 2-2: ^7Cubro sus seis."
+
+REFERENCE           SUBTITLE_SO_HELISWITCH_PLT_HANGON124
+LANG_ENGLISH        "^2Vulture 2-2: ^7¡Agárrense!"
+
+REFERENCE           SUBTITLE_SO_HELISWITCH_PLT_HEREWEGO125
+LANG_ENGLISH        "^2Vulture 2-2: ^7¡Allá vamos!"
+
+REFERENCE           SUBTITLE_SO_HELISWITCH_PLT_HOPOFF120
+LANG_ENGLISH        "^2Vulture 2-2: ^7Arriba."
+
+REFERENCE           SUBTITLE_SO_HELISWITCH_PLT_HOPON118
+LANG_ENGLISH        "^2Vulture 2-2: ^7Suba."
+
+REFERENCE           SUBTITLE_SO_HELISWITCH_PLT_ILLSTAYBEHIND116
+LANG_ENGLISH        "^2Vulture 2-2: ^7Me quedaré por detrás."
+
+REFERENCE           SUBTITLE_SO_HELISWITCH_PLT_JUMPOFF121
+LANG_ENGLISH        "^2Vulture 2-2: ^7¡Entre ya, no podemos seguir posados!"
+
+REFERENCE           SUBTITLE_SO_HELISWITCH_PLT_LZCLEAR111
+LANG_ENGLISH        "^2Vulture 2-2: ^7Voy a aterrizar."
+
+REFERENCE           SUBTITLE_SO_HELISWITCH_PLT_MOVINGAHEAD14
+LANG_ENGLISH        "^2Vulture 2-2: ^7Avanzando."
+
+REFERENCE           SUBTITLE_SO_HELISWITCH_PLT_MOVINGAHEAD2114
+LANG_ENGLISH        "^2Vulture 2-2: ^7Avanzando."
+
+REFERENCE           SUBTITLE_SO_HELISWITCH_PLT_NICEJOB127
+LANG_ENGLISH        "^2Vulture 2-2: ^7¡Bien hecho, muchachos!"
+
+REFERENCE           SUBTITLE_SO_HELISWITCH_PLT_ONTHESTREET113
+LANG_ENGLISH        "^2Vulture 2-2: ^7Aquí Vulture 2-2, estoy en la calle."
+
+REFERENCE           SUBTITLE_SO_HELISWITCH_PLT_ONTHISFLOOR128
+LANG_ENGLISH        "^2Vulture 2-2: ^7El paquete está en esta planta."
+
+REFERENCE           SUBTITLE_SO_HELISWITCH_PLT_PICKUPPACE135
+LANG_ENGLISH        "^2Vulture 2-2: ^7¡No queda tiempo! ¡Acelere el paso!"
+
+REFERENCE           SUBTITLE_SO_HELISWITCH_PLT_RUNNINGOUT134
+LANG_ENGLISH        "^2Vulture 2-2: ^7¡Vamos, que se acaba el tiempo!"
+
+REFERENCE           SUBTITLE_SO_HELISWITCH_PLT_STRAPIN126
+LANG_ENGLISH        "^2Vulture 2-2: ^7¡Sujétense, nos vamos!"
+
+REFERENCE           SUBTITLE_SO_HELISWITCH_PLT_TAKEITSLOW13
+LANG_ENGLISH        "^2Vulture 2-2: ^7Lo veo, vaya con calma."
+
+REFERENCE           SUBTITLE_SO_HELISWITCH_PLT_THERMAL16
+LANG_ENGLISH        "^2Vulture 2-2: ^7Paso a térmica."
+
+REFERENCE           SUBTITLE_SO_HELISWITCH_PLT_TOTHERMAL17
+LANG_ENGLISH        "^2Vulture 2-2: ^7Cambio a térmica."
+
+ENDMARKER

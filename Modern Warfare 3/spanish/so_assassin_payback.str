@@ -1,0 +1,85 @@
+// Dumped from fastfile "so_assassin_payback".
+// In their original format the strings might have been separated in multiple files.
+VERSION             "1"
+CONFIG              "C:/trees/cod3/cod3/bin/StringEd.cfg"
+FILENOTES           ""
+
+REFERENCE           SO_ASSASSIN_PAYBACK_EXFIL_HUD
+LANG_ENGLISH        "Extracción en: "
+
+REFERENCE           SO_ASSASSIN_PAYBACK_HELI_HUD
+LANG_ENGLISH        "Tiempo helicópteros: "
+
+REFERENCE           SO_ASSASSIN_PAYBACK_HELI_KILL
+LANG_ENGLISH        "Tiempo destruir helicópteros"
+
+REFERENCE           SO_ASSASSIN_PAYBACK_HOSTAGE_DEATH
+LANG_ENGLISH        "¡No pongas rehenes en peligro!"
+
+REFERENCE           SO_ASSASSIN_PAYBACK_OBJECTIVE_DEFEND_EXFIL
+LANG_ENGLISH        "Defiende la zona hasta la evacuación"
+
+REFERENCE           SO_ASSASSIN_PAYBACK_OBJECTIVE_ELIMINATE_VIP1
+LANG_ENGLISH        "Elimina al coronel Farhan"
+
+REFERENCE           SO_ASSASSIN_PAYBACK_OBJECTIVE_ELIMINATE_VIP2
+LANG_ENGLISH        "Elimina al capitán Mahad"
+
+REFERENCE           SO_ASSASSIN_PAYBACK_OBJECTIVE_ELIMINATE_VIPS
+LANG_ENGLISH        "Elimina a los VIP\n"
+
+REFERENCE           SO_ASSASSIN_PAYBACK_OBJECTIVE_HOSTAGES
+LANG_ENGLISH        "Rehenes"
+
+REFERENCE           SO_ASSASSIN_PAYBACK_OBJECTIVE_KILL
+LANG_ENGLISH        "Blanco"
+
+REFERENCE           SO_ASSASSIN_PAYBACK_OBJECTIVE_RESCUE
+LANG_ENGLISH        "Rescata a los rehenes"
+
+REFERENCE           SO_ASSASSIN_PAYBACK_OBJECTIVE_SIGNAL
+LANG_ENGLISH        "Usa una granada de humo para hacer una señal a los helicópteros de rescate"
+
+REFERENCE           SO_ASSASSIN_PAYBACK_THROW_SMOKE
+LANG_ENGLISH        "Lanza humo ^3[{+smoke}]^7 para señalar tu posición."
+
+REFERENCE           SO_ASSASSIN_PAYBACK_USE_HOSTAGE
+LANG_ENGLISH        "Pulsa ^3[{+activate}]^7 para liberar rehenes."
+
+REFERENCE           SUBTITLE_SO_ASSASSIN_APPROVED_TO_ENGAGE
+LANG_ENGLISH        "^2Overlord: ^7Hitman 2. Está autorizado a atacar esos objetivos."
+
+REFERENCE           SUBTITLE_SO_ASSASSIN_CHOPPING_A_TASK_FORCE
+LANG_ENGLISH        "^2Overlord: ^7Enviamos una fuerza operativa en su ayuda. Esperen."
+
+REFERENCE           SUBTITLE_SO_ASSASSIN_CONFIRM_GOOD_KILLS
+LANG_ENGLISH        "^2Overlord: ^7"
+
+REFERENCE           SUBTITLE_SO_ASSASSIN_CONFIRM_KILL
+LANG_ENGLISH        "^2Overlord: ^7"
+
+REFERENCE           SUBTITLE_SO_ASSASSIN_ENEMY_CONTACTS
+LANG_ENGLISH        "^2Overlord: ^7Contactos enemigos acercándose a su posición."
+
+REFERENCE           SUBTITLE_SO_ASSASSIN_ENEMY_HEADING_YOUR_WAY
+LANG_ENGLISH        "^2Overlord: ^7Se aproximan tropas enemigas."
+
+REFERENCE           SUBTITLE_SO_ASSASSIN_ENEMY_LITTLEBIRD
+LANG_ENGLISH        "^2Overlord: ^7Vienen pájaros enemigos."
+
+REFERENCE           SUBTITLE_SO_ASSASSIN_KILL_CONFIRMED
+LANG_ENGLISH        "^2Overlord: ^7Baja confirmada"
+
+REFERENCE           SUBTITLE_SO_ASSASSIN_METAL_ZERO_ONE
+LANG_ENGLISH        "^2Overlord: ^7"
+
+REFERENCE           SUBTITLE_SO_ASSASSIN_NICE_WORK
+LANG_ENGLISH        "^2Overlord: ^7Bien hecho. Puede continuar."
+
+REFERENCE           SUBTITLE_SO_ASSASSIN_ONE_MORE
+LANG_ENGLISH        "^2Overlord: ^7Falta uno más."
+
+REFERENCE           SUBTITLE_SO_ASSASSIN_TEAM_LARGE_ENEMY_FORCE
+LANG_ENGLISH        "^2Overlord: ^7Equipo, un contingente enemigo se dirige a su posición."
+
+ENDMARKER

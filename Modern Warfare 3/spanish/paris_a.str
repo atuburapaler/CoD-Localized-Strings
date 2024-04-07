@@ -1,0 +1,664 @@
+// Dumped from fastfile "paris_a".
+// In their original format the strings might have been separated in multiple files.
+VERSION             "1"
+CONFIG              "C:/trees/cod3/cod3/bin/StringEd.cfg"
+FILENOTES           ""
+
+REFERENCE           PARIS_AIR_SUPPORT_HINT
+LANG_ENGLISH        "Pulsa ^3 [{+actionslot 4}] ^7 para equiparte con un marcador de apoyo aéreo."
+
+REFERENCE           PARIS_AIR_SUPPORT_THROW_HINT
+LANG_ENGLISH        "Usa [{+attack}] para lanzar el marcador para apoyo aéreo."
+
+REFERENCE           PARIS_AIR_SUPPORT_THROW_HINT_PC
+LANG_ENGLISH        "Pulsa [{+attack}] para lanzar el marcador para apoyo aéreo."
+
+REFERENCE           PARIS_ATTACH_BOMB_TO_HELICOPTER
+LANG_ENGLISH        "Mantén el botón Usar para acoplar la bomba al helicóptero."
+
+REFERENCE           PARIS_DEADQUOTE_GET_IN_VAN
+LANG_ENGLISH        "Súbete a la furgoneta para iniciar la persecución."
+
+REFERENCE           PARIS_ENTER_VAN_HINT
+LANG_ENGLISH        "Mantén ^3&&1^7 para subirte a la furgoneta."
+
+REFERENCE           PARIS_FAIL_CAPTURE_VOLK_ALIVE
+LANG_ENGLISH        "Volk debe ser capturado con vida."
+
+REFERENCE           PARIS_FAIL_DONT_KILL_VOLK
+LANG_ENGLISH        "No debes matar a Volk."
+
+REFERENCE           PARIS_FAIL_GET_TO_VAN
+LANG_ENGLISH        "Volk ha escapado; no tardes tanto en subirte a la furgoneta."
+
+REFERENCE           PARIS_FAIL_KILL_VOLKS_GUARDS
+LANG_ENGLISH        "Debes matar a los guardias de Volk."
+
+REFERENCE           PARIS_FAIL_SHOOT_VOLKS_CAR
+LANG_ENGLISH        "Debes disparar contra el coche de Volk."
+
+REFERENCE           PARIS_FAIL_VOLK_ESCAPED
+LANG_ENGLISH        "Volk ha escapado."
+
+REFERENCE           PARIS_INTROSCREEN_LINE1
+LANG_ENGLISH        "\"Empaquetar\""
+
+REFERENCE           PARIS_INTROSCREEN_LINE2
+LANG_ENGLISH        "9 de octubre, 14:10:[{FAKE_INTRO_SECONDS:02}]"
+
+REFERENCE           PARIS_INTROSCREEN_LINE3
+LANG_ENGLISH        "Sargento Derek \"Frost\" Westbrook"
+
+REFERENCE           PARIS_INTROSCREEN_LINE4
+LANG_ENGLISH        "Delta Force"
+
+REFERENCE           PARIS_INTROSCREEN_LINE5
+LANG_ENGLISH        "Colina de Montmartre, París"
+
+REFERENCE           PARIS_OBJECTIVE_AIRLIFT
+LANG_ENGLISH        "Ayuda a izar la bomba\n"
+
+REFERENCE           PARIS_OBJECTIVE_BTR
+LANG_ENGLISH        "Blanco"
+
+REFERENCE           PARIS_OBJECTIVE_CAPTURE
+LANG_ENGLISH        "Captura"
+
+REFERENCE           PARIS_OBJECTIVE_CAPTURE_VOLK
+LANG_ENGLISH        "Captura a Volk"
+
+REFERENCE           PARIS_OBJECTIVE_DEFEND_VAN
+LANG_ENGLISH        "Defiende la furgoneta"
+
+REFERENCE           PARIS_OBJECTIVE_DESTROY_BTR
+LANG_ENGLISH        "Usa el marcador de apoyo aéreo para destruir el BTR"
+
+REFERENCE           PARIS_OBJECTIVE_ENTER
+LANG_ENGLISH        "Entra"
+
+REFERENCE           PARIS_OBJECTIVE_FOLLOW_ALI
+LANG_ENGLISH        "Sigue a Alí"
+
+REFERENCE           PARIS_OBJECTIVE_FOLLOW_GIGN
+LANG_ENGLISH        "Sigue al líder del GIGN"
+
+REFERENCE           PARIS_OBJECTIVE_FOLLOW_GIGN_CATACOMBS
+LANG_ENGLISH        "Sigue al líder del GIGN a través de las catacumbas"
+
+REFERENCE           PARIS_OBJECTIVE_GET_IN_VAN
+LANG_ENGLISH        "Entra en la furgoneta"
+
+REFERENCE           PARIS_OBJECTIVE_LOCATE_ALI
+LANG_ENGLISH        "Encuentra a Alí"
+
+REFERENCE           PARIS_OBJECTIVE_MEET_GIGN
+LANG_ENGLISH        "Reúnete con el pelotón del GIGN"
+
+REFERENCE           PARIS_PROTECT_TIMER
+LANG_ENGLISH        "La ayuda llegará en:  "
+
+REFERENCE           PARIS_USE_FALLEN_CORRIDOR
+LANG_ENGLISH        "Mantén ^3&&1^7 para moverte por el corredor derruido."
+
+REFERENCE           PARIS_USE_MANHOLE
+LANG_ENGLISH        "Mantén ^3&&1^7 para usar la escalerilla."
+
+REFERENCE           SUBTITLE_PARIS_B_CIN_NEGATIVECONTAM14
+LANG_ENGLISH        "^2Sandman: ^7Contaminación negativa en esta zona. Quítense las máscaras, pero abran bien los ojos."
+
+REFERENCE           SUBTITLE_PARIS_B_CIN_ONEWHITELIGHT13
+LANG_ENGLISH        "^2Sandman: ^7 Comprobando toxinas. Esperen."
+
+REFERENCE           SUBTITLE_PARIS_FSO_ONRACETRACK69
+LANG_ENGLISH        "^2AC-130 Pilot: ^7Recibido, Metal 0-1. Sobrevolamos a 3.600 metros con carga completa. Señale los objetivos."
+
+REFERENCE           SUBTITLE_PARIS_GGN_ALLCLEAR719
+LANG_ENGLISH        "^2Sabre: ^7Despejado."
+
+REFERENCE           SUBTITLE_PARIS_GGN_BIENVENUE715
+LANG_ENGLISH        "^2Sabre: ^7Bienvenidos."
+
+REFERENCE           SUBTITLE_PARIS_GGN_CHECKLEFT720
+LANG_ENGLISH        "^2Sabre: ^7Izquierda."
+
+REFERENCE           SUBTITLE_PARIS_GGN_CHECKRIGHT721
+LANG_ENGLISH        "^2Sabre: ^7Derecha."
+
+REFERENCE           SUBTITLE_PARIS_GGN_CHEMSTRIKE78
+LANG_ENGLISH        "^2Sabre: ^7Anoche atacaron nuestro cuartel de Satory. Casi todos mis hombres murieron en cuestión de minutos."
+
+REFERENCE           SUBTITLE_PARIS_GGN_CLEAR718
+LANG_ENGLISH        "^2Sabre: ^7Despejado."
+
+REFERENCE           SUBTITLE_PARIS_GGN_DEADAHEAD1212
+LANG_ENGLISH        "^2Grinch: ^7¡El objetivo está ahí!"
+
+REFERENCE           SUBTITLE_PARIS_GGN_DOWNTHEALLEY_R62
+LANG_ENGLISH        "^2Sabre: ^7¡Por el callejón!"
+
+REFERENCE           SUBTITLE_PARIS_GGN_ENTRANCEAHEAD2_R64
+LANG_ENGLISH        "^2Sabre: ^7La entrada está delante."
+
+REFERENCE           SUBTITLE_PARIS_GGN_ENTRANCEAHEAD_R61
+LANG_ENGLISH        "^2Sabre: ^7¡Síganme!"
+
+REFERENCE           SUBTITLE_PARIS_GGN_FOLLOWME74
+LANG_ENGLISH        "^2Sabre: ^7Síganme. No se separen."
+
+REFERENCE           SUBTITLE_PARIS_GGN_FOURMEN411
+LANG_ENGLISH        "^2Sabre: ^7Siete hombres en pie."
+
+REFERENCE           SUBTITLE_PARIS_GGN_GLADTOSEE42
+LANG_ENGLISH        "^2Sabre: ^7Recibido. Merde... Menos mal que han llegado."
+
+REFERENCE           SUBTITLE_PARIS_GGN_HESHIT1214
+LANG_ENGLISH        "^2Grinch: ^7¡Está herido!"
+
+REFERENCE           SUBTITLE_PARIS_GGN_IGOTHIM126
+LANG_ENGLISH        "^2Grinch: ^7¡Mío!"
+
+REFERENCE           SUBTITLE_PARIS_GGN_INCATACOMBS_R412
+LANG_ENGLISH        "^2Sabre: ^7Los rusos han lanzado el asalto químico desde una base en las catacumbas. Creemos que Volk aún sigue allí."
+
+REFERENCE           SUBTITLE_PARIS_GGN_KEEPMOVING722
+LANG_ENGLISH        "^2Sabre: ^7Sigamos."
+
+REFERENCE           SUBTITLE_PARIS_GGN_MOVEMOVE_R63
+LANG_ENGLISH        "^2Sabre: ^7¡Deprisa! ¡Deprisa!"
+
+REFERENCE           SUBTITLE_PARIS_GGN_MOVEUP723
+LANG_ENGLISH        "^2Sabre: ^7Vamos."
+
+REFERENCE           SUBTITLE_PARIS_GGN_MUCHLONGER25
+LANG_ENGLISH        "^2Sabre: ^7¡Aquí Sabre! ¿Cuánto falta?"
+
+REFERENCE           SUBTITLE_PARIS_GGN_MUSTPAY711
+LANG_ENGLISH        "^2Sabre: ^7Je suis désolé... Por esto es por lo que Volk debe pagar. "
+
+REFERENCE           SUBTITLE_PARIS_GGN_OVERHERE2_R645
+LANG_ENGLISH        "^2Sabre: ^7Por aquí. ¡Es la entrada a las catacumbas!"
+
+REFERENCE           SUBTITLE_PARIS_GGN_SHORTCUT121
+LANG_ENGLISH        "^2Grinch: ^7¡Tomaremos un atajo!"
+
+REFERENCE           SUBTITLE_PARIS_GGN_THISWAY724
+LANG_ENGLISH        "^2Sabre: ^7Por aquí."
+
+REFERENCE           SUBTITLE_PARIS_GGN_THREEMINS27
+LANG_ENGLISH        "^2Sabre: ^7¡Dese prisa, por favor!"
+
+REFERENCE           SUBTITLE_PARIS_GGN_UNDERSTOOD72
+LANG_ENGLISH        "^2Sabre: ^7Entendido."
+
+REFERENCE           SUBTITLE_PARIS_GGN_YOUGO102_1
+LANG_ENGLISH        "^2Sabre: ^7¡Vaya! ¡Yo lo cubriré!"
+
+REFERENCE           SUBTITLE_PARIS_HQR_BRINGHIMIN1216
+LANG_ENGLISH        "^2Overlord: ^7Tráiganlo para interrogarlo. Le sacaremos todo lo que sepa sobre Makarov."
+
+REFERENCE           SUBTITLE_PARIS_HQR_CAPTURENOKILL91
+LANG_ENGLISH        "^2Overlord: ^7Recibido, 0-1. Recuerden que necesitamos vivo a Volk. Es el único que sabe dónde se esconde Makarov."
+
+REFERENCE           SUBTITLE_PARIS_HQR_FIXONPOSITION77
+LANG_ENGLISH        "^2Overlord: ^7Metal 0-1, hemos localizado y fijado su posición en el GPS."
+
+REFERENCE           SUBTITLE_PARIS_HQR_GIGNPINNED22
+LANG_ENGLISH        "^2Overlord: ^70-1, les informo de que el GIGN está sufriendo muchas bajas. Deben acudir cuanto antes al punto de reunión."
+
+REFERENCE           SUBTITLE_PARIS_HQR_HEAVYRESISTANCE16
+LANG_ENGLISH        "^2Overlord: ^7Metal 0-1, el GIGN está inmovilizado en el restaurante Palm D'or. Vayan enseguida o no podremos dar con Makarov."
+
+REFERENCE           SUBTITLE_PARIS_HQR_SENDINGQRF712
+LANG_ENGLISH        "^2Overlord: ^7Recibido, 0-1. Vamos a enviarles una unidad de Rangers. Señalen su ruta con bengalas para que puedan encontrarlos."
+
+REFERENCE           SUBTITLE_PARIS_HQR_TRIAGECIVILIANS12
+LANG_ENGLISH        "^2Overlord: ^75-9-5, aquí Overlord jefe. Negativo. Las fuerzas estadounidenses están ocupadas. Atienda a los civiles y diríjanse en dirección contraria al viento."
+
+REFERENCE           SUBTITLE_PARIS_LNS_ACROSSCOURTYARD_R51
+LANG_ENGLISH        "^2Sandman: ^7¡Tenemos que cruzar ese patio!"
+
+REFERENCE           SUBTITLE_PARIS_LNS_ACROSSTHESTREET_R28
+LANG_ENGLISH        "^2Sandman: ^7¡Por aquí! ¡Vamos!"
+
+REFERENCE           SUBTITLE_PARIS_LNS_AMISS_R639_4
+LANG_ENGLISH        "^2Sandman: ^7Ese ha fallado."
+
+REFERENCE           SUBTITLE_PARIS_LNS_ANOTHERRUN1111
+LANG_ENGLISH        "^2Sandman: ^7¡Ese helicóptero va a hacer otra pasada!"
+
+REFERENCE           SUBTITLE_PARIS_LNS_ANOTHERSHOOTER113
+LANG_ENGLISH        "^2Sandman: ^7¡Frost, necesito otro tirador aquí atrás!"
+
+REFERENCE           SUBTITLE_PARIS_LNS_ARENTYOU1217
+LANG_ENGLISH        "^2Sandman: ^7¿Verdad que sí, hijo de puta?"
+
+REFERENCE           SUBTITLE_PARIS_LNS_BACKHERENOW115
+LANG_ENGLISH        "^2Sandman: ^7¡Frost, lo necesito aquí detrás!"
+
+REFERENCE           SUBTITLE_PARIS_LNS_BELOWGROUND646
+LANG_ENGLISH        "^2Sandman: ^7Frost, tenemos que ir bajo tierra."
+
+REFERENCE           SUBTITLE_PARIS_LNS_BLACKSEDAN102
+LANG_ENGLISH        "^2Grinch: ^7¡Volk se escapa en el sedán gris!"
+
+REFERENCE           SUBTITLE_PARIS_LNS_BTRDESTROYED642
+LANG_ENGLISH        "^2Sandman: ^7¡BTR destruido!"
+
+REFERENCE           SUBTITLE_PARIS_LNS_CARGOSECURE1215
+LANG_ENGLISH        "^2Sandman: ^7¡Aquí Metal 0-1! ¡Premio! ¡Volk es nuestro!"
+
+REFERENCE           SUBTITLE_PARIS_LNS_CHECKTOXINS656
+LANG_ENGLISH        "^2Sandman: ^7 Comprobando toxinas. Esperen."
+
+REFERENCE           SUBTITLE_PARIS_LNS_CHOPPERINCOMING1112
+LANG_ENGLISH        "^2Sandman: ^7¡Helicóptero enemigo! ¡Gire! ¡Gire!"
+
+REFERENCE           SUBTITLE_PARIS_LNS_CLOSEAIRSUPPORT_R68
+LANG_ENGLISH        "^2Sandman: ^7Warhammer, aquí Metal 0-1. Solicito apoyo aéreo. Cambio."
+
+REFERENCE           SUBTITLE_PARIS_LNS_CMERE1211
+LANG_ENGLISH        "^2Sandman: ^7¡Ven aquí, capullo!"
+
+REFERENCE           SUBTITLE_PARIS_LNS_COVERFIRE_R52
+LANG_ENGLISH        "^2Sandman: ^7Frost, Grinch, fuego de cobertura. ¡Vamos, vamos!"
+
+REFERENCE           SUBTITLE_PARIS_LNS_DESIGNATETARGET633
+LANG_ENGLISH        "^2Sandman: ^7Señale el objetivo."
+
+REFERENCE           SUBTITLE_PARIS_LNS_DIRECTHIT_R639_7
+LANG_ENGLISH        "^2Sandman: ^7¡De lleno! ¡Bien hecho!"
+
+REFERENCE           SUBTITLE_PARIS_LNS_DONTJOINTHEM726
+LANG_ENGLISH        "^2Sandman: ^7Ni idea. Procuremos no acabar como ellos."
+
+REFERENCE           SUBTITLE_PARIS_LNS_DONTLETESCAPE101
+LANG_ENGLISH        "^2Sandman: ^7¡Que no se escape!"
+
+REFERENCE           SUBTITLE_PARIS_LNS_DOWNTHELADDER648
+LANG_ENGLISH        "^2Sandman: ^7¡Por la escalera, Frost!"
+
+REFERENCE           SUBTITLE_PARIS_LNS_DOWNTHESTAIRS_R32
+LANG_ENGLISH        "^2Sandman: ^7¡Bajen las escaleras!"
+
+REFERENCE           SUBTITLE_PARIS_LNS_DRIVE1124
+LANG_ENGLISH        "^2Sandman: ^7¡Acelere!"
+
+REFERENCE           SUBTITLE_PARIS_LNS_DRIVE2123
+LANG_ENGLISH        "^2Sandman: ^7¡Más rápido!"
+
+REFERENCE           SUBTITLE_PARIS_LNS_ENDOFALLEY_R629
+LANG_ENGLISH        "^2Sandman: ^7Frost, BTR en el fondo del callejón. Márquelo con humo."
+
+REFERENCE           SUBTITLE_PARIS_LNS_ENGAGEENAGAGE_R31
+LANG_ENGLISH        "^2Sandman: ^7¡Devuelvan el fuego!"
+
+REFERENCE           SUBTITLE_PARIS_LNS_FLOORIT127
+LANG_ENGLISH        "^2Sandman: ^7¡Nos estamos acercando! ¡Siga!"
+
+REFERENCE           SUBTITLE_PARIS_LNS_FRIENDOFMINE79
+LANG_ENGLISH        "^2Sandman: ^7Tenía un buen amigo en Satory.  "
+
+REFERENCE           SUBTITLE_PARIS_LNS_FROSTMOVE650
+LANG_ENGLISH        "^2Sandman: ^7¡Muévase, Frost!"
+
+REFERENCE           SUBTITLE_PARIS_LNS_FROSTOVERHERE651
+LANG_ENGLISH        "^2Sandman: ^7¡Por aquí, Frost!"
+
+REFERENCE           SUBTITLE_PARIS_LNS_FROSTWITHME_R36
+LANG_ENGLISH        "^2Sandman: ^7¡Frost, sígame! ¡Vamos a la librería!"
+
+REFERENCE           SUBTITLE_PARIS_LNS_GETDOWNHERE33
+LANG_ENGLISH        "^2Sandman: ^7¡Frost, baje aquí ya!"
+
+REFERENCE           SUBTITLE_PARIS_LNS_GETDOWNTHELADDER647
+LANG_ENGLISH        "^2Sandman: ^7Frost, baje por la escalera."
+
+REFERENCE           SUBTITLE_PARIS_LNS_GETINGAME_R29
+LANG_ENGLISH        "^2Sandman: ^7¡A muerte!"
+
+REFERENCE           SUBTITLE_PARIS_LNS_GETSMOKE613
+LANG_ENGLISH        "^2Sandman: ^7¡Humo en esos blancos, Frost!"
+
+REFERENCE           SUBTITLE_PARIS_LNS_GETSTROBESON_R611
+LANG_ENGLISH        "^2Sandman: ^7¡Lance humo a los blancos!"
+
+REFERENCE           SUBTITLE_PARIS_LNS_GETTINGAWAY105
+LANG_ENGLISH        "^2Sandman: ^7¡El VIP se está escapando!"
+
+REFERENCE           SUBTITLE_PARIS_LNS_GOGOGO2_R113
+LANG_ENGLISH        "^2Sandman: ^7Vamos."
+
+REFERENCE           SUBTITLE_PARIS_LNS_GOGOGO_R54
+LANG_ENGLISH        "^2Sandman: ^7¡Vamos, vamos!"
+
+REFERENCE           SUBTITLE_PARIS_LNS_GOODWORKBROTHER_R641
+LANG_ENGLISH        "^2Grinch: ^7¡Despejado!"
+
+REFERENCE           SUBTITLE_PARIS_LNS_GOTTAROLL104
+LANG_ENGLISH        "^2Sandman: ^7Rápido, Frost. ¡Que se escapa!"
+
+REFERENCE           SUBTITLE_PARIS_LNS_GOTYOURBACK_R413
+LANG_ENGLISH        "^2Sandman: ^7Usted primero, vamos a sus seis."
+
+REFERENCE           SUBTITLE_PARIS_LNS_GUNIT1110
+LANG_ENGLISH        "^2Sandman: ^7¡Vamos!"
+
+REFERENCE           SUBTITLE_PARIS_LNS_GUNSHIPCANTSEE635
+LANG_ENGLISH        "^2Sandman: ^7El avión no puede verlo. Márquelo."
+
+REFERENCE           SUBTITLE_PARIS_LNS_HEADBELOW649
+LANG_ENGLISH        "^2Sandman: ^7¿Qué está haciendo, Frost? ¡Tenemos que meternos bajo tierra!"
+
+REFERENCE           SUBTITLE_PARIS_LNS_HINDINCOMING119
+LANG_ENGLISH        "^2Grinch: ^7¡Un Hind! ¡Agáchense!"
+
+REFERENCE           SUBTITLE_PARIS_LNS_HOTWIREVEHICLE103
+LANG_ENGLISH        "^2Sandman: ^7¡Entren en la furgoneta azul!"
+
+REFERENCE           SUBTITLE_PARIS_LNS_HOWMANYWEGOT66
+LANG_ENGLISH        "^2Sandman: ^7¿Cuántos tenemos?"
+
+REFERENCE           SUBTITLE_PARIS_LNS_IDTARGETS639_1
+LANG_ENGLISH        "^2Sandman: ^7¡Frost, marque los blancos con humo!"
+
+REFERENCE           SUBTITLE_PARIS_LNS_IMIPROVISE660
+LANG_ENGLISH        "^2Sandman: ^7¡BTR destruido! ¡Así se improvisa, Frost!"
+
+REFERENCE           SUBTITLE_PARIS_LNS_INCATACOMBS710
+LANG_ENGLISH        "^2Sandman: ^7Estamos en las catacumbas, de camino a la posible ubicación del VIP."
+
+REFERENCE           SUBTITLE_PARIS_LNS_JACKPOT83
+LANG_ENGLISH        "^2Sandman: ^7¡Overlord! Hemos identificado al VIP! ¡Se ha dado a la fuga!"
+
+REFERENCE           SUBTITLE_PARIS_LNS_KEEPMOVING652
+LANG_ENGLISH        "^2Sandman: ^7¡Avancen!"
+
+REFERENCE           SUBTITLE_PARIS_LNS_LAYINGDOWN114
+LANG_ENGLISH        "^2Sandman: ^7¡No deje de disparar!"
+
+REFERENCE           SUBTITLE_PARIS_LNS_LETSGO653
+LANG_ENGLISH        "^2Sandman: ^7¡Vamos!"
+
+REFERENCE           SUBTITLE_PARIS_LNS_LINKUP414
+LANG_ENGLISH        "^2Sandman: ^7Overlord, aquí Metal 0-1. Hemos tomado el relevo y nos dirigimos hacia la ubicación del VIP."
+
+REFERENCE           SUBTITLE_PARIS_LNS_MARKARMOR_R639
+LANG_ENGLISH        "^2Sandman: ^7¡Marque ese blindado!"
+
+REFERENCE           SUBTITLE_PARIS_LNS_MARKIRSTROBES_R610
+LANG_ENGLISH        "^2Sandman: ^7¡Frost, marque los objetivos con humo!"
+
+REFERENCE           SUBTITLE_PARIS_LNS_MARKTHETARGET632
+LANG_ENGLISH        "^2Sandman: ^7Marque el objetivo."
+
+REFERENCE           SUBTITLE_PARIS_LNS_MARKWITHSMOKE631
+LANG_ENGLISH        "^2Sandman: ^7Frost, marque el BTR con humo."
+
+REFERENCE           SUBTITLE_PARIS_LNS_MASKSOFF73
+LANG_ENGLISH        "^2Sandman: ^7Contaminación negativa en esta zona. Quítense las máscaras, pero abran bien los ojos."
+
+REFERENCE           SUBTITLE_PARIS_LNS_MOVEMOVEMOVE93
+LANG_ENGLISH        "^2Sandman: ^7¡Vamos, vamos, deprisa!"
+
+REFERENCE           SUBTITLE_PARIS_LNS_MOVEOUT654
+LANG_ENGLISH        "^2Sandman: ^7¡Retirada!"
+
+REFERENCE           SUBTITLE_PARIS_LNS_MULTIPLEHITS_R639_3
+LANG_ENGLISH        "^2Sandman: ^7Múltiples impactos confirmados."
+
+REFERENCE           SUBTITLE_PARIS_LNS_NEEDASTROBE_R637
+LANG_ENGLISH        "^2Sandman: ^7¡Frost, no se duerma! ¡Necesitamos humo en ese BTR!"
+
+REFERENCE           SUBTITLE_PARIS_LNS_NOHITS_R639_5
+LANG_ENGLISH        "^2Sandman: ^7Sin impactos."
+
+REFERENCE           SUBTITLE_PARIS_LNS_NOROOK110
+LANG_ENGLISH        "^2Sandman: ^7Hoy nadie es novato."
+
+REFERENCE           SUBTITLE_PARIS_LNS_ONBALCONY_R37
+LANG_ENGLISH        "^2Grinch: ^7¡En el balcón!"
+
+REFERENCE           SUBTITLE_PARIS_LNS_ONDECK17_1
+LANG_ENGLISH        "^2Sandman: ^7Truck, en posición y avanzando."
+
+REFERENCE           SUBTITLE_PARIS_LNS_ONELIGHT71
+LANG_ENGLISH        "^2Sandman: ^7Tenemos que ocultar nuestra presencia. Usaremos una sola luz."
+
+REFERENCE           SUBTITLE_PARIS_LNS_PATCHMETHROUGH23
+LANG_ENGLISH        "^2Sandman: ^7Bien, póngame con ellos."
+
+REFERENCE           SUBTITLE_PARIS_LNS_PUTSMOKE639_2
+LANG_ENGLISH        "^2Sandman: ^7¡Humo en esos blancos, Frost!"
+
+REFERENCE           SUBTITLE_PARIS_LNS_RESTAURANTAHEAD310
+LANG_ENGLISH        "^2Grinch: ^7El restaurante está al final de este callejón."
+
+REFERENCE           SUBTITLE_PARIS_LNS_RESTOFGIGN76
+LANG_ENGLISH        "^2Sandman: ^7¿Dónde está el resto del GIGN?"
+
+REFERENCE           SUBTITLE_PARIS_LNS_RIDESHOTGUN128
+LANG_ENGLISH        "^2Sandman: ^7¡Frost, de copiloto!"
+
+REFERENCE           SUBTITLE_PARIS_LNS_ROGERLAST714
+LANG_ENGLISH        "^2Sandman: ^70-1, confirmación recibida. Corto."
+
+REFERENCE           SUBTITLE_PARIS_LNS_ROGERWILCO_R17
+LANG_ENGLISH        "^2Sandman: ^7Recibido."
+
+REFERENCE           SUBTITLE_PARIS_LNS_RUSSIANSROPING636
+LANG_ENGLISH        "^2Grinch: ^7¡Los helicópteros despliegan tropas!"
+
+REFERENCE           SUBTITLE_PARIS_LNS_SHOOTTIRES129
+LANG_ENGLISH        "^2Sandman: ^7¡Dispare a las ruedas!"
+
+REFERENCE           SUBTITLE_PARIS_LNS_STAYFROSTY716
+LANG_ENGLISH        "^2Sandman: ^7Atentos."
+
+REFERENCE           SUBTITLE_PARIS_LNS_STEPONIT122
+LANG_ENGLISH        "^2Sandman: ^7¡Pise a fondo!"
+
+REFERENCE           SUBTITLE_PARIS_LNS_STILLDIRTY12_1
+LANG_ENGLISH        "^2Sandman: ^7La zona sigue contaminada por el ataque químico. No se quiten las máscaras."
+
+REFERENCE           SUBTITLE_PARIS_LNS_STILLDIRTY_R13
+LANG_ENGLISH        "^2Viper 5-5: ^7Overlord, equipo 1 en posición."
+
+REFERENCE           SUBTITLE_PARIS_LNS_TAKETHESHOT1213
+LANG_ENGLISH        "^2Sandman: ^7¡Frost, abra fuego!"
+
+REFERENCE           SUBTITLE_PARIS_LNS_THANKSFORASSIST644
+LANG_ENGLISH        "^2Sandman: ^7Recibido. Gracias por la ayuda, Warhammer."
+
+REFERENCE           SUBTITLE_PARIS_LNS_THATSAHIT_R639_8
+LANG_ENGLISH        "^2Sandman: ^7¡Impacto!"
+
+REFERENCE           SUBTITLE_PARIS_LNS_THATSAMISS_R639_9
+LANG_ENGLISH        "^2Sandman: ^7Negativo. Ha fallado."
+
+REFERENCE           SUBTITLE_PARIS_LNS_THATSVOLK82
+LANG_ENGLISH        "^2Grinch: ^7¡Es Volk!"
+
+REFERENCE           SUBTITLE_PARIS_LNS_THISWAY655
+LANG_ENGLISH        "^2Sandman: ^7¡Por aquí, Frost!"
+
+REFERENCE           SUBTITLE_PARIS_LNS_THREEMINUTES26
+LANG_ENGLISH        "^2Sandman: ^7Tres minutos. Defienda el perímetro, ya casi estamos allí."
+
+REFERENCE           SUBTITLE_PARIS_LNS_THROWSMOKE612
+LANG_ENGLISH        "^2Sandman: ^7¡Frost, lance humo a esos blancos!"
+
+REFERENCE           SUBTITLE_PARIS_LNS_TOPFLOORCLEAR34
+LANG_ENGLISH        "^2Sandman: ^7¡Planta despejada!"
+
+REFERENCE           SUBTITLE_PARIS_LNS_TOPOFSTAIRS_R56
+LANG_ENGLISH        "^2Sandman: ^7¡RPG en las escaleras!"
+
+REFERENCE           SUBTITLE_PARIS_LNS_TOSSSMOKE630
+LANG_ENGLISH        "^2Sandman: ^7Frost, lance humo a ese BTR."
+
+REFERENCE           SUBTITLE_PARIS_LNS_UPAHEAD125
+LANG_ENGLISH        "^2Sandman: ^7¡Ahí está, justo delante!"
+
+REFERENCE           SUBTITLE_PARIS_LNS_UPTHELADDER94
+LANG_ENGLISH        "^2Sandman: ^7¡Frost, la escalera!"
+
+REFERENCE           SUBTITLE_PARIS_LNS_USEASTROBE_R638
+LANG_ENGLISH        "^2Sandman: ^7¡Use las granadas de humo!"
+
+REFERENCE           SUBTITLE_PARIS_LNS_USESMOKE634
+LANG_ENGLISH        "^2Sandman: ^7Use humo."
+
+REFERENCE           SUBTITLE_PARIS_LNS_VEHICLEDOWN1210
+LANG_ENGLISH        "^2Sandman: ^7¡El vehículo ha volcado! ¡Salgan!"
+
+REFERENCE           SUBTITLE_PARIS_LNS_WATCHYOURFIRENORTH41
+LANG_ENGLISH        "^2Sandman: ^7Sabre, aquí Sandman. Nos acercamos a ustedes por el norte, no abran fuego."
+
+REFERENCE           SUBTITLE_PARIS_LNS_WHERESVOLK_R49
+LANG_ENGLISH        "^2Sandman: ^7¿Dónde está Volk?"
+
+REFERENCE           SUBTITLE_PARIS_LNS_WONTKILLYOU77
+LANG_ENGLISH        "^2Sandman: ^7Sí, pero al menos de eso no te mueres."
+
+REFERENCE           SUBTITLE_PARIS_LNS_YOURSTATUS410
+LANG_ENGLISH        "^2Sandman: ^7¿Cuál es su situación?"
+
+REFERENCE           SUBTITLE_PARIS_LNS_ZEROKILLS_R639_6
+LANG_ENGLISH        "^2Sandman: ^7Cero bajas."
+
+REFERENCE           SUBTITLE_PARIS_PLT_BINGOFUEL643
+LANG_ENGLISH        "^2AC-130 Pilot: ^7Metal 0-1, no me queda combustible. Tardaré diez minutos en reabastecerme. Cambio."
+
+REFERENCE           SUBTITLE_PARIS_PLT_CALLTARGETS617
+LANG_ENGLISH        "^2AC-130 Pilot: ^7Contacto visual. Señale objetivos."
+
+REFERENCE           SUBTITLE_PARIS_PLT_ENGAGING2624
+LANG_ENGLISH        "^2AC-130 Pilot: ^7Abriendo fuego."
+
+REFERENCE           SUBTITLE_PARIS_PLT_ENGAGING640
+LANG_ENGLISH        "^2AC-130 Pilot: ^7Señal recibida. Disparando."
+
+REFERENCE           SUBTITLE_PARIS_PLT_FIRING625
+LANG_ENGLISH        "^2AC-130 Pilot: ^7Disparando."
+
+REFERENCE           SUBTITLE_PARIS_PLT_GOINGHOT614
+LANG_ENGLISH        "^2AC-130 Pilot: ^7Blanco fijado, abrimos fuego."
+
+REFERENCE           SUBTITLE_PARIS_PLT_GOODMARK623
+LANG_ENGLISH        "^2AC-130 Pilot: ^7Confirmado."
+
+REFERENCE           SUBTITLE_PARIS_PLT_ONTHEWAY628
+LANG_ENGLISH        "^2AC-130 Pilot: ^7De camino."
+
+REFERENCE           SUBTITLE_PARIS_PLT_ORBITREESTABLISHED615
+LANG_ENGLISH        "^2AC-130 Pilot: ^7En posición y esperando más objetivos."
+
+REFERENCE           SUBTITLE_PARIS_PLT_READYFORMARK618
+LANG_ENGLISH        "^2AC-130 Pilot: ^7Ajustes completados. Estamos listos."
+
+REFERENCE           SUBTITLE_PARIS_PLT_READYFORTARGETS619
+LANG_ENGLISH        "^2AC-130 Pilot: ^7Estamos en posición, esperamos su señal."
+
+REFERENCE           SUBTITLE_PARIS_PLT_ROGERMARK620
+LANG_ENGLISH        "^2AC-130 Pilot: ^7Recibido, señale."
+
+REFERENCE           SUBTITLE_PARIS_PLT_ROGERSPOT621
+LANG_ENGLISH        "^2AC-130 Pilot: ^7Recibido, marque."
+
+REFERENCE           SUBTITLE_PARIS_PLT_ROUNDSONDECK626
+LANG_ENGLISH        "^2AC-130 Pilot: ^7¡Disparamos!"
+
+REFERENCE           SUBTITLE_PARIS_PLT_SENSORSBACK616
+LANG_ENGLISH        "^2AC-130 Pilot: ^7Sensores listos, a la espera."
+
+REFERENCE           SUBTITLE_PARIS_PLT_SHOTOUTDANGERCLOSE627
+LANG_ENGLISH        "^2AC-130 Pilot: ^7Disparo efectuado. Cuidado, están demasiado cerca."
+
+REFERENCE           SUBTITLE_PARIS_PLT_TARGETCONFIRMED622
+LANG_ENGLISH        "^2AC-130 Pilot: ^7Objetivo confirmado, espere."
+
+REFERENCE           SUBTITLE_PARIS_RNO_ALLOFEM44
+LANG_ENGLISH        "^2Grinch: ^7¿Solo quedan esos?"
+
+REFERENCE           SUBTITLE_PARIS_RNO_BODIES725
+LANG_ENGLISH        "^2Grinch: ^7¿Cuánta gente cree que habrá enterrada aquí abajo?"
+
+REFERENCE           SUBTITLE_PARIS_RNO_BUILDINGACROSS111
+LANG_ENGLISH        "^2Grinch: ^7¡Contacto en el edificio de enfrente!"
+
+REFERENCE           SUBTITLE_PARIS_RNO_CAFEAT9_R55
+LANG_ENGLISH        "^2Grinch: ^7¡Contacto en cafetería a las 9!"
+
+REFERENCE           SUBTITLE_PARIS_RNO_CHECKDOOR_R38
+LANG_ENGLISH        "^2Grinch: ^7¡Compruebe la puerta!"
+
+REFERENCE           SUBTITLE_PARIS_RNO_CLEAR2_R39
+LANG_ENGLISH        "^2Grinch: ^7¡Despejado!"
+
+REFERENCE           SUBTITLE_PARIS_RNO_COMPROMISED112
+LANG_ENGLISH        "^2Grinch: ^7¡Nos han visto! ¡Están en el edificio de enfrente!"
+
+REFERENCE           SUBTITLE_PARIS_RNO_DOWNHERE75
+LANG_ENGLISH        "^2Grinch: ^7Aquí abajo huele a mierda."
+
+REFERENCE           SUBTITLE_PARIS_RNO_ENEMYTANK116
+LANG_ENGLISH        "^2Grinch: ^7¡Un tanque enemigo en ese callejón!"
+
+REFERENCE           SUBTITLE_PARIS_RNO_FLASHBANG84
+LANG_ENGLISH        "^2Grinch: ^7¡Cegadora!"
+
+REFERENCE           SUBTITLE_PARIS_RNO_GOTARUNNER81
+LANG_ENGLISH        "^2Grinch: ^7¡Está escapando!"
+
+REFERENCE           SUBTITLE_PARIS_RNO_GUNIT112
+LANG_ENGLISH        "^2Sandman: ^7¡Acelere, vamos!"
+
+REFERENCE           SUBTITLE_PARIS_RNO_HEAVYFIRE35
+LANG_ENGLISH        "^2Grinch: ^7¡Nos machacan!"
+
+REFERENCE           SUBTITLE_PARIS_RNO_HEWILL713
+LANG_ENGLISH        "^2Grinch: ^7Ya lo creo que pagará. Yo me aseguraré."
+
+REFERENCE           SUBTITLE_PARIS_RNO_LESAMIS_R43
+LANG_ENGLISH        "^2Grinch: ^7¡Es el GIGN!"
+
+REFERENCE           SUBTITLE_PARIS_RNO_LOTTAROOKS19
+LANG_ENGLISH        "^2Grinch: ^7Parece que 5-9-5 lo ha pasado mal. Es una unidad de novatos."
+
+REFERENCE           SUBTITLE_PARIS_RNO_MOVING_R53
+LANG_ENGLISH        "^2Grinch: ^7¡Vamos!"
+
+REFERENCE           SUBTITLE_PARIS_RNO_ONOURWAY1217_1
+LANG_ENGLISH        "^2Grinch: ^7¡Truck! ¡Tenemos a Volk! ¡Vamos hacia ahí!"
+
+REFERENCE           SUBTITLE_PARIS_RNO_SUSPECTEDLOC717
+LANG_ENGLISH        "^2Sabre: ^7Nos acercamos a la ubicación del VIP. 100 metros."
+
+REFERENCE           SUBTITLE_PARIS_RNO_TAKINGFIRE111
+LANG_ENGLISH        "^2Grinch: ^7¡Un Tiger a las seis!"
+
+REFERENCE           SUBTITLE_PARIS_RNO_TANGOSINBOUND_R65
+LANG_ENGLISH        "^2Grinch: ^7Jefe, se acercan más enemigos."
+
+REFERENCE           SUBTITLE_PARIS_RNO_TARGETINGUS117
+LANG_ENGLISH        "^2Grinch: ^7¡Nos está apuntando!"
+
+REFERENCE           SUBTITLE_PARIS_RNO_THREERINGCIRCUS_R67
+LANG_ENGLISH        "^2Grinch: ^7¡Creo que ha venido todo Moscú! ¡Necesitamos apoyo aéreo!"
+
+REFERENCE           SUBTITLE_PARIS_RNO_TURNTURN118
+LANG_ENGLISH        "^2Sandman: ^7¡Un helicóptero! ¡Gire, gire!"
+
+REFERENCE           SUBTITLE_PARIS_RNO_UPTHELADDER92
+LANG_ENGLISH        "^2Grinch: ^7¡Ha subido por la escalera!"
+
+REFERENCE           SUBTITLE_PARIS_RNO_WATCHYOURSTEP_R21
+LANG_ENGLISH        "^2Grinch: ^7Vayan con cuidado."
+
+REFERENCE           SUBTITLE_PARIS_TRK_MEETYOU17_2
+LANG_ENGLISH        "^2Truck: ^7Nos vemos en la zona de aterrizaje dentro de una hora. Suerte."
+
+REFERENCE           SUBTITLE_PARIS_TRK_SPINNINGUP1217_2
+LANG_ENGLISH        "^2Truck: ^7Recibido. Raptor 4 preparado."
+
+ENDMARKER

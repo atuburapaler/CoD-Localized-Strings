@@ -1,0 +1,88 @@
+// Dumped from fastfile "so_killspree_paris_a".
+// In their original format the strings might have been separated in multiple files.
+VERSION             "1"
+CONFIG              "C:/trees/cod3/cod3/bin/StringEd.cfg"
+FILENOTES           ""
+
+REFERENCE           SO_KILLSPREE_PARIS_A_AIRSTRIKE_KILLS
+LANG_ENGLISH        "Bajas con ataques aéreos"
+
+REFERENCE           SO_KILLSPREE_PARIS_A_AIRSTRIKE_KILL_TICKER
+LANG_ENGLISH        "Bajas con ataques aéreos: "
+
+REFERENCE           SO_KILLSPREE_PARIS_A_COLLECTING
+LANG_ENGLISH        "Recogiendo…"
+
+REFERENCE           SO_KILLSPREE_PARIS_A_COLLECT_CHEMICAL_SAMPLES
+LANG_ENGLISH        "Reúne las muestras químicas."
+
+REFERENCE           SO_KILLSPREE_PARIS_A_COLLECT_CHEMICAL_SAMPLES_REMAINING
+LANG_ENGLISH        "Reúne las muestras químicas [quedan &&1]."
+
+REFERENCE           SO_KILLSPREE_PARIS_A_EXTRACTION
+LANG_ENGLISH        "Llega a la zona de aterrizaje para la extracción."
+
+REFERENCE           SO_KILLSPREE_PARIS_A_FAILED_TO_COLLECT_SAMPLE
+LANG_ENGLISH        "¡Obtención fallida!"
+
+REFERENCE           SO_KILLSPREE_PARIS_A_HINT_AIR_SUPPORT
+LANG_ENGLISH        "Pulsa ^3 [{+actionslot 4}] ^7 para equiparte con un marcador de apoyo aéreo."
+
+REFERENCE           SO_KILLSPREE_PARIS_A_LEAVING_WARNING
+LANG_ENGLISH        "Estás abandonando el área de la misión. ¡Vuelve para completar el objetivo!"
+
+REFERENCE           SO_KILLSPREE_PARIS_A_MELEE_KILLS
+LANG_ENGLISH        "Bajas en cuerpo a cuerpo"
+
+REFERENCE           SO_KILLSPREE_PARIS_A_MELEE_KILLS_TICKER
+LANG_ENGLISH        "Bajas CaC:"
+
+REFERENCE           SO_KILLSPREE_PARIS_A_SAMPLE
+LANG_ENGLISH        "Mantén ^3&&1^7 para recoger una muestra."
+
+REFERENCE           SO_KILLSPREE_PARIS_A_SAMPLES_REMAINING
+LANG_ENGLISH        "Muestras restantes: "
+
+REFERENCE           SO_KILLSPREE_PARIS_A_SAMPLE_COLLECTED
+LANG_ENGLISH        "muestra recogida"
+
+REFERENCE           SO_KILLSPREE_PARIS_A_SAMPLE_NOT_COLLECTED
+LANG_ENGLISH        "muestra no recogida"
+
+REFERENCE           SUBTITLE_SO_PARISA_HQR_AIRSUPPORT12
+LANG_ENGLISH        "^2Overlord: ^7El enemigo ha arrojado marcadores de apoyo aéreo. Cúbranse, Metal 0-4."
+
+REFERENCE           SUBTITLE_SO_PARISA_HQR_CHEMICALATTACK11
+LANG_ENGLISH        "^2Overlord: ^7Metal 0-4, fin del ataque químico, necesitamos pruebas toxicológicas. Cojan algunas muestras y vuelvan al cuartel general."
+
+REFERENCE           SUBTITLE_SO_PARISA_HQR_ENEMYAIRSUPPORT112
+LANG_ENGLISH        "^2Overlord: ^7¡Apoyo aéreo enemigo!"
+
+REFERENCE           SUBTITLE_SO_PARISA_HQR_EXFILWAITING111
+LANG_ENGLISH        "^2Overlord: ^7Metal 0-4, el pájaro los espera, vayan al tejado."
+
+REFERENCE           SUBTITLE_SO_PARISA_HQR_GETTOROOFTOP19
+LANG_ENGLISH        "^2Overlord: ^7Evacuación lista. Suban al tejado."
+
+REFERENCE           SUBTITLE_SO_PARISA_HQR_INBOUNDFOREXFIL110
+LANG_ENGLISH        "^2Overlord: ^7Metal 0-4, se han recogido las muestras. Vulture 2-2 efectuará la extracción. Diríjanse a terreno elevado."
+
+REFERENCE           SUBTITLE_SO_PARISA_HQR_SAMPLEISGOOD16
+LANG_ENGLISH        "^2Overlord: ^7Muestra válida, Metal 0-4."
+
+REFERENCE           SUBTITLE_SO_PARISA_HQR_SAMPLERECOVERED15
+LANG_ENGLISH        "^2Overlord: ^7Muestra recuperada."
+
+REFERENCE           SUBTITLE_SO_PARISA_HQR_SAMPLERETRIEVED14
+LANG_ENGLISH        "^2Overlord: ^7Muestra adquirida."
+
+REFERENCE           SUBTITLE_SO_PARISA_HQR_SAMPLESECURED13
+LANG_ENGLISH        "^2Overlord: ^7Muestra asegurada."
+
+REFERENCE           SUBTITLE_SO_PARISA_HQR_THREEMORE17
+LANG_ENGLISH        "^2Overlord: ^7Faltan otras 3 muestras, Metal 0-4."
+
+REFERENCE           SUBTITLE_SO_PARISA_HQR_TWOTOGO18
+LANG_ENGLISH        "^2Overlord: ^72 más. Repito, necesitamos 2 muestras más."
+
+ENDMARKER

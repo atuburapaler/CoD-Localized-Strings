@@ -1,0 +1,2332 @@
+// Dumped from fastfile "so_deltacamp".
+// In their original format the strings might have been separated in multiple files.
+VERSION             "1"
+CONFIG              "C:/trees/cod3/cod3/bin/StringEd.cfg"
+FILENOTES           ""
+
+REFERENCE           PERKS_AA12
+LANG_ENGLISH        "Una escopeta de combate de bajo retroceso y totalmente automática. Eficaz a corto alcance."
+
+REFERENCE           PERKS_ABILITY_TO_SEEK_OUT_ENEMY
+LANG_ENGLISH        "Detecta explosivos e inserciones tácticas del enemigo."
+
+REFERENCE           PERKS_AC130
+LANG_ENGLISH        "AC-130"
+
+REFERENCE           PERKS_AKIMBO
+LANG_ENGLISH        "Duales"
+
+REFERENCE           PERKS_ALL
+LANG_ENGLISH        "Todas las ventajas de especialista"
+
+REFERENCE           PERKS_ALL_PLAY_AND_NO_WORK
+LANG_ENGLISH        "No por mucho madrugar amanece más temprano..."
+
+REFERENCE           PERKS_ARCTIC
+LANG_ENGLISH        "Acabado de camuflaje ártico."
+
+REFERENCE           PERKS_AR_FULLAUTO
+LANG_ENGLISH        "Un arma polivalente y totalmente automática."
+
+REFERENCE           PERKS_AR_SEMIAUTO
+LANG_ENGLISH        "Semiautomática (un disparo)"
+
+REFERENCE           PERKS_AR_THREEROUND
+LANG_ENGLISH        "Ráfaga de tres disparos."
+
+REFERENCE           PERKS_ASSASSIN
+LANG_ENGLISH        "Asesino"
+
+REFERENCE           PERKS_ASSASSIN_PRO
+LANG_ENGLISH        "Asesino (Pro)"
+
+REFERENCE           PERKS_ASSAULT
+LANG_ENGLISH        "Asalto"
+
+REFERENCE           PERKS_ATTACHMENT
+LANG_ENGLISH        "Accesorio"
+
+REFERENCE           PERKS_AUTOSPOT
+LANG_ENGLISH        "Autolocalizar"
+
+REFERENCE           PERKS_AUTUMN
+LANG_ENGLISH        "Camuflaje otoñal"
+
+REFERENCE           PERKS_BEACHHEAD_CAMOUFLAGE
+LANG_ENGLISH        "Prueba de camuflaje de Beachhead."
+
+REFERENCE           PERKS_BLACK_AND_WHITE_MARPAT
+LANG_ENGLISH        "Acabado en camuflaje MARPAT blanco y negro."
+
+REFERENCE           PERKS_BLASTSHIELD
+LANG_ENGLISH        "Escudo protector"
+
+REFERENCE           PERKS_BLASTSHIELD_PRO
+LANG_ENGLISH        "Escudo protector (Pro)"
+
+REFERENCE           PERKS_BLINDEYE
+LANG_ENGLISH        "Ojo ciego"
+
+REFERENCE           PERKS_BLINDEYE_PRO
+LANG_ENGLISH        "Ojo ciego (Pro)"
+
+REFERENCE           PERKS_BLING
+LANG_ENGLISH        "Accesorios"
+
+REFERENCE           PERKS_BLUE
+LANG_ENGLISH        "Camuflaje azul"
+
+REFERENCE           PERKS_BLUE_TIGER_STRIPE_CAMOUFLAGE
+LANG_ENGLISH        "Acabado en rayas azules de tigre de camuflaje."
+
+REFERENCE           PERKS_BOLTACTION_SNIPER_RIFLE
+LANG_ENGLISH        "Fusil de precisión de cerrojo. Eficaz a largo alcance."
+
+REFERENCE           PERKS_BOLTACTION_SNIPER_RIFLE1
+LANG_ENGLISH        "Fusil de precisión de cerrojo. Eficaz a largo alcance."
+
+REFERENCE           PERKS_BOMB_SQUAD
+LANG_ENGLISH        "Informe de situación"
+
+REFERENCE           PERKS_BOMB_SQUAD_PRO
+LANG_ENGLISH        "Informe de situación (Pro)"
+
+REFERENCE           PERKS_BOTTLECAP_CAMOUFLAGE
+LANG_ENGLISH        "Prueba de camuflaje de tapón."
+
+REFERENCE           PERKS_BOUNCINGBETTY
+LANG_ENGLISH        "Bouncing Betty"
+
+REFERENCE           PERKS_BURSTFIRE
+LANG_ENGLISH        "Mozambique"
+
+REFERENCE           PERKS_C4
+LANG_ENGLISH        "C4"
+
+REFERENCE           PERKS_C4DEATH
+LANG_ENGLISH        "La mano del muerto"
+
+REFERENCE           PERKS_CAREPACKAGE
+LANG_ENGLISH        "Paquete de ayuda"
+
+REFERENCE           PERKS_CHALLENGES
+LANG_ENGLISH        "Desafíos"
+
+REFERENCE           PERKS_CHARGE_OF_PLASTIC_EXPLOSIVES
+LANG_ENGLISH        "Carga de explosivos plásticos, se detonan manualmente con un detonador."
+
+REFERENCE           PERKS_CHOCO
+LANG_ENGLISH        "Camuflaje chocolate"
+
+REFERENCE           PERKS_CLAN_TAG
+LANG_ENGLISH        "Insignias de clan"
+
+REFERENCE           PERKS_CLASSIC
+LANG_ENGLISH        "Camuflaje clásico"
+
+REFERENCE           PERKS_CLAYMORE
+LANG_ENGLISH        "Claymore"
+
+REFERENCE           PERKS_COMPLETE_THE_EXPERT_CHALLENGE
+LANG_ENGLISH        "Supera el desafío Experto para conseguir esta arma."
+
+REFERENCE           PERKS_COMPLETE_THE_MARKSMAN
+LANG_ENGLISH        "Supera el desafío Tirador para conseguir esta arma."
+
+REFERENCE           PERKS_CONCUSSIONGRENADE
+LANG_ENGLISH        "Granada aturdidora x 3"
+
+REFERENCE           PERKS_CONCUSSION_GRENADE
+LANG_ENGLISH        "Granada conmocionadora"
+
+REFERENCE           PERKS_CREATE_A_CLASS
+LANG_ENGLISH        "Crear una clase"
+
+REFERENCE           PERKS_CREATE_A_STREAK_REWARDS
+LANG_ENGLISH        "Paquetes de asalto y de apoyo"
+
+REFERENCE           PERKS_CROWD_CONTROL
+LANG_ENGLISH        "Antidisturbios"
+
+REFERENCE           PERKS_DEADSILENCE
+LANG_ENGLISH        "Silencio mortal"
+
+REFERENCE           PERKS_DEADSILENCE_PRO
+LANG_ENGLISH        "Silencio mortal (Pro)"
+
+REFERENCE           PERKS_DEAD_SILENCE_PRO
+LANG_ENGLISH        "Ninja (Pro)"
+
+REFERENCE           PERKS_DEATHS_WITHOUT_KILL
+LANG_ENGLISH        " (&&1 muertes sin una baja)"
+
+REFERENCE           PERKS_DEDICATED_GRENADE_LAUNCHER
+LANG_ENGLISH        "Lanzagranadas acoplado."
+
+REFERENCE           PERKS_DEEP_IMPACT
+LANG_ENGLISH        "Impacto"
+
+REFERENCE           PERKS_DESC_AC130
+LANG_ENGLISH        "Racha de bajas de 7 con un AC-130."
+
+REFERENCE           PERKS_DESC_AKIMBO
+LANG_ENGLISH        "Dispara dos armas desde la cadera."
+
+REFERENCE           PERKS_DESC_ALL
+LANG_ENGLISH        "Todas las ventajas de especialista otorgadas."
+
+REFERENCE           PERKS_DESC_ASSASSIN
+LANG_ENGLISH        "Indetectable por el UAV, radar portátil, mira térmica y sensor de latidos."
+
+REFERENCE           PERKS_DESC_ASSAULT
+LANG_ENGLISH        "Tu contador de racha se reinicia al morir. Los premios perjudican al otro equipo."
+
+REFERENCE           PERKS_DESC_AUTOSPOT
+LANG_ENGLISH        "No sufres daños por caídas y escalas más deprisa los obstáculos."
+
+REFERENCE           PERKS_DESC_BLASTSHIELD
+LANG_ENGLISH        "Demora la detonación de los explosivos activados por detección."
+
+REFERENCE           PERKS_DESC_BLINDEYE
+LANG_ENGLISH        "Indetectable por soporte aéreo y torretas."
+
+REFERENCE           PERKS_DESC_BLING
+LANG_ENGLISH        "Puedes poner dos accesorios a un arma."
+
+REFERENCE           PERKS_DESC_BOMB_SQUAD
+LANG_ENGLISH        "Detecta explosivos enemigos y equipo táctico."
+
+REFERENCE           PERKS_DESC_BOUNCINGBETTY
+LANG_ENGLISH        "Salta en el aire antes de explotar."
+
+REFERENCE           PERKS_DESC_BURSTFIRE
+LANG_ENGLISH        "Dispones de más tiempo para devolver granadas."
+
+REFERENCE           PERKS_DESC_C4DEATH
+LANG_ENGLISH        "Cargadores adicionales."
+
+REFERENCE           PERKS_DESC_CAREPACKAGE
+LANG_ENGLISH        "Recibes un paquete de ayuda cuando reapareces."
+
+REFERENCE           PERKS_DESC_CHALLENGES
+LANG_ENGLISH        "Completa desafíos para obtener más experiencia y desbloquear objetos."
+
+REFERENCE           PERKS_DESC_CLAN_TAGS
+LANG_ENGLISH        "Las insignias de clan ya están disponibles."
+
+REFERENCE           PERKS_DESC_CONCUSSIONGRENADE
+LANG_ENGLISH        "Desorienta y frena a los objetivos.\n"
+
+REFERENCE           PERKS_DESC_CONCUSSION_GRENADE
+LANG_ENGLISH        "Desorienta y frena temporalmente a los enemigos."
+
+REFERENCE           PERKS_DESC_CREATE_A_CLASS
+LANG_ENGLISH        "Crea y personaliza tus propias clases de personaje."
+
+REFERENCE           PERKS_DESC_CREATE_A_STREAK_REWARDS
+LANG_ENGLISH        "Crea y personaliza tus propios paquetes de asalto y de apoyo."
+
+REFERENCE           PERKS_DESC_CROWD_CONTROL
+LANG_ENGLISH        "Juega con la clase Antidisturbios."
+
+REFERENCE           PERKS_DESC_DEADSILENCE
+LANG_ENGLISH        "Desplázate en silencio. Reduce los efectos del Reconocimiento."
+
+REFERENCE           PERKS_DESC_DEEP_IMPACT
+LANG_ENGLISH        "Las balas conservan su capacidad de daño aun después de atravesar materiales."
+
+REFERENCE           PERKS_DESC_DOUBLE_LOAD
+LANG_ENGLISH        "Ambas armas se recargan a la vez."
+
+REFERENCE           PERKS_DESC_EMPIMMUNE
+LANG_ENGLISH        "Inmunidad a PEM y UAVR."
+
+REFERENCE           PERKS_DESC_EMP_GRENADE
+LANG_ENGLISH        "Destruye el equipo y los dispositivos electrónicos del enemigo."
+
+REFERENCE           PERKS_DESC_EOTECH
+LANG_ENGLISH        "Mira holográfica."
+
+REFERENCE           PERKS_DESC_EXTENDEDMAGS
+LANG_ENGLISH        "Más munición en cada cargador."
+
+REFERENCE           PERKS_DESC_FASTERMELEE
+LANG_ENGLISH        "Cuerpo a cuerpo más veloz."
+
+REFERENCE           PERKS_DESC_FASTMELEERECOVER
+LANG_ENGLISH        "Te recuperas deprisa tras el cuerpo a cuerpo."
+
+REFERENCE           PERKS_DESC_FASTSPRINTRECOVERY
+LANG_ENGLISH        "+Apunta deprisa después de esprintar."
+
+REFERENCE           PERKS_DESC_FINALSTAND
+LANG_ENGLISH        "Te levantas después de ser herido."
+
+REFERENCE           PERKS_DESC_FLASHGRENADE
+LANG_ENGLISH        "Ciega y ensordece a los objetivos."
+
+REFERENCE           PERKS_DESC_FLASH_GRENADE
+LANG_ENGLISH        "Ciega temporalmente a tus enemigos."
+
+REFERENCE           PERKS_DESC_FMJ
+LANG_ENGLISH        "Munición polivalente reglamentaria."
+
+REFERENCE           PERKS_DESC_FRAG_X1
+LANG_ENGLISH        "Granadas de fragmentación con demora."
+
+REFERENCE           PERKS_DESC_GHILLIE_ARCTIC
+LANG_ENGLISH        "Camuflaje para francotiradores en entornos nevados."
+
+REFERENCE           PERKS_DESC_GHILLIE_DESERT
+LANG_ENGLISH        "Camuflaje para francotiradores en entornos desérticos."
+
+REFERENCE           PERKS_DESC_GHILLIE_URBAN
+LANG_ENGLISH        "Camuflaje para francotiradores en entornos urbanos."
+
+REFERENCE           PERKS_DESC_HARDLINE
+LANG_ENGLISH        "Las rachas de bajas requieren 1 baja menos."
+
+REFERENCE           PERKS_DESC_HARDSHELL
+LANG_ENGLISH        "Reduce la neurosis de guerra causada por explosivos."
+
+REFERENCE           PERKS_DESC_HEARTBEAT
+LANG_ENGLISH        "Detectas la posición de los enemigos."
+
+REFERENCE           PERKS_DESC_HOLDBREATHWHILEADS
+LANG_ENGLISH        "Aguantas la respiración al apuntar con la mira."
+
+REFERENCE           PERKS_DESC_IMPROVEDEXTRABREATH
+LANG_ENGLISH        "Puedes aguantar la respiración más tiempo para efectuar tiros de precisión más estables."
+
+REFERENCE           PERKS_DESC_IRON_LUNGS
+LANG_ENGLISH        "Mayor alcance de identificación de objetivos enemigos."
+
+REFERENCE           PERKS_DESC_JAVELIN
+LANG_ENGLISH        "Lanzacohetes con capacidad para fijar objetivos."
+
+REFERENCE           PERKS_DESC_JUICED
+LANG_ENGLISH        "Te mueves más deprisa durante unos segundos después de reaparecer."
+
+REFERENCE           PERKS_DESC_KNIFETHROW
+LANG_ENGLISH        "Lánzalo y vuélvelo a coger."
+
+REFERENCE           PERKS_DESC_LIGHTWEIGHT
+LANG_ENGLISH        "Velocidad de movimiento aumentada al usar esta arma."
+
+REFERENCE           PERKS_DESC_LOCKAIR
+LANG_ENGLISH        "Puedes fijar vehículos enemigos como objetivos."
+
+REFERENCE           PERKS_DESC_LONGERRANGE
+LANG_ENGLISH        "Aumenta el alcance efectivo del arma."
+
+REFERENCE           PERKS_DESC_LONGERSPRINT
+LANG_ENGLISH        "Esprinta distancias mayores."
+
+REFERENCE           PERKS_DESC_MARKSMAN
+LANG_ENGLISH        "Reduce el retroceso al disparar."
+
+REFERENCE           PERKS_DESC_MODEL1887
+LANG_ENGLISH        "Escopeta repetidora con un mecanismo de palanca."
+
+REFERENCE           PERKS_DESC_MOREDAMAGE
+LANG_ENGLISH        "Las balas causan más daño."
+
+REFERENCE           PERKS_DESC_NINJA
+LANG_ENGLISH        "+Demora la detonación de los explosivos activados por detección."
+
+REFERENCE           PERKS_DESC_OVERKILL
+LANG_ENGLISH        "Puedes llevar dos armas principales."
+
+REFERENCE           PERKS_DESC_PAINT
+LANG_ENGLISH        "El daño explosivo señala al objetivo en el minimapa."
+
+REFERENCE           PERKS_DESC_PORTABLE_RADAR_ITEM
+LANG_ENGLISH        "Dispositivo desplegable que detecta enemigos por proximidad."
+
+REFERENCE           PERKS_DESC_PRECISION_AIRSTRIKE
+LANG_ENGLISH        "Racha de bajas de 6 para recibir apoyo aéreo de Harrier."
+
+REFERENCE           PERKS_DESC_PREDATOR_MISSILE
+LANG_ENGLISH        "Racha de bajas de 4 para recibir misil teledirigido."
+
+REFERENCE           PERKS_DESC_QUICKDRAW
+LANG_ENGLISH        "Apuntas más rápido."
+
+REFERENCE           PERKS_DESC_QUICKSWAP
+LANG_ENGLISH        "Cambia de arma más rápido."
+
+REFERENCE           PERKS_DESC_REDUCEDSWAY
+LANG_ENGLISH        "Reduce el balanceo del arma al apuntar con la mira."
+
+REFERENCE           PERKS_DESC_REGENSPEED
+LANG_ENGLISH        "Tu salud se regenera más deprisa."
+
+REFERENCE           PERKS_DESC_REVENGE
+LANG_ENGLISH        "Puedes ver la posición del último enemigo que te ha matado."
+
+REFERENCE           PERKS_DESC_ROF
+LANG_ENGLISH        "Aumenta tu cadencia de fuego."
+
+REFERENCE           PERKS_DESC_ROLLOVER
+LANG_ENGLISH        "+Las rachas de muertes requieren 1 muerte menos."
+
+REFERENCE           PERKS_DESC_SCAVENGER
+LANG_ENGLISH        "Reabastécete con los enemigos muertos."
+
+REFERENCE           PERKS_DESC_SCRAMBLER_ITEM
+LANG_ENGLISH        "Dispositivo desplegable que interfiere radares enemigos por proximidad."
+
+REFERENCE           PERKS_DESC_SEMTEX
+LANG_ENGLISH        "Explosivos adhesivos con temporizador."
+
+REFERENCE           PERKS_DESC_SHARPFOCUS
+LANG_ENGLISH        "Te estremeces menos cuando te disparan."
+
+REFERENCE           PERKS_DESC_SHARPSHOOTER
+LANG_ENGLISH        "Juega con la clase Francotirador explorador."
+
+REFERENCE           PERKS_DESC_SHELLSHOCK
+LANG_ENGLISH        "Llevas un escudo antidisturbios a la espalda."
+
+REFERENCE           PERKS_DESC_SHIELD
+LANG_ENGLISH        "Un escudo protector."
+
+REFERENCE           PERKS_DESC_SHOTGUN
+LANG_ENGLISH        "Un accesorio de escopeta montado bajo tu arma."
+
+REFERENCE           PERKS_DESC_SITREP
+LANG_ENGLISH        "Mejora la capacidad de detectar artefactos explosivos."
+
+REFERENCE           PERKS_DESC_SLEIGHT_OF_HAND
+LANG_ENGLISH        "Recarga más rápida."
+
+REFERENCE           PERKS_DESC_SMOKE_GRENADE
+LANG_ENGLISH        "Crea una cortina de humo temporal."
+
+REFERENCE           PERKS_DESC_SPAS12
+LANG_ENGLISH        "Escopeta de combate semiautomática. Eficaz a corto alcance."
+
+REFERENCE           PERKS_DESC_SPECIALIST
+LANG_ENGLISH        "Consigue mejoras adicionales gracias a la racha. La racha y las mejoras se reiniciarán al morir."
+
+REFERENCE           PERKS_DESC_SPECIALIST_STRIKE_PACKAGE
+LANG_ENGLISH        "Crea y personaliza tu propio paquete de asalto de especialista."
+
+REFERENCE           PERKS_DESC_STALKER
+LANG_ENGLISH        "Te mueves más deprisa mientras apuntas."
+
+REFERENCE           PERKS_DESC_STALKER_PRO
+LANG_ENGLISH        "Demora la detonación de los explosivos activados por detección."
+
+REFERENCE           PERKS_DESC_STEADY_AIM
+LANG_ENGLISH        "Aumenta la precisión de los disparos desde la cadera."
+
+REFERENCE           PERKS_DESC_STEELNERVES
+LANG_ENGLISH        "Mejora tu puntería."
+
+REFERENCE           PERKS_DESC_STINGER
+LANG_ENGLISH        "Un misil tierra-aire portátil."
+
+REFERENCE           PERKS_DESC_STOPPING_POWER
+LANG_ENGLISH        "Aumenta el daño de las balas para 1 baja."
+
+REFERENCE           PERKS_DESC_STUN_RESISTANCE
+LANG_ENGLISH        "Eres más resistente a la ceguera y el aturdimiento."
+
+REFERENCE           PERKS_DESC_SUPPORT
+LANG_ENGLISH        "Tu contador de racha no se reinicia al morir. Los premios proporcionan beneficios a tu equipo."
+
+REFERENCE           PERKS_DESC_TACTICAL
+LANG_ENGLISH        "Ataques cuerpo a cuerpo más rápidos."
+
+REFERENCE           PERKS_DESC_TACTICALINSERTION
+LANG_ENGLISH        "Puedes elegir dónde reaparecer."
+
+REFERENCE           PERKS_DESC_THERMAL
+LANG_ENGLISH        "Los enemigos emiten un fuerte resplandor blanco."
+
+REFERENCE           PERKS_DESC_THROWBACK
+LANG_ENGLISH        "+Dispones de más tiempo para devolver granadas."
+
+REFERENCE           PERKS_DESC_TROPHY
+LANG_ENGLISH        "Torreta defensiva activa que destruye dos proyectiles enemigos."
+
+REFERENCE           PERKS_DESC_UAV
+LANG_ENGLISH        "Recibes un UAV cuando reapareces."
+
+REFERENCE           PERKS_DESC_VARIABLE_ZOOM_SCOPE
+LANG_ENGLISH        "Mira con múltiples aumentos"
+
+REFERENCE           PERKS_DESC_XMAGS
+LANG_ENGLISH        "Cargadores más grandes."
+
+REFERENCE           PERKS_DEVICE_THAT_DISABLES
+LANG_ENGLISH        "Un aparato que desactiva temporalmente los dispositivos electrónicos enemigos."
+
+REFERENCE           PERKS_DIGITAL
+LANG_ENGLISH        "Acabado de camuflaje digital."
+
+REFERENCE           PERKS_DIRECTIONAL_ANTIPERSONNEL
+LANG_ENGLISH        "Mina antipersonal direccional, que se activa cuando un enemigo entra en su radio de alcance."
+
+REFERENCE           PERKS_DOUBLEBARREL_DESC
+LANG_ENGLISH        "Escopeta recortada de dos cañones. Cada cañón dispara de manera independiente. Muy eficaz a corto alcance."
+
+REFERENCE           PERKS_DOUBLE_LOAD
+LANG_ENGLISH        "Carga doble"
+
+REFERENCE           PERKS_DROP_A_LIVE_GRENADE_WHEN
+LANG_ENGLISH        "Suelta una granada cebada antes de morir."
+
+REFERENCE           PERKS_D_URBAN
+LANG_ENGLISH        "Camuflaje digital urbano"
+
+REFERENCE           PERKS_EMPGRENADE
+LANG_ENGLISH        "Granada de PEM"
+
+REFERENCE           PERKS_EMP_GRENADE
+LANG_ENGLISH        "Granada de PEM"
+
+REFERENCE           PERKS_ENHANCED_ZOOM_ACOG_SCOPE
+LANG_ENGLISH        "Zoom de la mira ACOG mejorado."
+
+REFERENCE           PERKS_EXTENDEDMAGS
+LANG_ENGLISH        "Cargadores grandes"
+
+REFERENCE           PERKS_EXTRA_AMMUNITION_MAGAZINES
+LANG_ENGLISH        "+Cargadores adicionales."
+
+REFERENCE           PERKS_FASTERMELEE
+LANG_ENGLISH        "Cuerpo a cuerpo"
+
+REFERENCE           PERKS_FASTSPRINTRECOVERY
+LANG_ENGLISH        "Recuperación rápida de sprint"
+
+REFERENCE           PERKS_FINALSTAND
+LANG_ENGLISH        "Última batalla"
+
+REFERENCE           PERKS_FLASHGRENADE
+LANG_ENGLISH        "Granada cegadora x 3"
+
+REFERENCE           PERKS_FLASH_GRENADE
+LANG_ENGLISH        "Granada cegadora"
+
+REFERENCE           PERKS_FMJ
+LANG_ENGLISH        "Munición de punta encamisada"
+
+REFERENCE           PERKS_FRAG_1_WEAPON_EMP_GRENADE
+LANG_ENGLISH        "Fragmentación/PEM x 1"
+
+REFERENCE           PERKS_FRAG_X_1
+LANG_ENGLISH        "Fragmentación"
+
+REFERENCE           PERKS_FRAG_X_2
+LANG_ENGLISH        "Fragmentación x 2"
+
+REFERENCE           PERKS_FULLY_AUTOMATIC_WITH
+LANG_ENGLISH        "Completamente automático con buena precisión. Eficaz de corta a media distancia."
+
+REFERENCE           PERKS_FULLY_AUTOMATIC_WITH1
+LANG_ENGLISH        "Completamente automático con elevada cadencia de disparo. Eficaz a corta distancia."
+
+REFERENCE           PERKS_FULLY_AUTOMATIC_WITH10
+LANG_ENGLISH        "Completamente automático con elevada cadencia de disparo. Eficaz de media a larga distancia."
+
+REFERENCE           PERKS_FULLY_AUTOMATIC_WITH11
+LANG_ENGLISH        "Completamente automática, de gran potencia y eficaz de media a larga distancia."
+
+REFERENCE           PERKS_FULLY_AUTOMATIC_WITH2
+LANG_ENGLISH        "Completamente automático con elevada cadencia de disparo. Eficaz de corta a media distancia."
+
+REFERENCE           PERKS_FULLY_AUTOMATIC_WITH3
+LANG_ENGLISH        "Completamente automático, de gran potencia y eficaz de corta a media distancia."
+
+REFERENCE           PERKS_FULLY_AUTOMATIC_WITH4
+LANG_ENGLISH        "Completamente automático con mucha capacidad. Eficaz de corta a media distancia."
+
+REFERENCE           PERKS_FULLY_AUTOMATIC_WITH5
+LANG_ENGLISH        "Completamente automático, de gran potencia y eficaz a media distancia."
+
+REFERENCE           PERKS_FULLY_AUTOMATIC_WITH6
+LANG_ENGLISH        "Completamente automático con buena precisión. Eficaz a media distancia."
+
+REFERENCE           PERKS_FULLY_AUTOMATIC_WITH7
+LANG_ENGLISH        "Completamente automático, con elevada cadencia de disparo. Eficaz a media distancia."
+
+REFERENCE           PERKS_FULLY_AUTOMATIC_WITH8
+LANG_ENGLISH        "Completamente automático y con poco retroceso. Eficaz a media distancia."
+
+REFERENCE           PERKS_FULLY_AUTOMATIC_WITH9
+LANG_ENGLISH        "Completamente automática, de buena potencia y elevada cadencia de disparo. Eficaz de media a larga distancia."
+
+REFERENCE           PERKS_GHILLIE_ARCTIC
+LANG_ENGLISH        "Camuflaje ártico"
+
+REFERENCE           PERKS_GHILLIE_DESERT
+LANG_ENGLISH        "Camuflaje desértico"
+
+REFERENCE           PERKS_GHILLIE_URBAN
+LANG_ENGLISH        "Camuflaje urbano"
+
+REFERENCE           PERKS_GLOCK
+LANG_ENGLISH        "Totalmente automática y con elevada cadencia de disparo. Eficaz a corta distancia."
+
+REFERENCE           PERKS_GOLD
+LANG_ENGLISH        "Camuflaje dorado"
+
+REFERENCE           PERKS_GOLDEN
+LANG_ENGLISH        "Acabado de chapado en oro."
+
+REFERENCE           PERKS_GO_GET_SOME_SUN
+LANG_ENGLISH        "Ve a ponerte moreno."
+
+REFERENCE           PERKS_GREEN_WOODLAND_CAMOUFLAGE
+LANG_ENGLISH        "Acabado de camuflaje verde boscoso."
+
+REFERENCE           PERKS_GRENADES_COMBO1
+LANG_ENGLISH        "Fragmentación/&&1 x 1"
+
+REFERENCE           PERKS_GRENADE_LAUNCHER
+LANG_ENGLISH        "Lanzagranadas"
+
+REFERENCE           PERKS_GRENADE_LAUNCHER_ATTACHMENT
+LANG_ENGLISH        "Lanzagranadas acoplado bajo el cañón."
+
+REFERENCE           PERKS_GRENADE_LAUNCHER_ATTACHMENT1
+LANG_ENGLISH        "Accesorio lanzagranadas."
+
+REFERENCE           PERKS_GRENADE_LAUNCHER_ATTACHMENT2
+LANG_ENGLISH        "Lanzagranadas acoplado bajo el cañón."
+
+REFERENCE           PERKS_GRIP
+LANG_ENGLISH        "Empuñadura"
+
+REFERENCE           PERKS_HAMRHYBRID
+LANG_ENGLISH        "Mira óptica de 3 aumentos con dispositivo réflex integrado."
+
+REFERENCE           PERKS_HARDCORE_GAMETYPES
+LANG_ENGLISH        "Tipos de partida extremos"
+
+REFERENCE           PERKS_HARDLINE
+LANG_ENGLISH        "Línea dura"
+
+REFERENCE           PERKS_HARDLINE_PRO
+LANG_ENGLISH        "Línea dura (Pro)"
+
+REFERENCE           PERKS_HARDSHELL
+LANG_ENGLISH        "Imperturbable"
+
+REFERENCE           PERKS_HEX
+LANG_ENGLISH        "Camuflaje hexagonal"
+
+REFERENCE           PERKS_HIGHLY_ACCURATE_ROCKET_LAUNCHER
+LANG_ENGLISH        "Un lanzacohetes rápido y preciso."
+
+REFERENCE           PERKS_HOLDBREATHWHILEADS
+LANG_ENGLISH        "Respiración"
+
+REFERENCE           PERKS_HYBRID
+LANG_ENGLISH        "Mira óptica de 4 aumentos con dispositivo réflex integrado."
+
+REFERENCE           PERKS_IMPROVEDEXTRABREATH
+LANG_ENGLISH        "Pulmones de hierro mejorados"
+
+REFERENCE           PERKS_INCREASED_HIPFIRE_ACCURACY
+LANG_ENGLISH        "Aumenta la precisión de los disparos desde la cadera."
+
+REFERENCE           PERKS_INVISIBLE_ON_GPS_WHEN
+LANG_ENGLISH        "Eres invisible al radar cuando disparas."
+
+REFERENCE           PERKS_IRON_LUNGS
+LANG_ENGLISH        "Tirador"
+
+REFERENCE           PERKS_IRON_LUNGS_PRO
+LANG_ENGLISH        "Tirador (Pro)"
+
+REFERENCE           PERKS_JAVELIN
+LANG_ENGLISH        "AT4 x 1"
+
+REFERENCE           PERKS_JUICED
+LANG_ENGLISH        "Impetuoso"
+
+REFERENCE           PERKS_KNIFETHROW
+LANG_ENGLISH        "Cuchillo arrojadizo"
+
+REFERENCE           PERKS_LAUNCHER_AT4
+LANG_ENGLISH        "Fuego libre o fijación de vehículos."
+
+REFERENCE           PERKS_LAUNCHER_GL
+LANG_ENGLISH        "Lanzagranadas."
+
+REFERENCE           PERKS_LAUNCHER_JAVELIN
+LANG_ENGLISH        "Localización y fijación de vehículos."
+
+REFERENCE           PERKS_LAUNCHER_ROCKET
+LANG_ENGLISH        "Dispara cohetes sin guía."
+
+REFERENCE           PERKS_LAUNCHER_SMAW
+LANG_ENGLISH        "Misil balístico polivalente"
+
+REFERENCE           PERKS_LAUNCHER_STINGER
+LANG_ENGLISH        "Solo fijación de vehículos."
+
+REFERENCE           PERKS_LAUNCHER_XM25
+LANG_ENGLISH        "Lanzagranadas de 20 mm de detonación aérea."
+
+REFERENCE           PERKS_LIGHTWEIGHT
+LANG_ENGLISH        "Velocidad"
+
+REFERENCE           PERKS_LMG
+LANG_ENGLISH        "Completamente automática, cargadores de gran capacidad."
+
+REFERENCE           PERKS_LMG_RAPID
+LANG_ENGLISH        "Completamente automática, elevada cadencia de disparo."
+
+REFERENCE           PERKS_LOCKAIR
+LANG_ENGLISH        "Fijación de objetivos aéreos"
+
+REFERENCE           PERKS_LONGERRANGE
+LANG_ENGLISH        "Alcance"
+
+REFERENCE           PERKS_LONGERSPRINT
+LANG_ENGLISH        "Condicionamiento extremo"
+
+REFERENCE           PERKS_LONGERSPRINT_PRO
+LANG_ENGLISH        "Condic. extremo (Pro)"
+
+REFERENCE           PERKS_MAGNUM_REVOLVER
+LANG_ENGLISH        "Revólver .44 Magnum con un tambor de seis balas."
+
+REFERENCE           PERKS_MARINE
+LANG_ENGLISH        "Camuflaje de marine"
+
+REFERENCE           PERKS_MARKSMAN
+LANG_ENGLISH        "Retroceso"
+
+REFERENCE           PERKS_MARTYRDOM
+LANG_ENGLISH        "Martirio"
+
+REFERENCE           PERKS_MODEL1887
+LANG_ENGLISH        "Modelo 1887"
+
+REFERENCE           PERKS_MOREDAMAGE
+LANG_ENGLISH        "Daño"
+
+REFERENCE           PERKS_MP7
+LANG_ENGLISH        "Totalmente automático, corto alcance."
+
+REFERENCE           PERKS_MPISTOL_BURST
+LANG_ENGLISH        "Ráfaga de 3 balas, corto alcance."
+
+REFERENCE           PERKS_MPISTOL_FULLAUTO
+LANG_ENGLISH        "Totalmente automático, corto alcance."
+
+REFERENCE           PERKS_MULTI
+LANG_ENGLISH        "Camuflaje de multicámaras"
+
+REFERENCE           PERKS_NEWREF
+LANG_ENGLISH        "Nuevo texto"
+
+REFERENCE           PERKS_NINJA
+LANG_ENGLISH        "Ninja"
+
+REFERENCE           PERKS_NONE
+LANG_ENGLISH        "Ninguna"
+
+REFERENCE           PERKS_NO_ATTACHMENT
+LANG_ENGLISH        "Sin accesorio"
+
+REFERENCE           PERKS_NO_CUSTOM_RETICLE
+LANG_ENGLISH        "Sin retículo personalizado."
+
+REFERENCE           PERKS_OLDSCHOOL_GAMETYPES
+LANG_ENGLISH        "Tipos de partida de Vieja escuela"
+
+REFERENCE           PERKS_ORANGE_FALL
+LANG_ENGLISH        "Acabado de camuflaje naranja otoñal."
+
+REFERENCE           PERKS_OVERKILL
+LANG_ENGLISH        "Exceso de medios"
+
+REFERENCE           PERKS_OVERKILL_PRO
+LANG_ENGLISH        "Exceso de medios (Pro)"
+
+REFERENCE           PERKS_PAINT
+LANG_ENGLISH        "Reconocimiento"
+
+REFERENCE           PERKS_PAINT_PRO
+LANG_ENGLISH        "Reconocimiento (Pro)"
+
+REFERENCE           PERKS_PISTOL_REVOLVER
+LANG_ENGLISH        "Revólver."
+
+REFERENCE           PERKS_PISTOL_SEMIAUTO
+LANG_ENGLISH        "Semiautomática (un disparo)"
+
+REFERENCE           PERKS_PORTABLE_RADAR_ITEM
+LANG_ENGLISH        "Radar portátil"
+
+REFERENCE           PERKS_PRECISION_AIRSTRIKE
+LANG_ENGLISH        "Atq. aéreo de precisión"
+
+REFERENCE           PERKS_PREDATOR_MISSILE
+LANG_ENGLISH        "Misil Predator"
+
+REFERENCE           PERKS_PUMP_ACTION_SHOTGUN_EFFECTIVE
+LANG_ENGLISH        "Escopeta de corredera. Eficaz a corta distancia."
+
+REFERENCE           PERKS_QUICKDRAW
+LANG_ENGLISH        "Desenfundado rápido"
+
+REFERENCE           PERKS_QUICKDRAW_PRO
+LANG_ENGLISH        "Desenfundado rápido (Pro)"
+
+REFERENCE           PERKS_QUICKSWAP
+LANG_ENGLISH        "Cambio rápido"
+
+REFERENCE           PERKS_RAPID_FIRE
+LANG_ENGLISH        "Fuego rápido"
+
+REFERENCE           PERKS_RED
+LANG_ENGLISH        "Camuflaje rojo"
+
+REFERENCE           PERKS_REDUCEDSWAY
+LANG_ENGLISH        "Estabilidad"
+
+REFERENCE           PERKS_RED_TIGER_STRIPE_CAMOUFLAGE
+LANG_ENGLISH        "Acabado en rayas rojas de tigre de camuflaje."
+
+REFERENCE           PERKS_RED_URBAN
+LANG_ENGLISH        "Acabado de camuflaje urbano rojo."
+
+REFERENCE           PERKS_REGENSPEED
+LANG_ENGLISH        "Velocidad de regeneración"
+
+REFERENCE           PERKS_REMOTE_DETONATION_EXPLOSIVE
+LANG_ENGLISH        "Explosivo de detonación remota."
+
+REFERENCE           PERKS_REPLACE_THE_IRON_SIGHTS
+LANG_ENGLISH        "Mira de precisión."
+
+REFERENCE           PERKS_RETICLE1
+LANG_ENGLISH        "Retículo de punto de mira personalizado."
+
+REFERENCE           PERKS_RETICLE2
+LANG_ENGLISH        "Retículo Delta personalizado."
+
+REFERENCE           PERKS_RETICLE3
+LANG_ENGLISH        "Retículo U-Dot personalizado."
+
+REFERENCE           PERKS_RETICLE4
+LANG_ENGLISH        "Retículo Mil-Dot personalizado."
+
+REFERENCE           PERKS_RETICLE5
+LANG_ENGLISH        "Retículo Omega personalizado."
+
+REFERENCE           PERKS_RETICLE6
+LANG_ENGLISH        "Retículo Lambda personalizado."
+
+REFERENCE           PERKS_REVENGE
+LANG_ENGLISH        "Venganza"
+
+REFERENCE           PERKS_RIOT_SHIELD
+LANG_ENGLISH        "Resistente a las balas."
+
+REFERENCE           PERKS_RPG7_X_2
+LANG_ENGLISH        "RPG-7 x 2"
+
+REFERENCE           PERKS_SCAVENGER
+LANG_ENGLISH        "Carroñero"
+
+REFERENCE           PERKS_SCAVENGER_PRO
+LANG_ENGLISH        "Carroñero (Pro)"
+
+REFERENCE           PERKS_SCRAMBLER_ITEM
+LANG_ENGLISH        "Desmodulador"
+
+REFERENCE           PERKS_SEMIAUTOMATIC_COMBAT
+LANG_ENGLISH        "Escopeta de combate semiautomática. Eficaz a corta distancia."
+
+REFERENCE           PERKS_SEMIAUTOMATIC_SNIPER
+LANG_ENGLISH        "Fusil de precisión semiautomático. Eficaz a larga distancia."
+
+REFERENCE           PERKS_SEMIAUTOMATIC_SNIPER1
+LANG_ENGLISH        "Fusil de precisión semiautomático. Eficaz a larga distancia."
+
+REFERENCE           PERKS_SEMIAUTOMATIC_SNIPER2
+LANG_ENGLISH        "Fusil de precisión semiautomático. Eficaz a larga distancia."
+
+REFERENCE           PERKS_SEMIAUTOMATIC_WITH_A
+LANG_ENGLISH        "Semiautomática con mucha capacidad. Eficaz a corta distancia."
+
+REFERENCE           PERKS_SEMIAUTOMATIC_WITH_HIGH
+LANG_ENGLISH        "Semiautomática de alta potencia. Eficaz a corta distancia."
+
+REFERENCE           PERKS_SEMIAUTOMATIC_WITH_MEDIUM
+LANG_ENGLISH        "Semiautomática con capacidad y potencia medias. Eficaz a corta distancia."
+
+REFERENCE           PERKS_SEMIAUTOMATIC_WITH_MEDIUM1
+LANG_ENGLISH        "Semiautomática con capacidad y potencia medias. Eficaz a corta distancia."
+
+REFERENCE           PERKS_SEMIAUTOMATIC_WITH_THREE
+LANG_ENGLISH        "Semiautomático con ráfaga de tres disparos. Eficaz de media a larga distancia."
+
+REFERENCE           PERKS_SEMTEX
+LANG_ENGLISH        "Semtex"
+
+REFERENCE           PERKS_SHARPFOCUS
+LANG_ENGLISH        "Temblor"
+
+REFERENCE           PERKS_SHARPSHOOTER
+LANG_ENGLISH        "Francotirador explorador"
+
+REFERENCE           PERKS_SHIELD
+LANG_ENGLISH        "Escudo antidisturbios"
+
+REFERENCE           PERKS_SHIELD_NO_PRONE
+LANG_ENGLISH        "No puedes usar el escudo antidisturbios si estás cuerpo a tierra."
+
+REFERENCE           PERKS_SHOTGUN
+LANG_ENGLISH        "Escopeta"
+
+REFERENCE           PERKS_SHOTGUN_DOUBLE
+LANG_ENGLISH        "Dos cañones."
+
+REFERENCE           PERKS_SHOTGUN_FULLAUTO
+LANG_ENGLISH        "Completamente automática, poca munición."
+
+REFERENCE           PERKS_SHOTGUN_FULLAUTO2
+LANG_ENGLISH        "Automática"
+
+REFERENCE           PERKS_SHOTGUN_LEVER
+LANG_ENGLISH        "Mecanismo de palanca."
+
+REFERENCE           PERKS_SHOTGUN_PUMP
+LANG_ENGLISH        "Mecanismo de corredera."
+
+REFERENCE           PERKS_SHOTGUN_SEMIAUTO
+LANG_ENGLISH        "Semiautomática (un disparo)"
+
+REFERENCE           PERKS_SINGLEFIRE_WITH_A_HIGH
+LANG_ENGLISH        "Un solo disparo, gran capacidad. Eficaz de media a larga distancia."
+
+REFERENCE           PERKS_SINGLEFIRE_WITH_HIGH
+LANG_ENGLISH        "Un solo disparo, gran potencia. Eficaz de media a larga distancia."
+
+REFERENCE           PERKS_SITREP
+LANG_ENGLISH        "Informe de situación"
+
+REFERENCE           PERKS_SLEIGHT_OF_HAND
+LANG_ENGLISH        "Prestidigitación"
+
+REFERENCE           PERKS_SLEIGHT_OF_HAND_PRO
+LANG_ENGLISH        "Prestidigitación (Pro)"
+
+REFERENCE           PERKS_SMG
+LANG_ENGLISH        "Totalmente automático, corto alcance."
+
+REFERENCE           PERKS_SMG_AMMO
+LANG_ENGLISH        "Completamente automática, cargadores de gran capacidad."
+
+REFERENCE           PERKS_SMG_DAMAGE
+LANG_ENGLISH        "Completamente automático, potente."
+
+REFERENCE           PERKS_SMG_RAPID
+LANG_ENGLISH        "Completamente automática, elevada cadencia de disparo."
+
+REFERENCE           PERKS_SMOKE_GRENADE
+LANG_ENGLISH        "Granada de humo"
+
+REFERENCE           PERKS_SNAKE
+LANG_ENGLISH        "Camuflaje de serpiente"
+
+REFERENCE           PERKS_SNIPER_BOLT
+LANG_ENGLISH        "Mecanismo de cerrojo."
+
+REFERENCE           PERKS_SNIPER_SEMIAUTO
+LANG_ENGLISH        "Semiautomática (un disparo)"
+
+REFERENCE           PERKS_SNOW
+LANG_ENGLISH        "Camuflaje de nieve"
+
+REFERENCE           PERKS_SPECIALIST
+LANG_ENGLISH        "Especialista"
+
+REFERENCE           PERKS_SPECIALIST_STRIKE_PACKAGE
+LANG_ENGLISH        "Paquete de asalto de especialista"
+
+REFERENCE           PERKS_SPRINT_FOR_LONGER_DISTANCES
+LANG_ENGLISH        "Esprinta distancia mayores."
+
+REFERENCE           PERKS_STALKER
+LANG_ENGLISH        "Cazador"
+
+REFERENCE           PERKS_STALKER_PRO
+LANG_ENGLISH        "Cazador (Pro)"
+
+REFERENCE           PERKS_STANDARD_FINISH
+LANG_ENGLISH        "Acabado estándar."
+
+REFERENCE           PERKS_STEADY_AIM
+LANG_ENGLISH        "Puntería estable"
+
+REFERENCE           PERKS_STEADY_AIM_PRO
+LANG_ENGLISH        "Puntería estable (Pro)"
+
+REFERENCE           PERKS_STEELNERVES
+LANG_ENGLISH        "Nervios de acero"
+
+REFERENCE           PERKS_STINGER
+LANG_ENGLISH        "Stinger x 1"
+
+REFERENCE           PERKS_STOPPING_POWER
+LANG_ENGLISH        "Puntas huecas"
+
+REFERENCE           PERKS_STUNRESISTANCE
+LANG_ENGLISH        "Resistencia al aturdimiento"
+
+REFERENCE           PERKS_SUPPORT
+LANG_ENGLISH        "Ayuda"
+
+REFERENCE           PERKS_TACTICALINSERTION
+LANG_ENGLISH        "Inserción táctica"
+
+REFERENCE           PERKS_TAN_DESERT_CAMOUFLAGE
+LANG_ENGLISH        "Acabado en camuflaje marrón desierto."
+
+REFERENCE           PERKS_THERMAL
+LANG_ENGLISH        "Visión térmica"
+
+REFERENCE           PERKS_TRIP_ACTIVATED_EXPLOSIVE
+LANG_ENGLISH        "Mina explosiva activada por proximidad."
+
+REFERENCE           PERKS_TROPHY
+LANG_ENGLISH        "Torreta defensiva"
+
+REFERENCE           PERKS_UAV
+LANG_ENGLISH        "UAV"
+
+REFERENCE           PERKS_UNLOCKED_AT_LV1
+LANG_ENGLISH        "Se desbloquea en soldado (nivel 1)."
+
+REFERENCE           PERKS_UNLOCKED_AT_LV10
+LANG_ENGLISH        "Se desbloquea en cabo primero (nivel 10)."
+
+REFERENCE           PERKS_UNLOCKED_AT_LV11
+LANG_ENGLISH        "Se desbloquea en cabo primero I (nivel 11)."
+
+REFERENCE           PERKS_UNLOCKED_AT_LV12
+LANG_ENGLISH        "Se desbloquea en cabo primero II (nivel 12)."
+
+REFERENCE           PERKS_UNLOCKED_AT_LV13
+LANG_ENGLISH        "Se desbloquea en cabo mayor (nivel 13)."
+
+REFERENCE           PERKS_UNLOCKED_AT_LV14
+LANG_ENGLISH        "Se desbloquea en cabo mayor I (nivel 14)."
+
+REFERENCE           PERKS_UNLOCKED_AT_LV15
+LANG_ENGLISH        "Se desbloquea en cabo mayor II (nivel 15)."
+
+REFERENCE           PERKS_UNLOCKED_AT_LV16
+LANG_ENGLISH        "Se desbloquea en sargento (nivel 16)."
+
+REFERENCE           PERKS_UNLOCKED_AT_LV17
+LANG_ENGLISH        "Se desbloquea en sargento I (nivel 17)."
+
+REFERENCE           PERKS_UNLOCKED_AT_LV18
+LANG_ENGLISH        "Se desbloquea en sargento II (nivel 18)."
+
+REFERENCE           PERKS_UNLOCKED_AT_LV19
+LANG_ENGLISH        "Se desbloquea en sargento de primera clase (nivel 19)."
+
+REFERENCE           PERKS_UNLOCKED_AT_LV2
+LANG_ENGLISH        "Se desbloquea en soldado I (nivel 2)."
+
+REFERENCE           PERKS_UNLOCKED_AT_LV20
+LANG_ENGLISH        "Se desbloquea en sargento de primera clase I (nivel 20)."
+
+REFERENCE           PERKS_UNLOCKED_AT_LV21
+LANG_ENGLISH        "Se desbloquea en sargento de primera clase II (nivel 21)."
+
+REFERENCE           PERKS_UNLOCKED_AT_LV22
+LANG_ENGLISH        "Se desbloquea en brigada (nivel 22)."
+
+REFERENCE           PERKS_UNLOCKED_AT_LV23
+LANG_ENGLISH        "Se desbloquea en brigada I (nivel 23)."
+
+REFERENCE           PERKS_UNLOCKED_AT_LV24
+LANG_ENGLISH        "Se desbloquea en brigada II (nivel 24)."
+
+REFERENCE           PERKS_UNLOCKED_AT_LV25
+LANG_ENGLISH        "Se desbloquea en sargento de primera (nivel 25)."
+
+REFERENCE           PERKS_UNLOCKED_AT_LV26
+LANG_ENGLISH        "Se desbloquea en sargento de primera I (nivel 26)."
+
+REFERENCE           PERKS_UNLOCKED_AT_LV27
+LANG_ENGLISH        "Se desbloquea en sargento de primera II (nivel 27)."
+
+REFERENCE           PERKS_UNLOCKED_AT_LV28
+LANG_ENGLISH        "Se desbloquea en subteniente (nivel 28)."
+
+REFERENCE           PERKS_UNLOCKED_AT_LV29
+LANG_ENGLISH        "Se desbloquea en subteniente I (nivel 29)."
+
+REFERENCE           PERKS_UNLOCKED_AT_LV3
+LANG_ENGLISH        "Se desbloquea en soldado II (nivel 3)."
+
+REFERENCE           PERKS_UNLOCKED_AT_LV30
+LANG_ENGLISH        "Se desbloquea en subteniente II (nivel 30)."
+
+REFERENCE           PERKS_UNLOCKED_AT_LV31
+LANG_ENGLISH        "Se desbloquea en suboficial mayor (nivel 31)."
+
+REFERENCE           PERKS_UNLOCKED_AT_LV32
+LANG_ENGLISH        "Se desbloquea en suboficial mayor I (nivel 32)."
+
+REFERENCE           PERKS_UNLOCKED_AT_LV33
+LANG_ENGLISH        "Se desbloquea en suboficial mayor II (nivel 33)."
+
+REFERENCE           PERKS_UNLOCKED_AT_LV34
+LANG_ENGLISH        "Se desbloquea en alférez (nivel 34)."
+
+REFERENCE           PERKS_UNLOCKED_AT_LV35
+LANG_ENGLISH        "Se desbloquea en alférez I (nivel 35)."
+
+REFERENCE           PERKS_UNLOCKED_AT_LV36
+LANG_ENGLISH        "Se desbloquea en alférez II (nivel 36)."
+
+REFERENCE           PERKS_UNLOCKED_AT_LV37
+LANG_ENGLISH        "Se desbloquea en alférez III (nivel 37)."
+
+REFERENCE           PERKS_UNLOCKED_AT_LV38
+LANG_ENGLISH        "Se desbloquea en teniente (nivel 38)."
+
+REFERENCE           PERKS_UNLOCKED_AT_LV39
+LANG_ENGLISH        "Se desbloquea en teniente I (nivel 39)."
+
+REFERENCE           PERKS_UNLOCKED_AT_LV4
+LANG_ENGLISH        "Se desbloquea en cabo (nivel 4)."
+
+REFERENCE           PERKS_UNLOCKED_AT_LV40
+LANG_ENGLISH        "Se desbloquea en teniente II (nivel 40)."
+
+REFERENCE           PERKS_UNLOCKED_AT_LV41
+LANG_ENGLISH        "Se desbloquea en capitán (nivel 41)."
+
+REFERENCE           PERKS_UNLOCKED_AT_LV42
+LANG_ENGLISH        "Se desbloquea en capitán I (nivel 42)."
+
+REFERENCE           PERKS_UNLOCKED_AT_LV43
+LANG_ENGLISH        "Se desbloquea en capitán II (nivel 43)."
+
+REFERENCE           PERKS_UNLOCKED_AT_LV44
+LANG_ENGLISH        "Se desbloquea en comandante (nivel 44)."
+
+REFERENCE           PERKS_UNLOCKED_AT_LV45
+LANG_ENGLISH        "Se desbloquea en comandante I (nivel 45)."
+
+REFERENCE           PERKS_UNLOCKED_AT_LV46
+LANG_ENGLISH        "Se desbloquea en comandante II (nivel 46)."
+
+REFERENCE           PERKS_UNLOCKED_AT_LV47
+LANG_ENGLISH        "Se desbloquea en teniente coronel (nivel 47)."
+
+REFERENCE           PERKS_UNLOCKED_AT_LV48
+LANG_ENGLISH        "Se desbloquea en teniente coronel I (nivel 48)."
+
+REFERENCE           PERKS_UNLOCKED_AT_LV49
+LANG_ENGLISH        "Se desbloquea en teniente coronel II (nivel 49)."
+
+REFERENCE           PERKS_UNLOCKED_AT_LV5
+LANG_ENGLISH        "Se desbloquea en cabo I (nivel 5)."
+
+REFERENCE           PERKS_UNLOCKED_AT_LV50
+LANG_ENGLISH        "Se desbloquea en coronel (nivel 50)."
+
+REFERENCE           PERKS_UNLOCKED_AT_LV51
+LANG_ENGLISH        "Se desbloquea en coronel I (nivel 51)."
+
+REFERENCE           PERKS_UNLOCKED_AT_LV52
+LANG_ENGLISH        "Se desbloquea en coronel II (nivel 52)."
+
+REFERENCE           PERKS_UNLOCKED_AT_LV53
+LANG_ENGLISH        "Se desbloquea en coronel III (nivel 53)."
+
+REFERENCE           PERKS_UNLOCKED_AT_LV54
+LANG_ENGLISH        "Se desbloquea en general de brigada (nivel 54)."
+
+REFERENCE           PERKS_UNLOCKED_AT_LV55
+LANG_ENGLISH        "Se desbloquea en general de brigada I (nivel 55)."
+
+REFERENCE           PERKS_UNLOCKED_AT_LV56
+LANG_ENGLISH        "Se desbloquea en general de brigada II (nivel 56)."
+
+REFERENCE           PERKS_UNLOCKED_AT_LV57
+LANG_ENGLISH        "Se desbloquea en general de brigada III (nivel 57)."
+
+REFERENCE           PERKS_UNLOCKED_AT_LV58
+LANG_ENGLISH        "Se desbloquea en general de división (nivel 58)."
+
+REFERENCE           PERKS_UNLOCKED_AT_LV59
+LANG_ENGLISH        "Se desbloquea en general de división I (nivel 59)."
+
+REFERENCE           PERKS_UNLOCKED_AT_LV6
+LANG_ENGLISH        "Se desbloquea en cabo II (nivel 6)."
+
+REFERENCE           PERKS_UNLOCKED_AT_LV60
+LANG_ENGLISH        "Se desbloquea en general de división II (nivel 60)."
+
+REFERENCE           PERKS_UNLOCKED_AT_LV61
+LANG_ENGLISH        "Se desbloquea en general de división III (nivel 61)."
+
+REFERENCE           PERKS_UNLOCKED_AT_LV62
+LANG_ENGLISH        "Se desbloquea en teniente general (nivel 62)."
+
+REFERENCE           PERKS_UNLOCKED_AT_LV63
+LANG_ENGLISH        "Se desbloquea en teniente general I (nivel 63)."
+
+REFERENCE           PERKS_UNLOCKED_AT_LV64
+LANG_ENGLISH        "Se desbloquea en teniente general II (nivel 64)."
+
+REFERENCE           PERKS_UNLOCKED_AT_LV65
+LANG_ENGLISH        "Se desbloquea en teniente general III (nivel 65)."
+
+REFERENCE           PERKS_UNLOCKED_AT_LV66
+LANG_ENGLISH        "Se desbloquea en general del ejército (nivel 66)."
+
+REFERENCE           PERKS_UNLOCKED_AT_LV67
+LANG_ENGLISH        "Se desbloquea en general del ejército I (nivel 67)."
+
+REFERENCE           PERKS_UNLOCKED_AT_LV68
+LANG_ENGLISH        "Se desbloquea en general del ejército II (nivel 68)."
+
+REFERENCE           PERKS_UNLOCKED_AT_LV69
+LANG_ENGLISH        "Se desbloquea en general del ejército III (nivel 69)."
+
+REFERENCE           PERKS_UNLOCKED_AT_LV7
+LANG_ENGLISH        "Se desbloquea en especialista (nivel 7)."
+
+REFERENCE           PERKS_UNLOCKED_AT_LV70
+LANG_ENGLISH        "Se desbloquea en capitán general (nivel 70)."
+
+REFERENCE           PERKS_UNLOCKED_AT_LV71
+LANG_ENGLISH        "Se desbloquea en capitán general (nivel 71)."
+
+REFERENCE           PERKS_UNLOCKED_AT_LV72
+LANG_ENGLISH        "Se desbloquea en capitán general (nivel 72)."
+
+REFERENCE           PERKS_UNLOCKED_AT_LV73
+LANG_ENGLISH        "Se desbloquea en capitán general (nivel 73)."
+
+REFERENCE           PERKS_UNLOCKED_AT_LV74
+LANG_ENGLISH        "Se desbloquea en capitán general (nivel 74)."
+
+REFERENCE           PERKS_UNLOCKED_AT_LV75
+LANG_ENGLISH        "Se desbloquea en capitán general (nivel 75)."
+
+REFERENCE           PERKS_UNLOCKED_AT_LV76
+LANG_ENGLISH        "Se desbloquea en capitán general (nivel 76)."
+
+REFERENCE           PERKS_UNLOCKED_AT_LV77
+LANG_ENGLISH        "Se desbloquea en capitán general (nivel 77)."
+
+REFERENCE           PERKS_UNLOCKED_AT_LV78
+LANG_ENGLISH        "Se desbloquea en capitán general (nivel 78)."
+
+REFERENCE           PERKS_UNLOCKED_AT_LV79
+LANG_ENGLISH        "Se desbloquea en capitán general (nivel 79)."
+
+REFERENCE           PERKS_UNLOCKED_AT_LV8
+LANG_ENGLISH        "Se desbloquea en especialista I (nivel 8)."
+
+REFERENCE           PERKS_UNLOCKED_AT_LV80
+LANG_ENGLISH        "Se desbloquea en capitán general (nivel 80)."
+
+REFERENCE           PERKS_UNLOCKED_AT_LV9
+LANG_ENGLISH        "Se desbloquea en especialista II (nivel 9)."
+
+REFERENCE           PERKS_UNLOCKED_AT_NONE
+LANG_ENGLISH        "Se desbloquea por medios desconocidos."
+
+REFERENCE           PERKS_UNLOCKED_BY_CHALLENGE
+LANG_ENGLISH        "Desbloqueado por desafío."
+
+REFERENCE           PERKS_UNLOCK_EVERYTHING_IN
+LANG_ENGLISH        "Supera todos los desafíos para conseguir todas las armas de esta categoría."
+
+REFERENCE           PERKS_UPGRADE
+LANG_ENGLISH        "Mejora &&1"
+
+REFERENCE           PERKS_UPGRADE_ARMOR_DAMAGE
+LANG_ENGLISH        "+Daño adicional contra vehículos."
+
+REFERENCE           PERKS_UPGRADE_ASSASSIN
+LANG_ENGLISH        "+Inmunidad a PEM y UAVR. Los puntos de mira enemigos no se ponen rojos ni se ve tu nombre al apuntarte."
+
+REFERENCE           PERKS_UPGRADE_AUTOSPOT
+LANG_ENGLISH        "+Detecta enemigos automáticamente con la mira óptica."
+
+REFERENCE           PERKS_UPGRADE_BLASTSHIELD
+LANG_ENGLISH        "+Eres más resistente a la ceguera y el aturdimiento."
+
+REFERENCE           PERKS_UPGRADE_BLINDEYE
+LANG_ENGLISH        "+Los lanzacohetes tardan menos en fijar objetivos. Las balas infligen daño adicional contra torretas y apoyo aéreo."
+
+REFERENCE           PERKS_UPGRADE_BOMB_SQUAD
+LANG_ENGLISH        "+Los pasos de tus enemigos suenan más."
+
+REFERENCE           PERKS_UPGRADE_DEADSILENCE
+LANG_ENGLISH        "+Sin daño por caídas."
+
+REFERENCE           PERKS_UPGRADE_DOUBLE_LOAD
+LANG_ENGLISH        "+Ambas armas se recargan a la vez."
+
+REFERENCE           PERKS_UPGRADE_EMPIMMUNE
+LANG_ENGLISH        "+Inmunidad a PEM y UAVR"
+
+REFERENCE           PERKS_UPGRADE_FASTMANTLE
+LANG_ENGLISH        "+Escalar más deprisa"
+
+REFERENCE           PERKS_UPGRADE_FASTMELEERECOVER
+LANG_ENGLISH        "+Recuperación del cuerpo a cuerpo más rápida"
+
+REFERENCE           PERKS_UPGRADE_FASTSPRINTRECOVERY
+LANG_ENGLISH        "+Apuntar deprisa después de esprintar"
+
+REFERENCE           PERKS_UPGRADE_FREEFALL
+LANG_ENGLISH        "+Sin daño por caídas."
+
+REFERENCE           PERKS_UPGRADE_HARDLINE
+LANG_ENGLISH        "+Cada dos asistencias cuentan como una baja de cara a tu racha de bajas. Las rachas de muertes requieren 1 muerte menos."
+
+REFERENCE           PERKS_UPGRADE_HARDSHELL
+LANG_ENGLISH        "+Reduce la neurosis de guerra causada por explosivos."
+
+REFERENCE           PERKS_UPGRADE_IRON_LUNGS
+LANG_ENGLISH        "+Aguantas la respiración durante más tiempo."
+
+REFERENCE           PERKS_UPGRADE_LONGERSPRINT
+LANG_ENGLISH        "+Escala más deprisa los obstáculos."
+
+REFERENCE           PERKS_UPGRADE_NINJA
+LANG_ENGLISH        "+Demora Claymores"
+
+REFERENCE           PERKS_UPGRADE_OVERKILL
+LANG_ENGLISH        "+Accesorio para la segunda arma principal."
+
+REFERENCE           PERKS_UPGRADE_PAINT
+LANG_ENGLISH        "+El daño por bala señala al objetivo en el minimapa."
+
+REFERENCE           PERKS_UPGRADE_QUICKDRAW
+LANG_ENGLISH        "+Recuperación más rápida después del uso de equipo y granadas."
+
+REFERENCE           PERKS_UPGRADE_QUICKSWAP
+LANG_ENGLISH        "+Cambia de arma más deprisa."
+
+REFERENCE           PERKS_UPGRADE_REGENSPEED
+LANG_ENGLISH        "+Velocidad de regeneración (Pro)"
+
+REFERENCE           PERKS_UPGRADE_ROLLOVER
+LANG_ENGLISH        "+Rachas de muertes prematuras"
+
+REFERENCE           PERKS_UPGRADE_SCAVENGER
+LANG_ENGLISH        "+Cargadores adicionales."
+
+REFERENCE           PERKS_UPGRADE_SLEIGHT_OF_HAND
+LANG_ENGLISH        "+Cambia de arma más deprisa."
+
+REFERENCE           PERKS_UPGRADE_STALKER
+LANG_ENGLISH        "+Demora la detonación de los explosivos activados por detección."
+
+REFERENCE           PERKS_UPGRADE_STEADY_AIM
+LANG_ENGLISH        "+Tardas menos en preparar el arma después de esprintar."
+
+REFERENCE           PERKS_UPGRADE_STUN_RESISTANCE
+LANG_ENGLISH        "+Eres más resistente a la ceguera y el aturdimiento."
+
+REFERENCE           PERKS_UPGRADE_THROWBACK
+LANG_ENGLISH        "+Dispones de más tiempo para devolver granadas."
+
+REFERENCE           PERKS_UPGRADE_UAVJAMMER
+LANG_ENGLISH        "+Invisible al radar"
+
+REFERENCE           PERKS_VARIABLE_ZOOM_SCOPE
+LANG_ENGLISH        "Mira zoom variable"
+
+REFERENCE           PERKS_VERTICAL_FOREGRIP_FOR
+LANG_ENGLISH        "Empuñadura vertical para reducir el retroceso."
+
+REFERENCE           PERKS_WINTER
+LANG_ENGLISH        "Camuflaje invernal"
+
+REFERENCE           PERKS_ZOOMSCOPE
+LANG_ENGLISH        "Mira óptica de 16 aumentos con diversas funciones ACOG."
+
+REFERENCE           PERKS__X_1
+LANG_ENGLISH        "&&1 x 1"
+
+REFERENCE           SO_DELTACAMP_AREA_CLEARED
+LANG_ENGLISH        "Zona despejada."
+
+REFERENCE           SO_DELTACAMP_CIVILIAN_HIT
+LANG_ENGLISH        "Impacto civil"
+
+REFERENCE           SO_DELTACAMP_CIV_COUNT
+LANG_ENGLISH        "Civiles: "
+
+REFERENCE           SO_DELTACAMP_DEAD_QUOTE_ALLY_HURT
+LANG_ENGLISH        "Intenta no herir a tus compañeros."
+
+REFERENCE           SO_DELTACAMP_DEAD_QUOTE_PLAYER_LEFT_BRIDGE
+LANG_ENGLISH        "Mantente en la ruta."
+
+REFERENCE           SO_DELTACAMP_OBJ_V1
+LANG_ENGLISH        "Elimina todos los blancos enemigos lo antes posible."
+
+REFERENCE           SO_DELTACAMP_OBJ_V2
+LANG_ENGLISH        "Usa explosivos para irrumpir y acaba con todos los enemigos."
+
+REFERENCE           SO_DELTACAMP_SCOREBOARD_CIVS_HIT
+LANG_ENGLISH        "Impactos civiles"
+
+REFERENCE           SO_DELTACAMP_SCOREBOARD_ENEMIES_HIT
+LANG_ENGLISH        "Enemigos alcanzados"
+
+REFERENCE           SO_DELTACAMP_SCOREBOARD_FINISH_TIME
+LANG_ENGLISH        "Tiempo de ruta"
+
+REFERENCE           SO_DELTACAMP_SCOREBOARD_MEDAL_NEXT_TIME
+LANG_ENGLISH        "Tiempo para siguiente estrella"
+
+REFERENCE           SO_SURVIVAL_AIRSUPPORT_AIRSTRIKE
+LANG_ENGLISH        "Ataque aéreo"
+
+REFERENCE           SO_SURVIVAL_AIRSUPPORT_AIRSTRIKE_DESC
+LANG_ENGLISH        "Ataque aéreo de precisión sobre la zona designada."
+
+REFERENCE           SO_SURVIVAL_AIRSUPPORT_ASSAULT
+LANG_ENGLISH        "Helicóptero de asalto"
+
+REFERENCE           SO_SURVIVAL_AIRSUPPORT_ASSAULT_DESC
+LANG_ENGLISH        "Helicóptero de asalto aliado."
+
+REFERENCE           SO_SURVIVAL_AIRSUPPORT_DELTA
+LANG_ENGLISH        "Pelotón Delta"
+
+REFERENCE           SO_SURVIVAL_AIRSUPPORT_DELTA_DESC
+LANG_ENGLISH        "Refuerzos aerotransportados de la Delta Force."
+
+REFERENCE           SO_SURVIVAL_AIRSUPPORT_PREDATOR
+LANG_ENGLISH        "Misil Predator"
+
+REFERENCE           SO_SURVIVAL_AIRSUPPORT_PREDATOR_DESC
+LANG_ENGLISH        "Misil disparado desde un UCAV."
+
+REFERENCE           SO_SURVIVAL_AIRSUPPORT_RIOT
+LANG_ENGLISH        "Pelotón antidisturbios"
+
+REFERENCE           SO_SURVIVAL_AIRSUPPORT_RIOT_DESC
+LANG_ENGLISH        "Refuerzos aerotransportados equipados con escudos antidisturbios."
+
+REFERENCE           SO_SURVIVAL_AMMO_REFILL
+LANG_ENGLISH        "Reponer munición"
+
+REFERENCE           SO_SURVIVAL_AMMO_REFILL_DESC
+LANG_ENGLISH        "Repone la munición de tus armas principales."
+
+REFERENCE           SO_SURVIVAL_ARMORY_AIRSUPPORT
+LANG_ENGLISH        "ARSENAL DE APOYO AÉREO"
+
+REFERENCE           SO_SURVIVAL_ARMORY_AIRSUPPORT_AV
+LANG_ENGLISH        "¡Apoyo aéreo habilitado!"
+
+REFERENCE           SO_SURVIVAL_ARMORY_AIRSUPPORT_DESC
+LANG_ENGLISH        "Solicita misiles de Predator, apoyo aliado y envíos de ventajas."
+
+REFERENCE           SO_SURVIVAL_ARMORY_ATTACHED
+LANG_ENGLISH        "Accesorio"
+
+REFERENCE           SO_SURVIVAL_ARMORY_EQUIPMENT
+LANG_ENGLISH        "EQUIPO DE COMBATE"
+
+REFERENCE           SO_SURVIVAL_ARMORY_EQUIPMENT_AV
+LANG_ENGLISH        "¡Equipo de combate habilitado!"
+
+REFERENCE           SO_SURVIVAL_ARMORY_EQUIPMENT_DEF_GROUP
+LANG_ENGLISH        "Equipo defensivo"
+
+REFERENCE           SO_SURVIVAL_ARMORY_EQUIPMENT_DEF_GROUP_DESC
+LANG_ENGLISH        "Armadura, escudo antidisturbios y Autorreanimar."
+
+REFERENCE           SO_SURVIVAL_ARMORY_EQUIPMENT_DESC
+LANG_ENGLISH        "Compra explosivos, torretas, blindajes y mucho más..."
+
+REFERENCE           SO_SURVIVAL_ARMORY_EQUIPMENT_EXP_GROUP
+LANG_ENGLISH        "Explosivos"
+
+REFERENCE           SO_SURVIVAL_ARMORY_EQUIPMENT_EXP_GROUP_DESC
+LANG_ENGLISH        "Granadas de fragmentación, cegadoras, Claymores y C4."
+
+REFERENCE           SO_SURVIVAL_ARMORY_EQUIPMENT_SENTRY_GROUP
+LANG_ENGLISH        "Torretas automáticas"
+
+REFERENCE           SO_SURVIVAL_ARMORY_EQUIPMENT_SENTRY_GROUP_DESC
+LANG_ENGLISH        "Torretas fijas provistas de cañones y lanzagranadas."
+
+REFERENCE           SO_SURVIVAL_ARMORY_FULL
+LANG_ENGLISH        "Completo"
+
+REFERENCE           SO_SURVIVAL_ARMORY_LOCKED_LEVEL
+LANG_ENGLISH        "Bloqueado nivel &&1"
+
+REFERENCE           SO_SURVIVAL_ARMORY_LOCKED_LV
+LANG_ENGLISH        "Nv. &&1 "
+
+REFERENCE           SO_SURVIVAL_ARMORY_NA
+LANG_ENGLISH        "N/D"
+
+REFERENCE           SO_SURVIVAL_ARMORY_OWNED
+LANG_ENGLISH        "Adquirido"
+
+REFERENCE           SO_SURVIVAL_ARMORY_PERKS
+LANG_ENGLISH        "Paquete de ayuda de ventaja"
+
+REFERENCE           SO_SURVIVAL_ARMORY_PERKS_CAPS
+LANG_ENGLISH        "PAQUETE DE AYUDA DE VENTAJA"
+
+REFERENCE           SO_SURVIVAL_ARMORY_PERKS_DESC
+LANG_ENGLISH        "Lanzados paquetes de ayuda. ^3Si ^3recoges ^3una ^3nueva ^3ventaja ^3sustituirá ^3a ^3la ^3anterior."
+
+REFERENCE           SO_SURVIVAL_ARMORY_UPGRADE
+LANG_ENGLISH        "Mejora >"
+
+REFERENCE           SO_SURVIVAL_ARMORY_USE_AIRSUPPORT
+LANG_ENGLISH        "Mantén ^3[{+activate}]^7 para usar el apoyo aéreo."
+
+REFERENCE           SO_SURVIVAL_ARMORY_USE_EQUIPMENT
+LANG_ENGLISH        "Mantén ^3[{+activate}]^7 para usar el equipo de combate."
+
+REFERENCE           SO_SURVIVAL_ARMORY_USE_WEAPON
+LANG_ENGLISH        "Mantén ^3[{+activate}]^7 para usar el arsenal de armas."
+
+REFERENCE           SO_SURVIVAL_ARMORY_WEAPON
+LANG_ENGLISH        "ARSENAL DE ARMAS"
+
+REFERENCE           SO_SURVIVAL_ARMORY_WEAPON_ASR_GROUP
+LANG_ENGLISH        "Fusiles de asalto"
+
+REFERENCE           SO_SURVIVAL_ARMORY_WEAPON_ATTACHMENT
+LANG_ENGLISH        " - ACCESORIOS"
+
+REFERENCE           SO_SURVIVAL_ARMORY_WEAPON_AV
+LANG_ENGLISH        "¡Arsenal de armas habilitado!"
+
+REFERENCE           SO_SURVIVAL_ARMORY_WEAPON_DESC
+LANG_ENGLISH        "Compra y mejora armas."
+
+REFERENCE           SO_SURVIVAL_ARMORY_WEAPON_LMG_GROUP
+LANG_ENGLISH        "Ametrall. ligeras"
+
+REFERENCE           SO_SURVIVAL_ARMORY_WEAPON_MPISTOL_GROUP
+LANG_ENGLISH        "Pistolas ametralladoras"
+
+REFERENCE           SO_SURVIVAL_ARMORY_WEAPON_PISTOL_GROUP
+LANG_ENGLISH        "Armas cortas"
+
+REFERENCE           SO_SURVIVAL_ARMORY_WEAPON_SG_GROUP
+LANG_ENGLISH        "Escopetas"
+
+REFERENCE           SO_SURVIVAL_ARMORY_WEAPON_SMG_GROUP
+LANG_ENGLISH        "Subfusiles"
+
+REFERENCE           SO_SURVIVAL_ARMORY_WEAPON_SR_GROUP
+LANG_ENGLISH        "Fusiles de precisión"
+
+REFERENCE           SO_SURVIVAL_ARMOR_POINTS
+LANG_ENGLISH        "Blindaje      &&1"
+
+REFERENCE           SO_SURVIVAL_ATTACHMENT_ACOG_SCOPE
+LANG_ENGLISH        "Mira ACOG"
+
+REFERENCE           SO_SURVIVAL_ATTACHMENT_EOTECH
+LANG_ENGLISH        "Mira holográfica"
+
+REFERENCE           SO_SURVIVAL_ATTACHMENT_GRENADE_LAUNCHER
+LANG_ENGLISH        "Lanzagranadas M203"
+
+REFERENCE           SO_SURVIVAL_ATTACHMENT_GRENADE_LAUNCHER1
+LANG_ENGLISH        "Lanzagranadas GP25"
+
+REFERENCE           SO_SURVIVAL_ATTACHMENT_GRENADE_LAUNCHER2
+LANG_ENGLISH        "Lanzagranadas M320"
+
+REFERENCE           SO_SURVIVAL_ATTACHMENT_GRIP
+LANG_ENGLISH        "Empuñadura"
+
+REFERENCE           SO_SURVIVAL_ATTACHMENT_RED_DOT_SIGHT
+LANG_ENGLISH        "Mira p. rojo"
+
+REFERENCE           SO_SURVIVAL_ATTACHMENT_SCOPE
+LANG_ENGLISH        "Accesorio de mira óptica"
+
+REFERENCE           SO_SURVIVAL_ATTACHMENT_SHOTGUN
+LANG_ENGLISH        "Accesorio de escopeta"
+
+REFERENCE           SO_SURVIVAL_ATTACHMENT_UNDERBARREL
+LANG_ENGLISH        "Accesorio acoplado bajo el cañón"
+
+REFERENCE           SO_SURVIVAL_COST
+LANG_ENGLISH        "COSTE"
+
+REFERENCE           SO_SURVIVAL_CREDITS
+LANG_ENGLISH        "&&1 $"
+
+REFERENCE           SO_SURVIVAL_CREDITS_MINUS
+LANG_ENGLISH        "-&&1 $"
+
+REFERENCE           SO_SURVIVAL_CREDITS_PLUS
+LANG_ENGLISH        "+&&1 $"
+
+REFERENCE           SO_SURVIVAL_DPAD_RIGHT_SLOT_FULL
+LANG_ENGLISH        "No tienes ningún espacio libre."
+
+REFERENCE           SO_SURVIVAL_ENEMIES_LEFT
+LANG_ENGLISH        "Quedan &&1 enemigos"
+
+REFERENCE           SO_SURVIVAL_ENEMY_LEFT
+LANG_ENGLISH        "Queda &&1 enemigo"
+
+REFERENCE           SO_SURVIVAL_EQUIPMENT_BODYARMOR
+LANG_ENGLISH        "Blindaje corporal"
+
+REFERENCE           SO_SURVIVAL_EQUIPMENT_BODYARMOR_DESC
+LANG_ENGLISH        "Blindaje de 250 impactos"
+
+REFERENCE           SO_SURVIVAL_EQUIPMENT_C4
+LANG_ENGLISH        "C4 x5 (máximo 10)"
+
+REFERENCE           SO_SURVIVAL_EQUIPMENT_CLAYMORE
+LANG_ENGLISH        "Claymore x5 (máximo 10)"
+
+REFERENCE           SO_SURVIVAL_EQUIPMENT_FLASH_REFILL
+LANG_ENGLISH        "Reponer cegadoras"
+
+REFERENCE           SO_SURVIVAL_EQUIPMENT_FLASH_REFILL_DESC
+LANG_ENGLISH        "Repone las 4 granadas cegadoras."
+
+REFERENCE           SO_SURVIVAL_EQUIPMENT_FRAG_REFILL
+LANG_ENGLISH        "Reponer granadas de frag."
+
+REFERENCE           SO_SURVIVAL_EQUIPMENT_FRAG_REFILL_DESC
+LANG_ENGLISH        "Repone las 4 granadas de fragmentación."
+
+REFERENCE           SO_SURVIVAL_EQUIPMENT_JUGARMOR
+LANG_ENGLISH        "Armadura de Juggernaut"
+
+REFERENCE           SO_SURVIVAL_EQUIPMENT_JUGARMOR_DESC
+LANG_ENGLISH        "Armadura pesada."
+
+REFERENCE           SO_SURVIVAL_EQUIPMENT_LASTSTAND
+LANG_ENGLISH        "Autorreanimar"
+
+REFERENCE           SO_SURVIVAL_EQUIPMENT_LASTSTAND_DESC
+LANG_ENGLISH        "Si te derriban, devuelve el fuego para ponerte en pie."
+
+REFERENCE           SO_SURVIVAL_EQUIPMENT_RPG
+LANG_ENGLISH        "RPG-7 x2 (máximo 4)"
+
+REFERENCE           SO_SURVIVAL_EQUIPMENT_SENTRY
+LANG_ENGLISH        "Torreta"
+
+REFERENCE           SO_SURVIVAL_EQUIPMENT_SENTRY_DESC
+LANG_ENGLISH        "Torreta con cañón automático incorporado."
+
+REFERENCE           SO_SURVIVAL_EQUIPMENT_SENTRY_GL
+LANG_ENGLISH        "Torreta con lanzagranadas"
+
+REFERENCE           SO_SURVIVAL_EQUIPMENT_SENTRY_GL_DESC
+LANG_ENGLISH        "Torreta con lanzagranadas incorporado."
+
+REFERENCE           SO_SURVIVAL_MENU_SHARE_HINT
+LANG_ENGLISH        "COMPARTIR 500 $"
+
+REFERENCE           SO_SURVIVAL_MENU_SHARE_SENDING
+LANG_ENGLISH        "ENVIANDO..."
+
+REFERENCE           SO_SURVIVAL_PARTNER_READY
+LANG_ENGLISH        "Compañero listo.\nPulsa ^3[{+stance}]^7 para empezar: &&1"
+
+REFERENCE           SO_SURVIVAL_PERFORMANCE_ACCURACY
+LANG_ENGLISH        "Precisión:"
+
+REFERENCE           SO_SURVIVAL_PERFORMANCE_COMPLETION_XP
+LANG_ENGLISH        "PX acumulados:"
+
+REFERENCE           SO_SURVIVAL_PERFORMANCE_CREDITS_EARNED
+LANG_ENGLISH        "Créditos obtenidos:"
+
+REFERENCE           SO_SURVIVAL_PERFORMANCE_CREDIT_MINUS
+LANG_ENGLISH        "-&&1 $"
+
+REFERENCE           SO_SURVIVAL_PERFORMANCE_CREDIT_PLUS
+LANG_ENGLISH        "+&&1 $"
+
+REFERENCE           SO_SURVIVAL_PERFORMANCE_DAMAGETAKEN
+LANG_ENGLISH        "Daño sufrido:"
+
+REFERENCE           SO_SURVIVAL_PERFORMANCE_DOWNED
+LANG_ENGLISH        "Abatido:"
+
+REFERENCE           SO_SURVIVAL_PERFORMANCE_HEADSHOT
+LANG_ENGLISH        "Tiros a la cabeza:"
+
+REFERENCE           SO_SURVIVAL_PERFORMANCE_KILLS
+LANG_ENGLISH        "Bajas:"
+
+REFERENCE           SO_SURVIVAL_PERFORMANCE_PERCENT
+LANG_ENGLISH        "&&1%"
+
+REFERENCE           SO_SURVIVAL_PERFORMANCE_POINT
+LANG_ENGLISH        "&&1"
+
+REFERENCE           SO_SURVIVAL_PERFORMANCE_REVIVES
+LANG_ENGLISH        "Compañero reanimado:"
+
+REFERENCE           SO_SURVIVAL_PERFORMANCE_REWARD
+LANG_ENGLISH        "Bonificación: &&1 $ "
+
+REFERENCE           SO_SURVIVAL_PERFORMANCE_SCORE
+LANG_ENGLISH        "Puntuación:"
+
+REFERENCE           SO_SURVIVAL_PERFORMANCE_TIME
+LANG_ENGLISH        "Tiempo:"
+
+REFERENCE           SO_SURVIVAL_PERFORMANCE_WAVEBONUS
+LANG_ENGLISH        "Oleada:"
+
+REFERENCE           SO_SURVIVAL_READY_UP
+LANG_ENGLISH        "Pulsa ^3[{+stance}]^7 para empezar: &&1"
+
+REFERENCE           SO_SURVIVAL_READY_UP_WAIT
+LANG_ENGLISH        "Falta tu compañero."
+
+REFERENCE           SO_SURVIVAL_REPLACE_WEAPON_NOTE
+LANG_ENGLISH        "^3Solo ^3puedes ^3llevar ^3dos ^3armas ^3de ^3proyectiles. ^3Si ^3compras ^3otra ^3sustituirá ^3a ^3la ^3que ^3tienes ^3equipada."
+
+REFERENCE           SO_SURVIVAL_REPLACE_WEAPON_WARNING
+LANG_ENGLISH        "Si compras esta arma, sustituirá a la que tienes equipada."
+
+REFERENCE           SO_SURVIVAL_SURVIVAL_ARMORIES
+LANG_ENGLISH        "ARSENALES"
+
+REFERENCE           SO_SURVIVAL_SURVIVAL_OBJECTIVE
+LANG_ENGLISH        "Sobrevive..."
+
+REFERENCE           SO_SURVIVAL_SURVIVED_TO_WAVE
+LANG_ENGLISH        "¡Has sobrevivido hasta la oleada &&1!"
+
+REFERENCE           SO_SURVIVAL_SURVIVE_TIME
+LANG_ENGLISH        "Supervivencias: "
+
+REFERENCE           SO_SURVIVAL_SUR_CH_EXECUTION
+LANG_ENGLISH        "Ejecuciones"
+
+REFERENCE           SO_SURVIVAL_SUR_CH_EXECUTION_DESC
+LANG_ENGLISH        "Anótate 4 ejecuciones en una ronda rematando a enemigos moribundos."
+
+REFERENCE           SO_SURVIVAL_SUR_CH_EXECUTION_SPLASH
+LANG_ENGLISH        "¡Verdugo!  +&&1 $"
+
+REFERENCE           SO_SURVIVAL_SUR_CH_FLASH
+LANG_ENGLISH        "Muerte cegadora"
+
+REFERENCE           SO_SURVIVAL_SUR_CH_FLASH_DESC
+LANG_ENGLISH        "Mata a 5 enemigos mientras estás cegado por una granada."
+
+REFERENCE           SO_SURVIVAL_SUR_CH_FLASH_SPLASH
+LANG_ENGLISH        "¡Cegador!  +&&1 $"
+
+REFERENCE           SO_SURVIVAL_SUR_CH_HEADSHOT
+LANG_ENGLISH        "Tiros a la cabeza"
+
+REFERENCE           SO_SURVIVAL_SUR_CH_HEADSHOT_DESC
+LANG_ENGLISH        "Consigue 4 tiros a la cabeza en una ronda."
+
+REFERENCE           SO_SURVIVAL_SUR_CH_HEADSHOT_SPLASH
+LANG_ENGLISH        "¡Revienta melones!  +&&1 $"
+
+REFERENCE           SO_SURVIVAL_SUR_CH_KNIFE
+LANG_ENGLISH        "Racha de cuchillo"
+
+REFERENCE           SO_SURVIVAL_SUR_CH_KNIFE_DESC
+LANG_ENGLISH        "Apuñala a 5 enemigos seguidos."
+
+REFERENCE           SO_SURVIVAL_SUR_CH_KNIFE_SPLASH
+LANG_ENGLISH        "¡Carnicero!  +&&1 $"
+
+REFERENCE           SO_SURVIVAL_SUR_CH_QUADKILL
+LANG_ENGLISH        "Baja cuádruple"
+
+REFERENCE           SO_SURVIVAL_SUR_CH_QUADKILL_DESC
+LANG_ENGLISH        "Mata a 4 enemigos a la vez."
+
+REFERENCE           SO_SURVIVAL_SUR_CH_QUADKILL_SPLASH
+LANG_ENGLISH        "¡Cuatro por una!  +&&1 $"
+
+REFERENCE           SO_SURVIVAL_SUR_CH_SIDEKICK
+LANG_ENGLISH        "Asistencias"
+
+REFERENCE           SO_SURVIVAL_SUR_CH_SIDEKICK_DESC
+LANG_ENGLISH        "Consigue 4 asistencias."
+
+REFERENCE           SO_SURVIVAL_SUR_CH_SIDEKICK_SPLASH
+LANG_ENGLISH        "¡Ayudante!  +&&1 $"
+
+REFERENCE           SO_SURVIVAL_SUR_CH_STAGGER
+LANG_ENGLISH        "Frenesí"
+
+REFERENCE           SO_SURVIVAL_SUR_CH_STAGGER_DESC
+LANG_ENGLISH        "Mata enemigos en rápida sucesión."
+
+REFERENCE           SO_SURVIVAL_SUR_CH_STAGGER_SPLASH
+LANG_ENGLISH        "¡Desbocado!  +&&1 $"
+
+REFERENCE           SO_SURVIVAL_SUR_CH_STREAK
+LANG_ENGLISH        "Racha de bajas"
+
+REFERENCE           SO_SURVIVAL_SUR_CH_STREAK_DESC
+LANG_ENGLISH        "Causa 4 bajas sin sufrir daño."
+
+REFERENCE           SO_SURVIVAL_SUR_CH_STREAK_SPLASH
+LANG_ENGLISH        "¡Racha de bajas!  +&&1 $"
+
+REFERENCE           SO_SURVIVAL_UNLOCKED
+LANG_ENGLISH        "DESBLOQUEADO"
+
+REFERENCE           SO_SURVIVAL_WAVE_PERFORMANCE
+LANG_ENGLISH        "Rendimiento en combate"
+
+REFERENCE           SO_SURVIVAL_WAVE_PERFORMANCE_ACCURACY
+LANG_ENGLISH        "Precisión: &&1%"
+
+REFERENCE           SO_SURVIVAL_WAVE_PERFORMANCE_CAMPING
+LANG_ENGLISH        "Tiempo al acecho: &&1"
+
+REFERENCE           SO_SURVIVAL_WAVE_PERFORMANCE_DAMAGE
+LANG_ENGLISH        "Daños sufridos: &&1"
+
+REFERENCE           SO_SURVIVAL_WAVE_PERFORMANCE_HEADSHOT
+LANG_ENGLISH        "Bajas por tiros a la cabeza: &&1"
+
+REFERENCE           SO_SURVIVAL_WAVE_PERFORMANCE_TIME
+LANG_ENGLISH        "Tiempo: &&1"
+
+REFERENCE           SO_SURVIVAL_WAVE_SUCCESS_TITLE
+LANG_ENGLISH        "¡Oleada &&1 completada!"
+
+REFERENCE           SO_SURVIVAL_WAVE_SURVIVED
+LANG_ENGLISH        "Oleadas sobrevividas: &&1"
+
+REFERENCE           SO_SURVIVAL_WAVE_TIME
+LANG_ENGLISH        "Oleada &&1"
+
+REFERENCE           SO_SURVIVAL_WAVE_TITLE
+LANG_ENGLISH        "¡Enemigos en camino!"
+
+REFERENCE           SO_SURVIVAL_WEAPON_UPGRADES
+LANG_ENGLISH        "MEJORAS DE ARMAS"
+
+REFERENCE           SUBTITLE_SO_DELTACAMP_SANDMAN_HEADTOFINISH116
+LANG_ENGLISH        "^2Sandman: ^7Gracias por no volarme la cabeza."
+
+REFERENCE           SUBTITLE_SO_DELTACAMP_SANDMAN_NICEJOB117
+LANG_ENGLISH        "^2Sandman: ^7Bien hecho."
+
+REFERENCE           SUBTITLE_SO_DELTACAMP_SANDMAN_NOGOOD118
+LANG_ENGLISH        "^2Sandman: ^7Mal. Repítalo."
+
+REFERENCE           SUBTITLE_SO_DELTACAMP_TRK_ALLCLEAR112
+LANG_ENGLISH        "^2Truck: ^7¡Despejado!"
+
+REFERENCE           SUBTITLE_SO_DELTACAMP_TRK_ALLCLEARMOVEUP27
+LANG_ENGLISH        "^2Truck: ^7Despejado. ¡Prosiga!"
+
+REFERENCE           SUBTITLE_SO_DELTACAMP_TRK_BRIDGECLEAR114
+LANG_ENGLISH        "^2Truck: ^7Puente despejado. ¡Adelante!"
+
+REFERENCE           SUBTITLE_SO_DELTACAMP_TRK_BUILDINGCLEAR19
+LANG_ENGLISH        "^2Truck: ^7Exterior despejado. ¡Adentro!"
+
+REFERENCE           SUBTITLE_SO_DELTACAMP_TRK_BUILDINGTARGETS18
+LANG_ENGLISH        "^2Truck: ^7Blancos. ¡Primer y segundo piso!"
+
+REFERENCE           SUBTITLE_SO_DELTACAMP_TRK_CIVILIANSHOT0128
+LANG_ENGLISH        "^2Truck: ^7¡Ojo con los civiles, soldado!"
+
+REFERENCE           SUBTITLE_SO_DELTACAMP_TRK_CIVILIANSHOT0229
+LANG_ENGLISH        "^2Truck: ^7¡No dispare a los civiles!"
+
+REFERENCE           SUBTITLE_SO_DELTACAMP_TRK_DOGSAPPROACHING113
+LANG_ENGLISH        "^2Truck: ^7¡Vienen perros!"
+
+REFERENCE           SUBTITLE_SO_DELTACAMP_TRK_FIRSTTARGETS16
+LANG_ENGLISH        "^2Truck: ^7¡Cárguese esos blancos!"
+
+REFERENCE           SUBTITLE_SO_DELTACAMP_TRK_INTROCOOP12
+LANG_ENGLISH        "^2Truck: ^7Caballeros, cojan su equipo y diríjanse hacia la salida."
+
+REFERENCE           SUBTITLE_SO_DELTACAMP_TRK_INTROSINGLE11
+LANG_ENGLISH        "^2Truck: ^7Bien, Frost. Le toca. Coja armas y vaya a la salida."
+
+REFERENCE           SUBTITLE_SO_DELTACAMP_TRK_MELEEWITHKNIFE110
+LANG_ENGLISH        "^2Truck: ^7¡Ataque con el cuchillo!"
+
+REFERENCE           SUBTITLE_SO_DELTACAMP_TRK_ONEPLAYERREADY14
+LANG_ENGLISH        "^2Truck: ^7Cuando quiera, Frost."
+
+REFERENCE           SUBTITLE_SO_DELTACAMP_TRK_OUTRODOBETTER22
+LANG_ENGLISH        "^2Truck: ^7Sé que puede hacerlo mejor."
+
+REFERENCE           SUBTITLE_SO_DELTACAMP_TRK_OUTROGOODRUN25
+LANG_ENGLISH        "^2Truck: ^7¡Así se recorre el circuito!"
+
+REFERENCE           SUBTITLE_SO_DELTACAMP_TRK_OUTROGOODRUNSARCASM26
+LANG_ENGLISH        "^2Truck: ^7¡Deje de exhibirse!"
+
+REFERENCE           SUBTITLE_SO_DELTACAMP_TRK_OUTRONOTGOODENOUGH21
+LANG_ENGLISH        "^2Truck: ^7Mediocre. Inténtelo de nuevo."
+
+REFERENCE           SUBTITLE_SO_DELTACAMP_TRK_OUTROPERSONALBEST24
+LANG_ENGLISH        "^2Truck: ^7¡Nuevo récord personal!"
+
+REFERENCE           SUBTITLE_SO_DELTACAMP_TRK_OUTROTHREESTARS23
+LANG_ENGLISH        "^2Truck: ^7¡Récord del equipo! Bien hecho."
+
+REFERENCE           SUBTITLE_SO_DELTACAMP_TRK_ROOMCLEARSPRINT115
+LANG_ENGLISH        "^2Truck: ^7Sala despejada. ¡Corra a la meta!"
+
+REFERENCE           SUBTITLE_SO_DELTACAMP_TRK_SECRETWEAPON13
+LANG_ENGLISH        "^2Truck: ^7Ah. Alguien se ha traído sus juguetes a la fiesta."
+
+REFERENCE           SUBTITLE_SO_DELTACAMP_TRK_TWOPLAYERREADY15
+LANG_ENGLISH        "^2Truck: ^7Cuando esté listo."
+
+REFERENCE           SUBTITLE_SO_DELTACAMP_TRK_UPTHESTAIRS111
+LANG_ENGLISH        "^2Truck: ^7Por las escaleras. ¡Venga, suba!"
+
+REFERENCE           SUBTITLE_SO_DELTACAMP_TRK_VEHICLETARGETS17
+LANG_ENGLISH        "^2Truck: ^7¡Avance y despeje los vehículos!"
+
+REFERENCE           SUBTITLE_SO_HQ_AIRSUPPORT_ALLY_DELTA61
+LANG_ENGLISH        "^2Overlord: ^7Fuerza operativa Delta en camino, llegarán en 20 segundos. No disparen."
+
+REFERENCE           SUBTITLE_SO_HQ_AIRSUPPORT_ALLY_DELTA62
+LANG_ENGLISH        "^2Overlord: ^7Enviamos una fuerza operativa en su ayuda. Esperen."
+
+REFERENCE           SUBTITLE_SO_HQ_AIRSUPPORT_ALLY_RIOTSHIELD63
+LANG_ENGLISH        "^2Overlord: ^7Agentes del GIGN con equipo antidisturbios van a su posición."
+
+REFERENCE           SUBTITLE_SO_HQ_AIRSUPPORT_ALLY_RIOTSHIELD64
+LANG_ENGLISH        "^2Overlord: ^7El equipo antidisturbios llegará en 30 segundos."
+
+REFERENCE           SUBTITLE_SO_HQ_ARMORY_OPEN_AIRSTRIKE73
+LANG_ENGLISH        "^2Overlord: ^7Arsenal de apoyo aéreo activado. Disponibles solicitudes de apoyo aéreo."
+
+REFERENCE           SUBTITLE_SO_HQ_ARMORY_OPEN_EQUIPMENT72
+LANG_ENGLISH        "^2Overlord: ^7Equipo de combate activado. Disponible acceso a mejoras de explosivos y blindajes."
+
+REFERENCE           SUBTITLE_SO_HQ_ARMORY_OPEN_WEAPON71
+LANG_ENGLISH        "^2Overlord: ^7Arsenal de armas activado. Hay disponibles mejoras de armas y munición."
+
+REFERENCE           SUBTITLE_SO_HQ_ARMORY_STOCKED75
+LANG_ENGLISH        "^2Overlord: ^7Arsenales restablecidos."
+
+REFERENCE           SUBTITLE_SO_HQ_ARMORY_STOCKED_EQUIPMENT74
+LANG_ENGLISH        "^2Overlord: ^7El arsenal de equipo se ha restablecido."
+
+REFERENCE           SUBTITLE_SO_HQ_BOSS_INTEL_CHOPPER41
+LANG_ENGLISH        "^2Overlord: ^7Vienen pájaros enemigos."
+
+REFERENCE           SUBTITLE_SO_HQ_BOSS_INTEL_CHOPPER42
+LANG_ENGLISH        "^2Overlord: ^7Hay un helicóptero enemigo en su posición. Recomendamos que busquen cobertura."
+
+REFERENCE           SUBTITLE_SO_HQ_BOSS_INTEL_CHOPPER_MANY43
+LANG_ENGLISH        "^2Overlord: ^7Captamos múltiples helicópteros enemigos en su espacio aéreo."
+
+REFERENCE           SUBTITLE_SO_HQ_BOSS_INTEL_CHOPPER_MANY44
+LANG_ENGLISH        "^2Overlord: ^7Equipo, el enemigo recibe apoyo aéreo por todos los flancos. Cúbranse."
+
+REFERENCE           SUBTITLE_SO_HQ_ENEMY_INTEL_BOSS_TRANSPORT31
+LANG_ENGLISH        "^2Overlord: ^7Llegan transportes enemigos."
+
+REFERENCE           SUBTITLE_SO_HQ_ENEMY_INTEL_BOSS_TRANSPORT32
+LANG_ENGLISH        "^2Overlord: ^7Helicópteros enemigos cargados con blindados dirigiéndose a su posición. Cambien a armamento pesado."
+
+REFERENCE           SUBTITLE_SO_HQ_ENEMY_INTEL_BOSS_TRANSPORT_MANY33
+LANG_ENGLISH        "^2Overlord: ^7Atención, el enemigo está desplegando unidades fuertemente acorazadas."
+
+REFERENCE           SUBTITLE_SO_HQ_ENEMY_INTEL_BOSS_TRANSPORT_MANY34
+LANG_ENGLISH        "^2Overlord: ^7Equipo, utilicen armamento pesado para enfrentarse al enemigo."
+
+REFERENCE           SUBTITLE_SO_HQ_ENEMY_INTEL_CHEMICAL25
+LANG_ENGLISH        "^2Overlord: ^7Equipo, hemos detectado agentes químicos en su zona."
+
+REFERENCE           SUBTITLE_SO_HQ_ENEMY_INTEL_CHEMICAL26
+LANG_ENGLISH        "^2Overlord: ^7Atención, el enemigo ha desplegado armas químicas cerca de su posición."
+
+REFERENCE           SUBTITLE_SO_HQ_ENEMY_INTEL_CLAYMORE21
+LANG_ENGLISH        "^2Overlord: ^7El enemigo está colocando Claymores cerca de su posición."
+
+REFERENCE           SUBTITLE_SO_HQ_ENEMY_INTEL_CLAYMORE22
+LANG_ENGLISH        "^2Overlord: ^7Detectamos explosivos enemigos en sus inmediaciones. Abran bien los ojos."
+
+REFERENCE           SUBTITLE_SO_HQ_ENEMY_INTEL_DOGS27
+LANG_ENGLISH        "^2Overlord: ^7Hemos detectado perros en el escáner térmico.  "
+
+REFERENCE           SUBTITLE_SO_HQ_ENEMY_INTEL_DOGS28
+LANG_ENGLISH        "^2Overlord: ^7Equipo, el enemigo ha desplegado perros en su posición."
+
+REFERENCE           SUBTITLE_SO_HQ_ENEMY_INTEL_DOGS_SPLODE210
+LANG_ENGLISH        "^2Overlord: ^7Perros con arneses explosivos en sus inmediaciones. Manténgalos alejados. Cambio."
+
+REFERENCE           SUBTITLE_SO_HQ_ENEMY_INTEL_DOGS_SPLODE29
+LANG_ENGLISH        "^2Overlord: ^7Hay perros de presa cerca de su posición. Cuidado, parecen llevar explosivos."
+
+REFERENCE           SUBTITLE_SO_HQ_ENEMY_INTEL_GENERIC11
+LANG_ENGLISH        "^2Overlord: ^7Enemigos en camino."
+
+REFERENCE           SUBTITLE_SO_HQ_ENEMY_INTEL_GENERIC110
+LANG_ENGLISH        "^2Overlord: ^7Detectamos señales térmicas cerca de su posición. Cambio."
+
+REFERENCE           SUBTITLE_SO_HQ_ENEMY_INTEL_GENERIC111
+LANG_ENGLISH        "^2Overlord: ^7Múltiples contactos en camino.  "
+
+REFERENCE           SUBTITLE_SO_HQ_ENEMY_INTEL_GENERIC112
+LANG_ENGLISH        "^2Overlord: ^7Equipo, nuestros informes indican que hay enemigos apostados cerca."
+
+REFERENCE           SUBTITLE_SO_HQ_ENEMY_INTEL_GENERIC12
+LANG_ENGLISH        "^2Overlord: ^7Se aproximan tropas enemigas."
+
+REFERENCE           SUBTITLE_SO_HQ_ENEMY_INTEL_GENERIC13
+LANG_ENGLISH        "^2Overlord: ^7Contactos enemigos acercándose a su posición."
+
+REFERENCE           SUBTITLE_SO_HQ_ENEMY_INTEL_GENERIC14
+LANG_ENGLISH        "^2Overlord: ^7Se acercan más enemigos. Prepárense."
+
+REFERENCE           SUBTITLE_SO_HQ_ENEMY_INTEL_GENERIC15
+LANG_ENGLISH        "^2Overlord: ^7Fuerzas enemigas aproximándose desde varias direcciones."
+
+REFERENCE           SUBTITLE_SO_HQ_ENEMY_INTEL_GENERIC16
+LANG_ENGLISH        "^2Overlord: ^7Equipo, un contingente enemigo se dirige a su posición."
+
+REFERENCE           SUBTITLE_SO_HQ_ENEMY_INTEL_GENERIC17
+LANG_ENGLISH        "^2Overlord: ^7Enemigos en camino a su zona."
+
+REFERENCE           SUBTITLE_SO_HQ_ENEMY_INTEL_GENERIC18
+LANG_ENGLISH        "^2Overlord: ^7Se acercan fuerzas enemigas.  "
+
+REFERENCE           SUBTITLE_SO_HQ_ENEMY_INTEL_GENERIC19
+LANG_ENGLISH        "^2Overlord: ^7Atención, se aproximan múltiples enemigos. Deberían atrincherarse. Cambio."
+
+REFERENCE           SUBTITLE_SO_HQ_ENEMY_INTEL_MARTYRDOM23
+LANG_ENGLISH        "^2Overlord: ^7Tropas suicidas; que no se acerquen."
+
+REFERENCE           SUBTITLE_SO_HQ_ENEMY_INTEL_MARTYRDOM24
+LANG_ENGLISH        "^2Overlord: ^7Atención, algunos tangos se han atado explosivos de C4 al pecho."
+
+REFERENCE           SUBTITLE_SO_HQ_ENEMY_UDPATE_CLAYMORE51
+LANG_ENGLISH        "^2Overlord: ^7El enemigo está colocando trampas explosivas en sus inmediaciones. Atentos."
+
+REFERENCE           SUBTITLE_SO_HQ_ENEMY_UDPATE_CLAYMORE52
+LANG_ENGLISH        "^2Overlord: ^7Atención, Claymores enemigas en su posición."
+
+REFERENCE           SUBTITLE_SO_HQ_MISSION_INTRO101
+LANG_ENGLISH        "^2Overlord: ^7Las tropas de tierra están inmovilizadas. Los apoyaremos como podamos, pero están solos."
+
+REFERENCE           SUBTITLE_SO_HQ_MISSION_INTRO1010
+LANG_ENGLISH        "^2Overlord: ^7Hay fuerzas enemigas avanzando hacia su posición. Intenten aguantar como puedan."
+
+REFERENCE           SUBTITLE_SO_HQ_MISSION_INTRO1011
+LANG_ENGLISH        "^2Overlord: ^7El enemigo está concentrándose en su posición. Cúbranse y recurran a cualquier medio para sobrevivir."
+
+REFERENCE           SUBTITLE_SO_HQ_MISSION_INTRO1012
+LANG_ENGLISH        "^2Overlord: ^7Caballeros, hay todo un ejército dirigiéndose hacia su posición. Intentaremos ayudarlos, pero están solos. "
+
+REFERENCE           SUBTITLE_SO_HQ_MISSION_INTRO102
+LANG_ENGLISH        "^2Overlord: ^7Atención, las tropas de tierra están atrapadas. Tendrán que aguantar todo lo que puedan.  "
+
+REFERENCE           SUBTITLE_SO_HQ_MISSION_INTRO103
+LANG_ENGLISH        "^2Overlord: ^7Equipo, hay tropas enemigas entrando en su zona. Hagan lo que sea para sobrevivir.  "
+
+REFERENCE           SUBTITLE_SO_HQ_MISSION_INTRO104
+LANG_ENGLISH        "^2Overlord: ^7Atención, en estos momentos no podemos prestarles apoyo. Recomendamos que ahorren munición y aguanten como puedan."
+
+REFERENCE           SUBTITLE_SO_HQ_MISSION_INTRO105
+LANG_ENGLISH        "^2Overlord: ^7Inteligencia de señales capta múltiples enemigos en su posición. Cúbranse y hagan lo posible por sobrevivir."
+
+REFERENCE           SUBTITLE_SO_HQ_MISSION_INTRO106
+LANG_ENGLISH        "^2Overlord: ^7Equipo, no podemos alcanzarlos. Repito, están solos. Sobrevivan cueste lo que cueste."
+
+REFERENCE           SUBTITLE_SO_HQ_MISSION_INTRO107
+LANG_ENGLISH        "^2Overlord: ^7Lo siento pero esta vez están solos. Buena caza."
+
+REFERENCE           SUBTITLE_SO_HQ_MISSION_INTRO108
+LANG_ENGLISH        "^2Overlord: ^7Se aproximan tropas enemigas. No disponemos de apoyo, tendrán que enfrentarse a lo que les echen. Buena suerte, caballeros."
+
+REFERENCE           SUBTITLE_SO_HQ_MISSION_INTRO109
+LANG_ENGLISH        "^2Overlord: ^7Equipo, las tropas de tierra están retenidas y no pueden llegar a la zona de aterrizaje. Están los dos solos.  "
+
+REFERENCE           SUBTITLE_SO_HQ_SENTRY_DOWN91
+LANG_ENGLISH        "^2Overlord: ^7Torreta no operativa."
+
+REFERENCE           SUBTITLE_SO_HQ_SENTRY_UNDERATTACK92
+LANG_ENGLISH        "^2Overlord: ^7Torreta bajo fuego intenso."
+
+REFERENCE           SUBTITLE_SO_HQ_UAV_BUSY1013
+LANG_ENGLISH        "^2Overlord: ^7El controlador del UAV está activo. Espere."
+
+REFERENCE           SUBTITLE_SO_HQ_UAV_BUSY1014
+LANG_ENGLISH        "^2Overlord: ^7Ya hay un UAV en su espacio aéreo."
+
+REFERENCE           SUBTITLE_SO_HQ_UAV_BUSY1015
+LANG_ENGLISH        "^2Overlord: ^7Su equipo ya tiene un UAV activo."
+
+REFERENCE           SUBTITLE_SO_HQ_UAV_BUSY1016
+LANG_ENGLISH        "^2Overlord: ^7Espere. La solicitud de UAV está siendo procesada."
+
+REFERENCE           SUBTITLE_SO_HQ_UAV_BUSY1017
+LANG_ENGLISH        "^2Overlord: ^7Ya se ha desplegado un UAV."
+
+REFERENCE           SUBTITLE_SO_HQ_UAV_BUSY1018
+LANG_ENGLISH        "^2Overlord: ^7Su equipo ya tiene asignado un UAV."
+
+REFERENCE           SUBTITLE_SO_HQ_WAVE_OVER_FLAVOR81
+LANG_ENGLISH        "^2Overlord: ^7Enemigos eliminados. Bien hecho, equipo."
+
+REFERENCE           SUBTITLE_SO_HQ_WAVE_OVER_FLAVOR82
+LANG_ENGLISH        "^2Overlord: ^7Enemigos neutralizados. Repongan su equipo."
+
+REFERENCE           SUBTITLE_SO_HQ_WAVE_OVER_FLAVOR83
+LANG_ENGLISH        "^2Overlord: ^7Se repliegan. Comprueben armas y munición."
+
+REFERENCE           SUBTITLE_SO_HQ_WAVE_OVER_FLAVOR84
+LANG_ENGLISH        "^2Overlord: ^7Eran los últimos. Bien hecho, equipo."
+
+REFERENCE           SUBTITLE_SO_HQ_WAVE_OVER_FLAVOR85
+LANG_ENGLISH        "^2Overlord: ^7Se han dado a la fuga. Sigan así, van muy bien."
+
+REFERENCE           SUBTITLE_SO_HQ_WAVE_OVER_FLAVOR86
+LANG_ENGLISH        "^2Overlord: ^7Todos los enemigos eliminados.  "
+
+REFERENCE           SUBTITLE_SO_HQ_WAVE_OVER_FLAVOR87
+LANG_ENGLISH        "^2Overlord: ^7Ese era el último. Buen trabajo."
+
+REFERENCE           SUBTITLE_SO_HQ_WAVE_OVER_FLAVOR88
+LANG_ENGLISH        "^2Overlord: ^7Están acabados. Bien hecho, caballeros."
+
+REFERENCE           SUBTITLE_SO_HQ_WAVE_OVER_FLAVOR89
+LANG_ENGLISH        "^2Overlord: ^7Todas las tropas enemigas han sido neutralizadas."
+
+REFERENCE           SUBTITLE_SO_TF_1_CIV_KILL_WARNING1150
+LANG_ENGLISH        "^2Overlord: ^7¡Cuidado, no dispare a los civiles!"
+
+REFERENCE           SUBTITLE_SO_TF_1_CIV_KILL_WARNING1151
+LANG_ENGLISH        "^2Overlord: ^7¡Las bajas civiles son inaceptables!"
+
+REFERENCE           SUBTITLE_SO_TF_1_CIV_KILL_WARNING1152
+LANG_ENGLISH        "^2Overlord: ^7¡No dispare a los civiles!"
+
+REFERENCE           SUBTITLE_SO_TF_1_FAIL_BLEEDOUT1118
+LANG_ENGLISH        "^2Overlord: ^7O ganamos todos, o perdemos todos. ¿Entiende?"
+
+REFERENCE           SUBTITLE_SO_TF_1_FAIL_BLEEDOUT1119
+LANG_ENGLISH        "^2Overlord: ^7No dejamos a nadie atrás. Ya lo sabe."
+
+REFERENCE           SUBTITLE_SO_TF_1_FAIL_GENERIC1112
+LANG_ENGLISH        "^2Overlord: ^7Misión fallida. La próxima serán nuestros."
+
+REFERENCE           SUBTITLE_SO_TF_1_FAIL_GENERIC1113
+LANG_ENGLISH        "^2Overlord: ^7Con eso no basta. Vamos a repetir."
+
+REFERENCE           SUBTITLE_SO_TF_1_FAIL_GENERIC1114
+LANG_ENGLISH        "^2Overlord: ^7Nos han machacado bien."
+
+REFERENCE           SUBTITLE_SO_TF_1_FAIL_GENERIC1115
+LANG_ENGLISH        "^2Overlord: ^7Hay que replantear la estrategia. Vamos a repetir."
+
+REFERENCE           SUBTITLE_SO_TF_1_FAIL_TIME1116
+LANG_ENGLISH        "^2Overlord: ^7Se acabó el tiempo. Atento al reloj."
+
+REFERENCE           SUBTITLE_SO_TF_1_FAIL_TIME1117
+LANG_ENGLISH        "^2Overlord: ^7Demasiado lento. Debe darse más prisa."
+
+REFERENCE           SUBTITLE_SO_TF_1_PLYR_PREP114
+LANG_ENGLISH        "^2Overlord: ^7Prepárense."
+
+REFERENCE           SUBTITLE_SO_TF_1_PLYR_PREP115
+LANG_ENGLISH        "^2Overlord: ^7Listos."
+
+REFERENCE           SUBTITLE_SO_TF_1_PROGRESS_1MORE1147
+LANG_ENGLISH        "^2Overlord: ^71 más."
+
+REFERENCE           SUBTITLE_SO_TF_1_PROGRESS_1MORE1148
+LANG_ENGLISH        "^2Overlord: ^7Queda 1."
+
+REFERENCE           SUBTITLE_SO_TF_1_PROGRESS_1MORE1149
+LANG_ENGLISH        "^2Overlord: ^7Queda 1."
+
+REFERENCE           SUBTITLE_SO_TF_1_PROGRESS_2MORE1144
+LANG_ENGLISH        "^2Overlord: ^72 más."
+
+REFERENCE           SUBTITLE_SO_TF_1_PROGRESS_2MORE1145
+LANG_ENGLISH        "^2Overlord: ^7Quedan 2."
+
+REFERENCE           SUBTITLE_SO_TF_1_PROGRESS_2MORE1146
+LANG_ENGLISH        "^2Overlord: ^7Quedan 2."
+
+REFERENCE           SUBTITLE_SO_TF_1_PROGRESS_3MORE1141
+LANG_ENGLISH        "^2Overlord: ^73 más."
+
+REFERENCE           SUBTITLE_SO_TF_1_PROGRESS_3MORE1142
+LANG_ENGLISH        "^2Overlord: ^7Quedan 3."
+
+REFERENCE           SUBTITLE_SO_TF_1_PROGRESS_3MORE1143
+LANG_ENGLISH        "^2Overlord: ^7Quedan 3."
+
+REFERENCE           SUBTITLE_SO_TF_1_PROGRESS_3QUARTER1157
+LANG_ENGLISH        "^2Overlord: ^7Ha completado una cuarta parte de la misión."
+
+REFERENCE           SUBTITLE_SO_TF_1_PROGRESS_3QUARTER1158
+LANG_ENGLISH        "^2Overlord: ^7Ya lleva una cuarta parte, no flaquee."
+
+REFERENCE           SUBTITLE_SO_TF_1_PROGRESS_3QUARTER1159
+LANG_ENGLISH        "^2Overlord: ^7Vamos progresando, ya lleva una cuarta parte."
+
+REFERENCE           SUBTITLE_SO_TF_1_PROGRESS_4MORE1138
+LANG_ENGLISH        "^2Overlord: ^74 más."
+
+REFERENCE           SUBTITLE_SO_TF_1_PROGRESS_4MORE1139
+LANG_ENGLISH        "^2Overlord: ^7Quedan 4."
+
+REFERENCE           SUBTITLE_SO_TF_1_PROGRESS_4MORE1140
+LANG_ENGLISH        "^2Overlord: ^7Quedan 4."
+
+REFERENCE           SUBTITLE_SO_TF_1_PROGRESS_5MORE1135
+LANG_ENGLISH        "^2Overlord: ^75 más."
+
+REFERENCE           SUBTITLE_SO_TF_1_PROGRESS_5MORE1136
+LANG_ENGLISH        "^2Overlord: ^7Quedan 5."
+
+REFERENCE           SUBTITLE_SO_TF_1_PROGRESS_5MORE1137
+LANG_ENGLISH        "^2Overlord: ^7Quedan 5."
+
+REFERENCE           SUBTITLE_SO_TF_1_PROGRESS_HALF1129
+LANG_ENGLISH        "^2Overlord: ^7Lleva la mitad."
+
+REFERENCE           SUBTITLE_SO_TF_1_PROGRESS_HALF1130
+LANG_ENGLISH        "^2Overlord: ^7Está a medio camino."
+
+REFERENCE           SUBTITLE_SO_TF_1_PROGRESS_HALF1131
+LANG_ENGLISH        "^2Overlord: ^7Ha llegado a la mitad."
+
+REFERENCE           SUBTITLE_SO_TF_1_PROGRESS_QUARTER1132
+LANG_ENGLISH        "^2Overlord: ^7Ya falta poco, no se pare."
+
+REFERENCE           SUBTITLE_SO_TF_1_PROGRESS_QUARTER1133
+LANG_ENGLISH        "^2Overlord: ^7Ya casi está, concéntrese."
+
+REFERENCE           SUBTITLE_SO_TF_1_PROGRESS_QUARTER1134
+LANG_ENGLISH        "^2Overlord: ^7Solo queda un poco, continúe así."
+
+REFERENCE           SUBTITLE_SO_TF_1_SUCCESS_BEST1153
+LANG_ENGLISH        "^2Overlord: ^7Excelente, ha superado su marca anterior."
+
+REFERENCE           SUBTITLE_SO_TF_1_SUCCESS_BEST1154
+LANG_ENGLISH        "^2Overlord: ^7Un nuevo récord personal, bien hecho."
+
+REFERENCE           SUBTITLE_SO_TF_1_SUCCESS_BEST1155
+LANG_ENGLISH        "^2Overlord: ^7Ha mejorado su anterior marca, siga así."
+
+REFERENCE           SUBTITLE_SO_TF_1_SUCCESS_BEST1156
+LANG_ENGLISH        "^2Overlord: ^7Bien, ha alcanzado un nuevo récord."
+
+REFERENCE           SUBTITLE_SO_TF_1_SUCCESS_GENERIC1120
+LANG_ENGLISH        "^2Overlord: ^7Así es justo como se hace. "
+
+REFERENCE           SUBTITLE_SO_TF_1_SUCCESS_GENERIC1121
+LANG_ENGLISH        "^2Overlord: ^7Bien hecho, equipo."
+
+REFERENCE           SUBTITLE_SO_TF_1_SUCCESS_GENERIC1122
+LANG_ENGLISH        "^2Overlord: ^7Misión cumplida."
+
+REFERENCE           SUBTITLE_SO_TF_1_SUCCESS_JERK111
+LANG_ENGLISH        "^2Overlord: ^7Bien, pero pueden hacerlo mejor."
+
+REFERENCE           SUBTITLE_SO_TF_1_SUCCESS_JERK112
+LANG_ENGLISH        "^2Overlord: ^7Bien, pero pueden hacerlo mejor."
+
+REFERENCE           SUBTITLE_SO_TF_1_SUCCESS_JERK113
+LANG_ENGLISH        "^2Overlord: ^7Mejorable, pero lo han logrado."
+
+REFERENCE           SUBTITLE_SO_TF_1_TIME_GENERIC116
+LANG_ENGLISH        "^2Overlord: ^7No les queda mucho tiempo."
+
+REFERENCE           SUBTITLE_SO_TF_1_TIME_GENERIC117
+LANG_ENGLISH        "^2Overlord: ^7El reloj avanza..."
+
+REFERENCE           SUBTITLE_SO_TF_1_TIME_GENERIC118
+LANG_ENGLISH        "^2Overlord: ^7Se acabó el tiempo."
+
+REFERENCE           SUBTITLE_SO_TF_1_TIME_HURRY1110
+LANG_ENGLISH        "^2Overlord: ^7Casi no les queda tiempo.  "
+
+REFERENCE           SUBTITLE_SO_TF_1_TIME_HURRY1111
+LANG_ENGLISH        "^2Overlord: ^7El tiempo se acaba."
+
+REFERENCE           SUBTITLE_SO_TF_1_TIME_HURRY119
+LANG_ENGLISH        "^2Overlord: ^7Se agota el tiempo. Dense prisa."
+
+REFERENCE           SUBTITLE_SO_TF_1_TIME_STATUS_GOOD1126
+LANG_ENGLISH        "^2Overlord: ^7Por ahora supera su propia marca."
+
+REFERENCE           SUBTITLE_SO_TF_1_TIME_STATUS_GOOD1127
+LANG_ENGLISH        "^2Overlord: ^7Está a punto de batir su marca. Siga avanzando."
+
+REFERENCE           SUBTITLE_SO_TF_1_TIME_STATUS_GOOD1128
+LANG_ENGLISH        "^2Overlord: ^7Siga así y conseguirá mejorar su marca."
+
+REFERENCE           SUBTITLE_SO_TF_1_TIME_STATUS_LATE1123
+LANG_ENGLISH        "^2Overlord: ^7Va muy apurado, debería apretar el paso."
+
+REFERENCE           SUBTITLE_SO_TF_1_TIME_STATUS_LATE1124
+LANG_ENGLISH        "^2Overlord: ^7Se queda atrás, corra o no lo conseguirá."
+
+REFERENCE           SUBTITLE_SO_TF_1_TIME_STATUS_LATE1125
+LANG_ENGLISH        "^2Overlord: ^7Preste atención al tiempo, va demasiado despacio."
+
+REFERENCE           SUBTITLE_SO_TRAINER2_TRK_BREACHONECLEAR12
+LANG_ENGLISH        "^2Truck: ^7Sala despejada. ¡Salga hacia el puente!"
+
+REFERENCE           SUBTITLE_SO_TRAINER2_TRK_BREACHTWOINTRO14
+LANG_ENGLISH        "^2Truck: ^7¡Coloque otra carga en esa puerta!"
+
+REFERENCE           SUBTITLE_SO_TRAINER2_TRK_BRIDGETWOSTORY13
+LANG_ENGLISH        "^2Truck: ^7Tirador. ¡Ventana segunda planta!"
+
+REFERENCE           SUBTITLE_SO_TRAINER2_TRK_DOWNSTAIRS15
+LANG_ENGLISH        "^2Truck: ^7Despejado. ¡Baje por las escaleras!"
+
+REFERENCE           SUBTITLE_SO_TRAINER2_TRK_INTROBREACH11
+LANG_ENGLISH        "^2Truck: ^7Entrenamiento de irrupción. Coloque una carga en la puerta."
+
+REFERENCE           SUBTITLE_SO_TRAINER2_TRK_LASTGROUP17
+LANG_ENGLISH        "^2Truck: ^7¡Último grupo!"
+
+REFERENCE           SUBTITLE_SO_TRAINER2_TRK_SPRINTTOFINISH210
+LANG_ENGLISH        "^2Truck: ^7¡Corra a la meta!"
+
+REFERENCE           SUBTITLE_SO_TRAINER2_TRK_TANGOSUPONBRIDGE16
+LANG_ENGLISH        "^2Truck: ^7¡Enemigos en el puente!"
+
+ENDMARKER

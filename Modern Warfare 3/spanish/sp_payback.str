@@ -1,0 +1,43 @@
+// Dumped from fastfile "sp_payback".
+// In their original format the strings might have been separated in multiple files.
+VERSION             "1"
+CONFIG              "C:/trees/cod3/cod3/bin/StringEd.cfg"
+FILENOTES           ""
+
+REFERENCE           REMOTE_CHOPPER_GUNNER_12_7MM
+LANG_ENGLISH        "12,7mm"
+
+REFERENCE           REMOTE_CHOPPER_GUNNER_63
+LANG_ENGLISH        "63"
+
+REFERENCE           REMOTE_CHOPPER_GUNNER_DECIMAL_POINT
+LANG_ENGLISH        ","
+
+REFERENCE           REMOTE_CHOPPER_GUNNER_FLIR
+LANG_ENGLISH        "F L I R"
+
+REFERENCE           REMOTE_CHOPPER_GUNNER_N1_4
+LANG_ENGLISH        "N1  4"
+
+REFERENCE           REMOTE_CHOPPER_GUNNER_RCT_ACTIVE
+LANG_ENGLISH        "RCT ACTIVE"
+
+REFERENCE           REMOTE_CHOPPER_GUNNER_RECORDING
+LANG_ENGLISH        "GRABANDO"
+
+REFERENCE           REMOTE_CHOPPER_GUNNER_ROUNDS
+LANG_ENGLISH        "MUNICIÓN"
+
+REFERENCE           REMOTE_CHOPPER_GUNNER_TADS
+LANG_ENGLISH        "TADS"
+
+REFERENCE           REMOTE_CHOPPER_GUNNER_X
+LANG_ENGLISH        "x"
+
+REFERENCE           REMOTE_CHOPPER_GUNNER_Z
+LANG_ENGLISH        "Z"
+
+REFERENCE           REMOTE_CHOPPER_GUNNER_ZOOM_HINT
+LANG_ENGLISH        "Mueve hacia delante o hacia atrás para ajustar el zoom."
+
+ENDMARKER

@@ -1,0 +1,373 @@
+// Dumped from fastfile "patch_survival".
+// In their original format the strings might have been separated in multiple files.
+VERSION             "1"
+CONFIG              "C:/trees/cod3/cod3/bin/StringEd.cfg"
+FILENOTES           ""
+
+REFERENCE           DEADQUOTE_SO_SURVIVAL_LAST_STAND
+LANG_ENGLISH        "Autorreanimar te permite volver a levantarte si matas a un enemigo, y puedes volver a comprarla en el arsenal de equipo."
+
+REFERENCE           SO_SURVIVAL_ARMOR_POINTS
+LANG_ENGLISH        "Blindaje         &&1"
+
+REFERENCE           SO_SURVIVAL_CHAOS_BONUS_FREEZE_METER
+LANG_ENGLISH        "Pulsa [{+activate}] para recoger bonificación: medidor de congelación"
+
+REFERENCE           SO_SURVIVAL_CHAOS_BONUS_LASTSTAND
+LANG_ENGLISH        "Pulsa [{+activate}] para recoger bonificación: +Última batalla"
+
+REFERENCE           SO_SURVIVAL_CHAOS_BONUS_MULTIPLIER
+LANG_ENGLISH        "Pulsa [{+activate}] para recoger bonificación: x10"
+
+REFERENCE           SO_SURVIVAL_CHAOS_BONUS_POINT
+LANG_ENGLISH        "Pulsa [{+activate}] para recoger bonificación: +5.000"
+
+REFERENCE           SO_SURVIVAL_CHAOS_BONUS_SCORE
+LANG_ENGLISH        "Puntuación extra +&&1"
+
+REFERENCE           SO_SURVIVAL_CHAOS_BONUS_SENTRY
+LANG_ENGLISH        "Pulsa [{+activate}] para recoger bonificación: torreta"
+
+REFERENCE           SO_SURVIVAL_CHAOS_BONUS_TIME
+LANG_ENGLISH        "Pulsa [{+activate}] para recoger bonificación: +1:00"
+
+REFERENCE           SO_SURVIVAL_CHAOS_CARE_PACKAGE
+LANG_ENGLISH        "Paquete de ayuda +&&1"
+
+REFERENCE           SO_SURVIVAL_CHAOS_CHEMICAL_CORPS
+LANG_ENGLISH        "Cuerpo químico +&&1"
+
+REFERENCE           SO_SURVIVAL_CHAOS_CLAYMORE_CORPS
+LANG_ENGLISH        "Enemigo con Claymore +&&1"
+
+REFERENCE           SO_SURVIVAL_CHAOS_DES_CHOPPER
+LANG_ENGLISH        "Helicóptero destruido +&&1"
+
+REFERENCE           SO_SURVIVAL_CHAOS_DOG_KILL
+LANG_ENGLISH        "Perro muerto +&&1"
+
+REFERENCE           SO_SURVIVAL_CHAOS_DOG_TAGS
+LANG_ENGLISH        "Chapas +&&1"
+
+REFERENCE           SO_SURVIVAL_CHAOS_EASY_KILL
+LANG_ENGLISH        "Baja fácil +&&1"
+
+REFERENCE           SO_SURVIVAL_CHAOS_ELITE_KILL
+LANG_ENGLISH        "Baja de élite +&&1"
+
+REFERENCE           SO_SURVIVAL_CHAOS_EOG_CHEMICAL
+LANG_ENGLISH        "Baja de cuerpo químico (+300):"
+
+REFERENCE           SO_SURVIVAL_CHAOS_EOG_CHOPPER
+LANG_ENGLISH        "Helicóptero destruido (+2.000):"
+
+REFERENCE           SO_SURVIVAL_CHAOS_EOG_EASY
+LANG_ENGLISH        "Baja fácil (+50):"
+
+REFERENCE           SO_SURVIVAL_CHAOS_EOG_ELITE
+LANG_ENGLISH        "Baja de élite (+250):"
+
+REFERENCE           SO_SURVIVAL_CHAOS_EOG_EXECUTION
+LANG_ENGLISH        "Ejecución (+200):"
+
+REFERENCE           SO_SURVIVAL_CHAOS_EOG_EXP_DOG
+LANG_ENGLISH        "Baja explosiva de perro (+150):"
+
+REFERENCE           SO_SURVIVAL_CHAOS_EOG_EXP_JUG
+LANG_ENGLISH        "Baja explosiva de Juggernaut (+1.000):"
+
+REFERENCE           SO_SURVIVAL_CHAOS_EOG_EXP_KILL
+LANG_ENGLISH        "Baja explosiva (+150):"
+
+REFERENCE           SO_SURVIVAL_CHAOS_EOG_GRENADE
+LANG_ENGLISH        "Baja con granada (+400):"
+
+REFERENCE           SO_SURVIVAL_CHAOS_EOG_HARDENED
+LANG_ENGLISH        "Baja Curtido (+150):"
+
+REFERENCE           SO_SURVIVAL_CHAOS_EOG_HEADSHOT
+LANG_ENGLISH        "Tiro a la cabeza (+300):"
+
+REFERENCE           SO_SURVIVAL_CHAOS_EOG_KNIFE
+LANG_ENGLISH        "Baja con cuchillo (+150):"
+
+REFERENCE           SO_SURVIVAL_CHAOS_EOG_LONG_SHOT
+LANG_ENGLISH        "Tiro a gran distancia (+150):"
+
+REFERENCE           SO_SURVIVAL_CHAOS_EOG_MARTYRDOM
+LANG_ENGLISH        "Baja con Martirio (+150):"
+
+REFERENCE           SO_SURVIVAL_CHAOS_EOG_MASSIVE_EXP
+LANG_ENGLISH        "Gran explosión (+2.000):"
+
+REFERENCE           SO_SURVIVAL_CHAOS_EOG_MUL_KILL
+LANG_ENGLISH        "Baja múltiple (+1.000):"
+
+REFERENCE           SO_SURVIVAL_CHAOS_EOG_NEW_WEAPON
+LANG_ENGLISH        "Nueva arma obtenida (+500):"
+
+REFERENCE           SO_SURVIVAL_CHAOS_EOG_QUAD_KILL
+LANG_ENGLISH        "Baja cuádruple (+800):"
+
+REFERENCE           SO_SURVIVAL_CHAOS_EOG_REG_DOG
+LANG_ENGLISH        "Baja normal de perro (+100):"
+
+REFERENCE           SO_SURVIVAL_CHAOS_EOG_REG_JUG
+LANG_ENGLISH        "Baja normal de Juggernaut (+500):"
+
+REFERENCE           SO_SURVIVAL_CHAOS_EOG_REG_KILL
+LANG_ENGLISH        "Baja normal (+100):"
+
+REFERENCE           SO_SURVIVAL_CHAOS_EOG_SHIELD_JUG
+LANG_ENGLISH        "Baja con escudo de Juggernaut (+750):"
+
+REFERENCE           SO_SURVIVAL_CHAOS_EOG_TRI_HEADSHOT
+LANG_ENGLISH        "Triple tiro a la cabeza (+1.000):"
+
+REFERENCE           SO_SURVIVAL_CHAOS_EOG_TRI_KILL
+LANG_ENGLISH        "Baja triple (+600):"
+
+REFERENCE           SO_SURVIVAL_CHAOS_EOG_TRI_KNIFE
+LANG_ENGLISH        "Triple baja con cuchillo (+1.000):"
+
+REFERENCE           SO_SURVIVAL_CHAOS_EOG_TRI_LONGSHOT
+LANG_ENGLISH        "Triple tiro a gran distancia (+1.000):"
+
+REFERENCE           SO_SURVIVAL_CHAOS_EOG_VETERAN
+LANG_ENGLISH        "Baja en Veterano (+200):"
+
+REFERENCE           SO_SURVIVAL_CHAOS_EXECUTION
+LANG_ENGLISH        "Ejecución +&&1"
+
+REFERENCE           SO_SURVIVAL_CHAOS_EXPLOSION
+LANG_ENGLISH        "Explosión +&&1"
+
+REFERENCE           SO_SURVIVAL_CHAOS_EXP_DOG
+LANG_ENGLISH        "Perro explosivo +&&1"
+
+REFERENCE           SO_SURVIVAL_CHAOS_EXP_JUG
+LANG_ENGLISH        "Juggernaut explosivo +&&1"
+
+REFERENCE           SO_SURVIVAL_CHAOS_GRENADE
+LANG_ENGLISH        "Granada +&&1"
+
+REFERENCE           SO_SURVIVAL_CHAOS_HARDENED_KILL
+LANG_ENGLISH        "Baja Curtido +&&1"
+
+REFERENCE           SO_SURVIVAL_CHAOS_HEAD_SHOT
+LANG_ENGLISH        "Tiro a la cabeza +&&1"
+
+REFERENCE           SO_SURVIVAL_CHAOS_HIGHEST_COMBO
+LANG_ENGLISH        "Mayor multiplicador de combo:"
+
+REFERENCE           SO_SURVIVAL_CHAOS_LONG_SHOT
+LANG_ENGLISH        "Tiro a gran distancia +&&1"
+
+REFERENCE           SO_SURVIVAL_CHAOS_MASSIVE_EXPLOSION
+LANG_ENGLISH        "Gran explosión +&&1"
+
+REFERENCE           SO_SURVIVAL_CHAOS_MINIGUN_JUG
+LANG_ENGLISH        "Juggernaut con cañón automático +&&1"
+
+REFERENCE           SO_SURVIVAL_CHAOS_MULTI_KILL
+LANG_ENGLISH        "Baja múltiple +&&1"
+
+REFERENCE           SO_SURVIVAL_CHAOS_NEW_WEAPON
+LANG_ENGLISH        "Nueva arma +&&1"
+
+REFERENCE           SO_SURVIVAL_CHAOS_OBJECTIVE
+LANG_ENGLISH        "Sobrevive al caos..."
+
+REFERENCE           SO_SURVIVAL_CHAOS_PICKUP_1887
+LANG_ENGLISH        "Pulsa [{+activate}] para Modelo 1887"
+
+REFERENCE           SO_SURVIVAL_CHAOS_PICKUP_AA12
+LANG_ENGLISH        "Pulsa [{+activate}] para AA-12"
+
+REFERENCE           SO_SURVIVAL_CHAOS_PICKUP_ACR
+LANG_ENGLISH        "Pulsa [{+activate}] para ACR 6.8"
+
+REFERENCE           SO_SURVIVAL_CHAOS_PICKUP_AK47
+LANG_ENGLISH        "Pulsa [{+activate}] para AK-47"
+
+REFERENCE           SO_SURVIVAL_CHAOS_PICKUP_AS50
+LANG_ENGLISH        "Pulsa [{+activate}] para AS50"
+
+REFERENCE           SO_SURVIVAL_CHAOS_PICKUP_C4
+LANG_ENGLISH        "Pulsa [{+activate}] para C4"
+
+REFERENCE           SO_SURVIVAL_CHAOS_PICKUP_CLAYMORE
+LANG_ENGLISH        "Pulsa [{+activate}] para Claymore"
+
+REFERENCE           SO_SURVIVAL_CHAOS_PICKUP_CM901
+LANG_ENGLISH        "Pulsa [{+activate}] para CM901"
+
+REFERENCE           SO_SURVIVAL_CHAOS_PICKUP_FAD
+LANG_ENGLISH        "Pulsa [{+activate}] para FAD"
+
+REFERENCE           SO_SURVIVAL_CHAOS_PICKUP_FLASH
+LANG_ENGLISH        "Pulsa [{+activate}] para granada cegadora"
+
+REFERENCE           SO_SURVIVAL_CHAOS_PICKUP_FMG9
+LANG_ENGLISH        "Pulsa [{+activate}] para FMG9"
+
+REFERENCE           SO_SURVIVAL_CHAOS_PICKUP_G18
+LANG_ENGLISH        "Pulsa [{+activate}] para G18"
+
+REFERENCE           SO_SURVIVAL_CHAOS_PICKUP_G36
+LANG_ENGLISH        "Pulsa [{+activate}] para G36C"
+
+REFERENCE           SO_SURVIVAL_CHAOS_PICKUP_M16
+LANG_ENGLISH        "Pulsa [{+activate}] para M16A4"
+
+REFERENCE           SO_SURVIVAL_CHAOS_PICKUP_M4
+LANG_ENGLISH        "Pulsa [{+activate}] para M4A1"
+
+REFERENCE           SO_SURVIVAL_CHAOS_PICKUP_M60
+LANG_ENGLISH        "Pulsa [{+activate}] para M60E4"
+
+REFERENCE           SO_SURVIVAL_CHAOS_PICKUP_M9
+LANG_ENGLISH        "Pulsa [{+activate}] para PM-9"
+
+REFERENCE           SO_SURVIVAL_CHAOS_PICKUP_MG36
+LANG_ENGLISH        "Pulsa [{+activate}] para MG36"
+
+REFERENCE           SO_SURVIVAL_CHAOS_PICKUP_MK14
+LANG_ENGLISH        "Pulsa [{+activate}] para MK14"
+
+REFERENCE           SO_SURVIVAL_CHAOS_PICKUP_MK46
+LANG_ENGLISH        "Pulsa [{+activate}] para MK46"
+
+REFERENCE           SO_SURVIVAL_CHAOS_PICKUP_MP5
+LANG_ENGLISH        "Pulsa [{+activate}] para MP5"
+
+REFERENCE           SO_SURVIVAL_CHAOS_PICKUP_MP7
+LANG_ENGLISH        "Pulsa [{+activate}] para MP7"
+
+REFERENCE           SO_SURVIVAL_CHAOS_PICKUP_MP9
+LANG_ENGLISH        "Pulsa [{+activate}] para MP9"
+
+REFERENCE           SO_SURVIVAL_CHAOS_PICKUP_P90
+LANG_ENGLISH        "Pulsa [{+activate}] para P90"
+
+REFERENCE           SO_SURVIVAL_CHAOS_PICKUP_PECHENEG
+LANG_ENGLISH        "Pulsa [{+activate}] para PKP Pecheneg"
+
+REFERENCE           SO_SURVIVAL_CHAOS_PICKUP_PP90
+LANG_ENGLISH        "Pulsa [{+activate}] para PP90M1"
+
+REFERENCE           SO_SURVIVAL_CHAOS_PICKUP_RPG
+LANG_ENGLISH        "Pulsa [{+activate}] para RPG-7"
+
+REFERENCE           SO_SURVIVAL_CHAOS_PICKUP_RSASS
+LANG_ENGLISH        "Pulsa [{+activate}] para RSASS"
+
+REFERENCE           SO_SURVIVAL_CHAOS_PICKUP_SA80
+LANG_ENGLISH        "Pulsa [{+activate}] para L86 LSW"
+
+REFERENCE           SO_SURVIVAL_CHAOS_PICKUP_SCAR
+LANG_ENGLISH        "Pulsa [{+activate}] para SCAR-L"
+
+REFERENCE           SO_SURVIVAL_CHAOS_PICKUP_SKORPION
+LANG_ENGLISH        "Pulsa [{+activate}] para Skorpion"
+
+REFERENCE           SO_SURVIVAL_CHAOS_PICKUP_STRIKER
+LANG_ENGLISH        "Pulsa [{+activate}] para Striker"
+
+REFERENCE           SO_SURVIVAL_CHAOS_PICKUP_TYPE95
+LANG_ENGLISH        "Pulsa [{+activate}] para Type 95"
+
+REFERENCE           SO_SURVIVAL_CHAOS_PICKUP_UMP45
+LANG_ENGLISH        "Pulsa [{+activate}] para UMP45"
+
+REFERENCE           SO_SURVIVAL_CHAOS_PICKUP_USAS12
+LANG_ENGLISH        "Pulsa [{+activate}] para USAS 12"
+
+REFERENCE           SO_SURVIVAL_CHAOS_PICKUP_USP45
+LANG_ENGLISH        "Pulsa [{+activate}] para USP del 45"
+
+REFERENCE           SO_SURVIVAL_CHAOS_QUAD_KILL
+LANG_ENGLISH        "Baja cuádruple +&&1"
+
+REFERENCE           SO_SURVIVAL_CHAOS_REGULAR_KILL
+LANG_ENGLISH        "Baja normal +&&1"
+
+REFERENCE           SO_SURVIVAL_CHAOS_REG_JUG
+LANG_ENGLISH        "Juggernaut normal +&&1"
+
+REFERENCE           SO_SURVIVAL_CHAOS_SHIELD_JUG
+LANG_ENGLISH        "Juggernaut con escudo +&&1"
+
+REFERENCE           SO_SURVIVAL_CHAOS_SPLASH_DEMO_MAN
+LANG_ENGLISH        "Demoledor"
+
+REFERENCE           SO_SURVIVAL_CHAOS_SPLASH_FINAL_STAND
+LANG_ENGLISH        "¡Batalla final!"
+
+REFERENCE           SO_SURVIVAL_CHAOS_SPLASH_HEAD_HUNTER
+LANG_ENGLISH        "Cazador de cabezas"
+
+REFERENCE           SO_SURVIVAL_CHAOS_SPLASH_LONG_SHOOTER
+LANG_ENGLISH        "Tirador lejano"
+
+REFERENCE           SO_SURVIVAL_CHAOS_SPLASH_MULTI_KILL
+LANG_ENGLISH        "¡Bajas múltiples!"
+
+REFERENCE           SO_SURVIVAL_CHAOS_SPLASH_QUAD_KILL
+LANG_ENGLISH        "¡Baja cuádruple!"
+
+REFERENCE           SO_SURVIVAL_CHAOS_SPLASH_SLASHER
+LANG_ENGLISH        "Degollador"
+
+REFERENCE           SO_SURVIVAL_CHAOS_SPLASH_TRIPLE_KILL
+LANG_ENGLISH        "¡Triple baja!"
+
+REFERENCE           SO_SURVIVAL_CHAOS_STAB
+LANG_ENGLISH        "Apuñalar +&&1"
+
+REFERENCE           SO_SURVIVAL_CHAOS_SUICIDE_BOMBER
+LANG_ENGLISH        "Tropa suicida +&&1"
+
+REFERENCE           SO_SURVIVAL_CHAOS_TRIPLE_HEADSHOT
+LANG_ENGLISH        "Triple tiro a la cabeza +&&1"
+
+REFERENCE           SO_SURVIVAL_CHAOS_TRIPLE_KILL
+LANG_ENGLISH        "Baja triple +&&1"
+
+REFERENCE           SO_SURVIVAL_CHAOS_TRIPLE_KNIFE_KILL
+LANG_ENGLISH        "Triple baja con cuchillo +&&1"
+
+REFERENCE           SO_SURVIVAL_CHAOS_TRIPLE_LONGSHOT
+LANG_ENGLISH        "Triple tiro a gran distancia +&&1"
+
+REFERENCE           SO_SURVIVAL_CHAOS_VETERAN_KILL
+LANG_ENGLISH        "Baja de Veterano +&&1"
+
+REFERENCE           SO_SURVIVAL_MENU_SHARE_HINT
+LANG_ENGLISH        "COMPARTIR 500 $ ^2F2^7"
+
+REFERENCE           SO_SURVIVAL_PARTNER_READY
+LANG_ENGLISH        "Compañero listo\nPulsa ^3[{skip}]^7 para preparar: &&1"
+
+REFERENCE           SO_SURVIVAL_READY_UP
+LANG_ENGLISH        "Pulsa ^3[{skip}]^7 para preparar: &&1"
+
+REFERENCE           SP_KILLSTREAKS_SPECIALTY_BULLETACCURACY_PICKUP
+LANG_ENGLISH        "Mantén ^3[{+activate}]^7 para ventaja: Puntería estable."
+
+REFERENCE           SP_KILLSTREAKS_SPECIALTY_DETECTEXPLOSIVE_PICKUP
+LANG_ENGLISH        "Mantén ^3[{+activate}]^7 para ventaja: Informe de situación."
+
+REFERENCE           SP_KILLSTREAKS_SPECIALTY_FASTRELOAD_PICKUP
+LANG_ENGLISH        "Mantén ^3[{+activate}]^7 para ventaja: Prestidigitación."
+
+REFERENCE           SP_KILLSTREAKS_SPECIALTY_LONGERSPRINT_PICKUP
+LANG_ENGLISH        "Mantén ^3[{+activate}]^7 para ventaja: Condicionamiento extremo."
+
+REFERENCE           SP_KILLSTREAKS_SPECIALTY_QUICKDRAW_PICKUP
+LANG_ENGLISH        "Mantén ^3[{+activate}]^7 para ventaja: Desenfundado rápido."
+
+REFERENCE           SP_KILLSTREAKS_SPECIALTY_STALKER_PICKUP
+LANG_ENGLISH        "Mantén ^3[{+activate}]^7 para ventaja: Cazador."
+
+ENDMARKER

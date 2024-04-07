@@ -1,0 +1,103 @@
+// Dumped from fastfile "patch_so_zodiac2_ny_harbor".
+// In their original format the strings might have been separated in multiple files.
+VERSION             "1"
+CONFIG              "C:/trees/cod3/cod3/bin/StringEd.cfg"
+FILENOTES           ""
+
+REFERENCE           NY_HARBOR_CARRIER_FAIL
+LANG_ENGLISH        "Dispara a las minas para destruir la cañonera."
+
+REFERENCE           NY_HARBOR_DEMO_1
+LANG_ENGLISH        "En virtud del tiempo..."
+
+REFERENCE           NY_HARBOR_FAIL_SUB_DECK_ZODIAC
+LANG_ENGLISH        "¡Tienes que llegar a la lancha del punto de extracción!"
+
+REFERENCE           NY_HARBOR_HINT_DRIVE_SDV
+LANG_ENGLISH        "Usa el stick izquierdo para maniobrar y [{+frag}] para acelerar."
+
+REFERENCE           NY_HARBOR_HINT_DRIVE_SDV_2_1
+LANG_ENGLISH        "Usa [{+speed_throw}] para acelerar."
+
+REFERENCE           NY_HARBOR_HINT_DRIVE_SDV_2_2
+LANG_ENGLISH        "Usa [{+frag}] para acelerar."
+
+REFERENCE           NY_HARBOR_HINT_DRIVE_SDV_2_3
+LANG_ENGLISH        "Usa [{+smoke}] para acelerar."
+
+REFERENCE           NY_HARBOR_HINT_DRIVE_SDV_3_1
+LANG_ENGLISH        "Usa [{+speed_throw}] para acelerar y      para maniobrar."
+
+REFERENCE           NY_HARBOR_HINT_DRIVE_SDV_3_2
+LANG_ENGLISH        "Usa [{+frag}] para acelerar y      para maniobrar."
+
+REFERENCE           NY_HARBOR_HINT_DRIVE_SDV_3_3
+LANG_ENGLISH        "Usa [{+smoke}] para acelerar y      para maniobrar."
+
+REFERENCE           NY_HARBOR_HINT_DVORA_MINES
+LANG_ENGLISH        "¡Ve a por las minas!"
+
+REFERENCE           NY_HARBOR_HINT_USE
+LANG_ENGLISH        "Mantén ^3&&1^7 para usar."
+
+REFERENCE           NY_HARBOR_HINT_USE_TO_BREACH
+LANG_ENGLISH        "Mantén ^3&&1^7 para irrumpir."
+
+REFERENCE           NY_HARBOR_HINT_USE_TO_ENTER
+LANG_ENGLISH        "Mantén ^3&&1^7 para entrar."
+
+REFERENCE           NY_HARBOR_INTROSCREEN_LINE1
+LANG_ENGLISH        "\"Cazador destructor\""
+
+REFERENCE           NY_HARBOR_INTROSCREEN_LINE2
+LANG_ENGLISH        "17 de agosto, 16:32:[{FAKE_INTRO_SECONDS:02}]"
+
+REFERENCE           NY_HARBOR_INTROSCREEN_LINE3
+LANG_ENGLISH        "Delta Force"
+
+REFERENCE           NY_HARBOR_INTROSCREEN_LINE4
+LANG_ENGLISH        "Sargento Derek \"Frost\" Westbrook"
+
+REFERENCE           NY_HARBOR_INTROSCREEN_LINE5
+LANG_ENGLISH        "Puerto de Nueva York"
+
+REFERENCE           NY_HARBOR_MINE_DEATH
+LANG_ENGLISH        "Te ha matado una mina.\nEvita las minas de contacto submarinas."
+
+REFERENCE           NY_HARBOR_OBJ_CONTROL_ROOM
+LANG_ENGLISH        "Ve a la sala de control de misiles"
+
+REFERENCE           NY_HARBOR_OBJ_ESCAPE
+LANG_ENGLISH        "Huye del puerto"
+
+REFERENCE           NY_HARBOR_OBJ_FOLLOW_SANDMAN
+LANG_ENGLISH        "Sigue a Sandman"
+
+REFERENCE           NY_HARBOR_OBJ_LAUNCH_MISSILES
+LANG_ENGLISH        "Lanza los misiles"
+
+REFERENCE           NY_HARBOR_OBJ_PLANT_MINE
+LANG_ENGLISH        "Coloca una mina en el submarino"
+
+REFERENCE           NY_HARBOR_OBJ_POINTER_ENTER
+LANG_ENGLISH        "Entra"
+
+REFERENCE           NY_HARBOR_PROP_DEATH
+LANG_ENGLISH        "Evita las hélices del submarino."
+
+REFERENCE           NY_HARBOR_SDV_FAIL_QUOTE
+LANG_ENGLISH        "No te separes del vehículo de despliegue de cabeza."
+
+REFERENCE           NY_HARBOR_SUB_FAIL
+LANG_ENGLISH        "No has logrado inutilizar el submarino."
+
+REFERENCE           NY_HARBOR_ZODIAC_FAIL_QUOTE
+LANG_ENGLISH        "¡Pégate a la lancha de cabeza y mantén la velocidad!"
+
+REFERENCE           NY_HARBOR_ZODIAC_FAIL_QUOTE_CHINOOK
+LANG_ENGLISH        "¡Tienes que llegar al helicóptero del punto de extracción!"
+
+REFERENCE           NY_HARBOR_ZODIAC_FAIL_QUOTE_CHINOOK_ENTRY
+LANG_ENGLISH        "¡Tienes que entrar limpiamente en el helicóptero!"
+
+ENDMARKER

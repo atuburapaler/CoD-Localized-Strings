@@ -1,0 +1,1303 @@
+// Dumped from fastfile "prague_escape".
+// In their original format the strings might have been separated in multiple files.
+VERSION             "1"
+CONFIG              "C:/trees/cod3/cod3/bin/StringEd.cfg"
+FILENOTES           ""
+
+REFERENCE           PRAGUE_ESCAPE_BALCONY_SNIPE
+LANG_ENGLISH        "Elimina las amenazas del balcón"
+
+REFERENCE           PRAGUE_ESCAPE_CELLAR_FAIL
+LANG_ENGLISH        "Tus actos han provocado la muerte del capitán Price."
+
+REFERENCE           PRAGUE_ESCAPE_CLEAR_COURTYARD
+LANG_ENGLISH        "Elimina a todos los enemigos"
+
+REFERENCE           PRAGUE_ESCAPE_CLEAR_ROOM
+LANG_ENGLISH        "Elimina a todos los enemigos de la sala"
+
+REFERENCE           PRAGUE_ESCAPE_COVER_BLOWN
+LANG_ENGLISH        "¡Te han descubierto!"
+
+REFERENCE           PRAGUE_ESCAPE_ENTER_RESISTANCE
+LANG_ENGLISH        "Sigue a Price al edificio de la resistencia"
+
+REFERENCE           PRAGUE_ESCAPE_FIND_PRICE
+LANG_ENGLISH        "Mira a Price en lo alto del hotel"
+
+REFERENCE           PRAGUE_ESCAPE_FOLLOW
+LANG_ENGLISH        "Sigue"
+
+REFERENCE           PRAGUE_ESCAPE_FOLLOW_PRICE
+LANG_ENGLISH        "Sigue a Price"
+
+REFERENCE           PRAGUE_ESCAPE_HELP_SOAP
+LANG_ENGLISH        "Ayuda a Soap"
+
+REFERENCE           PRAGUE_ESCAPE_HINT_CRAWL_LEFT
+LANG_ENGLISH        "^3[{+toggleads_throw}]^7"
+
+REFERENCE           PRAGUE_ESCAPE_HINT_CRAWL_RIGHT
+LANG_ENGLISH        "^3[{+attack}]^7"
+
+REFERENCE           PRAGUE_ESCAPE_HINT_MEDIC_SOAP
+LANG_ENGLISH        "Mantén ^3[{+activate}]^7 para ayudar a Soap."
+
+REFERENCE           PRAGUE_ESCAPE_HINT_PICKUP_SOAP
+LANG_ENGLISH        "Mantén ^3[{+activate}]^7 para recoger a Soap."
+
+REFERENCE           PRAGUE_ESCAPE_INTROSCREEN_LINE_1
+LANG_ENGLISH        "\"Hermanos de sangre\""
+
+REFERENCE           PRAGUE_ESCAPE_INTROSCREEN_LINE_2
+LANG_ENGLISH        "11 de octubre, 07:01:[{FAKE_INTRO_SECONDS:30}]"
+
+REFERENCE           PRAGUE_ESCAPE_INTROSCREEN_LINE_3
+LANG_ENGLISH        "Yuri"
+
+REFERENCE           PRAGUE_ESCAPE_INTROSCREEN_LINE_4
+LANG_ENGLISH        "Fuerza operativa 141 - Renegados"
+
+REFERENCE           PRAGUE_ESCAPE_INTROSCREEN_LINE_5
+LANG_ENGLISH        "Praga, República Checa"
+
+REFERENCE           PRAGUE_ESCAPE_INTRO_AIRPORT_1
+LANG_ENGLISH        "Año 2016"
+
+REFERENCE           PRAGUE_ESCAPE_INTRO_AIRPORT_2
+LANG_ENGLISH        "Aeropuerto internacional Zakhaev"
+
+REFERENCE           PRAGUE_ESCAPE_INTRO_AIRPORT_3
+LANG_ENGLISH        "Moscú, Rusia"
+
+REFERENCE           PRAGUE_ESCAPE_INTRO_NUKE_1
+LANG_ENGLISH        "Año 2011"
+
+REFERENCE           PRAGUE_ESCAPE_INTRO_NUKE_2
+LANG_ENGLISH        "Piso franco de Al-Asad"
+
+REFERENCE           PRAGUE_ESCAPE_INTRO_NUKE_3
+LANG_ENGLISH        "Oriente Próximo"
+
+REFERENCE           PRAGUE_ESCAPE_INTRO_ONESHOT_1
+LANG_ENGLISH        "Yuri"
+
+REFERENCE           PRAGUE_ESCAPE_INTRO_ONESHOT_2
+LANG_ENGLISH        "Invierno de 1996"
+
+REFERENCE           PRAGUE_ESCAPE_INTRO_ONESHOT_3
+LANG_ENGLISH        "Pripyat, Ucrania"
+
+REFERENCE           PRAGUE_ESCAPE_OPEN_DOOR
+LANG_ENGLISH        "Escapa"
+
+REFERENCE           PRAGUE_ESCAPE_PICK_UP
+LANG_ENGLISH        "Recogida"
+
+REFERENCE           PRAGUE_ESCAPE_PICK_UP_SOAP
+LANG_ENGLISH        "Recoge a Soap"
+
+REFERENCE           PRAGUE_ESCAPE_PRESS_FORWARDS_OR_BACKWARDS
+LANG_ENGLISH        "Mueve hacia delante o hacia atrás para ajustar el zoom."
+
+REFERENCE           PRAGUE_ESCAPE_PROTECT
+LANG_ENGLISH        "Protege"
+
+REFERENCE           PRAGUE_ESCAPE_PROTECT_FAIL
+LANG_ENGLISH        "No has logrado proteger a Soap."
+
+REFERENCE           PRAGUE_ESCAPE_PROTECT_SOAP
+LANG_ENGLISH        "Protege a Soap"
+
+REFERENCE           PRAGUE_ESCAPE_REVENGE_MAKAROV
+LANG_ENGLISH        "Mata a Makarov"
+
+REFERENCE           PRAGUE_ESCAPE_SAVE_SOAP
+LANG_ENGLISH        "Ayuda a salvar a Soap"
+
+REFERENCE           PRAGUE_ESCAPE_SET_DOWN
+LANG_ENGLISH        "Sienta"
+
+REFERENCE           PRAGUE_ESCAPE_SET_SOAP_DOWN
+LANG_ENGLISH        "Deja en el suelo a Soap"
+
+REFERENCE           PRAGUE_ESCAPE_SOAP_DEATH_OBJ
+LANG_ENGLISH        "Mantén [{+speed_throw}] y [{+attack}] para sujetar a Soap"
+
+REFERENCE           PRAGUE_ESCAPE_STOP_MASSACRE
+LANG_ENGLISH        "Detén la masacre"
+
+REFERENCE           PRAGUE_ESCAPE_WATCH_CONVOY
+LANG_ENGLISH        "Observa la llegada de Makarov"
+
+REFERENCE           PRAGUE_ESCAPE_WATCH_PRICE
+LANG_ENGLISH        "Vigila a Price"
+
+REFERENCE           PRAGUE_ESCAPE_WATCH_PRICE_LOOK
+LANG_ENGLISH        "Mirar"
+
+REFERENCE           SUBTITLE_PRAGUE_ESCAPE_MKV_NO_RUSSIAN16
+LANG_ENGLISH        "^1Makarov: ^7Recuerde, nada de ruso."
+
+REFERENCE           SUBTITLE_PRAGUE_ESCAPE_SOAP_GOTEM1017
+LANG_ENGLISH        "^2Soap: ^7Muerto."
+
+REFERENCE           SUBTITLE_PRAGUE_ESCAPE_SOAP_TARGETDOWN1016
+LANG_ENGLISH        "^2Soap: ^7Eliminado."
+
+REFERENCE           SUBTITLE_PRAGUE_KMV_GIVEME23
+LANG_ENGLISH        "^2Kamarov: ^7Deme la mano."
+
+REFERENCE           SUBTITLE_PRAGUE_KMV_HURRY24
+LANG_ENGLISH        "^2Kamarov: ^7Deprisa. No tenemos mucho tiempo."
+
+REFERENCE           SUBTITLE_PRAGUE_KMV_SMELL25
+LANG_ENGLISH        "^2Kamarov: ^7¿Es que le gusta cómo huele esto? ¡Muévase, joder!"
+
+REFERENCE           SUBTITLE_PRAGUE_KMV_THISFAR27
+LANG_ENGLISH        "^2Kamarov: ^7¿Tiene idea de lo que ha costado traerlos hasta aquí?"
+
+REFERENCE           SUBTITLE_PRAGUE_KMV_UPRISING26
+LANG_ENGLISH        "^2Kamarov: ^7Seguro que no han tenido ningún problema."
+
+REFERENCE           SUBTITLE_PRAGUE_KMV_WHATTOOKYOU21
+LANG_ENGLISH        "^2Kamarov: ^7¿Por qué han tardado?"
+
+REFERENCE           SUBTITLE_PRAGUE_MCT_12OCLOCK323
+LANG_ENGLISH        "^2Soap: ^7Patrulla delante."
+
+REFERENCE           SUBTITLE_PRAGUE_MCT_20PLUS53
+LANG_ENGLISH        "^2Soap: ^7Veinte más a pie, y estos vienen con un blindado."
+
+REFERENCE           SUBTITLE_PRAGUE_MCT_ALERTOTHERS36
+LANG_ENGLISH        "^2Soap: ^7De lo contrario, avisarán a los demás."
+
+REFERENCE           SUBTITLE_PRAGUE_MCT_BELLTOWER124
+LANG_ENGLISH        "^2Soap: ^7Por aquí. El campanario está ahí mismo."
+
+REFERENCE           SUBTITLE_PRAGUE_MCT_BLOODYHELL65_1
+LANG_ENGLISH        "^2Soap: ^7¡Ese BTR nos está machacando!"
+
+REFERENCE           SUBTITLE_PRAGUE_MCT_BRINGINGIT622
+LANG_ENGLISH        "^2Soap: ^7¡Maldita sea, estos no se cansan nunca!"
+
+REFERENCE           SUBTITLE_PRAGUE_MCT_BTRONRIGHT1029
+LANG_ENGLISH        "^2Soap: ^7¡BTR a la derecha! ¡Busque cobertura!"
+
+REFERENCE           SUBTITLE_PRAGUE_MCT_BYTABLES321
+LANG_ENGLISH        "^2Soap: ^7Yuri, por aquí."
+
+REFERENCE           SUBTITLE_PRAGUE_MCT_CLEAR314
+LANG_ENGLISH        "^2Soap: ^7Despejado."
+
+REFERENCE           SUBTITLE_PRAGUE_MCT_CMONYURI210
+LANG_ENGLISH        "^2Soap: ^7Vamos, Yuri."
+
+REFERENCE           SUBTITLE_PRAGUE_MCT_COMPROMISED317
+LANG_ENGLISH        "^2Soap: ^7¡Mierda! ¡Nos han descubierto!"
+
+REFERENCE           SUBTITLE_PRAGUE_MCT_COVEROURSIX71
+LANG_ENGLISH        "^2Soap: ^7Usted primero, Yuri. Yo cubro las seis."
+
+REFERENCE           SUBTITLE_PRAGUE_MCT_DOGANDFRIEND312
+LANG_ENGLISH        "^2Soap: ^7El perro y su amigo son míos."
+
+REFERENCE           SUBTITLE_PRAGUE_MCT_DONTMOVE48
+LANG_ENGLISH        "^2Soap: ^7No... se... mueva."
+
+REFERENCE           SUBTITLE_PRAGUE_MCT_DOTHISLIVELY77
+LANG_ENGLISH        "^2Soap: ^7¡Vamos a darnos prisa!"
+
+REFERENCE           SUBTITLE_PRAGUE_MCT_DOWNDOWN318
+LANG_ENGLISH        "^2Soap: ^7Abajo, abajo."
+
+REFERENCE           SUBTITLE_PRAGUE_MCT_EASY49
+LANG_ENGLISH        "^2Soap: ^7Ahí está el patio."
+
+REFERENCE           SUBTITLE_PRAGUE_MCT_EYESHIGH329
+LANG_ENGLISH        "^2Soap: ^7Otro francotirador. No llame su atención."
+
+REFERENCE           SUBTITLE_PRAGUE_MCT_FALLBACK613
+LANG_ENGLISH        "^2Soap: ^7¡Vienen más tangos! ¡Vamos a replegarnos al edificio!"
+
+REFERENCE           SUBTITLE_PRAGUE_MCT_FINDAWAY626
+LANG_ENGLISH        "^2Soap: ^7Bien, vamos por los edificios a ver si encontramos un camino a la iglesia."
+
+REFERENCE           SUBTITLE_PRAGUE_MCT_FIVEGUYS32
+LANG_ENGLISH        "^2Soap: ^7Patrulla de cinco. Tiradores en el tejado."
+
+REFERENCE           SUBTITLE_PRAGUE_MCT_FLANKTHEM82
+LANG_ENGLISH        "^2Soap: ^7¡Esos artilleros nos tienen inmovilizados!  "
+
+REFERENCE           SUBTITLE_PRAGUE_MCT_FLANKTURRETS83
+LANG_ENGLISH        "^2Soap: ^7¡No se asome a las bravas o conseguirá que lo maten!"
+
+REFERENCE           SUBTITLE_PRAGUE_MCT_FOLLOWME320
+LANG_ENGLISH        "^2Soap: ^7Sígame."
+
+REFERENCE           SUBTITLE_PRAGUE_MCT_FRIENDLIES623
+LANG_ENGLISH        "^2Soap: ^7¡Aliados en los tejados! ¡No les dispare!"
+
+REFERENCE           SUBTITLE_PRAGUE_MCT_FROMALCOVE84
+LANG_ENGLISH        "^2Soap: ^7¡Elimine esas torretas!"
+
+REFERENCE           SUBTITLE_PRAGUE_MCT_GETANRPG66
+LANG_ENGLISH        "^2Soap: ^7¡Coja un RPG, rápido!"
+
+REFERENCE           SUBTITLE_PRAGUE_MCT_GETINBUILDING615
+LANG_ENGLISH        "^2Soap: ^7¡Yuri, entre en el edificio, vamos!"
+
+REFERENCE           SUBTITLE_PRAGUE_MCT_GETOVERHERE2616
+LANG_ENGLISH        "^2Soap: ^7¡Maldita sea, Yuri, venga aquí!"
+
+REFERENCE           SUBTITLE_PRAGUE_MCT_GETOVERHERE617
+LANG_ENGLISH        "^2Soap: ^7¡Yuri, mueva el culo hasta aquí!"
+
+REFERENCE           SUBTITLE_PRAGUE_MCT_GETREADY411
+LANG_ENGLISH        "^2Soap: ^7¿Preparado?"
+
+REFERENCE           SUBTITLE_PRAGUE_MCT_GETROUGH75
+LANG_ENGLISH        "^2Soap: ^7La cosa podría ponerse fea. ¿Está preparado?"
+
+REFERENCE           SUBTITLE_PRAGUE_MCT_GO412
+LANG_ENGLISH        "^2Soap: ^7¡Vamos!"
+
+REFERENCE           SUBTITLE_PRAGUE_MCT_GOLEFTGOLEFT614
+LANG_ENGLISH        "^2Soap: ^7¡A la izquierda ya!"
+
+REFERENCE           SUBTITLE_PRAGUE_MCT_GOODNIGHT51
+LANG_ENGLISH        "^2Soap: ^7Buenas noches."
+
+REFERENCE           SUBTITLE_PRAGUE_MCT_HELOSINBOUND63_1
+LANG_ENGLISH        "^2Soap: ^7¡Helicópteros!"
+
+REFERENCE           SUBTITLE_PRAGUE_MCT_HIDEBODIES312_2
+LANG_ENGLISH        "^2Soap: ^7No hay tiempo para ocultarlos. Vamos."
+
+REFERENCE           SUBTITLE_PRAGUE_MCT_HITTHATTHING610
+LANG_ENGLISH        "^2Soap: ^7¡Vuele ese trasto con el RPG!"
+
+REFERENCE           SUBTITLE_PRAGUE_MCT_HOLDUP52
+LANG_ENGLISH        "^2Soap: ^7Un momento."
+
+REFERENCE           SUBTITLE_PRAGUE_MCT_INPOSITION121
+LANG_ENGLISH        "^2Soap: ^7Price, estamos en posición."
+
+REFERENCE           SUBTITLE_PRAGUE_MCT_INTELWASOFF22
+LANG_ENGLISH        "^2Soap: ^7Su información no era precisa, Kamarov. Dijo que esto estaría despejado."
+
+REFERENCE           SUBTITLE_PRAGUE_MCT_ITSDOWN611
+LANG_ENGLISH        "^2Soap: ^7¡Una molestia menos! ¡Bien hecho!"
+
+REFERENCE           SUBTITLE_PRAGUE_MCT_KEEPMOVING131
+LANG_ENGLISH        "^2Soap: ^7¡Yuri, siga adelante!"
+
+REFERENCE           SUBTITLE_PRAGUE_MCT_LETSGOYURI29
+LANG_ENGLISH        "^2Soap: ^7Vamos, Yuri."
+
+REFERENCE           SUBTITLE_PRAGUE_MCT_LETSGOYURI362
+LANG_ENGLISH        "^2Soap: ^7Vamos, Yuri."
+
+REFERENCE           SUBTITLE_PRAGUE_MCT_LIGHTSWITCH512
+LANG_ENGLISH        "^2Soap: ^7Je, je. Muy oportuno, viejo."
+
+REFERENCE           SUBTITLE_PRAGUE_MCT_LOCKINGDOWN319
+LANG_ENGLISH        "^2Soap: ^7Están bloqueando toda la ciudad. Debemos tomar la delantera."
+
+REFERENCE           SUBTITLE_PRAGUE_MCT_LOTSOFMOVEMENT334
+LANG_ENGLISH        "^2Soap: ^7Movimiento en las calles. Atento a los tejados, esto está lleno de tiradores."
+
+REFERENCE           SUBTITLE_PRAGUE_MCT_MOREHOSTILES913
+LANG_ENGLISH        "^2Soap: ^7¡Refuerzos! ¡A cubierto!"
+
+REFERENCE           SUBTITLE_PRAGUE_MCT_MOVE813
+LANG_ENGLISH        "^2Soap: ^7¡Vamos!"
+
+REFERENCE           SUBTITLE_PRAGUE_MCT_MOVEHURRY918
+LANG_ENGLISH        "^2Soap: ^7¡Vamos, rápido!"
+
+REFERENCE           SUBTITLE_PRAGUE_MCT_MOVEIT212
+LANG_ENGLISH        "^2Soap: ^7Venga aquí, Yuri. Deprisa."
+
+REFERENCE           SUBTITLE_PRAGUE_MCT_MOVEUP86
+LANG_ENGLISH        "^2Soap: ^7¡Deprisa!"
+
+REFERENCE           SUBTITLE_PRAGUE_MCT_NICELYDONE1028
+LANG_ENGLISH        "^2Soap: ^7Bien hecho."
+
+REFERENCE           SUBTITLE_PRAGUE_MCT_NICEWORK315
+LANG_ENGLISH        "^2Soap: ^7Bien hecho."
+
+REFERENCE           SUBTITLE_PRAGUE_MCT_NOTALERT327
+LANG_ENGLISH        "^2Soap: ^7La idea es que no nos descubran."
+
+REFERENCE           SUBTITLE_PRAGUE_MCT_NOWHEREFAST65
+LANG_ENGLISH        "^2Soap: ^7¡Yuri, voy a atraer sus disparos! ¡Acabe con ellos!"
+
+REFERENCE           SUBTITLE_PRAGUE_MCT_OFFSTREETNOW618
+LANG_ENGLISH        "^2Soap: ^7¡Salga de la calle, joder!"
+
+REFERENCE           SUBTITLE_PRAGUE_MCT_OKLETSGO76
+LANG_ENGLISH        "^2Soap: ^7¡Bien, vamos!"
+
+REFERENCE           SUBTITLE_PRAGUE_MCT_ONESDOWN514
+LANG_ENGLISH        "^2Soap: ^7Uno menos. Pero nosotros somos cuatro, y ellos docenas."
+
+REFERENCE           SUBTITLE_PRAGUE_MCT_ONOURSIDE621
+LANG_ENGLISH        "^2Soap: ^7¡Olvide los tejados! ¡Los rebeldes son aliados!"
+
+REFERENCE           SUBTITLE_PRAGUE_MCT_ONYOU325
+LANG_ENGLISH        "^2Soap: ^7Cuando quiera..."
+
+REFERENCE           SUBTITLE_PRAGUE_MCT_OTHERSNIPER311
+LANG_ENGLISH        "^2Soap: ^7Acabe con el otro tirador."
+
+REFERENCE           SUBTITLE_PRAGUE_MCT_PERFECT326
+LANG_ENGLISH        "^2Soap: ^7Perfecto."
+
+REFERENCE           SUBTITLE_PRAGUE_MCT_PRICECOPY332
+LANG_ENGLISH        "^2Soap: ^7Price, ¿me recibe?"
+
+REFERENCE           SUBTITLE_PRAGUE_MCT_RALLYPOINT55
+LANG_ENGLISH        "^2Soap: ^7En posición, pero tenemos un puto ejército delante."
+
+REFERENCE           SUBTITLE_PRAGUE_MCT_ROGER57
+LANG_ENGLISH        "^2Soap: ^7Recibido."
+
+REFERENCE           SUBTITLE_PRAGUE_MCT_ROOFTOPFIRST39
+LANG_ENGLISH        "^2Soap: ^7Acabe primero con los tiradores del tejado."
+
+REFERENCE           SUBTITLE_PRAGUE_MCT_SCOUT58
+LANG_ENGLISH        "^2Soap: ^7Observador en el tejado. Ocúpese de él."
+
+REFERENCE           SUBTITLE_PRAGUE_MCT_SCOUTAHEAD73
+LANG_ENGLISH        "^2Soap: ^7Yuri, adelántese."
+
+REFERENCE           SUBTITLE_PRAGUE_MCT_SHARPISH410
+LANG_ENGLISH        "^2Soap: ^7Tendremos que correr como condenados..."
+
+REFERENCE           SUBTITLE_PRAGUE_MCT_SITTIGHT33
+LANG_ENGLISH        "^2Soap: ^7Vamos a esperar, a ver qué hacen."
+
+REFERENCE           SUBTITLE_PRAGUE_MCT_SNIPERSFIRST35
+LANG_ENGLISH        "^2Soap: ^7Bien, primero los tiradores."
+
+REFERENCE           SUBTITLE_PRAGUE_MCT_SNIPERSROOFTOP38
+LANG_ENGLISH        "^2Soap: ^7Yuri, elimine a los tiradores del tejado."
+
+REFERENCE           SUBTITLE_PRAGUE_MCT_SNIPERYURI59
+LANG_ENGLISH        "^2Soap: ^7Acabe con el tirador, Yuri."
+
+REFERENCE           SUBTITLE_PRAGUE_MCT_SPLITTINGUP34
+LANG_ENGLISH        "^2Soap: ^7Se están separando. Es nuestro día de suerte."
+
+REFERENCE           SUBTITLE_PRAGUE_MCT_SPOTTEDUS316
+LANG_ENGLISH        "^2Soap: ^7¡Nos han visto! ¡Abra fuego!"
+
+REFERENCE           SUBTITLE_PRAGUE_MCT_STAYCLOSE210
+LANG_ENGLISH        "^2Soap: ^7No se separe."
+
+REFERENCE           SUBTITLE_PRAGUE_MCT_STAYDOWN916_1
+LANG_ENGLISH        "^2Soap: ^7¡Agáchese!"
+
+REFERENCE           SUBTITLE_PRAGUE_MCT_TABLESFORCOVER322
+LANG_ENGLISH        "^2Soap: ^7Mueva el culo hasta aquí."
+
+REFERENCE           SUBTITLE_PRAGUE_MCT_TAKEEMDOWN328
+LANG_ENGLISH        "^2Soap: ^7¡Joder, afine el tiro!"
+
+REFERENCE           SUBTITLE_PRAGUE_MCT_TAKEHIMDOWN510
+LANG_ENGLISH        "^2Soap: ^7¡Que nos va a ver! ¡Neutralícelo ya!"
+
+REFERENCE           SUBTITLE_PRAGUE_MCT_TAKEMUCHMORE74
+LANG_ENGLISH        "^2Soap: ^7No creo que este edificio vaya a aguantar mucho más."
+
+REFERENCE           SUBTITLE_PRAGUE_MCT_TAKENPRISONERS15
+LANG_ENGLISH        "^2Soap: ^7Ya han tomado prisioneros. Sí que se están dando prisa."
+
+REFERENCE           SUBTITLE_PRAGUE_MCT_TAKEOUT68
+LANG_ENGLISH        "^2Soap: ^7¡Destruya ese blindado!"
+
+REFERENCE           SUBTITLE_PRAGUE_MCT_TAKEOUTARMOR67
+LANG_ENGLISH        "^2Soap: ^7¡Use un RPG, Yuri!"
+
+REFERENCE           SUBTITLE_PRAGUE_MCT_TAKEOUTSNIPERS37
+LANG_ENGLISH        "^2Soap: ^7Elimine primero a los tiradores o darán la voz de alarma."
+
+REFERENCE           SUBTITLE_PRAGUE_MCT_TAKEPOINT72
+LANG_ENGLISH        "^2Soap: ^7Vaya delante, Yuri."
+
+REFERENCE           SUBTITLE_PRAGUE_MCT_TAKETHEOTHER310
+LANG_ENGLISH        "^2Soap: ^7Estupendo. Ahora el otro."
+
+REFERENCE           SUBTITLE_PRAGUE_MCT_THECHURCH87
+LANG_ENGLISH        "^2Soap: ^7¡Ahí está la iglesia!  "
+
+REFERENCE           SUBTITLE_PRAGUE_MCT_THEYREDOWN85
+LANG_ENGLISH        "^2Soap: ^7¡Han caído!"
+
+REFERENCE           SUBTITLE_PRAGUE_MCT_THISWAY336
+LANG_ENGLISH        "^2Soap: ^7Bien, por aquí."
+
+REFERENCE           SUBTITLE_PRAGUE_MCT_THROUGHHERE2628
+LANG_ENGLISH        "^2Soap: ^7Por aquí. ¡Vamos!"
+
+REFERENCE           SUBTITLE_PRAGUE_MCT_THROUGHHERE330
+LANG_ENGLISH        "^2Soap: ^7¡Helicóptero! ¡Por aquí!"
+
+REFERENCE           SUBTITLE_PRAGUE_MCT_TIPTOP625
+LANG_ENGLISH        "^2Soap: ^7¡Ahora mismo estoy un poco liado, Price!"
+
+REFERENCE           SUBTITLE_PRAGUE_MCT_TOTHESTATUE63
+LANG_ENGLISH        "^2Soap: ^7¡Voy hacia la estatua, cúbrame!"
+
+REFERENCE           SUBTITLE_PRAGUE_MCT_TRUCKCOMING1030
+LANG_ENGLISH        "^2Soap: ^7¡Viene un camión!"
+
+REFERENCE           SUBTITLE_PRAGUE_MCT_TURRETGUNNERS81
+LANG_ENGLISH        "^2Soap: ^7¡Dos artilleros, calle abajo, segundo piso!"
+
+REFERENCE           SUBTITLE_PRAGUE_MCT_UNSUPRESSED312_1
+LANG_ENGLISH        "^2Soap: ^7Si van a disparar, utilicen silenciador. No debemos delatar nuestra posición."
+
+REFERENCE           SUBTITLE_PRAGUE_MCT_USERPG69
+LANG_ENGLISH        "^2Soap: ^7¡Coja un RPG y utilícelo!"
+
+REFERENCE           SUBTITLE_PRAGUE_MCT_WAIT511
+LANG_ENGLISH        "^2Soap: ^7¡Espere!"
+
+REFERENCE           SUBTITLE_PRAGUE_MCT_WAITFORMYGO211
+LANG_ENGLISH        "^2Soap: ^7Vamos, Yuri. No perdamos tiempo."
+
+REFERENCE           SUBTITLE_PRAGUE_MCT_WAITHERE331
+LANG_ENGLISH        "^2Soap: ^7Espere aquí."
+
+REFERENCE           SUBTITLE_PRAGUE_MCT_WHATAREYOUDOING619
+LANG_ENGLISH        "^2Soap: ^7¿Qué diablos cree que está haciendo? ¡Retroceda!"
+
+REFERENCE           SUBTITLE_PRAGUE_MCT_WOAH516
+LANG_ENGLISH        "^2Soap: ^7La hostia..."
+
+REFERENCE           SUBTITLE_PRAGUE_MCT_YOUANDHIM12
+LANG_ENGLISH        "^2Soap: ^7Le gusta cubrirse detrás de un ejército."
+
+REFERENCE           SUBTITLE_PRAGUE_MCT_YOUGETONE324
+LANG_ENGLISH        "^2Soap: ^7Uno para usted, el otro para mí."
+
+REFERENCE           SUBTITLE_PRAGUE_MCT_YOUGOTIT123
+LANG_ENGLISH        "^2Soap: ^7Afirmativo. Venga, Yuri, a montar el chiringuito."
+
+REFERENCE           SUBTITLE_PRAGUE_MCT_YURIDOIN120
+LANG_ENGLISH        "^2Soap: ^7Yuri, ¿qué diablos está haciendo?"
+
+REFERENCE           SUBTITLE_PRAGUE_PRI_AIMSTRAIGHT513
+LANG_ENGLISH        "^2Price: ^7Aún puedo enseñarle un par de cosas, hijo."
+
+REFERENCE           SUBTITLE_PRAGUE_PRI_ARSEOVERHERE111
+LANG_ENGLISH        "^2Price: ^7Yuri, mueva el culo hasta aquí."
+
+REFERENCE           SUBTITLE_PRAGUE_PRI_CHITCHAT28
+LANG_ENGLISH        "^2Price: ^7Basta de cháchara. Soap, Yuri, pónganse en marcha. Nos veremos en el punto de encuentro."
+
+REFERENCE           SUBTITLE_PRAGUE_PRI_COMPROMISED119
+LANG_ENGLISH        "^2Price: ^7¡Nos han descubierto! "
+
+REFERENCE           SUBTITLE_PRAGUE_PRI_CONTACT14
+LANG_ENGLISH        "^2Price: ^7Esperad."
+
+REFERENCE           SUBTITLE_PRAGUE_PRI_DONTWORRY515
+LANG_ENGLISH        "^2Price: ^7No se preocupe, he traído a unos amigos."
+
+REFERENCE           SUBTITLE_PRAGUE_PRI_EASY114
+LANG_ENGLISH        "^2Price: ^7Calma..."
+
+REFERENCE           SUBTITLE_PRAGUE_PRI_EYEOUT335
+LANG_ENGLISH        "^2Price: ^7Tomaremos precauciones. "
+
+REFERENCE           SUBTITLE_PRAGUE_PRI_FROMWEST56
+LANG_ENGLISH        "^2Price: ^7Nos acercamos por el oeste. Ojo con los disparos."
+
+REFERENCE           SUBTITLE_PRAGUE_PRI_GETCOMFORTABLE122
+LANG_ENGLISH        "^2Price: ^7Recibido. Pónganse cómodos, faltan 8 horas para la reunión."
+
+REFERENCE           SUBTITLE_PRAGUE_PRI_GETCOMPROMISED112
+LANG_ENGLISH        "^2Price: ^7¡Va a conseguir que nos descubran, Yuri!"
+
+REFERENCE           SUBTITLE_PRAGUE_PRI_GETOFFROAD612
+LANG_ENGLISH        "^2Price: ^7¡Un tanque! ¡Apártese!"
+
+REFERENCE           SUBTITLE_PRAGUE_PRI_GETTOCHURCH61
+LANG_ENGLISH        "^2Price: ^7Avance con los rebeldes y entre en esa iglesia. ¡Los cubriremos!"
+
+REFERENCE           SUBTITLE_PRAGUE_PRI_GETTOCOVER64
+LANG_ENGLISH        "^2Price: ^7¡Busque cobertura, tienen un blindado!"
+
+REFERENCE           SUBTITLE_PRAGUE_PRI_GO116
+LANG_ENGLISH        "^2Price: ^7Ya..."
+
+REFERENCE           SUBTITLE_PRAGUE_PRI_GOAHEAD333
+LANG_ENGLISH        "^2Price: ^7Adelante..."
+
+REFERENCE           SUBTITLE_PRAGUE_PRI_GOLOUD117
+LANG_ENGLISH        "^2Price: ^7¡A la mierda! ¡Fuego!"
+
+REFERENCE           SUBTITLE_PRAGUE_PRI_GOODLUCK627
+LANG_ENGLISH        "^2Price: ^7Recibido. Nos dirigimos al hotel. Buena suerte."
+
+REFERENCE           SUBTITLE_PRAGUE_PRI_GUARDDOWN121
+LANG_ENGLISH        "^2Price: ^7Por aquí."
+
+REFERENCE           SUBTITLE_PRAGUE_PRI_HALFACLICK12
+LANG_ENGLISH        "^2Soap: ^7La resistencia nos espera a medio kilómetro al norte."
+
+REFERENCE           SUBTITLE_PRAGUE_PRI_HELLOVERHERE113
+LANG_ENGLISH        "^2Price: ^7¡Venga aquí de una vez, Yuri!"
+
+REFERENCE           SUBTITLE_PRAGUE_PRI_LETSGOYURI110
+LANG_ENGLISH        "^2Price: ^7Vamos, Yuri."
+
+REFERENCE           SUBTITLE_PRAGUE_PRI_LETSMOVE213
+LANG_ENGLISH        "^2Price: ^7Zanjemos esto."
+
+REFERENCE           SUBTITLE_PRAGUE_PRI_LETTHEMPASS114_1
+LANG_ENGLISH        "^2Price: ^7Déjenlos pasar..."
+
+REFERENCE           SUBTITLE_PRAGUE_PRI_MOVINGFASTER16
+LANG_ENGLISH        "^2Price: ^7Pues nos daremos más."
+
+REFERENCE           SUBTITLE_PRAGUE_PRI_OKAY115
+LANG_ENGLISH        "^2Price: ^7Vale..."
+
+REFERENCE           SUBTITLE_PRAGUE_PRI_OPENFIRE118
+LANG_ENGLISH        "^2Price: ^7¡Nos han visto! ¡Dispare!"
+
+REFERENCE           SUBTITLE_PRAGUE_PRI_SINGLEFILE17
+LANG_ENGLISH        "^2Price: ^7Con cautela, muchachos. Cúbranse tras los botes."
+
+REFERENCE           SUBTITLE_PRAGUE_PRI_SOAPPOSITION54
+LANG_ENGLISH        "^2Price: ^7Soap, ¿cuál es su situación?"
+
+REFERENCE           SUBTITLE_PRAGUE_PRI_SOAPSTATUS624
+LANG_ENGLISH        "^2Price: ^7¡Soap, lo he perdido de vista! ¡Soap, informe!"
+
+REFERENCE           SUBTITLE_PRAGUE_PRI_UNDERDOCKS18
+LANG_ENGLISH        "^2Price: ^7Por debajo de los muelles. La tormenta nos cubrirá."
+
+REFERENCE           SUBTITLE_PRAGUE_PRI_USEBOATS19
+LANG_ENGLISH        "^2Price: ^7Vayan despacio y cúbranse tras los botes."
+
+REFERENCE           SUBTITLE_PRAGUE_PRI_WELCOME211_1
+LANG_ENGLISH        "^2Price: ^7Bienvenidos a Praga."
+
+REFERENCE           SUBTITLE_PRAGUE_PRI_YURIOFFROAD620
+LANG_ENGLISH        "^2Price: ^7¡Yuri, salga de la puta carretera!"
+
+REFERENCE           SUBTITLE_PRAGUE_SND_ADVANCING92
+LANG_ENGLISH        "^2Soap: ^7Avanzando. Vigile mis seis."
+
+REFERENCE           SUBTITLE_PRAGUE_SND_ALLCLEAR21019
+LANG_ENGLISH        "^2Soap: ^7Despejado."
+
+REFERENCE           SUBTITLE_PRAGUE_SND_ARMORONROAD94
+LANG_ENGLISH        "^2Soap: ^7Rápido y con discreción."
+
+REFERENCE           SUBTITLE_PRAGUE_SND_BYTHESTATUE89
+LANG_ENGLISH        "^2Soap: ^7¡Yuri! ¡Estoy junto a la estatua!"
+
+REFERENCE           SUBTITLE_PRAGUE_SND_CLEAR1020
+LANG_ENGLISH        "^2Soap: ^7Despejado."
+
+REFERENCE           SUBTITLE_PRAGUE_SND_COVERTRACKS914
+LANG_ENGLISH        "^2Soap: ^7No podemos quedarnos a limpiar."
+
+REFERENCE           SUBTITLE_PRAGUE_SND_DONTDOSTUPID47
+LANG_ENGLISH        "^2Soap: ^7Calma, no vaya a meter la pata..."
+
+REFERENCE           SUBTITLE_PRAGUE_SND_DOWNNOW916
+LANG_ENGLISH        "^2Soap: ^7¡Al suelo ya!"
+
+REFERENCE           SUBTITLE_PRAGUE_SND_ENEMYCONVOY42
+LANG_ENGLISH        "^2Soap: ^7¡Convoy enemigo! ¡Muévase!"
+
+REFERENCE           SUBTITLE_PRAGUE_SND_FOLLOWME109
+LANG_ENGLISH        "^2Soap: ^7Sígame."
+
+REFERENCE           SUBTITLE_PRAGUE_SND_GETASSHERE810
+LANG_ENGLISH        "^2Soap: ^7¡Mueva el culo hasta aquí!"
+
+REFERENCE           SUBTITLE_PRAGUE_SND_GETDOWN45
+LANG_ENGLISH        "^2Soap: ^7Al suelo."
+
+REFERENCE           SUBTITLE_PRAGUE_SND_GETTOCOVER88
+LANG_ENGLISH        "^2Soap: ^7¡Un tanque! ¡A cubierto!"
+
+REFERENCE           SUBTITLE_PRAGUE_SND_GOODSHOT1012
+LANG_ENGLISH        "^2Soap: ^7Perfecto."
+
+REFERENCE           SUBTITLE_PRAGUE_SND_GOTCOMPANY910
+LANG_ENGLISH        "^2Soap: ^7A estos no los podemos sortear. Espere a mi señal..."
+
+REFERENCE           SUBTITLE_PRAGUE_SND_GOTEM1017
+LANG_ENGLISH        "^2Soap: ^7Muerto."
+
+REFERENCE           SUBTITLE_PRAGUE_SND_HESDOWN1015
+LANG_ENGLISH        "^2Soap: ^7Ha caído."
+
+REFERENCE           SUBTITLE_PRAGUE_SND_HOLD102
+LANG_ENGLISH        "^2Soap: ^7Quieto."
+
+REFERENCE           SUBTITLE_PRAGUE_SND_HOLDUP2103
+LANG_ENGLISH        "^2Soap: ^7Esperad."
+
+REFERENCE           SUBTITLE_PRAGUE_SND_HOLDUP2TARGETS31
+LANG_ENGLISH        "^2Soap: ^7Espere. Contacto, veinte metros por delante."
+
+REFERENCE           SUBTITLE_PRAGUE_SND_HOLDUP313
+LANG_ENGLISH        "^2Soap: ^7No dispare."
+
+REFERENCE           SUBTITLE_PRAGUE_SND_IMPROVISE915
+LANG_ENGLISH        "^2Soap: ^7Andando, improvisaremos sobre la marcha."
+
+REFERENCE           SUBTITLE_PRAGUE_SND_INSIDEBUILDING46
+LANG_ENGLISH        "^2Soap: ^7Están dentro del edificio."
+
+REFERENCE           SUBTITLE_PRAGUE_SND_JUMPGUN911
+LANG_ENGLISH        "^2Soap: ^7Calma, no se impaciente..."
+
+REFERENCE           SUBTITLE_PRAGUE_SND_LETSGO2106
+LANG_ENGLISH        "^2Soap: ^7Vamos."
+
+REFERENCE           SUBTITLE_PRAGUE_SND_LETSMOVE2107
+LANG_ENGLISH        "^2Soap: ^7Andando."
+
+REFERENCE           SUBTITLE_PRAGUE_SND_MORECAREFUL1025
+LANG_ENGLISH        "^2Soap: ^7Sería más fácil si no delatase nuestra presencia."
+
+REFERENCE           SUBTITLE_PRAGUE_SND_MORETARGETS97
+LANG_ENGLISH        "^2Soap: ^7Más blancos."
+
+REFERENCE           SUBTITLE_PRAGUE_SND_MOVE1010
+LANG_ENGLISH        "^2Soap: ^7Vamos."
+
+REFERENCE           SUBTITLE_PRAGUE_SND_MOVEIT917
+LANG_ENGLISH        "^2Soap: ^7¡Vamos!"
+
+REFERENCE           SUBTITLE_PRAGUE_SND_MOVEUP1011
+LANG_ENGLISH        "^2Soap: ^7Vamos."
+
+REFERENCE           SUBTITLE_PRAGUE_SND_NICE1014
+LANG_ENGLISH        "^2Soap: ^7Bien."
+
+REFERENCE           SUBTITLE_PRAGUE_SND_NICEANDEASY99
+LANG_ENGLISH        "^2Soap: ^7Fácil y elegante."
+
+REFERENCE           SUBTITLE_PRAGUE_SND_NICESHOT1013
+LANG_ENGLISH        "^2Soap: ^7Buen tiro."
+
+REFERENCE           SUBTITLE_PRAGUE_SND_ONME108
+LANG_ENGLISH        "^2Soap: ^7Vamos."
+
+REFERENCE           SUBTITLE_PRAGUE_SND_ONME295
+LANG_ENGLISH        "^2Soap: ^7Vamos."
+
+REFERENCE           SUBTITLE_PRAGUE_SND_OPENFIRE1023
+LANG_ENGLISH        "^2Soap: ^7¡Vienen a por nosotros! ¡Fuego!"
+
+REFERENCE           SUBTITLE_PRAGUE_SND_OUTOFCOURTYARD811
+LANG_ENGLISH        "^2Soap: ^7¡Tenemos que salir de este patio!"
+
+REFERENCE           SUBTITLE_PRAGUE_SND_REMINDME1027
+LANG_ENGLISH        "^2Soap: ^7No pienso volver a llevarlo en misiones de sigilo."
+
+REFERENCE           SUBTITLE_PRAGUE_SND_RETURNFIRE1022
+LANG_ENGLISH        "^2Soap: ^7¡Nos han visto! ¡Devuelva el fuego!"
+
+REFERENCE           SUBTITLE_PRAGUE_SND_ROADSANOGO96
+LANG_ENGLISH        "^2Soap: ^7Vamos."
+
+REFERENCE           SUBTITLE_PRAGUE_SND_SLOPPY1026
+LANG_ENGLISH        "^2Soap: ^7No ha estado fino, Yuri."
+
+REFERENCE           SUBTITLE_PRAGUE_SND_SLOWDOWN105
+LANG_ENGLISH        "^2Soap: ^7Más despacio..."
+
+REFERENCE           SUBTITLE_PRAGUE_SND_SMOKEEM912
+LANG_ENGLISH        "^2Soap: ^7Macháquelos bien."
+
+REFERENCE           SUBTITLE_PRAGUE_SND_SPOTTEDTAKEOUT1024
+LANG_ENGLISH        "^2Soap: ^7¡Nos han visto! ¡Acabe con ellos!"
+
+REFERENCE           SUBTITLE_PRAGUE_SND_STAYLOW31_1
+LANG_ENGLISH        "^2Soap: ^7Agáchese. No debemos llamar la atención."
+
+REFERENCE           SUBTITLE_PRAGUE_SND_STOP101
+LANG_ENGLISH        "^2Soap: ^7Alto."
+
+REFERENCE           SUBTITLE_PRAGUE_SND_TARGETDOWN1016
+LANG_ENGLISH        "^2Soap: ^7Eliminado."
+
+REFERENCE           SUBTITLE_PRAGUE_SND_TARGETSNEUTRALIZED1021
+LANG_ENGLISH        "^2Soap: ^7Blancos neutralizados."
+
+REFERENCE           SUBTITLE_PRAGUE_SND_THATSAKILL1018
+LANG_ENGLISH        "^2Soap: ^7Está acabado."
+
+REFERENCE           SUBTITLE_PRAGUE_SND_THEYDONTKNOW98
+LANG_ENGLISH        "^2Soap: ^7Silencio, no saben que estamos aquí."
+
+REFERENCE           SUBTITLE_PRAGUE_SND_THISWAY2812
+LANG_ENGLISH        "^2Soap: ^7¡Por aquí!"
+
+REFERENCE           SUBTITLE_PRAGUE_SND_THISWAY44
+LANG_ENGLISH        "^2Soap: ^7Solo nos queda un camino."
+
+REFERENCE           SUBTITLE_PRAGUE_SND_TOOMANY43
+LANG_ENGLISH        "^2Soap: ^7Siga agachado... son demasiados..."
+
+REFERENCE           SUBTITLE_PRAGUE_SND_WAIT104
+LANG_ENGLISH        "^2Soap: ^7Espere..."
+
+REFERENCE           SUBTITLE_PRAGUE_SND_WAITFOREM93
+LANG_ENGLISH        "^2Soap: ^7Espere, otro blindado en la carretera."
+
+REFERENCE           SUBTITLE_PRAGUE_SND_WERECLEAR91
+LANG_ENGLISH        "^2Soap: ^7Bien, estamos a salvo."
+
+REFERENCE           SUBTITLE_PRAGUE_SND_YOUHEARTHAT41
+LANG_ENGLISH        "^2Soap: ^7¿Oye eso?"
+
+REFERENCE           SUBTITLE_PRESC_MCT_BRINGINGBTR81
+LANG_ENGLISH        "^2Soap: ^7¡Price... han llamado a un BTR!"
+
+REFERENCE           SUBTITLE_PRESC_MCT_DAMNIT82
+LANG_ENGLISH        "^2Price: ^7¡Sigan a cubierto!"
+
+REFERENCE           SUBTITLE_PRESC_MCT_DAMNRIGHT65
+LANG_ENGLISH        "^2Soap: ^7¡Hay más... en la calle!"
+
+REFERENCE           SUBTITLE_PRESC_MCT_DOWNABIT210
+LANG_ENGLISH        "^2Soap: ^7Más abajo, Yuri."
+
+REFERENCE           SUBTITLE_PRESC_MCT_DOWNANDRIGHT216
+LANG_ENGLISH        "^2Soap: ^7Abajo a la derecha."
+
+REFERENCE           SUBTITLE_PRESC_MCT_EYESONCONVOY16
+LANG_ENGLISH        "^2Soap: ^7No pierda de vista el convoy, Yuri."
+
+REFERENCE           SUBTITLE_PRESC_MCT_FINDPRICE26
+LANG_ENGLISH        "^2Soap: ^7Yuri, localice a Price con su mira."
+
+REFERENCE           SUBTITLE_PRESC_MCT_FOCUS18
+LANG_ENGLISH        "^2Soap: ^7Céntrese en el convoy, Yuri."
+
+REFERENCE           SUBTITLE_PRESC_MCT_FOURTARGETS219
+LANG_ENGLISH        "^2Soap: ^7Los eliminaremos juntos, Yuri. Usted primero."
+
+REFERENCE           SUBTITLE_PRESC_MCT_FRONTDOORHOTELNOW114
+LANG_ENGLISH        "^2Soap: ^7Ahora se están metiendo en el garaje."
+
+REFERENCE           SUBTITLE_PRESC_MCT_GETINPOSITION13
+LANG_ENGLISH        "^2Soap: ^7No falle."
+
+REFERENCE           SUBTITLE_PRESC_MCT_GETOUTTATHERE36
+LANG_ENGLISH        "^2Soap: ^7¡Lárguese de ahí, Price!"
+
+REFERENCE           SUBTITLE_PRESC_MCT_GIVEMEARIFLE52
+LANG_ENGLISH        "^2Soap: ^7Háganme un remiendo. Puedo continuar."
+
+REFERENCE           SUBTITLE_PRESC_MCT_HELLSHETALKINABOUT310
+LANG_ENGLISH        "^2Soap: ^7¿De qué demonios está hablando?"
+
+REFERENCE           SUBTITLE_PRESC_MCT_ISEEIT15
+LANG_ENGLISH        "^2Soap: ^7Ya lo veo. Cuatro vehículos blindados. Ni rastro de Makarov..."
+
+REFERENCE           SUBTITLE_PRESC_MCT_JUSTLEAVEME75
+LANG_ENGLISH        "^2Soap: ^7¡Déjeme aquí, Price!"
+
+REFERENCE           SUBTITLE_PRESC_MCT_KNOWSYURI910
+LANG_ENGLISH        "^2Soap: ^7Makarov...conoce...a Yuri."
+
+REFERENCE           SUBTITLE_PRESC_MCT_LEAVEME83
+LANG_ENGLISH        "^2Soap: ^7Price..."
+
+REFERENCE           SUBTITLE_PRESC_MCT_LOWERLEFT215
+LANG_ENGLISH        "^2Soap: ^7Abajo a la izquierda, Yuri."
+
+REFERENCE           SUBTITLE_PRESC_MCT_MAKAROV33
+LANG_ENGLISH        "^2Kamarov: ^7Lo siento, Price."
+
+REFERENCE           SUBTITLE_PRESC_MCT_MAKAROVCAR111
+LANG_ENGLISH        "^2Soap: ^7Sí. Ahí está el cabrón. El tercer vehículo."
+
+REFERENCE           SUBTITLE_PRESC_MCT_MAKAROVCONVOY12
+LANG_ENGLISH        "^2Soap: ^7La cita será en el segundo piso."
+
+REFERENCE           SUBTITLE_PRESC_MCT_MAKAROVSAID45
+LANG_ENGLISH        "^2Soap: ^7Yuri... Makarov... dijo..."
+
+REFERENCE           SUBTITLE_PRESC_MCT_NEEDTO55
+LANG_ENGLISH        "^2Soap: ^7Hay que... Nikolai... Salir de aquí..."
+
+REFERENCE           SUBTITLE_PRESC_MCT_ONTOPOFHOTEL27
+LANG_ENGLISH        "^2Soap: ^7En el tejado del hotel."
+
+REFERENCE           SUBTITLE_PRESC_MCT_OUTOFYOURSIGHTS17
+LANG_ENGLISH        "^2Soap: ^7Mantenga la vista clavada en ese convoy."
+
+REFERENCE           SUBTITLE_PRESC_MCT_PRICE2915
+LANG_ENGLISH        "^2Soap: ^7Price..."
+
+REFERENCE           SUBTITLE_PRESC_MCT_PRICE35
+LANG_ENGLISH        "^2Kamarov: ^7Todo..."
+
+REFERENCE           SUBTITLE_PRESC_MCT_PULLITMORE211
+LANG_ENGLISH        "^2Soap: ^7Un poco más a la derecha."
+
+REFERENCE           SUBTITLE_PRESC_MCT_PUTMEDOWN51
+LANG_ENGLISH        "^2Price: ^7Déjelo ahí."
+
+REFERENCE           SUBTITLE_PRESC_MCT_RIGHTATUSPRICE112
+LANG_ENGLISH        "^2Soap: ^7Mierda... me parece que nos está mirando."
+
+REFERENCE           SUBTITLE_PRESC_MCT_SENTRYSBALCONY218
+LANG_ENGLISH        "^2Soap: ^7Espere Price, detectamos actividad en el balcón."
+
+REFERENCE           SUBTITLE_PRESC_MCT_SHITE311
+LANG_ENGLISH        "^2Soap: ^7¡Fuera! ¡Ahora mismo!"
+
+REFERENCE           SUBTITLE_PRESC_MCT_SWITCHITON23
+LANG_ENGLISH        "^2Soap: ^7Quizá ha olvidado encenderlo."
+
+REFERENCE           SUBTITLE_PRESC_MCT_TAKETHEMOUT220
+LANG_ENGLISH        "^2Soap: ^7Yuri, elimine al blanco. Vamos."
+
+REFERENCE           SUBTITLE_PRESC_MCT_TEACHYOU511
+LANG_ENGLISH        "^2Soap: ^7Aún puedo enseñarle un par de cosas, viejo."
+
+REFERENCE           SUBTITLE_PRESC_MCT_TOTHELEFT212
+LANG_ENGLISH        "^2Soap: ^7A la izquierda."
+
+REFERENCE           SUBTITLE_PRESC_MCT_UPALITTLE29
+LANG_ENGLISH        "^2Soap: ^7Súbalo un poco más."
+
+REFERENCE           SUBTITLE_PRESC_MCT_UPANDLEFT213
+LANG_ENGLISH        "^2Soap: ^7Arriba y a la izquierda."
+
+REFERENCE           SUBTITLE_PRESC_MCT_UPANDRIGHT214
+LANG_ENGLISH        "^2Soap: ^7Arriba y a la derecha."
+
+REFERENCE           SUBTITLE_PRESC_MCT_WEGOTYOU217
+LANG_ENGLISH        "^2Soap: ^7Lo tenemos."
+
+REFERENCE           SUBTITLE_PRESC_MCT_YOUNEEDTOKNOW914
+LANG_ENGLISH        "^2Soap: ^7Tengo... que decirle..."
+
+REFERENCE           SUBTITLE_PRESC_MCT_YOURECLEAR2221
+LANG_ENGLISH        "^2Soap: ^7Price, vía libre."
+
+REFERENCE           SUBTITLE_PRESC_MCT_ZOOMINYURI31
+LANG_ENGLISH        "^2Soap: ^7¿Qué coño...? Price, ¿quién es ese?"
+
+REFERENCE           SUBTITLE_PRESC_MED_LIVEONE146
+LANG_ENGLISH        "^2Medic: ^7¡He encontrado a uno vivo!"
+
+REFERENCE           SUBTITLE_PRESC_MKV_ACCOUNTABLE123_2
+LANG_ENGLISH        "^1Makarov: ^7... lo que su gobierno les ha hecho."
+
+REFERENCE           SUBTITLE_PRESC_MKV_CHANGEFOREVER143
+LANG_ENGLISH        "^1Makarov: ^7Lo que ocurra hoy aquí cambiará el mundo para siempre."
+
+REFERENCE           SUBTITLE_PRESC_MKV_DOIT133
+LANG_ENGLISH        "^1Makarov: ^7Hágalo."
+
+REFERENCE           SUBTITLE_PRESC_MKV_EVERYTHINGREADY132
+LANG_ENGLISH        "^1Makarov: ^7¿Está todo listo?"
+
+REFERENCE           SUBTITLE_PRESC_MKV_FINALLYOURPEOPLE123_1
+LANG_ENGLISH        "^1Makarov: ^7Cuando nos ocupemos de los responsables, los nuestros verán..."
+
+REFERENCE           SUBTITLE_PRESC_MKV_IKNOWWHAT141
+LANG_ENGLISH        "^1Makarov: ^7Sé lo que ha hecho, Yuri. Sé muy bien lo que les ha contado."
+
+REFERENCE           SUBTITLE_PRESC_MKV_ITSANATTACK125
+LANG_ENGLISH        "^1Makarov: ^7No!"
+
+REFERENCE           SUBTITLE_PRESC_MKV_LETHIMENJOY145_1
+LANG_ENGLISH        "^1Makarov: ^7Déjelo disfrutar de los últimos momentos."
+
+REFERENCE           SUBTITLE_PRESC_MKV_MONEYCAN127
+LANG_ENGLISH        "^1Makarov: ^7El dinero lo compra todo... incluso poder..."
+
+REFERENCE           SUBTITLE_PRESC_MKV_MYFRIEND142
+LANG_ENGLISH        "^1Makarov: ^7Amigo mío... mi aliado... mi traidor."
+
+REFERENCE           SUBTITLE_PRESC_MKV_NOTEVENYOU145
+LANG_ENGLISH        "^1Makarov: ^7Ni siquiera usted."
+
+REFERENCE           SUBTITLE_PRESC_MKV_NOTHINGCANSTOP144
+LANG_ENGLISH        "^1Makarov: ^7Nada puede impedirlo..."
+
+REFERENCE           SUBTITLE_PRESC_MKV_ONLYBEGINNING135
+LANG_ENGLISH        "^1Makarov: ^7Yuri, entienda que esto... solo es el principio."
+
+REFERENCE           SUBTITLE_PRESC_MKV_ROADTOTHEFUTURE124
+LANG_ENGLISH        "^1Makarov: ^7El camino al futuro empieza aquí, amigo mío..."
+
+REFERENCE           SUBTITLE_PRESC_MKV_TELEPHONE131
+LANG_ENGLISH        "^1Makarov: ^7Deme el teléfono, Yuri... ¡Deme el teléfono!"
+
+REFERENCE           SUBTITLE_PRESC_MKV_TENSOFMILLIONS123
+LANG_ENGLISH        "^1Makarov: ^7Este trato generará millones para nuestra causa..."
+
+REFERENCE           SUBTITLE_PRESC_MKV_WEARELUCKY122
+LANG_ENGLISH        "^1Makarov: ^7Zakhaev no querría que se perdiera esto..."
+
+REFERENCE           SUBTITLE_PRESC_MKV_WELCOMETOHELL37
+LANG_ENGLISH        "^1Makarov: ^7Capitán Price...lo espera el infierno."
+
+REFERENCE           SUBTITLE_PRESC_MKV_YURIMYFRIEND39
+LANG_ENGLISH        "^1Makarov: ^7Yuri, amigo mío... no debería haber venido aquí."
+
+REFERENCE           SUBTITLE_PRESC_MKV_YURIWAKEUP121
+LANG_ENGLISH        "^1Makarov: ^7Yuri, despierte."
+
+REFERENCE           SUBTITLE_PRESC_PRI_ALLAROUNDUS725
+LANG_ENGLISH        "^2Price: ^7¡Nos tienen rodeados!"
+
+REFERENCE           SUBTITLE_PRESC_PRI_ALLCLEAR32
+LANG_ENGLISH        "^2Price: ^7Kamarov."
+
+REFERENCE           SUBTITLE_PRESC_PRI_ALRIGHTKAMAROV21
+LANG_ENGLISH        "^2Price: ^7Muy bien, Kamarov. Su turno..."
+
+REFERENCE           SUBTITLE_PRESC_PRI_ALRIGHTSON612
+LANG_ENGLISH        "^2Price: ^7Aguante, Soap, casi hemos llegado. Solo un poco más."
+
+REFERENCE           SUBTITLE_PRESC_PRI_ALWAYSEXPECT729
+LANG_ENGLISH        "^2Price: ^7¡Tenemos corredores por la derecha!"
+
+REFERENCE           SUBTITLE_PRESC_PRI_BEHINDUS77
+LANG_ENGLISH        "^2Price: ^7¡Detrás de nosotros!"
+
+REFERENCE           SUBTITLE_PRESC_PRI_BOUGHTYOURSELF148
+LANG_ENGLISH        "^2Price: ^7Ha conseguido ganar algo de tiempo..."
+
+REFERENCE           SUBTITLE_PRESC_PRI_BREACHINGNOW222
+LANG_ENGLISH        "^2Price: ^7Voy a entrar."
+
+REFERENCE           SUBTITLE_PRESC_PRI_CHOPPERSCIRCLING316
+LANG_ENGLISH        "^2Price: ^7¡El helicóptero está dando la vuelta! ¡Hay que irse!"
+
+REFERENCE           SUBTITLE_PRESC_PRI_CLEARTHESTORE59
+LANG_ENGLISH        "^2Price: ^7¡Yuri, despeje la zona! ¡Avanzaremos por la izquierda!"
+
+REFERENCE           SUBTITLE_PRESC_PRI_CMONNOW415
+LANG_ENGLISH        "^2Price: ^7¡Por aquí! ¡Vamos, vamos!"
+
+REFERENCE           SUBTITLE_PRESC_PRI_CMONSOAP54
+LANG_ENGLISH        "^2Price: ^7Vamos."
+
+REFERENCE           SUBTITLE_PRESC_PRI_CMONYURI67
+LANG_ENGLISH        "^2Price: ^7¡Vaya a la calle, Yuri!"
+
+REFERENCE           SUBTITLE_PRESC_PRI_COVERLEFT722
+LANG_ENGLISH        "^2Price: ^7¡Yuri, el flanco izquierdo!"
+
+REFERENCE           SUBTITLE_PRESC_PRI_COVEROURSIX78
+LANG_ENGLISH        "^2Price: ^7¡Cubra nuestras 6!"
+
+REFERENCE           SUBTITLE_PRESC_PRI_DAMNIT724
+LANG_ENGLISH        "^2Price: ^7¡Joder!"
+
+REFERENCE           SUBTITLE_PRESC_PRI_DOESNTMATTER24
+LANG_ENGLISH        "^2Price: ^7No importa. Makarov está aquí. Seguiremos adelante con el plan."
+
+REFERENCE           SUBTITLE_PRESC_PRI_DONTGETSKIDDISH113
+LANG_ENGLISH        "^2Price: ^7Calma... no se precipite."
+
+REFERENCE           SUBTITLE_PRESC_PRI_DONTLETTHEM713
+LANG_ENGLISH        "^2Price: ^7¡Al suelo!"
+
+REFERENCE           SUBTITLE_PRESC_PRI_DONTSLOWDOWN611
+LANG_ENGLISH        "^2Price: ^7¡No se detenga!"
+
+REFERENCE           SUBTITLE_PRESC_PRI_DONTTRYTOSPEAK98
+LANG_ENGLISH        "^2Soap: ^7Price... Yuri..."
+
+REFERENCE           SUBTITLE_PRESC_PRI_DONTYOUDARE53
+LANG_ENGLISH        "^2Price: ^7Esto no es seguro. Hay que irse."
+
+REFERENCE           SUBTITLE_PRESC_PRI_DOYOUREAD22
+LANG_ENGLISH        "^2Price: ^7Kamarov, ¿está usted ahí?"
+
+REFERENCE           SUBTITLE_PRESC_PRI_DOYOUSEETARGET110
+LANG_ENGLISH        "^2Price: ^7¿Puede verlo?"
+
+REFERENCE           SUBTITLE_PRESC_PRI_ENEMYVEHICLEAHEAD71
+LANG_ENGLISH        "^2Soap: ^7¡Por allí vienen más!"
+
+REFERENCE           SUBTITLE_PRESC_PRI_EYESONCONVOY14
+LANG_ENGLISH        "^2Price: ^7Atención, el convoy de Makarov acaba de llegar."
+
+REFERENCE           SUBTITLE_PRESC_PRI_FINDSOMEWHERE66
+LANG_ENGLISH        "^2Price: ^7¡Yuri, ocúpese de ellos!"
+
+REFERENCE           SUBTITLE_PRESC_PRI_GETAMEDIC99_1
+LANG_ENGLISH        "^2Price: ^7¡Consiga un sanitario!"
+
+REFERENCE           SUBTITLE_PRESC_PRI_GETBEHINDSTATUE61
+LANG_ENGLISH        "^2Price: ^7¡Nos dirigimos hacia la estatua!"
+
+REFERENCE           SUBTITLE_PRESC_PRI_GETHIMONTABLE91
+LANG_ENGLISH        "^2Price: ^7¡Despejen la mesa!"
+
+REFERENCE           SUBTITLE_PRESC_PRI_GETOFFME913
+LANG_ENGLISH        "^2Price: ^7¡Aléjese de mí!"
+
+REFERENCE           SUBTITLE_PRESC_PRI_GETOFFROAD316_1
+LANG_ENGLISH        "^2Price: ^7¡Un pájaro! ¡Fuera de la carretera!"
+
+REFERENCE           SUBTITLE_PRESC_PRI_GETTINGYOUOUT76
+LANG_ENGLISH        "^2Price: ^7¡No! ¡De esta saldremos todos!"
+
+REFERENCE           SUBTITLE_PRESC_PRI_GIVEMEROOM94
+LANG_ENGLISH        "^2Price: ^7¡Sanitario!"
+
+REFERENCE           SUBTITLE_PRESC_PRI_GONOW811
+LANG_ENGLISH        "^2Price: ^7¡Yuri! ¡Hay que irse ya!"
+
+REFERENCE           SUBTITLE_PRESC_PRI_GRABSOAP44
+LANG_ENGLISH        "^2Price: ^7¡Cójalo! ¡Tenemos que irnos ya!"
+
+REFERENCE           SUBTITLE_PRESC_PRI_HAVETOSTABALIZE93
+LANG_ENGLISH        "^2Price: ^7¡Soap, escúcheme! ¡Se pondrá bien!"
+
+REFERENCE           SUBTITLE_PRESC_PRI_HEADFORTHAT74
+LANG_ENGLISH        "^2Price: ^7¡Vayamos a ese edificio del noroeste!"
+
+REFERENCE           SUBTITLE_PRESC_PRI_HELPDAMNIT916
+LANG_ENGLISH        "^2Price: ^7¡Yuri! ¡Ayúdeme!"
+
+REFERENCE           SUBTITLE_PRESC_PRI_HELPHIM88
+LANG_ENGLISH        "^2Price: ^7¡Tenemos un herido! ¡Métanlo dentro!"
+
+REFERENCE           SUBTITLE_PRESC_PRI_HOLDEMBACK710
+LANG_ENGLISH        "^2Price: ^7¡Conténgalos!"
+
+REFERENCE           SUBTITLE_PRESC_PRI_IGOTYOUSON42
+LANG_ENGLISH        "^2Price: ^7¡Míreme! ¡Se pondrá bien!"
+
+REFERENCE           SUBTITLE_PRESC_PRI_ILLCOVERLEFT720
+LANG_ENGLISH        "^2Price: ^7¡Flanco derecho, Yuri! ¡El izquierdo es mío!"
+
+REFERENCE           SUBTITLE_PRESC_PRI_IMSORRY910
+LANG_ENGLISH        "^2Price: ^7Lo siento..."
+
+REFERENCE           SUBTITLE_PRESC_PRI_INPOSITION25
+LANG_ENGLISH        "^2Price: ^7En posición. ¿Preparados?"
+
+REFERENCE           SUBTITLE_PRESC_PRI_ITSASETUP38
+LANG_ENGLISH        "^2Soap: ^7¡Price!"
+
+REFERENCE           SUBTITLE_PRESC_PRI_ITSTHERESISTANCE286
+LANG_ENGLISH        "^2Price: ^7¡Es la resistencia!"
+
+REFERENCE           SUBTITLE_PRESC_PRI_KEEPMOVING3610
+LANG_ENGLISH        "^2Price: ^7¡Siga adelante!"
+
+REFERENCE           SUBTITLE_PRESC_PRI_KEEPMOVING47
+LANG_ENGLISH        "^2Price: ^7¡No pare! ¡Siga corriendo!"
+
+REFERENCE           SUBTITLE_PRESC_PRI_KEEPONEM279
+LANG_ENGLISH        "^2Price: ^7¡Insista!"
+
+REFERENCE           SUBTITLE_PRESC_PRI_KEEPUP69
+LANG_ENGLISH        "^2Price: ^7¡Aguante!"
+
+REFERENCE           SUBTITLE_PRESC_PRI_LEFTFLANK723
+LANG_ENGLISH        "^2Price: ^7¡Flanco izquierdo!"
+
+REFERENCE           SUBTITLE_PRESC_PRI_LEFTSIDE48
+LANG_ENGLISH        "^2Price: ^7¡A la izquierda!"
+
+REFERENCE           SUBTITLE_PRESC_PRI_LETSGOLETSGO49
+LANG_ENGLISH        "^2Price: ^7¡Venga! ¡Vamos!"
+
+REFERENCE           SUBTITLE_PRESC_PRI_MAKAROVKNOWYOU113
+LANG_ENGLISH        "^2Price: ^7¿Por qué...? ¿De qué cojones lo conoce Makarov?"
+
+REFERENCE           SUBTITLE_PRESC_PRI_MOREONTHEWAY73
+LANG_ENGLISH        "^2Soap: ^7De dónde saldrán tantos..."
+
+REFERENCE           SUBTITLE_PRESC_PRI_MOREREINFORCEMENTS718
+LANG_ENGLISH        "^2Price: ^7¡Más refuerzos!"
+
+REFERENCE           SUBTITLE_PRESC_PRI_MOVESOAP810
+LANG_ENGLISH        "^2Price: ^7¡Yuri! ¡Hay que trasladar a Soap! ¡Venga aquí y cúbranos!"
+
+REFERENCE           SUBTITLE_PRESC_PRI_MOVINGSOAP812
+LANG_ENGLISH        "^2Price: ^7¡Yuri, nos llevamos a Soap! ¡Ojo a las seis!"
+
+REFERENCE           SUBTITLE_PRESC_PRI_NEEDYOURHELP912
+LANG_ENGLISH        "^2Price: ^7¿Qué cojones hace, Yuri? ¡Necesito su ayuda!"
+
+REFERENCE           SUBTITLE_PRESC_PRI_NICEONE510
+LANG_ENGLISH        "^2Price: ^7Buen tiro, hijo."
+
+REFERENCE           SUBTITLE_PRESC_PRI_NOSIGN34
+LANG_ENGLISH        "^2Price: ^7Kamarov... ¿qué les ha contado?"
+
+REFERENCE           SUBTITLE_PRESC_PRI_NOTANOPTION84
+LANG_ENGLISH        "^2Price: ^7¡Al suelo!"
+
+REFERENCE           SUBTITLE_PRESC_PRI_OKYURI147
+LANG_ENGLISH        "^2Price: ^7Bien, Yuri..."
+
+REFERENCE           SUBTITLE_PRESC_PRI_ONFOOT56
+LANG_ENGLISH        "^2Price: ^7Makarov tiene oídos en todas partes. Seguiremos a pie hasta salir de la ciudad."
+
+REFERENCE           SUBTITLE_PRESC_PRI_ONTHEROOF63
+LANG_ENGLISH        "^2Soap: ^7¡El tejado! A la derecha..."
+
+REFERENCE           SUBTITLE_PRESC_PRI_OVERHERENOW911
+LANG_ENGLISH        "^2Price: ^7¡Yuri, venga de una vez!"
+
+REFERENCE           SUBTITLE_PRESC_PRI_PICKHIMUP413
+LANG_ENGLISH        "^2Price: ^7¡Agárrelo!"
+
+REFERENCE           SUBTITLE_PRESC_PRI_PICKUPTHEPACE410
+LANG_ENGLISH        "^2Price: ^7¡Corra más rápido, Yuri!"
+
+REFERENCE           SUBTITLE_PRESC_PRI_PUTPRESSURE96
+LANG_ENGLISH        "^2Price: ^7¡Presione bien la herida!"
+
+REFERENCE           SUBTITLE_PRESC_PRI_REINFORCEMENTSRIGHT64
+LANG_ENGLISH        "^2Price: ^7No podemos quedarnos. Vamos, por aquí."
+
+REFERENCE           SUBTITLE_PRESC_PRI_RIGHTFLANK721
+LANG_ENGLISH        "^2Price: ^7¡Flanco derecho!"
+
+REFERENCE           SUBTITLE_PRESC_PRI_RUSIANBASTARD918
+LANG_ENGLISH        "^2Price: ^7Maldito... ruso... de mierda..."
+
+REFERENCE           SUBTITLE_PRESC_PRI_SHITE711
+LANG_ENGLISH        "^2Price: ^7¡Mierda!"
+
+REFERENCE           SUBTITLE_PRESC_PRI_SOAP41
+LANG_ENGLISH        "^2Price: ^7¡Soap!"
+
+REFERENCE           SUBTITLE_PRESC_PRI_SOAPSOAP92
+LANG_ENGLISH        "^2Price: ^7¡Soap!"
+
+REFERENCE           SUBTITLE_PRESC_PRI_SOAPTRUSTEDYOU111
+LANG_ENGLISH        "^2Price: ^7Soap confiaba en usted..."
+
+REFERENCE           SUBTITLE_PRESC_PRI_SORRYSOAP912
+LANG_ENGLISH        "^2Price: ^7Lo siento, Soap."
+
+REFERENCE           SUBTITLE_PRESC_PRI_SORRYSON911
+LANG_ENGLISH        "^2Price: ^7Lo siento, hijo."
+
+REFERENCE           SUBTITLE_PRESC_PRI_STAYONEMYURI62
+LANG_ENGLISH        "^2Price: ^7¡Líbrenos de ellos!"
+
+REFERENCE           SUBTITLE_PRESC_PRI_STAYWITHME99_2
+LANG_ENGLISH        "^2Price: ^7¡Vamos, quédese conmigo!"
+
+REFERENCE           SUBTITLE_PRESC_PRI_TAKEPOINT57
+LANG_ENGLISH        "^2Price: ^7Yuri, adelántese y cúbranos."
+
+REFERENCE           SUBTITLE_PRESC_PRI_TELLMELATER99
+LANG_ENGLISH        "^2Price: ^7¡Vamos! ¡Quédese conmigo!"
+
+REFERENCE           SUBTITLE_PRESC_PRI_THERESTOOMANY714
+LANG_ENGLISH        "^2Price: ^7¡Lo conseguimos, Soap! ¡Resista!"
+
+REFERENCE           SUBTITLE_PRESC_PRI_THEYREHERE58
+LANG_ENGLISH        "^2Price: ^7¡Yuri, suba allí!"
+
+REFERENCE           SUBTITLE_PRESC_PRI_THISWAY272
+LANG_ENGLISH        "^2Price: ^7¡A la izquierda! ¡Por el edificio!"
+
+REFERENCE           SUBTITLE_PRESC_PRI_THISWAY414
+LANG_ENGLISH        "^2Price: ^7¡Por aquí!"
+
+REFERENCE           SUBTITLE_PRESC_PRI_THOUGHTICOULDTOO112
+LANG_ENGLISH        "^2Price: ^7Yo también lo hacía..."
+
+REFERENCE           SUBTITLE_PRESC_PRI_THROWINGSMOKE417
+LANG_ENGLISH        "^2Price: ^7¡Lanzando humo!"
+
+REFERENCE           SUBTITLE_PRESC_PRI_TOOSMART730
+LANG_ENGLISH        "^2Price: ^7¡Están retrocediendo!"
+
+REFERENCE           SUBTITLE_PRESC_PRI_TRYINGTORUSH719
+LANG_ENGLISH        "^2Price: ^7¡Pretenden arrollarnos!"
+
+REFERENCE           SUBTITLE_PRESC_PRI_UAZREINFORCE712
+LANG_ENGLISH        "^2Soap: ^7¡Price... un UAZ!"
+
+REFERENCE           SUBTITLE_PRESC_PRI_WAITINGFOR917
+LANG_ENGLISH        "^2Price: ^7¿A qué diablos espera?"
+
+REFERENCE           SUBTITLE_PRESC_PRI_WATCHINGYOU149
+LANG_ENGLISH        "^2Price: ^7Por ahora..."
+
+REFERENCE           SUBTITLE_PRESC_PRI_WEHAVETOGETOFF36
+LANG_ENGLISH        "^2Price: ^7¡Tenemos que bajar a la calle!"
+
+REFERENCE           SUBTITLE_PRESC_PRI_WENEEDTO613
+LANG_ENGLISH        "^2Price: ^7¡Debemos darnos prisa!"
+
+REFERENCE           SUBTITLE_PRESC_PRI_WERELEAVING89
+LANG_ENGLISH        "^2Resistance Leader: ^7¡Es nuestro! ¡Retrocedan!"
+
+REFERENCE           SUBTITLE_PRESC_PRI_WHATSTAKING28
+LANG_ENGLISH        "^2Soap: ^7Busque a Price, tenemos que cubrirlo."
+
+REFERENCE           SUBTITLE_PRESC_PRI_WHEREAREYOUGOING727
+LANG_ENGLISH        "^2Price: ^7¿Adónde cree que va?"
+
+REFERENCE           SUBTITLE_PRESC_PRI_YOUBASTARD728
+LANG_ENGLISH        "^2Price: ^7¡Yuri, maldito cobarde!"
+
+REFERENCE           SUBTITLE_PRESC_PRI_YURI43
+LANG_ENGLISH        "^2Price: ^7¡Yuri!"
+
+REFERENCE           SUBTITLE_PRESC_PRI_YURIGETBACKHERE726
+LANG_ENGLISH        "^2Price: ^7¡Yuri! ¡Vuelva aquí!"
+
+REFERENCE           SUBTITLE_PRESC_PRI_YURIGETOVERHERE285
+LANG_ENGLISH        "^2Price: ^7¡Yuri! ¡Lo quiero aquí!"
+
+REFERENCE           SUBTITLE_PRESC_PRI_YURIGETOVERHERE95
+LANG_ENGLISH        "^2Price: ^7¡Yuri! ¡Lo quiero aquí!"
+
+REFERENCE           SUBTITLE_PRESC_PRI_YURIMOVE46
+LANG_ENGLISH        "^2Price: ^7¡Yuri! ¡Vámonos!"
+
+REFERENCE           SUBTITLE_PRESC_PRI_YURIMOVEYOUR411
+LANG_ENGLISH        "^2Price: ^7¡Joder, Yuri! ¡Mueva el culo!"
+
+REFERENCE           SUBTITLE_PRESC_PRI_YURIOPENIT104
+LANG_ENGLISH        "^2Price: ^7¡Yuri! ¡Abra!"
+
+REFERENCE           SUBTITLE_PRESC_RL_GETOUT105
+LANG_ENGLISH        "^2Resistance Leader: ^7Salga de aquí. ¡Vamos!"
+
+REFERENCE           SUBTITLE_PRESC_RL_GETUSOUT126
+LANG_ENGLISH        "^2Zakhaev: ^7¡Sáquennos de aquí!"
+
+REFERENCE           SUBTITLE_PRESC_RL_HAVETOGO102
+LANG_ENGLISH        "^2Resistance Leader: ^7¡Tienen que irse ya!"
+
+REFERENCE           SUBTITLE_PRESC_RL_PRICE101
+LANG_ENGLISH        "^2Resistance Leader: ^7¡Price!"
+
+REFERENCE           SUBTITLE_PRESC_RL_THISWAY103
+LANG_ENGLISH        "^2Resistance Leader: ^7¡Price! Por aquí."
+
+REFERENCE           SUBTITLE_PRESC_ZKV_DRIVE126_1
+LANG_ENGLISH        "^2Zakhaev: ^7¡Acelere!"
+
+ENDMARKER

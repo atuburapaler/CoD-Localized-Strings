@@ -1,0 +1,739 @@
+// Dumped from fastfile "rescue_2".
+// In their original format the strings might have been separated in multiple files.
+VERSION             "1"
+CONFIG              "C:/trees/cod3/cod3/bin/StringEd.cfg"
+FILENOTES           ""
+
+REFERENCE           HELLFIRE_DESTROYED
+LANG_ENGLISH        "El dron Predator ha sido destruido."
+
+REFERENCE           HELLFIRE_DRONE_NOT_AVAILABLE
+LANG_ENGLISH        "El dron Predator no está disponible."
+
+REFERENCE           HELLFIRE_DRONE_VIEW
+LANG_ENGLISH        "CÁMARA: UAV_DRONE_011"
+
+REFERENCE           HELLFIRE_FIRE
+LANG_ENGLISH        "-MISIL LANZADO-"
+
+REFERENCE           HELLFIRE_MISSILE_VIEW
+LANG_ENGLISH        "CÁMARA: MISIL"
+
+REFERENCE           HELLFIRE_RELOADING
+LANG_ENGLISH        "-MISIL RECARGANDO-"
+
+REFERENCE           HELLFIRE_RELOADING_WITH_TIME
+LANG_ENGLISH        "RECARGA DE MISIL: "
+
+REFERENCE           HELLFIRE_USE_DRONE
+LANG_ENGLISH        "Pulsa ^3[{+actionslot 4}]^7 para controlar el dron Predator."
+
+REFERENCE           HELLFIRE_USE_DRONE_2
+LANG_ENGLISH        "Pulsa ^3[{+actionslot 2}]^7 para controlar el dron Predator."
+
+REFERENCE           RESCUE_2_FRIENDLY_FIRE
+LANG_ENGLISH        "Misión fallida. Has matado al presidente."
+
+REFERENCE           RESCUE_2_FRIENDLY_FIRE_WILL_NOT
+LANG_ENGLISH        "No se permitirá el fuego amigo."
+
+REFERENCE           RESCUE_2_HINT_SHOOT_PREDATOR
+LANG_ENGLISH        "Pulsa ^3[{+attack}]^7 para disparar Predator."
+
+REFERENCE           RESCUE_2_ICON_DEFEND
+LANG_ENGLISH        "Defender"
+
+REFERENCE           RESCUE_2_ICON_PROTECT
+LANG_ENGLISH        "Protege"
+
+REFERENCE           RESCUE_2_ICON_RESCUE
+LANG_ENGLISH        "Rescata"
+
+REFERENCE           RESCUE_2_INTROSCREEN_LINE_1
+LANG_ENGLISH        "\"Por la madriguera\""
+
+REFERENCE           RESCUE_2_INTROSCREEN_LINE_2
+LANG_ENGLISH        "14 de octubre, 11:08:[{FAKE_INTRO_SECONDS:11}]"
+
+REFERENCE           RESCUE_2_INTROSCREEN_LINE_3
+LANG_ENGLISH        "Yuri"
+
+REFERENCE           RESCUE_2_INTROSCREEN_LINE_4
+LANG_ENGLISH        "Delta Force/Fuerza operativa 141-Renegados"
+
+REFERENCE           RESCUE_2_INTROSCREEN_LINE_5
+LANG_ENGLISH        "Siberia oriental, Rusia"
+
+REFERENCE           RESCUE_2_OBJ_1
+LANG_ENGLISH        "Encuentra al presidente\n"
+
+REFERENCE           RESCUE_2_OBJ_10
+LANG_ENGLISH        "Actúa como francotirador hasta que el UAV esté listo\n"
+
+REFERENCE           RESCUE_2_OBJ_110
+LANG_ENGLISH        "Encuentra y rescata al presidente Vorshevsky"
+
+REFERENCE           RESCUE_2_OBJ_111
+LANG_ENGLISH        "Escapa con el presidente"
+
+REFERENCE           RESCUE_2_OBJ_2
+LANG_ENGLISH        "Encuentra otra salida de las cuevas"
+
+REFERENCE           RESCUE_2_OBJ_3
+LANG_ENGLISH        "Espera a la conexión del UAV"
+
+REFERENCE           RESCUE_2_OBJ_4
+LANG_ENGLISH        "Destruye los blancos difíciles"
+
+REFERENCE           RESCUE_2_OBJ_5
+LANG_ENGLISH        "Suaviza las posiciones enemigas"
+
+REFERENCE           RESCUE_2_PRESIDENT_GOT_AWAY
+LANG_ENGLISH        "Has tardado demasiado. Se han escapado con el presidente."
+
+REFERENCE           RESCUE_2_PRESIDENT_WAS_KILLED
+LANG_ENGLISH        "Misión fallida. El presidente ha muerto."
+
+REFERENCE           RESCUE_2_RAPPEL_HINT
+LANG_ENGLISH        "Mantén [{+activate}] para bajar por la cuerda"
+
+REFERENCE           RESCUE_2_TARGET
+LANG_ENGLISH        "Blanco"
+
+REFERENCE           RESCUE_2_THERMITE_HINT
+LANG_ENGLISH        "Mantén [{+activate}] para colocar la carga de termita."
+
+REFERENCE           RESCUE_2_YOUR_ACTIONS_GOT_CPT
+LANG_ENGLISH        "Tus actos han provocado la muerte de Price."
+
+REFERENCE           RESCUE_2_YOUR_ACTIONS_GOT_RES
+LANG_ENGLISH        "Tus actos han puesto la misión en peligro."
+
+REFERENCE           SUBTITLE_RESCUE_BHP_HANGON283
+LANG_ENGLISH        "^2Hammer 1-6: ^7¡Agárrense!"
+
+REFERENCE           SUBTITLE_RESCUE_BHP_MOVENOW286
+LANG_ENGLISH        "^2Hammer 1-6: ^7¡Tiene razón! ¡Debemos irnos ya!"
+
+REFERENCE           SUBTITLE_RESCUE_BHP_PULLUP254
+LANG_ENGLISH        "^2Hammer 1-6: ^7¡Arriba! ¡Arriba!"
+
+REFERENCE           SUBTITLE_RESCUE_HP1_ALMOSTTHERE123
+LANG_ENGLISH        "^2Hammer 1-6: ^7Ya casi estoy. Aguanten."
+
+REFERENCE           SUBTITLE_RESCUE_HP1_GETOUTTAHERE125
+LANG_ENGLISH        "^2Hammer 1-6: ^7Metal 0-1, les habla Vulture 6. Vámonos de aquí echando leches."
+
+REFERENCE           SUBTITLE_RESCUE_HP2_GOTTALEAVE285_1
+LANG_ENGLISH        "^2Hammer 1-6: ^7¡No podemos quedarnos! ¡Debemos irnos!"
+
+REFERENCE           SUBTITLE_RESCUE_HP2_HANGON266_3
+LANG_ENGLISH        "^2Hammer 1-6: ^7¡Agárrense!"
+
+REFERENCE           SUBTITLE_RESCUE_HP2_PRESIDENTON258
+LANG_ENGLISH        "^2Hammer 1-6: ^7Suban al presidente. ¡Tenemos que salir pitando de aquí!"
+
+REFERENCE           SUBTITLE_RESCUE_HP2_RPGMOVE266_2
+LANG_ENGLISH        "^2Hammer 1-6: ^7¡RPG! ¡Vamos, deprisa!"
+
+REFERENCE           SUBTITLE_RESCUE_HP2_TOOHOT287_2
+LANG_ENGLISH        "^2Hammer 1-6: ^7¡Es muy peligroso! ¡O volvemos o morimos!"
+
+REFERENCE           SUBTITLE_RESCUE_HQR_CHOPAPREDATOR52
+LANG_ENGLISH        "^2Overlord: ^7Afirmativo, Sandman. Vamos a mandarles un Predator."
+
+REFERENCE           SUBTITLE_RESCUE_HQR_EXTRACTIONPOINT112
+LANG_ENGLISH        "^2Overlord: ^7Recibido. Lleve su equipo al punto de reunión."
+
+REFERENCE           SUBTITLE_RESCUE_HQR_FIVEPLUSKILLS512
+LANG_ENGLISH        "^2Overlord: ^7Al menos cinco bajas confirmadas."
+
+REFERENCE           SUBTITLE_RESCUE_HQR_FULLAGMS54_10
+LANG_ENGLISH        "^2Overlord: ^7UAV en posición con una carga de AGM. Listo para blancos."
+
+REFERENCE           SUBTITLE_RESCUE_HQR_GOODHIT514
+LANG_ENGLISH        "^2Overlord: ^7Buen tiro.  "
+
+REFERENCE           SUBTITLE_RESCUE_HQR_NICEWORK513
+LANG_ENGLISH        "^2Overlord: ^7Buen trabajo. Bajas múltiples."
+
+REFERENCE           SUBTITLE_RESCUE_HQR_ONSTATION112_1
+LANG_ENGLISH        "^2Overlord: ^7Hammer 4 listo para la extracción en dos minutos."
+
+REFERENCE           SUBTITLE_RESCUE_HQR_PAYLOADTARGET61_13
+LANG_ENGLISH        "^2Overlord: ^7Recibido, Sandman. Odin 6, las coordenadas del blanco son las siguientes: siete, nueve, cuatro, cuatro."
+
+REFERENCE           SUBTITLE_RESCUE_HQR_SECUREDPRESIDENT74
+LANG_ENGLISH        "^2Overlord: ^7Metal 0-1, informe. ¿Han conseguido poner a salvo al presidente?"
+
+REFERENCE           SUBTITLE_RESCUE_HQR_SENDINATEAM76
+LANG_ENGLISH        "^2Overlord: ^7Prepararemos un equipo de extracción. Sigan buscando al presidente."
+
+REFERENCE           SUBTITLE_RESCUE_HQR_THATSAMISS515
+LANG_ENGLISH        "^2Overlord: ^7Ha fallado."
+
+REFERENCE           SUBTITLE_RESCUE_HQR_TWOBIRDS115
+LANG_ENGLISH        "^2Overlord: ^7Recibido. Hammer 1 en camino. Llegará en treinta segundos. Espere."
+
+REFERENCE           SUBTITLE_RESCUE_HQR_ZEROKILLS516
+LANG_ENGLISH        "^2Overlord: ^7Cero bajas.  "
+
+REFERENCE           SUBTITLE_RESCUE_LBP_GOINDOWN256
+LANG_ENGLISH        "^2Vulture 6-1: ^7¡Estoy cayendo!"
+
+REFERENCE           SUBTITLE_RESCUE_LBP_IMHIT255
+LANG_ENGLISH        "^2Vulture 6-1: ^7¡Me han alcanzado!"
+
+REFERENCE           SUBTITLE_RESCUE_LP1_NEXTAREA61_5
+LANG_ENGLISH        "^2Viper 6-1: ^7Recibido, 0-1. Vamos a la siguiente zona."
+
+REFERENCE           SUBTITLE_RESCUE_MCY_LOOKOUT19
+LANG_ENGLISH        "^2McCoy: ^7¡Cuidado!"
+
+REFERENCE           SUBTITLE_RESCUE_NWS_GATHEREDTODAY291
+LANG_ENGLISH        "^2US News Reporter: ^7Miles de personas se han reunido para recibir al presidente Vorshevsky tras su regreso a Moscú..."
+
+REFERENCE           SUBTITLE_RESCUE_NWS_OTHERNEWS293
+LANG_ENGLISH        "^2US News Reporter: ^7Por otra parte, el líder ultranacionalista Vladamir Makarov sigue desaparecido."
+
+REFERENCE           SUBTITLE_RESCUE_NWS_REPORTSCONFIRM292
+LANG_ENGLISH        "^2US News Reporter: ^7... Los datos confirman que van a iniciarse conversaciones de paz entre Rusia y Estados Unidos..."
+
+REFERENCE           SUBTITLE_RESCUE_PRI_AREYOUHURT1012
+LANG_ENGLISH        "^2Price: ^7¿Está bien? ¿Alguna herida?"
+
+REFERENCE           SUBTITLE_RESCUE_PRI_BACKDOWN287_1
+LANG_ENGLISH        "^2Price: ^7¡Vuelva a bajarnos ahí!"
+
+REFERENCE           SUBTITLE_RESCUE_PRI_BETTERBE267
+LANG_ENGLISH        "^2Price: ^7¡Será mejor que me siga!"
+
+REFERENCE           SUBTITLE_RESCUE_PRI_BLOODY73
+LANG_ENGLISH        "^2Truck: ^7¡Espere!"
+
+REFERENCE           SUBTITLE_RESCUE_PRI_BLOODYDOORSOPEN22_7
+LANG_ENGLISH        "^2Price: ^7¡Abra esas malditas puertas!"
+
+REFERENCE           SUBTITLE_RESCUE_PRI_BREACHUPTOP232
+LANG_ENGLISH        "^2Price: ^7Sí. Arriba. Vamos."
+
+REFERENCE           SUBTITLE_RESCUE_PRI_CANTBREAK231
+LANG_ENGLISH        "^2Price: ^7Es acero reforzado. ¡No podemos pasar!"
+
+REFERENCE           SUBTITLE_RESCUE_PRI_CHARGESHERE233
+LANG_ENGLISH        "^2Price: ^7¡Cargas aquí, aquí y aquí!"
+
+REFERENCE           SUBTITLE_RESCUE_PRI_COMEIN302
+LANG_ENGLISH        "^2Price: ^7Sandman... ¡Responda!"
+
+REFERENCE           SUBTITLE_RESCUE_PRI_DEATHTRAP22
+LANG_ENGLISH        "^2Truck: ^7¡Agárrense!"
+
+REFERENCE           SUBTITLE_RESCUE_PRI_DIAMONDMINE11
+LANG_ENGLISH        "^2Grinch: ^7¿Esto no va más rápido?"
+
+REFERENCE           SUBTITLE_RESCUE_PRI_DOIT1010
+LANG_ENGLISH        "^2Price: ^7Hágalo."
+
+REFERENCE           SUBTITLE_RESCUE_PRI_DONTTHINK263
+LANG_ENGLISH        "^2Price: ^7¡Ni lo piense, amigo! ¡Estamos juntos en esto!"
+
+REFERENCE           SUBTITLE_RESCUE_PRI_DOYOUCOPY303
+LANG_ENGLISH        "^2Price: ^7Sandman... ¿Me oye?"
+
+REFERENCE           SUBTITLE_RESCUE_PRI_EVERYONEALRIGHT22_3
+LANG_ENGLISH        "^2Price: ^7¿Todos bien?"
+
+REFERENCE           SUBTITLE_RESCUE_PRI_GETUPHERE117
+LANG_ENGLISH        "^2Price: ^7¡Yuri, baje aquí!  "
+
+REFERENCE           SUBTITLE_RESCUE_PRI_GO54
+LANG_ENGLISH        "^2Price: ^7Je... No se quede atrás."
+
+REFERENCE           SUBTITLE_RESCUE_PRI_GOGO124_2
+LANG_ENGLISH        "^2Price: ^7¡Vamos! ¡Vamos!"
+
+REFERENCE           SUBTITLE_RESCUE_PRI_HEAVYFIRE61_16
+LANG_ENGLISH        "^2Price: ^7¡Necesitaremos más potencia de fuego para poder entrar ahí!"
+
+REFERENCE           SUBTITLE_RESCUE_PRI_KEEPGOING61_3
+LANG_ENGLISH        "^2Price: ^7¡Adelante!"
+
+REFERENCE           SUBTITLE_RESCUE_PRI_KEEPMOVING42
+LANG_ENGLISH        "^2Price: ^7¡Siga adelante!"
+
+REFERENCE           SUBTITLE_RESCUE_PRI_MORELIKEIT61_17
+LANG_ENGLISH        "^2Price: ^7¡Así me gusta!"
+
+REFERENCE           SUBTITLE_RESCUE_PRI_MOVEMOVE237
+LANG_ENGLISH        "^2Price: ^7¡Deprisa! ¡Deprisa!"
+
+REFERENCE           SUBTITLE_RESCUE_PRI_MOVEMOVE246
+LANG_ENGLISH        "^2Price: ^7¡Deprisa! ¡Deprisa!"
+
+REFERENCE           SUBTITLE_RESCUE_PRI_NO287
+LANG_ENGLISH        "^2Price: ^7¡No!"
+
+REFERENCE           SUBTITLE_RESCUE_PRI_NOTTOOLATE82_2
+LANG_ENGLISH        "^2Price: ^7¡Entonces no es tarde! ¡Sigan avanzando!"
+
+REFERENCE           SUBTITLE_RESCUE_PRI_NOW15_1
+LANG_ENGLISH        "^2Price: ^7¡Ahora!"
+
+REFERENCE           SUBTITLE_RESCUE_PRI_ONME24
+LANG_ENGLISH        "^2Price: ^7¡Todos los demás, síganme!"
+
+REFERENCE           SUBTITLE_RESCUE_PRI_ONTHECATWALK85
+LANG_ENGLISH        "^2Price: ^7¡En la pasarela!"
+
+REFERENCE           SUBTITLE_RESCUE_PRI_OPENITUP72
+LANG_ENGLISH        "^2Price: ^7Yuri, ocúpese de la puerta."
+
+REFERENCE           SUBTITLE_RESCUE_PRI_OPENITUPYURI72_1
+LANG_ENGLISH        "^2Price: ^7Ábrala, Yuri."
+
+REFERENCE           SUBTITLE_RESCUE_PRI_README301
+LANG_ENGLISH        "^2Price: ^7Sandman, ¿me recibe?"
+
+REFERENCE           SUBTITLE_RESCUE_PRI_RIGHTSIDE33_2
+LANG_ENGLISH        "^2Price: ^7Nosotros por la derecha. Venga, Yuri."
+
+REFERENCE           SUBTITLE_RESCUE_PRI_SANDMAN1305
+LANG_ENGLISH        "^2Price: ^7¿Sandman?"
+
+REFERENCE           SUBTITLE_RESCUE_PRI_SANDMAN2306
+LANG_ENGLISH        "^2Price: ^7¡¿Sandman?!"
+
+REFERENCE           SUBTITLE_RESCUE_PRI_SHESALIVE243
+LANG_ENGLISH        "^2Price: ^7Está bien. Está viva."
+
+REFERENCE           SUBTITLE_RESCUE_PRI_SHESSTILLALIVE73_2
+LANG_ENGLISH        "^2Price: ^7Todavía está viva."
+
+REFERENCE           SUBTITLE_RESCUE_PRI_SNIPERSONLEFT61_9
+LANG_ENGLISH        "^2Price: ^7¡Francotiradores! ¡Izquierda!"
+
+REFERENCE           SUBTITLE_RESCUE_PRI_SORTEMOUT33
+LANG_ENGLISH        "^2Price: ^7¡Liquídenlos!"
+
+REFERENCE           SUBTITLE_RESCUE_PRI_STILLTHERE304
+LANG_ENGLISH        "^2Price: ^7Sandman... ¿sigue ahí?"
+
+REFERENCE           SUBTITLE_RESCUE_PRI_TAKEOUTLASTGROUP59
+LANG_ENGLISH        "^2Overlord: ^7Misiles Predator en línea."
+
+REFERENCE           SUBTITLE_RESCUE_PRI_THRUTHATDOOR33_4
+LANG_ENGLISH        "^2Price: ^7Ha ido por esa puerta."
+
+REFERENCE           SUBTITLE_RESCUE_PRI_TIMETOGO281
+LANG_ENGLISH        "^2Price: ^7¡Sandman! ¡Es hora de irse! ¡Vamos!"
+
+REFERENCE           SUBTITLE_RESCUE_PRI_WASTINGTIME510
+LANG_ENGLISH        "^2Overlord: ^7Dron Predator listo para más blancos."
+
+REFERENCE           SUBTITLE_RESCUE_PRI_WAYACROSS12
+LANG_ENGLISH        "^2Sandman: ^7Calma, Grinch..."
+
+REFERENCE           SUBTITLE_RESCUE_PRI_WHEREAREYOUGOING727
+LANG_ENGLISH        "^2Price: ^7¿Adónde cree que va?"
+
+REFERENCE           SUBTITLE_RESCUE_PRI_YURIGETBACKHERE726
+LANG_ENGLISH        "^2Price: ^7¡Yuri! ¡Vuelva aquí!"
+
+REFERENCE           SUBTITLE_RESCUE_PRI_YURISDOWN257
+LANG_ENGLISH        "^2Price: ^7¡Yuri! ¡Yuri!"
+
+REFERENCE           SUBTITLE_RESCUE_PRS_DAUGHTER242
+LANG_ENGLISH        "^2Russian President: ^7Mi hija..."
+
+REFERENCE           SUBTITLE_RESCUE_RNO_12OCLOCK16
+LANG_ENGLISH        "^2Grinch: ^7¡Contacto! ¡A las doce!"
+
+REFERENCE           SUBTITLE_RESCUE_RNO_ALLCLEAR33_3
+LANG_ENGLISH        "^2Truck: ^7Despejado."
+
+REFERENCE           SUBTITLE_RESCUE_RNO_BREACHCLEAR72_3
+LANG_ENGLISH        "^2Grinch: ^7¡Irrumpa y despeje! ¿A qué espera?"
+
+REFERENCE           SUBTITLE_RESCUE_RNO_BRIGHTIDEAS231_1
+LANG_ENGLISH        "^2Grinch: ^7¿Alguna idea?"
+
+REFERENCE           SUBTITLE_RESCUE_RNO_CLEAR1011
+LANG_ENGLISH        "^2Grinch: ^7¡Despejado!"
+
+REFERENCE           SUBTITLE_RESCUE_RNO_CLEAR2245_1
+LANG_ENGLISH        "^2Grinch: ^7¡Despejado!"
+
+REFERENCE           SUBTITLE_RESCUE_RNO_CLOSINGDOORS41
+LANG_ENGLISH        "^2Truck: ^7¡Están cerrando las puertas!"
+
+REFERENCE           SUBTITLE_RESCUE_RNO_DOORSOPENING69
+LANG_ENGLISH        "^2Price: ^7¡La puerta está abierta!"
+
+REFERENCE           SUBTITLE_RESCUE_RNO_ENEMIESONFLANK121
+LANG_ENGLISH        "^2Grinch: ^7¡Ojo al flanco izquierdo!"
+
+REFERENCE           SUBTITLE_RESCUE_RNO_GONNABETOUGH76_1
+LANG_ENGLISH        "^2Grinch: ^7Qué raro... El rastreador está aquí. ¿Dónde está él?"
+
+REFERENCE           SUBTITLE_RESCUE_RNO_GOTTAGO244_1
+LANG_ENGLISH        "^2Grinch: ^7¡Debemos irnos ya!"
+
+REFERENCE           SUBTITLE_RESCUE_RNO_HELP272
+LANG_ENGLISH        "^2Grinch: ^7¡Fuera!"
+
+REFERENCE           SUBTITLE_RESCUE_RNO_HIND61_6
+LANG_ENGLISH        "^2Grinch: ^7¡Viene un Hind!"
+
+REFERENCE           SUBTITLE_RESCUE_RNO_HOPETHISWORKS109
+LANG_ENGLISH        "^2Grinch: ^7Ojalá funcione..."
+
+REFERENCE           SUBTITLE_RESCUE_RNO_HOTDAMN61_15
+LANG_ENGLISH        "^2Grinch: ^7Joder."
+
+REFERENCE           SUBTITLE_RESCUE_RNO_IMGOOD22_4
+LANG_ENGLISH        "^2Grinch: ^7Estoy bien."
+
+REFERENCE           SUBTITLE_RESCUE_RNO_ISEEEM32
+LANG_ENGLISH        "^2Grinch: ^7¡Los veo!"
+
+REFERENCE           SUBTITLE_RESCUE_RNO_LZISHOT123_1
+LANG_ENGLISH        "^2Grinch: ^7¡Z-A peligrosa! ¡Espero que sepan adónde disparan!"
+
+REFERENCE           SUBTITLE_RESCUE_RNO_NEEDANOTHERWAY43
+LANG_ENGLISH        "^2Grinch: ^7¡Tendremos que encontrar otra salida!"
+
+REFERENCE           SUBTITLE_RESCUE_RNO_NOTGONNAMAKEIT116_1
+LANG_ENGLISH        "^2Grinch: ^7¡No llegaremos mucho más lejos!"
+
+REFERENCE           SUBTITLE_RESCUE_RNO_OPENDOOR72_2
+LANG_ENGLISH        "^2Grinch: ^7¡No tenemos tiempo! ¡Abra la puta puerta!"
+
+REFERENCE           SUBTITLE_RESCUE_RNO_PRESSECURE259
+LANG_ENGLISH        "^2Grinch: ^7¡Presidente asegurado!"
+
+REFERENCE           SUBTITLE_RESCUE_RNO_RPG282
+LANG_ENGLISH        "^2Grinch: ^7¡RPG!"
+
+REFERENCE           SUBTITLE_RESCUE_RNO_SECONDARIES54_8
+LANG_ENGLISH        "^2Grinch: ^7¡Secundarios!"
+
+REFERENCE           SUBTITLE_RESCUE_RNO_STRAGLERS613
+LANG_ENGLISH        "^2Grinch: ^7¡Tenemos rezagados!"
+
+REFERENCE           SUBTITLE_RESCUE_RNO_THEREHEIS82_1
+LANG_ENGLISH        "^2Grinch: ^7¡Ahí está! ¡Lo veo!"
+
+REFERENCE           SUBTITLE_RESCUE_RNO_THEREITIS84
+LANG_ENGLISH        "^2Truck: ^7¡Está ahí! ¡Justo ahí!"
+
+REFERENCE           SUBTITLE_RESCUE_RNO_THERETHEYARE221
+LANG_ENGLISH        "^2Grinch: ^7¡Ahí están!"
+
+REFERENCE           SUBTITLE_RESCUE_RNO_WERECLEAR22_10
+LANG_ENGLISH        "^2Grinch: ^7¡Despejado!"
+
+REFERENCE           SUBTITLE_RESCUE_SND_ANOTHERWAY61_12
+LANG_ENGLISH        "^2Sandman: ^7¡Necesitamos otra forma de entrar!"
+
+REFERENCE           SUBTITLE_RESCUE_SND_BAILUSOUT122
+LANG_ENGLISH        "^2Sandman: ^7Hammer 1, ¿está esperando una invitación o qué?"
+
+REFERENCE           SUBTITLE_RESCUE_SND_BRINGBIRDTOUS114
+LANG_ENGLISH        "^2Sandman: ^7¡Overlord, esto se va a caer en cualquier momento! ¡Necesitamos esos pájaros!"
+
+REFERENCE           SUBTITLE_RESCUE_SND_BRINGINSUPPORT51
+LANG_ENGLISH        "^2Sandman: ^7Overlord, aquí Sandman. Estamos en el fondo de la mina. Necesitaremos apoyo aéreo."
+
+REFERENCE           SUBTITLE_RESCUE_SND_COVERRIGHT265
+LANG_ENGLISH        "^2Sandman: ^7¡Truck! ¡Cubra por la derecha!"
+
+REFERENCE           SUBTITLE_RESCUE_SND_CUTTHROUGH61_2
+LANG_ENGLISH        "^2Sandman: ^7Atajen por el patio de la obra. ¡Hay más cobertura!"
+
+REFERENCE           SUBTITLE_RESCUE_SND_FOUNDATHENA75
+LANG_ENGLISH        "^2Sandman: ^7Negativo, Overlord. Pero tenemos a la chica."
+
+REFERENCE           SUBTITLE_RESCUE_SND_GETDOORSOPEN17
+LANG_ENGLISH        "^2Sandman: ^7¡Truck, abra esas puertas!"
+
+REFERENCE           SUBTITLE_RESCUE_SND_GETINHERE612
+LANG_ENGLISH        "^2Sandman: ^7¡Frost, entre aquí! ¡Vamos!"
+
+REFERENCE           SUBTITLE_RESCUE_SND_GETINSIDE610
+LANG_ENGLISH        "^2Sandman: ^7¡Adentro! ¡Vamos!"
+
+REFERENCE           SUBTITLE_RESCUE_SND_GETREADY36
+LANG_ENGLISH        "^2Sandman: ^7Prepárense."
+
+REFERENCE           SUBTITLE_RESCUE_SND_GETUPHERE2510
+LANG_ENGLISH        "^2Sandman: ^7¡Grinch, suba aquí!"
+
+REFERENCE           SUBTITLE_RESCUE_SND_GOOOO285
+LANG_ENGLISH        "^2Sandman: ^7¡Váyanse! ¡Vamos!"
+
+REFERENCE           SUBTITLE_RESCUE_SND_GOTTAGO262
+LANG_ENGLISH        "^2Sandman: ^7¡Price! ¡Debe irse! ¡Asegúrese de sacar al presidente!"
+
+REFERENCE           SUBTITLE_RESCUE_SND_HEADSUP22_6
+LANG_ENGLISH        "^2Sandman: ^7¡Atención!"
+
+REFERENCE           SUBTITLE_RESCUE_SND_HOLDINGCELL71
+LANG_ENGLISH        "^2Sandman: ^7¡Estamos dentro, Overlord! Vamos hacia el blanco."
+
+REFERENCE           SUBTITLE_RESCUE_SND_HOLDPOSITION115_1
+LANG_ENGLISH        "^2Sandman: ^7¡Mantengan la posición! ¡Nos evacuarán en treinta segundos!"
+
+REFERENCE           SUBTITLE_RESCUE_SND_HOOKUP83
+LANG_ENGLISH        "^2Sandman: ^7¡Engánchense!"
+
+REFERENCE           SUBTITLE_RESCUE_SND_HOPTHERAIL54_9
+LANG_ENGLISH        "^2Sandman: ^7¡Salten la barandilla!"
+
+REFERENCE           SUBTITLE_RESCUE_SND_JACKPOT111
+LANG_ENGLISH        "^2Sandman: ^7Overlord, premio. El presidente está a salvo."
+
+REFERENCE           SUBTITLE_RESCUE_SND_JUSTGO266
+LANG_ENGLISH        "^2Sandman: ^7¡Vamos! ¡Salgan de aquí!"
+
+REFERENCE           SUBTITLE_RESCUE_SND_KEEPMOVING22_11
+LANG_ENGLISH        "^2Sandman: ^7¡Avancen!"
+
+REFERENCE           SUBTITLE_RESCUE_SND_LETSMOVE2127
+LANG_ENGLISH        "^2Sandman: ^7¡Bien, movámonos! ¡Adelante!"
+
+REFERENCE           SUBTITLE_RESCUE_SND_LOSINGHIM83_2
+LANG_ENGLISH        "^2Sandman: ^7¡Lo estamos perdiendo! ¡Vamos!"
+
+REFERENCE           SUBTITLE_RESCUE_SND_MAYBEALIVE710
+LANG_ENGLISH        "^2Sandman: ^7Pues ahí es adonde iremos. Venga."
+
+REFERENCE           SUBTITLE_RESCUE_SND_MOVEGO124_1
+LANG_ENGLISH        "^2Sandman: ^7¡En marcha! ¡Vamos!"
+
+REFERENCE           SUBTITLE_RESCUE_SND_NICEWORK511
+LANG_ENGLISH        "^2Overlord: ^7AGM activados.  "
+
+REFERENCE           SUBTITLE_RESCUE_SND_ONEDOWN58
+LANG_ENGLISH        "^2Truck: ^7¡Use el Predator y ayúdenos!"
+
+REFERENCE           SUBTITLE_RESCUE_SND_OURRIDE124
+LANG_ENGLISH        "^2Grinch: ^7¡Nuestro vehículo está aquí!"
+
+REFERENCE           SUBTITLE_RESCUE_SND_PRICEGETOUT266_1
+LANG_ENGLISH        "^2Sandman: ^7¡Price, salga pitando de aquí!"
+
+REFERENCE           SUBTITLE_RESCUE_SND_READY53
+LANG_ENGLISH        "^2Sandman: ^7¿Listos?"
+
+REFERENCE           SUBTITLE_RESCUE_SND_ROGERTHAT13
+LANG_ENGLISH        "^2Sandman: ^7Preparen los fusiles."
+
+REFERENCE           SUBTITLE_RESCUE_SND_SHOULDBE46
+LANG_ENGLISH        "^2Sandman: ^7Deberían estar al otro lado de la mina."
+
+REFERENCE           SUBTITLE_RESCUE_SND_SITTIGHT61_14
+LANG_ENGLISH        "^2Sandman: ^7¡Agárrense bien!"
+
+REFERENCE           SUBTITLE_RESCUE_SND_SOUNDSGOOD126
+LANG_ENGLISH        "^2Sandman: ^7¡Gloria bendita, 6-1! "
+
+REFERENCE           SUBTITLE_RESCUE_SND_STACKUP15
+LANG_ENGLISH        "^2Sandman: ^7Allá vamos. Agrúpense."
+
+REFERENCE           SUBTITLE_RESCUE_SND_STACKUP2108
+LANG_ENGLISH        "^2Sandman: ^7A formar."
+
+REFERENCE           SUBTITLE_RESCUE_SND_STATUS22_1
+LANG_ENGLISH        "^2Sandman: ^7¿Estado?"
+
+REFERENCE           SUBTITLE_RESCUE_SND_STOPWASTING83_1
+LANG_ENGLISH        "^2Sandman: ^7¡Dense prisa! ¡Engánchense!"
+
+REFERENCE           SUBTITLE_RESCUE_SND_SWEEPLEFT33_1
+LANG_ENGLISH        "^2Sandman: ^7¡Grinch, Truck, por la izquierda!"
+
+REFERENCE           SUBTITLE_RESCUE_SND_TAKEEMDOWN614
+LANG_ENGLISH        "^2Sandman: ^7¡A por ellos!"
+
+REFERENCE           SUBTITLE_RESCUE_SND_TAKEOUTARMOR55
+LANG_ENGLISH        "^2Price: ^7¡Yuri! ¡Use el dron Predator! ¡Ábranos paso!"
+
+REFERENCE           SUBTITLE_RESCUE_SND_TAKEOUTCHOPPERS56
+LANG_ENGLISH        "^2Price: ^7¡Use el Predator, Yuri!"
+
+REFERENCE           SUBTITLE_RESCUE_SND_TAKESTAIRWELL44
+LANG_ENGLISH        "^2Sandman: ^7¡Escalera, izquierda! ¡Vamos!"
+
+REFERENCE           SUBTITLE_RESCUE_SND_TAKETOPSIDE23
+LANG_ENGLISH        "^2Sandman: ^7¡Truck, Grinch, por arriba!"
+
+REFERENCE           SUBTITLE_RESCUE_SND_THISWAY61_8
+LANG_ENGLISH        "^2Sandman: ^7¡Vamos, por aquí!"
+
+REFERENCE           SUBTITLE_RESCUE_SND_TOOKOUTUAV61_11
+LANG_ENGLISH        "^2Sandman: ^7¡Un SAM se ha cargado nuestro UAV!"
+
+REFERENCE           SUBTITLE_RESCUE_SND_TOOMUCHHEAT264
+LANG_ENGLISH        "^2Sandman: ^7¡Coja a su hombre y suban al puto pájaro! ¡Los cubriremos!"
+
+REFERENCE           SUBTITLE_RESCUE_SND_USEPREDATOR57
+LANG_ENGLISH        "^2Truck: ^7¡Use el Predator para eliminar a los blancos!"
+
+REFERENCE           SUBTITLE_RESCUE_SND_WATCHFIRE61_4
+LANG_ENGLISH        "^2Sandman: ^7¡Viper 6, vamos hacia la obra! ¡Cuidado al disparar!"
+
+REFERENCE           SUBTITLE_RESCUE_SND_WHATWASTHAT21
+LANG_ENGLISH        "^2Grinch: ^7¡Mierda!"
+
+REFERENCE           SUBTITLE_RESCUE_SND_YOUREUP34
+LANG_ENGLISH        "^2Sandman: ^7Truck, es su turno."
+
+REFERENCE           SUBTITLE_RESCUE_TRK_ALMOSTGOTIT22_8
+LANG_ENGLISH        "^2Truck: ^7Ya casi está... ¡Ya!"
+
+REFERENCE           SUBTITLE_RESCUE_TRK_BADGUYS116
+LANG_ENGLISH        "^2Truck: ^7¡Vienen más enemigos!"
+
+REFERENCE           SUBTITLE_RESCUE_TRK_BLASTDOORS86
+LANG_ENGLISH        "^2Truck: ^7¡Están cerrando las compuertas!"
+
+REFERENCE           SUBTITLE_RESCUE_TRK_CLEAR22_9
+LANG_ENGLISH        "^2Truck: ^7¡Despejado!"
+
+REFERENCE           SUBTITLE_RESCUE_TRK_DAUGHTER73_1
+LANG_ENGLISH        "^2Truck: ^7Es la hija..."
+
+REFERENCE           SUBTITLE_RESCUE_TRK_FASTENOUGH22_5
+LANG_ENGLISH        "^2Truck: ^7¿Suficientemente rápido, Grinch?"
+
+REFERENCE           SUBTITLE_RESCUE_TRK_FURTHERDOWN79
+LANG_ENGLISH        "^2Truck: ^7Dice que se llevaron a su padre al interior de la mina."
+
+REFERENCE           SUBTITLE_RESCUE_TRK_GETINSIDE61_7
+LANG_ENGLISH        "^2Truck: ^7¡Entre! ¡Deprisa!"
+
+REFERENCE           SUBTITLE_RESCUE_TRK_IGOTYOU261
+LANG_ENGLISH        "^2Truck: ^7¡Agárrese! ¡Lo tengo!"
+
+REFERENCE           SUBTITLE_RESCUE_TRK_IMOUT271
+LANG_ENGLISH        "^2Truck: ^7¡Me largo!"
+
+REFERENCE           SUBTITLE_RESCUE_TRK_INSIDEMOVE611
+LANG_ENGLISH        "^2Truck: ^7¡Entre! ¡Deprisa!"
+
+REFERENCE           SUBTITLE_RESCUE_TRK_LOWERDECK54_7
+LANG_ENGLISH        "^2Truck: ^7¡Convoy enemigo! ¡Nivel inferior!"
+
+REFERENCE           SUBTITLE_RESCUE_TRK_ONIT35
+LANG_ENGLISH        "^2Truck: ^7Voy."
+
+REFERENCE           SUBTITLE_RESCUE_TRK_RIGHTNEXTTO45
+LANG_ENGLISH        "^2Truck: ^7La señal del rastreador es más fuerte."
+
+REFERENCE           SUBTITLE_RESCUE_TRK_ROG18
+LANG_ENGLISH        "^2Truck: ^7¡Bien!"
+
+REFERENCE           SUBTITLE_RESCUE_TRK_ROPININ61_1
+LANG_ENGLISH        "^2Truck: ^7¡Están bajando por cuerdas!"
+
+REFERENCE           SUBTITLE_RESCUE_TRK_RPG252
+LANG_ENGLISH        "^2Truck: ^7¡RPG!"
+
+REFERENCE           SUBTITLE_RESCUE_TRK_TARGETSHIGH31
+LANG_ENGLISH        "^2Truck: ^7¡Más enemigos! ¡Al frente!"
+
+REFERENCE           SUBTITLE_RESCUE_TRK_THEYREDOWN61_10
+LANG_ENGLISH        "^2Truck: ^7¡Han caído!"
+
+REFERENCE           SUBTITLE_RESCUE_TRK_THROUGHDOOR245_2
+LANG_ENGLISH        "^2Truck: ^7¡Hay que atravesar esa puerta!"
+
+REFERENCE           SUBTITLE_RESCUE_TRK_TRYINGTOSAY78
+LANG_ENGLISH        "^2Truck: ^7Creo que intenta decirnos algo..."
+
+REFERENCE           SUBTITLE_RESCUE_TRK_WHATTHE244
+LANG_ENGLISH        "^2Truck: ^7¿Qué narices...?"
+
+REFERENCE           UAV_ABOVE_TEMP_NUMBERS
+LANG_ENGLISH        "1133 "
+
+REFERENCE           UAV_ACFT
+LANG_ENGLISH        "ACFT "
+
+REFERENCE           UAV_ALT_MSL
+LANG_ENGLISH        "ALT MSL: V---IW--STP "
+
+REFERENCE           UAV_ALT_NEL
+LANG_ENGLISH        "ALT NEL "
+
+REFERENCE           UAV_BLK
+LANG_ENGLISH        "BLK "
+
+REFERENCE           UAV_BLK_WHT
+LANG_ENGLISH        "BLK/WHT "
+
+REFERENCE           UAV_BRG
+LANG_ENGLISH        "BRG "
+
+REFERENCE           UAV_DEGREE
+LANG_ENGLISH        "' "
+
+REFERENCE           UAV_ELV
+LANG_ENGLISH        "ELV "
+
+REFERENCE           UAV_F
+LANG_ENGLISH        "F "
+
+REFERENCE           UAV_HAT
+LANG_ENGLISH        "  1,337 HAT "
+
+REFERENCE           UAV_KIAS
+LANG_ENGLISH        "KIAS "
+
+REFERENCE           UAV_M
+LANG_ENGLISH        "m "
+
+REFERENCE           UAV_MSL
+LANG_ENGLISH        "MSL "
+
+REFERENCE           UAV_N
+LANG_ENGLISH        "N "
+
+REFERENCE           UAV_N2
+LANG_ENGLISH        "LAT: N  40 42.407 "
+
+REFERENCE           UAV_NAR
+LANG_ENGLISH        "NAR "
+
+REFERENCE           UAV_NM
+LANG_ENGLISH        "NM "
+
+REFERENCE           UAV_QUOTE
+LANG_ENGLISH        "\""
+
+REFERENCE           UAV_RATE
+LANG_ENGLISH        "RATE "
+
+REFERENCE           UAV_RATIO
+LANG_ENGLISH        " 21/117 "
+
+REFERENCE           UAV_RNG
+LANG_ENGLISH        "RNG "
+
+REFERENCE           UAV_TEMP
+LANG_ENGLISH        " 10C "
+
+REFERENCE           UAV_W
+LANG_ENGLISH        "W "
+
+REFERENCE           UAV_W2
+LANG_ENGLISH        "LON: W -74 0.627 "
+
+REFERENCE           UAV_WHT
+LANG_ENGLISH        "WHT "
+
+REFERENCE           UAV_WTR_DVR_ON
+LANG_ENGLISH        "WTR DVR ON "
+
+ENDMARKER

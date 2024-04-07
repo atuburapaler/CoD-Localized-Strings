@@ -1,0 +1,79 @@
+// Dumped from fastfile "so_timetrial_london".
+// In their original format the strings might have been separated in multiple files.
+VERSION             "1"
+CONFIG              "C:/trees/cod3/cod3/bin/StringEd.cfg"
+FILENOTES           ""
+
+REFERENCE           SENTRY_CANNOT_PLACE
+LANG_ENGLISH        "Mueve la torreta a una posición válida."
+
+REFERENCE           SENTRY_DEBUG_SPAWN_ENEMIES
+LANG_ENGLISH        "Los enemigos se rinden en 10 segundos."
+
+REFERENCE           SENTRY_MOVE
+LANG_ENGLISH        "Mantén ^3&&1^7 para mover la torreta."
+
+REFERENCE           SENTRY_PICKUP
+LANG_ENGLISH        "Mantén ^3&&1^7 para recoger la torreta."
+
+REFERENCE           SENTRY_PLACE
+LANG_ENGLISH        "Pulsa ^3[{+attack}]^7 para colocar la torreta."
+
+REFERENCE           SO_TIMETRIAL_LONDON_ACCESSING
+LANG_ENGLISH        "Accediendo a sistema de defensa..."
+
+REFERENCE           SO_TIMETRIAL_LONDON_ALLEY
+LANG_ENGLISH        "CÁMARA: CALLEJÓN"
+
+REFERENCE           SO_TIMETRIAL_LONDON_CONSTRUCTION_SITE
+LANG_ENGLISH        "CÁMARA: SOLAR DE OBRA"
+
+REFERENCE           SO_TIMETRIAL_LONDON_DOCK_GATE
+LANG_ENGLISH        "CÁMARA: ENTRADA"
+
+REFERENCE           SO_TIMETRIAL_LONDON_DOCK_YARD
+LANG_ENGLISH        "CÁMARA: ASTILLERO"
+
+REFERENCE           SO_TIMETRIAL_LONDON_HINT_SWITCH
+LANG_ENGLISH        "Pulsa ^3[{weapnext}]^7 para cambiar de cámara."
+
+REFERENCE           SO_TIMETRIAL_LONDON_OBJ_1
+LANG_ENGLISH        "Llega al punto de extracción"
+
+REFERENCE           SO_TIMETRIAL_LONDON_OBJ_2
+LANG_ENGLISH        "Piratea el sistema de defensa"
+
+REFERENCE           SO_TIMETRIAL_LONDON_PARKWAY
+LANG_ENGLISH        "CÁMARA: BULEVAR"
+
+REFERENCE           SO_TIMETRIAL_LONDON_TRANSFERRING
+LANG_ENGLISH        "Transfiriendo sistemas..."
+
+REFERENCE           SO_TIMETRIAL_LONDON_WAREHOUSE_ENTRANCE
+LANG_ENGLISH        "CÁMARA: ENTRADA DEL ALMACÉN"
+
+REFERENCE           SO_TIMETRIAL_LONDON_WAREHOUSE_INTERIOR
+LANG_ENGLISH        "CÁMARA: INTERIOR DEL ALMACÉN"
+
+REFERENCE           SO_TIMETRIAL_LONDON_WAREHOUSE_WINDOWS
+LANG_ENGLISH        "CÁMARA: VENTANAS DEL ALMACÉN"
+
+REFERENCE           SUBTITLE_SO_TIME_LOND_BSP_CONSTRUCTION16
+LANG_ENGLISH        "^2Baseplate: ^7Atención. Varios helicópteros de ataque se dirigen hacia la obra."
+
+REFERENCE           SUBTITLE_SO_TIME_LOND_BSP_EYESHIGH15
+LANG_ENGLISH        "^2Baseplate: ^7Atención arriba. Un helicóptero de ataque entra en su zona."
+
+REFERENCE           SUBTITLE_SO_TIME_LOND_BSP_FIFTEENTARGETS14
+LANG_ENGLISH        "^2Baseplate: ^7Al menos quince blancos rumbo hacia ustedes."
+
+REFERENCE           SUBTITLE_SO_TIME_LOND_BSP_HAVEPACKAGE12
+LANG_ENGLISH        "^2Baseplate: ^7Atención. Tenemos el paquete. Pueden moverse."
+
+REFERENCE           SUBTITLE_SO_TIME_LOND_BSP_LIGHTEMUP13
+LANG_ENGLISH        "^2Baseplate: ^7Blancos en los almacenes. Acaben con ellos."
+
+REFERENCE           SUBTITLE_SO_TIME_LOND_BSP_SUPPORT11
+LANG_ENGLISH        "^2Baseplate: ^7Hemos pirateado el sistema defensivo para proporcionarles apoyo. Encuentren la forma de llegar al metro enseguida. No podremos esperar mucho más."
+
+ENDMARKER

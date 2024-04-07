@@ -1,0 +1,115 @@
+// Dumped from fastfile "sp_ny_manhattan".
+// In their original format the strings might have been separated in multiple files.
+VERSION             "1"
+CONFIG              "C:/trees/cod3/cod3/bin/StringEd.cfg"
+FILENOTES           ""
+
+REFERENCE           HELLFIRE_DESTROYED
+LANG_ENGLISH        "El dron Predator ha sido destruido."
+
+REFERENCE           HELLFIRE_DRONE_NOT_AVAILABLE
+LANG_ENGLISH        "El dron Predator no está disponible."
+
+REFERENCE           HELLFIRE_DRONE_VIEW
+LANG_ENGLISH        "CÁMARA: UAV_DRONE_011"
+
+REFERENCE           HELLFIRE_FIRE
+LANG_ENGLISH        "-MISIL LANZADO-"
+
+REFERENCE           HELLFIRE_MISSILE_VIEW
+LANG_ENGLISH        "CÁMARA: MISIL"
+
+REFERENCE           HELLFIRE_RELOADING
+LANG_ENGLISH        "-MISIL RECARGANDO-"
+
+REFERENCE           HELLFIRE_RELOADING_WITH_TIME
+LANG_ENGLISH        "RECARGA DE MISIL: "
+
+REFERENCE           HELLFIRE_USE_DRONE
+LANG_ENGLISH        "Pulsa ^3[{+actionslot 4}]^7 para controlar el dron Predator."
+
+REFERENCE           HELLFIRE_USE_DRONE_2
+LANG_ENGLISH        "Pulsa ^3[{+actionslot 2}]^7 para controlar el dron Predator."
+
+REFERENCE           UAV_ABOVE_TEMP_NUMBERS
+LANG_ENGLISH        "1133 "
+
+REFERENCE           UAV_ACFT
+LANG_ENGLISH        "ACFT "
+
+REFERENCE           UAV_ALT_MSL
+LANG_ENGLISH        "ALT MSL: V---IW--STP "
+
+REFERENCE           UAV_ALT_NEL
+LANG_ENGLISH        "ALT NEL "
+
+REFERENCE           UAV_BLK
+LANG_ENGLISH        "BLK "
+
+REFERENCE           UAV_BLK_WHT
+LANG_ENGLISH        "BLK/WHT "
+
+REFERENCE           UAV_BRG
+LANG_ENGLISH        "BRG "
+
+REFERENCE           UAV_DEGREE
+LANG_ENGLISH        "' "
+
+REFERENCE           UAV_ELV
+LANG_ENGLISH        "ELV "
+
+REFERENCE           UAV_F
+LANG_ENGLISH        "F "
+
+REFERENCE           UAV_HAT
+LANG_ENGLISH        "  1,337 HAT "
+
+REFERENCE           UAV_KIAS
+LANG_ENGLISH        "KIAS "
+
+REFERENCE           UAV_M
+LANG_ENGLISH        "m "
+
+REFERENCE           UAV_MSL
+LANG_ENGLISH        "MSL "
+
+REFERENCE           UAV_N
+LANG_ENGLISH        "N "
+
+REFERENCE           UAV_N2
+LANG_ENGLISH        "LAT: N  40 42.407 "
+
+REFERENCE           UAV_NAR
+LANG_ENGLISH        "NAR "
+
+REFERENCE           UAV_NM
+LANG_ENGLISH        "NM "
+
+REFERENCE           UAV_QUOTE
+LANG_ENGLISH        "\""
+
+REFERENCE           UAV_RATE
+LANG_ENGLISH        "RATE "
+
+REFERENCE           UAV_RATIO
+LANG_ENGLISH        " 21/117 "
+
+REFERENCE           UAV_RNG
+LANG_ENGLISH        "RNG "
+
+REFERENCE           UAV_TEMP
+LANG_ENGLISH        " 10C "
+
+REFERENCE           UAV_W
+LANG_ENGLISH        "W "
+
+REFERENCE           UAV_W2
+LANG_ENGLISH        "LON: W -74 0.627 "
+
+REFERENCE           UAV_WHT
+LANG_ENGLISH        "WHT "
+
+REFERENCE           UAV_WTR_DVR_ON
+LANG_ENGLISH        "WTR DVR ON "
+
+ENDMARKER

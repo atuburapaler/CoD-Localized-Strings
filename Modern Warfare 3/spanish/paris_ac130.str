@@ -1,0 +1,1282 @@
+// Dumped from fastfile "paris_ac130".
+// In their original format the strings might have been separated in multiple files.
+VERSION             "1"
+CONFIG              "C:/trees/cod3/cod3/bin/StringEd.cfg"
+FILENOTES           ""
+
+REFERENCE           AC130_CIVILIAN_FIRE
+LANG_ENGLISH        "¡Has herido a un civil! Misión fallida."
+
+REFERENCE           AC130_CIVILIAN_FIRE_VEHICLE
+LANG_ENGLISH        "¡Has atacado un vehículo civil! Misión fallida."
+
+REFERENCE           AC130_DEBUG_FRIENDLY_COUNT
+LANG_ENGLISH        "Aliados: &&1"
+
+REFERENCE           AC130_DO_NOT_ENGAGE
+LANG_ENGLISH        "No tienes permiso para disparar. Misión fallida."
+
+REFERENCE           AC130_FRIENDLIES_DEAD
+LANG_ENGLISH        "Han muerto demasiados aliados. Misión fallida."
+
+REFERENCE           AC130_FRIENDLY_FIRE
+LANG_ENGLISH        "¡El fuego amigo no será tolerado!\n¡Atento a los diamantes blancos de las unidades aliadas!"
+
+REFERENCE           AC130_FRIENDLY_FIRE_HELICOPTER
+LANG_ENGLISH        "¡Has atacado a un helicóptero aliado!"
+
+REFERENCE           AC130_HINT_CYCLE_WEAPONS
+LANG_ENGLISH        "Pulsa ^3[{weapnext}]^7 para alternar entre las armas disponibles."
+
+REFERENCE           AC130_HINT_ENHANCED_VISION
+LANG_ENGLISH        "Pulsa ^3[{+activate}]^7 para activar las imágenes mejoradas."
+
+REFERENCE           AC130_HINT_THERMAL_VISION
+LANG_ENGLISH        "Pulsa ^3[{+activate}]^7 para activar el FLIR."
+
+REFERENCE           AC130_HINT_USE_25_MOVING
+LANG_ENGLISH        "Pulsa ^3[{weapnext}]^7 para cambiar al 25 mm para blancos móviles."
+
+REFERENCE           AC130_HINT_USE_40_OR_105
+LANG_ENGLISH        "Cambia al cañón de 40 o al de 105 mm para destruir el blanco."
+
+REFERENCE           AC130_HINT_ZOOM
+LANG_ENGLISH        "Mueve hacia delante o hacia atrás para ajustar el zoom."
+
+REFERENCE           AC130_HUD_AGL
+LANG_ENGLISH        "&&1 AGL"
+
+REFERENCE           AC130_HUD_AMMO
+LANG_ENGLISH        "MUNI."
+
+REFERENCE           AC130_HUD_BOTTOM_BLOCK
+LANG_ENGLISH        "L1514    RDY"
+
+REFERENCE           AC130_HUD_COLON
+LANG_ENGLISH        ":"
+
+REFERENCE           AC130_HUD_FLIR
+LANG_ENGLISH        "FLIR"
+
+REFERENCE           AC130_HUD_LEFT_BLOCK
+LANG_ENGLISH        "RAY\nFF 30\nLIR\n\nBORE"
+
+REFERENCE           AC130_HUD_LOCK_ON
+LANG_ENGLISH        "ALERTA DE MISIL"
+
+REFERENCE           AC130_HUD_OPTICS
+LANG_ENGLISH        "OPT"
+
+REFERENCE           AC130_HUD_PERIOD
+LANG_ENGLISH        "."
+
+REFERENCE           AC130_HUD_RECORDING
+LANG_ENGLISH        "REC"
+
+REFERENCE           AC130_HUD_RELOADING
+LANG_ENGLISH        "RECARGANDO"
+
+REFERENCE           AC130_HUD_RIGHT_BLOCK
+LANG_ENGLISH        "N\nT\n\nS\nF\n\nQ\nZ\n\nT\nG\nT"
+
+REFERENCE           AC130_HUD_RIGHT_BLOCK_SHORT
+LANG_ENGLISH        "N\nT\n\nS\nF\n\nQ\nZ"
+
+REFERENCE           AC130_HUD_THERMAL_BHOT
+LANG_ENGLISH        "BHOT"
+
+REFERENCE           AC130_HUD_THERMAL_WHOT
+LANG_ENGLISH        "WHOT"
+
+REFERENCE           AC130_HUD_TOP_BAR
+LANG_ENGLISH        "\n0         A-G        MAN    NARO"
+
+REFERENCE           AC130_HUD_WEAPON_105MM
+LANG_ENGLISH        "105 MM"
+
+REFERENCE           AC130_HUD_WEAPON_25MM
+LANG_ENGLISH        "25 MM"
+
+REFERENCE           AC130_HUD_WEAPON_40MM
+LANG_ENGLISH        "40 MM"
+
+REFERENCE           AC130_HUD_ZOOM
+LANG_ENGLISH        "x"
+
+REFERENCE           AC130_OBJECTIVE_SUPPORT_FRIENDLIES
+LANG_ENGLISH        "Proporciona apoyo aéreo con AC-130 a las unidades terrestres aliadas del SAS"
+
+REFERENCE           AC130_RELOADING
+LANG_ENGLISH        "Recargando"
+
+REFERENCE           PARIS_AC130_AIR_SUPPORT_HINT
+LANG_ENGLISH        "Pulsa ^3 [{+actionslot 4}] ^7 para usar un marcador de apoyo aéreo."
+
+REFERENCE           PARIS_AC130_DEADQUOTE_CHASE_1
+LANG_ENGLISH        "Mata a los enemigos que persiguen a Delta."
+
+REFERENCE           PARIS_AC130_DEADQUOTE_CHASE_2
+LANG_ENGLISH        "Mata a TODOS los enemigos que persiguen a Delta."
+
+REFERENCE           PARIS_AC130_DESTROY_ENEMY_TANKS
+LANG_ENGLISH        "Destruye tanques enemigos."
+
+REFERENCE           PARIS_AC130_DO_NOT_ENGAGE
+LANG_ENGLISH        "No tienes permiso para disparar. Misión fallida."
+
+REFERENCE           PARIS_AC130_END_SCRIPT
+LANG_ENGLISH        "END PARIS AC-130 SCRIPT"
+
+REFERENCE           PARIS_AC130_HINT_INTERACT
+LANG_ENGLISH        "Pulsa ^3[{+activate}]^7 para placar."
+
+REFERENCE           PARIS_AC130_HUD_WEAPON_105MM
+LANG_ENGLISH        "105 mm"
+
+REFERENCE           PARIS_AC130_HUD_WEAPON_25MM
+LANG_ENGLISH        "25 mm"
+
+REFERENCE           PARIS_AC130_HUD_WEAPON_40MM
+LANG_ENGLISH        "40 mm"
+
+REFERENCE           PARIS_AC130_INTROSCREEN_LINE_1
+LANG_ENGLISH        "\"La dama de hierro\""
+
+REFERENCE           PARIS_AC130_INTROSCREEN_LINE_2
+LANG_ENGLISH        "9 de octubre, 7:42:[{FAKE_INTRO_SECONDS:17}]"
+
+REFERENCE           PARIS_AC130_INTROSCREEN_LINE_3
+LANG_ENGLISH        "Sargento Derek \"Frost\" Westbrook"
+
+REFERENCE           PARIS_AC130_INTROSCREEN_LINE_4
+LANG_ENGLISH        "Delta Force"
+
+REFERENCE           PARIS_AC130_INTROSCREEN_LINE_5
+LANG_ENGLISH        "París, Francia"
+
+REFERENCE           PARIS_AC130_MISSION_FAIL_BUILDING
+LANG_ENGLISH        "No dispares contra los edificios. Misión fallida."
+
+REFERENCE           PARIS_AC130_MISSION_FAIL_DELTA_KILLED
+LANG_ENGLISH        "Un miembro de Delta ha caído. Misión fallida."
+
+REFERENCE           PARIS_AC130_MISSION_FAIL_FRIENDLY_KILLED
+LANG_ENGLISH        "No se permitirá el fuego aliado. Misión fallida."
+
+REFERENCE           PARIS_AC130_MISSION_FAIL_FRIENDLY_SUPPORT
+LANG_ENGLISH        "No has prestado apoyo a las unidades de tierra aliadas. Misión fallida."
+
+REFERENCE           PARIS_AC130_MISSION_FAIL_HUMVEE_SUPPORT
+LANG_ENGLISH        "No has prestado apoyo a los Humvees aliados. Misión fallida."
+
+REFERENCE           PARIS_AC130_MISSION_FAIL_HVI_KILLED
+LANG_ENGLISH        "El VIP ha caído. Misión fallida."
+
+REFERENCE           PARIS_AC130_OBIT_CUSTOM_TANK_DEATH
+LANG_ENGLISH        "Te ha matado un tanque. Destruye los tanques para avanzar."
+
+REFERENCE           PARIS_AC130_OBJ_BOARD_THE_LITTLEBIRD
+LANG_ENGLISH        "Sube a bordo del helicóptero"
+
+REFERENCE           PARIS_AC130_OBJ_BRIDGE_DESTROY_TANK
+LANG_ENGLISH        "Destruye los tanques del puente"
+
+REFERENCE           PARIS_AC130_OBJ_BRIDGE_DESTROY_TANK_JAV_1
+LANG_ENGLISH        "Destruye los tanques enemigos con el Javelin (1 de 2)"
+
+REFERENCE           PARIS_AC130_OBJ_BRIDGE_DESTROY_TANK_JAV_2
+LANG_ENGLISH        "Destruye los tanques enemigos con el Javelin (0 de 2)"
+
+REFERENCE           PARIS_AC130_OBJ_BRIDGE_DESTROY_TANK_JAV_COMPLETED
+LANG_ENGLISH        "Destruye los tanques enemigos con el Javelin"
+
+REFERENCE           PARIS_AC130_OBJ_BRIDGE_GET_JAVELIN
+LANG_ENGLISH        "Coge el Javelin"
+
+REFERENCE           PARIS_AC130_OBJ_BRIDGE_PUSH_LZ
+LANG_ENGLISH        "Ábrete camino hasta la zona de aterrizaje"
+
+REFERENCE           PARIS_AC130_OBJ_CHASE_ESCORT_KILO_1_1
+LANG_ENGLISH        "Escolta a las unidades a la zona de aterrizaje"
+
+REFERENCE           PARIS_AC130_OBJ_DEFEND_LZ
+LANG_ENGLISH        "Defiende la zona de aterrizaje"
+
+REFERENCE           PARIS_AC130_OBJ_FDR_CLEAR_AREA_FOR_KILO_1_1
+LANG_ENGLISH        "Despeja de enemigos la glorieta"
+
+REFERENCE           PARIS_AC130_OBJ_FIGHT_THROUGH_COURTYARD
+LANG_ENGLISH        "Ábrete paso a través del patio"
+
+REFERENCE           PARIS_AC130_OBJ_FLANK_MG_NEST
+LANG_ENGLISH        "Sube al piso de arriba y flanquea el nido de ametralladora"
+
+REFERENCE           PARIS_AC130_OBJ_INTRO_GET_TO_OSPREY
+LANG_ENGLISH        "Llega al Osprey"
+
+REFERENCE           PARIS_AC130_OBJ_PROTECT
+LANG_ENGLISH        "Protege"
+
+REFERENCE           PARIS_AC130_OBJ_RPG_DESTROY_RPG_BUILDING
+LANG_ENGLISH        "Destruye el edificio con RPG"
+
+REFERENCE           PARIS_AC130_OBJ_SHOOT_COURTYARD_BUILDING
+LANG_ENGLISH        "Dispara contra el edificio con enemigos"
+
+REFERENCE           PARIS_AC130_OBJ_STREET_CLEAR_STREET_FOR_KILO_1_1
+LANG_ENGLISH        "Despeja las calles de enemigos"
+
+REFERENCE           PARIS_AC130_OBJ_THROW_STROBE
+LANG_ENGLISH        "Marca el tanque objetivo para el AC-130"
+
+REFERENCE           PARIS_AC130_PLT_READYFORMARK
+LANG_ENGLISH        "^2Piloto del AC-130: ^7Ajustes finalizados. Listos para la marca."
+
+REFERENCE           PARIS_AC130_PLT_READYFORTARGETS
+LANG_ENGLISH        "^2Piloto del AC-130: ^7En posición, esperando objetivos."
+
+REFERENCE           PARIS_AC130_PLT_TARGETCONFIRMED
+LANG_ENGLISH        "^2Piloto del AC-130: ^7Objetivo confirmado, esperen."
+
+REFERENCE           SUBTITLE_AC130_FCO_ARMEDEAST1211
+LANG_ENGLISH        "^2AC-130 FCO: ^7El personal armado sigue aproximándose por el este."
+
+REFERENCE           SUBTITLE_AC130_FCO_BIRDDOWN192
+LANG_ENGLISH        "^2AC-130 FCO: ^7Pájaro derribado."
+
+REFERENCE           SUBTITLE_AC130_FCO_BTRISDOWN1916
+LANG_ENGLISH        "^2AC-130 FCO: ^7BTR neutralizado."
+
+REFERENCE           SUBTITLE_AC130_FCO_BUILDINGSDONE1921
+LANG_ENGLISH        "^2AC-130 TV Operator: ^7Edificio despejado."
+
+REFERENCE           SUBTITLE_AC130_FCO_BYFOUNTAIN1214
+LANG_ENGLISH        "^2AC-130 FCO: ^7Objetivos a cubierto junto a la fuente."
+
+REFERENCE           SUBTITLE_AC130_FCO_CAREFUL43
+LANG_ENGLISH        "^2AC-130 TV Operator: ^7Cuidado, casi les da a los nuestros..."
+
+REFERENCE           SUBTITLE_AC130_FCO_CHECKFIRE44
+LANG_ENGLISH        "^2AC-130 FCO: ^7Tenga más cuidado. Está disparando a aliados."
+
+REFERENCE           SUBTITLE_AC130_FCO_CLEANTHOSEUP32
+LANG_ENGLISH        "^2AC-130 FCO: ^7El blindado enemigo sigue abajo. Despejen zona."
+
+REFERENCE           SUBTITLE_AC130_FCO_CLEARTOENGAGE2218
+LANG_ENGLISH        "^2AC-130 FCO: ^7Recibido. Permiso para atacarlos."
+
+REFERENCE           SUBTITLE_AC130_FCO_COPY911
+LANG_ENGLISH        "^2AC-130 FCO: ^7Recibido."
+
+REFERENCE           SUBTITLE_AC130_FCO_DIRECTHITS58
+LANG_ENGLISH        "^2AC-130 FCO: ^7Sí, impactos directos."
+
+REFERENCE           SUBTITLE_AC130_FCO_DONOTFIRE124
+LANG_ENGLISH        "^2AC-130 FCO: ^7No dispare contra los Humvees, son los nuestros."
+
+REFERENCE           SUBTITLE_AC130_FCO_DOVEONGROUND1913
+LANG_ENGLISH        "^2AC-130 FCO: ^7Uno acaba de echarse cuerpo a tierra."
+
+REFERENCE           SUBTITLE_AC130_FCO_DOWNTHESTREET1212
+LANG_ENGLISH        "^2AC-130 FCO: ^7Enemigos armados corriendo por la calle."
+
+REFERENCE           SUBTITLE_AC130_FCO_ENEMYARMOR34
+LANG_ENGLISH        "^2AC-130 FCO: ^7Acabe con ese blindado."
+
+REFERENCE           SUBTITLE_AC130_FCO_ENEMYBIRDS814
+LANG_ENGLISH        "^2AC-130 FCO: ^7Derribe esos pájaros. Por allí."
+
+REFERENCE           SUBTITLE_AC130_FCO_ENEMYEAST82
+LANG_ENGLISH        "^2AC-130 FCO: ^7Tropas enemigas entrando por el este."
+
+REFERENCE           SUBTITLE_AC130_FCO_ENGAGEBUILDING914
+LANG_ENGLISH        "^2AC-130 FCO: ^7Tiene permiso para atacar el edificio."
+
+REFERENCE           SUBTITLE_AC130_FCO_ENGAGETANKS1414
+LANG_ENGLISH        "^2AC-130 FCO: ^7Abra fuego sobre esos tanques."
+
+REFERENCE           SUBTITLE_AC130_FCO_ENGAGEVEHICLES88
+LANG_ENGLISH        "^2AC-130 FCO: ^7Permiso para atacar a los vehículos enemigos."
+
+REFERENCE           SUBTITLE_AC130_FCO_FINISHHIM193
+LANG_ENGLISH        "^2AC-130 TV Operator: ^7Vamos, acabe con él de una vez."
+
+REFERENCE           SUBTITLE_AC130_FCO_FIREFOREFFECT2236
+LANG_ENGLISH        "^2AC-130 FCO: ^7Ajuste el tiro y dispare de nuevo."
+
+REFERENCE           SUBTITLE_AC130_FCO_FIREFROMTHEBRIDGE141
+LANG_ENGLISH        "^2AC-130 FCO: ^7Están disparando al convoy desde el puente."
+
+REFERENCE           SUBTITLE_AC130_FCO_FIREWORKS76
+LANG_ENGLISH        "^2AC-130 TV Operator: ^7Disfruten de los fuegos artificiales."
+
+REFERENCE           SUBTITLE_AC130_FCO_FLARESFLARES105
+LANG_ENGLISH        "^2AC-130 FCO: ^7¡Bengalas, bengalas!"
+
+REFERENCE           SUBTITLE_AC130_FCO_GETBACKON54
+LANG_ENGLISH        "^2AC-130 TV Operator: ^7Vuelvan a por esos."
+
+REFERENCE           SUBTITLE_AC130_FCO_GETONTANKS2217
+LANG_ENGLISH        "^2AC-130 FCO: ^7Recibido. Vaya a por los tanques."
+
+REFERENCE           SUBTITLE_AC130_FCO_GETPERSON196
+LANG_ENGLISH        "^2AC-130 TV Operator: ^7A por ese tipo."
+
+REFERENCE           SUBTITLE_AC130_FCO_GETTHATGUY194
+LANG_ENGLISH        "^2AC-130 TV Operator: ^7A por ese."
+
+REFERENCE           SUBTITLE_AC130_FCO_GOAHEAD57
+LANG_ENGLISH        "^2AC-130 FCO: ^7Permiso para abatirlos."
+
+REFERENCE           SUBTITLE_AC130_FCO_GOAHEADANDHIT1018
+LANG_ENGLISH        "^2AC-130 FCO: ^7Puede disparar al edificio."
+
+REFERENCE           SUBTITLE_AC130_FCO_GOFORVEHICLES35
+LANG_ENGLISH        "^2AC-130 FCO: ^7Tire a los vehículos."
+
+REFERENCE           SUBTITLE_AC130_FCO_GOINGANYWHERE1918
+LANG_ENGLISH        "^2AC-130 TV Operator: ^7Ese tanque ya no va a ir a ningún sitio."
+
+REFERENCE           SUBTITLE_AC130_FCO_GOLIGHTITUP1928
+LANG_ENGLISH        "^2AC-130 TV Operator: ^7Afirmativo, abra fuego."
+
+REFERENCE           SUBTITLE_AC130_FCO_GONNAGETHIM198
+LANG_ENGLISH        "^2AC-130 TV Operator: ^7¿Van a por él?"
+
+REFERENCE           SUBTITLE_AC130_FCO_GOODSHOT53
+LANG_ENGLISH        "^2AC-130 FCO: ^7Buen tiro."
+
+REFERENCE           SUBTITLE_AC130_FCO_GOTAKEEMOUT1412
+LANG_ENGLISH        "^2AC-130 TV Operator: ^7Adelante, neutralícelo."
+
+REFERENCE           SUBTITLE_AC130_FCO_GOTENEMY125
+LANG_ENGLISH        "^2AC-130 FCO: ^7Tenemos unidades enemigas avanzando hacia la posición de Metal 0-1."
+
+REFERENCE           SUBTITLE_AC130_FCO_GOTTHETANK191
+LANG_ENGLISH        "^2AC-130 TV Operator: ^7Bien. Tanque eliminado."
+
+REFERENCE           SUBTITLE_AC130_FCO_GUYMOVIN195
+LANG_ENGLISH        "^2AC-130 FCO: ^7Recibido. Tipo en movimiento."
+
+REFERENCE           SUBTITLE_AC130_FCO_GUYRUNNIN710
+LANG_ENGLISH        "^2AC-130 TV Operator: ^7Enemigo huyendo."
+
+REFERENCE           SUBTITLE_AC130_FCO_GUYSINOPEN1213
+LANG_ENGLISH        "^2AC-130 FCO: ^7Movimiento al descubierto."
+
+REFERENCE           SUBTITLE_AC130_FCO_GUYSMOVING1210
+LANG_ENGLISH        "^2AC-130 FCO: ^7Infantería en movimiento justo allí."
+
+REFERENCE           SUBTITLE_AC130_FCO_HEHTHEYFELT1919
+LANG_ENGLISH        "^2AC-130 TV Operator: ^7Esa la han notado."
+
+REFERENCE           SUBTITLE_AC130_FCO_HINDISTOAST1917
+LANG_ENGLISH        "^2AC-130 TV Operator: ^7El Hind es historia."
+
+REFERENCE           SUBTITLE_AC130_FCO_HITALLTHOSE815
+LANG_ENGLISH        "^2AC-130 FCO: ^7Quedan pájaros enemigos en la zona. Derríbelos."
+
+REFERENCE           SUBTITLE_AC130_FCO_HITARMOR1413
+LANG_ENGLISH        "^2AC-130 FCO: ^7Dispare al blindado."
+
+REFERENCE           SUBTITLE_AC130_FCO_HITBUILDING915
+LANG_ENGLISH        "^2AC-130 FCO: ^7Dispare al edificio."
+
+REFERENCE           SUBTITLE_AC130_FCO_HITTANKSBIG1415
+LANG_ENGLISH        "^2AC-130 FCO: ^7Lance un pepinazo a esos tanques."
+
+REFERENCE           SUBTITLE_AC130_FCO_HOSTILESADV1926
+LANG_ENGLISH        "^2AC-130 FCO: ^7Enemigos avanzando hacia la posición de Metal 0-1."
+
+REFERENCE           SUBTITLE_AC130_FCO_HUMVEEHIT143
+LANG_ENGLISH        "^2AC-130 FCO: ^7Un Humvee ha sido alcanzado."
+
+REFERENCE           SUBTITLE_AC130_FCO_LEVELIT913
+LANG_ENGLISH        "^2AC-130 FCO: ^7Adelante, destrúyalo."
+
+REFERENCE           SUBTITLE_AC130_FCO_LIGHTEMUP21411
+LANG_ENGLISH        "^2AC-130 TV Operator: ^7Enciéndalo."
+
+REFERENCE           SUBTITLE_AC130_FCO_LIGHTEMUP56
+LANG_ENGLISH        "^2AC-130 TV Operator: ^7Acribíllenlos."
+
+REFERENCE           SUBTITLE_AC130_FCO_LIGHTITUP1017
+LANG_ENGLISH        "^2AC-130 TV Operator: ^7Cácelo."
+
+REFERENCE           SUBTITLE_AC130_FCO_LOTSOFGUYS121
+LANG_ENGLISH        "^2AC-130 TV Operator: ^7Se acercan un montón de rusos. Hemos agitado el avispero."
+
+REFERENCE           SUBTITLE_AC130_FCO_NAILTHOSE1910
+LANG_ENGLISH        "^2AC-130 TV Operator: ^7Acribíllenlos."
+
+REFERENCE           SUBTITLE_AC130_FCO_NICE51
+LANG_ENGLISH        "^2AC-130 TV Operator: ^7Fantástico."
+
+REFERENCE           SUBTITLE_AC130_FCO_NOTCLEARED2181
+LANG_ENGLISH        "^2AC-130 FCO: ^7No estamos autorizados para disparar contra edificios."
+
+REFERENCE           SUBTITLE_AC130_FCO_OKGOTEM1915
+LANG_ENGLISH        "^2AC-130 FCO: ^7Bien, lo ha cazado. Vuelva a por los demás."
+
+REFERENCE           SUBTITLE_AC130_FCO_OKHITEM1315
+LANG_ENGLISH        "^2AC-130 TV Operator: ^7Adelante, puede abatirlos."
+
+REFERENCE           SUBTITLE_AC130_FCO_ONEOHFIVE912
+LANG_ENGLISH        "^2AC-130 TV Operator: ^7Cambie a la 105. Vamos a darles con una de las gordas."
+
+REFERENCE           SUBTITLE_AC130_FCO_PERSONNELTHERE199
+LANG_ENGLISH        "^2AC-130 TV Operator: ^7Personal ahí mismo."
+
+REFERENCE           SUBTITLE_AC130_FCO_PUTA1051019
+LANG_ENGLISH        "^2AC-130 FCO: ^7Lance un proyectil del 105 al edificio."
+
+REFERENCE           SUBTITLE_AC130_FCO_REDSMOKE217
+LANG_ENGLISH        "^2AC-130 FCO: ^7Dispare solo al sur del humo rojo."
+
+REFERENCE           SUBTITLE_AC130_FCO_RIGHTTHERE1912
+LANG_ENGLISH        "^2AC-130 FCO: ^7Justo allí."
+
+REFERENCE           SUBTITLE_AC130_FCO_ROGER22223
+LANG_ENGLISH        "^2AC-130 FCO: ^7Recibido."
+
+REFERENCE           SUBTITLE_AC130_FCO_ROGER31215
+LANG_ENGLISH        "^2AC-130 FCO: ^7Recibido."
+
+REFERENCE           SUBTITLE_AC130_FCO_RUNNERHERE197
+LANG_ENGLISH        "^2AC-130 TV Operator: ^7Eh... tenemos un corredor."
+
+REFERENCE           SUBTITLE_AC130_FCO_SMOKEEM1922
+LANG_ENGLISH        "^2AC-130 TV Operator: ^7Macháquelos bien."
+
+REFERENCE           SUBTITLE_AC130_FCO_SMOKETRAILS2228
+LANG_ENGLISH        "^2AC-130 FCO: ^7Recibido. Podemos ver las estelas de humo del RPG al noroeste."
+
+REFERENCE           SUBTITLE_AC130_FCO_STILLINSIDE26
+LANG_ENGLISH        "^2AC-130 Pilot: ^7Eeh... tripulación, les recuerdo que no tenemos autorización para disparar contra los edificios. Creemos que aún hay civiles dentro."
+
+REFERENCE           SUBTITLE_AC130_FCO_STILLMOVIN1914
+LANG_ENGLISH        "^2AC-130 FCO: ^7Sigue moviéndose."
+
+REFERENCE           SUBTITLE_AC130_FCO_SWITCHTO25813
+LANG_ENGLISH        "^2AC-130 FCO: ^7Eh... pase a la 25 y acabe con ellos rápido."
+
+REFERENCE           SUBTITLE_AC130_FCO_TAKEEMOUT21911
+LANG_ENGLISH        "^2AC-130 TV Operator: ^7Adelante, neutralícelo."
+
+REFERENCE           SUBTITLE_AC130_FCO_THEMANDTANKS1925
+LANG_ENGLISH        "^2AC-130 TV Operator: ^7A por ellos y los tanques."
+
+REFERENCE           SUBTITLE_AC130_FCO_THEREWEGO510
+LANG_ENGLISH        "^2AC-130 TV Operator: ^7Y allá vamos."
+
+REFERENCE           SUBTITLE_AC130_FCO_THEYFELT1919
+LANG_ENGLISH        "^2AC-130 TV Operator: ^7Esa la han notado."
+
+REFERENCE           SUBTITLE_AC130_FCO_THOSEGUYS79
+LANG_ENGLISH        "^2AC-130 FCO: ^7Permiso para atacar a esos tíos."
+
+REFERENCE           SUBTITLE_AC130_FCO_TOOCLOSE241
+LANG_ENGLISH        "^2AC-130 FCO: ^7Ojo con los disparos. Los nuestros están ahí abajo."
+
+REFERENCE           SUBTITLE_AC130_FCO_TOOCLOSE42
+LANG_ENGLISH        "^2AC-130 FCO: ^7Está disparando demasiado cerca de los nuestros. Repito, demasiado cerca."
+
+REFERENCE           SUBTITLE_AC130_FCO_TRACKING711
+LANG_ENGLISH        "^2AC-130 FCO: ^7Seguimiento."
+
+REFERENCE           SUBTITLE_AC130_FCO_TWOBIRDS812
+LANG_ENGLISH        "^2AC-130 FCO: ^7Dos pájaros enemigos en el centro de la intersección."
+
+REFERENCE           SUBTITLE_AC130_FCO_USETHE105214
+LANG_ENGLISH        "^2AC-130 FCO: ^7Use la 105 para eliminar esos tanques."
+
+REFERENCE           SUBTITLE_AC130_FCO_USETHE40213
+LANG_ENGLISH        "^2AC-130 FCO: ^7Use la 40 para eliminar esos tanques."
+
+REFERENCE           SUBTITLE_AC130_FCO_VEHICLESINAREA89
+LANG_ENGLISH        "^2AC-130 TV Operator: ^7Aún hay vehículos enemigos en la zona. Elimínelos."
+
+REFERENCE           SUBTITLE_AC130_FCO_VEHICLESNEUTRALIZED816
+LANG_ENGLISH        "^2AC-130 FCO: ^7Vehículos neutralizados."
+
+REFERENCE           SUBTITLE_AC130_FCO_WATCHBUILDINGS182
+LANG_ENGLISH        "^2AC-130 FCO: ^7Cuidado con los edificios. Podría haber civiles dentro."
+
+REFERENCE           SUBTITLE_AC130_FCO_WICKED55
+LANG_ENGLISH        "^2AC-130 TV Operator: ^7Alucinante."
+
+REFERENCE           SUBTITLE_AC130_FCO_YEAH1927
+LANG_ENGLISH        "^2AC-130 TV Operator: ^7¡Síiiiiiiiii!"
+
+REFERENCE           SUBTITLE_AC130_FCO_YEPISEEEM146
+LANG_ENGLISH        "^2AC-130 TV Operator: ^7Sí, ya lo veo."
+
+REFERENCE           SUBTITLE_AC130_FCO_YOUGOTEM52
+LANG_ENGLISH        "^2AC-130 TV Operator: ^7Los ha cazado."
+
+REFERENCE           SUBTITLE_AC130_FCO_YOURECLEAR1316
+LANG_ENGLISH        "^2AC-130 TV Operator: ^7Sí, tenemos permiso para eliminarlos."
+
+REFERENCE           SUBTITLE_AC130_GTR_TOWER186
+LANG_ENGLISH        "^2Grinch: ^7¡La torre no aguantará mucho más! "
+
+REFERENCE           SUBTITLE_AC130_GTR_WINDOWS119
+LANG_ENGLISH        "^2Truck: ^7¡Blancos en las ventanas!"
+
+REFERENCE           SUBTITLE_AC130_HIT_COPYTHAT2233
+LANG_ENGLISH        "^2Truck: ^7¡Recibido! "
+
+REFERENCE           SUBTITLE_AC130_HIT_DAMNCLOSE1220_1
+LANG_ENGLISH        "^2Truck: ^7Joder. ¡Por los pelos!"
+
+REFERENCE           SUBTITLE_AC130_HIT_HESTOAST59
+LANG_ENGLISH        "^2AC-130 TV Operator: ^7Sí, es historia."
+
+REFERENCE           SUBTITLE_AC130_HIT_INCOMING1524
+LANG_ENGLISH        "^2Truck: ^7¡Nos atacan!"
+
+REFERENCE           SUBTITLE_AC130_HIT_INTHEBUS2229
+LANG_ENGLISH        "^2Truck: ^7¡Hay uno en el autobús! ¡A las diez!"
+
+REFERENCE           SUBTITLE_AC130_HIT_NOSHOT115
+LANG_ENGLISH        "^2Truck: ^7No hay impacto. Siga."
+
+REFERENCE           SUBTITLE_AC130_HIT_ONIT1222
+LANG_ENGLISH        "^2Grinch: ^7¡Voy!"
+
+REFERENCE           SUBTITLE_AC130_HIT_REDCARS1510
+LANG_ENGLISH        "^2Truck: ^7¡Enfrente, junto a los coches rojos!"
+
+REFERENCE           SUBTITLE_AC130_HIT_TAGHIM116
+LANG_ENGLISH        "^2Truck: ^7Bien, sígalo."
+
+REFERENCE           SUBTITLE_AC130_HMV_ENROUTE1132
+LANG_ENGLISH        "^2Uniform 6-2: ^7Metal 0-1, aquí Uniform 6-2. Voy de camino a su posición."
+
+REFERENCE           SUBTITLE_AC130_HMV_GETAMOVEON2225
+LANG_ENGLISH        "^2Uniform 6-2: ^7Z-A a dos kilómetros al norte. ¡Dense prisa!"
+
+REFERENCE           SUBTITLE_AC130_HMV_JUSTDOIT133
+LANG_ENGLISH        "^2Uniform 6-2: ^7¡Disparen ya, Warhammer!"
+
+REFERENCE           SUBTITLE_AC130_HMV_MOVINGOUT1219
+LANG_ENGLISH        "^2Uniform 6-2: ^7¡Warhammer, aquí Uniform 6-2! ¡Vamos a replegarnos!"
+
+REFERENCE           SUBTITLE_AC130_HMV_OFFOURTAIL131
+LANG_ENGLISH        "^2Uniform 6-2: ^7¡Líbrennos de esos tangos!"
+
+REFERENCE           SUBTITLE_AC130_HMV_WATCHFORHMVS2232
+LANG_ENGLISH        "^2Uniform 6-2: ^70-1, aquí Uniform 6-2. El convoy se dirige a su posición. Estén atentos a los Humvees. Cambio."
+
+REFERENCE           SUBTITLE_AC130_HMV_WESECURE1217
+LANG_ENGLISH        "^2Uniform 6-2: ^7¿Todos a salvo?"
+
+REFERENCE           SUBTITLE_AC130_HQR_ANYBUILDINGS99
+LANG_ENGLISH        "^2Overlord: ^7Afirmativo, Warhammer. Permiso para disparar contra edificios con tropas enemigas."
+
+REFERENCE           SUBTITLE_AC130_HQR_ASSIST21
+LANG_ENGLISH        "^2Overlord: ^7Warhammer, Metal 0-1 está inmovilizado cerca de la zona Hammer. Necesito que rompan formación y los ayuden."
+
+REFERENCE           SUBTITLE_AC130_HQR_BOMBRUN74
+LANG_ENGLISH        "^2Overlord: ^7Recibido. De oeste a este. Odin 6, tiene permiso para bombardear en cinco, cero, cero, uno."
+
+REFERENCE           SUBTITLE_AC130_HQR_CASASSETS226
+LANG_ENGLISH        "^2Overlord: ^7Recibido, 0-1. Buena comprobación. Apoyo aéreo en camino desde el sur. Llegará en diez minutos."
+
+REFERENCE           SUBTITLE_AC130_HQR_COPYSTANDBY98
+LANG_ENGLISH        "^2Overlord: ^7Recibido. A la espera..."
+
+REFERENCE           SUBTITLE_AC130_HQR_DOWHATEVER1613_2
+LANG_ENGLISH        "^2Overlord: ^7Odin, haga lo que sea necesario, pero traiga a esos hombres a casa."
+
+REFERENCE           SUBTITLE_AC130_HQR_FASTMOVERS114
+LANG_ENGLISH        "^2Overlord: ^7Entendido. Zona de aterrizaje secundaria. El convoy de Uniform 6-2 se dirige al punto de extracción. Calculo diez minutos."
+
+REFERENCE           SUBTITLE_AC130_HQR_TWOMINUTES24
+LANG_ENGLISH        "^2Overlord: ^7Metal 0-1, Warhammer ha repostado y está listo para recibir más objetivos."
+
+REFERENCE           SUBTITLE_AC130_J24_CLEAROUT1012
+LANG_ENGLISH        "^2Jester 2-4: ^7Warhammer, el LANTIRN capta numerosas señales. Tenemos que retirarnos."
+
+REFERENCE           SUBTITLE_AC130_J24_STAYONHIM1010
+LANG_ENGLISH        "^2Jester 2-4: ^7¡No lo pierda!"
+
+REFERENCE           SUBTITLE_AC130_J25_BROKELOCK103
+LANG_ENGLISH        "^2Jester 2-5: ^7¡Mierda! ¡No lo tengo fijado!"
+
+REFERENCE           SUBTITLE_AC130_J25_INPURSUIT109
+LANG_ENGLISH        "^2Jester 2-5: ^7¡Jester 2-5, rompemos formación para darle caza!"
+
+REFERENCE           SUBTITLE_AC130_J25_MIGINBOUND102
+LANG_ENGLISH        "^2Jester 2-5: ^7¡Se acerca un MIG a las diez!"
+
+REFERENCE           SUBTITLE_AC130_J25_MISSILELOCK1011
+LANG_ENGLISH        "^2Jester 2-5: ^7Velocidad de vuelo, trescientos. Fijando misiles."
+
+REFERENCE           SUBTITLE_AC130_O61_BOMBSAWAY163
+LANG_ENGLISH        "^2Odin 6-1: ^7Metal 0-1, aquí Odin 6. Bombas fuera."
+
+REFERENCE           SUBTITLE_AC130_O62_BOMBSAWAY164
+LANG_ENGLISH        "^2Odin 6-2: ^7Odin 6-2, bombas fuera, bombas fuera."
+
+REFERENCE           SUBTITLE_AC130_ODN_INBOUND2212
+LANG_ENGLISH        "^2Odin 6-1: ^7Recibido, Overlord. En camino."
+
+REFERENCE           SUBTITLE_AC130_ODN_LEVELEVERYTHING1613_1
+LANG_ENGLISH        "^2Odin 6-1: ^7Overlord, el bombardeo arrasará toda la zona. Solicito permiso..."
+
+REFERENCE           SUBTITLE_AC130_ODN_WHOSWHO1611
+LANG_ENGLISH        "^2Odin 6-1: ^70-1, aquí Odin 6. No distingo a nadie allí abajo. Necesito que marque los objetivos."
+
+REFERENCE           SUBTITLE_AC130_PLT_2MIKESOUT22
+LANG_ENGLISH        "^2AC-130 Pilot: ^7Recibido, Overlord. En camino."
+
+REFERENCE           SUBTITLE_AC130_PLT_ADJUSTMENTS151_1
+LANG_ENGLISH        "^2AC-130 Pilot: ^7Espere, 0-1. Estoy haciendo ajustes."
+
+REFERENCE           SUBTITLE_AC130_PLT_AHEADOFYOU85
+LANG_ENGLISH        "^2AC-130 Pilot: ^7Metal 0-1, atacaremos a los blancos que tienen delante. Mantengan la posición."
+
+REFERENCE           SUBTITLE_AC130_PLT_ALLCLEAR232
+LANG_ENGLISH        "^2AC-130 Pilot: ^7Todo despejado, Metal 0-1."
+
+REFERENCE           SUBTITLE_AC130_PLT_ANOTHERWAY221
+LANG_ENGLISH        "^2AC-130 Pilot: ^7Negativo, Metal 0-1, los blancos están muy cerca. Encuentren una ruta alternativa."
+
+REFERENCE           SUBTITLE_AC130_PLT_ARMORUPROAD810
+LANG_ENGLISH        "^2AC-130 FCO: ^7Blindados enemigos carretera arriba. Permiso para atacar."
+
+REFERENCE           SUBTITLE_AC130_PLT_AZIMUTH33
+LANG_ENGLISH        "^2AC-130 Pilot: ^7Recalibre ángulo de barrido del acimut. Ajuste elevación."
+
+REFERENCE           SUBTITLE_AC130_PLT_BEFOREDELTA84
+LANG_ENGLISH        "^2AC-130 FCO: ^7Tenemos que eliminarlos antes de que llegue Delta."
+
+REFERENCE           SUBTITLE_AC130_PLT_BEHINDCONVOY136
+LANG_ENGLISH        "^2AC-130 Pilot: ^7Tripulación, tienen luz verde para atacar a los vehículos enemigos, pero procuren alejar los disparos del convoy."
+
+REFERENCE           SUBTITLE_AC130_PLT_BINGOFUEL161
+LANG_ENGLISH        "^2AC-130 Pilot: ^70-1, andamos escasos de combustible. El apoyo aéreo llegará en treinta segundos. Aguanten un poco."
+
+REFERENCE           SUBTITLE_AC130_PLT_BIRDSINBOUND1312
+LANG_ENGLISH        "^2AC-130 Pilot: ^7Se acercan pájaros enemigos."
+
+REFERENCE           SUBTITLE_AC130_PLT_BREATHING71_1
+LANG_ENGLISH        "^2AC-130 Pilot: ^7Vía libre, 0-1. Parece que ya pueden tomarse un respiro."
+
+REFERENCE           SUBTITLE_AC130_PLT_CLEANUPSIGNAL107
+LANG_ENGLISH        "^2AC-130 Pilot: ^7Filtre bien esa señal."
+
+REFERENCE           SUBTITLE_AC130_PLT_CLEARSHOT1314
+LANG_ENGLISH        "^2AC-130 Pilot: ^7Afine el disparo, no vaya a dar a los nuestros."
+
+REFERENCE           SUBTITLE_AC130_PLT_CLEARTOMOVE233
+LANG_ENGLISH        "^2AC-130 Pilot: ^7Metal 0-1, pueden avanzar. Nosotros los cubriremos."
+
+REFERENCE           SUBTITLE_AC130_PLT_CLEARTOMOVEUP91
+LANG_ENGLISH        "^2AC-130 Pilot: ^7Metal 0-1, parece que ya pueden continuar su camino."
+
+REFERENCE           SUBTITLE_AC130_PLT_COPYTHAT241220
+LANG_ENGLISH        "^2AC-130 Pilot: ^7Recibido, 6-2."
+
+REFERENCE           SUBTITLE_AC130_PLT_CORNERBUILDING910
+LANG_ENGLISH        "^2AC-130 Pilot: ^7Tripulación, pueden atacar el edificio de la esquina."
+
+REFERENCE           SUBTITLE_AC130_PLT_COVERED2210
+LANG_ENGLISH        "^2AC-130 Pilot: ^7Los cubriremos en la medida de lo posible, 0-1."
+
+REFERENCE           SUBTITLE_AC130_PLT_DANGERCLOSE81
+LANG_ENGLISH        "^2AC-130 Pilot: ^7Neutralizando blancos, Metal 0-1. Están muy cerca. Repito, están muy cerca."
+
+REFERENCE           SUBTITLE_AC130_PLT_DESCENDING23
+LANG_ENGLISH        "^2AC-130 Pilot: ^7Tripulación, vamos a descender."
+
+REFERENCE           SUBTITLE_AC130_PLT_DONOTFIRE27
+LANG_ENGLISH        "^2AC-130 FCO: ^7Cuidado con los edificios."
+
+REFERENCE           SUBTITLE_AC130_PLT_ENEMYACTIVITY77
+LANG_ENGLISH        "^2AC-130 Pilot: ^7Metal 0-1, tropas enemigas en su dirección. Recomiendo que mantengan la posición hasta que pasemos. Cambio."
+
+REFERENCE           SUBTITLE_AC130_PLT_ENEMYAHEAD2220
+LANG_ENGLISH        "^2AC-130 Pilot: ^7Metal 0-1, blindado neutralizado. Cuidado, todavía quedan unidades enemigas delante."
+
+REFERENCE           SUBTITLE_AC130_PLT_ENEMYARMOR2216
+LANG_ENGLISH        "^2AC-130 Pilot: ^7Recibido, Metal 0-1. Atacando a blindado enemigo."
+
+REFERENCE           SUBTITLE_AC130_PLT_ENGAGEANY216
+LANG_ENGLISH        "^2AC-130 Pilot: ^7Tripulación, luz verde para atacar a cualquier enemigo que avisten."
+
+REFERENCE           SUBTITLE_AC130_PLT_ENGAGEARMOR1410
+LANG_ENGLISH        "^2AC-130 Pilot: ^7Tripulación, disparen contra los blindados del puente."
+
+REFERENCE           SUBTITLE_AC130_PLT_ENGAGINGTARGET1522
+LANG_ENGLISH        "^2AC-130 Pilot: ^7Metal 0-1, atacando objetivo. Alerta de proximidad."
+
+REFERENCE           SUBTITLE_AC130_PLT_EYESONHAMMER210
+LANG_ENGLISH        "^2AC-130 Pilot: ^7Metal 0-1, sobrevolamos la zona Hammer. Denos una señal. Cambio."
+
+REFERENCE           SUBTITLE_AC130_PLT_FASTASWECAN234
+LANG_ENGLISH        "^2AC-130 Pilot: ^7Vamos lo más rápido posible."
+
+REFERENCE           SUBTITLE_AC130_PLT_FIRESOUTH231
+LANG_ENGLISH        "^2AC-130 Pilot: ^7Dispare solo al sur del humo rojo."
+
+REFERENCE           SUBTITLE_AC130_PLT_FRIENDLYBIRDS75
+LANG_ENGLISH        "^2AC-130 Pilot: ^7Tripulación, no disparen al sur, tenemos pájaros aliados en el espacio aéreo."
+
+REFERENCE           SUBTITLE_AC130_PLT_FRIENDLYVEHICLES123
+LANG_ENGLISH        "^2AC-130 Pilot: ^7Tripulación, hay vehículos aliados en tierra. Al oeste de la fuente. Repito, al oeste de la fuente."
+
+REFERENCE           SUBTITLE_AC130_PLT_GIVEYOUROOM1516
+LANG_ENGLISH        "^2AC-130 Pilot: ^7Metal 0-1, marque objetivos con humo y procuraremos despejarles el camino."
+
+REFERENCE           SUBTITLE_AC130_PLT_GOTYOURMARK1130
+LANG_ENGLISH        "^2AC-130 Pilot: ^7Bien, veo su marca. Está muy cerca."
+
+REFERENCE           SUBTITLE_AC130_PLT_GREENLIGHT73
+LANG_ENGLISH        "^2AC-130 Pilot: ^7Overlord, Metal 0-1 está a salvo. Permiso para bombardear zona objetivo de oeste a este. Repito, de oeste a este."
+
+REFERENCE           SUBTITLE_AC130_PLT_LEFTATFORK94
+LANG_ENGLISH        "^2AC-130 Pilot: ^7Recibido. A la izquierda."
+
+REFERENCE           SUBTITLE_AC130_PLT_MISSILE104
+LANG_ENGLISH        "^2AC-130 Pilot: ^7¡Misil enemigo!"
+
+REFERENCE           SUBTITLE_AC130_PLT_NOTAUTHORIZED183
+LANG_ENGLISH        "^2AC-130 Pilot: ^7Tripulación, no podemos disparar contra los edificios."
+
+REFERENCE           SUBTITLE_AC130_PLT_ONEPASSONLY1015
+LANG_ENGLISH        "^2AC-130 Pilot: ^7Metal 0-1, podemos ofrecerles una pasada, no más."
+
+REFERENCE           SUBTITLE_AC130_PLT_ORDINANCE148
+LANG_ENGLISH        "^2AC-130 Pilot: ^70-1, si disparamos contra ese puente no podrán llegar a la zona de aterrizaje."
+
+REFERENCE           SUBTITLE_AC130_PLT_READYFORMARK1531
+LANG_ENGLISH        "^2AC-130 Pilot: ^7Ajustes completados. Estamos listos."
+
+REFERENCE           SUBTITLE_AC130_PLT_READYFORTARGETS1529
+LANG_ENGLISH        "^2AC-130 Pilot: ^7Estamos en posición, esperamos su señal."
+
+REFERENCE           SUBTITLE_AC130_PLT_REARM111
+LANG_ENGLISH        "^2AC-130 Pilot: ^7Metal 0-1, estamos recibiendo demasiados disparos. Tardaremos diez minutos en dar la vuelta."
+
+REFERENCE           SUBTITLE_AC130_PLT_REDSMOKE2230
+LANG_ENGLISH        "^2AC-130 Pilot: ^7Confirmado. Humo rojo."
+
+REFERENCE           SUBTITLE_AC130_PLT_ROGERTHAT241013
+LANG_ENGLISH        "^2AC-130 Pilot: ^7Recibido, 2-4."
+
+REFERENCE           SUBTITLE_AC130_PLT_RPGFIRE97
+LANG_ENGLISH        "^2AC-130 Pilot: ^7Overlord, vemos disparos de RPG y armas cortas desde el edificio de la esquina noroeste. Permiso para atacar."
+
+REFERENCE           SUBTITLE_AC130_PLT_SEEFRIENDLIES28
+LANG_ENGLISH        "^2AC-130 Pilot: ^7Sistemas de selección de objetivo activados. ¿Ven a los nuestros?"
+
+REFERENCE           SUBTITLE_AC130_PLT_SETSCANRANGE235
+LANG_ENGLISH        "^2AC-130 Pilot: ^7Rango de escaneado."
+
+REFERENCE           SUBTITLE_AC130_PLT_SOLIDCOPY2211
+LANG_ENGLISH        "^2AC-130 Pilot: ^7Alto y claro, Metal 0-1."
+
+REFERENCE           SUBTITLE_AC130_PLT_TANKFIRE145
+LANG_ENGLISH        "^2AC-130 Pilot: ^7Tanques disparando desde el puente que tienen delante."
+
+REFERENCE           SUBTITLE_AC130_PLT_TARGETCONFIRMED1530
+LANG_ENGLISH        "^2AC-130 Pilot: ^7Objetivo confirmado, espere."
+
+REFERENCE           SUBTITLE_AC130_PLT_TARGETRESET236
+LANG_ENGLISH        "^2AC-130 Pilot: ^7Blanco reiniciado."
+
+REFERENCE           SUBTITLE_AC130_PLT_TARGETSAHEAD1520
+LANG_ENGLISH        "^2AC-130 Pilot: ^7Recibido. Eliminando blancos en zona frontal."
+
+REFERENCE           SUBTITLE_AC130_PLT_TENMIKES1124
+LANG_ENGLISH        "^2AC-130 Pilot: ^70-1, estamos en posición y disponibles por diez minutos."
+
+REFERENCE           SUBTITLE_AC130_PLT_TWOVEHICLES237
+LANG_ENGLISH        "^2AC-130 Pilot: ^7Metal 0-1, tiene dos vehículos enemigos a las seis. Cambio."
+
+REFERENCE           SUBTITLE_AC130_PLT_WECANASSIST132
+LANG_ENGLISH        "^2AC-130 Pilot: ^76-2, podemos ayudarlos, pero están demasiado cerca. ¿Lo entiende?"
+
+REFERENCE           SUBTITLE_AC130_PLT_WEGOTCHA215
+LANG_ENGLISH        "^2AC-130 Pilot: ^7Recibido, Metal 0-1. Los tenemos."
+
+REFERENCE           SUBTITLE_AC130_RNO_12HIGH1513
+LANG_ENGLISH        "^2Grinch: ^7¡Contacto a las doce arriba!"
+
+REFERENCE           SUBTITLE_AC130_RNO_AFFIRMATIVE1111
+LANG_ENGLISH        "^2Grinch: ^7¡Afirmativo!"
+
+REFERENCE           SUBTITLE_AC130_RNO_ATTENTION112
+LANG_ENGLISH        "^2Grinch: ^7Creo que hemos captado su interés."
+
+REFERENCE           SUBTITLE_AC130_RNO_BEHINDYOU1114
+LANG_ENGLISH        "^2Grinch: ^7¡Voy justo detrás de usted!"
+
+REFERENCE           SUBTITLE_AC130_RNO_BOSSMAN1117
+LANG_ENGLISH        "^2Grinch: ^7Le llevo ventaja, jefe."
+
+REFERENCE           SUBTITLE_AC130_RNO_COMINTHROUGH1526
+LANG_ENGLISH        "^2Grinch: ^7¡Allá voy!"
+
+REFERENCE           SUBTITLE_AC130_RNO_DIETODAY1617
+LANG_ENGLISH        "^2Grinch: ^7¡Cierre el pico o le meteré un tiro!"
+
+REFERENCE           SUBTITLE_AC130_RNO_GOTANOTHER1511
+LANG_ENGLISH        "^2Grinch: ^7¡Otro más! ¡Izquierda, veinte grados!"
+
+REFERENCE           SUBTITLE_AC130_RNO_LASTMAG1610
+LANG_ENGLISH        "^2Grinch: ^7¡Último cargador!"
+
+REFERENCE           SUBTITLE_AC130_RNO_LASTTHATLONG168
+LANG_ENGLISH        "^2Grinch: ^7¡No creo que vayamos a durar tanto!"
+
+REFERENCE           SUBTITLE_AC130_RNO_MOVE16
+LANG_ENGLISH        "^2Grinch: ^7¡Deprisa! ¡Deprisa!"
+
+REFERENCE           SUBTITLE_AC130_RNO_MOVINUP1521
+LANG_ENGLISH        "^2Grinch: ^7¡Voy a salir! ¡Cúbrame!"
+
+REFERENCE           SUBTITLE_AC130_RNO_NEXTBIRD173_2
+LANG_ENGLISH        "^2Grinch: ^7Ya me encargo yo. Lo subiré al próximo pájaro."
+
+REFERENCE           SUBTITLE_AC130_RNO_NICERIDE173_5
+LANG_ENGLISH        "^2Grinch: ^7Buen viaje, caballeros."
+
+REFERENCE           SUBTITLE_AC130_RNO_NOWHERE1120
+LANG_ENGLISH        "^2Grinch: ^7Como tengamos que cargar con este capullo por toda la ciudad, no llegaremos a ninguna parte."
+
+REFERENCE           SUBTITLE_AC130_RNO_REDSMOKE2235
+LANG_ENGLISH        "^2Grinch: ^7¡Marcamos con humo!"
+
+REFERENCE           SUBTITLE_AC130_RNO_RIOTVAN1512
+LANG_ENGLISH        "^2Grinch: ^7¡Junto al furgón policial!"
+
+REFERENCE           SUBTITLE_AC130_RNO_WORTHIT1527
+LANG_ENGLISH        "^2Grinch: ^7¡Más vale que este cabrón merezca la pena!"
+
+REFERENCE           SUBTITLE_AC130_SND_ALMOST1133
+LANG_ENGLISH        "^2Sandman: ^7¡Recibido! Ya casi estamos en la intersección. ¡Un minuto!"
+
+REFERENCE           SUBTITLE_AC130_SND_ALRIGHTDOIT173_3
+LANG_ENGLISH        "^2Sandman: ^7¡Está bien, hágalo!"
+
+REFERENCE           SUBTITLE_AC130_SND_ALRIGHTLETSGO118
+LANG_ENGLISH        "^2Sandman: ^7Vale. ¡Ha caído! ¡Vamos!"
+
+REFERENCE           SUBTITLE_AC130_SND_ALTERNATE113
+LANG_ENGLISH        "^2Sandman: ^7La zona de aterrizaje principal no es segura. Raptor ha caído. Pasamos a opción B."
+
+REFERENCE           SUBTITLE_AC130_SND_ANYTIMENOW117
+LANG_ENGLISH        "^2Sandman: ^7¡Cuando quiera, Truck!"
+
+REFERENCE           SUBTITLE_AC130_SND_ARMORBEHIND137_1
+LANG_ENGLISH        "^2Sandman: ^7¡Blindados enemigos detrás! ¡Destrúyanlos!"
+
+REFERENCE           SUBTITLE_AC130_SND_ARMORONBRIDGE147
+LANG_ENGLISH        "^2Sandman: ^7Warhammer, el convoy está inmovilizado. Hay un blindado en el puente. ¡Elimínelo!"
+
+REFERENCE           SUBTITLE_AC130_SND_BACKWARHAMMER1131
+LANG_ENGLISH        "^2Sandman: ^7¡Genial! ¡Menos mal que han vuelto, Warhammer!"
+
+REFERENCE           SUBTITLE_AC130_SND_BLACKLZ153
+LANG_ENGLISH        "^2Sandman: ^7¡Overlord, aquí Metal 0-1! Zona de aterrizaje en dos, siete, siete, cinco."
+
+REFERENCE           SUBTITLE_AC130_SND_BTRNEUTRALIZED86
+LANG_ENGLISH        "^2Sandman: ^7¡Tienen que neutralizar ese BTR!"
+
+REFERENCE           SUBTITLE_AC130_SND_CHOPPERSOFFASS1317
+LANG_ENGLISH        "^2Sandman: ^7¡Borre esos helicópteros del mapa, Warhammer!"
+
+REFERENCE           SUBTITLE_AC130_SND_CLEAREDHOT2222
+LANG_ENGLISH        "^2Sandman: ^7¡Tenemos humo en los objetivos! ¡Tienen vía libre, Warhammer!"
+
+REFERENCE           SUBTITLE_AC130_SND_CLEARTOSHOOT212
+LANG_ENGLISH        "^2Sandman: ^7El resto es objetivo válido, pero guarden las distancias."
+
+REFERENCE           SUBTITLE_AC130_SND_CUTTHROUGH917
+LANG_ENGLISH        "^2Sandman: ^7¡Gracias por la ayuda! ¡Vamos a atajar por el hotel del otro lado de la calle!"
+
+REFERENCE           SUBTITLE_AC130_SND_DANGERCLOSE45
+LANG_ENGLISH        "^2Sandman: ^7No apure tanto, Warhammer."
+
+REFERENCE           SUBTITLE_AC130_SND_DEADCENTER1613
+LANG_ENGLISH        "^2Sandman: ^7¡Estamos clavados en el puente! ¡Lance todo lo que tenga al norte de nuestra posición!"
+
+REFERENCE           SUBTITLE_AC130_SND_ENEMYARMOR228
+LANG_ENGLISH        "^2Sandman: ^7Warhammer, han llegado algunos blindados enemigos."
+
+REFERENCE           SUBTITLE_AC130_SND_FINISHTANKS159
+LANG_ENGLISH        "^2Sandman: ^7¡Acabe con esos tanques!"
+
+REFERENCE           SUBTITLE_AC130_SND_FIREFOREFFECT2234
+LANG_ENGLISH        "^2Sandman: ^7¡Bien! ¡Les ha dado de lleno!"
+
+REFERENCE           SUBTITLE_AC130_SND_FIREFROMEMBASSY1014
+LANG_ENGLISH        "^2Sandman: ^7¡Nos están disparando desde la embajada! ¡Échenos un cable!"
+
+REFERENCE           SUBTITLE_AC130_SND_FLANKMG113
+LANG_ENGLISH        "^2Sandman: ^7Haremos de cebo. Truck y Frost, flanqueen la ametralladora para que podamos avanzar."
+
+REFERENCE           SUBTITLE_AC130_SND_FLOORIT1223
+LANG_ENGLISH        "^2Sandman: ^7¡Pise a fondo!"
+
+REFERENCE           SUBTITLE_AC130_SND_GENTLEMEN162
+LANG_ENGLISH        "^2Sandman: ^7¡Recibido! ¡Treinta segundos, chicos!"
+
+REFERENCE           SUBTITLE_AC130_SND_GETAMARKER2240
+LANG_ENGLISH        "^2Sandman: ^7¡Frost, tiene que marcar ese tanque!"
+
+REFERENCE           SUBTITLE_AC130_SND_GETJAVELIN152
+LANG_ENGLISH        "^2Sandman: ^7¡Coja un Javelin del Humvee y acabe con esos tanques!"
+
+REFERENCE           SUBTITLE_AC130_SND_GETMGDOWN2215
+LANG_ENGLISH        "^2Sandman: ^7¡Nos están acribillando! ¡Elimine esa ametralladora!"
+
+REFERENCE           SUBTITLE_AC130_SND_GETONBOARD176
+LANG_ENGLISH        "^2Sandman: ^7¡Frost, suba a bordo!"
+
+REFERENCE           SUBTITLE_AC130_SND_GETONTHAT501221
+LANG_ENGLISH        "^2Sandman: ^7¡Grinch, use la calibre 50!"
+
+REFERENCE           SUBTITLE_AC130_SND_GETOTHERONE156
+LANG_ENGLISH        "^2Sandman: ^7¡Uno menos! ¡Ahora a por el otro!"
+
+REFERENCE           SUBTITLE_AC130_SND_GETSMOKEONTANK1126
+LANG_ENGLISH        "^2Sandman: ^7¡Lance humo a ese tanque!"
+
+REFERENCE           SUBTITLE_AC130_SND_GETTINGHIT713
+LANG_ENGLISH        "^2Sandman: ^7¡Warhammer, nos está lloviendo plomo por todas partes!"
+
+REFERENCE           SUBTITLE_AC130_SND_GETTINGOUTTAHERE173
+LANG_ENGLISH        "^2Sandman: ^7¡Vamos! Nos largamos de aquí echando leches."
+
+REFERENCE           SUBTITLE_AC130_SND_GETVOLKLETSGO12
+LANG_ENGLISH        "^2Sandman: ^7¡Vamos! ¡A por Volk!"
+
+REFERENCE           SUBTITLE_AC130_SND_GIVEME1051016
+LANG_ENGLISH        "^2Sandman: ^7¡El edificio que hay al otro lado del patio! ¡Láncele un proyectil de 105!"
+
+REFERENCE           SUBTITLE_AC130_SND_GOINLEFT138
+LANG_ENGLISH        "^2Sandman: ^7¡A la izquierda!"
+
+REFERENCE           SUBTITLE_AC130_SND_GOODEFFECT715
+LANG_ENGLISH        "^2Sandman: ^7¡Les han dado de lleno, Warhammer!"
+
+REFERENCE           SUBTITLE_AC130_SND_GOODGUNS2213
+LANG_ENGLISH        "^2Sandman: ^7¡Buen tiro, Warhammer!"
+
+REFERENCE           SUBTITLE_AC130_SND_GOODTOHAVEYOU2231
+LANG_ENGLISH        "^2Sandman: ^7¡Con dos pares, Warhammer! ¡Me alegro de tenerlos de vuelta!"
+
+REFERENCE           SUBTITLE_AC130_SND_GOODWORK717
+LANG_ENGLISH        "^2Sandman: ^7Buen trabajo, Warhammer. Vamos a seguir."
+
+REFERENCE           SUBTITLE_AC130_SND_GORIGHTGORIGHT139
+LANG_ENGLISH        "^2Sandman: ^7¡Derecha! ¡Derecha!"
+
+REFERENCE           SUBTITLE_AC130_SND_GOTTAGONOW11_1
+LANG_ENGLISH        "^2Sandman: ^7¡Coja a Volk! ¡Hay que irse ya!"
+
+REFERENCE           SUBTITLE_AC130_SND_GRINCHYOUREUP1116
+LANG_ENGLISH        "^2Sandman: ^7¡Le toca, Grinch!"
+
+REFERENCE           SUBTITLE_AC130_SND_HARDRIGHT1311
+LANG_ENGLISH        "^2Sandman: ^7¡A la derecha!"
+
+REFERENCE           SUBTITLE_AC130_SND_HITBIRDSNOW1318
+LANG_ENGLISH        "^2Sandman: ^7¡Derribe esos pájaros!"
+
+REFERENCE           SUBTITLE_AC130_SND_HITLASTTANK158
+LANG_ENGLISH        "^2Sandman: ^7¡Queda otro tanque, Frost!"
+
+REFERENCE           SUBTITLE_AC130_SND_HITTANKSNOW155
+LANG_ENGLISH        "^2Sandman: ^7¡Dispare a los tanques!"
+
+REFERENCE           SUBTITLE_AC130_SND_KEEPFIRING2239
+LANG_ENGLISH        "^2Sandman: ^7¡Siga disparando!"
+
+REFERENCE           SUBTITLE_AC130_SND_KEEPHITTIN2238
+LANG_ENGLISH        "^2Sandman: ^7¡Siga disparando!"
+
+REFERENCE           SUBTITLE_AC130_SND_KEEPHITTINEM718
+LANG_ENGLISH        "^2Sandman: ^7¡Siga disparando!"
+
+REFERENCE           SUBTITLE_AC130_SND_KEEPITCOMING2241
+LANG_ENGLISH        "^2Sandman: ^7¡Fuego sostenido, Warhammer!"
+
+REFERENCE           SUBTITLE_AC130_SND_KEEPITUP2243
+LANG_ENGLISH        "^2Sandman: ^7¡Sigan así!"
+
+REFERENCE           SUBTITLE_AC130_SND_KEEPVOLK1528
+LANG_ENGLISH        "^2Sandman: ^7¡Cubran a Volk como sea!"
+
+REFERENCE           SUBTITLE_AC130_SND_LETSGOCMON19
+LANG_ENGLISH        "^2Sandman: ^7¡Vamos, vamos! ¡Rápido!"
+
+REFERENCE           SUBTITLE_AC130_SND_LETSGOLETSGO22227
+LANG_ENGLISH        "^2Sandman: ^7¡Venga! ¡Vamos!"
+
+REFERENCE           SUBTITLE_AC130_SND_LETSMOVEGOGO1115
+LANG_ENGLISH        "^2Sandman: ^7¡En marcha! ¡Ya, ya!"
+
+REFERENCE           SUBTITLE_AC130_SND_LETSROLL1218
+LANG_ENGLISH        "^2Sandman: ^7¡A salvo! ¡Vámonos!"
+
+REFERENCE           SUBTITLE_AC130_SND_MAKINHARDLEFT1310
+LANG_ENGLISH        "^2Sandman: ^7¡Giro a la izquierda!"
+
+REFERENCE           SUBTITLE_AC130_SND_MARKONTHATTANK1129
+LANG_ENGLISH        "^2Sandman: ^7¡Frost! ¡Marque ese dichoso tanque!"
+
+REFERENCE           SUBTITLE_AC130_SND_MARKTHETARGET1517
+LANG_ENGLISH        "^2Sandman: ^7¡Marque el objetivo con humo, Frost!"
+
+REFERENCE           SUBTITLE_AC130_SND_MARKWITHSMOKE14_1
+LANG_ENGLISH        "^2Sandman: ^7Los marcaremos con humo."
+
+REFERENCE           SUBTITLE_AC130_SND_MOVEMOVECMON1112
+LANG_ENGLISH        "^2Sandman: ^7¡Venga, vamos, vamos!"
+
+REFERENCE           SUBTITLE_AC130_SND_MOVENOW1515
+LANG_ENGLISH        "^2Sandman: ^7¡Muévanse! ¡Ahora!"
+
+REFERENCE           SUBTITLE_AC130_SND_MOVEUP716
+LANG_ENGLISH        "^2Sandman: ^7¡Bien, se retiran! ¡Vamos, avancen! "
+
+REFERENCE           SUBTITLE_AC130_SND_MOVINNOW93
+LANG_ENGLISH        "^2Sandman: ^7Vamos a desviarnos a la izquierda. Cambio."
+
+REFERENCE           SUBTITLE_AC130_SND_MYGUYSGO2214
+LANG_ENGLISH        "^2Sandman: ^7¡Vamos, muchachos!"
+
+REFERENCE           SUBTITLE_AC130_SND_NEEDBTRDOWN2237
+LANG_ENGLISH        "^2Sandman: ^7¡Recibimos fuego intenso! ¡Tiene que eliminar ese BTR!"
+
+REFERENCE           SUBTITLE_AC130_SND_NEEDHIMALIVE173_4
+LANG_ENGLISH        "^2Sandman: ^7Y Grinch... Lo necesitamos vivo."
+
+REFERENCE           SUBTITLE_AC130_SND_NICEGUNS92
+LANG_ENGLISH        "^2Sandman: ^7Buen tiro, Warhammer. Vamos a continuar."
+
+REFERENCE           SUBTITLE_AC130_SND_NICEONE223
+LANG_ENGLISH        "^2Sandman: ^7Muy bien, Warhammer."
+
+REFERENCE           SUBTITLE_AC130_SND_NOTHINGLEFT1612
+LANG_ENGLISH        "^2Sandman: ^7¡Negativo! ¡Ya no tenemos más!"
+
+REFERENCE           SUBTITLE_AC130_SND_ONME22224
+LANG_ENGLISH        "^2Sandman: ^7¡Conmigo!"
+
+REFERENCE           SUBTITLE_AC130_SND_ONOURFLANK714
+LANG_ENGLISH        "^2Sandman: ^7¡Enemigos por el flanco!"
+
+REFERENCE           SUBTITLE_AC130_SND_ONTHEBIRD227
+LANG_ENGLISH        "^2Sandman: ^7¡Suba al pájaro, Frost! ¡Deprisa!"
+
+REFERENCE           SUBTITLE_AC130_SND_OURRIDE11
+LANG_ENGLISH        "^2Sandman: ^7¡Nuestro vehículo!"
+
+REFERENCE           SUBTITLE_AC130_SND_PUTSMOKE1519
+LANG_ENGLISH        "^2Sandman: ^7¡Lance humo a los blancos!"
+
+REFERENCE           SUBTITLE_AC130_SND_PUTSMOKEONTANK1128
+LANG_ENGLISH        "^2Sandman: ^7¡Eche humo al tanque ya!"
+
+REFERENCE           SUBTITLE_AC130_SND_READYGOGO114
+LANG_ENGLISH        "^2Sandman: ^7Preparados... ¡Ya, ya, ya!"
+
+REFERENCE           SUBTITLE_AC130_SND_RIGHTINFRONT1125
+LANG_ENGLISH        "^2Sandman: ^7¡Tenemos un blindado enemigo justo delante! ¡Vamos a marcarlo con humo!"
+
+REFERENCE           SUBTITLE_AC130_SND_RIGHTONUS137_2
+LANG_ENGLISH        "^2Sandman: ^7¡Los tenemos encima! ¡Ocúpense de ellos!"
+
+REFERENCE           SUBTITLE_AC130_SND_ROGERMOVING72
+LANG_ENGLISH        "^2Sandman: ^7Recibido. Vamos a salir."
+
+REFERENCE           SUBTITLE_AC130_SND_ROGERTHAT229
+LANG_ENGLISH        "^2Sandman: ^7Recibido."
+
+REFERENCE           SUBTITLE_AC130_SND_ROGERWILCO78
+LANG_ENGLISH        "^2Sandman: ^7Recibido. Adelante."
+
+REFERENCE           SUBTITLE_AC130_SND_RPGCOURTYARD2226
+LANG_ENGLISH        "^2Sandman: ^7Recibido. Nos disparan con RPG desde el edificio del otro lado del patio."
+
+REFERENCE           SUBTITLE_AC130_SND_RPGFIRE2101
+LANG_ENGLISH        "^2Sandman: ^7¡Esos RPG nos tienen acorralados! ¡Échenos una mano, Warhammer!"
+
+REFERENCE           SUBTITLE_AC130_SND_RPGFIRE396
+LANG_ENGLISH        "^2Sandman: ^7¡Warhammer, nos disparan con RPG desde el edificio que tenemos delante! ¡Solicito apoyo!"
+
+REFERENCE           SUBTITLE_AC130_SND_SETSECURITY151
+LANG_ENGLISH        "^2Sandman: ^7¡Aseguren la zona!"
+
+REFERENCE           SUBTITLE_AC130_SND_SOONER115
+LANG_ENGLISH        "^2Sandman: ^7¡Recibido! ¡Pero necesitaremos cobertura!"
+
+REFERENCE           SUBTITLE_AC130_SND_STOPSTOPSTOP142
+LANG_ENGLISH        "^2Sandman: ^7¡Alto! ¡Pare, pare!"
+
+REFERENCE           SUBTITLE_AC130_SND_STROBESON211
+LANG_ENGLISH        "^2Sandman: ^7¡Humo rojo en zona de aterrizaje! ¡Hay que marcar objetivos al norte de la posición!"
+
+REFERENCE           SUBTITLE_AC130_SND_STRONGPOINT1525
+LANG_ENGLISH        "^2Sandman: ^7¡Mantengan la posición! ¡El apoyo aéreo tardará tres minutos!"
+
+REFERENCE           SUBTITLE_AC130_SND_STRONGPOINTMONUMENT1113
+LANG_ENGLISH        "^2Sandman: ^7¡Vamos a tomar posiciones en el monumento de enfrente! ¡Grinch, traiga a Volk cuando sea seguro!"
+
+REFERENCE           SUBTITLE_AC130_SND_TAKECAREOFEM2221
+LANG_ENGLISH        "^2Sandman: ^7¡Warhammer, el enemigo dispone de apoyo aéreo! Tienen que ocuparse de ellos."
+
+REFERENCE           SUBTITLE_AC130_SND_TAKEOUTBTR87
+LANG_ENGLISH        "^2Sandman: ^7¡Acaben ya con ese BTR!"
+
+REFERENCE           SUBTITLE_AC130_SND_TAKEOUTCHOPPERS1319
+LANG_ENGLISH        "^2Sandman: ^7¡Destruya esos helicópteros!"
+
+REFERENCE           SUBTITLE_AC130_SND_TAKEOUTMG117_1
+LANG_ENGLISH        "^2Sandman: ^7¡Suban y eliminen la ametralladora!"
+
+REFERENCE           SUBTITLE_AC130_SND_TAKEOUTOTHER157
+LANG_ENGLISH        "^2Sandman: ^7¡Elimine el otro tanque!"
+
+REFERENCE           SUBTITLE_AC130_SND_TALKTOMEWARHAMMER1123
+LANG_ENGLISH        "^2Sandman: ^7¡Warhammer, responda! ¿Dónde estamos?"
+
+REFERENCE           SUBTITLE_AC130_SND_TANKSAREDOWN159_1
+LANG_ENGLISH        "^2Sandman: ^7¡Tanques abatidos! ¡Adelante!"
+
+REFERENCE           SUBTITLE_AC130_SND_THANKS224
+LANG_ENGLISH        "^2Sandman: ^7Warhammer, blancos destruidos. Gracias por la ayuda."
+
+REFERENCE           SUBTITLE_AC130_SND_THISISTHELZNOW149
+LANG_ENGLISH        "^2Sandman: ^7Ya es tarde. Aterrizamos aquí."
+
+REFERENCE           SUBTITLE_AC130_SND_THOSGUYS1518
+LANG_ENGLISH        "^2Sandman: ^7¡Marque a esos blancos enseguida!  "
+
+REFERENCE           SUBTITLE_AC130_SND_THROWREDSMOKE2242
+LANG_ENGLISH        "^2Sandman: ^7¡Lance humo rojo al tanque, Frost!"
+
+REFERENCE           SUBTITLE_AC130_SND_USEJAVELIN154
+LANG_ENGLISH        "^2Sandman: ^7¡Destruya esos tanques con el Javelin!"
+
+REFERENCE           SUBTITLE_AC130_SND_VANDALREADY172
+LANG_ENGLISH        "^2Sandman: ^7Estupendo, Vandal. Donde sea menos aquí."
+
+REFERENCE           SUBTITLE_AC130_SND_VOLKCOVERED1110
+LANG_ENGLISH        "^2Sandman: ^7¡Grinch! ¡Ponga a Volk a cubierto!"
+
+REFERENCE           SUBTITLE_AC130_SND_VOLKINBIRD175
+LANG_ENGLISH        "^2Sandman: ^7¡Suban al pájaro, rápido!"
+
+REFERENCE           SUBTITLE_AC130_SND_VOLKINHUMVEE128
+LANG_ENGLISH        "^2Sandman: ^7¡Meta a Volk en el Humvee, vamos!"
+
+REFERENCE           SUBTITLE_AC130_SND_WAITINGFORYOU25
+LANG_ENGLISH        "^2Sandman: ^7¡Estupendo! ¡Canal directo!"
+
+REFERENCE           SUBTITLE_AC130_SND_WECANMOVEUP117_2
+LANG_ENGLISH        "^2Sandman: ^7¡Eliminen la ametralladora para que avancemos!"
+
+REFERENCE           SUBTITLE_AC130_SND_WHEREAREGUNS712
+LANG_ENGLISH        "^2Sandman: ^7¿Y nuestros cañones, Warhammer?"
+
+REFERENCE           SUBTITLE_AC130_TRK_CONVOY1121
+LANG_ENGLISH        "^2Truck: ^7¡El convoy no tardará en llegar!"
+
+REFERENCE           SUBTITLE_AC130_TRK_GOTCHACOVERED1523
+LANG_ENGLISH        "^2Truck: ^7¡Yo lo cubro!"
+
+REFERENCE           SUBTITLE_AC130_TRK_OLDLADY1617_1
+LANG_ENGLISH        "^2Truck: ^7Parece que la vieja no ha resistido..."
+
+REFERENCE           SUBTITLE_AC130_TRK_TANK1122
+LANG_ENGLISH        "^2Truck: ^7¡Un tanque!"
+
+REFERENCE           SUBTITLE_AC130_TRK_TANKSAREDOWN1514
+LANG_ENGLISH        "^2Truck: ^7¡Tanques eliminados!"
+
+REFERENCE           SUBTITLE_AC130_TRK_THROWITATTANK1127
+LANG_ENGLISH        "^2Truck: ^7¡Se supone que debe lanzárselo al tanque, Frost!"
+
+REFERENCE           SUBTITLE_AC130_TRK_TONOFARMOR169
+LANG_ENGLISH        "^2Truck: ^7¡Se acercan montones de blindados desde la torre!"
+
+REFERENCE           SUBTITLE_AC130_TRK_WHATABOUTVOLK173_1
+LANG_ENGLISH        "^2Truck: ^7¿Qué hay de Volk?  "
+
+REFERENCE           SUBTITLE_AC130_TVO_ATTENTION225
+LANG_ENGLISH        "^2AC-130 TV Operator: ^7Sí, creo que hemos captado su atención."
+
+REFERENCE           SUBTITLE_AC130_TVO_BTRDOWNALLEY83
+LANG_ENGLISH        "^2AC-130 TV Operator: ^7Hay un BTR avanzando calle abajo frente a ustedes."
+
+REFERENCE           SUBTITLE_AC130_TVO_CROSSINGOPEN129
+LANG_ENGLISH        "^2AC-130 TV Operator: ^7Tropas enemigas al descubierto."
+
+REFERENCE           SUBTITLE_AC130_TVO_DAMN1216
+LANG_ENGLISH        "^2AC-130 TV Operator: ^7Joooooder."
+
+REFERENCE           SUBTITLE_AC130_TVO_ENEMYAIR811
+LANG_ENGLISH        "^2AC-130 TV Operator: ^7Se acercan enemigos."
+
+REFERENCE           SUBTITLE_AC130_TVO_ENEMYAIRSE222
+LANG_ENGLISH        "^2AC-130 TV Operator: ^7Tenemos bandidos al sureste."
+
+REFERENCE           SUBTITLE_AC130_TVO_ENGAGINGCONVOY1313
+LANG_ENGLISH        "^2AC-130 TV Operator: ^7Múltiples pájaros enemigos atacando el convoy."
+
+REFERENCE           SUBTITLE_AC130_TVO_EYESONFRIENDLIES122
+LANG_ENGLISH        "^2AC-130 TV Operator: ^7Veo a nuestros chicos."
+
+REFERENCE           SUBTITLE_AC130_TVO_FELTTHATONE1920
+LANG_ENGLISH        "^2AC-130 TV Operator: ^7Esa la han notado."
+
+REFERENCE           SUBTITLE_AC130_TVO_FIREONBUILDING108
+LANG_ENGLISH        "^2AC-130 FCO: ^7Fuego sobre el edificio."
+
+REFERENCE           SUBTITLE_AC130_TVO_FLARESAWAY106
+LANG_ENGLISH        "^2AC-130 TV Operator: ^7¡Bengalas desplegadas!"
+
+REFERENCE           SUBTITLE_AC130_TVO_GOINGTOTOWN21923
+LANG_ENGLISH        "^2AC-130 TV Operator: ^7Allí abajo se está liando la de Dios."
+
+REFERENCE           SUBTITLE_AC130_TVO_GOODKILL511
+LANG_ENGLISH        "^2AC-130 TV Operator: ^7Objetivo neutralizado."
+
+REFERENCE           SUBTITLE_AC130_TVO_HITTHOSEGUYS31
+LANG_ENGLISH        "^2AC-130 TV Operator: ^7Reviéntenlos."
+
+REFERENCE           SUBTITLE_AC130_TVO_HOSTILESNORTH2219
+LANG_ENGLISH        "^2AC-130 TV Operator: ^7Vienen más enemigos desde el norte."
+
+REFERENCE           SUBTITLE_AC130_TVO_INTERESTING137
+LANG_ENGLISH        "^2AC-130 TV Operator: ^7Esto va a ser interesante..."
+
+REFERENCE           SUBTITLE_AC130_TVO_LITTLEPIECES916
+LANG_ENGLISH        "^2AC-130 TV Operator: ^7Bien hecho. Solo han quedado escombros."
+
+REFERENCE           SUBTITLE_AC130_TVO_MOREMOVINGIN1924
+LANG_ENGLISH        "^2AC-130 TV Operator: ^7Se acercan más tropas enemigas."
+
+REFERENCE           SUBTITLE_AC130_TVO_REDSQUARES177
+LANG_ENGLISH        "^2AC-130 TV Operator: ^7Enemigos marcados con cuadros rojos."
+
+REFERENCE           SUBTITLE_AC130_TVO_VEHICLEDOWN144
+LANG_ENGLISH        "^2AC-130 TV Operator: ^7Hemos perdido un vehículo."
+
+REFERENCE           SUBTITLE_AC130_TVO_WHITEDIAMONDS29
+LANG_ENGLISH        "^2AC-130 TV Operator: ^7Recibido. Tropas aliadas marcadas con rombos blancos."
+
+REFERENCE           SUBTITLE_AC130_TVO_WOAH95
+LANG_ENGLISH        "^2AC-130 TV Operator: ^7¡La hostia!"
+
+REFERENCE           SUBTITLE_AC130_VND_BACKTOBASE171
+LANG_ENGLISH        "^2Vandal 3-1: ^7Metal 0-1, aquí Vandal 3. Tengo entendido que les gustaría volver a la base."
+
+ENDMARKER

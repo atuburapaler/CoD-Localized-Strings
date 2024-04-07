@@ -1,0 +1,10 @@
+// Dumped from fastfile "patch_so_littlebird_payback".
+// In their original format the strings might have been separated in multiple files.
+VERSION             "1"
+CONFIG              "C:/trees/cod3/cod3/bin/StringEd.cfg"
+FILENOTES           ""
+
+REFERENCE           SO_LITTLEBIRD_PAYBACK_OPTION
+LANG_ENGLISH        "Pulsa ^3[{+activate}]^7 para salir o ^3[{togglecrouch}]^7 para quedarte."
+
+ENDMARKER

@@ -1,0 +1,178 @@
+// Dumped from fastfile "so_jeep_paris_b".
+// In their original format the strings might have been separated in multiple files.
+VERSION             "1"
+CONFIG              "C:/trees/cod3/cod3/bin/StringEd.cfg"
+FILENOTES           ""
+
+REFERENCE           SO_JEEP_PARIS_B_BONUS_1_COUNT_HELI_KILLS
+LANG_ENGLISH        "Helicópteros:"
+
+REFERENCE           SO_JEEP_PARIS_B_BONUS_1_HELI_KILLS
+LANG_ENGLISH        "Helicópteros abatidos"
+
+REFERENCE           SO_JEEP_PARIS_B_BONUS_2_COUNT_JUGG_KILL
+LANG_ENGLISH        "Bajas explosión: "
+
+REFERENCE           SO_JEEP_PARIS_B_BONUS_2_JUGG_KILL
+LANG_ENGLISH        "Bajas explosión"
+
+REFERENCE           SO_JEEP_PARIS_B_DSM_BYPASS
+LANG_ENGLISH        "... evitado."
+
+REFERENCE           SO_JEEP_PARIS_B_DSM_DLRATE
+LANG_ENGLISH        "Mbps"
+
+REFERENCE           SO_JEEP_PARIS_B_DSM_DLTIMELEFT
+LANG_ENGLISH        "Tiempo restante:"
+
+REFERENCE           SO_JEEP_PARIS_B_DSM_DLTIMELEFT_MINS
+LANG_ENGLISH        "m"
+
+REFERENCE           SO_JEEP_PARIS_B_DSM_DLTIMELEFT_SECS
+LANG_ENGLISH        "s"
+
+REFERENCE           SO_JEEP_PARIS_B_DSM_DL_RATEMETER
+LANG_ENGLISH        "a"
+
+REFERENCE           SO_JEEP_PARIS_B_DSM_FRAME
+LANG_ENGLISH        "DSM v11.08"
+
+REFERENCE           SO_JEEP_PARIS_B_DSM_IRONBOX
+LANG_ENGLISH        "... trampa detectada..."
+
+REFERENCE           SO_JEEP_PARIS_B_DSM_NETWORK_FOUND
+LANG_ENGLISH        "... red hallada..."
+
+REFERENCE           SO_JEEP_PARIS_B_DSM_PICKUP_HINT
+LANG_ENGLISH        "Mantén ^3&&1^7 para recuperar el DSM."
+
+REFERENCE           SO_JEEP_PARIS_B_DSM_PROGRESS
+LANG_ENGLISH        "Transferido:"
+
+REFERENCE           SO_JEEP_PARIS_B_DSM_SLASH_TOTALFILES
+LANG_ENGLISH        "/2067"
+
+REFERENCE           SO_JEEP_PARIS_B_DSM_USE_HINT
+LANG_ENGLISH        "Mantén ^3&&1^7 para conectar el DSM al ordenador de Volk."
+
+REFERENCE           SO_JEEP_PARIS_B_DSM_WAIT_FOR_PLAYER_HINT
+LANG_ENGLISH        "Falta tu compañero."
+
+REFERENCE           SO_JEEP_PARIS_B_DSM_WORKING
+LANG_ENGLISH        "... ocupado..."
+
+REFERENCE           SO_JEEP_PARIS_B_GASMASK_HINT
+LANG_ENGLISH        "¡Pulsa ^3[{+actionslot 2}]^7 para ponerte la máscara antigás!"
+
+REFERENCE           SO_JEEP_PARIS_B_HINT_CLAYMORES
+LANG_ENGLISH        "Mantén ^3&&1^7 para recoger Claymores."
+
+REFERENCE           SO_JEEP_PARIS_B_HINT_EXIT_JEEP
+LANG_ENGLISH        "Mantén ^3&&1^7 para bajarte."
+
+REFERENCE           SO_JEEP_PARIS_B_OBJ_DOWNLOAD
+LANG_ENGLISH        "Protege el DSM hasta que la transferencia termine."
+
+REFERENCE           SO_JEEP_PARIS_B_OBJ_EXIT
+LANG_ENGLISH        "Escapa con la información."
+
+REFERENCE           SO_JEEP_PARIS_B_OBJ_GET_TO_APARTMENT
+LANG_ENGLISH        "Sobrevive al traslado."
+
+REFERENCE           SO_JEEP_PARIS_B_OBJ_INTEL
+LANG_ENGLISH        "Conecta el DSM a la red informática de Volk."
+
+REFERENCE           SO_JEEP_PARIS_B_OBJ_POINTER_ENTER_JEEP
+LANG_ENGLISH        "Mantén ^3&&1^7 para montarte"
+
+REFERENCE           SO_JEEP_PARIS_B_OBJ_POINTER_PROTECT
+LANG_ENGLISH        "Protege"
+
+REFERENCE           SO_JEEP_PARIS_B_OBJ_POINTER_RETRIEVE
+LANG_ENGLISH        "Recupera"
+
+REFERENCE           SO_JEEP_PARIS_B_OBJ_POINTER_RIDE_JEEP
+LANG_ENGLISH        "Móntate"
+
+REFERENCE           SO_JEEP_PARIS_B_OBJ_PROTECT
+LANG_ENGLISH        "Protege"
+
+REFERENCE           SO_JEEP_PARIS_B_OBJ_RETRIEVE
+LANG_ENGLISH        "Recupera el DSM."
+
+REFERENCE           SUBTITLE_SO_PARISB_GGN_12OCLOCK119
+LANG_ENGLISH        "^2GIGN: ^7¡A las 12, 12 en punto!"
+
+REFERENCE           SUBTITLE_SO_PARISB_GGN_BADGUYS115
+LANG_ENGLISH        "^2GIGN: ^7¡Nos están siguiendo!"
+
+REFERENCE           SUBTITLE_SO_PARISB_GGN_BADGUYSBEHIND117
+LANG_ENGLISH        "^2GIGN: ^7¡Tenemos hostiles a las 6!"
+
+REFERENCE           SUBTITLE_SO_PARISB_GGN_DEADAHEAD120
+LANG_ENGLISH        "^2GIGN: ^7¡Enemigos al frente!"
+
+REFERENCE           SUBTITLE_SO_PARISB_GGN_ONOURSIX116
+LANG_ENGLISH        "^2GIGN: ^7¡A las 6, a las 6!  "
+
+REFERENCE           SUBTITLE_SO_PARISB_GGN_OUTINFRONT121
+LANG_ENGLISH        "^2GIGN: ^7¡Enemigos delante de nosotros!"
+
+REFERENCE           SUBTITLE_SO_PARISB_GGN_RIGHTINFRONT118
+LANG_ENGLISH        "^2GIGN: ^7¡Justo delante! ¡A las 12 en punto!"
+
+REFERENCE           SUBTITLE_SO_PARISB_GGN_WATCHSIX114
+LANG_ENGLISH        "^2GIGN: ^7¡Cuidado a las 6!"
+
+REFERENCE           SUBTITLE_SO_PARISB_HQR_ALMOSTTHERE13
+LANG_ENGLISH        "^2Overlord: ^7Ya falta poco."
+
+REFERENCE           SUBTITLE_SO_PARISB_HQR_BACKTOJEEP112
+LANG_ENGLISH        "^2Overlord: ^7¡Vuelvan a su vehículo!"
+
+REFERENCE           SUBTITLE_SO_PARISB_HQR_CHEMWEAPONS111
+LANG_ENGLISH        "^2Overlord: ^7Hemos captado residuos de armamento químico en la zona, Metal 0-4. ¡Pónganse las máscaras antigás!"
+
+REFERENCE           SUBTITLE_SO_PARISB_HQR_DATAINCOMING16
+LANG_ENGLISH        "^2Overlord: ^7Captando señal. Recibiendo datos."
+
+REFERENCE           SUBTITLE_SO_PARISB_HQR_FIFTYPERCENT17
+LANG_ENGLISH        "^2Overlord: ^7Descarga completada al 50%."
+
+REFERENCE           SUBTITLE_SO_PARISB_HQR_GETTHELEADOUT11
+LANG_ENGLISH        "^2Overlord: ^7Evacuación a la espera. ¡Salgan de ahí, Metal 0-4!"
+
+REFERENCE           SUBTITLE_SO_PARISB_HQR_HEADUNDER14
+LANG_ENGLISH        "^2Overlord: ^7Tienen que bajar a las catacumbas."
+
+REFERENCE           SUBTITLE_SO_PARISB_HQR_LOADUP125
+LANG_ENGLISH        "^2Overlord: ^7Metal 0-4, van a tener compañía. Preparen las armas y aseguren su posición antes de empezar la descarga."
+
+REFERENCE           SUBTITLE_SO_PARISB_HQR_MOREREINFORCEMENTS110
+LANG_ENGLISH        "^2Overlord: ^7Llegan más refuerzos, Metal 0-4. Tienen que darse prisa."
+
+REFERENCE           SUBTITLE_SO_PARISB_HQR_NICEWORK113
+LANG_ENGLISH        "^2Overlord: ^7Enhorabuena, Metal 0-4. Buen trabajo."
+
+REFERENCE           SUBTITLE_SO_PARISB_HQR_PLANTDRM15
+LANG_ENGLISH        "^2Overlord: ^7Metal 0-4, conecten el DSM al servidor y vuelquen los datos."
+
+REFERENCE           SUBTITLE_SO_PARISB_HQR_SCANNING124
+LANG_ENGLISH        "^2Overlord: ^7Los rusos están interceptando transmisiones."
+
+REFERENCE           SUBTITLE_SO_PARISB_HQR_SEVENTYFIVEPERCENT18
+LANG_ENGLISH        "^2Overlord: ^775%. Aguanten, Metal 0-4."
+
+REFERENCE           SUBTITLE_SO_PARISB_HQR_STICKCLOSE122
+LANG_ENGLISH        "^2Overlord: ^7Metal 0-4, no se separen, múltiples enemigos en su zona."
+
+REFERENCE           SUBTITLE_SO_PARISB_HQR_STICKTOGETHER123
+LANG_ENGLISH        "^2Overlord: ^7Sigan unidos, Metal 0-4. Dos son uno, uno no es nada."
+
+REFERENCE           SUBTITLE_SO_PARISB_HQR_UPLOADCOMPLETE19
+LANG_ENGLISH        "^2Overlord: ^7Volcado completado. Recuperen el DSM y vuelvan arriba."
+
+REFERENCE           SUBTITLE_SO_PARISB_HQR_VOLK12
+LANG_ENGLISH        "^2Overlord: ^7Volk planea algo gordo. Inicien una búsqueda exhaustiva. Marcando última posición conocida."
+
+ENDMARKER

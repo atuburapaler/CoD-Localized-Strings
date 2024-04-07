@@ -1,0 +1,109 @@
+// Dumped from fastfile "so_nyse_ny_manhattan".
+// In their original format the strings might have been separated in multiple files.
+VERSION             "1"
+CONFIG              "C:/trees/cod3/cod3/bin/StringEd.cfg"
+FILENOTES           ""
+
+REFERENCE           SO_NYSE_NY_MANHATTAN_DATA_TITLE
+LANG_ENGLISH        "Códigos restantes:  "
+
+REFERENCE           SO_NYSE_NY_MANHATTAN_EOG_XM25_KILLS
+LANG_ENGLISH        "Bajas XM25"
+
+REFERENCE           SO_NYSE_NY_MANHATTAN_HINT_HELI_DMG
+LANG_ENGLISH        "Tus armas no pueden dañar a este vehículo."
+
+REFERENCE           SO_NYSE_NY_MANHATTAN_HINT_PICKUP_LAPTOP
+LANG_ENGLISH        "Mantén ^3&&1^7 para recoger los códigos."
+
+REFERENCE           SO_NYSE_NY_MANHATTAN_HINT_UPLOAD
+LANG_ENGLISH        "Mantén ^3&&1^7 para comenzar la transferencia."
+
+REFERENCE           SO_NYSE_NY_MANHATTAN_HINT_WAITING
+LANG_ENGLISH        "Falta tu compañero."
+
+REFERENCE           SO_NYSE_NY_MANHATTAN_OBJ_LAPTOPS
+LANG_ENGLISH        "Encuentra los códigos de cifrado rusos"
+
+REFERENCE           SO_NYSE_NY_MANHATTAN_OBJ_LAPTOPS_REMAINING
+LANG_ENGLISH        "Encuentra los códigos de cifrado rusos [quedan &&1]."
+
+REFERENCE           SO_NYSE_NY_MANHATTAN_OBJ_UPLOAD
+LANG_ENGLISH        "Envía los códigos de cifrado al mando central"
+
+REFERENCE           SO_NYSE_NY_MANHATTAN_OBJ_UPLOAD_DEFEND
+LANG_ENGLISH        "Defiende la torre de comunicaciones"
+
+REFERENCE           SO_NYSE_NY_MANHATTAN_OBJ_UPLOAD_RESTART
+LANG_ENGLISH        "Reinicia el envío de datos"
+
+REFERENCE           SO_NYSE_NY_MANHATTAN_PICKUP_FAIL
+LANG_ENGLISH        "¡No puedes llevar más códigos!"
+
+REFERENCE           SO_NYSE_NY_MANHATTAN_UPLOAD_INTERRUPTED
+LANG_ENGLISH        "Transferencia interrumpida - Reinicia el envío "
+
+REFERENCE           SO_NYSE_NY_MANHATTAN_UPLOAD_TITLE
+LANG_ENGLISH        "Códigos transferidos:  "
+
+REFERENCE           SO_NYSE_NY_MANHATTAN_UPLOAD_TITLE_MAX
+LANG_ENGLISH        "/9276"
+
+REFERENCE           SO_NYSE_NY_MANHATTAN_XM25_KILLS
+LANG_ENGLISH        "Bajas XM25: "
+
+REFERENCE           SUBTITLE_SO_MANHAT_HQR_ENEMYHELOS112
+LANG_ENGLISH        "^2Overlord: ^7Pájaros enemigos en su espacio aéreo."
+
+REFERENCE           SUBTITLE_SO_MANHAT_HQR_ENEMYHIND113
+LANG_ENGLISH        "^2Overlord: ^7Hind enemigo cerca, Metal 0-4. "
+
+REFERENCE           SUBTITLE_SO_MANHAT_HQR_ENEMYTROOPS114
+LANG_ENGLISH        "^2Overlord: ^7Metal 0-4, hay tropas enemigas en los tejados circundantes. Cúbranse y defiendan el sector."
+
+REFERENCE           SUBTITLE_SO_MANHAT_HQR_FIFTYPERCENT116
+LANG_ENGLISH        "^2Overlord: ^750% completado."
+
+REFERENCE           SUBTITLE_SO_MANHAT_HQR_GETTOTHEROOF18
+LANG_ENGLISH        "^2Overlord: ^7Suban al tejado, Metal 0-4.  "
+
+REFERENCE           SUBTITLE_SO_MANHAT_HQR_GREATWORK118
+LANG_ENGLISH        "^2Overlord: ^7Metal 0-4, el volcado se ha completado. Buen trabajo, equipo, enviamos un Black Hawk para evacuación en 2 minutos."
+
+REFERENCE           SUBTITLE_SO_MANHAT_HQR_INHAND15
+LANG_ENGLISH        "^2Overlord: ^7Metal 0-4, tienen todos los códigos de cifrado. Diríjanse al tejado. Cambio."
+
+REFERENCE           SUBTITLE_SO_MANHAT_HQR_INTERRUPTED110
+LANG_ENGLISH        "^2Overlord: ^7El envío se ha interrumpido. Vayan a la torre y reanuden el volcado, Metal 0-4."
+
+REFERENCE           SUBTITLE_SO_MANHAT_HQR_IREPEAT111
+LANG_ENGLISH        "^2Overlord: ^7No recibimos ninguna señal, Metal 0-4. Repito, no captamos señal. Reanuden el volcado."
+
+REFERENCE           SUBTITLE_SO_MANHAT_HQR_LIKEABIRD11
+LANG_ENGLISH        "^2Overlord: ^7Metal 0-4, el prisionero está cantando ópera. Afirma que los códigos de cifrado rusos se encuentran en algún lugar del parqué del edificio de la Bolsa. Procedan al punto de control Alpha."
+
+REFERENCE           SUBTITLE_SO_MANHAT_HQR_ONEMORE14
+LANG_ENGLISH        "^2Overlord: ^7Falta uno más."
+
+REFERENCE           SUBTITLE_SO_MANHAT_HQR_PROCEED16
+LANG_ENGLISH        "^2Overlord: ^7Usen la torre de comunicaciones del tejado para enviar los códigos al mando central. "
+
+REFERENCE           SUBTITLE_SO_MANHAT_HQR_RESTARTUPLOAD19
+LANG_ENGLISH        "^2Overlord: ^7Metal 0-4, el envío se ha interrumpido. Deben reiniciar la secuencia de volcado."
+
+REFERENCE           SUBTITLE_SO_MANHAT_HQR_SAYAGAIN17
+LANG_ENGLISH        "^2Overlord: ^7Metal 0-4, repito, vayan a la torre de comunicaciones y envíen esos códigos de cifrado."
+
+REFERENCE           SUBTITLE_SO_MANHAT_HQR_SEVENTYFIVEPERCENT117
+LANG_ENGLISH        "^2Overlord: ^775% del volcado completado, Metal 0-4.  "
+
+REFERENCE           SUBTITLE_SO_MANHAT_HQR_TRADINGFLOOR12
+LANG_ENGLISH        "^2Overlord: ^7Los códigos de cifrado están en algún lugar del parqué. Deben encontrarlos y llevarlos al tejado."
+
+REFERENCE           SUBTITLE_SO_MANHAT_HQR_TWENTYFIVEPERCENT115
+LANG_ENGLISH        "^2Overlord: ^7Volcado al 25%."
+
+REFERENCE           SUBTITLE_SO_MANHAT_HQR_TWOMORE13
+LANG_ENGLISH        "^2Overlord: ^7Dos más."
+
+ENDMARKER

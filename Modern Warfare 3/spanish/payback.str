@@ -1,0 +1,901 @@
+// Dumped from fastfile "payback".
+// In their original format the strings might have been separated in multiple files.
+VERSION             "1"
+CONFIG              "C:/trees/cod3/cod3/bin/StringEd.cfg"
+FILENOTES           ""
+
+REFERENCE           PAYBACK_CAPTURE_KRUGER
+LANG_ENGLISH        "Captura"
+
+REFERENCE           PAYBACK_DONT_ABANDON_MISSION
+LANG_ENGLISH        "¡No abandones la misión!"
+
+REFERENCE           PAYBACK_FAIL_ABANDONED
+LANG_ENGLISH        "Has abandonado la misión."
+
+REFERENCE           PAYBACK_FAIL_CHOPPER
+LANG_ENGLISH        "No has logrado escapar del helicóptero siniestrado."
+
+REFERENCE           PAYBACK_FAIL_GAS
+LANG_ENGLISH        "Has muerto gaseado."
+
+REFERENCE           PAYBACK_FAIL_SECONDLZ
+LANG_ENGLISH        "No has logrado llegar a la zona de aterrizaje secundaria."
+
+REFERENCE           PAYBACK_FOLLOW
+LANG_ENGLISH        "Sigue"
+
+REFERENCE           PAYBACK_INTROSCREEN_LINE_1
+LANG_ENGLISH        "\"Devolver al remitente\""
+
+REFERENCE           PAYBACK_INTROSCREEN_LINE_2
+LANG_ENGLISH        "8 de octubre, 9:30:[{FAKE_INTRO_SECONDS:15}]"
+
+REFERENCE           PAYBACK_INTROSCREEN_LINE_3
+LANG_ENGLISH        "Yuri"
+
+REFERENCE           PAYBACK_INTROSCREEN_LINE_4
+LANG_ENGLISH        "Fuerza operativa 141 - Renegados"
+
+REFERENCE           PAYBACK_INTROSCREEN_LINE_5
+LANG_ENGLISH        "Boosaaso, Somalia"
+
+REFERENCE           PAYBACK_JEEP_JUMP
+LANG_ENGLISH        "Pulsa ^3[{+gostand}]^7 para subirte al todoterreno."
+
+REFERENCE           PAYBACK_JUMP
+LANG_ENGLISH        "Saltar"
+
+REFERENCE           PAYBACK_KEEP_UP
+LANG_ENGLISH        "¡No te separes de tu equipo y ve al punto de extracción!"
+
+REFERENCE           PAYBACK_KRUGER_NEEDED_ALIVE
+LANG_ENGLISH        "¡Ojo con los disparos, necesitáis a Waraabe vivo!"
+
+REFERENCE           PAYBACK_NIKOLAI
+LANG_ENGLISH        "Nikolai"
+
+REFERENCE           PAYBACK_NIKOLAI_KILLED
+LANG_ENGLISH        "Han matado a Nikolai."
+
+REFERENCE           PAYBACK_OBJ_ESCAPE
+LANG_ENGLISH        "Huida"
+
+REFERENCE           PAYBACK_OBJ_FIND_CHOPPER
+LANG_ENGLISH        "Encuentra el helicóptero estrellado de Nikolai"
+
+REFERENCE           PAYBACK_OBJ_FOLLOW
+LANG_ENGLISH        "Sigue a Price"
+
+REFERENCE           PAYBACK_OBJ_KRUGER
+LANG_ENGLISH        "Captura e interroga a Waraabe"
+
+REFERENCE           PAYBACK_OBJ_PRIMARY_LZ
+LANG_ENGLISH        "Ve a la zona de aterrizaje\n\n"
+
+REFERENCE           PAYBACK_OBJ_RESCUE
+LANG_ENGLISH        "Rescata a Nikolai"
+
+REFERENCE           PAYBACK_OBJ_SECONDARY_LZ
+LANG_ENGLISH        "Dirígete a la zona de aterrizaje secundaria"
+
+REFERENCE           PAYBACK_REMOTE_CHOPPER_TURRET
+LANG_ENGLISH        "Pulsa ^3 [{+actionslot 4}] ^7 para usar la torreta del hel."
+
+REFERENCE           PAYBACK_RUN_TO_JEEP
+LANG_ENGLISH        "¡Súbete al todoterreno para evitar la acometida enemiga!"
+
+REFERENCE           PAYBACK_SANDSTORM_ARRIVAL
+LANG_ENGLISH        "Tiempo restante: "
+
+REFERENCE           PAYBACK_STAY_WITH_TEAM
+LANG_ENGLISH        "¡Permanece junto a tu equipo y ve al punto de extracción!"
+
+REFERENCE           PAYBACK_USE_FREE_NIKOLAI
+LANG_ENGLISH        "Mantén ^3[{+activate}]^7 para recoger a Nikolai."
+
+REFERENCE           PAYBACK_USE_THE_ROPE
+LANG_ENGLISH        "Coge carrerilla y salta hacia la cuerda mientras miras hacia ella para deslizarte hacia abajo."
+
+REFERENCE           SUBTITLE_PAYBACK_BRVL_APPROACHING133
+LANG_ENGLISH        "^2Bravo Leader: ^7Recibido. "
+
+REFERENCE           SUBTITLE_PAYBACK_BRVL_BLUEBUILDINGEXIT43
+LANG_ENGLISH        "^2Nikolai: ^7Múltiples enemigos saliendo del edificio azul."
+
+REFERENCE           SUBTITLE_PAYBACK_BRVL_FLANKINGTOBACK1211
+LANG_ENGLISH        "^2Bravo Leader: ^7Flanqueando. Múltiples enemigos entrando en sala del segundo piso."
+
+REFERENCE           SUBTITLE_PAYBACK_BRVL_NOVISUALS135
+LANG_ENGLISH        "^2Bravo Leader: ^7Zona asegurada, ni rastro de Waraabe."
+
+REFERENCE           SUBTITLE_PAYBACK_EOL_2NDFLOOR129
+LANG_ENGLISH        "^2Team Two Leader: ^7Recibido. Waraabe puede estar en el segundo. "
+
+REFERENCE           SUBTITLE_PAYBACK_EOL_APPROACHINGEXFIL261
+LANG_ENGLISH        "^2Echo Team: ^7¡Echo 2, nos acercamos al punto de extracción!"
+
+REFERENCE           SUBTITLE_PAYBACK_EOL_COPYTHAT244
+LANG_ENGLISH        "^2Echo Team: ^7¡Recibido!"
+
+REFERENCE           SUBTITLE_PAYBACK_EOL_GLAD271
+LANG_ENGLISH        "^2Echo One Leader: ^7¡Ya era hora!"
+
+REFERENCE           SUBTITLE_PAYBACK_EOL_LETSGO262
+LANG_ENGLISH        "^2Echo Team: ^7Vamos. Están al otro lado de esa loma."
+
+REFERENCE           SUBTITLE_PAYBACK_EOL_LOCATEDCHOPPER212
+LANG_ENGLISH        "^2Echo Team: ^7Hemos localizado el helicóptero de Nikolai a medio kilómetro hacia el sur."
+
+REFERENCE           SUBTITLE_PAYBACK_EOL_MARKER263
+LANG_ENGLISH        "^2Echo Team: ^7Ahí está la señal. ¡Al otro lado de la loma!"
+
+REFERENCE           SUBTITLE_PAYBACK_EOL_MOVINGSOUTH197
+LANG_ENGLISH        "^2Echo Team: ^7Recibido. Los avisaremos cuando localicemos a Nikolai."
+
+REFERENCE           SUBTITLE_PAYBACK_EOL_PREPFOREXFIL121
+LANG_ENGLISH        "^2Team Two Leader: ^7Nikolai, prepare evacuación. El equipo Echo lo espera."
+
+REFERENCE           SUBTITLE_PAYBACK_EOL_PROCEEDTOSECOND125
+LANG_ENGLISH        "^2Team Two Leader: ^7Recibido. Suban al segundo piso."
+
+REFERENCE           SUBTITLE_PAYBACK_EOL_ROGERTHAT2214
+LANG_ENGLISH        "^2Echo Team: ^7Recibido."
+
+REFERENCE           SUBTITLE_PAYBACK_EOL_TWOVEHICLES246
+LANG_ENGLISH        "^2Echo Team: ^7¡Tenemos dos vehículos a 50 metros al noroeste!"
+
+REFERENCE           SUBTITLE_PAYBACK_MCT_ALLCLEAR42819
+LANG_ENGLISH        "^2Soap: ^7Despejado."
+
+REFERENCE           SUBTITLE_PAYBACK_MCT_AMBUSH147
+LANG_ENGLISH        "^2Soap: ^7¡Emboscada!"
+
+REFERENCE           SUBTITLE_PAYBACK_MCT_CANTSEE202
+LANG_ENGLISH        "^2Soap: ^7No veo tres en un burro."
+
+REFERENCE           SUBTITLE_PAYBACK_MCT_CLEAR21610
+LANG_ENGLISH        "^2Soap: ^7Despejado. "
+
+REFERENCE           SUBTITLE_PAYBACK_MCT_CLEARRIGHT21214
+LANG_ENGLISH        "^2Soap: ^7Nada a la derecha."
+
+REFERENCE           SUBTITLE_PAYBACK_MCT_CONTACT12OCLOCK283
+LANG_ENGLISH        "^2Soap: ^7¡Contacto a las 12!"
+
+REFERENCE           SUBTITLE_PAYBACK_MCT_CONTACTFRONT169
+LANG_ENGLISH        "^2Soap: ^7¡Contacto, justo delante! "
+
+REFERENCE           SUBTITLE_PAYBACK_MCT_ENEMYDOWN2287
+LANG_ENGLISH        "^2Soap: ^7Abatido."
+
+REFERENCE           SUBTITLE_PAYBACK_MCT_FINDWARAABE35
+LANG_ENGLISH        "^2Soap: ^7¡Vamos, vamos! Busquen a Waraabe."
+
+REFERENCE           SUBTITLE_PAYBACK_MCT_FOLLOWME253
+LANG_ENGLISH        "^2Soap: ^7Sígame."
+
+REFERENCE           SUBTITLE_PAYBACK_MCT_GO22814
+LANG_ENGLISH        "^2Soap: ^7Ya."
+
+REFERENCE           SUBTITLE_PAYBACK_MCT_GOGOGO115
+LANG_ENGLISH        "^2Soap: ^7¡Vamos, vamos!"
+
+REFERENCE           SUBTITLE_PAYBACK_MCT_GOINGTODONOW195
+LANG_ENGLISH        "^2Soap: ^7¿Qué demonios se supone que vamos a hacer ahora?"
+
+REFERENCE           SUBTITLE_PAYBACK_MCT_GOTEMTRAPPED136
+LANG_ENGLISH        "^2Soap: ^7Lo tenemos bien acorralado."
+
+REFERENCE           SUBTITLE_PAYBACK_MCT_HALFTHECITY15
+LANG_ENGLISH        "^2Soap: ^7La tormenta de arena cubre media ciudad. ¡Tenemos que darnos prisa!"
+
+REFERENCE           SUBTITLE_PAYBACK_MCT_HALLWAYCLEAR123
+LANG_ENGLISH        "^2Soap: ^7Pasillo despejado. "
+
+REFERENCE           SUBTITLE_PAYBACK_MCT_HEADINGFORNIK235
+LANG_ENGLISH        "^2Soap: ^7Parece que se dirigen hacia Nikolai."
+
+REFERENCE           SUBTITLE_PAYBACK_MCT_HESHEADED1812
+LANG_ENGLISH        "^2Soap: ^7¡Se dirige hacia aquí!"
+
+REFERENCE           SUBTITLE_PAYBACK_MCT_HOSTILEDEADAHEAD282
+LANG_ENGLISH        "^2Soap: ^7Enemigo justo delante."
+
+REFERENCE           SUBTITLE_PAYBACK_MCT_INPARIS272
+LANG_ENGLISH        "^2Soap: ^7Si Volk está en París, ¿cómo vamos a llegar allí en mitad de una puta guerra?"
+
+REFERENCE           SUBTITLE_PAYBACK_MCT_ISEETHEM255
+LANG_ENGLISH        "^2Soap: ^7¡Ahí está el equipo Echo!"
+
+REFERENCE           SUBTITLE_PAYBACK_MCT_JUMP1821
+LANG_ENGLISH        "^2Soap: ^7¡Salte!"
+
+REFERENCE           SUBTITLE_PAYBACK_MCT_JUMPFORIT1818
+LANG_ENGLISH        "^2Soap: ^7¡Salte!"
+
+REFERENCE           SUBTITLE_PAYBACK_MCT_KEEPMOVING2258
+LANG_ENGLISH        "^2Soap: ^7Hay que seguir avanzando."
+
+REFERENCE           SUBTITLE_PAYBACK_MCT_KEEPMOVING32815
+LANG_ENGLISH        "^2Soap: ^7Sigamos."
+
+REFERENCE           SUBTITLE_PAYBACK_MCT_LETSMOVE22813
+LANG_ENGLISH        "^2Soap: ^7Andando."
+
+REFERENCE           SUBTITLE_PAYBACK_MCT_LOOKOUT175
+LANG_ENGLISH        "^2Soap: ^7¡Cuidado!"
+
+REFERENCE           SUBTITLE_PAYBACK_MCT_MASSIVE158
+LANG_ENGLISH        "^2Soap: ^7Qué pedazo de tormenta."
+
+REFERENCE           SUBTITLE_PAYBACK_MCT_MOVEMOVE1418
+LANG_ENGLISH        "^2Soap: ^7¡Deprisa! ¡Deprisa!"
+
+REFERENCE           SUBTITLE_PAYBACK_MCT_MULTIPLECONTACTS44
+LANG_ENGLISH        "^2Nikolai: ^7Contacto, edificios de la derecha."
+
+REFERENCE           SUBTITLE_PAYBACK_MCT_NICE2288
+LANG_ENGLISH        "^2Soap: ^7Bien."
+
+REFERENCE           SUBTITLE_PAYBACK_MCT_RIGHTFORUS1813
+LANG_ENGLISH        "^2Soap: ^7¡Se nos va a echar encima!"
+
+REFERENCE           SUBTITLE_PAYBACK_MCT_ROOFTOPS1420
+LANG_ENGLISH        "^2Soap: ^7¡En los tejados!"
+
+REFERENCE           SUBTITLE_PAYBACK_MCT_SECONDFLOOR131
+LANG_ENGLISH        "^2Soap: ^7¡Contacto! ¡Segundo piso!"
+
+REFERENCE           SUBTITLE_PAYBACK_MCT_SMALLBUILDING45
+LANG_ENGLISH        "^2Nikolai: ^7Contacto, edificios sobre la colina."
+
+REFERENCE           SUBTITLE_PAYBACK_MCT_SNIPER143
+LANG_ENGLISH        "^2Soap: ^7¡Francotirador!"
+
+REFERENCE           SUBTITLE_PAYBACK_MCT_SPREADOUT149
+LANG_ENGLISH        "^2Soap: ^7¡Dispérsense!"
+
+REFERENCE           SUBTITLE_PAYBACK_MCT_STRAIGHTFORUS1814
+LANG_ENGLISH        "^2Soap: ^7¡Viene directo hacia nosotros!"
+
+REFERENCE           SUBTITLE_PAYBACK_MCT_STREETSNARROW1510
+LANG_ENGLISH        "^2Soap: ^7Las calles son muy estrechas. ¡Ojo al disparar!"
+
+REFERENCE           SUBTITLE_PAYBACK_MCT_TAKEEMDOWN118
+LANG_ENGLISH        "^2Soap: ^7¡Fulmine a estos cabrones!"
+
+REFERENCE           SUBTITLE_PAYBACK_MCT_TARGETBUILDING34
+LANG_ENGLISH        "^2Soap: ^7Ahí está el edificio. ¡Ojo con el fuego cruzado!"
+
+REFERENCE           SUBTITLE_PAYBACK_MCT_TARGETSITE11
+LANG_ENGLISH        "^2Soap: ^7¡Objetivo a la vista!"
+
+REFERENCE           SUBTITLE_PAYBACK_MCT_TEARINGUS93
+LANG_ENGLISH        "^2Soap: ^7Esas putas ametralladoras nos están destrozando."
+
+REFERENCE           SUBTITLE_PAYBACK_MCT_TELLINGTRUTH161
+LANG_ENGLISH        "^2Soap: ^7¿Cree que Waraabe decía la verdad sobre Volk?"
+
+REFERENCE           SUBTITLE_PAYBACK_MCT_THATWASEASY2289
+LANG_ENGLISH        "^2Soap: ^7Ha sido fácil."
+
+REFERENCE           SUBTITLE_PAYBACK_MCT_THERESNIKSCHOPPER241
+LANG_ENGLISH        "^2Soap: ^7¡Ahí está el helicóptero!"
+
+REFERENCE           SUBTITLE_PAYBACK_MCT_THEYKNOW1911_1
+LANG_ENGLISH        "^2Soap: ^7¡Saben que estamos aquí!"
+
+REFERENCE           SUBTITLE_PAYBACK_MCT_USINGMORTARS51
+LANG_ENGLISH        "^2Price: ^7¡Nos están disparando con morteros!"
+
+REFERENCE           SUBTITLE_PAYBACK_MCT_WEREBLIND199
+LANG_ENGLISH        "^2Soap: ^7No se ve un carajo."
+
+REFERENCE           SUBTITLE_PAYBACK_MCT_WERECLEAR22818
+LANG_ENGLISH        "^2Soap: ^7¡Podemos seguir!"
+
+REFERENCE           SUBTITLE_PAYBACK_MCT_WHERESVOLK1415
+LANG_ENGLISH        "^2Soap: ^7¿Y dónde está ese Volk? Me estoy impacientando."
+
+REFERENCE           SUBTITLE_PAYBACK_MCT_YURILETSGO256
+LANG_ENGLISH        "^2Soap: ^7¡Bien, vamos!"
+
+REFERENCE           SUBTITLE_PAYBACK_NIK_2NDFLRBALCONY128
+LANG_ENGLISH        "^2Nikolai: ^7Creo ver a Waraabe en el balcón del segundo piso."
+
+REFERENCE           SUBTITLE_PAYBACK_NIK_ACTIVATEGUN615
+LANG_ENGLISH        "^2Nikolai: ^7Active el cañón remoto, Yuri."
+
+REFERENCE           SUBTITLE_PAYBACK_NIK_AIMISBETTER617
+LANG_ENGLISH        "^2Nikolai: ^7Están corrigiendo los disparos."
+
+REFERENCE           SUBTITLE_PAYBACK_NIK_ALMOSTHIT618
+LANG_ENGLISH        "^2Nikolai: ^7¡Casi me alcanzan!"
+
+REFERENCE           SUBTITLE_PAYBACK_NIK_ALMOSTTHERE181_1
+LANG_ENGLISH        "^2Nikolai: ^7Ya falta poco."
+
+REFERENCE           SUBTITLE_PAYBACK_NIK_AMBUSHEAST1511
+LANG_ENGLISH        "^2Nikolai: ^7Les han tendido una emboscada al este de su posición."
+
+REFERENCE           SUBTITLE_PAYBACK_NIK_ANOTHERPASS68
+LANG_ENGLISH        "^2Nikolai: ^7Volveré para dar otra pasada."
+
+REFERENCE           SUBTITLE_PAYBACK_NIK_ANOTHERSTRAFING64
+LANG_ENGLISH        "^2Nikolai: ^7Voy a dar la vuelta para otra pasada."
+
+REFERENCE           SUBTITLE_PAYBACK_NIK_ARGMYLEG2414
+LANG_ENGLISH        "^2Nikolai: ^7¡Agh! ¡Mi pierna! "
+
+REFERENCE           SUBTITLE_PAYBACK_NIK_BOXYOUIN157
+LANG_ENGLISH        "^2Nikolai: ^7Más enemigos por el este. ¡Están intentando acorralarlos!"
+
+REFERENCE           SUBTITLE_PAYBACK_NIK_CANTCONTROL189
+LANG_ENGLISH        "^2Nikolai: ^7¡No puedo controlarlo!"
+
+REFERENCE           SUBTITLE_PAYBACK_NIK_CIRCLING63
+LANG_ENGLISH        "^2Nikolai: ^7Vuelvo para hacer otra pasada."
+
+REFERENCE           SUBTITLE_PAYBACK_NIK_CLOSINGIN84
+LANG_ENGLISH        "^2Nikolai: ^7¡Se aproximan más unidades!"
+
+REFERENCE           SUBTITLE_PAYBACK_NIK_COMINGBACK66
+LANG_ENGLISH        "^2Nikolai: ^7Voy a volver para hacer otra pasada."
+
+REFERENCE           SUBTITLE_PAYBACK_NIK_CONTROLSHAVEGONE192
+LANG_ENGLISH        "^2Nikolai: ^7¡Los controles no responden!"
+
+REFERENCE           SUBTITLE_PAYBACK_NIK_CROSSINGROAD83
+LANG_ENGLISH        "^2Nikolai: ^7Tropas enemigas cruzando la calle."
+
+REFERENCE           SUBTITLE_PAYBACK_NIK_ENEMIESCLOSING154
+LANG_ENGLISH        "^2Nikolai: ^7Se aproximan múltiples enemigos."
+
+REFERENCE           SUBTITLE_PAYBACK_NIK_ENGAGING18
+LANG_ENGLISH        "^2Nikolai: ^7Abriendo fuego."
+
+REFERENCE           SUBTITLE_PAYBACK_NIK_FLYBACK65
+LANG_ENGLISH        "^2Nikolai: ^7Volveré para dar otra pasada."
+
+REFERENCE           SUBTITLE_PAYBACK_NIK_GOINGDOWN1810
+LANG_ENGLISH        "^2Nikolai: ^7¡Voy a caer! ¡Voy a...!"
+
+REFERENCE           SUBTITLE_PAYBACK_NIK_GONNABEHOT182
+LANG_ENGLISH        "^2Nikolai: ^7Casi he llegado, pero parece estar rodeada. Me va a costar sacarlos."
+
+REFERENCE           SUBTITLE_PAYBACK_NIK_GOODINROUTE153
+LANG_ENGLISH        "^2Nikolai: ^7Bien. Voy de camino."
+
+REFERENCE           SUBTITLE_PAYBACK_NIK_GOODKILLS712
+LANG_ENGLISH        "^2Nikolai: ^7Buen tiro. Numerosas bajas."
+
+REFERENCE           SUBTITLE_PAYBACK_NIK_GOODTOSEEYOU2413
+LANG_ENGLISH        "^2Nikolai: ^7¡Me alegro de veros, colegas!"
+
+REFERENCE           SUBTITLE_PAYBACK_NIK_GUNONLINE611
+LANG_ENGLISH        "^2Nikolai: ^7Price, cañón remoto activado."
+
+REFERENCE           SUBTITLE_PAYBACK_NIK_GUNRUN69
+LANG_ENGLISH        "^2Nikolai: ^7Preparado para otra pasada."
+
+REFERENCE           SUBTITLE_PAYBACK_NIK_HOSTILESNORTH85
+LANG_ENGLISH        "^2Nikolai: ^7Se acercan más unidades enemigas desde el norte."
+
+REFERENCE           SUBTITLE_PAYBACK_NIK_IMHIT187
+LANG_ENGLISH        "^2Nikolai: ^7¡Me han alcanzado!"
+
+REFERENCE           SUBTITLE_PAYBACK_NIK_IMREADY614
+LANG_ENGLISH        "^2Nikolai: ^7Yuri, estoy listo para hacer otra pasada. "
+
+REFERENCE           SUBTITLE_PAYBACK_NIK_INPOSITION610
+LANG_ENGLISH        "^2Nikolai: ^7Estoy en posición para otra pasada."
+
+REFERENCE           SUBTITLE_PAYBACK_NIK_INTOPOSITION53
+LANG_ENGLISH        "^2Nikolai: ^7Me estoy situando."
+
+REFERENCE           SUBTITLE_PAYBACK_NIK_LOSTPEDALS188
+LANG_ENGLISH        "^2Nikolai: ^7¡Rotor de cola dañado! ¡Pierdo estabilidad!"
+
+REFERENCE           SUBTITLE_PAYBACK_NIK_LUCKHOLDS619
+LANG_ENGLISH        "^2Nikolai: ^7¡Tanta suerte no es normal!"
+
+REFERENCE           SUBTITLE_PAYBACK_NIK_LZLOOKSCLEAR155
+LANG_ENGLISH        "^2Nikolai: ^7Ya casi estoy. Parece despejado, pero la tormenta de arena está muy cerca."
+
+REFERENCE           SUBTITLE_PAYBACK_NIK_MANEUVERING62
+LANG_ENGLISH        "^2Nikolai: ^7Voy a maniobrar para otra pasada."
+
+REFERENCE           SUBTITLE_PAYBACK_NIK_MISSLESAWAY19
+LANG_ENGLISH        "^2Nikolai: ^7Misiles fuera."
+
+REFERENCE           SUBTITLE_PAYBACK_NIK_MOREREINFORCEMENTS81
+LANG_ENGLISH        "^2Nikolai: ^7Llegan refuerzos procedentes del recinto principal."
+
+REFERENCE           SUBTITLE_PAYBACK_NIK_MOVEFAST1613
+LANG_ENGLISH        "^2Nikolai: ^7Dense prisa. No sé cuánto tiempo podré volar con esta tormenta."
+
+REFERENCE           SUBTITLE_PAYBACK_NIK_MULTIPLEKILLS715
+LANG_ENGLISH        "^2Nikolai: ^7Varios muertos."
+
+REFERENCE           SUBTITLE_PAYBACK_NIK_NICESHOOTING714
+LANG_ENGLISH        "^2Nikolai: ^7Buena puntería, Yuri. No se detenga."
+
+REFERENCE           SUBTITLE_PAYBACK_NIK_OUTOFBUILDINGS82
+LANG_ENGLISH        "^2Nikolai: ^7Están saliendo más enemigos de los edificios."
+
+REFERENCE           SUBTITLE_PAYBACK_NIK_READY612
+LANG_ENGLISH        "^2Nikolai: ^7Estoy listo para otra pasada."
+
+REFERENCE           SUBTITLE_PAYBACK_NIK_REPEATGOINGDOWN194
+LANG_ENGLISH        "^2Nikolai: ^7Estoy cayendo. ¡Repito, estoy cayendo!"
+
+REFERENCE           SUBTITLE_PAYBACK_NIK_ROGERTHATMISSLES110
+LANG_ENGLISH        "^2Nikolai: ^7Recibido. Misiles fuera."
+
+REFERENCE           SUBTITLE_PAYBACK_NIK_SANDSTORM91
+LANG_ENGLISH        "^2Nikolai: ^7La tormenta de arena está al llegar."
+
+REFERENCE           SUBTITLE_PAYBACK_NIK_SANDSTORMCOMING1423
+LANG_ENGLISH        "^2Nikolai: ^7La tormenta de arena está casi encima. No podré aterrizar cuando llegue."
+
+REFERENCE           SUBTITLE_PAYBACK_NIK_SITETOOHOT186_1
+LANG_ENGLISH        "^2Nikolai: ^7¡Es peligroso! ¡No puedo aterrizar!"
+
+REFERENCE           SUBTITLE_PAYBACK_NIK_STARTINGMYAPPROACH177
+LANG_ENGLISH        "^2Nikolai: ^7Aproximación a zona de aterrizaje."
+
+REFERENCE           SUBTITLE_PAYBACK_NIK_SWINGAROUND67
+LANG_ENGLISH        "^2Nikolai: ^7Daré la vuelta y repetiré la jugada."
+
+REFERENCE           SUBTITLE_PAYBACK_NIK_TARGETSDOWN713
+LANG_ENGLISH        "^2Nikolai: ^7Blancos abatidos. Siga así."
+
+REFERENCE           SUBTITLE_PAYBACK_NIK_THATWASCLOSE616
+LANG_ENGLISH        "^2Nikolai: ^7Ha faltado muy poco."
+
+REFERENCE           SUBTITLE_PAYBACK_NIK_USEREMOTEGUN613
+LANG_ENGLISH        "^2Nikolai: ^7Yuri, use el cañón remoto."
+
+REFERENCE           SUBTITLE_PAYBACK_NIK_WINDS163
+LANG_ENGLISH        "^2Nikolai: ^7¡Price, el viento está arreciando!"
+
+REFERENCE           SUBTITLE_PAYBACK_PRI_1STFLOORCLEAR2172
+LANG_ENGLISH        "^2Price: ^7¡Primer piso despejado!"
+
+REFERENCE           SUBTITLE_PAYBACK_PRI_20SECONDS156
+LANG_ENGLISH        "^2Price: ^7Ya lo vemos. Veinte segundos más."
+
+REFERENCE           SUBTITLE_PAYBACK_PRI_2NDFLOORCLEAR173
+LANG_ENGLISH        "^2Soap: ^7¡Segundo piso despejado! ¡Vamos!"
+
+REFERENCE           SUBTITLE_PAYBACK_PRI_ADVANCETOTARGET31
+LANG_ENGLISH        "^2Price: ^7¡El edificio de Waraabe está al final del camino! ¡Vamos!"
+
+REFERENCE           SUBTITLE_PAYBACK_PRI_ALLCLEAR42816
+LANG_ENGLISH        "^2Price: ^7Despejado."
+
+REFERENCE           SUBTITLE_PAYBACK_PRI_ALLOVERUS1515
+LANG_ENGLISH        "^2Soap: ^7¡Están por todas partes! ¡Los callejones!"
+
+REFERENCE           SUBTITLE_PAYBACK_PRI_ATLEASTTHREE78
+LANG_ENGLISH        "^2Soap: ^7Al menos 3 bajas confirmadas."
+
+REFERENCE           SUBTITLE_PAYBACK_PRI_BASEPLATETARGET102
+LANG_ENGLISH        "^2Price: ^7Equipo Echo, entramos en el edificio objetivo."
+
+REFERENCE           SUBTITLE_PAYBACK_PRI_BEFORETHESTORM1425
+LANG_ENGLISH        "^2Price: ^7Hay que llegar a la zona de aterrizaje secundaria antes que la tormenta. ¡Vamos!"
+
+REFERENCE           SUBTITLE_PAYBACK_PRI_BLOODYSAND196
+LANG_ENGLISH        "^2Price: ^7¡Equipo Echo, Nikolai ha caído y la tormenta nos ha alcanzado! ¡Solicito evacuación de emergencia!"
+
+REFERENCE           SUBTITLE_PAYBACK_PRI_BRAVOONEPOSITION1210
+LANG_ENGLISH        "^2Price: ^7Bravo 1, ocupe posición."
+
+REFERENCE           SUBTITLE_PAYBACK_PRI_CHECKLEFT168
+LANG_ENGLISH        "^2Price: ^7Izquierda. "
+
+REFERENCE           SUBTITLE_PAYBACK_PRI_CLEAR42817
+LANG_ENGLISH        "^2Price: ^7Despejado."
+
+REFERENCE           SUBTITLE_PAYBACK_PRI_CLEARCORNERS1516
+LANG_ENGLISH        "^2Price: ^7¡Atentos a las esquinas!"
+
+REFERENCE           SUBTITLE_PAYBACK_PRI_CLEARLEFT21213
+LANG_ENGLISH        "^2Price: ^7Nada a la izquierda. "
+
+REFERENCE           SUBTITLE_PAYBACK_PRI_CMONLADS198
+LANG_ENGLISH        "^2Price: ^7Vamos. Tenemos que llegar a Nikolai antes que los hombres de Waraabe."
+
+REFERENCE           SUBTITLE_PAYBACK_PRI_CMONLETSGET36
+LANG_ENGLISH        "^2Price: ^7¡Venga, entremos en el edificio del objetivo!"
+
+REFERENCE           SUBTITLE_PAYBACK_PRI_COMEONYURI254
+LANG_ENGLISH        "^2Price: ^7Venga, Yuri."
+
+REFERENCE           SUBTITLE_PAYBACK_PRI_CONFIRMEDKILL716
+LANG_ENGLISH        "^2Price: ^7Baja confirmada. Así se hace."
+
+REFERENCE           SUBTITLE_PAYBACK_PRI_CONTACTFRONT127
+LANG_ENGLISH        "^2Price: ^7¡Contacto al frente!"
+
+REFERENCE           SUBTITLE_PAYBACK_PRI_CONTACTRIGHT1413
+LANG_ENGLISH        "^2Price: ^7¡Contacto a la derecha, derecha!"
+
+REFERENCE           SUBTITLE_PAYBACK_PRI_CROSSSTREETS152
+LANG_ENGLISH        "^2Price: ^7Sigan avanzando. Y vigilen los flancos, vamos a entrar en un cruce."
+
+REFERENCE           SUBTITLE_PAYBACK_PRI_DOIT2112
+LANG_ENGLISH        "^2Price: ^7¡Adelante!"
+
+REFERENCE           SUBTITLE_PAYBACK_PRI_DOORTOOFFICE134_1
+LANG_ENGLISH        "^2Price: ^7Es la puerta de su despacho."
+
+REFERENCE           SUBTITLE_PAYBACK_PRI_DOYOUCOPY193
+LANG_ENGLISH        "^2Price: ^7Nikolai, ¿me recibe?"
+
+REFERENCE           SUBTITLE_PAYBACK_PRI_DROPEM236
+LANG_ENGLISH        "^2Price: ^7Elimínelos."
+
+REFERENCE           SUBTITLE_PAYBACK_PRI_ECHOTEAM2211
+LANG_ENGLISH        "^2Price: ^7Equipo Echo, ¿cuál es su estado?"
+
+REFERENCE           SUBTITLE_PAYBACK_PRI_ECHOTEAMPINNED242
+LANG_ENGLISH        "^2Price: ^7¡El equipo Echo está inmovilizado!"
+
+REFERENCE           SUBTITLE_PAYBACK_PRI_EIGHTPLUSKILLS711
+LANG_ENGLISH        "^2Soap: ^7Otras 8 bajas."
+
+REFERENCE           SUBTITLE_PAYBACK_PRI_ENEMYBEHINDYOU2828
+LANG_ENGLISH        "^2Price: ^7¡Tiene al enemigo detrás!"
+
+REFERENCE           SUBTITLE_PAYBACK_PRI_ENEMYINSIGHT281
+LANG_ENGLISH        "^2Price: ^7Enemigo a la vista."
+
+REFERENCE           SUBTITLE_PAYBACK_PRI_ENEMYLEFT22824
+LANG_ENGLISH        "^2Price: ^7Enemigo a la izquierda."
+
+REFERENCE           SUBTITLE_PAYBACK_PRI_ENEMYRIGHT22823
+LANG_ENGLISH        "^2Price: ^7Enemigo a la derecha."
+
+REFERENCE           SUBTITLE_PAYBACK_PRI_FIRSTFLOORCLEAR124
+LANG_ENGLISH        "^2Price: ^7Primer piso listo, vamos al segundo."
+
+REFERENCE           SUBTITLE_PAYBACK_PRI_FIVEDOWN79
+LANG_ENGLISH        "^2Soap: ^75 menos."
+
+REFERENCE           SUBTITLE_PAYBACK_PRI_FORMYMATES1419
+LANG_ENGLISH        "^2Price: ^7De acuerdo. Esto es por los chicos de Hereford."
+
+REFERENCE           SUBTITLE_PAYBACK_PRI_FOUNDNIKOLAI224
+LANG_ENGLISH        "^2Soap: ^7Ya han encontrado a Nikolai."
+
+REFERENCE           SUBTITLE_PAYBACK_PRI_FROMNORTHWEST243
+LANG_ENGLISH        "^2Price: ^7¡Equipo Echo, nos aproximamos a su posición desde el sur!"
+
+REFERENCE           SUBTITLE_PAYBACK_PRI_GASMASKSON144
+LANG_ENGLISH        "^2Price: ^7Máscaras antigás."
+
+REFERENCE           SUBTITLE_PAYBACK_PRI_GETBACKHERE22412
+LANG_ENGLISH        "^2Price: ^7¡Vuelva aquí, Yuri!"
+
+REFERENCE           SUBTITLE_PAYBACK_PRI_GETDOWN222
+LANG_ENGLISH        "^2Price: ^7¡Al suelo!"
+
+REFERENCE           SUBTITLE_PAYBACK_PRI_GETKRUGER92
+LANG_ENGLISH        "^2Price: ^7Recibido. Atención, debemos encontrar a Waraabe antes de que llegue la tormenta. "
+
+REFERENCE           SUBTITLE_PAYBACK_PRI_GETNIKOLAI248
+LANG_ENGLISH        "^2Price: ^7Mierda, Yuri. ¡Coja a Nikolai! ¡Los tenemos encima!"
+
+REFERENCE           SUBTITLE_PAYBACK_PRI_GETOFFROOF1815
+LANG_ENGLISH        "^2Price: ^7¡Tenemos que salir del tejado!"
+
+REFERENCE           SUBTITLE_PAYBACK_PRI_GETTOEXFIL252
+LANG_ENGLISH        "^2Price: ^7Vamos al punto de extracción."
+
+REFERENCE           SUBTITLE_PAYBACK_PRI_GETWARAABE33
+LANG_ENGLISH        "^2Price: ^7¡Vamos! ¡Hay que capturar a Waraabe!"
+
+REFERENCE           SUBTITLE_PAYBACK_PRI_GO111
+LANG_ENGLISH        "^2Price: ^7¡Vamos!"
+
+REFERENCE           SUBTITLE_PAYBACK_PRI_GOOD2286
+LANG_ENGLISH        "^2Price: ^7Bien."
+
+REFERENCE           SUBTITLE_PAYBACK_PRI_GOODTOSEEYOU245
+LANG_ENGLISH        "^2Price: ^7¡Cómo me alegro de verlos! ¿Y el convoy?"
+
+REFERENCE           SUBTITLE_PAYBACK_PRI_GOTCONTROL61
+LANG_ENGLISH        "^2Soap: ^7Yuri, usted tiene el control. Acribíllelos."
+
+REFERENCE           SUBTITLE_PAYBACK_PRI_GOTEM2285
+LANG_ENGLISH        "^2Price: ^7Muerto."
+
+REFERENCE           SUBTITLE_PAYBACK_PRI_GOTTAMOVE162
+LANG_ENGLISH        "^2Price: ^7Tenemos que seguir."
+
+REFERENCE           SUBTITLE_PAYBACK_PRI_GRABNIKOLAI249
+LANG_ENGLISH        "^2Price: ^7Coja a Nikolai. Se nos acaba el tiempo."
+
+REFERENCE           SUBTITLE_PAYBACK_PRI_HANGON233
+LANG_ENGLISH        "^2Price: ^7Aguanten, ya casi estamos."
+
+REFERENCE           SUBTITLE_PAYBACK_PRI_HEADINGTOEXFIL251
+LANG_ENGLISH        "^2Price: ^7Echo 2, tenemos a Nikolai y nos dirigimos al punto de extracción."
+
+REFERENCE           SUBTITLE_PAYBACK_PRI_HOLDUP203
+LANG_ENGLISH        "^2Price: ^7Un momento."
+
+REFERENCE           SUBTITLE_PAYBACK_PRI_HOSTILESAHEAD22820
+LANG_ENGLISH        "^2Price: ^7Enemigos delante."
+
+REFERENCE           SUBTITLE_PAYBACK_PRI_HOSTILESDEADAHEAD2827
+LANG_ENGLISH        "^2Price: ^7Enemigos justo delante."
+
+REFERENCE           SUBTITLE_PAYBACK_PRI_IKNOWWHO273
+LANG_ENGLISH        "^2Price: ^7No podemos. Pero sé quién puede..."
+
+REFERENCE           SUBTITLE_PAYBACK_PRI_JUSTBETHERE1424
+LANG_ENGLISH        "^2Price: ^7Usted vaya para allá."
+
+REFERENCE           SUBTITLE_PAYBACK_PRI_KEEP226
+LANG_ENGLISH        "^2Price: ^7¡Avancen!"
+
+REFERENCE           SUBTITLE_PAYBACK_PRI_KEEPMOVING22812
+LANG_ENGLISH        "^2Price: ^7Sigamos."
+
+REFERENCE           SUBTITLE_PAYBACK_PRI_KEEPMOVING31911
+LANG_ENGLISH        "^2Price: ^7¡Avancen!"
+
+REFERENCE           SUBTITLE_PAYBACK_PRI_KEEPPUSHING1513
+LANG_ENGLISH        "^2Soap: ^7¡Sigan avanzando!"
+
+REFERENCE           SUBTITLE_PAYBACK_PRI_KILLSCONFIRMED73
+LANG_ENGLISH        "^2Soap: ^7Bajas confirmadas."
+
+REFERENCE           SUBTITLE_PAYBACK_PRI_KRUGERBROKE151
+LANG_ENGLISH        "^2Price: ^7¡Nikolai, Waraabe ha cantado! Tenemos lo que necesitamos. Nos vamos."
+
+REFERENCE           SUBTITLE_PAYBACK_PRI_LARGEPATROLLEFT2825
+LANG_ENGLISH        "^2Price: ^7Grupo numeroso, izquierda."
+
+REFERENCE           SUBTITLE_PAYBACK_PRI_LARGEPATROLRIGHT2826
+LANG_ENGLISH        "^2Price: ^7Patrulla numerosa, derecha."
+
+REFERENCE           SUBTITLE_PAYBACK_PRI_LAYDOWNCOVERING42
+LANG_ENGLISH        "^2Price: ^7¡Abran fuego de cobertura para que podamos avanzar! "
+
+REFERENCE           SUBTITLE_PAYBACK_PRI_LETSGO32810
+LANG_ENGLISH        "^2Price: ^7Vamos."
+
+REFERENCE           SUBTITLE_PAYBACK_PRI_LETSGOCMON39
+LANG_ENGLISH        "^2Price: ^7¡Vamos! ¡Avancen! "
+
+REFERENCE           SUBTITLE_PAYBACK_PRI_LETSGOYURI264
+LANG_ENGLISH        "^2Price: ^7¡Deprisa, Yuri! ¡Muévase!"
+
+REFERENCE           SUBTITLE_PAYBACK_PRI_LOOKFAMILIAR146
+LANG_ENGLISH        "^2Price: ^7¿Le suena?"
+
+REFERENCE           SUBTITLE_PAYBACK_PRI_LZINSIGHT1611
+LANG_ENGLISH        "^2Price: ^7Ahí está la zona de aterrizaje."
+
+REFERENCE           SUBTITLE_PAYBACK_PRI_LZISCLOSE1514
+LANG_ENGLISH        "^2Price: ^7Zona de aterrizaje cerca. ¡Vamos!"
+
+REFERENCE           SUBTITLE_PAYBACK_PRI_MAKINGPLANS1614
+LANG_ENGLISH        "^2 ^7"
+
+REFERENCE           SUBTITLE_PAYBACK_PRI_MEETATCRASH213
+LANG_ENGLISH        "^2Price: ^7Nos veremos en la zona del accidente."
+
+REFERENCE           SUBTITLE_PAYBACK_PRI_MEETYOUATTOP178
+LANG_ENGLISH        "^2Price: ^7Nos veremos en el tejado, Nikolai."
+
+REFERENCE           SUBTITLE_PAYBACK_PRI_MOREONROOF1512
+LANG_ENGLISH        "^2Price: ^7¡Hay más sobre el tejado!"
+
+REFERENCE           SUBTITLE_PAYBACK_PRI_MOVEOUT32811
+LANG_ENGLISH        "^2Price: ^7En marcha."
+
+REFERENCE           SUBTITLE_PAYBACK_PRI_MOVEOUT42415
+LANG_ENGLISH        "^2Price: ^7¡Retirada!"
+
+REFERENCE           SUBTITLE_PAYBACK_PRI_MULTIPLECONFIRMED76
+LANG_ENGLISH        "^2Soap: ^7Múltiples bajas confirmadas."
+
+REFERENCE           SUBTITLE_PAYBACK_PRI_NEEDHIMALIVE21311
+LANG_ENGLISH        "^2Price: ^7Bien, ojo con los disparos. Lo necesitamos vivo. "
+
+REFERENCE           SUBTITLE_PAYBACK_PRI_NEEDSUPPORT52
+LANG_ENGLISH        "^2Soap: ^7¡Nikolai, necesitamos ayuda!"
+
+REFERENCE           SUBTITLE_PAYBACK_PRI_NIGHTMARE159
+LANG_ENGLISH        "^2Price: ^7Lo último que necesitamos es que nos alcance. Andando. "
+
+REFERENCE           SUBTITLE_PAYBACK_PRI_NIKOLAI191
+LANG_ENGLISH        "^2Price: ^7¿Nikolai?"
+
+REFERENCE           SUBTITLE_PAYBACK_PRI_NIKOLAISECONDARY1422
+LANG_ENGLISH        "^2Price: ^7¡Nikolai, cambio de planes! ¡Vaya a zona de aterrizaje B!"
+
+REFERENCE           SUBTITLE_PAYBACK_PRI_OFFICE134
+LANG_ENGLISH        "^2Price: ^7Ahí está el despacho de Waraabe."
+
+REFERENCE           SUBTITLE_PAYBACK_PRI_ONTHEWAY165
+LANG_ENGLISH        "^2Price: ^7Espere un poco, Nikolai. Vamos de camino."
+
+REFERENCE           SUBTITLE_PAYBACK_PRI_OPENFIRE21912
+LANG_ENGLISH        "^2Price: ^7¡Fuego!"
+
+REFERENCE           SUBTITLE_PAYBACK_PRI_OPENFIRE231
+LANG_ENGLISH        "^2Price: ^7¡Fuego!"
+
+REFERENCE           SUBTITLE_PAYBACK_PRI_OPENTHEDOOR138
+LANG_ENGLISH        "^2Price: ^7Yuri, abra la puerta."
+
+REFERENCE           SUBTITLE_PAYBACK_PRI_OUTOFCONTROL1811
+LANG_ENGLISH        "^2Price: ^7Ha perdido el control."
+
+REFERENCE           SUBTITLE_PAYBACK_PRI_OUTOFHERE54
+LANG_ENGLISH        "^2Price: ^7¡Nikolai, lárguese!"
+
+REFERENCE           SUBTITLE_PAYBACK_PRI_OUTTATHEOPEN1416
+LANG_ENGLISH        "^2Price: ^7¡Busquen cobertura!"
+
+REFERENCE           SUBTITLE_PAYBACK_PRI_PINNEDDOWN32
+LANG_ENGLISH        "^2Price: ^7¡No se detengan! ¡Waraabe está justo delante!"
+
+REFERENCE           SUBTITLE_PAYBACK_PRI_PUSHFORWARD38
+LANG_ENGLISH        "^2Price: ^7¡Continúen hacia el recinto!"
+
+REFERENCE           SUBTITLE_PAYBACK_PRI_REMOTETURRET183
+LANG_ENGLISH        "^2Price: ^7¡Use la torreta remota, Yuri!"
+
+REFERENCE           SUBTITLE_PAYBACK_PRI_RIGHTLADS14
+LANG_ENGLISH        "^2Price: ^7Bien, muchachos, vamos a asaltar el edificio. No podemos perder a Waraabe."
+
+REFERENCE           SUBTITLE_PAYBACK_PRI_ROOMCLEAR2122
+LANG_ENGLISH        "^2Price: ^7Sala despejada."
+
+REFERENCE           SUBTITLE_PAYBACK_PRI_ROUNDSDOWN77
+LANG_ENGLISH        "^2Soap: ^7Siga escupiendo proyectiles."
+
+REFERENCE           SUBTITLE_PAYBACK_PRI_RUN1819
+LANG_ENGLISH        "^2Price: ^7¡Corra!"
+
+REFERENCE           SUBTITLE_PAYBACK_PRI_SECUREEXIT132
+LANG_ENGLISH        "^2Price: ^7Equipo Bravo, ya casi estamos. Aseguren la salida."
+
+REFERENCE           SUBTITLE_PAYBACK_PRI_SECUREPERIMETER101
+LANG_ENGLISH        "^2Price: ^7Equipo Bravo, asegure el perímetro. Yuri, Soap, vamos a por ese cabrón."
+
+REFERENCE           SUBTITLE_PAYBACK_PRI_SIXMOREKILLS710
+LANG_ENGLISH        "^2Soap: ^76 bajas más."
+
+REFERENCE           SUBTITLE_PAYBACK_PRI_SOFTENHIM17
+LANG_ENGLISH        "^2Soap: ^7¡Nikolai, macháquelos!"
+
+REFERENCE           SUBTITLE_PAYBACK_PRI_STANDBYTOBREACH137
+LANG_ENGLISH        "^2Price: ^7Listos para irrumpir."
+
+REFERENCE           SUBTITLE_PAYBACK_PRI_STAYWITHTEAM46
+LANG_ENGLISH        "^2Price: ^7Yuri, quédese con el equipo."
+
+REFERENCE           SUBTITLE_PAYBACK_PRI_STRUGGLING1910
+LANG_ENGLISH        "^2Price: ^7No somos los únicos que están ciegos aquí. Vamos a aprovechar esa ventaja. "
+
+REFERENCE           SUBTITLE_PAYBACK_PRI_SUPPRESS247
+LANG_ENGLISH        "^2Price: ^7Bien. ¡Yuri, coja a Nikolai! ¡Los demás, a disparar y replegarse!"
+
+REFERENCE           SUBTITLE_PAYBACK_PRI_SWEEPUNDER41
+LANG_ENGLISH        "^2Soap: ^7¡Debajo de los muelles!"
+
+REFERENCE           SUBTITLE_PAYBACK_PRI_TAKECOVER145
+LANG_ENGLISH        "^2Price: ^7¡A cubierto!"
+
+REFERENCE           SUBTITLE_PAYBACK_PRI_TAKEEMDOWN225
+LANG_ENGLISH        "^2Price: ^7¡A por ellos!"
+
+REFERENCE           SUBTITLE_PAYBACK_PRI_TAKEEMOUT204
+LANG_ENGLISH        "^2Price: ^7¡A por ellos!"
+
+REFERENCE           SUBTITLE_PAYBACK_PRI_TAKEEMOUT271
+LANG_ENGLISH        "^2Price: ^7¡A por ellos!"
+
+REFERENCE           SUBTITLE_PAYBACK_PRI_TARGETDOWN2284
+LANG_ENGLISH        "^2Price: ^7Eliminado."
+
+REFERENCE           SUBTITLE_PAYBACK_PRI_TARGETSAHEAD114
+LANG_ENGLISH        "^2Price: ^7Blancos a la vista. ¡Al ataque!"
+
+REFERENCE           SUBTITLE_PAYBACK_PRI_TECHNICALS72
+LANG_ENGLISH        "^2Soap: ^7¡Se acercan vehículos por el norte!"
+
+REFERENCE           SUBTITLE_PAYBACK_PRI_TELLINGTRUTH164
+LANG_ENGLISH        "^2Price: ^7Sí, seguro que decía la verdad. Apostaría la vida de Makarov. "
+
+REFERENCE           SUBTITLE_PAYBACK_PRI_TELLME21412
+LANG_ENGLISH        "^2Price: ^7¿Dónde está Makarov? Dígamelo y será suya."
+
+REFERENCE           SUBTITLE_PAYBACK_PRI_THEWALL171
+LANG_ENGLISH        "^2Soap: ^7¡Cuidado con el muro!"
+
+REFERENCE           SUBTITLE_PAYBACK_PRI_TOPFLOOR176
+LANG_ENGLISH        "^2Price: ^7Tenemos que subir al último piso. En marcha."
+
+REFERENCE           SUBTITLE_PAYBACK_PRI_TOTHELEFT22822
+LANG_ENGLISH        "^2Price: ^7Contacto a la izquierda."
+
+REFERENCE           SUBTITLE_PAYBACK_PRI_TOTHERIGHT22821
+LANG_ENGLISH        "^2Price: ^7Contacto a la derecha."
+
+REFERENCE           SUBTITLE_PAYBACK_PRI_TURNAROUND1820
+LANG_ENGLISH        "^2Price: ^7¡Den la vuelta y síganme!"
+
+REFERENCE           SUBTITLE_PAYBACK_PRI_TURRET186
+LANG_ENGLISH        "^2Price: ^7Yuri, utilice la torreta remota y elimínelos."
+
+REFERENCE           SUBTITLE_PAYBACK_PRI_USEROPES1816
+LANG_ENGLISH        "^2Price: ^7¡Usen las cuerdas!"
+
+REFERENCE           SUBTITLE_PAYBACK_PRI_VEHICLECOMING201
+LANG_ENGLISH        "^2Price: ^7Se aproxima un vehículo. Agáchense y sigan avanzando."
+
+REFERENCE           SUBTITLE_PAYBACK_PRI_VEHICLEDESTROYED74
+LANG_ENGLISH        "^2Soap: ^7Impacto en el blanco. Vehículo destruido."
+
+REFERENCE           SUBTITLE_PAYBACK_PRI_WAITINGFOR2410
+LANG_ENGLISH        "^2Price: ^7Yuri, ¿a qué está esperando? Coja a Nikolai."
+
+REFERENCE           SUBTITLE_PAYBACK_PRI_WATCHIT174
+LANG_ENGLISH        "^2Price: ^7¡Cuidado!"
+
+REFERENCE           SUBTITLE_PAYBACK_PRI_WATCHROOFTOPS1612
+LANG_ENGLISH        "^2Price: ^7Vigilen los tejados."
+
+REFERENCE           SUBTITLE_PAYBACK_PRI_WATCHTHOSECORNERS1212
+LANG_ENGLISH        "^2Price: ^7Ojo con las esquinas. "
+
+REFERENCE           SUBTITLE_PAYBACK_PRI_WATCHYOURCORNERS126
+LANG_ENGLISH        "^2Price: ^7Atentos a las esquinas."
+
+REFERENCE           SUBTITLE_PAYBACK_PRI_WELLDONEYURI75
+LANG_ENGLISH        "^2Soap: ^7Blancos destruidos. Bien hecho, Yuri."
+
+REFERENCE           SUBTITLE_PAYBACK_PRI_WHEREAREYOU181
+LANG_ENGLISH        "^2Price: ^7Estamos en zona de aterrizaje. ¿Dónde está?"
+
+REFERENCE           SUBTITLE_PAYBACK_PRI_WHEREGOING2411
+LANG_ENGLISH        "^2Price: ^7Yuri, ¿adónde cree que va?"
+
+REFERENCE           SUBTITLE_PAYBACK_PRI_YURIJUMPROPE1817
+LANG_ENGLISH        "^2Price: ^7Yuri, salte a la cuerda. "
+
+REFERENCE           SUBTITLE_PAYBACK_PRI_YURIMOVEIT37
+LANG_ENGLISH        "^2Soap: ^7¡Yuri, muévase! ¡Tenemos que dar con Waraabe antes de que huya!"
+
+REFERENCE           SUBTITLE_PAYBACK_PRI_YURIREMOTEGUN94
+LANG_ENGLISH        "^2Price: ^7Yuri, use el cañón remoto para eliminar esos nidos."
+
+REFERENCE           SUBTITLE_PAYBACK_PRI_YURITHISWAY257
+LANG_ENGLISH        "^2Price: ^7¡Por aquí, Yuri! "
+
+REFERENCE           SUBTITLE_PAYBACK_TM2_REACHEDNIKOLAI232
+LANG_ENGLISH        "^2Team Two Leader: ^7Capitán Price, estamos con Nikolai, pero recibimos fuego intenso."
+
+REFERENCE           SUBTITLE_PAYBACK_WRB_INSANE148
+LANG_ENGLISH        "^2Waraabe: ^7¡No! ¡No, por favor!"
+
+REFERENCE           SUBTITLE_PAYBACK_WRB_PARIS1417
+LANG_ENGLISH        "^2Waraabe: ^7¡En París! ¡Supervisó la entrega en París!"
+
+REFERENCE           SUBTITLE_PAYBACK_WRB_VOLK1414
+LANG_ENGLISH        "^2Waraabe: ^7¡Nuestro contacto era un tal Volk! ¡Nunca vimos a Makarov!"
+
+REFERENCE           SUBTITLE_PAYBACK_WRB_WAIT1421
+LANG_ENGLISH        "^2Waraabe: ^7¡Espere!"
+
+ENDMARKER

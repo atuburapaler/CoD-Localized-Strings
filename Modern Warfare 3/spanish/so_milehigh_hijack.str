@@ -1,0 +1,112 @@
+// Dumped from fastfile "so_milehigh_hijack".
+// In their original format the strings might have been separated in multiple files.
+VERSION             "1"
+CONFIG              "C:/trees/cod3/cod3/bin/StringEd.cfg"
+FILENOTES           ""
+
+REFERENCE           SO_MILEHIGH_HIJACK_ACCURACY
+LANG_ENGLISH        "Precisión"
+
+REFERENCE           SO_MILEHIGH_HIJACK_ACCURACY_HUD
+LANG_ENGLISH        "Precisión: "
+
+REFERENCE           SO_MILEHIGH_HIJACK_ACCURACY_HUD_PERCENT
+LANG_ENGLISH        "&&1%"
+
+REFERENCE           SO_MILEHIGH_HIJACK_CAPTURE
+LANG_ENGLISH        "Captura"
+
+REFERENCE           SO_MILEHIGH_HIJACK_CHALLENGE_TIME
+LANG_ENGLISH        "Tiempo de desafío"
+
+REFERENCE           SO_MILEHIGH_HIJACK_DAMAGED
+LANG_ENGLISH        "Daño sufrido"
+
+REFERENCE           SO_MILEHIGH_HIJACK_DAMAGED_HUD
+LANG_ENGLISH        "Daño: "
+
+REFERENCE           SO_MILEHIGH_HIJACK_OBJECTIVE_CAPTURE
+LANG_ENGLISH        "Captura al presidente."
+
+REFERENCE           SO_MILEHIGH_HIJACK_OBJECTIVE_FIND
+LANG_ENGLISH        "Encuentra al presidente y tómalo como rehén."
+
+REFERENCE           SO_MILEHIGH_HIJACK_PRESIDENT_KILLED
+LANG_ENGLISH        "El presidente ha muerto."
+
+REFERENCE           SO_MILEHIGH_HIJACK_USE_PRESIDENT
+LANG_ENGLISH        "Mantén ^3[{+activate}]^7 para capturar."
+
+REFERENCE           SUBTITLE_SO_MILEHIGH_FAIL_BEEN_DEFEATED
+LANG_ENGLISH        "^2Makarov: ^7¡Han sido derrotados!"
+
+REFERENCE           SUBTITLE_SO_MILEHIGH_FAIL_COWARDS
+LANG_ENGLISH        "^2Makarov: ^7Derrota. No soporto a los cobardes."
+
+REFERENCE           SUBTITLE_SO_MILEHIGH_FAIL_HAPPEN_AGAIN
+LANG_ENGLISH        "^2Makarov: ^7Han sido derrotados. Que no vuelva a ocurrir."
+
+REFERENCE           SUBTITLE_SO_MILEHIGH_FAIL_NEXT_FIGHT
+LANG_ENGLISH        "^2Makarov: ^7Hemos perdido. Pero ganaremos."
+
+REFERENCE           SUBTITLE_SO_MILEHIGH_FAIL_NO_DEFEAT
+LANG_ENGLISH        "^2Makarov: ^7¡La derrota no es una opción!"
+
+REFERENCE           SUBTITLE_SO_MILEHIGH_FAIL_OBJECTIVE
+LANG_ENGLISH        "^2Makarov: ^7¡Objetivo perdido!"
+
+REFERENCE           SUBTITLE_SO_MILEHIGH_FSO1_ALLAGENTS
+LANG_ENGLISH        "^2FSO Agent: ^7¡A todos los agentes: respondan! ¡Repito: respondan!"
+
+REFERENCE           SUBTITLE_SO_MILEHIGH_FSO1_DISCRETION
+LANG_ENGLISH        "^2FSO Agent: ^7Evite o ataque al enemigo a su discreción. Asegure a la hija a toda costa."
+
+REFERENCE           SUBTITLE_SO_MILEHIGH_FSO1_EXECUTING
+LANG_ENGLISH        "^2FSO Agent: ^7¡Están ejecutando a nuestros hombres! ¡Elimínelos si puede, pero asegurar a Alena es nuestra prioridad!"
+
+REFERENCE           SUBTITLE_SO_MILEHIGH_FSO1_MAKAROV
+LANG_ENGLISH        "^2FSO Agent: ^7Makarov tiene al presidente. El enemigo está buscando a Alena entre los restos."
+
+REFERENCE           SUBTITLE_SO_MILEHIGH_FSO1_NEEDBACKUP
+LANG_ENGLISH        "^2FSO Agent: ^7¡Nos están acribillando! ¡Necesitamos apoyo inmediato!"
+
+REFERENCE           SUBTITLE_SO_MILEHIGH_FSO1_TAKEITOUT
+LANG_ENGLISH        "^2FSO Agent: ^7¡El helicóptero enemigo lo ha detectado! ¡Elimínelo!"
+
+REFERENCE           SUBTITLE_SO_MILEHIGH_START_CAPTURE
+LANG_ENGLISH        "^2Makarov: ^7¡Tomen el objetivo!"
+
+REFERENCE           SUBTITLE_SO_MILEHIGH_START_DEFEAT
+LANG_ENGLISH        "^2Makarov: ^7Cuento con usted. Derrótelos."
+
+REFERENCE           SUBTITLE_SO_MILEHIGH_START_FINISH
+LANG_ENGLISH        "^2Makarov: ^7Depende de usted. Termínelo."
+
+REFERENCE           SUBTITLE_SO_MILEHIGH_TIME_GENERIC
+LANG_ENGLISH        "^2Makarov: ^7¡Avance!"
+
+REFERENCE           SUBTITLE_SO_MILEHIGH_TIME_HURRY
+LANG_ENGLISH        "^2Makarov: ^7¡El tiempo se acaba!"
+
+REFERENCE           SUBTITLE_SO_MILEHIGH_WIN_ENEMY_DEFEATED
+LANG_ENGLISH        "^2Makarov: ^7El enemigo ha sido derrotado."
+
+REFERENCE           SUBTITLE_SO_MILEHIGH_WIN_JERK
+LANG_ENGLISH        "^2Makarov: ^7Lo han hecho muy bien. No me den motivos para dudar de ustedes."
+
+REFERENCE           SUBTITLE_SO_MILEHIGH_WIN_SERVED_WELL
+LANG_ENGLISH        "^2Makarov: ^7Buen trabajo. Se han portado bien."
+
+REFERENCE           SUBTITLE_SO_MILEHIGH_WIN_VICTORIOUS
+LANG_ENGLISH        "^2Makarov: ^7Somos vencedores."
+
+REFERENCE           SUBTITLE_SO_MILEHIGH_WIN_VICTORY
+LANG_ENGLISH        "^2Makarov: ^7Victoria."
+
+REFERENCE           SUBTITLE_SO_MILEHIGH_WIN_VICTORY_OURS
+LANG_ENGLISH        "^2Makarov: ^7La victoria es nuestra."
+
+REFERENCE           SUBTITLE_SO_MILEHIGH_WIN_WELL_DONE
+LANG_ENGLISH        "^2Makarov: ^7Bien hecho."
+
+ENDMARKER

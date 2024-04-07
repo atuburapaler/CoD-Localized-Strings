@@ -1,0 +1,235 @@
+// Dumped from fastfile "so_ied_berlin".
+// In their original format the strings might have been separated in multiple files.
+VERSION             "1"
+CONFIG              "C:/trees/cod3/cod3/bin/StringEd.cfg"
+FILENOTES           ""
+
+REFERENCE           HELLFIRE_DESTROYED
+LANG_ENGLISH        "El dron Predator ha sido destruido."
+
+REFERENCE           HELLFIRE_DRONE_NOT_AVAILABLE
+LANG_ENGLISH        "El dron Predator no está disponible."
+
+REFERENCE           HELLFIRE_DRONE_VIEW
+LANG_ENGLISH        "CÁMARA: UAV_DRONE_011"
+
+REFERENCE           HELLFIRE_FIRE
+LANG_ENGLISH        "-MISIL LANZADO-"
+
+REFERENCE           HELLFIRE_MISSILE_VIEW
+LANG_ENGLISH        "CÁMARA: MISIL"
+
+REFERENCE           HELLFIRE_RELOADING
+LANG_ENGLISH        "-MISIL RECARGANDO-"
+
+REFERENCE           HELLFIRE_RELOADING_WITH_TIME
+LANG_ENGLISH        "RECARGA DE MISIL: "
+
+REFERENCE           HELLFIRE_USE_DRONE
+LANG_ENGLISH        "Pulsa ^3[{+actionslot 4}]^7 para controlar el dron Predator."
+
+REFERENCE           HELLFIRE_USE_DRONE_2
+LANG_ENGLISH        "Pulsa ^3[{+actionslot 2}]^7 para controlar el dron Predator."
+
+REFERENCE           SO_IED_BERLIN_BONUS_EXPLO_KILL
+LANG_ENGLISH        "Bajas explosivas"
+
+REFERENCE           SO_IED_BERLIN_BONUS_MELEE_KILL
+LANG_ENGLISH        "Bajas en cuerpo a cuerpo"
+
+REFERENCE           SO_IED_BERLIN_DEFUSING
+LANG_ENGLISH        "Desactivando…"
+
+REFERENCE           SO_IED_BERLIN_EXPLO_KILL
+LANG_ENGLISH        "Bajas explosivas: "
+
+REFERENCE           SO_IED_BERLIN_HINT_DETECT
+LANG_ENGLISH        "Pulsa ^3[{+actionslot 4}]^7 para usar el UAV y detectar explosivos improvisados."
+
+REFERENCE           SO_IED_BERLIN_HINT_IED
+LANG_ENGLISH        "Mantén ^3[{+activate}]^7 para desactivar el explosivo."
+
+REFERENCE           SO_IED_BERLIN_HINT_IEDS_MARKED
+LANG_ENGLISH        "Posiciones explosivos improvisados marcadas"
+
+REFERENCE           SO_IED_BERLIN_HINT_JUGG
+LANG_ENGLISH        "¡Desactiva los explosivos improvisados!"
+
+REFERENCE           SO_IED_BERLIN_HINT_SNIPER
+LANG_ENGLISH        "¡Marca los explosivos y cubre a tu aliado!"
+
+REFERENCE           SO_IED_BERLIN_HINT_THUMPER
+LANG_ENGLISH        "Pulsa ^3[{weapnext}]^7 para pasar a tu Thumper."
+
+REFERENCE           SO_IED_BERLIN_IEDS_REMAINING
+LANG_ENGLISH        "Explosivos improvisados restantes: "
+
+REFERENCE           SO_IED_BERLIN_IED_DEFUSED
+LANG_ENGLISH        "Explosivo improvisado desactivado"
+
+REFERENCE           SO_IED_BERLIN_IED_DETONATED
+LANG_ENGLISH        "Los explosivos improvisados son muy sensibles al movimiento. No te muevas con rapidez cuando estés cerca de ellos.  "
+
+REFERENCE           SO_IED_BERLIN_IED_NOT_DEFUSED
+LANG_ENGLISH        "Explosivos no desactivados."
+
+REFERENCE           SO_IED_BERLIN_MELEE_KILL
+LANG_ENGLISH        "Bajas en cuerpo a cuerpo: "
+
+REFERENCE           SO_IED_BERLIN_OBJ_DEFUSE
+LANG_ENGLISH        "Desactiva todos los explosivos improvisados del bulevar"
+
+REFERENCE           SO_IED_BERLIN_OBJ_DEFUSE_REMAINING
+LANG_ENGLISH        "Desactiva todos los explosivos improvisados del bulevar [quedan &&1]"
+
+REFERENCE           SUBTITLE_SO_BERLIN_HQR_ANOTHERWAVE116
+LANG_ENGLISH        "^2Overlord: ^7Otra oleada de tropas enemigas se dirige a su sector, Metal 0-4. "
+
+REFERENCE           SUBTITLE_SO_BERLIN_HQR_BADGUYS112
+LANG_ENGLISH        "^2Overlord: ^7Más fuerzas hostiles en camino, Metal 0-4. Dense prisa con esos explosivos."
+
+REFERENCE           SUBTITLE_SO_BERLIN_HQR_COMEONHOME117
+LANG_ENGLISH        "^2Overlord: ^7Todos los explosivos neutralizados. Excelente, Metal 0-4. Vuelvan a casa. Corto."
+
+REFERENCE           SUBTITLE_SO_BERLIN_HQR_ENEMYARMOR110
+LANG_ENGLISH        "^2Overlord: ^7Un blindado enemigo va hacia su posición, Metal 0-4. Ojo a sus 6."
+
+REFERENCE           SUBTITLE_SO_BERLIN_HQR_FIVEMORE16
+LANG_ENGLISH        "^2Overlord: ^75 más."
+
+REFERENCE           SUBTITLE_SO_BERLIN_HQR_GETINCLOSE122
+LANG_ENGLISH        "^2Overlord: ^7Van a tener que acercarse a los explosivos para desactivarlos."
+
+REFERENCE           SUBTITLE_SO_BERLIN_HQR_GETONREAPER114
+LANG_ENGLISH        "^2Overlord: ^7Metal 0-4, pueden detectar explosivos con el Reaper."
+
+REFERENCE           SUBTITLE_SO_BERLIN_HQR_HELOINBOUND115
+LANG_ENGLISH        "^2Overlord: ^7Se acerca un helicóptero enemigo. Derríbenlo."
+
+REFERENCE           SUBTITLE_SO_BERLIN_HQR_IEDDEFUSED12
+LANG_ENGLISH        "^2Overlord: ^7Explosivo desactivado."
+
+REFERENCE           SUBTITLE_SO_BERLIN_HQR_IEDNEUTRALIZED13
+LANG_ENGLISH        "^2Overlord: ^7Explosivo neutralizado."
+
+REFERENCE           SUBTITLE_SO_BERLIN_HQR_IEDSMARKED124
+LANG_ENGLISH        "^2Overlord: ^7Explosivos marcados."
+
+REFERENCE           SUBTITLE_SO_BERLIN_HQR_IEDSSCATTERED11
+LANG_ENGLISH        "^2Overlord: ^7Hay explosivos improvisados por todo el bulevar, Metal 0-4. Equípense con sus trajes de artificiero y despejen la zona para nuestros blindados.  "
+
+REFERENCE           SUBTITLE_SO_BERLIN_HQR_NEUTRALIZED14
+LANG_ENGLISH        "^2Overlord: ^7Neutralizado."
+
+REFERENCE           SUBTITLE_SO_BERLIN_HQR_NEUTRALIZETHEM123
+LANG_ENGLISH        "^2Overlord: ^7Metal 0-4, acérquense a los explosivos. Neutralícenlos."
+
+REFERENCE           SUBTITLE_SO_BERLIN_HQR_ONETOGO19
+LANG_ENGLISH        "^2Overlord: ^7Falta uno."
+
+REFERENCE           SUBTITLE_SO_BERLIN_HQR_ONPREDATOR126
+LANG_ENGLISH        "^2Overlord: ^7Metal 0-4, pueden detectar los explosivos con el Predator."
+
+REFERENCE           SUBTITLE_SO_BERLIN_HQR_ONSTATION125
+LANG_ENGLISH        "^2Overlord: ^7Metal 0-4, hay un Predator listo para enviar datos sobre ubicaciones de explosivos."
+
+REFERENCE           SUBTITLE_SO_BERLIN_HQR_REAPER113
+LANG_ENGLISH        "^2Overlord: ^7Reaper en posición, Metal 0-4, listo para ubicar los explosivos."
+
+REFERENCE           SUBTITLE_SO_BERLIN_HQR_ROTORWING111
+LANG_ENGLISH        "^2Overlord: ^7Avistado helicóptero enemigo. Atentos al pájaro, Metal 0-4."
+
+REFERENCE           SUBTITLE_SO_BERLIN_HQR_SENSITIVE121
+LANG_ENGLISH        "^2Overlord: ^7Vayan con cuidado, Metal 0-4. Esos explosivos son sensibles al movimiento y podrían estallar.  "
+
+REFERENCE           SUBTITLE_SO_BERLIN_HQR_THREATNEUTRALIZED15
+LANG_ENGLISH        "^2Overlord: ^7Amenaza neutralizada."
+
+REFERENCE           SUBTITLE_SO_BERLIN_HQR_THREEMORE17
+LANG_ENGLISH        "^2Overlord: ^73 más para Metal 0-4."
+
+REFERENCE           SUBTITLE_SO_BERLIN_HQR_TWOLEFT18
+LANG_ENGLISH        "^2Overlord: ^7Quedan 2."
+
+REFERENCE           UAV_ABOVE_TEMP_NUMBERS
+LANG_ENGLISH        "1133 "
+
+REFERENCE           UAV_ACFT
+LANG_ENGLISH        "ACFT "
+
+REFERENCE           UAV_ALT_MSL
+LANG_ENGLISH        "ALT MSL: V---IW--STP "
+
+REFERENCE           UAV_ALT_NEL
+LANG_ENGLISH        "ALT NEL "
+
+REFERENCE           UAV_BLK
+LANG_ENGLISH        "BLK "
+
+REFERENCE           UAV_BLK_WHT
+LANG_ENGLISH        "BLK/WHT "
+
+REFERENCE           UAV_BRG
+LANG_ENGLISH        "BRG "
+
+REFERENCE           UAV_DEGREE
+LANG_ENGLISH        "' "
+
+REFERENCE           UAV_ELV
+LANG_ENGLISH        "ELV "
+
+REFERENCE           UAV_F
+LANG_ENGLISH        "F "
+
+REFERENCE           UAV_HAT
+LANG_ENGLISH        "  1,337 HAT "
+
+REFERENCE           UAV_KIAS
+LANG_ENGLISH        "KIAS "
+
+REFERENCE           UAV_M
+LANG_ENGLISH        "m "
+
+REFERENCE           UAV_MSL
+LANG_ENGLISH        "MSL "
+
+REFERENCE           UAV_N
+LANG_ENGLISH        "N "
+
+REFERENCE           UAV_N2
+LANG_ENGLISH        "LAT: N  40 42.407 "
+
+REFERENCE           UAV_NAR
+LANG_ENGLISH        "NAR "
+
+REFERENCE           UAV_NM
+LANG_ENGLISH        "NM "
+
+REFERENCE           UAV_QUOTE
+LANG_ENGLISH        "\""
+
+REFERENCE           UAV_RATE
+LANG_ENGLISH        "RATE "
+
+REFERENCE           UAV_RATIO
+LANG_ENGLISH        " 21/117 "
+
+REFERENCE           UAV_RNG
+LANG_ENGLISH        "RNG "
+
+REFERENCE           UAV_TEMP
+LANG_ENGLISH        " 10C "
+
+REFERENCE           UAV_W
+LANG_ENGLISH        "W "
+
+REFERENCE           UAV_W2
+LANG_ENGLISH        "LON: W -74 0.627 "
+
+REFERENCE           UAV_WHT
+LANG_ENGLISH        "WHT "
+
+REFERENCE           UAV_WTR_DVR_ON
+LANG_ENGLISH        "WTR DVR ON "
+
+ENDMARKER

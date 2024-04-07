@@ -1,0 +1,118 @@
+// Dumped from fastfile "so_stealth_warlord".
+// In their original format the strings might have been separated in multiple files.
+VERSION             "1"
+CONFIG              "C:/trees/cod3/cod3/bin/StringEd.cfg"
+FILENOTES           ""
+
+REFERENCE           SENTRY_CANNOT_PLACE
+LANG_ENGLISH        "Mueve la torreta a una posición válida."
+
+REFERENCE           SENTRY_DEBUG_SPAWN_ENEMIES
+LANG_ENGLISH        "Los enemigos se rinden en 10 segundos."
+
+REFERENCE           SENTRY_MOVE
+LANG_ENGLISH        "Mantén ^3&&1^7 para mover la torreta."
+
+REFERENCE           SENTRY_PICKUP
+LANG_ENGLISH        "Mantén ^3&&1^7 para recoger la torreta."
+
+REFERENCE           SENTRY_PLACE
+LANG_ENGLISH        "Pulsa ^3[{+attack}]^7 para colocar la torreta."
+
+REFERENCE           SO_STEALTH_WARLORD_DOG_MELEE
+LANG_ENGLISH        "Bajas de hienas con cuchillos"
+
+REFERENCE           SO_STEALTH_WARLORD_DOG_MELEE_MENU
+LANG_ENGLISH        "CaC contra hienas: "
+
+REFERENCE           SO_STEALTH_WARLORD_EXIT_TEXT
+LANG_ENGLISH        "Sal"
+
+REFERENCE           SO_STEALTH_WARLORD_INTEL_COUNT
+LANG_ENGLISH        "Intercepta datos enemigos [&&1/&&2]."
+
+REFERENCE           SO_STEALTH_WARLORD_LASER_FIRE
+LANG_ENGLISH        "Pulsa ^3[{+attack}]^7 para confirmar la zona objetivo."
+
+REFERENCE           SO_STEALTH_WARLORD_LASER_HINT
+LANG_ENGLISH        "Pulsa ^3[{+actionslot 4}]^7 para designar el objetivo del ataque aéreo.\n"
+
+REFERENCE           SO_STEALTH_WARLORD_LOCKON_HINT
+LANG_ENGLISH        "Tienes que fijar un objetivo para el ataque aéreo.\n"
+
+REFERENCE           SO_STEALTH_WARLORD_LOOT
+LANG_ENGLISH        "Mantén ^3[{+activate}]^7 para recoger información."
+
+REFERENCE           SO_STEALTH_WARLORD_LOOT_FOUND
+LANG_ENGLISH        " Información obtenida "
+
+REFERENCE           SO_STEALTH_WARLORD_OBJ_EXIT
+LANG_ENGLISH        "Encuentra el piso franco enemigo"
+
+REFERENCE           SO_STEALTH_WARLORD_OBJ_INTEL
+LANG_ENGLISH        "Intercepta la información del enemigo"
+
+REFERENCE           SO_STEALTH_WARLORD_OBJ_SAFE_HOUSE
+LANG_ENGLISH        "Marca el piso franco para un ataque aéreo"
+
+REFERENCE           SO_STEALTH_WARLORD_OBJ_TARGET
+LANG_ENGLISH        "Blanco"
+
+REFERENCE           SO_STEALTH_WARLORD_TURRETS_ACTIVE
+LANG_ENGLISH        "Torretas: "
+
+REFERENCE           SO_STEALTH_WARLORD_TURRETS_ALIVE
+LANG_ENGLISH        "Torretas activas"
+
+REFERENCE           SUBTITLE_SO_STE_WARLORD_HQR_DATAENROUTE110
+LANG_ENGLISH        "^2Overlord: ^7Datos en camino. Mantengan la posición a la espera del blanco."
+
+REFERENCE           SUBTITLE_SO_STE_WARLORD_HQR_DESTROY12
+LANG_ENGLISH        "^2Overlord: ^7Destruirán sus documentos al primer indicio de actividad enemiga, así que procuren pasar desapercibidos."
+
+REFERENCE           SUBTITLE_SO_STE_WARLORD_HQR_DROPPED16
+LANG_ENGLISH        "^2Overlord: ^7Recoja el documento caído.  "
+
+REFERENCE           SUBTITLE_SO_STE_WARLORD_HQR_FASTMOVERS112
+LANG_ENGLISH        "^2Overlord: ^7Aeronaves a la espera. ¡Marquen el piso franco!"
+
+REFERENCE           SUBTITLE_SO_STE_WARLORD_HQR_GOODEFFECT117
+LANG_ENGLISH        "^2Overlord: ^7¡Impacto en el blanco! Buen trabajo, equipo.  "
+
+REFERENCE           SUBTITLE_SO_STE_WARLORD_HQR_GROUND17
+LANG_ENGLISH        "^2Overlord: ^7Documento en el suelo."
+
+REFERENCE           SUBTITLE_SO_STE_WARLORD_HQR_IDENTIFIED14
+LANG_ENGLISH        "^2Overlord: ^7Objetivo identificado."
+
+REFERENCE           SUBTITLE_SO_STE_WARLORD_HQR_INTELAQUIRED19
+LANG_ENGLISH        "^2Overlord: ^7Datos obtenidos. Diríjanse a una posición elevada y esperen nuevas órdenes."
+
+REFERENCE           SUBTITLE_SO_STE_WARLORD_HQR_LOCKON114
+LANG_ENGLISH        "^2Overlord: ^7Hay que marcar el ataque aéreo."
+
+REFERENCE           SUBTITLE_SO_STE_WARLORD_HQR_LOWTECH11
+LANG_ENGLISH        "^2Overlord: ^7El enemigo emplea documentos de papel para no ser detectado. Intercéptelos para localizar al objetivo."
+
+REFERENCE           SUBTITLE_SO_STE_WARLORD_HQR_NEGATIVE115
+LANG_ENGLISH        "^2Overlord: ^7Negativo. Hay que marcar antes."
+
+REFERENCE           SUBTITLE_SO_STE_WARLORD_HQR_NOTIME113
+LANG_ENGLISH        "^2Overlord: ^7No hay tiempo. ¡Usen el marcador para identificar el blanco!"
+
+REFERENCE           SUBTITLE_SO_STE_WARLORD_HQR_PAINTTARGET111
+LANG_ENGLISH        "^2Overlord: ^7Piso franco enemigo identificado. Márquenlo con láser."
+
+REFERENCE           SUBTITLE_SO_STE_WARLORD_HQR_PICKITUP15
+LANG_ENGLISH        "^2Overlord: ^7Ahí hay un documento, cójalo. "
+
+REFERENCE           SUBTITLE_SO_STE_WARLORD_HQR_POSSIBLE13
+LANG_ENGLISH        "^2Overlord: ^7Posibles objetivos identificados."
+
+REFERENCE           SUBTITLE_SO_STE_WARLORD_HQR_SAFEHOUSE18
+LANG_ENGLISH        "^2Overlord: ^7Los datos corroboran la existencia de un piso franco."
+
+REFERENCE           SUBTITLE_SO_STE_WARLORD_HQR_TARGETGOOD116
+LANG_ENGLISH        "^2Overlord: ^7Coordenadas adquiridas. Blanco listo."
+
+ENDMARKER

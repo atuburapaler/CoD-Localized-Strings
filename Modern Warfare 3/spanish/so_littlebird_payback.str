@@ -1,0 +1,91 @@
+// Dumped from fastfile "so_littlebird_payback".
+// In their original format the strings might have been separated in multiple files.
+VERSION             "1"
+CONFIG              "C:/trees/cod3/cod3/bin/StringEd.cfg"
+FILENOTES           ""
+
+REFERENCE           SO_LITTLEBIRD_PAYBACK_C4_HINT
+LANG_ENGLISH        "Pulsa ^3[{+attack}]^7 para detonar el C4."
+
+REFERENCE           SO_LITTLEBIRD_PAYBACK_CRASH_SITE
+LANG_ENGLISH        "Encuentra la zona del accidente Bravo."
+
+REFERENCE           SO_LITTLEBIRD_PAYBACK_DRUGS
+LANG_ENGLISH        "Localiza y destruye todas las drogas."
+
+REFERENCE           SO_LITTLEBIRD_PAYBACK_EXIT
+LANG_ENGLISH        "Llega al punto de extracción."
+
+REFERENCE           SO_LITTLEBIRD_PAYBACK_EXIT_HELI
+LANG_ENGLISH        "Pulsa ^3[{+activate}]^7 para salir."
+
+REFERENCE           SO_LITTLEBIRD_PAYBACK_EXPLO_KILLS
+LANG_ENGLISH        "Bajas explosión"
+
+REFERENCE           SO_LITTLEBIRD_PAYBACK_EXPLO_KILLS_MENU
+LANG_ENGLISH        "Bajas explosión: "
+
+REFERENCE           SO_LITTLEBIRD_PAYBACK_GRENADE_HINT
+LANG_ENGLISH        "Pulsa ^3 [{+actionslot 3}] ^7 para usar el lanzagranadas."
+
+REFERENCE           SO_LITTLEBIRD_PAYBACK_LZ
+LANG_ENGLISH        "Encuentra una zona de aterrizaje segura y dirígete a ella a pie."
+
+REFERENCE           SO_LITTLEBIRD_PAYBACK_OPTION
+LANG_ENGLISH        "Pulsa ^3[{+activate}]^7 para salir o ^3[{+stance}]^7 para quedarte."
+
+REFERENCE           SO_LITTLEBIRD_PAYBACK_SNIPE_KILLS
+LANG_ENGLISH        "Bajas francotirador"
+
+REFERENCE           SO_LITTLEBIRD_PAYBACK_SNIPE_KILLS_MENU
+LANG_ENGLISH        "Tirador: "
+
+REFERENCE           SUBTITLE_SO_LB_PAYBACK_HQR_ANGELONE11
+LANG_ENGLISH        "^2Overlord: ^7Angel 1, hemos perdido el contacto con el equipo Bravo. Vayan a su última posición."
+
+REFERENCE           SUBTITLE_SO_LB_PAYBACK_HQR_BLOWTHEC4114
+LANG_ENGLISH        "^2Overlord: ^7¡Vuele el C4!"
+
+REFERENCE           SUBTITLE_SO_LB_PAYBACK_HQR_C4INPLACE112
+LANG_ENGLISH        "^2Overlord: ^7C4 colocado. ¡Detónelo!"
+
+REFERENCE           SUBTITLE_SO_LB_PAYBACK_HQR_CHARGEPLANTED113
+LANG_ENGLISH        "^2Overlord: ^7Carga colocada. Detónela."
+
+REFERENCE           SUBTITLE_SO_LB_PAYBACK_HQR_DETONATE116
+LANG_ENGLISH        "^2Overlord: ^7¡Detone la carga ya!"
+
+REFERENCE           SUBTITLE_SO_LB_PAYBACK_HQR_HITTHECLACKER115
+LANG_ENGLISH        "^2Overlord: ^7¡Dele al detonador!"
+
+REFERENCE           SUBTITLE_SO_LB_PAYBACK_HQR_NARCOTICS110
+LANG_ENGLISH        "^2Overlord: ^7La milicia local está financiada con el dinero del narcotráfico. Encuentren y eliminen las drogas."
+
+REFERENCE           SUBTITLE_SO_LB_PAYBACK_HQR_PICKUP19
+LANG_ENGLISH        "^2Overlord: ^7Recibido. Designen zona de aterrizaje y sigan donde acabó el equipo Bravo. "
+
+REFERENCE           SUBTITLE_SO_LB_PAYBACK_HQR_STASHES111
+LANG_ENGLISH        "^2Overlord: ^7Todos los alijos han sido destruidos. Reúnanse con Angel 1 y vuelvan a casa.  "
+
+REFERENCE           SUBTITLE_SO_LB_PAYBACK_PLT_BALCONIES17
+LANG_ENGLISH        "^2Angel-1 Pilot: ^7¡Múltiples contactos en los balcones!"
+
+REFERENCE           SUBTITLE_SO_LB_PAYBACK_PLT_ENEMYRIGHT15
+LANG_ENGLISH        "^2Angel-1 Pilot: ^7¡Enemigo en tejado de la derecha!"
+
+REFERENCE           SUBTITLE_SO_LB_PAYBACK_PLT_ENROUTE12
+LANG_ENGLISH        "^2Angel-1 Pilot: ^7Recibido Overlord. Vamos en camino."
+
+REFERENCE           SUBTITLE_SO_LB_PAYBACK_PLT_EYESON13
+LANG_ENGLISH        "^2Angel-1 Pilot: ^7Overlord, aquí Angel 1. Hemos encontrado el vehículo del equipo Bravo. Han muerto todos."
+
+REFERENCE           SUBTITLE_SO_LB_PAYBACK_PLT_ROOFTOPRIGHT14
+LANG_ENGLISH        "^2Angel-1 Pilot: ^7¡Tejado de la derecha!"
+
+REFERENCE           SUBTITLE_SO_LB_PAYBACK_PLT_RPGSROOFTOP16
+LANG_ENGLISH        "^2Angel-1 Pilot: ^7¡RPG en los tejados!"
+
+REFERENCE           SUBTITLE_SO_LB_PAYBACK_PLT_TECHNICAL18
+LANG_ENGLISH        "^2Angel-1 Pilot: ^7Vehículo enemigo avistado en la calle."
+
+ENDMARKER

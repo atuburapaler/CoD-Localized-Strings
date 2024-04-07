@@ -1,0 +1,154 @@
+// Dumped from fastfile "so_zodiac2_ny_harbor".
+// In their original format the strings might have been separated in multiple files.
+VERSION             "1"
+CONFIG              "C:/trees/cod3/cod3/bin/StringEd.cfg"
+FILENOTES           ""
+
+REFERENCE           SO_ZODIAC2_NY_HARBOR_BONUS_CLOSE
+LANG_ENGLISH        "Bajas humo"
+
+REFERENCE           SO_ZODIAC2_NY_HARBOR_BONUS_CLOSE_SMALL
+LANG_ENGLISH        "Bajas humo: "
+
+REFERENCE           SO_ZODIAC2_NY_HARBOR_BONUS_SPEEDY
+LANG_ENGLISH        "Bonificación por velocidad"
+
+REFERENCE           SO_ZODIAC2_NY_HARBOR_HINT_DEFUSE
+LANG_ENGLISH        "Mantén ^3&&1^7 para desactivar la termita."
+
+REFERENCE           SO_ZODIAC2_NY_HARBOR_HINT_DEFUSING
+LANG_ENGLISH        "Desactivando termita..."
+
+REFERENCE           SO_ZODIAC2_NY_HARBOR_HINT_DISARM
+LANG_ENGLISH        "Desactiva"
+
+REFERENCE           SO_ZODIAC2_NY_HARBOR_HINT_DISARM_COUNTDOWN
+LANG_ENGLISH        "Desactivar todos los explosivos    "
+
+REFERENCE           SO_ZODIAC2_NY_HARBOR_HINT_DISARM_FAIL
+LANG_ENGLISH        "Fallo de desactivado"
+
+REFERENCE           SO_ZODIAC2_NY_HARBOR_HINT_DISARM_SUCCESS
+LANG_ENGLISH        "¡Éxito!"
+
+REFERENCE           SO_ZODIAC2_NY_HARBOR_HINT_EXIT
+LANG_ENGLISH        "Sal\n"
+
+REFERENCE           SO_ZODIAC2_NY_HARBOR_HINT_FAIL
+LANG_ENGLISH        "Misión fallida"
+
+REFERENCE           SO_ZODIAC2_NY_HARBOR_HINT_MELTDOWN
+LANG_ENGLISH        "¡Fusión inminente! "
+
+REFERENCE           SO_ZODIAC2_NY_HARBOR_HINT_NAG_THERMITE_B
+LANG_ENGLISH        "¡Encuentra la termita!"
+
+REFERENCE           SO_ZODIAC2_NY_HARBOR_HINT_OBJ_MISSED
+LANG_ENGLISH        "¡Vuelve y evita la fusión del núcleo!"
+
+REFERENCE           SO_ZODIAC2_NY_HARBOR_HINT_THERMAL_ON
+LANG_ENGLISH        "Pulsa ^3[{+actionslot 4}]^7 para activar la visión térmica."
+
+REFERENCE           SO_ZODIAC2_NY_HARBOR_HINT_USE_LADDER
+LANG_ENGLISH        "Mantén ^3&&1^7 para usar la escalera."
+
+REFERENCE           SO_ZODIAC2_NY_HARBOR_HINT_VALVE
+LANG_ENGLISH        "Mantén ^3&&1^7 para girar la válvula."
+
+REFERENCE           SO_ZODIAC2_NY_HARBOR_HINT_VALVE_TURNING
+LANG_ENGLISH        "Cerrando..."
+
+REFERENCE           SO_ZODIAC2_NY_HARBOR_HINT_WAITING
+LANG_ENGLISH        "Falta tu compañero."
+
+REFERENCE           SO_ZODIAC2_NY_HARBOR_OBJ_AWAIT_CHOPPER
+LANG_ENGLISH        "Llega al punto de extracción"
+
+REFERENCE           SO_ZODIAC2_NY_HARBOR_OBJ_DISARM_BOMBS
+LANG_ENGLISH        "Desactiva los explosivos colocados en los silos de misiles"
+
+REFERENCE           SO_ZODIAC2_NY_HARBOR_OBJ_GET_IN_SUB
+LANG_ENGLISH        "Infíltrate en el submarino ruso"
+
+REFERENCE           SO_ZODIAC2_NY_HARBOR_OBJ_GET_OUT
+LANG_ENGLISH        "Halla un modo de salir del submarino"
+
+REFERENCE           SO_ZODIAC2_NY_HARBOR_OBJ_INFILTRATE
+LANG_ENGLISH        "Consigue entrar en el submarino"
+
+REFERENCE           SO_ZODIAC2_NY_HARBOR_OBJ_POINTER_DEFEND
+LANG_ENGLISH        "Entra"
+
+REFERENCE           SO_ZODIAC2_NY_HARBOR_OBJ_REACTOR
+LANG_ENGLISH        "Ve al reactor nuclear"
+
+REFERENCE           SUBTITLE_SO_ZODIAC2_BHP_ANGELONE121
+LANG_ENGLISH        "^2Blackhawk Pilot: ^7Overlord, visual con Angel 1. Volvemos."
+
+REFERENCE           SUBTITLE_SO_ZODIAC2_BHP_GOINGHOME12
+LANG_ENGLISH        "^2Blackhawk Pilot: ^7Recibido, déjelos pasar, se van a casa con el rabo entre las piernas."
+
+REFERENCE           SUBTITLE_SO_ZODIAC2_BHP_ONLYSEEONE122
+LANG_ENGLISH        "^2Blackhawk Pilot: ^7Overlord, solo vemos a uno. Esperamos al otro."
+
+REFERENCE           SUBTITLE_SO_ZODIAC2_HQR_AREAISHOT112
+LANG_ENGLISH        "^2Overlord: ^7La zona no es segura, Trident 1."
+
+REFERENCE           SUBTITLE_SO_ZODIAC2_HQR_BLOCKPARTY114
+LANG_ENGLISH        "^2Overlord: ^7Trident 1, vamos a organizar una pequeña fiesta. Aguante durante otros 20 segundos."
+
+REFERENCE           SUBTITLE_SO_ZODIAC2_HQR_CHERNOBYL120
+LANG_ENGLISH        "^2Overlord: ^7Si ese reactor explota, Nueva York será la próxima Chernóbil."
+
+REFERENCE           SUBTITLE_SO_ZODIAC2_HQR_IMMINENT119
+LANG_ENGLISH        "^2Overlord: ^7Fusión del núcleo inminente, Angel 1. ¡No hay tiempo!"
+
+REFERENCE           SUBTITLE_SO_ZODIAC2_HQR_LETSGOHOME116
+LANG_ENGLISH        "^2Overlord: ^7Bien hecho, Trident 1. Vamos a casa."
+
+REFERENCE           SUBTITLE_SO_ZODIAC2_HQR_NEARINGREACTOR19
+LANG_ENGLISH        "^2Overlord: ^7Se acercan al reactor. Vigilen la retaguardia."
+
+REFERENCE           SUBTITLE_SO_ZODIAC2_HQR_NORMAL118
+LANG_ENGLISH        "^2Overlord: ^7Todo en orden. Bien hecho, Angel 1."
+
+REFERENCE           SUBTITLE_SO_ZODIAC2_HQR_ONCAMERA17
+LANG_ENGLISH        "^2Overlord: ^7Tenemos contacto visual, Trident 1. Están solos. Continúen con la misión."
+
+REFERENCE           SUBTITLE_SO_ZODIAC2_HQR_ONISR113
+LANG_ENGLISH        "^2Overlord: ^7Los vemos en el IVR. Numerosos vehículos se dirigen hacia su posición."
+
+REFERENCE           SUBTITLE_SO_ZODIAC2_HQR_RADITIONLEVELS110
+LANG_ENGLISH        "^2Overlord: ^7Sus niveles de radiación son muy altos. Dense prisa."
+
+REFERENCE           SUBTITLE_SO_ZODIAC2_HQR_REACTORCORE117
+LANG_ENGLISH        "^2Overlord: ^7Angel 1, los rusos pretenden causar una fusión en el núcleo del reactor. ¡Vayan allí enseguida!"
+
+REFERENCE           SUBTITLE_SO_ZODIAC2_HQR_READYWHEN115
+LANG_ENGLISH        "^2Overlord: ^7Estamos en posición, Trident 1, cuando quieran..."
+
+REFERENCE           SUBTITLE_SO_ZODIAC2_HQR_RENDEZVOUS111
+LANG_ENGLISH        "^2Overlord: ^7Bien hecho, Trident 1, reúnanse con sus compañeros y salgan de ahí."
+
+REFERENCE           SUBTITLE_SO_ZODIAC2_HQR_RIGGEDSUB18
+LANG_ENGLISH        "^2Overlord: ^7Los rusos han puesto explosivos en el submarino. Encuentren las cargas y desactívenlas."
+
+REFERENCE           SUBTITLE_SO_ZODIAC2_HQR_TRIDENTONE123
+LANG_ENGLISH        "^2Overlord: ^7Trident 1, pájaro de evacuación en camino. Mantenga su posición."
+
+REFERENCE           SUBTITLE_SO_ZODIAC2_PLT_MOTHERHEN11
+LANG_ENGLISH        "^2Angel-1 Pilot: ^7Mamá pato, tenemos bandidos a las 6. "
+
+REFERENCE           SUBTITLE_SO_ZODIAC2_PLT_READYTOJUMP16
+LANG_ENGLISH        "^2Angel-1 Pilot: ^7¡Listos para saltar!"
+
+REFERENCE           SUBTITLE_SO_ZODIAC2_PLT_THEYRESHOOTING14
+LANG_ENGLISH        "^2Angel-1 Pilot: ^7¡Nos disparan! "
+
+REFERENCE           SUBTITLE_SO_ZODIAC2_PLT_WEREHIT15
+LANG_ENGLISH        "^2Angel-1 Pilot: ^7¡Joder, nos han dado!"
+
+REFERENCE           SUBTITLE_SO_ZODIAC2_PLT_WHATTHE13
+LANG_ENGLISH        "^2Angel-1 Pilot: ^7¿Pero qué...?"
+
+ENDMARKER

@@ -1,0 +1,556 @@
+// Dumped from fastfile "patch".
+// In their original format the strings might have been separated in multiple files.
+VERSION             "1"
+CONFIG              "C:/trees/cod3/cod3/bin/StringEd.cfg"
+FILENOTES           ""
+
+REFERENCE           CASTLE_HINT_PARACHUTE_FLARE
+LANG_ENGLISH        "Usa ^3[{+speed_throw}]^7 y ^3[{+attack}]^7 para aumentar la velocidad de descenso."
+
+REFERENCE           CASTLE_HINT_PRONE
+LANG_ENGLISH        "Pulsa ^3[{toggleprone}]^7 para echarte cuerpo a tierra."
+
+REFERENCE           CASTLE_INTROSCREEN_LINE_4
+LANG_ENGLISH        "Fuerza operativa 141 - Renegados"
+
+REFERENCE           DEADQUOTE_SO_ICON_PARTNER
+LANG_ENGLISH        "Busca el nombre de tu compañero para localizarlo. Si no está en la pantalla, la flecha verde apuntará hacia él."
+
+REFERENCE           DLC_10
+LANG_ENGLISH        "Descarga de contenido 10"
+
+REFERENCE           DLC_11
+LANG_ENGLISH        "Descarga de contenido 11"
+
+REFERENCE           DLC_12
+LANG_ENGLISH        "Descarga de contenido 12"
+
+REFERENCE           DLC_13
+LANG_ENGLISH        "Descarga de contenido 13"
+
+REFERENCE           DLC_14
+LANG_ENGLISH        "Descarga de contenido 14"
+
+REFERENCE           DLC_15
+LANG_ENGLISH        "Descarga de contenido 15"
+
+REFERENCE           DLC_16
+LANG_ENGLISH        "Descarga de contenido 16"
+
+REFERENCE           DLC_17
+LANG_ENGLISH        "DDC 17"
+
+REFERENCE           DLC_18
+LANG_ENGLISH        "DDC 18"
+
+REFERENCE           DLC_19
+LANG_ENGLISH        "DDC 19"
+
+REFERENCE           DLC_20
+LANG_ENGLISH        "DDC 20"
+
+REFERENCE           DLC_21
+LANG_ENGLISH        "DDC 21"
+
+REFERENCE           DLC_22
+LANG_ENGLISH        "DDC 22"
+
+REFERENCE           DLC_23
+LANG_ENGLISH        "DDC 23"
+
+REFERENCE           DLC_24
+LANG_ENGLISH        "DDC 24"
+
+REFERENCE           DLC_25
+LANG_ENGLISH        "DDC 25"
+
+REFERENCE           DLC_26
+LANG_ENGLISH        "DDC 26"
+
+REFERENCE           DLC_3
+LANG_ENGLISH        "DLC 3"
+
+REFERENCE           DLC_4
+LANG_ENGLISH        "Descarga de contenido 4"
+
+REFERENCE           DLC_5
+LANG_ENGLISH        "Descarga de contenido 5"
+
+REFERENCE           DLC_6
+LANG_ENGLISH        "Descarga de contenido 6"
+
+REFERENCE           DLC_7
+LANG_ENGLISH        "Descarga de contenido 7"
+
+REFERENCE           DLC_8
+LANG_ENGLISH        "Descarga de contenido 8"
+
+REFERENCE           DLC_9
+LANG_ENGLISH        "Descarga de contenido 9"
+
+REFERENCE           DLC_CHAOS_NOTFOUND
+LANG_ENGLISH        "La DDC del modo Caos no se ha descargado."
+
+REFERENCE           DLC_PLAYER_DOESNT_HAVE_GAME_TYPE
+LANG_ENGLISH        ": &&2 desactivado. &&1 no tiene este tipo de juego."
+
+REFERENCE           DLC_PLAYER_DOESNT_HAVE_MAP_PACK
+LANG_ENGLISH        "¡&&2 desactivado!&&1 no tiene el paquete de mapas."
+
+REFERENCE           MENU_CANCEL_REFRESH
+LANG_ENGLISH        "Cancelar"
+
+REFERENCE           MENU_CONTENT_NOT_AVAILABLE
+LANG_ENGLISH        "El paquete de contenido ya no está disponible."
+
+REFERENCE           MENU_DEDICATED_SERVER
+LANG_ENGLISH        "Servidor dedicado"
+
+REFERENCE           MENU_DISPLAY_MODE
+LANG_ENGLISH        "Modo de visualización"
+
+REFERENCE           MENU_FACEBOOK_AUTH_FAIL_ON_REGISTER
+LANG_ENGLISH        "Error al iniciar sesión. Vuelve a introducir los datos de tu cuenta.\n"
+
+REFERENCE           MENU_INVENTORY_KILLSTREAK
+LANG_ENGLISH        "Equipo de apoyo"
+
+REFERENCE           MENU_MATCH_WILL_BEGIN
+LANG_ENGLISH        "La partida está a punto de empezar"
+
+REFERENCE           MENU_MODE_FULLSCREEN
+LANG_ENGLISH        "Pantalla completa"
+
+REFERENCE           MENU_MODE_WINDOWED
+LANG_ENGLISH        "En ventana"
+
+REFERENCE           MENU_MODE_WINDOWED_NO_BORDER
+LANG_ENGLISH        "En ventana (sin borde)"
+
+REFERENCE           MENU_NEXT_WAVE
+LANG_ENGLISH        "Siguiente oleada"
+
+REFERENCE           MENU_NVG_WATCH
+LANG_ENGLISH        "Visión nocturna/2º INVENTARIO"
+
+REFERENCE           MENU_SECONDARY_INVENTORY
+LANG_ENGLISH        "Inventario"
+
+REFERENCE           MENU_SPEAKER_CONFIG
+LANG_ENGLISH        "Configuración de altavoces"
+
+REFERENCE           MENU_TOP
+LANG_ENGLISH        "Inicio"
+
+REFERENCE           MESSAGEBOX_CALL_OF_DUTY_COULDNT
+LANG_ENGLISH        "Modern Warfare 3 no pudo escribir un archivo. Parece que el disco duro está lleno."
+
+REFERENCE           MESSAGEBOX_IT_APPEARS_THAT_CALL
+LANG_ENGLISH        "Parece que Modern Warfare 3 no se cerró correctamente la última vez que lo ejecutaste. ¿Quieres ejecutar el juego en modo seguro? Esta opción es recomendable casi siempre. Cambiarán los ajustes del sistema pero no tus controles."
+
+REFERENCE           MESSAGEBOX_IT_LOOKS_LIKE_YOU_ARE
+LANG_ENGLISH        "Parece que te queda poca memoria virtual. Esto puede provocar que el juego se ejecute lentamente o incluso que se pare por completo. Es recomendable que cierres algunos programas antes de ejecutar Modern Warfare 3. ¿Quieres ejecutar Modern Warfare 3 de todas formas?"
+
+REFERENCE           MESSAGEBOX_THE_RECOMMENDED_SETTINGS
+LANG_ENGLISH        "Los ajustes recomendados se han actualizado desde la última vez que ejecutaste Modern Warfare 3. ¿Quieres que el juego se configure óptimamente con estos nuevos ajustes? Esta opción es recomendable casi siempre. Cambiarán los ajustes del sistema pero no tus controles."
+
+REFERENCE           MESSAGEBOX_YOUR_COMPUTER_APPEARS
+LANG_ENGLISH        "Parece que tu ordenador ha cambiado desde la última vez que ejecutaste Modern Warfare 3. ¿Quieres que el juego se configure óptimamente para tu nuevo hardware? Esta opción es recomendable casi siempre. Cambiarán los ajustes del sistema pero no tus controles."
+
+REFERENCE           NY_HARBOR_PLATFORM_HINT_DRIVE_SDV_3
+LANG_ENGLISH        "Usa ^3[{+forward}]^7 para acelerar y ^3mouse^7  para maniobrar."
+
+REFERENCE           OBJECTIVES_GRND_SCORE
+LANG_ENGLISH        "Defiende la zona de lanzamiento por puntos y paquetes de ayuda. Gana el equipo con &&1."
+
+REFERENCE           PAYBACK_USE_FREE_NIKOLAI
+LANG_ENGLISH        "Mantén ^3[{+activate}]^7 para recoger a Nikolai."
+
+REFERENCE           PLATFORM_BACK_CAPS
+LANG_ENGLISH        "Volver ^2ESC^7"
+
+REFERENCE           PLATFORM_BACK_SHORTCUT
+LANG_ENGLISH        "Volver ^2ESC^7"
+
+REFERENCE           PLATFORM_BOTTOM_SHORTCUT
+LANG_ENGLISH        "Fin ^2END^7"
+
+REFERENCE           PLATFORM_FILTER_SHORTCUT
+LANG_ENGLISH        "Filtro ^2F1^7"
+
+REFERENCE           PLATFORM_HIGH_QUALITY
+LANG_ENGLISH        "Alta calidad"
+
+REFERENCE           PLATFORM_JOIN_WRONG_EXE_MP
+LANG_ENGLISH        "Este amigo está jugando en multijugador. Debes entrar en el modo multijugador para poder unirte a él."
+
+REFERENCE           PLATFORM_LEADERBOARDS_SHORTCUT
+LANG_ENGLISH        "Marcadores ^2botón derecho del ratón^7/^2F1^7"
+
+REFERENCE           PLATFORM_LOW_QUALITY
+LANG_ENGLISH        "Calidad baja"
+
+REFERENCE           PLATFORM_PAGE_DOWN_SHORTCUT
+LANG_ENGLISH        "Av Pág ^2PGDN^7"
+
+REFERENCE           PLATFORM_PAGE_UP_SHORTCUT
+LANG_ENGLISH        "Re Pág ^2PGUP^7"
+
+REFERENCE           PLATFORM_PRESS_BUTTON_TO_CONFIRM_TARGET
+LANG_ENGLISH        "Pulsa ^3[Left Mouse]^7 para confirmar objetivo."
+
+REFERENCE           PLATFORM_RESTRICT_SHORTCUT
+LANG_ENGLISH        "Restringir ^2botón derecho del ratón^7/^2F1^7"
+
+REFERENCE           PLATFORM_SAVETOVAULT_SHORTCUT
+LANG_ENGLISH        "Guardar en archivo de vídeos ^2botón derecho del ratón^7/^2F1^7"
+
+REFERENCE           PLATFORM_THEATER_RECORDING
+LANG_ENGLISH        "Grabación de cine"
+
+REFERENCE           PLATFORM_THEATER_RECORDING_DESC
+LANG_ENGLISH        "Activa o desactiva la grabación de demos en el cine."
+
+REFERENCE           PLATFORM_TOP_SHORTCUT
+LANG_ENGLISH        "Inicio ^2HOME^7"
+
+REFERENCE           PLATFORM_UI_IMAGE_QUALITY
+LANG_ENGLISH        "Calidad de la imagen"
+
+REFERENCE           PLATFORM_UI_NATIVE
+LANG_ENGLISH        "Nativa"
+
+REFERENCE           PLATFORM_UI_SHOW_SCORES
+LANG_ENGLISH        "Mostrar puntuaciones"
+
+REFERENCE           PLATFORM_USE_BUTTONLOOK_TO_AIM
+LANG_ENGLISH        "Mantén ^3[Right Mouse]^7 para apuntar."
+
+REFERENCE           PLATFORM_VEH_FIRE
+LANG_ENGLISH        "[Left Mouse] Disparar"
+
+REFERENCE           PLATFORM_VOTE_NO
+LANG_ENGLISH        "Votar No"
+
+REFERENCE           PLATFORM_VOTE_YES
+LANG_ENGLISH        "Votar Sí"
+
+REFERENCE           PRESENCE_CONF
+LANG_ENGLISH        "Baja confirmada"
+
+REFERENCE           PRESENCE_CTF
+LANG_ENGLISH        "Tomar la bandera"
+
+REFERENCE           PRESENCE_DD
+LANG_ENGLISH        "Demolición"
+
+REFERENCE           PRESENCE_DM
+LANG_ENGLISH        "Contra todos"
+
+REFERENCE           PRESENCE_DOM
+LANG_ENGLISH        "Dominio"
+
+REFERENCE           PRESENCE_JUGG
+LANG_ENGLISH        "Juggernaut"
+
+REFERENCE           PRESENCE_KOTH
+LANG_ENGLISH        "Cuarteles"
+
+REFERENCE           PRESENCE_MP_AGROUND_SS
+LANG_ENGLISH        "Aground"
+
+REFERENCE           PRESENCE_MP_BOARDWALK
+LANG_ENGLISH        "Boardwalk"
+
+REFERENCE           PRESENCE_MP_BURN_SS
+LANG_ENGLISH        "U-Turn"
+
+REFERENCE           PRESENCE_MP_CEMENT
+LANG_ENGLISH        "Foundation"
+
+REFERENCE           PRESENCE_MP_COURTYARD_SS
+LANG_ENGLISH        "Erosion"
+
+REFERENCE           PRESENCE_MP_CROSSWALK_SS
+LANG_ENGLISH        "Intersection"
+
+REFERENCE           PRESENCE_MP_HILLSIDE_SS
+LANG_ENGLISH        "Getaway"
+
+REFERENCE           PRESENCE_MP_ITALY
+LANG_ENGLISH        "Piazza"
+
+REFERENCE           PRESENCE_MP_METEORA
+LANG_ENGLISH        "Sanctuary"
+
+REFERENCE           PRESENCE_MP_MOAB
+LANG_ENGLISH        "Gulch"
+
+REFERENCE           PRESENCE_MP_MORNINGWOOD
+LANG_ENGLISH        "Black Box"
+
+REFERENCE           PRESENCE_MP_NOLA
+LANG_ENGLISH        "Parish"
+
+REFERENCE           PRESENCE_MP_OVERWATCH
+LANG_ENGLISH        "Overwatch"
+
+REFERENCE           PRESENCE_MP_PARK
+LANG_ENGLISH        "Liberation"
+
+REFERENCE           PRESENCE_MP_QADEEM
+LANG_ENGLISH        "Oasis"
+
+REFERENCE           PRESENCE_MP_RESTREPO_SS
+LANG_ENGLISH        "Lookout"
+
+REFERENCE           PRESENCE_MP_ROUGHNECK
+LANG_ENGLISH        "Off Shore"
+
+REFERENCE           PRESENCE_MP_SHIPBREAKER
+LANG_ENGLISH        "Decommission"
+
+REFERENCE           PRESENCE_MP_SIX_SS
+LANG_ENGLISH        "Vortex"
+
+REFERENCE           PRESENCE_MP_TERMINAL_CLS
+LANG_ENGLISH        "Terminal"
+
+REFERENCE           PRESENCE_OIC
+LANG_ENGLISH        "Una en la recámara"
+
+REFERENCE           PRESENCE_PLAYINGSO_SURVIVAL_CHAOS
+LANG_ENGLISH        "Jugando a Caos en Operaciones especiales en &&1"
+
+REFERENCE           PRESENCE_SAB
+LANG_ENGLISH        "Sabotaje"
+
+REFERENCE           PRESENCE_SD
+LANG_ENGLISH        "Buscar y destruir"
+
+REFERENCE           PRESENCE_SO_COOP_VLAD_EP01
+LANG_ENGLISH        "Parada de emergencia"
+
+REFERENCE           PRESENCE_SO_DEMOLITION_SLAVA_HUNT
+LANG_ENGLISH        "Reconocimiento ártico"
+
+REFERENCE           PRESENCE_SO_ESCAPE_HAMBURG
+LANG_ENGLISH        "Blindado"
+
+REFERENCE           PRESENCE_SO_ESCAPE_RESCUE_2_SO
+LANG_ENGLISH        "Hielo negro"
+
+REFERENCE           PRESENCE_SO_INFILTRATE_INTRO
+LANG_ENGLISH        "Los negociadores"
+
+REFERENCE           PRESENCE_SO_ROOFTOP_DUBAI_SPECOPS
+LANG_ENGLISH        "Vértigo"
+
+REFERENCE           PRESENCE_SO_SPOTLIGHT_CASTLE
+LANG_ENGLISH        "Luces fuera"
+
+REFERENCE           PRESENCE_SO_SUPPORT_DAM_SPECOPS
+LANG_ENGLISH        "Entrega especial"
+
+REFERENCE           PRESENCE_SURVIVAL_CHAOS
+LANG_ENGLISH        "CAOS"
+
+REFERENCE           PRESENCE_TDEF
+LANG_ENGLISH        "Defensor por equipos"
+
+REFERENCE           PRESENCE_TJUGG
+LANG_ENGLISH        "Juggernaut por equipos"
+
+REFERENCE           PRESENCE_WAR
+LANG_ENGLISH        "Duelo por equipos"
+
+REFERENCE           SCRIPT_INTELLIGENCE_PICKUP
+LANG_ENGLISH        "Pulsa ^3[{+activate}]^7 para obtener inteligencia del enemigo."
+
+REFERENCE           SCRIPT_PLATFORM_HINTSTR_PLANTEXPLOSIVES
+LANG_ENGLISH        "Pulsa ^3[{+activate}]^7 para colocar los explosivos."
+
+REFERENCE           SCRIPT_PLATFORM_HINT_PLANTEXPLOSIVES
+LANG_ENGLISH        "Mira hacia el punto de los explosivos y pulsa ^3[{+activate}]^7 para colocarlos."
+
+REFERENCE           SO_IED_BERLIN_HINT_SNIPER
+LANG_ENGLISH        "¡Marca los explosivos y cubre a tu aliado!"
+
+REFERENCE           SO_SURVIVAL_CHAOS_DOME_DESC
+LANG_ENGLISH        "¡La supervivencia del más apto! Los enemigos atacarán por todas partes."
+
+REFERENCE           SO_SURVIVAL_CHAOS_PARIS_DESC
+LANG_ENGLISH        "Trata de sobrevivir al implacable asalto enemigo en las calles de París."
+
+REFERENCE           SO_SURVIVAL_CHAOS_UNDERGROUND_DESC
+LANG_ENGLISH        "Ábrete paso entre vagones de tren y acaba con los enemigos que intentarán detenerte."
+
+REFERENCE           SO_SURVIVAL_CHAOS_VILLAGE_DESC
+LANG_ENGLISH        "Combate la acometida del enemigo en la aldea."
+
+REFERENCE           SPECIAL_OPS_DLC_DESC
+LANG_ENGLISH        "Marcadores para las descargas de contenido."
+
+REFERENCE           SPECIAL_OPS_DLC_GO_TO_STORE
+LANG_ENGLISH        "Entra en multijugador y abre la tienda para comprar nuevo contenido para el juego."
+
+REFERENCE           SPECIAL_OPS_DLC_GO_TO_STORE_HEADER
+LANG_ENGLISH        "¡Nuevo contenido para MW3!"
+
+REFERENCE           SPECIAL_OPS_DLC_TAG
+LANG_ENGLISH        "La lucha continúa con nuevos mapas."
+
+REFERENCE           SPECIAL_OPS_SO_COOP_VLAD_EP01
+LANG_ENGLISH        "Parada de emergencia"
+
+REFERENCE           SPECIAL_OPS_SO_COOP_VLAD_EP01_CHOOSEROLES
+LANG_ENGLISH        "Elige el jugador de apoyo."
+
+REFERENCE           SPECIAL_OPS_SO_COOP_VLAD_EP01_DESC
+LANG_ENGLISH        "Infíltrate en una estación de comunicaciones rusa y detona un PEM."
+
+REFERENCE           SPECIAL_OPS_SO_DEMOLITION_SLAVA_HUNT
+LANG_ENGLISH        "Reconocimiento ártico"
+
+REFERENCE           SPECIAL_OPS_SO_DEMOLITION_SLAVA_HUNT_CHOOSEROLES
+LANG_ENGLISH        "Elegir controlar dron"
+
+REFERENCE           SPECIAL_OPS_SO_DEMOLITION_SLAVA_HUNT_DESC
+LANG_ENGLISH        "Destruye el buque de guerra ruso Kuvalda en Siberia."
+
+REFERENCE           SPECIAL_OPS_SO_ESCAPE_HAMBURG
+LANG_ENGLISH        "Blindado"
+
+REFERENCE           SPECIAL_OPS_SO_ESCAPE_HAMBURG_CHOOSEROLES
+LANG_ENGLISH        "Elige al artillero del tanque."
+
+REFERENCE           SPECIAL_OPS_SO_ESCAPE_HAMBURG_DESC
+LANG_ENGLISH        "Guía un tanque a través de la dura resistencia en Hamburgo."
+
+REFERENCE           SPECIAL_OPS_SO_ESCAPE_RESCUE_2_SO
+LANG_ENGLISH        "Hielo negro"
+
+REFERENCE           SPECIAL_OPS_SO_ESCAPE_RESCUE_2_SO_CHOOSEROLES
+LANG_ENGLISH        "Elige el piloto de la moto de nieve."
+
+REFERENCE           SPECIAL_OPS_SO_ESCAPE_RESCUE_2_SO_DESC
+LANG_ENGLISH        "Localiza y neutraliza las instalaciones armamentísticas ocultas de Makarov."
+
+REFERENCE           SPECIAL_OPS_SO_INFILTRATE_INTRO
+LANG_ENGLISH        "Negociador"
+
+REFERENCE           SPECIAL_OPS_SO_INFILTRATE_INTRO_CHOOSEROLES
+LANG_ENGLISH        "Elige Rehén."
+
+REFERENCE           SPECIAL_OPS_SO_INFILTRATE_INTRO_DESC
+LANG_ENGLISH        "Escapa de tus captores y salva a todos los rehenes que puedas."
+
+REFERENCE           SPECIAL_OPS_SO_ROOFTOP_DUBAI_SPECOPS
+LANG_ENGLISH        "Vértigo"
+
+REFERENCE           SPECIAL_OPS_SO_ROOFTOP_DUBAI_SPECOPS_CHOOSEROLES
+LANG_ENGLISH        "Elige quién marcará los blancos."
+
+REFERENCE           SPECIAL_OPS_SO_ROOFTOP_DUBAI_SPECOPS_DESC
+LANG_ENGLISH        "Usa misiles guiados por láser para derribar los helicópteros de transporte enemigos en el hotel Oasis."
+
+REFERENCE           SPECIAL_OPS_SO_SPOTLIGHT_CASTLE
+LANG_ENGLISH        "Luces fuera"
+
+REFERENCE           SPECIAL_OPS_SO_SPOTLIGHT_CASTLE_CHOOSEROLES
+LANG_ENGLISH        "Elige quién irá en el helicóptero."
+
+REFERENCE           SPECIAL_OPS_SO_SPOTLIGHT_CASTLE_DESC
+LANG_ENGLISH        "Localiza y extrae a un soldado que es retenido como rehén en el castillo de Makarov."
+
+REFERENCE           SPECIAL_OPS_SO_SUPPORT_DAM_SPECOPS
+LANG_ENGLISH        "Entrega especial"
+
+REFERENCE           SPECIAL_OPS_SO_SUPPORT_DAM_SPECOPS_CHOOSEROLES
+LANG_ENGLISH        "Elegir artillero de Osprey"
+
+REFERENCE           SPECIAL_OPS_SO_SUPPORT_DAM_SPECOPS_DESC
+LANG_ENGLISH        "Recupera el material comprometedor y rescata a los supervivientes de un Osprey derribado."
+
+REFERENCE           SPECIAL_OPS_SURVIVAL_BOARDWALK
+LANG_ENGLISH        "Boardwalk"
+
+REFERENCE           SPECIAL_OPS_SURVIVAL_BOARDWALK_DESC
+LANG_ENGLISH        "Artificieros, guerra química, helicópteros y Juggernauts."
+
+REFERENCE           SPECIAL_OPS_SURVIVAL_CEMENT
+LANG_ENGLISH        "Foundation"
+
+REFERENCE           SPECIAL_OPS_SURVIVAL_CEMENT_DESC
+LANG_ENGLISH        "Artificieros, guerra química, helicópteros y Juggernauts."
+
+REFERENCE           SPECIAL_OPS_SURVIVAL_ITALY
+LANG_ENGLISH        "Piazza"
+
+REFERENCE           SPECIAL_OPS_SURVIVAL_ITALY_DESC
+LANG_ENGLISH        "Artificieros, guerra química, helicópteros y Juggernauts."
+
+REFERENCE           SPECIAL_OPS_SURVIVAL_METEORA
+LANG_ENGLISH        "Sanctuary"
+
+REFERENCE           SPECIAL_OPS_SURVIVAL_METEORA_DESC
+LANG_ENGLISH        "Artificieros, guerra química, helicópteros y Juggernauts."
+
+REFERENCE           SPECIAL_OPS_SURVIVAL_MOAB
+LANG_ENGLISH        "Gulch"
+
+REFERENCE           SPECIAL_OPS_SURVIVAL_MOAB_DESC
+LANG_ENGLISH        "Artificieros, guerra química, helicópteros y Juggernauts."
+
+REFERENCE           SPECIAL_OPS_SURVIVAL_MORNINGWOOD
+LANG_ENGLISH        "Black Box"
+
+REFERENCE           SPECIAL_OPS_SURVIVAL_MORNINGWOOD_DESC
+LANG_ENGLISH        "Artificieros, guerra química, helicópteros y Juggernauts."
+
+REFERENCE           SPECIAL_OPS_SURVIVAL_NOLA
+LANG_ENGLISH        "Parish"
+
+REFERENCE           SPECIAL_OPS_SURVIVAL_NOLA_DESC
+LANG_ENGLISH        "Artificieros, guerra química, helicópteros y Juggernauts."
+
+REFERENCE           SPECIAL_OPS_SURVIVAL_OVERWATCH
+LANG_ENGLISH        "Overwatch"
+
+REFERENCE           SPECIAL_OPS_SURVIVAL_OVERWATCH_DESC
+LANG_ENGLISH        "Artificieros, guerra química, helicópteros y Juggernauts."
+
+REFERENCE           SPECIAL_OPS_SURVIVAL_PARK
+LANG_ENGLISH        "Liberation"
+
+REFERENCE           SPECIAL_OPS_SURVIVAL_PARK_DESC
+LANG_ENGLISH        "Artificieros, guerra química, helicópteros y Juggernauts."
+
+REFERENCE           SPECIAL_OPS_SURVIVAL_QADEEM
+LANG_ENGLISH        "Oasis"
+
+REFERENCE           SPECIAL_OPS_SURVIVAL_QADEEM_DESC
+LANG_ENGLISH        "Artificieros, guerra química, helicópteros y Juggernauts."
+
+REFERENCE           SPECIAL_OPS_SURVIVAL_ROUGHNECK
+LANG_ENGLISH        "Off Shore"
+
+REFERENCE           SPECIAL_OPS_SURVIVAL_ROUGHNECK_DESC
+LANG_ENGLISH        "Artificieros, guerra química, helicópteros y Juggernauts."
+
+REFERENCE           SPECIAL_OPS_SURVIVAL_SHIPBREAKER
+LANG_ENGLISH        "Decommission"
+
+REFERENCE           SPECIAL_OPS_SURVIVAL_SHIPBREAKER_DESC
+LANG_ENGLISH        "Artificieros, guerra química, helicópteros y Juggernauts."
+
+REFERENCE           SPECIAL_OPS_SURVIVAL_TERMINAL_CLS
+LANG_ENGLISH        "Terminal"
+
+REFERENCE           SPECIAL_OPS_SURVIVAL_TERMINAL_CLS_DESC
+LANG_ENGLISH        "Artificieros, guerra química, helicópteros y Juggernauts."
+
+REFERENCE           WEAPON_ACR_EOTECH
+LANG_ENGLISH        "ACR 6.8 con mira holográfica"
+
+ENDMARKER

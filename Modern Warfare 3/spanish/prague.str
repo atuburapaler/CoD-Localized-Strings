@@ -1,0 +1,694 @@
+// Dumped from fastfile "prague".
+// In their original format the strings might have been separated in multiple files.
+VERSION             "1"
+CONFIG              "C:/trees/cod3/cod3/bin/StringEd.cfg"
+FILENOTES           ""
+
+REFERENCE           PRAGUE_DONT_MOVE
+LANG_ENGLISH        "No muevas ni un músculo."
+
+REFERENCE           PRAGUE_FOLLOW_SANDMAN
+LANG_ENGLISH        "Sigue a Soap."
+
+REFERENCE           PRAGUE_FRIENDLY_FIRE_WILL_NOT
+LANG_ENGLISH        "No se permitirá el fuego amigo."
+
+REFERENCE           PRAGUE_HINT_PRONE
+LANG_ENGLISH        "Pulsa ^3[{toggleprone}]^7 para echarte cuerpo a tierra."
+
+REFERENCE           PRAGUE_HINT_SCAFFOLD
+LANG_ENGLISH        "Acércate al andamio y avanza para trepar por él."
+
+REFERENCE           PRAGUE_HINT_USE_SHORT_SCOPE
+LANG_ENGLISH        "Pulsa ^3[{+actionslot 3}]^7 para usar la mira de corto alcance."
+
+REFERENCE           PRAGUE_INTROSCREEN_LINE_1
+LANG_ENGLISH        "\"El ojo de la tormenta\""
+
+REFERENCE           PRAGUE_INTROSCREEN_LINE_2
+LANG_ENGLISH        "10 de octubre, 21:36:[{FAKE_INTRO_SECONDS:30}]"
+
+REFERENCE           PRAGUE_INTROSCREEN_LINE_3
+LANG_ENGLISH        "Yuri"
+
+REFERENCE           PRAGUE_INTROSCREEN_LINE_4
+LANG_ENGLISH        "Fuerza operativa 141 - Renegados"
+
+REFERENCE           PRAGUE_INTROSCREEN_LINE_5
+LANG_ENGLISH        "Praga, República Checa"
+
+REFERENCE           PRAGUE_OBJ_1
+LANG_ENGLISH        "Reúnete con la resistencia"
+
+REFERENCE           PRAGUE_OBJ_2
+LANG_ENGLISH        "Dirígete al punto de reunión Alfa"
+
+REFERENCE           PRAGUE_OBJ_3
+LANG_ENGLISH        "Ábrete paso hasta la iglesia"
+
+REFERENCE           PRAGUE_OBJ_4
+LANG_ENGLISH        "Establece una posición de francotirador"
+
+REFERENCE           PRAGUE_TARGET
+LANG_ENGLISH        "Blanco"
+
+REFERENCE           PRAGUE_TARGETS
+LANG_ENGLISH        "Blancos"
+
+REFERENCE           PRAGUE_YOUR_ACTIONS_GOT_CPT
+LANG_ENGLISH        "Tus actos han provocado la muerte de Soap."
+
+REFERENCE           PRAGUE_YOUR_ACTIONS_GOT_RES
+LANG_ENGLISH        "Tus actos han puesto la misión en peligro."
+
+REFERENCE           SUBTITLE_PRAGUE_ESCAPE_MKV_NO_RUSSIAN16
+LANG_ENGLISH        "^1Makarov: ^7Recuerde, nada de ruso."
+
+REFERENCE           SUBTITLE_PRAGUE_ESCAPE_SOAP_GOTEM1017
+LANG_ENGLISH        "^2Soap: ^7Muerto."
+
+REFERENCE           SUBTITLE_PRAGUE_ESCAPE_SOAP_TARGETDOWN1016
+LANG_ENGLISH        "^2Soap: ^7Eliminado."
+
+REFERENCE           SUBTITLE_PRAGUE_KMV_GIVEME23
+LANG_ENGLISH        "^2Kamarov: ^7Deme la mano."
+
+REFERENCE           SUBTITLE_PRAGUE_KMV_HURRY24
+LANG_ENGLISH        "^2Kamarov: ^7Deprisa. No tenemos mucho tiempo."
+
+REFERENCE           SUBTITLE_PRAGUE_KMV_SMELL25
+LANG_ENGLISH        "^2Kamarov: ^7¿Es que le gusta cómo huele esto? ¡Muévase, joder!"
+
+REFERENCE           SUBTITLE_PRAGUE_KMV_THISFAR27
+LANG_ENGLISH        "^2Kamarov: ^7¿Tiene idea de lo que ha costado traerlos hasta aquí?"
+
+REFERENCE           SUBTITLE_PRAGUE_KMV_UPRISING26
+LANG_ENGLISH        "^2Kamarov: ^7Seguro que no han tenido ningún problema."
+
+REFERENCE           SUBTITLE_PRAGUE_KMV_WHATTOOKYOU21
+LANG_ENGLISH        "^2Kamarov: ^7¿Por qué han tardado?"
+
+REFERENCE           SUBTITLE_PRAGUE_MCT_12OCLOCK323
+LANG_ENGLISH        "^2Soap: ^7Patrulla delante."
+
+REFERENCE           SUBTITLE_PRAGUE_MCT_20PLUS53
+LANG_ENGLISH        "^2Soap: ^7Veinte más a pie, y estos vienen con un blindado."
+
+REFERENCE           SUBTITLE_PRAGUE_MCT_ALERTOTHERS36
+LANG_ENGLISH        "^2Soap: ^7De lo contrario, avisarán a los demás."
+
+REFERENCE           SUBTITLE_PRAGUE_MCT_BELLTOWER124
+LANG_ENGLISH        "^2Soap: ^7Por aquí. El campanario está ahí mismo."
+
+REFERENCE           SUBTITLE_PRAGUE_MCT_BLOODYHELL65_1
+LANG_ENGLISH        "^2Soap: ^7¡Ese BTR nos está machacando!"
+
+REFERENCE           SUBTITLE_PRAGUE_MCT_BRINGINGIT622
+LANG_ENGLISH        "^2Soap: ^7¡Maldita sea, estos no se cansan nunca!"
+
+REFERENCE           SUBTITLE_PRAGUE_MCT_BTRONRIGHT1029
+LANG_ENGLISH        "^2Soap: ^7¡BTR a la derecha! ¡Busque cobertura!"
+
+REFERENCE           SUBTITLE_PRAGUE_MCT_BYTABLES321
+LANG_ENGLISH        "^2Soap: ^7Yuri, por aquí."
+
+REFERENCE           SUBTITLE_PRAGUE_MCT_CLEAR314
+LANG_ENGLISH        "^2Soap: ^7Despejado."
+
+REFERENCE           SUBTITLE_PRAGUE_MCT_CMONYURI210
+LANG_ENGLISH        "^2Soap: ^7Vamos, Yuri."
+
+REFERENCE           SUBTITLE_PRAGUE_MCT_COMPROMISED317
+LANG_ENGLISH        "^2Soap: ^7¡Mierda! ¡Nos han descubierto!"
+
+REFERENCE           SUBTITLE_PRAGUE_MCT_COVEROURSIX71
+LANG_ENGLISH        "^2Soap: ^7Usted primero, Yuri. Yo cubro las seis."
+
+REFERENCE           SUBTITLE_PRAGUE_MCT_DOGANDFRIEND312
+LANG_ENGLISH        "^2Soap: ^7El perro y su amigo son míos."
+
+REFERENCE           SUBTITLE_PRAGUE_MCT_DONTMOVE48
+LANG_ENGLISH        "^2Soap: ^7No... se... mueva."
+
+REFERENCE           SUBTITLE_PRAGUE_MCT_DOTHISLIVELY77
+LANG_ENGLISH        "^2Soap: ^7¡Vamos a darnos prisa!"
+
+REFERENCE           SUBTITLE_PRAGUE_MCT_DOWNDOWN318
+LANG_ENGLISH        "^2Soap: ^7Abajo, abajo."
+
+REFERENCE           SUBTITLE_PRAGUE_MCT_EASY49
+LANG_ENGLISH        "^2Soap: ^7Ahí está el patio."
+
+REFERENCE           SUBTITLE_PRAGUE_MCT_EYESHIGH329
+LANG_ENGLISH        "^2Soap: ^7Otro francotirador. No llame su atención."
+
+REFERENCE           SUBTITLE_PRAGUE_MCT_FALLBACK613
+LANG_ENGLISH        "^2Soap: ^7¡Vienen más tangos! ¡Vamos a replegarnos al edificio!"
+
+REFERENCE           SUBTITLE_PRAGUE_MCT_FINDAWAY626
+LANG_ENGLISH        "^2Soap: ^7Bien, vamos por los edificios a ver si encontramos un camino a la iglesia."
+
+REFERENCE           SUBTITLE_PRAGUE_MCT_FIVEGUYS32
+LANG_ENGLISH        "^2Soap: ^7Patrulla de cinco. Tiradores en el tejado."
+
+REFERENCE           SUBTITLE_PRAGUE_MCT_FLANKTHEM82
+LANG_ENGLISH        "^2Soap: ^7¡Esos artilleros nos tienen inmovilizados!  "
+
+REFERENCE           SUBTITLE_PRAGUE_MCT_FLANKTURRETS83
+LANG_ENGLISH        "^2Soap: ^7¡No se asome a las bravas o conseguirá que lo maten!"
+
+REFERENCE           SUBTITLE_PRAGUE_MCT_FOLLOWME320
+LANG_ENGLISH        "^2Soap: ^7Sígame."
+
+REFERENCE           SUBTITLE_PRAGUE_MCT_FRIENDLIES623
+LANG_ENGLISH        "^2Soap: ^7¡Aliados en los tejados! ¡No les dispare!"
+
+REFERENCE           SUBTITLE_PRAGUE_MCT_FROMALCOVE84
+LANG_ENGLISH        "^2Soap: ^7¡Elimine esas torretas!"
+
+REFERENCE           SUBTITLE_PRAGUE_MCT_GETANRPG66
+LANG_ENGLISH        "^2Soap: ^7¡Coja un RPG, rápido!"
+
+REFERENCE           SUBTITLE_PRAGUE_MCT_GETINBUILDING615
+LANG_ENGLISH        "^2Soap: ^7¡Yuri, entre en el edificio, vamos!"
+
+REFERENCE           SUBTITLE_PRAGUE_MCT_GETOVERHERE2616
+LANG_ENGLISH        "^2Soap: ^7¡Maldita sea, Yuri, venga aquí!"
+
+REFERENCE           SUBTITLE_PRAGUE_MCT_GETOVERHERE617
+LANG_ENGLISH        "^2Soap: ^7¡Yuri, mueva el culo hasta aquí!"
+
+REFERENCE           SUBTITLE_PRAGUE_MCT_GETREADY411
+LANG_ENGLISH        "^2Soap: ^7¿Preparado?"
+
+REFERENCE           SUBTITLE_PRAGUE_MCT_GETROUGH75
+LANG_ENGLISH        "^2Soap: ^7La cosa podría ponerse fea. ¿Está preparado?"
+
+REFERENCE           SUBTITLE_PRAGUE_MCT_GO412
+LANG_ENGLISH        "^2Soap: ^7¡Vamos!"
+
+REFERENCE           SUBTITLE_PRAGUE_MCT_GOLEFTGOLEFT614
+LANG_ENGLISH        "^2Soap: ^7¡A la izquierda ya!"
+
+REFERENCE           SUBTITLE_PRAGUE_MCT_GOODNIGHT51
+LANG_ENGLISH        "^2Soap: ^7Buenas noches."
+
+REFERENCE           SUBTITLE_PRAGUE_MCT_HELOSINBOUND63_1
+LANG_ENGLISH        "^2Soap: ^7¡Helicópteros!"
+
+REFERENCE           SUBTITLE_PRAGUE_MCT_HIDEBODIES312_2
+LANG_ENGLISH        "^2Soap: ^7No hay tiempo para ocultarlos. Vamos."
+
+REFERENCE           SUBTITLE_PRAGUE_MCT_HITTHATTHING610
+LANG_ENGLISH        "^2Soap: ^7¡Vuele ese trasto con el RPG!"
+
+REFERENCE           SUBTITLE_PRAGUE_MCT_HOLDUP52
+LANG_ENGLISH        "^2Soap: ^7Un momento."
+
+REFERENCE           SUBTITLE_PRAGUE_MCT_INPOSITION121
+LANG_ENGLISH        "^2Soap: ^7Price, estamos en posición."
+
+REFERENCE           SUBTITLE_PRAGUE_MCT_INTELWASOFF22
+LANG_ENGLISH        "^2Soap: ^7Su información no era precisa, Kamarov. Dijo que esto estaría despejado."
+
+REFERENCE           SUBTITLE_PRAGUE_MCT_ITSDOWN611
+LANG_ENGLISH        "^2Soap: ^7¡Una molestia menos! ¡Bien hecho!"
+
+REFERENCE           SUBTITLE_PRAGUE_MCT_KEEPMOVING131
+LANG_ENGLISH        "^2Soap: ^7¡Yuri, siga adelante!"
+
+REFERENCE           SUBTITLE_PRAGUE_MCT_LETSGOYURI29
+LANG_ENGLISH        "^2Soap: ^7Vamos, Yuri."
+
+REFERENCE           SUBTITLE_PRAGUE_MCT_LETSGOYURI362
+LANG_ENGLISH        "^2Soap: ^7Vamos, Yuri."
+
+REFERENCE           SUBTITLE_PRAGUE_MCT_LIGHTSWITCH512
+LANG_ENGLISH        "^2Soap: ^7Je, je. Muy oportuno, viejo."
+
+REFERENCE           SUBTITLE_PRAGUE_MCT_LOCKINGDOWN319
+LANG_ENGLISH        "^2Soap: ^7Están bloqueando toda la ciudad. Debemos tomar la delantera."
+
+REFERENCE           SUBTITLE_PRAGUE_MCT_LOTSOFMOVEMENT334
+LANG_ENGLISH        "^2Soap: ^7Movimiento en las calles. Atento a los tejados, esto está lleno de tiradores."
+
+REFERENCE           SUBTITLE_PRAGUE_MCT_MOREHOSTILES913
+LANG_ENGLISH        "^2Soap: ^7¡Refuerzos! ¡A cubierto!"
+
+REFERENCE           SUBTITLE_PRAGUE_MCT_MOVE813
+LANG_ENGLISH        "^2Soap: ^7¡Vamos!"
+
+REFERENCE           SUBTITLE_PRAGUE_MCT_MOVEHURRY918
+LANG_ENGLISH        "^2Soap: ^7¡Vamos, rápido!"
+
+REFERENCE           SUBTITLE_PRAGUE_MCT_MOVEIT212
+LANG_ENGLISH        "^2Soap: ^7Venga aquí, Yuri. Deprisa."
+
+REFERENCE           SUBTITLE_PRAGUE_MCT_MOVEUP86
+LANG_ENGLISH        "^2Soap: ^7¡Deprisa!"
+
+REFERENCE           SUBTITLE_PRAGUE_MCT_NICELYDONE1028
+LANG_ENGLISH        "^2Soap: ^7Bien hecho."
+
+REFERENCE           SUBTITLE_PRAGUE_MCT_NICEWORK315
+LANG_ENGLISH        "^2Soap: ^7Bien hecho."
+
+REFERENCE           SUBTITLE_PRAGUE_MCT_NOTALERT327
+LANG_ENGLISH        "^2Soap: ^7La idea es que no nos descubran."
+
+REFERENCE           SUBTITLE_PRAGUE_MCT_NOWHEREFAST65
+LANG_ENGLISH        "^2Soap: ^7¡Yuri, voy a atraer sus disparos! ¡Acabe con ellos!"
+
+REFERENCE           SUBTITLE_PRAGUE_MCT_OFFSTREETNOW618
+LANG_ENGLISH        "^2Soap: ^7¡Salga de la calle, joder!"
+
+REFERENCE           SUBTITLE_PRAGUE_MCT_OKLETSGO76
+LANG_ENGLISH        "^2Soap: ^7¡Bien, vamos!"
+
+REFERENCE           SUBTITLE_PRAGUE_MCT_ONESDOWN514
+LANG_ENGLISH        "^2Soap: ^7Uno menos. Pero nosotros somos cuatro, y ellos docenas."
+
+REFERENCE           SUBTITLE_PRAGUE_MCT_ONOURSIDE621
+LANG_ENGLISH        "^2Soap: ^7¡Olvide los tejados! ¡Los rebeldes son aliados!"
+
+REFERENCE           SUBTITLE_PRAGUE_MCT_ONYOU325
+LANG_ENGLISH        "^2Soap: ^7Cuando quiera..."
+
+REFERENCE           SUBTITLE_PRAGUE_MCT_OTHERSNIPER311
+LANG_ENGLISH        "^2Soap: ^7Acabe con el otro tirador."
+
+REFERENCE           SUBTITLE_PRAGUE_MCT_PERFECT326
+LANG_ENGLISH        "^2Soap: ^7Perfecto."
+
+REFERENCE           SUBTITLE_PRAGUE_MCT_PRICECOPY332
+LANG_ENGLISH        "^2Soap: ^7Price, ¿me recibe?"
+
+REFERENCE           SUBTITLE_PRAGUE_MCT_RALLYPOINT55
+LANG_ENGLISH        "^2Soap: ^7En posición, pero tenemos un puto ejército delante."
+
+REFERENCE           SUBTITLE_PRAGUE_MCT_ROGER57
+LANG_ENGLISH        "^2Soap: ^7Recibido."
+
+REFERENCE           SUBTITLE_PRAGUE_MCT_ROOFTOPFIRST39
+LANG_ENGLISH        "^2Soap: ^7Acabe primero con los tiradores del tejado."
+
+REFERENCE           SUBTITLE_PRAGUE_MCT_SCOUT58
+LANG_ENGLISH        "^2Soap: ^7Observador en el tejado. Ocúpese de él."
+
+REFERENCE           SUBTITLE_PRAGUE_MCT_SCOUTAHEAD73
+LANG_ENGLISH        "^2Soap: ^7Yuri, adelántese."
+
+REFERENCE           SUBTITLE_PRAGUE_MCT_SHARPISH410
+LANG_ENGLISH        "^2Soap: ^7Tendremos que correr como condenados..."
+
+REFERENCE           SUBTITLE_PRAGUE_MCT_SITTIGHT33
+LANG_ENGLISH        "^2Soap: ^7Vamos a esperar, a ver qué hacen."
+
+REFERENCE           SUBTITLE_PRAGUE_MCT_SNIPERSFIRST35
+LANG_ENGLISH        "^2Soap: ^7Bien, primero los tiradores."
+
+REFERENCE           SUBTITLE_PRAGUE_MCT_SNIPERSROOFTOP38
+LANG_ENGLISH        "^2Soap: ^7Yuri, elimine a los tiradores del tejado."
+
+REFERENCE           SUBTITLE_PRAGUE_MCT_SNIPERYURI59
+LANG_ENGLISH        "^2Soap: ^7Acabe con el tirador, Yuri."
+
+REFERENCE           SUBTITLE_PRAGUE_MCT_SPLITTINGUP34
+LANG_ENGLISH        "^2Soap: ^7Se están separando. Es nuestro día de suerte."
+
+REFERENCE           SUBTITLE_PRAGUE_MCT_SPOTTEDUS316
+LANG_ENGLISH        "^2Soap: ^7¡Nos han visto! ¡Abra fuego!"
+
+REFERENCE           SUBTITLE_PRAGUE_MCT_STAYCLOSE210
+LANG_ENGLISH        "^2Soap: ^7No se separe."
+
+REFERENCE           SUBTITLE_PRAGUE_MCT_STAYDOWN916_1
+LANG_ENGLISH        "^2Soap: ^7¡Agáchese!"
+
+REFERENCE           SUBTITLE_PRAGUE_MCT_TABLESFORCOVER322
+LANG_ENGLISH        "^2Soap: ^7Mueva el culo hasta aquí."
+
+REFERENCE           SUBTITLE_PRAGUE_MCT_TAKEEMDOWN328
+LANG_ENGLISH        "^2Soap: ^7¡Joder, afine el tiro!"
+
+REFERENCE           SUBTITLE_PRAGUE_MCT_TAKEHIMDOWN510
+LANG_ENGLISH        "^2Soap: ^7¡Que nos va a ver! ¡Neutralícelo ya!"
+
+REFERENCE           SUBTITLE_PRAGUE_MCT_TAKEMUCHMORE74
+LANG_ENGLISH        "^2Soap: ^7No creo que este edificio vaya a aguantar mucho más."
+
+REFERENCE           SUBTITLE_PRAGUE_MCT_TAKENPRISONERS15
+LANG_ENGLISH        "^2Soap: ^7Ya han tomado prisioneros. Sí que se están dando prisa."
+
+REFERENCE           SUBTITLE_PRAGUE_MCT_TAKEOUT68
+LANG_ENGLISH        "^2Soap: ^7¡Destruya ese blindado!"
+
+REFERENCE           SUBTITLE_PRAGUE_MCT_TAKEOUTARMOR67
+LANG_ENGLISH        "^2Soap: ^7¡Use un RPG, Yuri!"
+
+REFERENCE           SUBTITLE_PRAGUE_MCT_TAKEOUTSNIPERS37
+LANG_ENGLISH        "^2Soap: ^7Elimine primero a los tiradores o darán la voz de alarma."
+
+REFERENCE           SUBTITLE_PRAGUE_MCT_TAKEPOINT72
+LANG_ENGLISH        "^2Soap: ^7Vaya delante, Yuri."
+
+REFERENCE           SUBTITLE_PRAGUE_MCT_TAKETHEOTHER310
+LANG_ENGLISH        "^2Soap: ^7Estupendo. Ahora el otro."
+
+REFERENCE           SUBTITLE_PRAGUE_MCT_THECHURCH87
+LANG_ENGLISH        "^2Soap: ^7¡Ahí está la iglesia!  "
+
+REFERENCE           SUBTITLE_PRAGUE_MCT_THEYREDOWN85
+LANG_ENGLISH        "^2Soap: ^7¡Han caído!"
+
+REFERENCE           SUBTITLE_PRAGUE_MCT_THISWAY336
+LANG_ENGLISH        "^2Soap: ^7Bien, por aquí."
+
+REFERENCE           SUBTITLE_PRAGUE_MCT_THROUGHHERE2628
+LANG_ENGLISH        "^2Soap: ^7Por aquí. ¡Vamos!"
+
+REFERENCE           SUBTITLE_PRAGUE_MCT_THROUGHHERE330
+LANG_ENGLISH        "^2Soap: ^7¡Helicóptero! ¡Por aquí!"
+
+REFERENCE           SUBTITLE_PRAGUE_MCT_TIPTOP625
+LANG_ENGLISH        "^2Soap: ^7¡Ahora mismo estoy un poco liado, Price!"
+
+REFERENCE           SUBTITLE_PRAGUE_MCT_TOTHESTATUE63
+LANG_ENGLISH        "^2Soap: ^7¡Voy hacia la estatua, cúbrame!"
+
+REFERENCE           SUBTITLE_PRAGUE_MCT_TRUCKCOMING1030
+LANG_ENGLISH        "^2Soap: ^7¡Viene un camión!"
+
+REFERENCE           SUBTITLE_PRAGUE_MCT_TURRETGUNNERS81
+LANG_ENGLISH        "^2Soap: ^7¡Dos artilleros, calle abajo, segundo piso!"
+
+REFERENCE           SUBTITLE_PRAGUE_MCT_UNSUPRESSED312_1
+LANG_ENGLISH        "^2Soap: ^7Si van a disparar, utilicen silenciador. No debemos delatar nuestra posición."
+
+REFERENCE           SUBTITLE_PRAGUE_MCT_USERPG69
+LANG_ENGLISH        "^2Soap: ^7¡Coja un RPG y utilícelo!"
+
+REFERENCE           SUBTITLE_PRAGUE_MCT_WAIT511
+LANG_ENGLISH        "^2Soap: ^7¡Espere!"
+
+REFERENCE           SUBTITLE_PRAGUE_MCT_WAITFORMYGO211
+LANG_ENGLISH        "^2Soap: ^7Vamos, Yuri. No perdamos tiempo."
+
+REFERENCE           SUBTITLE_PRAGUE_MCT_WAITHERE331
+LANG_ENGLISH        "^2Soap: ^7Espere aquí."
+
+REFERENCE           SUBTITLE_PRAGUE_MCT_WHATAREYOUDOING619
+LANG_ENGLISH        "^2Soap: ^7¿Qué diablos cree que está haciendo? ¡Retroceda!"
+
+REFERENCE           SUBTITLE_PRAGUE_MCT_WOAH516
+LANG_ENGLISH        "^2Soap: ^7La hostia..."
+
+REFERENCE           SUBTITLE_PRAGUE_MCT_YOUANDHIM12
+LANG_ENGLISH        "^2Soap: ^7Le gusta cubrirse detrás de un ejército."
+
+REFERENCE           SUBTITLE_PRAGUE_MCT_YOUGETONE324
+LANG_ENGLISH        "^2Soap: ^7Uno para usted, el otro para mí."
+
+REFERENCE           SUBTITLE_PRAGUE_MCT_YOUGOTIT123
+LANG_ENGLISH        "^2Soap: ^7Afirmativo. Venga, Yuri, a montar el chiringuito."
+
+REFERENCE           SUBTITLE_PRAGUE_MCT_YURIDOIN120
+LANG_ENGLISH        "^2Soap: ^7Yuri, ¿qué diablos está haciendo?"
+
+REFERENCE           SUBTITLE_PRAGUE_PRI_AIMSTRAIGHT513
+LANG_ENGLISH        "^2Price: ^7Aún puedo enseñarle un par de cosas, hijo."
+
+REFERENCE           SUBTITLE_PRAGUE_PRI_ARSEOVERHERE111
+LANG_ENGLISH        "^2Price: ^7Yuri, mueva el culo hasta aquí."
+
+REFERENCE           SUBTITLE_PRAGUE_PRI_CHITCHAT28
+LANG_ENGLISH        "^2Price: ^7Basta de cháchara. Soap, Yuri, pónganse en marcha. Nos veremos en el punto de encuentro."
+
+REFERENCE           SUBTITLE_PRAGUE_PRI_COMPROMISED119
+LANG_ENGLISH        "^2Price: ^7¡Nos han descubierto! "
+
+REFERENCE           SUBTITLE_PRAGUE_PRI_CONTACT14
+LANG_ENGLISH        "^2Price: ^7Esperad."
+
+REFERENCE           SUBTITLE_PRAGUE_PRI_DONTWORRY515
+LANG_ENGLISH        "^2Price: ^7No se preocupe, he traído a unos amigos."
+
+REFERENCE           SUBTITLE_PRAGUE_PRI_EASY114
+LANG_ENGLISH        "^2Price: ^7Calma..."
+
+REFERENCE           SUBTITLE_PRAGUE_PRI_EYEOUT335
+LANG_ENGLISH        "^2Price: ^7Tomaremos precauciones. "
+
+REFERENCE           SUBTITLE_PRAGUE_PRI_FROMWEST56
+LANG_ENGLISH        "^2Price: ^7Nos acercamos por el oeste. Ojo con los disparos."
+
+REFERENCE           SUBTITLE_PRAGUE_PRI_GETCOMFORTABLE122
+LANG_ENGLISH        "^2Price: ^7Recibido. Pónganse cómodos, faltan 8 horas para la reunión."
+
+REFERENCE           SUBTITLE_PRAGUE_PRI_GETCOMPROMISED112
+LANG_ENGLISH        "^2Price: ^7¡Va a conseguir que nos descubran, Yuri!"
+
+REFERENCE           SUBTITLE_PRAGUE_PRI_GETOFFROAD612
+LANG_ENGLISH        "^2Price: ^7¡Un tanque! ¡Apártese!"
+
+REFERENCE           SUBTITLE_PRAGUE_PRI_GETTOCHURCH61
+LANG_ENGLISH        "^2Price: ^7Avance con los rebeldes y entre en esa iglesia. ¡Los cubriremos!"
+
+REFERENCE           SUBTITLE_PRAGUE_PRI_GETTOCOVER64
+LANG_ENGLISH        "^2Price: ^7¡Busque cobertura, tienen un blindado!"
+
+REFERENCE           SUBTITLE_PRAGUE_PRI_GO116
+LANG_ENGLISH        "^2Price: ^7Ya..."
+
+REFERENCE           SUBTITLE_PRAGUE_PRI_GOAHEAD333
+LANG_ENGLISH        "^2Price: ^7Adelante..."
+
+REFERENCE           SUBTITLE_PRAGUE_PRI_GOLOUD117
+LANG_ENGLISH        "^2Price: ^7¡A la mierda! ¡Fuego!"
+
+REFERENCE           SUBTITLE_PRAGUE_PRI_GOODLUCK627
+LANG_ENGLISH        "^2Price: ^7Recibido. Nos dirigimos al hotel. Buena suerte."
+
+REFERENCE           SUBTITLE_PRAGUE_PRI_GUARDDOWN121
+LANG_ENGLISH        "^2Price: ^7Por aquí."
+
+REFERENCE           SUBTITLE_PRAGUE_PRI_HALFACLICK12
+LANG_ENGLISH        "^2Soap: ^7La resistencia nos espera a medio kilómetro al norte."
+
+REFERENCE           SUBTITLE_PRAGUE_PRI_HELLOVERHERE113
+LANG_ENGLISH        "^2Price: ^7¡Venga aquí de una vez, Yuri!"
+
+REFERENCE           SUBTITLE_PRAGUE_PRI_LETSGOYURI110
+LANG_ENGLISH        "^2Price: ^7Vamos, Yuri."
+
+REFERENCE           SUBTITLE_PRAGUE_PRI_LETSMOVE213
+LANG_ENGLISH        "^2Price: ^7Zanjemos esto."
+
+REFERENCE           SUBTITLE_PRAGUE_PRI_LETTHEMPASS114_1
+LANG_ENGLISH        "^2Price: ^7Déjenlos pasar..."
+
+REFERENCE           SUBTITLE_PRAGUE_PRI_MOVINGFASTER16
+LANG_ENGLISH        "^2Price: ^7Pues nos daremos más."
+
+REFERENCE           SUBTITLE_PRAGUE_PRI_OKAY115
+LANG_ENGLISH        "^2Price: ^7Vale..."
+
+REFERENCE           SUBTITLE_PRAGUE_PRI_OPENFIRE118
+LANG_ENGLISH        "^2Price: ^7¡Nos han visto! ¡Dispare!"
+
+REFERENCE           SUBTITLE_PRAGUE_PRI_SINGLEFILE17
+LANG_ENGLISH        "^2Price: ^7Con cautela, muchachos. Cúbranse tras los botes."
+
+REFERENCE           SUBTITLE_PRAGUE_PRI_SOAPPOSITION54
+LANG_ENGLISH        "^2Price: ^7Soap, ¿cuál es su situación?"
+
+REFERENCE           SUBTITLE_PRAGUE_PRI_SOAPSTATUS624
+LANG_ENGLISH        "^2Price: ^7¡Soap, lo he perdido de vista! ¡Soap, informe!"
+
+REFERENCE           SUBTITLE_PRAGUE_PRI_UNDERDOCKS18
+LANG_ENGLISH        "^2Price: ^7Por debajo de los muelles. La tormenta nos cubrirá."
+
+REFERENCE           SUBTITLE_PRAGUE_PRI_USEBOATS19
+LANG_ENGLISH        "^2Price: ^7Vayan despacio y cúbranse tras los botes."
+
+REFERENCE           SUBTITLE_PRAGUE_PRI_WELCOME211_1
+LANG_ENGLISH        "^2Price: ^7Bienvenidos a Praga."
+
+REFERENCE           SUBTITLE_PRAGUE_PRI_YURIOFFROAD620
+LANG_ENGLISH        "^2Price: ^7¡Yuri, salga de la puta carretera!"
+
+REFERENCE           SUBTITLE_PRAGUE_SND_ADVANCING92
+LANG_ENGLISH        "^2Soap: ^7Avanzando. Vigile mis seis."
+
+REFERENCE           SUBTITLE_PRAGUE_SND_ALLCLEAR21019
+LANG_ENGLISH        "^2Soap: ^7Despejado."
+
+REFERENCE           SUBTITLE_PRAGUE_SND_ARMORONROAD94
+LANG_ENGLISH        "^2Soap: ^7Rápido y con discreción."
+
+REFERENCE           SUBTITLE_PRAGUE_SND_BYTHESTATUE89
+LANG_ENGLISH        "^2Soap: ^7¡Yuri! ¡Estoy junto a la estatua!"
+
+REFERENCE           SUBTITLE_PRAGUE_SND_CLEAR1020
+LANG_ENGLISH        "^2Soap: ^7Despejado."
+
+REFERENCE           SUBTITLE_PRAGUE_SND_COVERTRACKS914
+LANG_ENGLISH        "^2Soap: ^7No podemos quedarnos a limpiar."
+
+REFERENCE           SUBTITLE_PRAGUE_SND_DONTDOSTUPID47
+LANG_ENGLISH        "^2Soap: ^7Calma, no vaya a meter la pata..."
+
+REFERENCE           SUBTITLE_PRAGUE_SND_DOWNNOW916
+LANG_ENGLISH        "^2Soap: ^7¡Al suelo ya!"
+
+REFERENCE           SUBTITLE_PRAGUE_SND_ENEMYCONVOY42
+LANG_ENGLISH        "^2Soap: ^7¡Convoy enemigo! ¡Muévase!"
+
+REFERENCE           SUBTITLE_PRAGUE_SND_FOLLOWME109
+LANG_ENGLISH        "^2Soap: ^7Sígame."
+
+REFERENCE           SUBTITLE_PRAGUE_SND_GETASSHERE810
+LANG_ENGLISH        "^2Soap: ^7¡Mueva el culo hasta aquí!"
+
+REFERENCE           SUBTITLE_PRAGUE_SND_GETDOWN45
+LANG_ENGLISH        "^2Soap: ^7Al suelo."
+
+REFERENCE           SUBTITLE_PRAGUE_SND_GETTOCOVER88
+LANG_ENGLISH        "^2Soap: ^7¡Un tanque! ¡A cubierto!"
+
+REFERENCE           SUBTITLE_PRAGUE_SND_GOODSHOT1012
+LANG_ENGLISH        "^2Soap: ^7Perfecto."
+
+REFERENCE           SUBTITLE_PRAGUE_SND_GOTCOMPANY910
+LANG_ENGLISH        "^2Soap: ^7A estos no los podemos sortear. Espere a mi señal..."
+
+REFERENCE           SUBTITLE_PRAGUE_SND_GOTEM1017
+LANG_ENGLISH        "^2Soap: ^7Muerto."
+
+REFERENCE           SUBTITLE_PRAGUE_SND_HESDOWN1015
+LANG_ENGLISH        "^2Soap: ^7Ha caído."
+
+REFERENCE           SUBTITLE_PRAGUE_SND_HOLD102
+LANG_ENGLISH        "^2Soap: ^7Quieto."
+
+REFERENCE           SUBTITLE_PRAGUE_SND_HOLDUP2103
+LANG_ENGLISH        "^2Soap: ^7Esperad."
+
+REFERENCE           SUBTITLE_PRAGUE_SND_HOLDUP2TARGETS31
+LANG_ENGLISH        "^2Soap: ^7Espere. Contacto, veinte metros por delante."
+
+REFERENCE           SUBTITLE_PRAGUE_SND_HOLDUP313
+LANG_ENGLISH        "^2Soap: ^7No dispare."
+
+REFERENCE           SUBTITLE_PRAGUE_SND_IMPROVISE915
+LANG_ENGLISH        "^2Soap: ^7Andando, improvisaremos sobre la marcha."
+
+REFERENCE           SUBTITLE_PRAGUE_SND_INSIDEBUILDING46
+LANG_ENGLISH        "^2Soap: ^7Están dentro del edificio."
+
+REFERENCE           SUBTITLE_PRAGUE_SND_JUMPGUN911
+LANG_ENGLISH        "^2Soap: ^7Calma, no se impaciente..."
+
+REFERENCE           SUBTITLE_PRAGUE_SND_LETSGO2106
+LANG_ENGLISH        "^2Soap: ^7Vamos."
+
+REFERENCE           SUBTITLE_PRAGUE_SND_LETSMOVE2107
+LANG_ENGLISH        "^2Soap: ^7Andando."
+
+REFERENCE           SUBTITLE_PRAGUE_SND_MORECAREFUL1025
+LANG_ENGLISH        "^2Soap: ^7Sería más fácil si no delatase nuestra presencia."
+
+REFERENCE           SUBTITLE_PRAGUE_SND_MORETARGETS97
+LANG_ENGLISH        "^2Soap: ^7Más blancos."
+
+REFERENCE           SUBTITLE_PRAGUE_SND_MOVE1010
+LANG_ENGLISH        "^2Soap: ^7Vamos."
+
+REFERENCE           SUBTITLE_PRAGUE_SND_MOVEIT917
+LANG_ENGLISH        "^2Soap: ^7¡Vamos!"
+
+REFERENCE           SUBTITLE_PRAGUE_SND_MOVEUP1011
+LANG_ENGLISH        "^2Soap: ^7Vamos."
+
+REFERENCE           SUBTITLE_PRAGUE_SND_NICE1014
+LANG_ENGLISH        "^2Soap: ^7Bien."
+
+REFERENCE           SUBTITLE_PRAGUE_SND_NICEANDEASY99
+LANG_ENGLISH        "^2Soap: ^7Fácil y elegante."
+
+REFERENCE           SUBTITLE_PRAGUE_SND_NICESHOT1013
+LANG_ENGLISH        "^2Soap: ^7Buen tiro."
+
+REFERENCE           SUBTITLE_PRAGUE_SND_ONME108
+LANG_ENGLISH        "^2Soap: ^7Vamos."
+
+REFERENCE           SUBTITLE_PRAGUE_SND_ONME295
+LANG_ENGLISH        "^2Soap: ^7Vamos."
+
+REFERENCE           SUBTITLE_PRAGUE_SND_OPENFIRE1023
+LANG_ENGLISH        "^2Soap: ^7¡Vienen a por nosotros! ¡Fuego!"
+
+REFERENCE           SUBTITLE_PRAGUE_SND_OUTOFCOURTYARD811
+LANG_ENGLISH        "^2Soap: ^7¡Tenemos que salir de este patio!"
+
+REFERENCE           SUBTITLE_PRAGUE_SND_REMINDME1027
+LANG_ENGLISH        "^2Soap: ^7No pienso volver a llevarlo en misiones de sigilo."
+
+REFERENCE           SUBTITLE_PRAGUE_SND_RETURNFIRE1022
+LANG_ENGLISH        "^2Soap: ^7¡Nos han visto! ¡Devuelva el fuego!"
+
+REFERENCE           SUBTITLE_PRAGUE_SND_ROADSANOGO96
+LANG_ENGLISH        "^2Soap: ^7Vamos."
+
+REFERENCE           SUBTITLE_PRAGUE_SND_SLOPPY1026
+LANG_ENGLISH        "^2Soap: ^7No ha estado fino, Yuri."
+
+REFERENCE           SUBTITLE_PRAGUE_SND_SLOWDOWN105
+LANG_ENGLISH        "^2Soap: ^7Más despacio..."
+
+REFERENCE           SUBTITLE_PRAGUE_SND_SMOKEEM912
+LANG_ENGLISH        "^2Soap: ^7Macháquelos bien."
+
+REFERENCE           SUBTITLE_PRAGUE_SND_SPOTTEDTAKEOUT1024
+LANG_ENGLISH        "^2Soap: ^7¡Nos han visto! ¡Acabe con ellos!"
+
+REFERENCE           SUBTITLE_PRAGUE_SND_STAYLOW31_1
+LANG_ENGLISH        "^2Soap: ^7Agáchese. No debemos llamar la atención."
+
+REFERENCE           SUBTITLE_PRAGUE_SND_STOP101
+LANG_ENGLISH        "^2Soap: ^7Alto."
+
+REFERENCE           SUBTITLE_PRAGUE_SND_TARGETDOWN1016
+LANG_ENGLISH        "^2Soap: ^7Eliminado."
+
+REFERENCE           SUBTITLE_PRAGUE_SND_TARGETSNEUTRALIZED1021
+LANG_ENGLISH        "^2Soap: ^7Blancos neutralizados."
+
+REFERENCE           SUBTITLE_PRAGUE_SND_THATSAKILL1018
+LANG_ENGLISH        "^2Soap: ^7Está acabado."
+
+REFERENCE           SUBTITLE_PRAGUE_SND_THEYDONTKNOW98
+LANG_ENGLISH        "^2Soap: ^7Silencio, no saben que estamos aquí."
+
+REFERENCE           SUBTITLE_PRAGUE_SND_THISWAY2812
+LANG_ENGLISH        "^2Soap: ^7¡Por aquí!"
+
+REFERENCE           SUBTITLE_PRAGUE_SND_THISWAY44
+LANG_ENGLISH        "^2Soap: ^7Solo nos queda un camino."
+
+REFERENCE           SUBTITLE_PRAGUE_SND_TOOMANY43
+LANG_ENGLISH        "^2Soap: ^7Siga agachado... son demasiados..."
+
+REFERENCE           SUBTITLE_PRAGUE_SND_WAIT104
+LANG_ENGLISH        "^2Soap: ^7Espere..."
+
+REFERENCE           SUBTITLE_PRAGUE_SND_WAITFOREM93
+LANG_ENGLISH        "^2Soap: ^7Espere, otro blindado en la carretera."
+
+REFERENCE           SUBTITLE_PRAGUE_SND_WERECLEAR91
+LANG_ENGLISH        "^2Soap: ^7Bien, estamos a salvo."
+
+REFERENCE           SUBTITLE_PRAGUE_SND_YOUHEARTHAT41
+LANG_ENGLISH        "^2Soap: ^7¿Oye eso?"
+
+ENDMARKER

@@ -1,0 +1,1183 @@
+// Dumped from fastfile "ui".
+// In their original format the strings might have been separated in multiple files.
+VERSION             "1"
+CONFIG              "C:/trees/cod3/cod3/bin/StringEd.cfg"
+FILENOTES           ""
+
+REFERENCE           KILLSTREAKS_A10_SUPPORT
+LANG_ENGLISH        "Apoyo de A-10"
+
+REFERENCE           KILLSTREAKS_A10_SUPPORT_DESC
+LANG_ENGLISH        "Solicita un ametrallamiento con A-10 Warthog."
+
+REFERENCE           KILLSTREAKS_AASTRIKE
+LANG_ENGLISH        "Superioridad aérea"
+
+REFERENCE           KILLSTREAKS_AASTRIKE_DESC
+LANG_ENGLISH        "Destruye aeronaves enemigas."
+
+REFERENCE           KILLSTREAKS_AA_MISSILE
+LANG_ENGLISH        "Misil antiaéreo"
+
+REFERENCE           KILLSTREAKS_AA_MISSILE_DESC
+LANG_ENGLISH        "Controla un misil antiaéreo para derribar aeronaves."
+
+REFERENCE           KILLSTREAKS_AC130
+LANG_ENGLISH        "AC-130"
+
+REFERENCE           KILLSTREAKS_AC130_DESC
+LANG_ENGLISH        "Conviértete en el artillero de un AC-130."
+
+REFERENCE           KILLSTREAKS_AIRDROP
+LANG_ENGLISH        "Paquete de ayuda"
+
+REFERENCE           KILLSTREAKS_AIRDROP_DESC
+LANG_ENGLISH        "Lanza una racha de bajas aleatoria."
+
+REFERENCE           KILLSTREAKS_AIRDROP_JUGGERNAUT
+LANG_ENGLISH        "Juggernaut"
+
+REFERENCE           KILLSTREAKS_AIRDROP_JUGGERNAUT_DESC
+LANG_ENGLISH        "Recibe blindaje avanzado mediante un paquete de ayuda."
+
+REFERENCE           KILLSTREAKS_AIRDROP_JUGGERNAUT_GL
+LANG_ENGLISH        "Juggernaut con lanzagranadas"
+
+REFERENCE           KILLSTREAKS_AIRDROP_JUGGERNAUT_GL_DESC
+LANG_ENGLISH        "Recibe blindaje avanzado mediante un paquete de ayuda."
+
+REFERENCE           KILLSTREAKS_AIRDROP_JUGGERNAUT_RECON
+LANG_ENGLISH        "Juggernaut recon."
+
+REFERENCE           KILLSTREAKS_AIRDROP_JUGGERNAUT_RECON_DESC
+LANG_ENGLISH        "Recibe blindaje avanzado mediante un paquete de ayuda."
+
+REFERENCE           KILLSTREAKS_AIRDROP_MEGA
+LANG_ENGLISH        "Lanzamiento de emergencia"
+
+REFERENCE           KILLSTREAKS_AIRDROP_MEGA_DESC
+LANG_ENGLISH        "Lanza 4 rachas de bajas o munición al azar."
+
+REFERENCE           KILLSTREAKS_AIRDROP_PREDATOR
+LANG_ENGLISH        "Paquete ayuda (Predator)"
+
+REFERENCE           KILLSTREAKS_AIRDROP_PREDATOR_DESC
+LANG_ENGLISH        "Lanza un misil Predator."
+
+REFERENCE           KILLSTREAKS_AIRDROP_REMOTE_TANK
+LANG_ENGLISH        "Dron de ataque"
+
+REFERENCE           KILLSTREAKS_AIRDROP_REMOTE_TANK_DESC
+LANG_ENGLISH        "Lanza un dron de ataque."
+
+REFERENCE           KILLSTREAKS_AIRDROP_SENTRY
+LANG_ENGLISH        "Torreta"
+
+REFERENCE           KILLSTREAKS_AIRDROP_SENTRY_DESC
+LANG_ENGLISH        "Lanza una torreta desplegable."
+
+REFERENCE           KILLSTREAKS_AIRDROP_TEAM_AMMO
+LANG_ENGLISH        "Lanzamiento reponedor munición equipo"
+
+REFERENCE           KILLSTREAKS_AIRDROP_TEAM_AMMO_DESC
+LANG_ENGLISH        "Reabastece al equipo de munición mediante un paquete de ayuda."
+
+REFERENCE           KILLSTREAKS_AIRDROP_TRAP
+LANG_ENGLISH        "Lanzamiento trampa"
+
+REFERENCE           KILLSTREAKS_AIRDROP_TRAP_DESC
+LANG_ENGLISH        "Mata a los enemigos con una caja trampa lanzada."
+
+REFERENCE           KILLSTREAKS_AIRDROP_TROPHY
+LANG_ENGLISH        "Lanzamiento torreta defensiva"
+
+REFERENCE           KILLSTREAKS_AIRSTRIKE
+LANG_ENGLISH        "Ataque aéreo"
+
+REFERENCE           KILLSTREAKS_AIRSTRIKE_DESC
+LANG_ENGLISH        "Solicita un ataque aéreo sobre la posición designada."
+
+REFERENCE           KILLSTREAKS_AMMO
+LANG_ENGLISH        "Munición"
+
+REFERENCE           KILLSTREAKS_AMMO_DESC
+LANG_ENGLISH        "Recibe munición."
+
+REFERENCE           KILLSTREAKS_COUNTER_UAV
+LANG_ENGLISH        "UAV de respuesta"
+
+REFERENCE           KILLSTREAKS_COUNTER_UAV_DESC
+LANG_ENGLISH        "Desactiva temporalmente el radar enemigo."
+
+REFERENCE           KILLSTREAKS_DEPLOYABLE_AMMO
+LANG_ENGLISH        "Caja de munición"
+
+REFERENCE           KILLSTREAKS_DEPLOYABLE_AMMO_DESC
+LANG_ENGLISH        "Despliega una caja de munición para tu equipo."
+
+REFERENCE           KILLSTREAKS_DEPLOYABLE_EXP_AMMO
+LANG_ENGLISH        "Caja de munición explosiva"
+
+REFERENCE           KILLSTREAKS_DEPLOYABLE_EXP_AMMO_DESC
+LANG_ENGLISH        "Despliega una caja de munición explosiva para tu equipo."
+
+REFERENCE           KILLSTREAKS_DEPLOYABLE_VEST
+LANG_ENGLISH        "Chalecos balísticos"
+
+REFERENCE           KILLSTREAKS_DEPLOYABLE_VEST_DESC
+LANG_ENGLISH        "Despliega un petate con chalecos balísticos para tu equipo."
+
+REFERENCE           KILLSTREAKS_DIRECTIONAL_UAV
+LANG_ENGLISH        "UAV direccional"
+
+REFERENCE           KILLSTREAKS_DIRECTIONAL_UAV_DESC
+LANG_ENGLISH        "Solicita un UAV que muestra hacia dónde mira el enemigo."
+
+REFERENCE           KILLSTREAKS_DOUBLE_UAV
+LANG_ENGLISH        "UAV avanzado"
+
+REFERENCE           KILLSTREAKS_DOUBLE_UAV_DESC
+LANG_ENGLISH        "UAV con tiempo de barrido menor."
+
+REFERENCE           KILLSTREAKS_EARNED_AIRDROP_MEGA
+LANG_ENGLISH        "Pulsa [{+actionslot 4}] para LANZAMIENTO DE EMERGENCIA.\n"
+
+REFERENCE           KILLSTREAKS_EMP
+LANG_ENGLISH        "PEM"
+
+REFERENCE           KILLSTREAKS_EMP_DESC
+LANG_ENGLISH        "Inutiliza temporalmente los dispositivos electrónicos enemigos."
+
+REFERENCE           KILLSTREAKS_ESCORT_AIRDROP
+LANG_ENGLISH        "Lanzamiento escolta"
+
+REFERENCE           KILLSTREAKS_ESCORT_AIRDROP_DESC
+LANG_ENGLISH        "Un Osprey entrega y defiende varios paquetes de ayuda."
+
+REFERENCE           KILLSTREAKS_EXPLOSIVE_AMMO
+LANG_ENGLISH        "Munición explosiva"
+
+REFERENCE           KILLSTREAKS_EXPLOSIVE_AMMO_DESC
+LANG_ENGLISH        "Cambia tus balas por munición explosiva."
+
+REFERENCE           KILLSTREAKS_GL_TURRET
+LANG_ENGLISH        "Torreta lanzagranadas"
+
+REFERENCE           KILLSTREAKS_GL_TURRET_DESC
+LANG_ENGLISH        "Coloca y usa una torreta lanzagranadas."
+
+REFERENCE           KILLSTREAKS_HARRIER_AIRSTRIKE
+LANG_ENGLISH        "Ataque con Harrier"
+
+REFERENCE           KILLSTREAKS_HARRIER_AIRSTRIKE_DESC
+LANG_ENGLISH        "Ataque aéreo con un Harrier.\n"
+
+REFERENCE           KILLSTREAKS_HELICOPTER
+LANG_ENGLISH        "Helicóp. de ataque"
+
+REFERENCE           KILLSTREAKS_HELICOPTER_BLACKBOX
+LANG_ENGLISH        "Caja negra de helicóptero"
+
+REFERENCE           KILLSTREAKS_HELICOPTER_BLACKBOX_DESC
+LANG_ENGLISH        "Helicóptero más duradero."
+
+REFERENCE           KILLSTREAKS_HELICOPTER_DESC
+LANG_ENGLISH        "Solicita un helicóptero de apoyo."
+
+REFERENCE           KILLSTREAKS_HELICOPTER_FLARES
+LANG_ENGLISH        "Helicóptero defensivo"
+
+REFERENCE           KILLSTREAKS_HELICOPTER_FLARES_DESC
+LANG_ENGLISH        "Helicóptero con bengalas."
+
+REFERENCE           KILLSTREAKS_HELICOPTER_MINIGUN
+LANG_ENGLISH        "Artillero"
+
+REFERENCE           KILLSTREAKS_HELICOPTER_MINIGUN_DESC
+LANG_ENGLISH        "Conviértete en el artillero de un helicóptero de ataque."
+
+REFERENCE           KILLSTREAKS_HELICOPTER_MK19
+LANG_ENGLISH        "Artillero de helicóptero"
+
+REFERENCE           KILLSTREAKS_HELICOPTER_MK19_DESC
+LANG_ENGLISH        "Controla a distancia el lanzagranadas de un helicóptero."
+
+REFERENCE           KILLSTREAKS_HELI_MINIGUNNER
+LANG_ENGLISH        "Miniartillero de helicóptero"
+
+REFERENCE           KILLSTREAKS_HELI_MINIGUNNER_DESC
+LANG_ENGLISH        "Monta en un helicóptero y usa el cañón automático."
+
+REFERENCE           KILLSTREAKS_HELI_SNIPER
+LANG_ENGLISH        "Francotirador de helicóptero"
+
+REFERENCE           KILLSTREAKS_HELI_SNIPER_DESC
+LANG_ENGLISH        "Monta en un helicóptero y dispara desde el aire."
+
+REFERENCE           KILLSTREAKS_IMS
+LANG_ENGLISH        "SMI"
+
+REFERENCE           KILLSTREAKS_IMS_DESC
+LANG_ENGLISH        "El sistema de munición inteligente detecta y elimina a los combatientes enemigos."
+
+REFERENCE           KILLSTREAKS_JUGGERNAUT
+LANG_ENGLISH        "Juggernaut"
+
+REFERENCE           KILLSTREAKS_LITTLEBIRD_FLOCK
+LANG_ENGLISH        "Ametrallamiento"
+
+REFERENCE           KILLSTREAKS_LITTLEBIRD_FLOCK_DESC
+LANG_ENGLISH        "Ametrallamiento con 5 helicópteros de ataque."
+
+REFERENCE           KILLSTREAKS_LITTLEBIRD_SUPPORT
+LANG_ENGLISH        "Apoyo de AH-6"
+
+REFERENCE           KILLSTREAKS_LITTLEBIRD_SUPPORT_DESC
+LANG_ENGLISH        "Obtén apoyo aéreo personal de un AH-6."
+
+REFERENCE           KILLSTREAKS_MINIGUN_TURRET
+LANG_ENGLISH        "Torreta con cañón automático"
+
+REFERENCE           KILLSTREAKS_MINIGUN_TURRET_DESC
+LANG_ENGLISH        "Coloca y usa una torreta con cañón automático."
+
+REFERENCE           KILLSTREAKS_MOBILE_MORTAR
+LANG_ENGLISH        "Mortero móvil"
+
+REFERENCE           KILLSTREAKS_MOBILE_MORTAR_DESC
+LANG_ENGLISH        "Solicita apoyo terrestre con mortero defendible."
+
+REFERENCE           KILLSTREAKS_NONE
+LANG_ENGLISH        "Ninguna"
+
+REFERENCE           KILLSTREAKS_NONE_DESC
+LANG_ENGLISH        "No hay ninguna racha de bajas seleccionada."
+
+REFERENCE           KILLSTREAKS_OSPREY_GUNNER
+LANG_ENGLISH        "Artillero de Osprey"
+
+REFERENCE           KILLSTREAKS_OSPREY_GUNNER_DESC
+LANG_ENGLISH        "Conviértete en el artillero de un Osprey que entrega diversos paquetes de ayuda."
+
+REFERENCE           KILLSTREAKS_PAVELOW
+LANG_ENGLISH        "Pave Low"
+
+REFERENCE           KILLSTREAKS_PAVELOW_DESC
+LANG_ENGLISH        "Helicóptero de asalto con blindaje pesado."
+
+REFERENCE           KILLSTREAKS_PRECISION_AIRSTRIKE
+LANG_ENGLISH        "Atq. aéreo de precisión"
+
+REFERENCE           KILLSTREAKS_PRECISION_AIRSTRIKE_DESC
+LANG_ENGLISH        "Solicita un ataque aéreo direccional."
+
+REFERENCE           KILLSTREAKS_PREDATOR_MISSILE
+LANG_ENGLISH        "Misil Predator"
+
+REFERENCE           KILLSTREAKS_PREDATOR_MISSILE_DESC
+LANG_ENGLISH        "Misil con control remoto."
+
+REFERENCE           KILLSTREAKS_REMOTE_MG_TURRET
+LANG_ENGLISH        "Torreta remota"
+
+REFERENCE           KILLSTREAKS_REMOTE_MG_TURRET_DESC
+LANG_ENGLISH        "Lanza una pequeña torreta y contrólala a distancia."
+
+REFERENCE           KILLSTREAKS_REMOTE_MORTAR
+LANG_ENGLISH        "Reaper"
+
+REFERENCE           KILLSTREAKS_REMOTE_MORTAR_DESC
+LANG_ENGLISH        "Marca blancos para misiles a distancia desde el UAV Reaper."
+
+REFERENCE           KILLSTREAKS_REMOTE_TANK
+LANG_ENGLISH        "Dron de ataque"
+
+REFERENCE           KILLSTREAKS_REMOTE_TANK_DESC
+LANG_ENGLISH        "Controla a distancia un vehículo de ataque terrestre."
+
+REFERENCE           KILLSTREAKS_REMOTE_UAV
+LANG_ENGLISH        "Dron reconocimiento"
+
+REFERENCE           KILLSTREAKS_REMOTE_UAV_DESC
+LANG_ENGLISH        "Controla un dron de reconocimiento y marca enemigos para tu equipo."
+
+REFERENCE           KILLSTREAKS_SAM_TURRET
+LANG_ENGLISH        "Torreta SAM"
+
+REFERENCE           KILLSTREAKS_SAM_TURRET_DESC
+LANG_ENGLISH        "Torreta SAM automática que destruye rachas de bajas aéreas."
+
+REFERENCE           KILLSTREAKS_SENTRY
+LANG_ENGLISH        "Torreta"
+
+REFERENCE           KILLSTREAKS_SENTRY_DESC
+LANG_ENGLISH        "Coloca una torreta automática."
+
+REFERENCE           KILLSTREAKS_STEALTH_AIRSTRIKE
+LANG_ENGLISH        "Bombardero sigiloso"
+
+REFERENCE           KILLSTREAKS_STEALTH_AIRSTRIKE_DESC
+LANG_ENGLISH        "Ataque aéreo indetectable en los mapas enemigos."
+
+REFERENCE           KILLSTREAKS_SUPER_AIRSTRIKE
+LANG_ENGLISH        "Superataque aéreo"
+
+REFERENCE           KILLSTREAKS_SUPER_AIRSTRIKE_DESC
+LANG_ENGLISH        "Ataque aéreo con potencia adicional."
+
+REFERENCE           KILLSTREAKS_TACTICAL_NUKE
+LANG_ENGLISH        "MOAB"
+
+REFERENCE           KILLSTREAKS_TACTICAL_NUKE_DESC
+LANG_ENGLISH        "Termina el juego a lo grande."
+
+REFERENCE           KILLSTREAKS_TANK
+LANG_ENGLISH        "Tanque"
+
+REFERENCE           KILLSTREAKS_TANK_DESC
+LANG_ENGLISH        "Un tanque."
+
+REFERENCE           KILLSTREAKS_TEAM_AMMO_REFILL
+LANG_ENGLISH        "Reponer munición del equipo"
+
+REFERENCE           KILLSTREAKS_TEAM_AMMO_REFILL_DESC
+LANG_ENGLISH        "Todo tu equipo se reabastece de munición al instante."
+
+REFERENCE           KILLSTREAKS_TRIPLE_UAV
+LANG_ENGLISH        "UAV avanzado"
+
+REFERENCE           KILLSTREAKS_TRIPLE_UAV_DESC
+LANG_ENGLISH        "Solicita un reconocimiento orbital que muestra hacia dónde mira el enemigo."
+
+REFERENCE           KILLSTREAKS_UAV
+LANG_ENGLISH        "UAV"
+
+REFERENCE           KILLSTREAKS_UAV_DESC
+LANG_ENGLISH        "Muestra a los enemigos en el minimapa."
+
+REFERENCE           KILLSTREAKS_UAV_STRIKE
+LANG_ENGLISH        "Ataque marcado con láser"
+
+REFERENCE           KILLSTREAKS_UAV_STRIKE_DESC
+LANG_ENGLISH        "Marca el blanco y disfruta de los fuegos artificiales."
+
+REFERENCE           SO_SURVIVAL_AIRSUPPORT_AIRSTRIKE
+LANG_ENGLISH        "Ataque aéreo"
+
+REFERENCE           SO_SURVIVAL_AIRSUPPORT_AIRSTRIKE_DESC
+LANG_ENGLISH        "Ataque aéreo de precisión sobre la zona designada."
+
+REFERENCE           SO_SURVIVAL_AIRSUPPORT_ASSAULT
+LANG_ENGLISH        "Helicóptero de asalto"
+
+REFERENCE           SO_SURVIVAL_AIRSUPPORT_ASSAULT_DESC
+LANG_ENGLISH        "Helicóptero de asalto aliado."
+
+REFERENCE           SO_SURVIVAL_AIRSUPPORT_DELTA
+LANG_ENGLISH        "Pelotón Delta"
+
+REFERENCE           SO_SURVIVAL_AIRSUPPORT_DELTA_DESC
+LANG_ENGLISH        "Refuerzos aerotransportados de la Delta Force."
+
+REFERENCE           SO_SURVIVAL_AIRSUPPORT_PREDATOR
+LANG_ENGLISH        "Misil Predator"
+
+REFERENCE           SO_SURVIVAL_AIRSUPPORT_PREDATOR_DESC
+LANG_ENGLISH        "Misil disparado desde un UCAV."
+
+REFERENCE           SO_SURVIVAL_AIRSUPPORT_RIOT
+LANG_ENGLISH        "Pelotón antidisturbios"
+
+REFERENCE           SO_SURVIVAL_AIRSUPPORT_RIOT_DESC
+LANG_ENGLISH        "Refuerzos aerotransportados equipados con escudos antidisturbios."
+
+REFERENCE           SO_SURVIVAL_AMMO_REFILL
+LANG_ENGLISH        "Reponer munición"
+
+REFERENCE           SO_SURVIVAL_AMMO_REFILL_DESC
+LANG_ENGLISH        "Repone la munición de tus armas principales."
+
+REFERENCE           SO_SURVIVAL_ARMORY_AIRSUPPORT
+LANG_ENGLISH        "ARSENAL DE APOYO AÉREO"
+
+REFERENCE           SO_SURVIVAL_ARMORY_AIRSUPPORT_AV
+LANG_ENGLISH        "¡Apoyo aéreo habilitado!"
+
+REFERENCE           SO_SURVIVAL_ARMORY_AIRSUPPORT_DESC
+LANG_ENGLISH        "Solicita misiles de Predator, apoyo aliado y envíos de ventajas."
+
+REFERENCE           SO_SURVIVAL_ARMORY_ATTACHED
+LANG_ENGLISH        "Accesorio"
+
+REFERENCE           SO_SURVIVAL_ARMORY_EQUIPMENT
+LANG_ENGLISH        "EQUIPO DE COMBATE"
+
+REFERENCE           SO_SURVIVAL_ARMORY_EQUIPMENT_AV
+LANG_ENGLISH        "¡Equipo de combate habilitado!"
+
+REFERENCE           SO_SURVIVAL_ARMORY_EQUIPMENT_DEF_GROUP
+LANG_ENGLISH        "Equipo defensivo"
+
+REFERENCE           SO_SURVIVAL_ARMORY_EQUIPMENT_DEF_GROUP_DESC
+LANG_ENGLISH        "Armadura, escudo antidisturbios y Autorreanimar."
+
+REFERENCE           SO_SURVIVAL_ARMORY_EQUIPMENT_DESC
+LANG_ENGLISH        "Compra explosivos, torretas, blindajes y mucho más..."
+
+REFERENCE           SO_SURVIVAL_ARMORY_EQUIPMENT_EXP_GROUP
+LANG_ENGLISH        "Explosivos"
+
+REFERENCE           SO_SURVIVAL_ARMORY_EQUIPMENT_EXP_GROUP_DESC
+LANG_ENGLISH        "Granadas de fragmentación, cegadoras, Claymores y C4."
+
+REFERENCE           SO_SURVIVAL_ARMORY_EQUIPMENT_SENTRY_GROUP
+LANG_ENGLISH        "Torretas automáticas"
+
+REFERENCE           SO_SURVIVAL_ARMORY_EQUIPMENT_SENTRY_GROUP_DESC
+LANG_ENGLISH        "Torretas fijas provistas de cañones y lanzagranadas."
+
+REFERENCE           SO_SURVIVAL_ARMORY_FULL
+LANG_ENGLISH        "Completo"
+
+REFERENCE           SO_SURVIVAL_ARMORY_LOCKED_LEVEL
+LANG_ENGLISH        "Bloqueado nivel &&1"
+
+REFERENCE           SO_SURVIVAL_ARMORY_LOCKED_LV
+LANG_ENGLISH        "Nv. &&1 "
+
+REFERENCE           SO_SURVIVAL_ARMORY_NA
+LANG_ENGLISH        "N/D"
+
+REFERENCE           SO_SURVIVAL_ARMORY_OWNED
+LANG_ENGLISH        "Adquirido"
+
+REFERENCE           SO_SURVIVAL_ARMORY_PERKS
+LANG_ENGLISH        "Paquete de ayuda de ventaja"
+
+REFERENCE           SO_SURVIVAL_ARMORY_PERKS_CAPS
+LANG_ENGLISH        "PAQUETE DE AYUDA DE VENTAJA"
+
+REFERENCE           SO_SURVIVAL_ARMORY_PERKS_DESC
+LANG_ENGLISH        "Lanzados paquetes de ayuda. ^3Si ^3recoges ^3una ^3nueva ^3ventaja ^3sustituirá ^3a ^3la ^3anterior."
+
+REFERENCE           SO_SURVIVAL_ARMORY_UPGRADE
+LANG_ENGLISH        "Mejora >"
+
+REFERENCE           SO_SURVIVAL_ARMORY_USE_AIRSUPPORT
+LANG_ENGLISH        "Mantén ^3[{+activate}]^7 para usar el apoyo aéreo."
+
+REFERENCE           SO_SURVIVAL_ARMORY_USE_EQUIPMENT
+LANG_ENGLISH        "Mantén ^3[{+activate}]^7 para usar el equipo de combate."
+
+REFERENCE           SO_SURVIVAL_ARMORY_USE_WEAPON
+LANG_ENGLISH        "Mantén ^3[{+activate}]^7 para usar el arsenal de armas."
+
+REFERENCE           SO_SURVIVAL_ARMORY_WEAPON
+LANG_ENGLISH        "ARSENAL DE ARMAS"
+
+REFERENCE           SO_SURVIVAL_ARMORY_WEAPON_ASR_GROUP
+LANG_ENGLISH        "Fusiles de asalto"
+
+REFERENCE           SO_SURVIVAL_ARMORY_WEAPON_ATTACHMENT
+LANG_ENGLISH        " - ACCESORIOS"
+
+REFERENCE           SO_SURVIVAL_ARMORY_WEAPON_AV
+LANG_ENGLISH        "¡Arsenal de armas habilitado!"
+
+REFERENCE           SO_SURVIVAL_ARMORY_WEAPON_DESC
+LANG_ENGLISH        "Compra y mejora armas."
+
+REFERENCE           SO_SURVIVAL_ARMORY_WEAPON_LMG_GROUP
+LANG_ENGLISH        "Ametrall. ligeras"
+
+REFERENCE           SO_SURVIVAL_ARMORY_WEAPON_MPISTOL_GROUP
+LANG_ENGLISH        "Pistolas ametralladoras"
+
+REFERENCE           SO_SURVIVAL_ARMORY_WEAPON_PISTOL_GROUP
+LANG_ENGLISH        "Armas cortas"
+
+REFERENCE           SO_SURVIVAL_ARMORY_WEAPON_SG_GROUP
+LANG_ENGLISH        "Escopetas"
+
+REFERENCE           SO_SURVIVAL_ARMORY_WEAPON_SMG_GROUP
+LANG_ENGLISH        "Subfusiles"
+
+REFERENCE           SO_SURVIVAL_ARMORY_WEAPON_SR_GROUP
+LANG_ENGLISH        "Fusiles de precisión"
+
+REFERENCE           SO_SURVIVAL_ARMOR_POINTS
+LANG_ENGLISH        "Blindaje         &&1"
+
+REFERENCE           SO_SURVIVAL_ATTACHMENT_ACOG_SCOPE
+LANG_ENGLISH        "Mira ACOG"
+
+REFERENCE           SO_SURVIVAL_ATTACHMENT_EOTECH
+LANG_ENGLISH        "Mira holográfica"
+
+REFERENCE           SO_SURVIVAL_ATTACHMENT_GRENADE_LAUNCHER
+LANG_ENGLISH        "Lanzagranadas M203"
+
+REFERENCE           SO_SURVIVAL_ATTACHMENT_GRENADE_LAUNCHER1
+LANG_ENGLISH        "Lanzagranadas GP25"
+
+REFERENCE           SO_SURVIVAL_ATTACHMENT_GRENADE_LAUNCHER2
+LANG_ENGLISH        "Lanzagranadas M320"
+
+REFERENCE           SO_SURVIVAL_ATTACHMENT_GRIP
+LANG_ENGLISH        "Empuñadura"
+
+REFERENCE           SO_SURVIVAL_ATTACHMENT_RED_DOT_SIGHT
+LANG_ENGLISH        "Mira p. rojo"
+
+REFERENCE           SO_SURVIVAL_ATTACHMENT_SCOPE
+LANG_ENGLISH        "Accesorio de mira óptica"
+
+REFERENCE           SO_SURVIVAL_ATTACHMENT_SHOTGUN
+LANG_ENGLISH        "Accesorio de escopeta"
+
+REFERENCE           SO_SURVIVAL_ATTACHMENT_UNDERBARREL
+LANG_ENGLISH        "Accesorio acoplado bajo el cañón"
+
+REFERENCE           SO_SURVIVAL_CHAOS_BONUS_FREEZE_METER
+LANG_ENGLISH        "Pulsa [{+activate}] para recoger bonificación: medidor de congelación"
+
+REFERENCE           SO_SURVIVAL_CHAOS_BONUS_LASTSTAND
+LANG_ENGLISH        "Pulsa [{+activate}] para recoger bonificación: +Última batalla"
+
+REFERENCE           SO_SURVIVAL_CHAOS_BONUS_MULTIPLIER
+LANG_ENGLISH        "Pulsa [{+activate}] para recoger bonificación: x10"
+
+REFERENCE           SO_SURVIVAL_CHAOS_BONUS_POINT
+LANG_ENGLISH        "Pulsa [{+activate}] para recoger bonificación: +5.000"
+
+REFERENCE           SO_SURVIVAL_CHAOS_BONUS_SCORE
+LANG_ENGLISH        "Puntuación extra +&&1"
+
+REFERENCE           SO_SURVIVAL_CHAOS_BONUS_SENTRY
+LANG_ENGLISH        "Pulsa [{+activate}] para recoger bonificación: torreta"
+
+REFERENCE           SO_SURVIVAL_CHAOS_BONUS_TIME
+LANG_ENGLISH        "Pulsa [{+activate}] para recoger bonificación: +1:00"
+
+REFERENCE           SO_SURVIVAL_CHAOS_CARE_PACKAGE
+LANG_ENGLISH        "Paquete de ayuda +&&1"
+
+REFERENCE           SO_SURVIVAL_CHAOS_CHEMICAL_CORPS
+LANG_ENGLISH        "Cuerpo químico +&&1"
+
+REFERENCE           SO_SURVIVAL_CHAOS_CLAYMORE_CORPS
+LANG_ENGLISH        "Enemigo con Claymore +&&1"
+
+REFERENCE           SO_SURVIVAL_CHAOS_DEFAULT_DESC
+LANG_ENGLISH        "Lucha contra una horda continua de enemigos."
+
+REFERENCE           SO_SURVIVAL_CHAOS_DES_CHOPPER
+LANG_ENGLISH        "Helicóptero destruido +&&1"
+
+REFERENCE           SO_SURVIVAL_CHAOS_DOG_KILL
+LANG_ENGLISH        "Perro muerto +&&1"
+
+REFERENCE           SO_SURVIVAL_CHAOS_DOG_TAGS
+LANG_ENGLISH        "Chapas +&&1"
+
+REFERENCE           SO_SURVIVAL_CHAOS_DOME_DESC
+LANG_ENGLISH        "¡La supervivencia del más apto! Los enemigos atacarán por todas partes."
+
+REFERENCE           SO_SURVIVAL_CHAOS_EASY_KILL
+LANG_ENGLISH        "Baja fácil +&&1"
+
+REFERENCE           SO_SURVIVAL_CHAOS_ELITE_KILL
+LANG_ENGLISH        "Baja de élite +&&1"
+
+REFERENCE           SO_SURVIVAL_CHAOS_EOG_CHEMICAL
+LANG_ENGLISH        "Baja de cuerpo químico (+300):"
+
+REFERENCE           SO_SURVIVAL_CHAOS_EOG_CHOPPER
+LANG_ENGLISH        "Helicóptero destruido (+2.000):"
+
+REFERENCE           SO_SURVIVAL_CHAOS_EOG_EASY
+LANG_ENGLISH        "Baja fácil (+50):"
+
+REFERENCE           SO_SURVIVAL_CHAOS_EOG_ELITE
+LANG_ENGLISH        "Baja de élite (+250):"
+
+REFERENCE           SO_SURVIVAL_CHAOS_EOG_EXECUTION
+LANG_ENGLISH        "Ejecución (+200):"
+
+REFERENCE           SO_SURVIVAL_CHAOS_EOG_EXP_DOG
+LANG_ENGLISH        "Baja explosiva de perro (+150):"
+
+REFERENCE           SO_SURVIVAL_CHAOS_EOG_EXP_JUG
+LANG_ENGLISH        "Baja explosiva de Juggernaut (+1.000):"
+
+REFERENCE           SO_SURVIVAL_CHAOS_EOG_EXP_KILL
+LANG_ENGLISH        "Baja explosiva (+150):"
+
+REFERENCE           SO_SURVIVAL_CHAOS_EOG_GRENADE
+LANG_ENGLISH        "Baja con granada (+400):"
+
+REFERENCE           SO_SURVIVAL_CHAOS_EOG_HARDENED
+LANG_ENGLISH        "Baja Curtido (+150):"
+
+REFERENCE           SO_SURVIVAL_CHAOS_EOG_HEADSHOT
+LANG_ENGLISH        "Tiro a la cabeza (+300):"
+
+REFERENCE           SO_SURVIVAL_CHAOS_EOG_KNIFE
+LANG_ENGLISH        "Baja con cuchillo (+150):"
+
+REFERENCE           SO_SURVIVAL_CHAOS_EOG_LONG_SHOT
+LANG_ENGLISH        "Tiro a gran distancia (+150):"
+
+REFERENCE           SO_SURVIVAL_CHAOS_EOG_MARTYRDOM
+LANG_ENGLISH        "Baja con Martirio (+150):"
+
+REFERENCE           SO_SURVIVAL_CHAOS_EOG_MASSIVE_EXP
+LANG_ENGLISH        "Gran explosión (+2.000):"
+
+REFERENCE           SO_SURVIVAL_CHAOS_EOG_MUL_KILL
+LANG_ENGLISH        "Baja múltiple (+1.000):"
+
+REFERENCE           SO_SURVIVAL_CHAOS_EOG_NEW_WEAPON
+LANG_ENGLISH        "Nueva arma obtenida (+500):"
+
+REFERENCE           SO_SURVIVAL_CHAOS_EOG_QUAD_KILL
+LANG_ENGLISH        "Baja cuádruple (+800):"
+
+REFERENCE           SO_SURVIVAL_CHAOS_EOG_REG_DOG
+LANG_ENGLISH        "Baja normal de perro (+100):"
+
+REFERENCE           SO_SURVIVAL_CHAOS_EOG_REG_JUG
+LANG_ENGLISH        "Baja normal de Juggernaut (+500):"
+
+REFERENCE           SO_SURVIVAL_CHAOS_EOG_REG_KILL
+LANG_ENGLISH        "Baja normal (+100):"
+
+REFERENCE           SO_SURVIVAL_CHAOS_EOG_SHIELD_JUG
+LANG_ENGLISH        "Baja con escudo de Juggernaut (+750):"
+
+REFERENCE           SO_SURVIVAL_CHAOS_EOG_TRI_HEADSHOT
+LANG_ENGLISH        "Triple tiro a la cabeza (+1.000):"
+
+REFERENCE           SO_SURVIVAL_CHAOS_EOG_TRI_KILL
+LANG_ENGLISH        "Baja triple (+600):"
+
+REFERENCE           SO_SURVIVAL_CHAOS_EOG_TRI_KNIFE
+LANG_ENGLISH        "Triple baja con cuchillo (+1.000):"
+
+REFERENCE           SO_SURVIVAL_CHAOS_EOG_TRI_LONGSHOT
+LANG_ENGLISH        "Triple tiro a gran distancia (+1.000):"
+
+REFERENCE           SO_SURVIVAL_CHAOS_EOG_VETERAN
+LANG_ENGLISH        "Baja en Veterano (+200):"
+
+REFERENCE           SO_SURVIVAL_CHAOS_EXECUTION
+LANG_ENGLISH        "Ejecución +&&1"
+
+REFERENCE           SO_SURVIVAL_CHAOS_EXPLOSION
+LANG_ENGLISH        "Explosión +&&1"
+
+REFERENCE           SO_SURVIVAL_CHAOS_EXP_DOG
+LANG_ENGLISH        "Perro explosivo +&&1"
+
+REFERENCE           SO_SURVIVAL_CHAOS_EXP_JUG
+LANG_ENGLISH        "Juggernaut explosivo +&&1"
+
+REFERENCE           SO_SURVIVAL_CHAOS_GRENADE
+LANG_ENGLISH        "Granada +&&1"
+
+REFERENCE           SO_SURVIVAL_CHAOS_HARDENED_KILL
+LANG_ENGLISH        "Baja Curtido +&&1"
+
+REFERENCE           SO_SURVIVAL_CHAOS_HEAD_SHOT
+LANG_ENGLISH        "Tiro a la cabeza +&&1"
+
+REFERENCE           SO_SURVIVAL_CHAOS_HIGHEST_COMBO
+LANG_ENGLISH        "Mayor multiplicador de combo:"
+
+REFERENCE           SO_SURVIVAL_CHAOS_LONG_SHOT
+LANG_ENGLISH        "Tiro a gran distancia +&&1"
+
+REFERENCE           SO_SURVIVAL_CHAOS_MASSIVE_EXPLOSION
+LANG_ENGLISH        "Gran explosión +&&1"
+
+REFERENCE           SO_SURVIVAL_CHAOS_MINIGUN_JUG
+LANG_ENGLISH        "Juggernaut con cañón automático +&&1"
+
+REFERENCE           SO_SURVIVAL_CHAOS_MODE_CAPS
+LANG_ENGLISH        "CAOS"
+
+REFERENCE           SO_SURVIVAL_CHAOS_MODE_DESC
+LANG_ENGLISH        "Ábrete paso a las bravas entre oleadas de enemigos."
+
+REFERENCE           SO_SURVIVAL_CHAOS_MULTI_KILL
+LANG_ENGLISH        "Baja múltiple +&&1"
+
+REFERENCE           SO_SURVIVAL_CHAOS_NEW_WEAPON
+LANG_ENGLISH        "Nueva arma +&&1"
+
+REFERENCE           SO_SURVIVAL_CHAOS_OBJECTIVE
+LANG_ENGLISH        "Sobrevive al caos..."
+
+REFERENCE           SO_SURVIVAL_CHAOS_PARIS_DESC
+LANG_ENGLISH        "Trata de sobrevivir al implacable asalto enemigo en las calles de París."
+
+REFERENCE           SO_SURVIVAL_CHAOS_PICKUP_1887
+LANG_ENGLISH        "Pulsa [{+activate}] para Modelo 1887"
+
+REFERENCE           SO_SURVIVAL_CHAOS_PICKUP_AA12
+LANG_ENGLISH        "Pulsa [{+activate}] para AA-12"
+
+REFERENCE           SO_SURVIVAL_CHAOS_PICKUP_ACR
+LANG_ENGLISH        "Pulsa [{+activate}] para ACR 6.8"
+
+REFERENCE           SO_SURVIVAL_CHAOS_PICKUP_AK47
+LANG_ENGLISH        "Pulsa [{+activate}] para AK-47"
+
+REFERENCE           SO_SURVIVAL_CHAOS_PICKUP_AS50
+LANG_ENGLISH        "Pulsa [{+activate}] para AS50"
+
+REFERENCE           SO_SURVIVAL_CHAOS_PICKUP_BONUS_POINTS
+LANG_ENGLISH        "Pulsa [{+activate}] para recoger bonificación: +5.000"
+
+REFERENCE           SO_SURVIVAL_CHAOS_PICKUP_C4
+LANG_ENGLISH        "Pulsa [{+activate}] para C4"
+
+REFERENCE           SO_SURVIVAL_CHAOS_PICKUP_CLAYMORE
+LANG_ENGLISH        "Pulsa [{+activate}] para Claymore"
+
+REFERENCE           SO_SURVIVAL_CHAOS_PICKUP_CM901
+LANG_ENGLISH        "Pulsa [{+activate}] para CM901"
+
+REFERENCE           SO_SURVIVAL_CHAOS_PICKUP_FAD
+LANG_ENGLISH        "Pulsa [{+activate}] para FAD"
+
+REFERENCE           SO_SURVIVAL_CHAOS_PICKUP_FLASH
+LANG_ENGLISH        "Pulsa [{+activate}] para granada cegadora"
+
+REFERENCE           SO_SURVIVAL_CHAOS_PICKUP_FMG9
+LANG_ENGLISH        "Pulsa [{+activate}] para FMG9"
+
+REFERENCE           SO_SURVIVAL_CHAOS_PICKUP_G18
+LANG_ENGLISH        "Pulsa [{+activate}] para G18"
+
+REFERENCE           SO_SURVIVAL_CHAOS_PICKUP_G36
+LANG_ENGLISH        "Pulsa [{+activate}] para G36C"
+
+REFERENCE           SO_SURVIVAL_CHAOS_PICKUP_M16
+LANG_ENGLISH        "Pulsa [{+activate}] para M16A4"
+
+REFERENCE           SO_SURVIVAL_CHAOS_PICKUP_M4
+LANG_ENGLISH        "Pulsa [{+activate}] para M4A1"
+
+REFERENCE           SO_SURVIVAL_CHAOS_PICKUP_M60
+LANG_ENGLISH        "Pulsa [{+activate}] para M60E4"
+
+REFERENCE           SO_SURVIVAL_CHAOS_PICKUP_M9
+LANG_ENGLISH        "Pulsa [{+activate}] para PM-9"
+
+REFERENCE           SO_SURVIVAL_CHAOS_PICKUP_MG36
+LANG_ENGLISH        "Pulsa [{+activate}] para MG36"
+
+REFERENCE           SO_SURVIVAL_CHAOS_PICKUP_MK14
+LANG_ENGLISH        "Pulsa [{+activate}] para MK14"
+
+REFERENCE           SO_SURVIVAL_CHAOS_PICKUP_MK46
+LANG_ENGLISH        "Pulsa [{+activate}] para MK46"
+
+REFERENCE           SO_SURVIVAL_CHAOS_PICKUP_MP5
+LANG_ENGLISH        "Pulsa [{+activate}] para MP5"
+
+REFERENCE           SO_SURVIVAL_CHAOS_PICKUP_MP7
+LANG_ENGLISH        "Pulsa [{+activate}] para MP7"
+
+REFERENCE           SO_SURVIVAL_CHAOS_PICKUP_MP9
+LANG_ENGLISH        "Pulsa [{+activate}] para MP9"
+
+REFERENCE           SO_SURVIVAL_CHAOS_PICKUP_P90
+LANG_ENGLISH        "Pulsa [{+activate}] para P90"
+
+REFERENCE           SO_SURVIVAL_CHAOS_PICKUP_PECHENEG
+LANG_ENGLISH        "Pulsa [{+activate}] para PKP Pecheneg"
+
+REFERENCE           SO_SURVIVAL_CHAOS_PICKUP_PP90
+LANG_ENGLISH        "Pulsa [{+activate}] para PP90M1"
+
+REFERENCE           SO_SURVIVAL_CHAOS_PICKUP_RPG
+LANG_ENGLISH        "Pulsa [{+activate}] para RPG-7"
+
+REFERENCE           SO_SURVIVAL_CHAOS_PICKUP_RSASS
+LANG_ENGLISH        "Pulsa [{+activate}] para RSASS"
+
+REFERENCE           SO_SURVIVAL_CHAOS_PICKUP_SA80
+LANG_ENGLISH        "Pulsa [{+activate}] para L86 LSW"
+
+REFERENCE           SO_SURVIVAL_CHAOS_PICKUP_SCAR
+LANG_ENGLISH        "Pulsa [{+activate}] para SCAR-L"
+
+REFERENCE           SO_SURVIVAL_CHAOS_PICKUP_SKORPION
+LANG_ENGLISH        "Pulsa [{+activate}] para Skorpion"
+
+REFERENCE           SO_SURVIVAL_CHAOS_PICKUP_STRIKER
+LANG_ENGLISH        "Pulsa [{+activate}] para Striker"
+
+REFERENCE           SO_SURVIVAL_CHAOS_PICKUP_TYPE95
+LANG_ENGLISH        "Pulsa [{+activate}] para Type 95"
+
+REFERENCE           SO_SURVIVAL_CHAOS_PICKUP_UMP45
+LANG_ENGLISH        "Pulsa [{+activate}] para UMP45"
+
+REFERENCE           SO_SURVIVAL_CHAOS_PICKUP_USAS12
+LANG_ENGLISH        "Pulsa [{+activate}] para USAS 12"
+
+REFERENCE           SO_SURVIVAL_CHAOS_PICKUP_USP45
+LANG_ENGLISH        "Pulsa [{+activate}] para USP del 45"
+
+REFERENCE           SO_SURVIVAL_CHAOS_PLUS_SIGN
+LANG_ENGLISH        " ^8+"
+
+REFERENCE           SO_SURVIVAL_CHAOS_PRE
+LANG_ENGLISH        "Caos:"
+
+REFERENCE           SO_SURVIVAL_CHAOS_QUAD_KILL
+LANG_ENGLISH        "Baja cuádruple +&&1"
+
+REFERENCE           SO_SURVIVAL_CHAOS_REGULAR_KILL
+LANG_ENGLISH        "Baja normal +&&1"
+
+REFERENCE           SO_SURVIVAL_CHAOS_REG_JUG
+LANG_ENGLISH        "Juggernaut normal +&&1"
+
+REFERENCE           SO_SURVIVAL_CHAOS_SHIELD_JUG
+LANG_ENGLISH        "Juggernaut con escudo +&&1"
+
+REFERENCE           SO_SURVIVAL_CHAOS_SPLASH_DEMO_MAN
+LANG_ENGLISH        "Demoledor"
+
+REFERENCE           SO_SURVIVAL_CHAOS_SPLASH_FINAL_STAND
+LANG_ENGLISH        "¡Batalla final!"
+
+REFERENCE           SO_SURVIVAL_CHAOS_SPLASH_HEAD_HUNTER
+LANG_ENGLISH        "Cazador de cabezas"
+
+REFERENCE           SO_SURVIVAL_CHAOS_SPLASH_LONG_SHOOTER
+LANG_ENGLISH        "Tirador lejano"
+
+REFERENCE           SO_SURVIVAL_CHAOS_SPLASH_MULTI_KILL
+LANG_ENGLISH        "¡Bajas múltiples!"
+
+REFERENCE           SO_SURVIVAL_CHAOS_SPLASH_QUAD_KILL
+LANG_ENGLISH        "¡Baja cuádruple!"
+
+REFERENCE           SO_SURVIVAL_CHAOS_SPLASH_SLASHER
+LANG_ENGLISH        "Degollador"
+
+REFERENCE           SO_SURVIVAL_CHAOS_SPLASH_TRIPLE_KILL
+LANG_ENGLISH        "¡Triple baja!"
+
+REFERENCE           SO_SURVIVAL_CHAOS_STAB
+LANG_ENGLISH        "Apuñalar +&&1"
+
+REFERENCE           SO_SURVIVAL_CHAOS_SUICIDE_BOMBER
+LANG_ENGLISH        "Tropa suicida +&&1"
+
+REFERENCE           SO_SURVIVAL_CHAOS_TRIPLE_HEADSHOT
+LANG_ENGLISH        "Triple tiro a la cabeza +&&1"
+
+REFERENCE           SO_SURVIVAL_CHAOS_TRIPLE_KILL
+LANG_ENGLISH        "Baja triple +&&1"
+
+REFERENCE           SO_SURVIVAL_CHAOS_TRIPLE_KNIFE_KILL
+LANG_ENGLISH        "Triple baja con cuchillo +&&1"
+
+REFERENCE           SO_SURVIVAL_CHAOS_TRIPLE_LONGSHOT
+LANG_ENGLISH        "Triple tiro a gran distancia +&&1"
+
+REFERENCE           SO_SURVIVAL_CHAOS_UNDERGROUND_DESC
+LANG_ENGLISH        "Ábrete paso entre vagones de tren y acaba con los enemigos que intentarán detenerte."
+
+REFERENCE           SO_SURVIVAL_CHAOS_VETERAN_KILL
+LANG_ENGLISH        "Baja de Veterano +&&1"
+
+REFERENCE           SO_SURVIVAL_CHAOS_VILLAGE_DESC
+LANG_ENGLISH        "Combate la acometida del enemigo en la aldea."
+
+REFERENCE           SO_SURVIVAL_COMBO_CAPS
+LANG_ENGLISH        "COMBO"
+
+REFERENCE           SO_SURVIVAL_COST
+LANG_ENGLISH        "COSTE"
+
+REFERENCE           SO_SURVIVAL_CREDITS
+LANG_ENGLISH        "&&1 $"
+
+REFERENCE           SO_SURVIVAL_CREDITS_MINUS
+LANG_ENGLISH        "-&&1 $"
+
+REFERENCE           SO_SURVIVAL_CREDITS_PLUS
+LANG_ENGLISH        "+&&1 $"
+
+REFERENCE           SO_SURVIVAL_DPAD_RIGHT_SLOT_FULL
+LANG_ENGLISH        "No tienes ningún espacio libre."
+
+REFERENCE           SO_SURVIVAL_ENEMIES_LEFT
+LANG_ENGLISH        "Quedan &&1 enemigos"
+
+REFERENCE           SO_SURVIVAL_ENEMY_LEFT
+LANG_ENGLISH        "Queda &&1 enemigo"
+
+REFERENCE           SO_SURVIVAL_EQUIPMENT_BODYARMOR
+LANG_ENGLISH        "Blindaje corporal"
+
+REFERENCE           SO_SURVIVAL_EQUIPMENT_BODYARMOR_DESC
+LANG_ENGLISH        "Blindaje de 250 impactos"
+
+REFERENCE           SO_SURVIVAL_EQUIPMENT_C4
+LANG_ENGLISH        "C4 x5 (máximo 10)"
+
+REFERENCE           SO_SURVIVAL_EQUIPMENT_CLAYMORE
+LANG_ENGLISH        "Claymore x5 (máximo 10)"
+
+REFERENCE           SO_SURVIVAL_EQUIPMENT_FLASH_REFILL
+LANG_ENGLISH        "Reponer cegadoras"
+
+REFERENCE           SO_SURVIVAL_EQUIPMENT_FLASH_REFILL_DESC
+LANG_ENGLISH        "Repone las 4 granadas cegadoras."
+
+REFERENCE           SO_SURVIVAL_EQUIPMENT_FRAG_REFILL
+LANG_ENGLISH        "Reponer granadas de frag."
+
+REFERENCE           SO_SURVIVAL_EQUIPMENT_FRAG_REFILL_DESC
+LANG_ENGLISH        "Repone las 4 granadas de fragmentación."
+
+REFERENCE           SO_SURVIVAL_EQUIPMENT_JUGARMOR
+LANG_ENGLISH        "Armadura de Juggernaut"
+
+REFERENCE           SO_SURVIVAL_EQUIPMENT_JUGARMOR_DESC
+LANG_ENGLISH        "Armadura pesada."
+
+REFERENCE           SO_SURVIVAL_EQUIPMENT_LASTSTAND
+LANG_ENGLISH        "Autorreanimar"
+
+REFERENCE           SO_SURVIVAL_EQUIPMENT_LASTSTAND_DESC
+LANG_ENGLISH        "Si te derriban, devuelve el fuego para ponerte en pie."
+
+REFERENCE           SO_SURVIVAL_EQUIPMENT_RPG
+LANG_ENGLISH        "RPG-7 x2 (máximo 4)"
+
+REFERENCE           SO_SURVIVAL_EQUIPMENT_SENTRY
+LANG_ENGLISH        "Torreta"
+
+REFERENCE           SO_SURVIVAL_EQUIPMENT_SENTRY_DESC
+LANG_ENGLISH        "Torreta con cañón automático incorporado."
+
+REFERENCE           SO_SURVIVAL_EQUIPMENT_SENTRY_GL
+LANG_ENGLISH        "Torreta con lanzagranadas"
+
+REFERENCE           SO_SURVIVAL_EQUIPMENT_SENTRY_GL_DESC
+LANG_ENGLISH        "Torreta con lanzagranadas incorporado."
+
+REFERENCE           SO_SURVIVAL_LB_CHAOS_CAP
+LANG_ENGLISH        "CAOS EN SOLITARIO"
+
+REFERENCE           SO_SURVIVAL_LB_CHAOS_TEAM_CAP
+LANG_ENGLISH        "CAOS EN EQUIPO"
+
+REFERENCE           SO_SURVIVAL_MENU_SHARE_HINT
+LANG_ENGLISH        "COMPARTIR 500 $ ^2F2^7"
+
+REFERENCE           SO_SURVIVAL_MENU_SHARE_SENDING
+LANG_ENGLISH        "ENVIANDO..."
+
+REFERENCE           SO_SURVIVAL_OPTION_CHOOSE_CONTENT
+LANG_ENGLISH        "Escoger paquete de contenidos"
+
+REFERENCE           SO_SURVIVAL_OPTION_DLC
+LANG_ENGLISH        "Descarga de contenido"
+
+REFERENCE           SO_SURVIVAL_OPTION_ON_DISK
+LANG_ENGLISH        "Contenido en disco"
+
+REFERENCE           SO_SURVIVAL_PARTNER_READY
+LANG_ENGLISH        "Compañero listo\nPulsa ^3[{skip}]^7 para preparar: &&1"
+
+REFERENCE           SO_SURVIVAL_PERFORMANCE_ACCURACY
+LANG_ENGLISH        "Precisión: "
+
+REFERENCE           SO_SURVIVAL_PERFORMANCE_COMPLETION_XP
+LANG_ENGLISH        "PX acumulados:"
+
+REFERENCE           SO_SURVIVAL_PERFORMANCE_CREDITS_EARNED
+LANG_ENGLISH        "Créditos obtenidos:"
+
+REFERENCE           SO_SURVIVAL_PERFORMANCE_CREDIT_MINUS
+LANG_ENGLISH        "-&&1 $"
+
+REFERENCE           SO_SURVIVAL_PERFORMANCE_CREDIT_PLUS
+LANG_ENGLISH        "+&&1 $"
+
+REFERENCE           SO_SURVIVAL_PERFORMANCE_DAMAGETAKEN
+LANG_ENGLISH        "Daño sufrido:"
+
+REFERENCE           SO_SURVIVAL_PERFORMANCE_DOWNED
+LANG_ENGLISH        "Abatido:"
+
+REFERENCE           SO_SURVIVAL_PERFORMANCE_HEADSHOT
+LANG_ENGLISH        "Tiros a la cabeza:"
+
+REFERENCE           SO_SURVIVAL_PERFORMANCE_KILLS
+LANG_ENGLISH        "Bajas: "
+
+REFERENCE           SO_SURVIVAL_PERFORMANCE_PERCENT
+LANG_ENGLISH        "&&1% "
+
+REFERENCE           SO_SURVIVAL_PERFORMANCE_POINT
+LANG_ENGLISH        "&&1 "
+
+REFERENCE           SO_SURVIVAL_PERFORMANCE_REVIVES
+LANG_ENGLISH        "Compañero reanimado:"
+
+REFERENCE           SO_SURVIVAL_PERFORMANCE_REWARD
+LANG_ENGLISH        "Bonificación: &&1 $ "
+
+REFERENCE           SO_SURVIVAL_PERFORMANCE_SCORE
+LANG_ENGLISH        "Puntuación:"
+
+REFERENCE           SO_SURVIVAL_PERFORMANCE_TIME
+LANG_ENGLISH        "Tiempo: "
+
+REFERENCE           SO_SURVIVAL_PERFORMANCE_WAVEBONUS
+LANG_ENGLISH        "Oleada:"
+
+REFERENCE           SO_SURVIVAL_READY_UP
+LANG_ENGLISH        "Pulsa ^3[{skip}]^7 para preparar: &&1"
+
+REFERENCE           SO_SURVIVAL_READY_UP_WAIT
+LANG_ENGLISH        "Falta tu compañero."
+
+REFERENCE           SO_SURVIVAL_REPLACE_WEAPON_NOTE
+LANG_ENGLISH        "^3Solo ^3puedes ^3llevar ^3dos ^3armas ^3de ^3proyectiles. ^3Si ^3compras ^3otra ^3sustituirá ^3a ^3la ^3que ^3tienes ^3equipada."
+
+REFERENCE           SO_SURVIVAL_REPLACE_WEAPON_WARNING
+LANG_ENGLISH        "Si compras esta arma, sustituirá a la que tienes equipada."
+
+REFERENCE           SO_SURVIVAL_SURVIVAL_ARMORIES
+LANG_ENGLISH        "ARSENALES"
+
+REFERENCE           SO_SURVIVAL_SURVIVAL_OBJECTIVE
+LANG_ENGLISH        "Sobrevive..."
+
+REFERENCE           SO_SURVIVAL_SURVIVED_TO_WAVE
+LANG_ENGLISH        "¡Has sobrevivido hasta la oleada &&1!"
+
+REFERENCE           SO_SURVIVAL_SURVIVE_TIME
+LANG_ENGLISH        "Supervivencias: "
+
+REFERENCE           SO_SURVIVAL_SUR_CH_EXECUTION
+LANG_ENGLISH        "Ejecuciones"
+
+REFERENCE           SO_SURVIVAL_SUR_CH_EXECUTION_DESC
+LANG_ENGLISH        "Anótate 4 ejecuciones en una ronda rematando a enemigos moribundos."
+
+REFERENCE           SO_SURVIVAL_SUR_CH_EXECUTION_SPLASH
+LANG_ENGLISH        "¡Verdugo!  +&&1 $"
+
+REFERENCE           SO_SURVIVAL_SUR_CH_FLASH
+LANG_ENGLISH        "Muerte cegadora"
+
+REFERENCE           SO_SURVIVAL_SUR_CH_FLASH_DESC
+LANG_ENGLISH        "Mata a 5 enemigos mientras estás cegado por una granada."
+
+REFERENCE           SO_SURVIVAL_SUR_CH_FLASH_SPLASH
+LANG_ENGLISH        "¡Cegador!  +&&1 $"
+
+REFERENCE           SO_SURVIVAL_SUR_CH_HEADSHOT
+LANG_ENGLISH        "Tiros a la cabeza"
+
+REFERENCE           SO_SURVIVAL_SUR_CH_HEADSHOT_DESC
+LANG_ENGLISH        "Consigue 4 tiros a la cabeza en una ronda."
+
+REFERENCE           SO_SURVIVAL_SUR_CH_HEADSHOT_SPLASH
+LANG_ENGLISH        "¡Revienta melones!  +&&1 $"
+
+REFERENCE           SO_SURVIVAL_SUR_CH_KNIFE
+LANG_ENGLISH        "Racha de cuchillo"
+
+REFERENCE           SO_SURVIVAL_SUR_CH_KNIFE_DESC
+LANG_ENGLISH        "Apuñala a 5 enemigos seguidos."
+
+REFERENCE           SO_SURVIVAL_SUR_CH_KNIFE_SPLASH
+LANG_ENGLISH        "¡Carnicero!  +&&1 $"
+
+REFERENCE           SO_SURVIVAL_SUR_CH_QUADKILL
+LANG_ENGLISH        "Baja cuádruple"
+
+REFERENCE           SO_SURVIVAL_SUR_CH_QUADKILL_DESC
+LANG_ENGLISH        "Mata a 4 enemigos a la vez."
+
+REFERENCE           SO_SURVIVAL_SUR_CH_QUADKILL_SPLASH
+LANG_ENGLISH        "¡Cuatro por una!  +&&1 $"
+
+REFERENCE           SO_SURVIVAL_SUR_CH_SIDEKICK
+LANG_ENGLISH        "Asist."
+
+REFERENCE           SO_SURVIVAL_SUR_CH_SIDEKICK_DESC
+LANG_ENGLISH        "Consigue 4 asistencias."
+
+REFERENCE           SO_SURVIVAL_SUR_CH_SIDEKICK_SPLASH
+LANG_ENGLISH        "¡Ayudante!  +&&1 $"
+
+REFERENCE           SO_SURVIVAL_SUR_CH_STAGGER
+LANG_ENGLISH        "Frenesí"
+
+REFERENCE           SO_SURVIVAL_SUR_CH_STAGGER_DESC
+LANG_ENGLISH        "Mata enemigos en rápida sucesión."
+
+REFERENCE           SO_SURVIVAL_SUR_CH_STAGGER_SPLASH
+LANG_ENGLISH        "¡Desbocado!  +&&1 $"
+
+REFERENCE           SO_SURVIVAL_SUR_CH_STREAK
+LANG_ENGLISH        "Racha de bajas"
+
+REFERENCE           SO_SURVIVAL_SUR_CH_STREAK_DESC
+LANG_ENGLISH        "Causa 4 bajas sin sufrir daño."
+
+REFERENCE           SO_SURVIVAL_SUR_CH_STREAK_SPLASH
+LANG_ENGLISH        "¡Racha de bajas!  +&&1 $"
+
+REFERENCE           SO_SURVIVAL_UNLOCKED
+LANG_ENGLISH        "DESBLOQUEADO"
+
+REFERENCE           SO_SURVIVAL_WAVE_PERFORMANCE
+LANG_ENGLISH        "Rendimiento en combate"
+
+REFERENCE           SO_SURVIVAL_WAVE_PERFORMANCE_ACCURACY
+LANG_ENGLISH        "Precisión: &&1%"
+
+REFERENCE           SO_SURVIVAL_WAVE_PERFORMANCE_CAMPING
+LANG_ENGLISH        "Tiempo al acecho: &&1"
+
+REFERENCE           SO_SURVIVAL_WAVE_PERFORMANCE_DAMAGE
+LANG_ENGLISH        "Daños sufridos: &&1"
+
+REFERENCE           SO_SURVIVAL_WAVE_PERFORMANCE_HEADSHOT
+LANG_ENGLISH        "Bajas por tiros a la cabeza: &&1"
+
+REFERENCE           SO_SURVIVAL_WAVE_PERFORMANCE_TIME
+LANG_ENGLISH        "Tiempo: &&1"
+
+REFERENCE           SO_SURVIVAL_WAVE_SUCCESS_TITLE
+LANG_ENGLISH        "¡Oleada &&1 completada!"
+
+REFERENCE           SO_SURVIVAL_WAVE_SURVIVED
+LANG_ENGLISH        "Oleadas sobrevividas: &&1"
+
+REFERENCE           SO_SURVIVAL_WAVE_TIME
+LANG_ENGLISH        "Oleada &&1"
+
+REFERENCE           SO_SURVIVAL_WAVE_TITLE
+LANG_ENGLISH        "¡Enemigos en camino!"
+
+REFERENCE           SO_SURVIVAL_WEAPON_UPGRADES
+LANG_ENGLISH        "MEJORAS DE ARMAS"
+
+ENDMARKER

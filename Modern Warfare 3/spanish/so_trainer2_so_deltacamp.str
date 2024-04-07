@@ -1,0 +1,112 @@
+// Dumped from fastfile "so_trainer2_so_deltacamp".
+// In their original format the strings might have been separated in multiple files.
+VERSION             "1"
+CONFIG              "C:/trees/cod3/cod3/bin/StringEd.cfg"
+FILENOTES           ""
+
+REFERENCE           SUBTITLE_SO_DELTACAMP_SANDMAN_HEADTOFINISH116
+LANG_ENGLISH        "^2Sandman: ^7Gracias por no volarme la cabeza."
+
+REFERENCE           SUBTITLE_SO_DELTACAMP_SANDMAN_NICEJOB117
+LANG_ENGLISH        "^2Sandman: ^7Bien hecho."
+
+REFERENCE           SUBTITLE_SO_DELTACAMP_SANDMAN_NOGOOD118
+LANG_ENGLISH        "^2Sandman: ^7Mal. Repítalo."
+
+REFERENCE           SUBTITLE_SO_DELTACAMP_TRK_ALLCLEAR112
+LANG_ENGLISH        "^2Truck: ^7¡Despejado!"
+
+REFERENCE           SUBTITLE_SO_DELTACAMP_TRK_ALLCLEARMOVEUP27
+LANG_ENGLISH        "^2Truck: ^7Despejado. ¡Prosiga!"
+
+REFERENCE           SUBTITLE_SO_DELTACAMP_TRK_BRIDGECLEAR114
+LANG_ENGLISH        "^2Truck: ^7Puente despejado. ¡Adelante!"
+
+REFERENCE           SUBTITLE_SO_DELTACAMP_TRK_BUILDINGCLEAR19
+LANG_ENGLISH        "^2Truck: ^7Exterior despejado. ¡Adentro!"
+
+REFERENCE           SUBTITLE_SO_DELTACAMP_TRK_BUILDINGTARGETS18
+LANG_ENGLISH        "^2Truck: ^7Blancos. ¡Primer y segundo piso!"
+
+REFERENCE           SUBTITLE_SO_DELTACAMP_TRK_CIVILIANSHOT0128
+LANG_ENGLISH        "^2Truck: ^7¡Ojo con los civiles, soldado!"
+
+REFERENCE           SUBTITLE_SO_DELTACAMP_TRK_CIVILIANSHOT0229
+LANG_ENGLISH        "^2Truck: ^7¡No dispare a los civiles!"
+
+REFERENCE           SUBTITLE_SO_DELTACAMP_TRK_DOGSAPPROACHING113
+LANG_ENGLISH        "^2Truck: ^7¡Vienen perros!"
+
+REFERENCE           SUBTITLE_SO_DELTACAMP_TRK_FIRSTTARGETS16
+LANG_ENGLISH        "^2Truck: ^7¡Cárguese esos blancos!"
+
+REFERENCE           SUBTITLE_SO_DELTACAMP_TRK_INTROCOOP12
+LANG_ENGLISH        "^2Truck: ^7Caballeros, cojan su equipo y diríjanse hacia la salida."
+
+REFERENCE           SUBTITLE_SO_DELTACAMP_TRK_INTROSINGLE11
+LANG_ENGLISH        "^2Truck: ^7Bien, Frost. Le toca. Coja armas y vaya a la salida."
+
+REFERENCE           SUBTITLE_SO_DELTACAMP_TRK_MELEEWITHKNIFE110
+LANG_ENGLISH        "^2Truck: ^7¡Ataque con el cuchillo!"
+
+REFERENCE           SUBTITLE_SO_DELTACAMP_TRK_ONEPLAYERREADY14
+LANG_ENGLISH        "^2Truck: ^7Cuando quiera, Frost."
+
+REFERENCE           SUBTITLE_SO_DELTACAMP_TRK_OUTRODOBETTER22
+LANG_ENGLISH        "^2Truck: ^7Sé que puede hacerlo mejor."
+
+REFERENCE           SUBTITLE_SO_DELTACAMP_TRK_OUTROGOODRUN25
+LANG_ENGLISH        "^2Truck: ^7¡Así se recorre el circuito!"
+
+REFERENCE           SUBTITLE_SO_DELTACAMP_TRK_OUTROGOODRUNSARCASM26
+LANG_ENGLISH        "^2Truck: ^7¡Deje de exhibirse!"
+
+REFERENCE           SUBTITLE_SO_DELTACAMP_TRK_OUTRONOTGOODENOUGH21
+LANG_ENGLISH        "^2Truck: ^7Mediocre. Inténtelo de nuevo."
+
+REFERENCE           SUBTITLE_SO_DELTACAMP_TRK_OUTROPERSONALBEST24
+LANG_ENGLISH        "^2Truck: ^7¡Nuevo récord personal!"
+
+REFERENCE           SUBTITLE_SO_DELTACAMP_TRK_OUTROTHREESTARS23
+LANG_ENGLISH        "^2Truck: ^7¡Récord del equipo! Bien hecho."
+
+REFERENCE           SUBTITLE_SO_DELTACAMP_TRK_ROOMCLEARSPRINT115
+LANG_ENGLISH        "^2Truck: ^7Sala despejada. ¡Corra a la meta!"
+
+REFERENCE           SUBTITLE_SO_DELTACAMP_TRK_SECRETWEAPON13
+LANG_ENGLISH        "^2Truck: ^7Ah. Alguien se ha traído sus juguetes a la fiesta."
+
+REFERENCE           SUBTITLE_SO_DELTACAMP_TRK_TWOPLAYERREADY15
+LANG_ENGLISH        "^2Truck: ^7Cuando esté listo."
+
+REFERENCE           SUBTITLE_SO_DELTACAMP_TRK_UPTHESTAIRS111
+LANG_ENGLISH        "^2Truck: ^7Por las escaleras. ¡Venga, suba!"
+
+REFERENCE           SUBTITLE_SO_DELTACAMP_TRK_VEHICLETARGETS17
+LANG_ENGLISH        "^2Truck: ^7¡Avance y despeje los vehículos!"
+
+REFERENCE           SUBTITLE_SO_TRAINER2_TRK_BREACHONECLEAR12
+LANG_ENGLISH        "^2Truck: ^7Sala despejada. ¡Salga hacia el puente!"
+
+REFERENCE           SUBTITLE_SO_TRAINER2_TRK_BREACHTWOINTRO14
+LANG_ENGLISH        "^2Truck: ^7¡Coloque otra carga en esa puerta!"
+
+REFERENCE           SUBTITLE_SO_TRAINER2_TRK_BRIDGETWOSTORY13
+LANG_ENGLISH        "^2Truck: ^7Tirador. ¡Ventana segunda planta!"
+
+REFERENCE           SUBTITLE_SO_TRAINER2_TRK_DOWNSTAIRS15
+LANG_ENGLISH        "^2Truck: ^7Despejado. ¡Baje por las escaleras!"
+
+REFERENCE           SUBTITLE_SO_TRAINER2_TRK_INTROBREACH11
+LANG_ENGLISH        "^2Truck: ^7Entrenamiento de irrupción. Coloque una carga en la puerta."
+
+REFERENCE           SUBTITLE_SO_TRAINER2_TRK_LASTGROUP17
+LANG_ENGLISH        "^2Truck: ^7¡Último grupo!"
+
+REFERENCE           SUBTITLE_SO_TRAINER2_TRK_SPRINTTOFINISH210
+LANG_ENGLISH        "^2Truck: ^7¡Corra a la meta!"
+
+REFERENCE           SUBTITLE_SO_TRAINER2_TRK_TANGOSUPONBRIDGE16
+LANG_ENGLISH        "^2Truck: ^7¡Enemigos en el puente!"
+
+ENDMARKER

@@ -1,0 +1,112 @@
+// Dumped from fastfile "sp_paris_a".
+// In their original format the strings might have been separated in multiple files.
+VERSION             "1"
+CONFIG              "C:/trees/cod3/cod3/bin/StringEd.cfg"
+FILENOTES           ""
+
+REFERENCE           AC130_CIVILIAN_FIRE
+LANG_ENGLISH        "¡Has herido a un civil! Misión fallida."
+
+REFERENCE           AC130_CIVILIAN_FIRE_VEHICLE
+LANG_ENGLISH        "¡Has atacado un vehículo civil! Misión fallida."
+
+REFERENCE           AC130_DEBUG_FRIENDLY_COUNT
+LANG_ENGLISH        "Aliados: &&1"
+
+REFERENCE           AC130_DO_NOT_ENGAGE
+LANG_ENGLISH        "No tienes permiso para disparar. Misión fallida."
+
+REFERENCE           AC130_FRIENDLIES_DEAD
+LANG_ENGLISH        "Han muerto demasiados aliados. Misión fallida."
+
+REFERENCE           AC130_FRIENDLY_FIRE
+LANG_ENGLISH        "¡El fuego amigo no será tolerado!\n¡Atento a los diamantes blancos de las unidades aliadas!"
+
+REFERENCE           AC130_FRIENDLY_FIRE_HELICOPTER
+LANG_ENGLISH        "¡Has atacado a un helicóptero aliado!"
+
+REFERENCE           AC130_HINT_CYCLE_WEAPONS
+LANG_ENGLISH        "Pulsa ^3[{weapnext}]^7 para alternar entre las armas disponibles."
+
+REFERENCE           AC130_HINT_ENHANCED_VISION
+LANG_ENGLISH        "Pulsa ^3[{+activate}]^7 para activar las imágenes mejoradas."
+
+REFERENCE           AC130_HINT_THERMAL_VISION
+LANG_ENGLISH        "Pulsa ^3[{+activate}]^7 para activar el FLIR."
+
+REFERENCE           AC130_HINT_USE_25_MOVING
+LANG_ENGLISH        "Pulsa ^3[{weapnext}]^7 para cambiar al 25 mm para blancos móviles."
+
+REFERENCE           AC130_HINT_USE_40_OR_105
+LANG_ENGLISH        "Cambia al cañón de 40 o al de 105 mm para destruir el blanco."
+
+REFERENCE           AC130_HINT_ZOOM
+LANG_ENGLISH        "Mueve hacia delante o hacia atrás para ajustar el zoom."
+
+REFERENCE           AC130_HUD_AGL
+LANG_ENGLISH        "&&1 AGL"
+
+REFERENCE           AC130_HUD_AMMO
+LANG_ENGLISH        "MUNI."
+
+REFERENCE           AC130_HUD_BOTTOM_BLOCK
+LANG_ENGLISH        "L1514    RDY"
+
+REFERENCE           AC130_HUD_COLON
+LANG_ENGLISH        ":"
+
+REFERENCE           AC130_HUD_FLIR
+LANG_ENGLISH        "FLIR"
+
+REFERENCE           AC130_HUD_LEFT_BLOCK
+LANG_ENGLISH        "RAY\nFF 30\nLIR\n\nBORE"
+
+REFERENCE           AC130_HUD_LOCK_ON
+LANG_ENGLISH        "ALERTA DE MISIL"
+
+REFERENCE           AC130_HUD_OPTICS
+LANG_ENGLISH        "OPT"
+
+REFERENCE           AC130_HUD_PERIOD
+LANG_ENGLISH        "."
+
+REFERENCE           AC130_HUD_RECORDING
+LANG_ENGLISH        "REC"
+
+REFERENCE           AC130_HUD_RELOADING
+LANG_ENGLISH        "RECARGANDO"
+
+REFERENCE           AC130_HUD_RIGHT_BLOCK
+LANG_ENGLISH        "N\nT\n\nS\nF\n\nQ\nZ\n\nT\nG\nT"
+
+REFERENCE           AC130_HUD_RIGHT_BLOCK_SHORT
+LANG_ENGLISH        "N\nT\n\nS\nF\n\nQ\nZ"
+
+REFERENCE           AC130_HUD_THERMAL_BHOT
+LANG_ENGLISH        "BHOT"
+
+REFERENCE           AC130_HUD_THERMAL_WHOT
+LANG_ENGLISH        "WHOT"
+
+REFERENCE           AC130_HUD_TOP_BAR
+LANG_ENGLISH        "\n0         A-G        MAN    NARO"
+
+REFERENCE           AC130_HUD_WEAPON_105MM
+LANG_ENGLISH        "105 MM"
+
+REFERENCE           AC130_HUD_WEAPON_25MM
+LANG_ENGLISH        "25 MM"
+
+REFERENCE           AC130_HUD_WEAPON_40MM
+LANG_ENGLISH        "40 MM"
+
+REFERENCE           AC130_HUD_ZOOM
+LANG_ENGLISH        "x"
+
+REFERENCE           AC130_OBJECTIVE_SUPPORT_FRIENDLIES
+LANG_ENGLISH        "Proporciona apoyo aéreo con AC-130 a las unidades terrestres aliadas del SAS"
+
+REFERENCE           AC130_RELOADING
+LANG_ENGLISH        "Recargando"
+
+ENDMARKER
