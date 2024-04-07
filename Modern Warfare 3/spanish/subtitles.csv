@@ -1,0 +1,242 @@
+castle_load,11.2,15,^2Price: ^7En la torre del reloj de Hereford se inscriben los nombres de los muertos.
+castle_load,15.2,20,"^2Price: ^7Intentamos honrar sus hazañas, aunque los rostros se borran de nuestra memoria."
+castle_load,20.5,25,^2Price: ^7Esos recuerdos son lo único que queda cuando los cabrones se han llevado todo lo demás.
+castle_load,26.2,27,^2Baseplate: ^7 ¿Qué ha pasado?
+castle_load,27.3,28.5,^2Price: ^7 Ha matado a Soap.
+castle_load,29,30,"^2Price: ^7 Ha muerto, Mac."
+castle_load,31,32.3,^2Baseplate: ^7 ¿Qué puedo hacer por usted?
+castle_load,32.5,38.8,"^2Price: ^7Darme una ubicación. Nuestro ruso dice que Makarov almacenaba armas en un castillo, en las montañas, cerca de Praga. No hay nada más."
+castle_load,39,39.8,^2Baseplate: ^7 ¿Confía en él?
+castle_load,40.2,41.5,^2Price: ^7 ¿Qué opciones tengo?
+castle_load,41.6,44,^2Price: ^7 Tiene motivos para querer a Makarov muerto. 
+castle_load,44.5,45.5,^2Price: ^7 ¿Le suena el lugar?
+castle_load,46,53,"^2Baseplate: ^7Sí. Enviamos drones sobre un castillo sospechoso cuando lo de Zakhaev, pero nunca pillamos a los blancos visitando la zona."
+castle_load,53.1,54.4,^2Price: ^7 ¿A qué me enfrento?
+castle_load,54.5,60.5,^2Baseplate: ^7 Es una fortaleza. Solo hay una forma de entrar o salir... a no ser que pueda volar.
+castle_load,60.6,66.5,^2Baseplate: ^7 Una sala de seguridad al otro lado del complejo y un centro de mando al norte. Ambos muy protegidos.
+castle_load,67.5,71,"^2Baseplate: ^7 Si Makarov está allí, estará en la sala de control."
+castle_load,71.5,72.8,^2Baseplate: ^7 ¿Qué es esto que me envía?
+castle_load,73.2,74.5,^2Price: ^7 Una lista de equipo.
+castle_load,74.6,78.3,"^2Baseplate: ^7 Es mucho material, John. ¿Qué planea hacer?"
+castle_load,78.5,79.8,^2Price: ^7 Lo que usted me enseñó...
+castle_load,80.5,81.8,^2Price: ^7 Matarlos. 
+hamburg_load,5,8,^2Wallcroft: ^7 Repito: Downing Street está en la zona contaminada. ¡Cambio!
+hamburg_load,11.5,16.8,^2GIGN Commander: ^7Aquí cuartel del GIGN. ¡Nos están masacrando! ¡Estoy expuesto!
+hamburg_load,17,18.5,^2Ramstein AFB: ^7 ¡Aquí Ramstein! ¡Nos están atacando!
+hamburg_load,19,22.3,^2Overlord: ^7 Sabemos lo del ataque con gas y estamos enviando unidades de descontaminación.
+hamburg_load,23,25.5,^2Ramstein AFB: ^7 ¡Nada de gas! ¡Nos están atacando fuerzas terrestres rusas!
+hamburg_load,26,28.5,"^2Overlord: ^7 Repita, Ramstein. ¿Qué fuerzas rusas?"
+hamburg_load,29,31.5,^2Ramstein AFB: ^7 ¡Todo el ejército ruso! Solicito apoyo inmediato.
+hamburg_load,36,40.5,^2Overlord: ^7Esto no ha sido terrorismo. Pretendían inutilizar nuestras defensas contra su invasión. 
+hamburg_load,41,43.5,^2Overlord: ^7 Debemos golpearlos con todo lo que tenemos.
+hamburg_load,43.8,45.5,^2Battle Captain: ^7 Hemos perdido el contacto con la delegación de Hamburgo.
+hamburg_load,46,50.5,"^2Overlord: ^7 Metal 0-1, aquí Overlord jefe. Va a ser redirigido a Hamburgo."
+hamburg_load,50.6,52.5,^2Overlord: ^7 Tenemos un rescate de máximo nivel.
+hamburg_load,52.8,53.5,^2Sandman: ^7 ¿Quién es?
+hamburg_load,54,55,^2Overlord: ^7 El vicepresidente.
+hijack_load,0,0,^2Commander: ^7Informe general.
+hijack_load,0.5,3.5,"^2Price: ^7 En la guerra, la primera baja es la verdad."
+hijack_load,9.4,11.5,"^2Price: ^7Pero, ¿quién define lo que es cierto?"
+hijack_load,28.5,33,^2Price: ^7La verdad depende del punto de vista.
+hijack_load,37.5,47.5,"^2Price: ^7 El deber de todo soldado es proteger a los inocentes. Y, a veces, eso implica perpetuar la mentira del bien y del mal... La guerra no es más que un proceso de selección natural a gran escala."
+hijack_load,51,55,^2Price: ^7 Lo único que sé es que este mundo es una enorme caja de cerillas.
+hijack_load,55.5,59,^2Price: ^7 Solo hace falta una persona para hacer saltar la chispa.
+london_load,0,0,^2French Intel Officer: ^7Aquí estación Córcega. Estamos recibiendo un mensaje codificado.
+london_load,0,0,^2French Intel Officer: ^7Alerten a la inteligencia británica de que tenemos un problema.
+london_load,0,0,"^2MI5 Director: ^7 Capitán, tramen lo que tramen... deténgalos."
+london_load,20,23.5,^2MI6 Officer: ^7Los franceses interceptaron un mensaje sobre un envío sospechoso dirigido a territorio británico. 
+london_load,24,25.5,^2SIS Chief: ^7¿Se ha identificado el vehículo?
+london_load,26,29.5,"^2MI6 Officer: ^7No, señor. La llamada vino de un número de la lista vigilada de Fregata Industries."
+london_load,30,33,^2SIS Chief: ^7 Avisen al MI5 de que tenemos una amenaza inminente.
+london_load,34,35.5,"^2MI5 Director: ^7 Caballeros, ¿qué sabemos?"
+london_load,36,42,"^2MI6 Officer: ^7 Nada sólido. La rama especial está cribando los individuos de interés, pero recomendamos que el SAS investigue amenazas de nivel 1."
+london_load,42.5,43.8,^2MI5 Director: ^7 Póngame con Hereford.
+london_load,44.8,48.5,"^2Baseplate: ^7 Señora, entiendo que hay enemigos desconocidos esperando un paquete."
+london_load,49,59.8,"^2MI5 Director: ^7Ahora estamos enviando posibles puntos de entrada. Recuerde, actualmente, la naturaleza de la carga se desconoce."
+london_load,56,60.5,^2Baseplate: ^7 Recibido. Nos estamos preparando. Estaremos listos en una hora.
+london_load,60,63.5,"^2Baseplate: ^7Tranquila. Tramen lo que tramen, los detendremos."
+opening_load,12.5,14.5,^2Makarov: ^7 Toda guerra se basa en la mentira.
+opening_load,21.5,24.5,^2Makarov: ^7 Durante años la hipocresía de Occidente ha sumido el mundo en guerra.
+opening_load,36.5,41,^2Makarov: ^7 Los corruptos hablan mientras los nuestros derraman su sangre.
+opening_load,43.5,44.8,"^2Makarov: ^7 Recuerde, nada de ruso."
+opening_load,47,48.5,^2Makarov: ^7 Pero la mentira tiene doble filo.
+opening_load,54.5,58,"^2Makarov: ^7 Cuanto mayor es la mentira, más probable es que la crean."
+opening_load,59.2,64,"^2Makarov: ^7 Y cuando una nación clama venganza, la mentira es como un reguero de pólvora."
+opening_load,64.1,66,^2F-16 Pilot: ^7¡Veo cazas sobre la I-95! ¿Cómo han conseguido pasar?
+opening_load,67,70,^2Makarov: ^7 Las llamas se propagan y lo devoran todo a su paso.
+opening_load,71,73.4,^2U.S. President: ^7 Ha sido un acto de guerra contra los Estados Unidos por parte de Rusia y sus aliados. Pero no teman; venceremos.
+opening_load,73.5,77,^2Makarov: ^7 Nuestros enemigos creen que solo ellos controlan el curso de la historia.
+opening_load,79,82.2,^2Makarov: ^7 Pero solo se necesita la voluntad de un hombre.
+paris_ac130_load,11,13.8,"^2Presidential Aide: ^7 General, habla con el presidente y con el Consejo de Seguridad. "
+paris_ac130_load,14,15,^2Overlord: ^7 Presidente…
+paris_ac130_load,15.4,17.8,"^2U.S. President: ^7 General, ¿ha encontrado ya a Makarov?"
+paris_ac130_load,18,22.5,"^2Overlord: ^7 No, pero su fabricante de bombas nos ha revelado su paradero. Estamos haciendo progresos."
+paris_ac130_load,23,24.5,^2U.S. President: ^7 ¿Progresos? ¿Lo tiene ya o no?
+paris_ac130_load,25,28.5,^2Overlord: ^7Delta le ha capturado. Le estoy enviando las grabaciones.
+paris_ac130_load,29.2,30.5,^2U.S. President: ^7¿Cuál es su estado?
+paris_ac130_load,30.6,33.8,"^2Overlord: ^7 Tienen bajo custodia a Volk, pero su operación se ha visto comprometida."
+paris_ac130_load,34,35.8,"
+^2U.S. President: ^7En castellano, General, por favor... "
+paris_ac130_load,36,38.5,
+^2Overlord: ^7Tendrán que llegar al punto de extracción por la fuerza.
+paris_ac130_load,38.8,45.7,"^2U.S. President: ^7General, quiero a ese tal Volk vivo. Me da igual lo que cueste. Traiga a esos hombres a casa de una pieza."
+prague_escape_load,15.5,16.5,^2Soap: ^7¿En qué vehículo irá él?
+prague_escape_load,17,21.5,^2Yuri: ^7Siempre lo cambian por motivos de seguridad. No lo sabremos hasta que salga.
+prague_escape_load,22,23.6,^2Soap: ^7Parece saber mucho sobre Makarov... 
+prague_escape_load,26,27.5,"^2Price: ^7Alpha 1, prueba de radio. Cambio."
+prague_escape_load,28.5,30.9,"^2Soap: ^7Bravo 1, verifico. Atrincherados y en línea de tiro."
+prague_escape_load,31.2,34.3,^2Price: ^7 Bien. Kamarov es nuestros ojos y oídos dentro del hotel.
+prague_escape_load,34.8,36.8,^2Price: ^7 Empezaremos en cuanto nos dé el visto bueno.
+prague_escape_load,38.6,39.5,^2Price: ^7 ¿Ve algo? 
+prague_escape_load,40,43.5,^2Soap: ^7 No hay ni Dios. Parece que Makarov llega tarde a su propio funeral.
+prague_escape_load,44.5,47.8,^2Price: ^7Espere a que tengamos vía libre. Después podrá llenarlo de plomo si le apetece.
+prague_escape_load,48,50,^2Soap: ^7 Con un tiro me sobra.
+prologue_select_load,12.5,18.5,^2Price: ^7El mundo conocido... ya no existe. ¿Hasta dónde llegaría para recuperarlo?
+prologue_select_load,20,23.5,^2Price: ^7 Shepherd creó una guerra... y nosotros sabíamos la verdad.
+prologue_select_load,26.5,28.5,^2Price: ^7¡Nikolai! ¡Saquemos a Soap de aquí!
+prologue_select_load,29.5,31.5,^2Nikolai: ^7 Da. Conozco un lugar.
+rescue_2_load,9,12.5,^2Sandman: ^7Hemos perdido a la chica. Parece que se la han llevado a una mina de diamantes de Siberia. 
+rescue_2_load,13,18.6,^2Price: ^7Tenemos una oportunidad para coger al presidente antes de que revele los códigos de lanzamiento y Makarov acabe con Europa.
+rescue_2_load,19,21.5,^2Price: ^7La fiesta se va a animar en cuanto pisemos tierra firme.
+rescue_2_load,22,23.5,"^2Sandman: ^7Procuraré no dejarlo atrás, viejo."
+rescue_2_load,23.7,29.5,"^2Price: ^7A los yanquis les encanta llevarse el mérito, así que Yuri y yo mantendremos a raya a los vecinos mientras ustedes rescatan a los rehenes."
+rescue_2_load,30,33,^2Sandman: ^7Bien. Afinen la puntería. Nadie quiere un rehén muerto.
+rescue_2_load,33.5,34.5,"^2Truck: ^7¿Cómo está la cosa, jefe?"
+rescue_2_load,34.8,35.8,^2Sandman: ^7Todos son enemigos.
+rescue_2_load,36,37.5,^2Grinch: ^7Y que lo diga.
+sp_berlin_load,0,0,^2Sandman: ^7 Conécteme con esa línea.
+sp_berlin_load,0,0,^2Grinch: ^7 Podemos matar a cualquiera sin coleta...
+sp_berlin_load,8.5,15.5,"^2Overlord: ^7Makarov ha seguido a la hija de Vorshevsky hasta Berlín. Si encuentran a la chica, él no tardará en revelar los códigos nucleares."
+sp_berlin_load,15.8,17.2,^2Sandman: ^7 ¿Tenemos su ubicación exacta?
+sp_berlin_load,17.3,18.5,^2Battle Captain: ^7 Triangulando.
+sp_berlin_load,19.5,22,^2Overlord: ^7Los tiradores de la ISA han interceptado su llamada.
+sp_berlin_load,22.5,25.2,"^2Battle Captain: ^7Le paso en 3, 2, 1..."
+sp_berlin_load,25.3,26,^2Sandman: ^7¿Alena Vorshevsky?
+sp_berlin_load,26.5,27.5,^2Alena: ^7 ¿Quién es?
+sp_berlin_load,27.6,30,^2Sandman: ^7Fuerzas especiales estadounidenses. ¿Habla mi idioma?
+sp_berlin_load,31,33.6,^2Alena: ^7Sí. Mi escolta ha muerto. Vienen a por mí. 
+sp_berlin_load,34,36.5,^2Sandman: ^7Mantenga la calma. Vamos a buscarla. ¿Dónde se encuentra?
+sp_berlin_load,37,38.5,^2Alena: ^7 Armario. Suite de la quinta planta.
+sp_berlin_load,38.6,39.5,^2Sandman: ^7 ¿En qué lado?
+sp_berlin_load,40,46,^2Alena: ^7No lo sé. En el edificio de enfrente hay un letrero de Reisdorf en el techo. ¡Dense prisa!
+sp_berlin_load,46.2,49.8,^2Sandman: ^7Bien. Cuelgue el teléfono y no se mueva. Iremos a buscarla.
+sp_berlin_load,50.3,54,^2Sandman: ^7Athena sigue con nosotros. Estad atentos y tened cuidado al disparar. 
+sp_dubai_load,13.5,20,"^2Price: ^7 En el fondo, la guerra es sencilla. El único secreto es atacar. Si uno se atreve, el mundo cede."
+sp_dubai_load,23,30,^2Price: ^7 Con qué rapidez se olvida que para cambiar el curso de la historia solo se necesita... la voluntad de un hombre.
+sp_dubai_load,32,33,^2Makarov: ^7 ¿Quién es?
+sp_dubai_load,33.1,37,^2Price: ^7 El prisionero 6-2-7. Voy a por usted.
+sp_dubai_load,37.2,40.5,"^2Makarov: ^7 La guerra ha terminado, ¿no se ha enterado?"
+sp_dubai_load,40.6,42,^2Price: ^7 La mía termina con usted.
+sp_dubai_load,42.5,48.5,"^2Makarov: ^7 ¿Como terminó para el capitán MacTavish? Dígame, Price, ¿cuánto tardó en morir?"
+sp_dubai_load,49.5,55,^2Makarov: ^7 He destruido su mundo poco a poco. Encontrarlo solo es cuestión de tiempo.
+sp_dubai_load,55.5,57,^2Price: ^7 No tendrá que buscar lejos...
+sp_intro_load,0.5,5.5,^2Overlord: ^7 A todos los aliados: ya no estamos a la defensiva. Repito: agrúpense y contraataquen.
+sp_intro_load,6.5,10.5,^2Green Beret: ^7 ¡Aquí ODA Foxtrot! ¡Los rusos dejan de atacar! ¡Les hemos hecho huir!
+sp_intro_load,15.5,23,"^2Price: ^7Más allá de la guerra, todavía quedaban rusos que rechazaban la locura de Makarov; hombres dispuestos a ir contracorriente."
+sp_intro_load,24,28,"^2Nikolai: ^7 Price, tenemos constantes vitales, pero débiles. Soap no aguantará sin atención médica."
+sp_intro_load,28.5,30.5,^2Price: ^7 Es un cabrón resistente. Aguantará.
+sp_intro_load,31,32.5,^2Loyalist: ^7Señales aproximándose.
+sp_intro_load,32.7,33.8,^2Nikolai: ^7Tenemos compañía.
+sp_intro_load,34,36,^2Price: ^7Es Makarov. Está atando cabos sueltos.
+sp_intro_load,36.3,37.5,^2Price: ^7¿Quién es su mejor hombre?
+sp_intro_load,37.6,42.5,^2Nikolai: ^7Yuri. Fue Spetsnaz. Es la única persona que odia a Makarov más que usted.
+sp_intro_load,42.8,43.5,^2Price: ^7Llámelo.
+sp_intro_load,43.6,46.5,^2Price: ^7Se ocultarán tras los riscos y llegarán desde el sur.
+sp_intro_load,46.9,47.5,^2Nikolai: ^7¿Cómo lo sabe?
+sp_intro_load,47.8,49,^2Price: ^7Es lo que yo haría.
+sp_ny_harbor_load,13,18.2,^2F-22 Pilot: ^7Aquí Lightning 3-1. Sistemas de guía de nuevo en línea. A la espera con un cargamento de JDAM. Solicito permiso.
+sp_ny_harbor_load,18.5,20.5,"^2Overlord: ^7Lightning 3-1, permiso para atacar."
+sp_ny_harbor_load,21,23,^2F-22 Pilot: ^7Descendiendo. Ataque en 5 segundos.
+sp_ny_harbor_load,23.5,24.5,^2F-22 Pilot: ^7 Armas lanzadas.
+sp_ny_harbor_load,30.5,32.3,^2Overlord: ^7 Verifique los impactos con el Predator.
+sp_ny_harbor_load,34,36,"^2Battle Captain: ^7 Señor, blancos neutralizados."
+sp_ny_harbor_load,37.5,41.5,^2Overlord: ^7 Buen trabajo. Hemos recuperado el dominio aéreo y hemos hecho retroceder el frente.
+sp_ny_harbor_load,42,43,^2Sandman: ^7¿Siguiente blanco?
+sp_ny_harbor_load,43.1,51,^2Overlord: ^7 El buque de mando ruso es un submarino de clase Oscar-II con misiles suficientes para arrasar toda la costa este. Debemos golpear antes de que puedan lanzar un contraataque.
+sp_ny_harbor_load,51.5,52.5,^2Sandman: ^7 Recibido. ¿Cuál es la misión?
+sp_ny_harbor_load,53,60,"^2Overlord: ^7Infíltrese en el buque, tome el puente y utilice las armas contra su propia flota. Conéctese con los SEAL y ejecute el plan. Suerte."
+sp_ny_harbor_load,61,62,^2 ^7
+sp_ny_harbor_load,62.5,63.5,^2Grinch: ^7 ¿Por dónde entramos?
+sp_ny_harbor_load,64,65.2,^2Sandman: ^7Por el túnel de Brooklyn-Battery.
+sp_ny_harbor_load,65.5,66.6,^2Truck: ^7Creí que se había colapsado.
+sp_ny_harbor_load,67,67.5,^2Sandman: ^7 Así es.
+sp_ny_manhattan_load,11.5,13.5,^2Pilot: ^7 Aquí Lightning 1-1. ¡Nos han dado! ¡Nos han dado!
+sp_ny_manhattan_load,14,15.5,^2Overlord: ^7 ¿Tenemos noticias de Nueva York?
+sp_ny_manhattan_load,16,20.5,"^2Battle Captain: ^7 Mientras controlen el cielo, será una lucha perdida. Los inhibidores rusos neutralizan nuestro apoyo aéreo."
+sp_ny_manhattan_load,20.5,21.8,^2Overlord: ^7No podemos perder Nueva York.
+sp_ny_manhattan_load,22,24.8,^2Overlord: ^7 ¿Hay fuerzas especiales en la zona que puedan ayudarnos?
+sp_ny_manhattan_load,25,28,^2Battle Captain: ^7 Hay un equipo de la Delta Force en Bennett Field. Código Metal.
+sp_ny_manhattan_load,28.5,30.5,"^2Battle Captain: ^7 Overlord, contacto con Metal 0-1."
+sp_ny_manhattan_load,31,33.8,^2Sandman: ^7 Aquí Sandman. Tengo entendido que necesitan ayuda. Cambio.
+sp_ny_manhattan_load,34,35.8,^2Overlord: ^7Me alegro de contar con ustedes.
+sp_ny_manhattan_load,36,40,^2Overlord: ^7Los rusos están usando contramedidas electrónicas para interferir en nuestros sistemas.
+sp_ny_manhattan_load,40.3,45,^2Overlord: ^7 La emisora principal está en el tejado del edificio de la Bolsa. Necesito que sea destruída.
+sp_ny_manhattan_load,45.5,49,^2Overlord: ^7La radio no podrá ser utilizada hasta que el inhibidor haya sido destruido.
+sp_ny_manhattan_load,49.2,51.5,^2Overlord: ^7Nosotros los acercaremos por tierra. Cambio.
+sp_ny_manhattan_load,52,53.5,"^2Sandman: ^7 Bien, cuente con nosotros."
+sp_paris_a_load,8.5,9.8,"^2Operator: ^7 Identifíquese, por favor."
+sp_paris_a_load,10.3,14.5,^2Price: ^7Código de acceso Vikingo Negro. Quiero una línea segura con el operativo Metal 0-1.
+sp_paris_a_load,15.3,17.5,"^2Sandman: ^7 Price, gracias por el soplo de Kingfish."
+sp_paris_a_load,17.8,20.5,^2Sandman: ^7 ¿Sabe que el tío Sam ha emitido una orden de busca y captura contra usted?
+sp_paris_a_load,20.7,22,^2Price: ^7Que se ponga a la cola. 
+sp_paris_a_load,22.5,27.8,"^2Price: ^7Volk, el fabricante de bombas de Makarov, está en París. Hay que actuar enseguida. Yo no llegaré a tiempo."
+sp_paris_a_load,28,29.5,^2Price: ^7 Solo puedo confiar en usted. 
+sp_paris_a_load,29.9,30.5,^2Sandman: ^7 Me encargaré.
+sp_paris_a_load,30.9,36.8,^2Price: ^7El cabrón usaba Fregata Industries como tapadera para distribuir armas de destrucción masiva. Voy a su sede europea.
+sp_paris_a_load,37,42.8,"^2Overlord: ^7Las fuerzas francesas han localizado a Volk. El GIGN lo sitúa tras las líneas enemigas, pero están inmovilizados. "
+sp_paris_a_load,43,44,^2Sandman: ^7 ¿Y quiere que los liberemos?
+sp_paris_a_load,44.8,48,"^2Overlord: ^7 Persiga al objetivo a discreción, pero capture vivo a Volk."
+sp_paris_b_load,8,9.7,^2Sandman: ^7 Comprobando toxinas. Esperen.
+sp_paris_b_load,19.5,24.5,"^2Sandman: ^7 Contaminación negativa en esta zona. Quítense las máscaras, pero abran bien los ojos."
+sp_payback_load,0,0,^2Baseplate: ^7 La dirige una alimaña llamada Waraabe.
+sp_payback_load,10,13.5,"^2SAS Intel Officer: ^7Señor, alguien al teléfono quiere hablar con usted sobre los ataques químicos."
+sp_payback_load,14,15,^2Baseplate: ^7 Identifíquese.
+sp_payback_load,15.4,17,"^2Price: ^7Mac, soy John."
+sp_payback_load,18.5,21.5,^2Baseplate: ^7Hemos inscrito muchos nombres en la torre del reloj... 
+sp_payback_load,21.8,26.8,^2Price: ^7Fue Makarov; ese cabrón se me escurrió de los dedos en Sierra Leona. ¿Qué sabe el MI6?
+sp_payback_load,27,31.2,"^2Baseplate: ^7 Está en la lista negra de todo el mundo, John. No puedo darle esa información."
+sp_payback_load,31.3,32.2,^2Price: ^7 ¡No me venga con eso!
+sp_payback_load,32.3,35.4,^2Price: ^7 Aún me debe una por lo de Pripyat. Salde su deuda.
+sp_payback_load,35.8,37.2,"^2Baseplate: ^7Tranquilo, hijo..."
+sp_payback_load,37.5,42.2,"^2Baseplate: ^7Está bien. El carguero pertenecía a una organización de Boosaaso, Somalia."
+sp_payback_load,42.3,44.9,^2Baseplate: ^7 La dirige un elemento de cuidado llamado Waraabe.
+sp_payback_load,45.2,50,"^2Baseplate: ^7Estoy ocupado con el follón que tenemos en casa, así que está solo. Buena caza."
+sp_payback_load,50.9,52,^2Soap: ^7 ¿Qué medidas de seguridad tienen?
+sp_payback_load,52.5,55.7,^2Price: ^7De segunda. El recinto está custodiado por matones locales.
+sp_payback_load,56,59.4,^2Soap: ^7Nos verán llegar a un kilómetro. La discreción queda descartada.
+sp_payback_load,60,61.5,^2Price: ^7 Pues tendremos que echar la puerta abajo.
+sp_payback_load,62,63.5,^2Price: ^7 Dígale a Nikolai que se prepare.
+sp_prague_load,0,0,^2Price: ^7 Makarov está ganando adeptos rápidamente.
+sp_prague_load,8,9,^2Price: ^7 ¿Ha hablado?
+sp_prague_load,9.5,10.5,^2Sandman: ^7 Siempre lo hacen.
+sp_prague_load,11,15.5,"^2Sandman: ^7Tenemos nombres, fechas, lugares. Nos lo ha dado todo... incluso Fregata."
+sp_prague_load,16,17.5,"^2Sandman: ^7 Parece que estaba en lo cierto, capitán."
+sp_prague_load,18,19.5,^2Price: ^7 Makarov ya está haciendo amigos.
+sp_prague_load,20.5,26.5,"^2Sandman: ^7Piensa reunirse con sus asesores dentro de seis horas en el hotel Lustig, en pleno centro de Praga. Junto a la plaza vieja."
+sp_prague_load,26.8,30.5,"^2Sandman: ^7Asignamos grupos de nivel 1 a este operativo, pero no llegarán a tiempo."
+sp_prague_load,30.6,31.5,^2Sandman: ^7 Usted está cerca. 
+sp_prague_load,32,32.8,^2Price: ^7 Mucho.
+sp_prague_load,33,34.3,^2Price: ^7 Lo avisaré cuando terminemos.
+sp_prague_load,34.5,39.5,^2Yuri: ^7 ¿Toda la plantilla de Makarov en plena zona de guerra? Pero qué oportuno.
+sp_prague_load,40,41.5,^2Price: ^7 No se confíe o se volverá descuidado.
+sp_prague_load,42,46.5,"^2Price: ^7 Nos infiltraremos por dos rutas separadas. Soap, usted y Yuri irán a la iglesia y nos cubrirán desde allí."
+sp_prague_load,47,49.7,^2Soap: ^7 La ciudad está muy vigilada. Necesitamos una vía trasera.
+sp_prague_load,50.5,51.5,^2Price: ^7 Déjemelo a mí. 
+sp_warlord_load,8.5,15.5,^2News Reporter: ^7El presidente ruso no acudió a su cita en la cumbre por la paz de Hamburgo. Su desaparición podría tener repercusiones en el diálogo para el armisticio...
+sp_warlord_load,16,17.5,^2Soap: ^7 Creo que Makarov ya ha jugado su próxima baza.
+sp_warlord_load,18,20.6,"^2Price: ^7Si ha asomado la cabeza, es que no tiene intención de esconderse."
+sp_warlord_load,21,22,^2Soap: ^7 ¿Por dónde buscamos?
+sp_warlord_load,22.5,23.2,^2Yuri: ^7 Por África.
+sp_warlord_load,23.3,27.8,^2Yuri: ^7 Makarov ha utilizado paramilitares para enviar cargamentos a Sierra Leona.
+sp_warlord_load,28,31,"^2Yuri: ^7Desde allí los traslada a Marruecos, y luego a España."
+sp_warlord_load,31.5,32.5,^2Soap: ^7 Los lleva hacia el norte...
+sp_warlord_load,32.8,36,^2Price: ^7 Justo hasta la puerta de su majestad. ¿Cuál es la carga?
+sp_warlord_load,36.2,37,^2Yuri: ^7No lo sé.
+sp_warlord_load,37.5,39,^2Yuri: ^7Pero es importante para él.
+sp_warlord_load,39.5,40.2,^2Price: ^7 Pues los quiero.
+sp_warlord_load,40.5,44.8,^2Soap: ^7Podemos acercarnos por el río. Hay una fábrica en el campamento donde almacenan el material.
+sp_warlord_load,45,49.5,^2Soap: ^7La milicia lleva meses exterminando a la etnia de las montañas. Eso está infestado.
+sp_warlord_load,50,53.5,^2Price: ^7Makarov no tomaría tantas precauciones si esto no tuviera un propósito.
+sp_warlord_load,54,57.5,^2Price: ^7 Y es posible que ese cabronazo lo supervise todo personalmente.
+sp_warlord_load,58,60.5,"^2Price: ^7 Pues si asoma la cabeza, se la volaremos."
+warlord_load,0,0,^2Price: ^7 Alto el fuego. Son demasiados.
