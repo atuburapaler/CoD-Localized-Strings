@@ -1,0 +1,154 @@
+// Dumped from fastfile "en_zm_prison".
+// In their original format the strings might have been separated in multiple files.
+VERSION             "1"
+CONFIG              "C:/projects/cod/t6/bin/StringEd.cfg"
+FILENOTES           ""
+
+REFERENCE           ZM_CRAFTABLES_CHANGE_BUILD
+LANG_ENGLISH        "Press [{+actionslot 1}] or [{+actionslot 2}] to change item"
+
+REFERENCE           ZM_CRAFTABLES_PIECE_NO_SWITCH
+LANG_ENGLISH        "Already carrying a piece."
+
+REFERENCE           ZM_PRISON_ACID_GAT_KIT
+LANG_ENGLISH        "Acid Gat Kit"
+
+REFERENCE           ZM_PRISON_ACID_TRAP
+LANG_ENGLISH        "Hold ^3[{+activate}]^7 to activate Acid Trap [Cost: &&1]"
+
+REFERENCE           ZM_PRISON_ACID_TRAP_UNAVAILABLE
+LANG_ENGLISH        "Acid Trap Unavailable"
+
+REFERENCE           ZM_PRISON_AFTERLIFE_DOOR
+LANG_ENGLISH        "Door needs power"
+
+REFERENCE           ZM_PRISON_AFTERLIFE_HOWTO
+LANG_ENGLISH        "Press ^3[{+attack}]^7 to shock"
+
+REFERENCE           ZM_PRISON_AFTERLIFE_HOWTO_2
+LANG_ENGLISH        "Press ^3[{+gostand}]^7 to levitate"
+
+REFERENCE           ZM_PRISON_AFTERLIFE_INTERACT
+LANG_ENGLISH        "Shock to turn on power"
+
+REFERENCE           ZM_PRISON_AFTERLIFE_KILL
+LANG_ENGLISH        "Hold ^3[{+activate}]^7 to enter Afterlife"
+
+REFERENCE           ZM_PRISON_AFTERLIFE_OVERLOAD
+LANG_ENGLISH        "Shock to overload"
+
+REFERENCE           ZM_PRISON_BAD
+LANG_ENGLISH        "THE CYCLE CONTINUES..."
+
+REFERENCE           ZM_PRISON_CALL_GONDOLA
+LANG_ENGLISH        "Hold ^3[{+activate}]^7 to call Gondola"
+
+REFERENCE           ZM_PRISON_CONVERT_PICKUP
+LANG_ENGLISH        "Hold [{+activate}] to take your converted weapon"
+
+REFERENCE           ZM_PRISON_CONVERT_START
+LANG_ENGLISH        "Hold [{+activate}] to convert Blundergat into Acidgat"
+
+REFERENCE           ZM_PRISON_CRAFT_PACKASPLAT
+LANG_ENGLISH        "Hold ^3[{+activate}]^7 to craft Blundergat Upgrade"
+
+REFERENCE           ZM_PRISON_CRAFT_PLANE
+LANG_ENGLISH        "Hold ^3[{+activate}]^7 to craft Plane"
+
+REFERENCE           ZM_PRISON_CRAFT_RIOT
+LANG_ENGLISH        "Hold ^3[{+activate}]^7 to craft Zombie Shield"
+
+REFERENCE           ZM_PRISON_CRAFTING_PLANE
+LANG_ENGLISH        "Part added to Plane"
+
+REFERENCE           ZM_PRISON_ELECTRIC_CHAIR_ACTIVATE
+LANG_ENGLISH        "Press ^3[{+activate}]^7 to activate Electric Chair"
+
+REFERENCE           ZM_PRISON_FAN_TRAP
+LANG_ENGLISH        "Hold ^3[{+activate}]^7 to activate Fan Trap [Cost: &&1]"
+
+REFERENCE           ZM_PRISON_FAN_TRAP_UNAVAILABLE
+LANG_ENGLISH        "Fan Trap Unavailable"
+
+REFERENCE           ZM_PRISON_GONDOLA_ACTIVE
+LANG_ENGLISH        "The Gondola is active"
+
+REFERENCE           ZM_PRISON_GONDOLA_COOLDOWN
+LANG_ENGLISH        "The Gondola is recharging"
+
+REFERENCE           ZM_PRISON_GONDOLA_REQUIRES_POWER
+LANG_ENGLISH        "Gondola requires Power"
+
+REFERENCE           ZM_PRISON_GOOD
+LANG_ENGLISH        "THE CYCLE IS BROKEN."
+
+REFERENCE           ZM_PRISON_KEY_DOOR
+LANG_ENGLISH        "Hold ^3[{+activate}]^7 to open"
+
+REFERENCE           ZM_PRISON_KEY_DOOR_LOCKED
+LANG_ENGLISH        "Need Warden's Key"
+
+REFERENCE           ZM_PRISON_LAUNDRY_MACHINE_ACTIVATE
+LANG_ENGLISH        "Press ^3[{+activate}]^7 to activate Laundry Machine"
+
+REFERENCE           ZM_PRISON_LIFE_OVER
+LANG_ENGLISH        "LIFE OVER"
+
+REFERENCE           ZM_PRISON_MISSING_BLUNDERGAT
+LANG_ENGLISH        "Blundergat Required"
+
+REFERENCE           ZM_PRISON_MOVE_GONDOLA
+LANG_ENGLISH        "Hold ^3[{+activate}]^7 to use Gondola [Cost: &&1]"
+
+REFERENCE           ZM_PRISON_OUT_OF_LIVES
+LANG_ENGLISH        "No Afterlife Remaining"
+
+REFERENCE           ZM_PRISON_PERK_CHERRY
+LANG_ENGLISH        "Hold ^3[{+activate}]^7 to buy Electric Cherry [Cost: &&1]"
+
+REFERENCE           ZM_PRISON_PLANE_BEGIN_TAKEOFF
+LANG_ENGLISH        "Press ^3[{+activate}]^7 to begin take-off sequence"
+
+REFERENCE           ZM_PRISON_PLANE_BOARD
+LANG_ENGLISH        "Press ^3[{+activate}]^7 to board plane"
+
+REFERENCE           ZM_PRISON_PLANE_PARTS
+LANG_ENGLISH        "Plane Parts"
+
+REFERENCE           ZM_PRISON_REFUEL_PLANE
+LANG_ENGLISH        "Hold ^3[{+activate}]^7 to refuel Plane"
+
+REFERENCE           ZM_PRISON_REFUELING_PLANE
+LANG_ENGLISH        "Fuel added to Plane"
+
+REFERENCE           ZM_PRISON_RIOTSHIELD_ATTACK
+LANG_ENGLISH        "Press ^3[{+melee}]^7 to attack with Shield"
+
+REFERENCE           ZM_PRISON_RIOTSHIELD_DEPLOY
+LANG_ENGLISH        "Press ^3[{+attack}]^7 to deploy Shield"
+
+REFERENCE           ZM_PRISON_SHIELD
+LANG_ENGLISH        "Shield"
+
+REFERENCE           ZM_PRISON_SQ_BG
+LANG_ENGLISH        "Hold ^3[{+activate}]^7 to pick up Blundergat"
+
+REFERENCE           ZM_PRISON_SQ_BS
+LANG_ENGLISH        "Hold ^3[{+activate}]^7 to pick up Acid Gat"
+
+REFERENCE           ZM_PRISON_TOMAHAWK_PICKUP
+LANG_ENGLISH        "Hold ^3[{+activate}]^7 to pick up Hell's Retriever"
+
+REFERENCE           ZM_PRISON_TOMAHAWK_TUTORIAL
+LANG_ENGLISH        "Press ^3[{+smoke}]^7 to Throw the Retriever"
+
+REFERENCE           ZM_PRISON_TOMAHAWK_UPGRADED_PICKUP
+LANG_ENGLISH        "Hold ^3[{+activate}]^7 to pick up Hell's Redeemer"
+
+REFERENCE           ZM_PRISON_TOWER_TRAP
+LANG_ENGLISH        "Hold ^3[{+activate}]^7 to activate Tower Trap [Cost: &&1]"
+
+REFERENCE           ZM_PRISON_WEAPON_THOMPSON
+LANG_ENGLISH        "Hold ^3[{+activate}]^7 to buy Tommy Gun [Cost: &&1]"
+
+ENDMARKER

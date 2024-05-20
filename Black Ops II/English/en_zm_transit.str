@@ -1,0 +1,34 @@
+// Dumped from fastfile "en_zm_transit".
+// In their original format the strings might have been separated in multiple files.
+VERSION             "1"
+CONFIG              "C:/projects/cod/t6/bin/StringEd.cfg"
+FILENOTES           ""
+
+REFERENCE           ZOMBIE_TRANSIT_BUS_CLIMB_ROOF
+LANG_ENGLISH        "Hold ^3[{+activate}]^7 To Climb To the Roof"
+
+REFERENCE           ZOMBIE_TRANSIT_CLOSE_BUS_DOOR
+LANG_ENGLISH        "Hold ^3[{+activate}]^7 To Close"
+
+REFERENCE           ZOMBIE_TRANSIT_EMERGENCY_EXIT
+LANG_ENGLISH        "Hold ^3[{+activate}]^7 For Emergency Exit"
+
+REFERENCE           ZOMBIE_TRANSIT_ENGINE_OVERHEAT
+LANG_ENGLISH        "Engine overheated, waiting for cooldown"
+
+REFERENCE           ZOMBIE_TRANSIT_ENTER_BUNKER
+LANG_ENGLISH        "Hold ^3[{+activate}]^7 To enter bunker"
+
+REFERENCE           ZOMBIE_TRANSIT_HATCH_DOWN
+LANG_ENGLISH        "Hold ^3[{+activate}]^7 To go down"
+
+REFERENCE           ZOMBIE_TRANSIT_HATCH_UP
+LANG_ENGLISH        "Hold ^3[{+activate}]^7 To go up"
+
+REFERENCE           ZOMBIE_TRANSIT_OPEN_BUS_DOOR
+LANG_ENGLISH        "Hold ^3[{+activate}]^7 To Open"
+
+REFERENCE           ZOMBIE_TRANSIT_PURCHASE_BUS
+LANG_ENGLISH        "Press ^3[{+activate}]^7 to start the bus [Cost: &&1]"
+
+ENDMARKER

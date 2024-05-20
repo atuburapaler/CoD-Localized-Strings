@@ -1,0 +1,244 @@
+// Dumped from fastfile "en_zm_tomb".
+// In their original format the strings might have been separated in multiple files.
+VERSION             "1"
+CONFIG              "C:/projects/cod/t6/bin/StringEd.cfg"
+FILENOTES           ""
+
+REFERENCE           ZM_CRAFTABLES_CHANGE_BUILD
+LANG_ENGLISH        "Press [{+actionslot 1}] or [{+actionslot 2}] to change item"
+
+REFERENCE           ZM_CRAFTABLES_PIECE_NO_SWITCH
+LANG_ENGLISH        "Already carrying a piece."
+
+REFERENCE           ZM_TOMB_BOA
+LANG_ENGLISH        "You have received the Wind Staff"
+
+REFERENCE           ZM_TOMB_BOF
+LANG_ENGLISH        "You have received the Fire Staff"
+
+REFERENCE           ZM_TOMB_BOL
+LANG_ENGLISH        "You have received the Lightning Staff"
+
+REFERENCE           ZM_TOMB_BOR
+LANG_ENGLISH        "Hold ^3[{+activate}]^7 to pick up the Lightning Rod"
+
+REFERENCE           ZM_TOMB_BOW
+LANG_ENGLISH        "You have received the Ice Staff"
+
+REFERENCE           ZM_TOMB_CAP
+LANG_ENGLISH        "Hold ^3[{+activate}]^7 to power the area using the 115 generator [Cost: &&1]"
+
+REFERENCE           ZM_TOMB_CH1
+LANG_ENGLISH        "Perform 115 Normal Zombie Headshots"
+
+REFERENCE           ZM_TOMB_CH2
+LANG_ENGLISH        "Capture 6 Generators"
+
+REFERENCE           ZM_TOMB_CH3
+LANG_ENGLISH        "Spend 30000 Points"
+
+REFERENCE           ZM_TOMB_CH_G
+LANG_ENGLISH        "Hold ^3[{+activate}]^7 to take reward"
+
+REFERENCE           ZM_TOMB_CH_O
+LANG_ENGLISH        "Hold ^3[{+activate}]^7 to open box"
+
+REFERENCE           ZM_TOMB_CH_S
+LANG_ENGLISH        "Hold ^3[{+activate}]^7 to select this reward"
+
+REFERENCE           ZM_TOMB_CH_V
+LANG_ENGLISH        "Look at medal to view challenge"
+
+REFERENCE           ZM_TOMB_CHT
+LANG_ENGLISH        "Fill 4 chests to capacity"
+
+REFERENCE           ZM_TOMB_CRA
+LANG_ENGLISH        "Hold ^3[{+activate}]^7 to craft the Wind Staff"
+
+REFERENCE           ZM_TOMB_CRB
+LANG_ENGLISH        "Hold ^3[{+activate}]^7 to craft the Artillery Homing Beacon"
+
+REFERENCE           ZM_TOMB_CRF
+LANG_ENGLISH        "Hold ^3[{+activate}]^7 to craft the Fire Staff"
+
+REFERENCE           ZM_TOMB_CRL
+LANG_ENGLISH        "Hold ^3[{+activate}]^7 to craft the Lightning Staff"
+
+REFERENCE           ZM_TOMB_CRQ
+LANG_ENGLISH        "Hold ^3[{+activate}]^7 to craft the Maxis Drone"
+
+REFERENCE           ZM_TOMB_CRRI
+LANG_ENGLISH        "Hold ^3[{+activate}]^7 to craft the Zombie Shield"
+
+REFERENCE           ZM_TOMB_CRRO
+LANG_ENGLISH        "Hold ^3[{+activate}]^7 to craft the Lightning Rod"
+
+REFERENCE           ZM_TOMB_CRS
+LANG_ENGLISH        "Hold ^3[{+activate}]^7 to craft the Staff"
+
+REFERENCE           ZM_TOMB_CRW
+LANG_ENGLISH        "Hold ^3[{+activate}]^7 to craft the Ice Staff"
+
+REFERENCE           ZM_TOMB_DIHO
+LANG_ENGLISH        "Press ^3[{+actionslot 1}]^7 to use Maxis Drone"
+
+REFERENCE           ZM_TOMB_DIHS
+LANG_ENGLISH        "Hold ^3[{+activate}]^7 to pick up Maxis Drone"
+
+REFERENCE           ZM_TOMB_EHT
+LANG_ENGLISH        "Press ^3[{+activate}]^7 to exit the Robot Head"
+
+REFERENCE           ZM_TOMB_EQUIPMENT
+LANG_ENGLISH        "Musical Parts"
+
+REFERENCE           ZM_TOMB_GREL
+LANG_ENGLISH        "Gramophone is placed elsewhere"
+
+REFERENCE           ZM_TOMB_INAS
+LANG_ENGLISH        "Hold ^3[{+activate}]^7 to insert Wind Staff"
+
+REFERENCE           ZM_TOMB_INFS
+LANG_ENGLISH        "Hold ^3[{+activate}]^7 to insert Fire Staff"
+
+REFERENCE           ZM_TOMB_INLS
+LANG_ENGLISH        "Hold ^3[{+activate}]^7 to insert Lightning Staff"
+
+REFERENCE           ZM_TOMB_INS
+LANG_ENGLISH        "Hold ^3[{+activate}]^7 to insert the Elemental Crystal"
+
+REFERENCE           ZM_TOMB_INWS
+LANG_ENGLISH        "Hold ^3[{+activate}]^7 to insert Ice Staff"
+
+REFERENCE           ZM_TOMB_MAXIS_AUDIOLOG
+LANG_ENGLISH        "Hold ^3[{+activate}]^7 to play Audio Log"
+
+REFERENCE           ZM_TOMB_NS
+LANG_ENGLISH        "Need shovel to dig"
+
+REFERENCE           ZM_TOMB_OSO
+LANG_ENGLISH        "You may only carry one staff"
+
+REFERENCE           ZM_TOMB_PERK_ONEINCH
+LANG_ENGLISH        "Hold ^3[{+activate}]^7 to buy One Inch Punch [Cost: &&1]"
+
+REFERENCE           ZM_TOMB_PLAY_RECORD
+LANG_ENGLISH        "Hold ^3[{+activate}]^7 to Play Record"
+
+REFERENCE           ZM_TOMB_PLBT
+LANG_ENGLISH        "Hold ^3[{+activate}]^7 to place Tablet"
+
+REFERENCE           ZM_TOMB_PLCT
+LANG_ENGLISH        "Hold ^3[{+activate}]^7 to place Tablet"
+
+REFERENCE           ZM_TOMB_PLGR
+LANG_ENGLISH        "Hold ^3[{+activate}]^7 to Place Gramophone"
+
+REFERENCE           ZM_TOMB_PRESS_X_TO_TELEPORT
+LANG_ENGLISH        "Hold ^3[{+activate}]^7 to Eject"
+
+REFERENCE           ZM_TOMB_PUAS
+LANG_ENGLISH        "Hold ^3[{+activate}]^7 to swap for Wind Staff"
+
+REFERENCE           ZM_TOMB_PUBT
+LANG_ENGLISH        "Hold ^3[{+activate}]^7 to pick up Tablet\n"
+
+REFERENCE           ZM_TOMB_PUCT
+LANG_ENGLISH        "Hold ^3[{+activate}]^7 to pick up Tablet"
+
+REFERENCE           ZM_TOMB_PUFS
+LANG_ENGLISH        "Hold ^3[{+activate}]^7 to swap for Fire Staff"
+
+REFERENCE           ZM_TOMB_PUGR
+LANG_ENGLISH        "Hold ^3[{+activate}]^7 to Pick Up Gramophone"
+
+REFERENCE           ZM_TOMB_PUIS
+LANG_ENGLISH        "Hold ^3[{+activate}]^7 to swap for Ice Staff"
+
+REFERENCE           ZM_TOMB_PULS
+LANG_ENGLISH        "Hold ^3[{+activate}]^7 to swap for Lightning Staff"
+
+REFERENCE           ZM_TOMB_QUADROTOR
+LANG_ENGLISH        "Maxis Drone"
+
+REFERENCE           ZM_TOMB_QUADROTOR_IN_USE
+LANG_ENGLISH        "Maxis Drone in use"
+
+REFERENCE           ZM_TOMB_RECAPTURE_LOCK
+LANG_ENGLISH        "Defend the generators from attack"
+
+REFERENCE           ZM_TOMB_RPB
+LANG_ENGLISH        "Hold ^3[{+activate}]^7 to buy Perk-a-Cola [Cost: &&1]"
+
+REFERENCE           ZM_TOMB_RPE
+LANG_ENGLISH        "Wunderfizz Orb is currently at another location"
+
+REFERENCE           ZM_TOMB_RPP
+LANG_ENGLISH        "Hold ^3[{+activate}]^7 to drink Perk-a-Cola"
+
+REFERENCE           ZM_TOMB_RPT
+LANG_ENGLISH        "You may only carry &&1 perks"
+
+REFERENCE           ZM_TOMB_RPU
+LANG_ENGLISH        "Power must be turned on"
+
+REFERENCE           ZM_TOMB_RU
+LANG_ENGLISH        "Correct Record Unavailable"
+
+REFERENCE           ZM_TOMB_SHAG
+LANG_ENGLISH        "You may only carry one shovel"
+
+REFERENCE           ZM_TOMB_SHPU
+LANG_ENGLISH        "Hold ^3[{+activate}]^7 to pick up the Shovel"
+
+REFERENCE           ZM_TOMB_STAFF_PARTS
+LANG_ENGLISH        "Staff Parts"
+
+REFERENCE           ZM_TOMB_TAKE_BEACON
+LANG_ENGLISH        "Hold ^3[{+activate}]^7 to take the Artillery Homing Beacon"
+
+REFERENCE           ZM_TOMB_TELE
+LANG_ENGLISH        "Hold ^3[{+activate}]^7 to access Teleporter"
+
+REFERENCE           ZM_TOMB_TELEPORT_BUY
+LANG_ENGLISH        "Hold ^3[{+activate}]^7 to access Teleporter [Cost: &&1]"
+
+REFERENCE           ZM_TOMB_TNKC
+LANG_ENGLISH        "Tank engine cooling down"
+
+REFERENCE           ZM_TOMB_TNKM
+LANG_ENGLISH        "The tank is in motion"
+
+REFERENCE           ZM_TOMB_TQ
+LANG_ENGLISH        "Hold ^3[{+activate}]^7 to take the Maxis Drone"
+
+REFERENCE           ZM_TOMB_X2AT
+LANG_ENGLISH        "Hold ^3[{+activate}]^7 to activate the Tank [Cost: &&1]"
+
+REFERENCE           ZM_TOMB_X2ATF
+LANG_ENGLISH        "Hold ^3[{+activate}]^7 to activate the Tank"
+
+REFERENCE           ZM_TOMB_X2CT
+LANG_ENGLISH        "Hold ^3[{+activate}]^7 to call the Tank [Cost: &&1]"
+
+REFERENCE           ZM_TOMB_X2D
+LANG_ENGLISH        "Hold ^3[{+activate}]^7 to Dig"
+
+REFERENCE           ZM_TOMB_X2PU
+LANG_ENGLISH        "Hold ^3[{+activate}]^7 for &&1"
+
+REFERENCE           ZM_TOMB_ZC
+LANG_ENGLISH        "Power must be turned on"
+
+REFERENCE           ZM_TOMB_ZCIP
+LANG_ENGLISH        "A 115 conversion generator is currently being powered up"
+
+REFERENCE           ZM_TOMB_ZOMBIE_SHIELD
+LANG_ENGLISH        "Zombie Shield"
+
+REFERENCE           ZM_TOMB_ZOMBIE_STAFF_PICKUP
+LANG_ENGLISH        "Hold ^3[{+activate}]^7 for Staff"
+
+REFERENCE           ZM_TOMB_ZONE_RECAPTURE_IN_PROGRESS
+LANG_ENGLISH        "A 115 conversion generator is being attacked"
+
+ENDMARKER

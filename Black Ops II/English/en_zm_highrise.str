@@ -1,0 +1,76 @@
+// Dumped from fastfile "en_zm_highrise".
+// In their original format the strings might have been separated in multiple files.
+VERSION             "1"
+CONFIG              "C:/projects/cod/t6/bin/StringEd.cfg"
+FILENOTES           ""
+
+REFERENCE           ZM_HIGHRISE_BOUGHT_KEYS
+LANG_ENGLISH        "Took Key"
+
+REFERENCE           ZM_HIGHRISE_BOUGHT_SLIPGUN
+LANG_ENGLISH        "Took Sliquifier"
+
+REFERENCE           ZM_HIGHRISE_BOUGHT_SPRINGPAD
+LANG_ENGLISH        "Took Trample Steam"
+
+REFERENCE           ZM_HIGHRISE_BUILD_KEYS
+LANG_ENGLISH        "Hold ^3[{+activate}]^7 to insert elevator key"
+
+REFERENCE           ZM_HIGHRISE_BUILD_SLIPGUN
+LANG_ENGLISH        "Hold ^3[{+activate}]^7 to add Part"
+
+REFERENCE           ZM_HIGHRISE_BUILD_SPRINGPAD
+LANG_ENGLISH        "Hold ^3[{+activate}]^7 to add Part"
+
+REFERENCE           ZM_HIGHRISE_BUILDING_KEYS
+LANG_ENGLISH        "Part Added"
+
+REFERENCE           ZM_HIGHRISE_BUILDING_SLIPGUN
+LANG_ENGLISH        "Part Added"
+
+REFERENCE           ZM_HIGHRISE_BUILDING_SPRINGPAD
+LANG_ENGLISH        "Part Added"
+
+REFERENCE           ZM_HIGHRISE_EQUIP_KEYS
+LANG_ENGLISH        "Key"
+
+REFERENCE           ZM_HIGHRISE_EQUIP_KEYS_HOWTO
+LANG_ENGLISH        "Press ^3[{+actionslot 1}]^7 to use Key"
+
+REFERENCE           ZM_HIGHRISE_EQUIP_KEYS_PICKUP_HINT_STRING
+LANG_ENGLISH        "Hold ^3[{+activate}]^7 to pick up Key"
+
+REFERENCE           ZM_HIGHRISE_EQUIP_SLIPGUN
+LANG_ENGLISH        "Sliquifier"
+
+REFERENCE           ZM_HIGHRISE_EQUIP_SLIPGUN_HOWTO
+LANG_ENGLISH        "Press ^3[{+actionslot 1}]^7 to use Sliquifier"
+
+REFERENCE           ZM_HIGHRISE_EQUIP_SLIPGUN_PICKUP_HINT_STRING
+LANG_ENGLISH        "Hold ^3[{+activate}]^7 to pick up Sliquifier"
+
+REFERENCE           ZM_HIGHRISE_EQUIP_SPRINGPAD
+LANG_ENGLISH        "Trample Steam"
+
+REFERENCE           ZM_HIGHRISE_EQUIP_SPRINGPAD_HOWTO
+LANG_ENGLISH        "Press ^3[{+actionslot 1}]^7 to use Trample Steam"
+
+REFERENCE           ZM_HIGHRISE_EQUIP_SPRINGPAD_PICKUP_HINT_STRING
+LANG_ENGLISH        "Hold ^3[{+activate}]^7 to pick up Trample Steam"
+
+REFERENCE           ZM_HIGHRISE_GRAB_KEYS
+LANG_ENGLISH        "Hold ^3[{+activate}]^7 to take Key"
+
+REFERENCE           ZM_HIGHRISE_GRAB_SLIPGUN
+LANG_ENGLISH        "Hold ^3[{+activate}]^7 to take Sliquifier"
+
+REFERENCE           ZM_HIGHRISE_GRAB_SPRINGPAD
+LANG_ENGLISH        "Hold ^3[{+activate}]^7 to take Trample Steam"
+
+REFERENCE           ZM_HIGHRISE_SQ_PICKUP_BALL
+LANG_ENGLISH        "Hold ^3[{+activate}]^7 to pick up ball"
+
+REFERENCE           ZM_HIGHRISE_SQ_PUTDOWN_BALL
+LANG_ENGLISH        "Hold ^3[{+activate}]^7 to place ball"
+
+ENDMARKER

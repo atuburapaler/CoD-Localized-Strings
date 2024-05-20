@@ -1,0 +1,166 @@
+// Dumped from fastfile "en_zm_buried".
+// In their original format the strings might have been separated in multiple files.
+VERSION             "1"
+CONFIG              "C:/projects/cod/t6/bin/StringEd.cfg"
+FILENOTES           ""
+
+REFERENCE           ZM_BURIED_BOOZE_B
+LANG_ENGLISH        "Hold ^3[{+activate}]^7 for Booze [Cost: &&1]"
+
+REFERENCE           ZM_BURIED_BOOZE_G
+LANG_ENGLISH        "Hold ^3[{+activate}]^7 for Booze"
+
+REFERENCE           ZM_BURIED_BOOZE_GV
+LANG_ENGLISH        "Hold ^3[{+activate}]^7 to give Booze"
+
+REFERENCE           ZM_BURIED_CANDY_B
+LANG_ENGLISH        "Hold ^3[{+activate}]^7 for Candy [Cost: &&1]"
+
+REFERENCE           ZM_BURIED_CANDY_G
+LANG_ENGLISH        "Hold ^3[{+activate}]^7 for Candy"
+
+REFERENCE           ZM_BURIED_CANDY_GV
+LANG_ENGLISH        "Hold ^3[{+activate}]^7 to give Candy"
+
+REFERENCE           ZM_BURIED_DRAW
+LANG_ENGLISH        "Drawing..."
+
+REFERENCE           ZM_BURIED_EQ_HC
+LANG_ENGLISH        "Head Chopper"
+
+REFERENCE           ZM_BURIED_EQ_HC_HTS
+LANG_ENGLISH        "Press ^3[{+actionslot 1}]^7 to equip Head Chopper"
+
+REFERENCE           ZM_BURIED_EQ_HC_PHS
+LANG_ENGLISH        "Hold ^3[{+activate}]^7 for Head Chopper"
+
+REFERENCE           ZM_BURIED_EQ_SP
+LANG_ENGLISH        "Trample Steam"
+
+REFERENCE           ZM_BURIED_EQ_SP_HTS
+LANG_ENGLISH        "Press ^3[{+actionslot 1}]^7 to equip Trample Steam"
+
+REFERENCE           ZM_BURIED_EQ_SP_PHS
+LANG_ENGLISH        "Hold ^3[{+activate}]^7 for Trample Steam"
+
+REFERENCE           ZM_BURIED_EQ_SW
+LANG_ENGLISH        "Subsurface Resonator"
+
+REFERENCE           ZM_BURIED_EQ_SW_HTS
+LANG_ENGLISH        "Press ^3[{+actionslot 1}]^7 to equip Subsurface Resonator"
+
+REFERENCE           ZM_BURIED_EQ_SW_PHS
+LANG_ENGLISH        "Hold ^3[{+activate}]^7 for Subsurface Resonator"
+
+REFERENCE           ZM_BURIED_GIVING
+LANG_ENGLISH        "Giving..."
+
+REFERENCE           ZM_BURIED_HINT_GHOST_PIANO
+LANG_ENGLISH        "Hold ^3[{+activate}]^7 to tip [Cost: &&1]"
+
+REFERENCE           ZM_BURIED_KEY_G
+LANG_ENGLISH        "Hold ^3[{+activate}]^7 for Key"
+
+REFERENCE           ZM_BURIED_KEYS_BL
+LANG_ENGLISH        "Hold ^3[{+activate}]^7 to unlock"
+
+REFERENCE           ZM_BURIED_PU_870MCS
+LANG_ENGLISH        "Hold ^3[{+activate}]^7 for Remington 870 MCS Chalk"
+
+REFERENCE           ZM_BURIED_PU_AK74U
+LANG_ENGLISH        "Hold ^3[{+activate}]^7 for AK74u Chalk"
+
+REFERENCE           ZM_BURIED_PU_AN94
+LANG_ENGLISH        "Hold ^3[{+activate}]^7 for AN-94 Chalk"
+
+REFERENCE           ZM_BURIED_PU_PDW57
+LANG_ENGLISH        "Hold ^3[{+activate}]^7 for PDW-57 Chalk"
+
+REFERENCE           ZM_BURIED_PU_SVU
+LANG_ENGLISH        "Hold ^3[{+activate}]^7 for SVU-AS Chalk"
+
+REFERENCE           ZM_BURIED_PU_TAZER
+LANG_ENGLISH        "Hold ^3[{+activate}]^7 for Galvaknuckles Chalk"
+
+REFERENCE           ZM_BURIED_SQ_BUT_U
+LANG_ENGLISH        "Hold ^3[{+activate}]^7 to use Bell"
+
+REFERENCE           ZM_BURIED_SQ_EGM_BUT
+LANG_ENGLISH        "Hold ^3[{+activate}]^7 to use Button"
+
+REFERENCE           ZM_BURIED_SQ_FND
+LANG_ENGLISH        "Found a switch"
+
+REFERENCE           ZM_BURIED_SQ_FOUNT_U
+LANG_ENGLISH        "Hold ^3[{+activate}]^7 to make a wish"
+
+REFERENCE           ZM_BURIED_SQ_GL_HB
+LANG_ENGLISH        "Hold ^3[{+activate}]^7 to grab part"
+
+REFERENCE           ZM_BURIED_SQ_LANTERN_G
+LANG_ENGLISH        "Hold ^3[{+activate}]^7 to pick up Lantern"
+
+REFERENCE           ZM_BURIED_SQ_NFND
+LANG_ENGLISH        "Nothing was found..."
+
+REFERENCE           ZM_BURIED_SQ_SCH
+LANG_ENGLISH        "Hold ^3[{+activate}]^7 to search body"
+
+REFERENCE           ZM_BURIED_SQ_SEARCHING
+LANG_ENGLISH        "Searching..."
+
+REFERENCE           ZM_BURIED_SQ_SWIT_U
+LANG_ENGLISH        "Hold ^3[{+activate}]^7 to use Lever"
+
+REFERENCE           ZM_BURIED_UNLOCKING
+LANG_ENGLISH        "Unlocking..."
+
+REFERENCE           ZM_BURIED_WALLBUILD
+LANG_ENGLISH        "Hold ^3[{+activate}]^7 for custom Wallbuy Chalk"
+
+REFERENCE           ZM_BURIED_WB
+LANG_ENGLISH        "Hold ^3[{+activate}]^7 for &&1 Chalk"
+
+REFERENCE           ZM_BURIED_WB_870MCS
+LANG_ENGLISH        "Hold ^3[{+activate}]^7 to draw Remington 870 MCS wallbuy"
+
+REFERENCE           ZM_BURIED_WB_AK74U
+LANG_ENGLISH        "Hold ^3[{+activate}]^7 to draw AK74u wallbuy"
+
+REFERENCE           ZM_BURIED_WB_AN94
+LANG_ENGLISH        "Hold ^3[{+activate}]^7 to draw AN-94 wallbuy"
+
+REFERENCE           ZM_BURIED_WB_BERETTA93R
+LANG_ENGLISH        "Hold ^3[{+activate}]^7 to draw B23R wallbuy"
+
+REFERENCE           ZM_BURIED_WB_BOWIE
+LANG_ENGLISH        "Hold ^3[{+activate}]^7 to draw Bowie Knife wallbuy"
+
+REFERENCE           ZM_BURIED_WB_CLAYMORE
+LANG_ENGLISH        "Hold ^3[{+activate}]^7 to draw Claymore wallbuy"
+
+REFERENCE           ZM_BURIED_WB_M14
+LANG_ENGLISH        "Hold ^3[{+activate}]^7 to draw M14 wallbuy"
+
+REFERENCE           ZM_BURIED_WB_M16
+LANG_ENGLISH        "Hold ^3[{+activate}]^7 to draw Colt M16A1 wallbuy"
+
+REFERENCE           ZM_BURIED_WB_MP5K
+LANG_ENGLISH        "Hold ^3[{+activate}]^7 to draw MP5 wallbuy"
+
+REFERENCE           ZM_BURIED_WB_PDW57
+LANG_ENGLISH        "Hold ^3[{+activate}]^7 to draw PDW-57 wallbuy"
+
+REFERENCE           ZM_BURIED_WB_STICKY
+LANG_ENGLISH        "Hold ^3[{+activate}]^7 to draw Semtex wallbuy"
+
+REFERENCE           ZM_BURIED_WB_SVU
+LANG_ENGLISH        "Hold ^3[{+activate}]^7 to draw SVU-AS wallbuy"
+
+REFERENCE           ZM_BURIED_WB_TAZER
+LANG_ENGLISH        "Hold ^3[{+activate}]^7 to draw Galvaknuckles wallbuy"
+
+REFERENCE           ZM_BURIED_WB_USRPG
+LANG_ENGLISH        "Hold ^3[{+activate}]^7 to draw RPG wallbuy"
+
+ENDMARKER
