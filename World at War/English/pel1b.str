@@ -1,0 +1,70 @@
+// Note to translators:
+// If a sentence is the same in your language then please change it to "#same"
+//
+// eg:
+// LANG_ENGLISH  "HALT"
+// LANG_GERMAN   "#same"
+//
+// (This is so we can tell which strings have been signed-off as ok to be the same words for QA
+//  and because we do not store duplicate strings, which will then get exported again next time
+//  as being untranslated.)
+//
+VERSION             "1"
+CONFIG              "C:\cod5\cod\cod5\bin\StringEd.cfg"
+FILENOTES           ""
+
+REFERENCE           OBJECTIVE_WARNING
+LANG_ENGLISH        "You must clear out anti tank position, before moving on."
+
+REFERENCE           INTROSCREEN_TITLE
+LANG_ENGLISH        "'Relentless'"
+
+REFERENCE           INTROSCREEN_PLACE
+LANG_ENGLISH        "The Point, Peleliu"
+
+REFERENCE           INTROSCREEN_DATE
+LANG_ENGLISH        "Sept. 16th, 1944"
+
+REFERENCE           INTROSCREEN_INFO
+LANG_ENGLISH        "1st Marine Division"
+
+REFERENCE           OBJECTIVE_FLAME_TANK
+LANG_ENGLISH        "Protect the flame tank"
+
+REFERENCE           OBJECTIVE_MOVE_UP
+LANG_ENGLISH        "Move up with Squad"
+
+REFERENCE           OBJECTIVE_ARTILLERY
+LANG_ENGLISH        "Clear out anti tank positions ( &&1 remaining )"
+
+REFERENCE           INTROSCREEN_NAME
+LANG_ENGLISH        "Pvt. Miller"
+
+REFERENCE           PLAYER_DISMOUNT
+LANG_ENGLISH        "Press [{+activate}] to get off the tank"
+
+REFERENCE           OBJECTIVE_EV2_FLANK
+LANG_ENGLISH        "Follow your squad"
+
+REFERENCE           OBJECTIVE_EV2_HOLD_POS
+LANG_ENGLISH        "Hold position during the bombing"
+
+REFERENCE           OBJECTIVE_EV2_FOLLOW_FLAME
+LANG_ENGLISH        "Follow the flame tank"
+
+REFERENCE           OBJECTIVE_EV2_CAVE_CLEAR
+LANG_ENGLISH        "Locate the artillery guns"
+
+REFERENCE           OBJECTIVE_EV2_ART_CLEAR
+LANG_ENGLISH        "Clear the artillery room"
+
+REFERENCE           OBJECTIVE_FOLLOW_SQUAD
+LANG_ENGLISH        "Regroup with your squad."
+
+REFERENCE           OBJECTIVE_EV2_ASSAULT_CAVE
+LANG_ENGLISH        "Assault the cave entrance"
+
+
+ENDMARKER
+
+

@@ -1,0 +1,64 @@
+// Note to translators:
+// If a sentence is the same in your language then please change it to "#same"
+//
+// eg:
+// LANG_ENGLISH  "HALT"
+// LANG_GERMAN   "#same"
+//
+// (This is so we can tell which strings have been signed-off as ok to be the same words for QA
+//  and because we do not store duplicate strings, which will then get exported again next time
+//  as being untranslated.)
+//
+VERSION             "1"
+CONFIG              "C:\cod5\cod\cod5\bin\StringEd.cfg"
+FILENOTES           ""
+
+REFERENCE           INTROSCREEN_TITLE
+LANG_ENGLISH        "'Semper Fi'"
+
+REFERENCE           INTROSCREEN_PLACE
+LANG_ENGLISH        "Makin Atoll, South Pacific"
+
+REFERENCE           INTROSCREEN_DATE
+LANG_ENGLISH        "August 17th, 1942"
+
+REFERENCE           INTROSCREEN_INFO
+LANG_ENGLISH        "2nd Marine Raider Battalion (Carlson's Raiders)"
+
+REFERENCE           OBJ_SECURE_VILLAGE
+LANG_ENGLISH        "Secure the Village"
+
+REFERENCE           OBJ_REGROUP_2ND_SQUAD
+LANG_ENGLISH        "Regroup with Second Squad"
+
+REFERENCE           OBJ_EXTRACTION_POINT
+LANG_ENGLISH        "Proceed to Extraction Point"
+
+REFERENCE           OBJ_PLANTCHARGE_COOP
+LANG_ENGLISH        "Someone go support Roebuck to plant charges"
+
+REFERENCE           OBJ_PLANTCHARGE
+LANG_ENGLISH        "Plant Charges in Ammo Bunker with Roebuck"
+
+REFERENCE           TRUCK_TRIGGER
+LANG_ENGLISH        "Press ^3&&1^7 to Activate Truck"
+
+REFERENCE           TRUCK_HINT
+LANG_ENGLISH        "You Activate objects by Pressing ^3[{+usereload}]^7"
+
+REFERENCE           PLANTING
+LANG_ENGLISH        "Planting..."
+
+REFERENCE           CONTINUED
+LANG_ENGLISH        "To be continued..."
+
+REFERENCE           INTROSCREEN_NAME
+LANG_ENGLISH        "Pvt. Miller (M.I.A.)"
+
+REFERENCE           OBJ_RESCUE_2ND_SQUAD
+LANG_ENGLISH        "Rescue Second Squad"
+
+
+ENDMARKER
+
+

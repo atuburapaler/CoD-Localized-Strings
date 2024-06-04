@@ -1,0 +1,121 @@
+// Note to translators:
+// If a sentence is the same in your language then please change it to "#same"
+//
+// eg:
+// LANG_ENGLISH  "HALT"
+// LANG_GERMAN   "#same"
+//
+// (This is so we can tell which strings have been signed-off as ok to be the same words for QA
+//  and because we do not store duplicate strings, which will then get exported again next time
+//  as being untranslated.)
+//
+VERSION             "1"
+CONFIG              "C:\cod5\cod\cod5\bin\StringEd.cfg"
+FILENOTES           ""
+
+REFERENCE           INTROSCREEN_TITLE
+LANG_ENGLISH        "'Breaking Point'"
+
+REFERENCE           INTROSCREEN_DATE
+LANG_ENGLISH        "May 29, 1945"
+
+REFERENCE           INTROSCREEN_PLACE
+LANG_ENGLISH        "Shuri Castle, Okinawa"
+
+REFERENCE           INTROSCREEN_INFO
+LANG_ENGLISH        "1st Marine Division"
+
+REFERENCE           OBJ4
+LANG_ENGLISH        "Get ammo from the supply drop"
+
+REFERENCE           OBJ1
+LANG_ENGLISH        "Assault Shuri Castle"
+
+REFERENCE           OBJ2_4
+LANG_ENGLISH        "Eliminate the mortar crews ( 4 remaining )"
+
+REFERENCE           OBJ2_3
+LANG_ENGLISH        "Eliminate the mortar crews ( 3 remaining )"
+
+REFERENCE           OBJ2_2
+LANG_ENGLISH        "Eliminate the mortar crews ( 2 remaining )"
+
+REFERENCE           OBJ2_1
+LANG_ENGLISH        "Eliminate the mortar crews ( 1 remaining )"
+
+REFERENCE           OBJ2
+LANG_ENGLISH        "Eliminate the mortar crews"
+
+REFERENCE           OBJ5
+LANG_ENGLISH        "Hold the area"
+
+REFERENCE           OBJ6
+LANG_ENGLISH        "Defend against the Banzai charge"
+
+REFERENCE           USE_MORTAR
+LANG_ENGLISH        "Hold &&1 to pickup and prime"
+
+REFERENCE           OBJ4_A
+LANG_ENGLISH        "Enter and clear out the tunnel"
+
+REFERENCE           TAKE_COVER
+LANG_ENGLISH        "Get to cover"
+
+REFERENCE           REGROUP_BY_WALL
+LANG_ENGLISH        "Rendezvous with your squad"
+
+REFERENCE           REGROUP
+LANG_ENGLISH        "Regroup with the squad"
+
+REFERENCE           STARTS_AMBUSH
+LANG_ENGLISH        "Event 1 - Ambush"
+
+REFERENCE           STARTS_MORTARPITS
+LANG_ENGLISH        "Event 2 - Mortar Pits"
+
+REFERENCE           STARTS_COURTYARD
+LANG_ENGLISH        "Event 4 - Courtyard"
+
+REFERENCE           OBJ9
+LANG_ENGLISH        "Radio in air support on the east building"
+
+REFERENCE           OBJ8
+LANG_ENGLISH        "Radio in air support on the north buildings"
+
+REFERENCE           OBJ7
+LANG_ENGLISH        "Secure the supply drop in the courtyard"
+
+REFERENCE           STARTS_PLANTERS
+LANG_ENGLISH        "Event 3 - planters"
+
+REFERENCE           STARTS_PLANTERS_END
+LANG_ENGLISH        "EVENT 4 - End of planters battle"
+
+REFERENCE           TAKE_AMMO
+LANG_ENGLISH        "Hold &&1 to get ammo"
+
+REFERENCE           HINT_PRONE
+LANG_ENGLISH        "Press [{gocrouch}] To Crouch"
+
+REFERENCE           AIRSTRIKE_HOWTO
+LANG_ENGLISH        "Press [{+actionslot 4}] then [{+attack}] to radio in an air strike"
+
+REFERENCE           INTROSCREEN_NAME
+LANG_ENGLISH        "Pvt. Miller"
+
+REFERENCE           OBJ8_A
+LANG_ENGLISH        "Defend the area"
+
+REFERENCE           MORTAR_HINT
+LANG_ENGLISH        "Press [{+attack}] to throw the mortar"
+
+REFERENCE           RADIO_INUSE
+LANG_ENGLISH        "The radio is already being used"
+
+REFERENCE           OBJ6A
+LANG_ENGLISH        "Eliminate all enemies in the area"
+
+
+ENDMARKER
+
+

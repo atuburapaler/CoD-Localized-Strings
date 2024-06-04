@@ -1,0 +1,2713 @@
+// Note to translators:
+// If a sentence is the same in your language then please change it to "#same"
+//
+// eg:
+// LANG_ENGLISH  "HALT"
+// LANG_GERMAN   "#same"
+//
+// (This is so we can tell which strings have been signed-off as ok to be the same words for QA
+//  and because we do not store duplicate strings, which will then get exported again next time
+//  as being untranslated.)
+//
+VERSION             "1"
+CONFIG              "R:\cod5\cod\cod5\bin\StringEd.cfg"
+FILENOTES           ""
+
+REFERENCE           PRODUCTION
+LANG_ENGLISH        "PRODUCTION"
+
+REFERENCE           EXECUTIVE_PRODUCER
+LANG_ENGLISH        "Executive Producer"
+
+REFERENCE           SENIOR_PRODUCER
+LANG_ENGLISH        "Senior Producer"
+
+REFERENCE           PAT_DWYER
+LANG_ENGLISH        "Pat Dwyer"
+
+REFERENCE           PRODUCER
+LANG_ENGLISH        "Producer"
+
+REFERENCE           DANIEL_BUNTING
+LANG_ENGLISH        "Daniel Bunting"
+
+REFERENCE           PRODUCERS
+LANG_ENGLISH        "Producers"
+
+REFERENCE           MARWAN_ABDERRAZZAQ
+LANG_ENGLISH        "Marwan Abderrazzaq"
+
+REFERENCE           JOHN_DEHART
+LANG_ENGLISH        "John DeHart"
+
+REFERENCE           ASSOCIATE_PRODUCERS
+LANG_ENGLISH        "Associate Producers"
+
+REFERENCE           SHANE_SASAKI
+LANG_ENGLISH        "Shane Sasaki"
+
+REFERENCE           JOHN_SHUBERT
+LANG_ENGLISH        "John Shubert"
+
+REFERENCE           GUY_SILLIMAN
+LANG_ENGLISH        "Guy Silliman"
+
+REFERENCE           BRENT_TODA
+LANG_ENGLISH        "Brent Toda"
+
+REFERENCE           PRODUCTION_COORDINATORS
+LANG_ENGLISH        "Production Coordinators"
+
+REFERENCE           MILES_LESLIE
+LANG_ENGLISH        "Miles Leslie"
+
+REFERENCE           TYLER_SPARKS
+LANG_ENGLISH        "Tyler Sparks"
+
+REFERENCE           BUILD_MANAGER
+LANG_ENGLISH        "Build Manager"
+
+REFERENCE           MARK_SORIANO
+LANG_ENGLISH        "Mark Soriano"
+
+REFERENCE           ASSISTANT_BUILD_MANAGER
+LANG_ENGLISH        "Assistant Build Manager"
+
+REFERENCE           WILL_KATZ
+LANG_ENGLISH        "Will Katz"
+
+REFERENCE           ADDITIONAL_PRODUCTION_SUPPORT
+LANG_ENGLISH        "Additional Production Support"
+
+REFERENCE           RYAN_GAINES
+LANG_ENGLISH        "Ryan Gaines"
+
+REFERENCE           JAMES_MCCAWLEY
+LANG_ENGLISH        "James McCawley"
+
+REFERENCE           GEOFFREY_NG
+LANG_ENGLISH        "Geoffrey Ng"
+
+REFERENCE           ENGINEERING
+LANG_ENGLISH        "ENGINEERING"
+
+REFERENCE           PROJECT_TECHNICAL_DIRECTOR
+LANG_ENGLISH        "Project Technical Director"
+
+REFERENCE           DAVID_KING
+LANG_ENGLISH        "David King"
+
+REFERENCE           SENIOR_DIRECTOR_OF_TECHNOLOGY_ONLINE
+LANG_ENGLISH        "Senior Director of Technology, Online"
+
+REFERENCE           JOHN_BOJORQUEZ
+LANG_ENGLISH        "John Bojorquez"
+
+REFERENCE           TECHNICAL_DIRECTORS_COOP
+LANG_ENGLISH        "Technical Directors, Co-op"
+
+REFERENCE           PAT_GRIFFITH
+LANG_ENGLISH        "Pat Griffith"
+
+REFERENCE           GAVIN_JAMES
+LANG_ENGLISH        "Gavin James"
+
+REFERENCE           PROJECT_LEAD_ENGINEER
+LANG_ENGLISH        "Project Lead Engineer"
+
+REFERENCE           TREVOR_WALKER
+LANG_ENGLISH        "Trevor Walker"
+
+REFERENCE           LEAD_ENGINEER_ONLINE
+LANG_ENGLISH        "Lead Engineer, Online"
+
+REFERENCE           ALEX_CONSERVA
+LANG_ENGLISH        "Alexander Conserva"
+
+REFERENCE           SENIOR_ENGINEERS
+LANG_ENGLISH        "Senior Engineers"
+
+REFERENCE           DAN_LAUFER
+LANG_ENGLISH        "Dan Laufer"
+
+REFERENCE           LEI_HU
+LANG_ENGLISH        "Lei Hu"
+
+REFERENCE           RICHARD_MITTON
+LANG_ENGLISH        "Richard Mitton"
+
+REFERENCE           JAMES_SNIDER
+LANG_ENGLISH        "James Snider"
+
+REFERENCE           JIVKO_VELEV
+LANG_ENGLISH        "Jivko Velev"
+
+REFERENCE           ENGINEERS
+LANG_ENGLISH        "Engineers"
+
+REFERENCE           THOMAS_KEEGAN
+LANG_ENGLISH        "Thomas Keegan"
+
+REFERENCE           AUSTIN_KRAUSS
+LANG_ENGLISH        "Austin Krauss"
+
+REFERENCE           BRYCE_MERCADO
+LANG_ENGLISH        "Bryce Mercado"
+
+REFERENCE           BHARATHWAJ_NANDAKUMAR
+LANG_ENGLISH        "Bharathwaj Nandakumar"
+
+REFERENCE           DIARMAID_ROCHE
+LANG_ENGLISH        "Diarmaid Roche"
+
+REFERENCE           CALEB_SCHNEIDER
+LANG_ENGLISH        "Caleb Schneider"
+
+REFERENCE           LUCAS_SEIBERT
+LANG_ENGLISH        "Lucas Seibert"
+
+REFERENCE           LEO_ZIDE
+LANG_ENGLISH        "Leo Zide"
+
+REFERENCE           JUNIOR_ENGINEER
+LANG_ENGLISH        "Junior Engineer"
+
+REFERENCE           PENNY_CHOCK
+LANG_ENGLISH        "Penny Chock"
+
+REFERENCE           ENGINEERING_INTERNS
+LANG_ENGLISH        "Engineering Interns"
+
+REFERENCE           MARIA_BAROT
+LANG_ENGLISH        "Maria Barot"
+
+REFERENCE           JOHANN_LY
+LANG_ENGLISH        "Johann Ly"
+
+REFERENCE           JAY_MATTIS
+LANG_ENGLISH        "Jay Mattis"
+
+REFERENCE           CLAIRE_MITCHELL
+LANG_ENGLISH        "Claire Mitchell"
+
+REFERENCE           JUAN_MORELLI
+LANG_ENGLISH        "Juan Morelli"
+
+REFERENCE           ADDITIONAL_ENGINEERING
+LANG_ENGLISH        "Additional Engineering"
+
+REFERENCE           JED_ADAMS
+LANG_ENGLISH        "Jed Adams"
+
+REFERENCE           MIKE_ANTHONY
+LANG_ENGLISH        "Mike Anthony"
+
+REFERENCE           BRIAN_BLUMENKOPF
+LANG_ENGLISH        "Bryan Blumenkopf"
+
+REFERENCE           WADE_BRAINERD
+LANG_ENGLISH        "Wade Brainerd"
+
+REFERENCE           YANBING_CHEN
+LANG_ENGLISH        "Yanbing Chen"
+
+REFERENCE           CLEVE_CHENG
+LANG_ENGLISH        "Cleve Cheng"
+
+REFERENCE           ADAM_DEMERS
+LANG_ENGLISH        "Adam Demers"
+
+REFERENCE           MARTIN_DONLON
+LANG_ENGLISH        "Martin Donlon"
+
+REFERENCE           PAUL_EDELSTEIN
+LANG_ENGLISH        "Paul Edelstein"
+
+REFERENCE           JON_EDWARDS
+LANG_ENGLISH        "Jon Edwards"
+
+REFERENCE           JASON_KEENEY
+LANG_ENGLISH        "Jason Keeney"
+
+REFERENCE           MATT_KIMBERLING
+LANG_ENGLISH        "Matthew Kimberling"
+
+REFERENCE           JOHAN_KOHLER
+LANG_ENGLISH        "Johan Kohler"
+
+REFERENCE           DEAN_KUSLER
+LANG_ENGLISH        "Dean Kusler"
+
+REFERENCE           PETER_LIVINGSTONE
+LANG_ENGLISH        "Peter Livingstone"
+
+REFERENCE           JON_MENZIES
+LANG_ENGLISH        "Jon Menzies"
+
+REFERENCE           MARK_MURAKAMI
+LANG_ENGLISH        "Mark Murakami"
+
+REFERENCE           JOE_NUGENT
+LANG_ENGLISH        "Joe Nugent"
+
+REFERENCE           EWAN_OUGHTON
+LANG_ENGLISH        "Ewan Oughton"
+
+REFERENCE           VALERA_PELOVA
+LANG_ENGLISH        "Valeria Pelova"
+
+REFERENCE           JOE_SCHEINBERG
+LANG_ENGLISH        "Joe Scheinberg"
+
+REFERENCE           DIMITER_MALKIA_STANEV
+LANG_ENGLISH        "Dimiter "Malkia" Stanev"
+
+REFERENCE           KRASSIMIR_TOUEVSKY
+LANG_ENGLISH        "Krassimir Touevsky"
+
+REFERENCE           MIKE_UHLIK
+LANG_ENGLISH        "Mike Uhlik"
+
+REFERENCE           AUDIO
+LANG_ENGLISH        "AUDIO"
+
+REFERENCE           AUDIO_DIRECTOR
+LANG_ENGLISH        "Audio Director"
+
+REFERENCE           BRIAN_TUEY
+LANG_ENGLISH        "Brian Tuey"
+
+REFERENCE           SENIOR_SOUND_DESIGNER
+LANG_ENGLISH        "Senior Sound Designer"
+
+REFERENCE           GARY_SPINRAD
+LANG_ENGLISH        "Gary Spinrad"
+
+REFERENCE           SOUND_DESIGNERS
+LANG_ENGLISH        "Sound Designers"
+
+REFERENCE           KEVIN_SHERWOOD
+LANG_ENGLISH        "Kevin Sherwood"
+
+REFERENCE           COLLIN_AYERS
+LANG_ENGLISH        "Collin Ayers"
+
+REFERENCE           ADDITIONAL_SOUND_DESIGN
+LANG_ENGLISH        "Additional Sound Design"
+
+REFERENCE           SCOTT_ECKERT
+LANG_ENGLISH        "Scott Eckert"
+
+REFERENCE           AUDIO_ENGINEER
+LANG_ENGLISH        "Audio Engineer"
+
+REFERENCE           STEPHEN_MCCAUL
+LANG_ENGLISH        "Stephen McCaul"
+
+REFERENCE           AUDIO_PRODUCTION_TESTER
+LANG_ENGLISH        "Audio Production Tester"
+
+REFERENCE           JESSE_BOOTH
+LANG_ENGLISH        "Jesse Booth"
+
+REFERENCE           ADDITIONAL_AUDIO_SUPPORT
+LANG_ENGLISH        "Additional Audio Support"
+
+REFERENCE           JULIA_BIANCO
+LANG_ENGLISH        "Julia Bianco"
+
+REFERENCE           DESIGN
+LANG_ENGLISH        "DESIGN"
+
+REFERENCE           CREATIVE_DIRECTOR
+LANG_ENGLISH        "Creative Director"
+
+REFERENCE           STORY_AND_SCRIPT
+LANG_ENGLISH        "Story and Script"
+
+REFERENCE           DESIGN_DIRECTOR_MULTIPLAYER
+LANG_ENGLISH        "Design Director, Multiplayer"
+
+REFERENCE           DAVID_VONDERHAAR
+LANG_ENGLISH        "David Vonderhaar"
+
+REFERENCE           LEAD_GAME_DESIGNERS
+LANG_ENGLISH        "Lead Game Designers"
+
+REFERENCE           JEREMY_LUYTIES
+LANG_ENGLISH        "Jeremy Luyties"
+
+REFERENCE           JESSE_SNYDER
+LANG_ENGLISH        "Jesse Snyder"
+
+REFERENCE           LEAD_LEVEL_SCRIPTER
+LANG_ENGLISH        "Lead Level Scripter"
+
+REFERENCE           MIKE_DENNY
+LANG_ENGLISH        "Mike Denny"
+
+REFERENCE           SENIOR_LEVEL_SCRIPTERS
+LANG_ENGLISH        "Senior Level Scripters"
+
+REFERENCE           GAVIN_LOCKE
+LANG_ENGLISH        "Gavin Locke"
+
+REFERENCE           SEAN_SLAYBACK
+LANG_ENGLISH        "Sean Slayback"
+
+REFERENCE           LEVEL_SCRIPTERS
+LANG_ENGLISH        "Level Scripters"
+
+REFERENCE           ANTHONY_FLAMER
+LANG_ENGLISH        "Anthony Flamer"
+
+REFERENCE           DOMINICK_GUZZO
+LANG_ENGLISH        "Dominick Guzzo"
+
+REFERENCE           SUMEET_JAKATDAR
+LANG_ENGLISH        "Sumeet Jakatdar"
+
+REFERENCE           BRYAN_JOYAL
+LANG_ENGLISH        "Bryan Joyal"
+
+REFERENCE           ALEX_LIU
+LANG_ENGLISH        "Alex Liu"
+
+REFERENCE           CHRIS_PIERRO
+LANG_ENGLISH        "Chris Pierro"
+
+REFERENCE           JUNIOR_LEVEL_SCRIPTERS
+LANG_ENGLISH        "Junior Level Scripters"
+
+REFERENCE           POKEE_CHAN
+LANG_ENGLISH        "Pokee Chan"
+
+REFERENCE           DAMOUN_SHABESTARI
+LANG_ENGLISH        "Damoun Shabestari"
+
+REFERENCE           LEAD_LEVEL_BUILDERS
+LANG_ENGLISH        "Lead Level Builders"
+
+REFERENCE           CHRISTOPHER_DIONNE
+LANG_ENGLISH        "Christopher Dionne"
+
+REFERENCE           ADAM_GASCOINE
+LANG_ENGLISH        "Adam Gascoine"
+
+REFERENCE           SENIOR_LEVEL_BUILDERS
+LANG_ENGLISH        "Senior Level Builders"
+
+REFERENCE           PAUL_SANDLER
+LANG_ENGLISH        "Paul Sandler"
+
+REFERENCE           JEFF_ZARING
+LANG_ENGLISH        "Jeff Zaring"
+
+REFERENCE           LEVEL_BUILDERS
+LANG_ENGLISH        "Level Builders"
+
+REFERENCE           JARED_DICKINSON
+LANG_ENGLISH        "Jared Dickinson"
+
+REFERENCE           ADAM_REYNOLDS
+LANG_ENGLISH        "Adam Reynolds"
+
+REFERENCE           JASON_SCHOONOVER
+LANG_ENGLISH        "Jason Schoonover"
+
+REFERENCE           BRANDON_SOUDERS
+LANG_ENGLISH        "Brandon Souders"
+
+REFERENCE           PHILIP_TASKER
+LANG_ENGLISH        "Philip Tasker"
+
+REFERENCE           JUNIOR_LEVEL_BUILDERS
+LANG_ENGLISH        "Junior Level Builders"
+
+REFERENCE           ADAM_HOGGATT
+LANG_ENGLISH        "Adam Hoggatt"
+
+REFERENCE           IAN_KOWALSKI
+LANG_ENGLISH        "Ian Kowalski"
+
+REFERENCE           DESIGN_ASSISTANT
+LANG_ENGLISH        "Design Assistant"
+
+REFERENCE           KORNELIA_TAKACS
+LANG_ENGLISH        "Kornelia Takacs"
+
+REFERENCE           WRITING_CONSULTANT
+LANG_ENGLISH        "Writing Consultant"
+
+REFERENCE           PAUL_GOLDING
+LANG_ENGLISH        "Paul Golding"
+
+REFERENCE           ADDITONAL_CREATIVE_DIRECTION
+LANG_ENGLISH        "Additional Creative Direction"
+
+REFERENCE           RICHARD_FARRELLY
+LANG_ENGLISH        "Richard Farrelly"
+
+REFERENCE           ADDITIONAL_DESIGN
+LANG_ENGLISH        "Additional Design"
+
+REFERENCE           ANTHONY_DOE
+LANG_ENGLISH        "Anthony Doe"
+
+REFERENCE           BRIAN_DOUGLAS
+LANG_ENGLISH        "Brian Douglas"
+
+REFERENCE           DOUG_GUANLAO
+LANG_ENGLISH        "Doug Guanlao"
+
+REFERENCE           JASON_MCCORD
+LANG_ENGLISH        "Jason McCord"
+
+REFERENCE           JOEY_TERREBONNE
+LANG_ENGLISH        "Joey Terrebonne"
+
+REFERENCE           ART
+LANG_ENGLISH        "ART"
+
+REFERENCE           ART_DIRECTOR
+LANG_ENGLISH        "Art Director"
+
+REFERENCE           COLIN_WHITNEY
+LANG_ENGLISH        "Colin Whitney"
+
+REFERENCE           LEAD_ARTIST
+LANG_ENGLISH        "Lead Artist"
+
+REFERENCE           BRIAN_ANDERSON
+LANG_ENGLISH        "Brian Anderson"
+
+REFERENCE           LIGHTING_DIRECTOR
+LANG_ENGLISH        "Lighting Director"
+
+REFERENCE           LIGHTING
+LANG_ENGLISH        "Lighting"
+
+REFERENCE           GABRIEL_BETACOURT
+LANG_ENGLISH        "Gabriel Betancourt"
+
+REFERENCE           LEAD_TECHNICAL_ARTIST
+LANG_ENGLISH        "Lead Technical Artist"
+
+REFERENCE           BRAD_GRACE
+LANG_ENGLISH        "Brad Grace"
+
+REFERENCE           SENIOR_TECHNICAL_ARTIST
+LANG_ENGLISH        "Senior Technical Artist"
+
+REFERENCE           STEV_KALINOWSKI
+LANG_ENGLISH        "Stev Kalinowski"
+
+REFERENCE           LEAD_EFFECTS_ARTIST
+LANG_ENGLISH        "Lead Effects Artist"
+
+REFERENCE           BARRY_WHITNEY
+LANG_ENGLISH        "Barry Whitney"
+
+REFERENCE           EFFECTS_ARTISTS
+LANG_ENGLISH        "Effects Artists"
+
+REFERENCE           QUYNH_NGUYEN
+LANG_ENGLISH        "Quinn Nguyen"
+
+REFERENCE           DALE_MULCHAY
+LANG_ENGLISH        "Dale Mulcahy"
+
+REFERENCE           LEAD_ENVIRONMENT_ARTIST
+LANG_ENGLISH        "Lead Environment Artist"
+
+REFERENCE           MELISSA_BUFFALOE
+LANG_ENGLISH        "Melissa Buffaloe"
+
+REFERENCE           ENVIRONMENT_ARTISTS
+LANG_ENGLISH        "Environment Artists"
+
+REFERENCE           MIKE_CURRAN
+LANG_ENGLISH        "Mike Curran"
+
+REFERENCE           OMAR_GONZALEZ
+LANG_ENGLISH        "Omar Gonzalez"
+
+REFERENCE           WILSON_IP
+LANG_ENGLISH        "Wilson Ip"
+
+REFERENCE           MASAAKI_KAWAKUBO
+LANG_ENGLISH        "Masaaki Kawakubo"
+
+REFERENCE           GARRETT_NGUYEN
+LANG_ENGLISH        "Garrett Nguyen"
+
+REFERENCE           MY_WU
+LANG_ENGLISH        "My Wu"
+
+REFERENCE           LEAD_CHARACTER_ARTIST
+LANG_ENGLISH        "Lead Character Artist"
+
+REFERENCE           CAMERON_PETTY
+LANG_ENGLISH        "Cameron Petty"
+
+REFERENCE           CHARACTER_ARTISTS
+LANG_ENGLISH        "Character Artists"
+
+REFERENCE           MURAD_AINYUDDIN
+LANG_ENGLISH        "Murad Ainuddin"
+
+REFERENCE           LOUDVIK_AKOPYAN
+LANG_ENGLISH        "Loudvik Akopyan"
+
+REFERENCE           ERIK_DRAGESET
+LANG_ENGLISH        "Erik Drageset"
+
+REFERENCE           ANH_NGUYEN
+LANG_ENGLISH        "Anh Nguyen"
+
+REFERENCE           LEAD_VEHICLE_WEAPON_ARTIST
+LANG_ENGLISH        "Lead Vehicle / Weapon Artist"
+
+REFERENCE           DAN_BICKELL
+LANG_ENGLISH        "Dan Bickell"
+
+REFERENCE           VEHICLE_WEAPON_ARTISTS
+LANG_ENGLISH        "Vehicle / Weapon Artists"
+
+REFERENCE           KENT_DRAEGER
+LANG_ENGLISH        "Kent Draeger"
+
+REFERENCE           KAORI_KATO
+LANG_ENGLISH        "Kaori Kato"
+
+REFERENCE           JOHN_MCGINLEY
+LANG_ENGLISH        "John McGinley"
+
+REFERENCE           DAN_PADILLA
+LANG_ENGLISH        "Dan Padilla"
+
+REFERENCE           MAX_PORTER
+LANG_ENGLISH        "Max Porter"
+
+REFERENCE           MULTIPLAYER_ARTIST
+LANG_ENGLISH        "Multiplayer Artist"
+
+REFERENCE           CRAIG_MARSCHKE
+LANG_ENGLISH        "Craig Marschke"
+
+REFERENCE           CONCEPT_ARTIST
+LANG_ENGLISH        "Concept Artist"
+
+REFERENCE           PETER_LAM
+LANG_ENGLISH        "Peter Lam"
+
+REFERENCE           UI_ARTIST
+LANG_ENGLISH        "UI Artist"
+
+REFERENCE           GIL_DORAN
+LANG_ENGLISH        "Gil Doron"
+
+REFERENCE           ADDITIONAL_ARTWORK
+LANG_ENGLISH        "Additional Artwork"
+
+REFERENCE           ISABELLE_DECENCIERE
+LANG_ENGLISH        "Isabelle Decenciere"
+
+REFERENCE           CRAIG_SCHILLER
+LANG_ENGLISH        "Craig Schiller"
+
+REFERENCE           BRAD_SHORTT
+LANG_ENGLISH        "Brad Shortt"
+
+REFERENCE           TOM_SZAKOLCZAY
+LANG_ENGLISH        "Tom Szakolczay"
+
+REFERENCE           ANIMATION
+LANG_ENGLISH        "ANIMATION"
+
+REFERENCE           ANIMATION_DIRECTOR
+LANG_ENGLISH        "Animation Director"
+
+REFERENCE           DOM_DROZDZ
+LANG_ENGLISH        "Dom Drozdz"
+
+REFERENCE           LEAD_ANIMATOR
+LANG_ENGLISH        "Lead Animator"
+
+REFERENCE           JIMMY_ZIELINSKI
+LANG_ENGLISH        "Jimmy Zielinski"
+
+REFERENCE           ANIMATORS
+LANG_ENGLISH        "Animators"
+
+REFERENCE           PHILLIP_LOZANO
+LANG_ENGLISH        "Phillip Lozano"
+
+REFERENCE           STEVEN_RIVERA
+LANG_ENGLISH        "Steven Rivera"
+
+REFERENCE           MARVIN_ROJAS
+LANG_ENGLISH        "Marvin Rojas"
+
+REFERENCE           ERIC_SMITH
+LANG_ENGLISH        "Eric Smith"
+
+REFERENCE           JON_STOLL
+LANG_ENGLISH        "Jon Stoll"
+
+REFERENCE           ADDITIONAL_ANIMATION
+LANG_ENGLISH        "Additional Animation"
+
+REFERENCE           LUIS_YOSH_BOLIVAR
+LANG_ENGLISH        "Luis "Yosh" Bolivar"
+
+REFERENCE           KYLE_GAULIN
+LANG_ENGLISH        "Kyle Gaulin"
+
+REFERENCE           KEVIN_KRAEER
+LANG_ENGLISH        "Kevin Kraeer"
+
+REFERENCE           ALEX_MOON
+LANG_ENGLISH        "Alex Moon"
+
+REFERENCE           LONG_NGUYEN
+LANG_ENGLISH        "Long Nguyen"
+
+REFERENCE           JOHN_VELAZQUEZ
+LANG_ENGLISH        "John Velazquez"
+
+REFERENCE           TREYARCH_STAFF
+LANG_ENGLISH        "TREYARCH STAFF"
+
+REFERENCE           STUDIO_HEAD
+LANG_ENGLISH        "Studio Head"
+
+REFERENCE           MARK_LAMIA
+LANG_ENGLISH        "Mark Lamia"
+
+REFERENCE           VICE_PRESIDENT
+LANG_ENGLISH        "Vice President"
+
+REFERENCE           DAVE_ANTHONY
+LANG_ENGLISH        "Dave Anthony"
+
+REFERENCE           CHIEF_TECHNOLOGY_OFFICER
+LANG_ENGLISH        "Chief Technology Officer"
+
+REFERENCE           MARK_GORDON
+LANG_ENGLISH        "Mark Gordon"
+
+REFERENCE           STUDIO_CREATIVE_DIRECTOR
+LANG_ENGLISH        "Studio Creative Director"
+
+REFERENCE           CORKY_LEHMKUHL
+LANG_ENGLISH        "Corky Lehmkuhl"
+
+REFERENCE           STUDIO_AUDIO_DIRECTOR
+LANG_ENGLISH        "Studio Audio Director"
+
+REFERENCE           JERRY_BERLONGIERI
+LANG_ENGLISH        "Jerry Berlongieri"
+
+REFERENCE           COMMUNITY_MANAGER
+LANG_ENGLISH        "Community Manager"
+
+REFERENCE           JOSH_OLIN
+LANG_ENGLISH        "Josh Olin"
+
+REFERENCE           DIRECTOR_OF_OPERATIONS
+LANG_ENGLISH        "Director of Operations"
+
+REFERENCE           ROSE_VILLASENOR
+LANG_ENGLISH        "Rose Villasenor"
+
+REFERENCE           SENIOR_IT_MANAGER
+LANG_ENGLISH        "Senior IT Manager"
+
+REFERENCE           ROBERT_SANCHEZ
+LANG_ENGLISH        "Robert Sanchez"
+
+REFERENCE           IT_TECHNICIANS
+LANG_ENGLISH        "IT Technicians"
+
+REFERENCE           NICK_WESTFIELD
+LANG_ENGLISH        "Nick Westfield"
+
+REFERENCE           KRISTOFER_MAGPANTAY
+LANG_ENGLISH        "Kristofer Magpantay"
+
+REFERENCE           HUMAN_RESOURCES
+LANG_ENGLISH        "Human Resources"
+
+REFERENCE           JU_SHIM
+LANG_ENGLISH        "Ju Shim"
+
+REFERENCE           MONICA_TEMPERLY
+LANG_ENGLISH        "Monica Temperly"
+
+REFERENCE           OFFICE_MANAGER
+LANG_ENGLISH        "Office Manager"
+
+REFERENCE           AMY_HURDELBRINK
+LANG_ENGLISH        "Amy Hurdelbrink"
+
+REFERENCE           SENIOR_RECRUITER
+LANG_ENGLISH        "Senior Recruiter"
+
+REFERENCE           ROBIN_THOMPKINS
+LANG_ENGLISH        "Robin Thompkins"
+
+REFERENCE           ASSOCIATE_RECRUITER
+LANG_ENGLISH        "Associate Recruiter"
+
+REFERENCE           FELIX_MONTANEZ
+LANG_ENGLISH        "Felix Montanez"
+
+REFERENCE           OFFICE_COORDINATOR
+LANG_ENGLISH        "Office Coordinator"
+
+REFERENCE           JEREMY_MCADAMS
+LANG_ENGLISH        "Jeremy McAdams"
+
+REFERENCE           RECEPTIONIST
+LANG_ENGLISH        "Receptionist"
+
+REFERENCE           RON_FAZIO
+LANG_ENGLISH        "Ron Fazio"
+
+REFERENCE           DIRECTOR_TOOLS_LIBRARIES
+LANG_ENGLISH        "Director, Tools & Libraries"
+
+REFERENCE           ASSOCIATE_PRODUCER_TOOLS_LIBRARIES
+LANG_ENGLISH        "Associate Producer, Tools & Libraries"
+
+REFERENCE           ADAM_SASLOW
+LANG_ENGLISH        "Adam Saslow"
+
+REFERENCE           PRODUCTION_TESTING
+LANG_ENGLISH        "PRODUCTION TESTING"
+
+REFERENCE           PRODUCTION_TEST_MANAGER
+LANG_ENGLISH        "Production Test Manager"
+
+REFERENCE           IGOR_KRINITSKIY
+LANG_ENGLISH        "Igor Krinitskiy"
+
+REFERENCE           PROJECT_TEST_LEAD
+LANG_ENGLISH        "Project Test Lead"
+
+REFERENCE           JASON_GUYAN
+LANG_ENGLISH        "Jason Guyan"
+
+REFERENCE           PRODUCTION_FLOOR_LEADS
+LANG_ENGLISH        "Production Floor Leads"
+
+REFERENCE           REILLY_CAMPBELL
+LANG_ENGLISH        "Reilly Campbell"
+
+REFERENCE           FRANCISCO_CARPIO
+LANG_ENGLISH        "Francisco Carpio"
+
+REFERENCE           DANIEL_GERMANN
+LANG_ENGLISH        "Daniel Germann"
+
+REFERENCE           BRIAN_HUGHES
+LANG_ENGLISH        "Brian Hughes"
+
+REFERENCE           CHRIS_HO
+LANG_ENGLISH        "Chris Ho"
+
+REFERENCE           MATT_MULLEN
+LANG_ENGLISH        "Matt Mullen"
+
+REFERENCE           TRISTEN_SAKURADA
+LANG_ENGLISH        "Tristen Sakurada"
+
+REFERENCE           MOISES_ZET
+LANG_ENGLISH        "Moises Zet"
+
+REFERENCE           PRODUCTION_TESTERS
+LANG_ENGLISH        "Production Testers"
+
+REFERENCE           DANIEL_ALFARO_PLUS
+LANG_ENGLISH        "        Daniel Alfaro          Jonathan Apalit       Fernando Arteaga     "
+
+REFERENCE           JAMES_BACA_PLUS
+LANG_ENGLISH        "       James Baca                 Tuan Bui             Alexander Bujold    "
+
+REFERENCE           JAMES_CALDERON_PLUS
+LANG_ENGLISH        "     James Calderon           Jonathan Caso          Simon Castillo      "
+
+REFERENCE           RYAN_CHIN_PLUS
+LANG_ENGLISH        "      Ryan Chin                 Cody Clark               Rory Collen     "
+
+REFERENCE           AMANDA_CONNELL_PLUS
+LANG_ENGLISH        "     Amanda Connell         Eric Covarrubias          Phyrun Deab        "
+
+REFERENCE           MARCUS_DIXON_PLUS
+LANG_ENGLISH        "      Marcus Dixon           Steven Eldredge           Brad Ewing        "
+
+REFERENCE           MARIO_GARCIA_PLUS
+LANG_ENGLISH        "     Mario Garcia                Chris Glaze          Christian Gomez    "
+
+REFERENCE           DANIEL_GOULD_PLUS
+LANG_ENGLISH        "  Daniel Gould                 Lee Irvin                Travis Janssen   "
+
+REFERENCE           LEIF_JOHANSEN_PLUS
+LANG_ENGLISH        "    Leif Johansen              Warren Kaye             Charles Kidd      "
+
+REFERENCE           NATHAN_KINNEY_PLUS
+LANG_ENGLISH        "    Nathan Kinney             Nicholas Knapp           John Landry       "
+
+REFERENCE           TERAN_LAWSON_PLUS
+LANG_ENGLISH        "      Teran Lawson             Andrew Linstrom       Bayaar Loborjiged   "
+
+REFERENCE           WILLIAM_LOWTHER_PLUS
+LANG_ENGLISH        "    William Lowther            Mike Madden             Jorge Marin       "
+
+REFERENCE           OMAR_MARRUFO_PLUS
+LANG_ENGLISH        "     Omar Marrufo             Björn Martinez             Robert Meeks    "
+
+REFERENCE           ALEX_MEJIA_PLUS
+LANG_ENGLISH        "    Alex Mejia                  Sean Miller              Cesar Muralles  "
+
+REFERENCE           EVAN_NEWTON_PLUS
+LANG_ENGLISH        "      Evan Newton              Norman Ovando           Joseph Parise     "
+
+REFERENCE           SEAN_PEOTTER_PLUS
+LANG_ENGLISH        "     Sean M. Peotter             Philip Perales         Soukha Phimpasouk "
+
+REFERENCE           NICHOLAS_RIOS_PLUS
+LANG_ENGLISH        "     Nicholas Rios             Lamar Robinson           Anthony Rubin    "
+
+REFERENCE           STEPHANIE_RUSSELL_PLUS
+LANG_ENGLISH        "  Stephanie Russell           Daniel Silva              Michael Stewart  "
+
+REFERENCE           FABIAN_VELASQUEZ_PLUS
+LANG_ENGLISH        "    Fabian Velasquez          Matt Wagner                 Mike Wale       "
+
+REFERENCE           GEORGE_WALKER_PLUS
+LANG_ENGLISH        "    George Walker             David Watters              Taylor West      "
+
+REFERENCE           MICHAEL_WICKSON_PLUS
+LANG_ENGLISH        "    Michael Wickson            Bryan Wilbur              Devin Williams   "
+
+REFERENCE           BRANDON_WILLIS_PLUS
+LANG_ENGLISH        "   Brandon Willis             Joshua Winters               Allen Wu       "
+
+REFERENCE           NORMAN_OVANDO
+LANG_ENGLISH        "Norman Ovando"
+
+REFERENCE           NATHAN_KINNEY
+LANG_ENGLISH        "Nathan Kinney"
+
+REFERENCE           SEAN_MILLER
+LANG_ENGLISH        "Sean Miller"
+
+REFERENCE           JOSEPH_YBARRA
+LANG_ENGLISH        " Joseph Ybarra"
+
+REFERENCE           CINEMATICS
+LANG_ENGLISH        "CINEMATICS"
+
+REFERENCE           SGT_REZNOV
+LANG_ENGLISH        "Sgt. Reznov"
+
+REFERENCE           GARY_OLDMAN
+LANG_ENGLISH        "Gary Oldman"
+
+REFERENCE           SGT_ROEBUCK
+LANG_ENGLISH        "Sgt. Roebuck"
+
+REFERENCE           KIEFER_SUTHERLAND
+LANG_ENGLISH        "Kiefer Sutherland"
+
+REFERENCE           PVT_CHERNOV
+LANG_ENGLISH        "Pvt. Chernov"
+
+REFERENCE           SGT_SULLIVAN
+LANG_ENGLISH        "Sgt. Sullivan"
+
+REFERENCE           CHRIS_FRIES
+LANG_ENGLISH        "Chris Fries"
+
+REFERENCE           PVT_POLONSKY
+LANG_ENGLISH        "Pvt. Polonsky"
+
+REFERENCE           AARON_STANFORD
+LANG_ENGLISH        "Aaron Stanford"
+
+REFERENCE           THE_COMMISSAR
+LANG_ENGLISH        "The Commissar"
+
+REFERENCE           DIMITRI_DIATCHENKO
+LANG_ENGLISH        "Dimitri Diatchenko"
+
+REFERENCE           AMERICAN_VOICE_OVER
+LANG_ENGLISH        "American Voice Over"
+
+REFERENCE           KEITH_FERGUSON
+LANG_ENGLISH        "Keith Ferguson"
+
+REFERENCE           MEL_FAIR
+LANG_ENGLISH        "Mel Fair"
+
+REFERENCE           CRAIG_HOUSTON
+LANG_ENGLISH        "Craig Houston"
+
+REFERENCE           JACOB_CIPES
+LANG_ENGLISH        "Jacob Cipes"
+
+REFERENCE           MATT_LOWE
+LANG_ENGLISH        "Matt Lowe"
+
+REFERENCE           RUSSIAN_VOICE_OVER
+LANG_ENGLISH        "Russian Voice Over"
+
+REFERENCE           DAVE_BOAT
+LANG_ENGLISH        "Dave Boat"
+
+REFERENCE           BORIS_KIEVSKY
+LANG_ENGLISH        "Boris Kievsky"
+
+REFERENCE           NICK_GUEST
+LANG_ENGLISH        "Nick Guest"
+
+REFERENCE           GERMAN_VOICE_OVER
+LANG_ENGLISH        "German Voice Over"
+
+REFERENCE           MATT_LINDQUIST
+LANG_ENGLISH        "Matt Lindquist"
+
+REFERENCE           TORSTEN_VOGES
+LANG_ENGLISH        "Torsten Voges"
+
+REFERENCE           WILLIAM_SALYERS
+LANG_ENGLISH        "William Salyers"
+
+REFERENCE           JAPANESE_VOICE_OVER
+LANG_ENGLISH        "Japanese Voice Over"
+
+REFERENCE           HIRO_ABE
+LANG_ENGLISH        "Hiro Abe"
+
+REFERENCE           AKIRA_KENADA
+LANG_ENGLISH        "Akira Kenada"
+
+REFERENCE           EIJI_INOUE
+LANG_ENGLISH        "Eiji Inoue"
+
+REFERENCE           JAPANESE_OFFICER
+LANG_ENGLISH        "Japanese Officer"
+
+REFERENCE           TOSHIYA_AGATA
+LANG_ENGLISH        "Toshiya Agata"
+
+REFERENCE           JAPANESE_ANNOUNCER
+LANG_ENGLISH        "Japanese Announcer"
+
+REFERENCE           PAUL_NAKAUCHI
+LANG_ENGLISH        "Paul Nakauchi"
+
+REFERENCE           CASTING_AND_VOICE_DIRECTION
+LANG_ENGLISH        "Casting and Voice Direction"
+
+REFERENCE           MARGARET_TANG
+LANG_ENGLISH        "Margaret Tang"
+
+REFERENCE           WOMB_MUSIC
+LANG_ENGLISH        "Womb Music"
+
+REFERENCE           VOICE_OVER_EDITORIAL_AND_POST
+LANG_ENGLISH        "Voice Over Editorial and Post"
+
+REFERENCE           RIK_SCHAFFER
+LANG_ENGLISH        "Rik Schaffer"
+
+REFERENCE           RECORDING_ENGINEER
+LANG_ENGLISH        "Recording Engineer"
+
+REFERENCE           DEVON_BOWMAN
+LANG_ENGLISH        "Devon Bowman"
+
+REFERENCE           SALAMI_STUDIOS
+LANG_ENGLISH        "Salami Studios"
+
+REFERENCE           RECORDING_STUDIOS
+LANG_ENGLISH        "Recording Studios"
+
+REFERENCE           MARGARITA_MIX_HOLLYWOOD
+LANG_ENGLISH        "Margarita Mix Hollywood"
+
+REFERENCE           MUSIC_PREPARATIONS
+LANG_ENGLISH        "Music Preparations"
+
+REFERENCE           BTW_PRODUCTIONS
+LANG_ENGLISH        "BTW Productions"
+
+REFERENCE           BOOKER_WHITE
+LANG_ENGLISH        "Booker White"
+
+REFERENCE           ORCHESTRATION_
+LANG_ENGLISH        "Orchestration "
+
+REFERENCE           EMILIE_A_BERNSTIEN
+LANG_ENGLISH        "Emilie A. Bernstien"
+
+REFERENCE           SCORE_PRERECORD_PREPARATION
+LANG_ENGLISH        "Score Pre-Record Preparation"
+
+REFERENCE           KTA_PRODUCTIONS
+LANG_ENGLISH        "KTA Productions"
+
+REFERENCE           KEVIN_GLOBERMAN
+LANG_ENGLISH        "Kevin Globerman"
+
+REFERENCE           TADLOW_MUSIC
+LANG_ENGLISH        "Tadlow Music"
+
+REFERENCE           PRAGUE_PHILHARMONIC
+LANG_ENGLISH        "The City of Prague Philharmonic Orchestra and Chorus"
+
+REFERENCE           CONDUCTED_BY_MIRIAM_NEMCOVA
+LANG_ENGLISH        "Conducted by Miriam Nemcova"
+
+REFERENCE           RECORDED_AT_BARRANDOV_SMECKY
+LANG_ENGLISH        "Recorded at Barrandov Studios - Smecky Music Studios"
+
+REFERENCE           JAN_HOLZNER
+LANG_ENGLISH        "Jan Holzner"
+
+REFERENCE           ORCHESTRAL_CONTRACTOR
+LANG_ENGLISH        "Orchestral Contractor"
+
+REFERENCE           JAMES_FITZPATRICK_TADLOW_MUSIC
+LANG_ENGLISH        "James Fitzpatrick - Tadlow Music"
+
+REFERENCE           ORIGINAL_MUSIC_COMPOSER_
+LANG_ENGLISH        "Original Music Composer "
+
+REFERENCE           SEAN_MURRAY_MUSIC
+LANG_ENGLISH        "Sean Murray Music"
+
+REFERENCE           SEAN_MURRAY
+LANG_ENGLISH        "Sean Murray"
+
+REFERENCE           BATTLE_CHATTER_WRITERS
+LANG_ENGLISH        "Battle Chatter Writers"
+
+REFERENCE           CHRIS_VALENZIANO
+LANG_ENGLISH        "Chris Valenziano"
+
+REFERENCE           PATRICK_J_DOODY
+LANG_ENGLISH        "Patrick J. Doody"
+
+REFERENCE           JAPANESE_TRANSLATOR
+LANG_ENGLISH        "Japanese Translator"
+
+REFERENCE           YURIKA_DENNIS
+LANG_ENGLISH        "Yurika Dennis"
+
+REFERENCE           GERMAN_TRANSLATOR
+LANG_ENGLISH        "German Translator"
+
+REFERENCE           MATT_MALOTKI
+LANG_ENGLISH        "Matt Malotki"
+
+REFERENCE           ACTIVISION_CAPTURE_STUDIO
+LANG_ENGLISH        "ACTIVISION CAPTURE STUDIO"
+
+REFERENCE           MOTION_CAPTURE_DIRECTOR
+LANG_ENGLISH        "Motion Capture Director"
+
+REFERENCE           MATT_KARNES
+LANG_ENGLISH        "Matt Karnes"
+
+REFERENCE           NICK_FALZON
+LANG_ENGLISH        "Nick Falzon"
+
+REFERENCE           MOTION_CAPTURE_SUPERVISOR
+LANG_ENGLISH        "Motion Capture Supervisor"
+
+REFERENCE           MICHAEL_JANTZ
+LANG_ENGLISH        "Michael Jantz"
+
+REFERENCE           MOTION_CAPTURE_LEAD
+LANG_ENGLISH        "Motion Capture Lead"
+
+REFERENCE           BEN_WATSON
+LANG_ENGLISH        "Ben Watson"
+
+REFERENCE           PRODUCTION_COORDINATOR
+LANG_ENGLISH        "Production Coordinator"
+
+REFERENCE           EVAN_BUTTON
+LANG_ENGLISH        "Evan Button"
+
+REFERENCE           DATA_CAPTURE_SUPERVISOR
+LANG_ENGLISH        "Data Capture Supervisor"
+
+REFERENCE           NOEL_VEGA
+LANG_ENGLISH        "Noel Vega"
+
+REFERENCE           DATA_CAPTURE_PERSONNEL
+LANG_ENGLISH        "Data Capture Personnel"
+
+REFERENCE           CHRIS_TORRES
+LANG_ENGLISH        "    Chris Torres                Ray Park                Randall Archer"
+
+REFERENCE           COLIN_FOLLENWEIDER
+LANG_ENGLISH        "      Colin Follenweider      Orlando McGuire        Shaun Charney     "
+
+REFERENCE           CHRIS_YONG
+LANG_ENGLISH        " Chris Yong               Chris Getman             TJ Storm  "
+
+REFERENCE           JEREMY_DUNN
+LANG_ENGLISH        "    Jeremy Dunn               Alex Chansky           Shaun Piccinino "
+
+REFERENCE           ESTEBAN_CUETO
+LANG_ENGLISH        "  Esteban Cueto            Zach Hudson                Lou Klein    "
+
+REFERENCE           KOFI_YIADOM
+LANG_ENGLISH        "  Kofi Yiadom            Anthony Arcuria             John Nolan"
+
+REFERENCE           SET_CONSTRUCTION
+LANG_ENGLISH        "Set Construction"
+
+REFERENCE           SID_NICHOLSON
+LANG_ENGLISH        "Sid Nicholson"
+
+REFERENCE           REFERENCE_VIDEO
+LANG_ENGLISH        "Reference Video"
+
+REFERENCE           STEPHANIE_PARIS
+LANG_ENGLISH        "Stephanie Paris"
+
+REFERENCE           LIZ_TOM
+LANG_ENGLISH        "Liz Tom"
+
+REFERENCE           SCAN_TECHNICIANS
+LANG_ENGLISH        "Scan Technicians"
+
+REFERENCE           CHRIS_ELLIS
+LANG_ENGLISH        "Chris Ellis"
+
+REFERENCE           NICK_OTTO
+LANG_ENGLISH        "Nick Otto"
+
+REFERENCE           DAVID_BULLAT_II
+LANG_ENGLISH        "David Bullat II"
+
+REFERENCE           ERIC_HEFLEY
+LANG_ENGLISH        "Eric Hefley"
+
+REFERENCE           MARKER_CLEANUP
+LANG_ENGLISH        "Marker Cleanup"
+
+REFERENCE           ANIMATION_VERTIGO
+LANG_ENGLISH        "Animation Vertigo"
+
+REFERENCE           CRAFT_SERVICES
+LANG_ENGLISH        "Craft Services"
+
+REFERENCE           SANDRA_FALZON
+LANG_ENGLISH        "Sandra Falzon"
+
+REFERENCE           CITY_KITCHEN
+LANG_ENGLISH        "City Kitchen"
+
+REFERENCE           THE_SLICE
+LANG_ENGLISH        "The Slice"
+
+REFERENCE           ADDITIONAL_DEVELOPMENT
+LANG_ENGLISH        "ADDITIONAL DEVELOPMENT"
+
+REFERENCE           CERTAIN_AFFINITY
+LANG_ENGLISH        "Certain Affinity"
+
+REFERENCE           MAX_HOBERMAN
+LANG_ENGLISH        "        Max Hoberman          Phil Wattenbarger         Stefan Sinclair        "
+
+REFERENCE           DAVID_ANCIRA
+LANG_ENGLISH        "    David Ancira              Mike Clopper             Adam Crist    "
+
+REFERENCE           COLM_NELSON
+LANG_ENGLISH        "     Colm Nelson                Brian Bearly            Brad Jeansonne  "
+
+REFERENCE           BERNIE_LACARTE
+LANG_ENGLISH        "     Bernie LaCarte              Dean McCall            Steve Pietzsch    "
+
+REFERENCE           JEAN_EDUARD_FAGES
+LANG_ENGLISH        "    Jean Eduard Fages          Martin Galway              Will Harris       "
+
+REFERENCE           DAVID_VARGO
+LANG_ENGLISH        "      David Vargo              John Granier             Anthony Huso  "
+
+REFERENCE           JASON_EUBANK
+LANG_ENGLISH        "      Jason Eubank              Nathan Morse            David Bowman   "
+
+REFERENCE           TIA_HOOD
+LANG_ENGLISH        "     Tia Hood                  David Jones             Mike Amerson"
+
+REFERENCE           MIKE_AMERSON
+LANG_ENGLISH        "    Wayne Richardson   "
+
+REFERENCE           CERTAIN_AFFINITY_SPECIAL_THANKS
+LANG_ENGLISH        "Certain Affinity Special Thanks"
+
+REFERENCE           ARKANE_STUDIOS
+LANG_ENGLISH        "Arkane Studios"
+
+REFERENCE           RAPHAEL_COLANTONIO
+LANG_ENGLISH        "Raphael Colantonio"
+
+REFERENCE           LEAH_SMITH
+LANG_ENGLISH        "Leah Smith"
+
+REFERENCE           SPOV_LTD
+LANG_ENGLISH        "SPOV LTD"
+
+REFERENCE           ALLEN_LEITCH
+LANG_ENGLISH        "Allen Leitch"
+
+REFERENCE           GEMMA_THOMPSON
+LANG_ENGLISH        "Gemma Thompson"
+
+REFERENCE           MILES_CHRISTENSEN
+LANG_ENGLISH        "Miles Christensen"
+
+REFERENCE           YUGEN_BLAKE
+LANG_ENGLISH        "Yugen Blake"
+
+REFERENCE           PAUL_HUNT
+LANG_ENGLISH        "Paul Hunt"
+
+REFERENCE           DAVID_HICKS
+LANG_ENGLISH        "David Hicks"
+
+REFERENCE           JULIO_DEAN_
+LANG_ENGLISH        "Julio Dean "
+
+REFERENCE           MATT_HOTCHKISS
+LANG_ENGLISH        "Matt Hotchkiss"
+
+REFERENCE           SPOV_SPECIAL_THANKS
+LANG_ENGLISH        "SPOV Special Thanks"
+
+REFERENCE           PETER_ROBINSON
+LANG_ENGLISH        "Peter Robinson"
+
+REFERENCE           ROTEM_NAHLIELI
+LANG_ENGLISH        "Rotem Nahlieli"
+
+REFERENCE           ADDITIONAL_DEV_BY_PI_STUDIOS
+LANG_ENGLISH        "Additional Development on "Blowtorch and Corkscrew" by Pi Studios"
+
+REFERENCE           JEREMY_STATZ
+LANG_ENGLISH        "Jeremy Statz"
+
+REFERENCE           CHRISTIAN_EASTERLY
+LANG_ENGLISH        "Christian Easterly"
+
+REFERENCE           KENN_HOEKSTRA
+LANG_ENGLISH        "Kenn Hoekstra"
+
+REFERENCE           JOHN_FAULKENBURY
+LANG_ENGLISH        "John Faulkenbury"
+
+REFERENCE           ROBERT_ERWIN
+LANG_ENGLISH        "Robert Erwin"
+
+REFERENCE           ACTIVISION
+LANG_ENGLISH        "ACTIVISION"
+
+REFERENCE           NOAH_HELLER
+LANG_ENGLISH        "Noah Heller"
+
+REFERENCE           RHETT_CHASSEREAU
+LANG_ENGLISH        "Rhett Chassereau"
+
+REFERENCE           TAYLOR_LIVINGSTON
+LANG_ENGLISH        "Taylor Livingston"
+
+REFERENCE           DEREK_RACCA
+LANG_ENGLISH        "Derek Racca"
+
+REFERENCE           JOEL_TAUBEL
+LANG_ENGLISH        "Joel Taubel"
+
+REFERENCE           JACOB_THOMPSON
+LANG_ENGLISH        "Jacob Thompson"
+
+REFERENCE           PRODUCTION_TESTER
+LANG_ENGLISH        "Production Tester"
+
+REFERENCE           ADRIENNE_ARRASMITH
+LANG_ENGLISH        "Adrienne Arrasmith"
+
+REFERENCE           PRODUCTION_INTERN
+LANG_ENGLISH        "Production Intern"
+
+REFERENCE           NICK_TRUTANIC
+LANG_ENGLISH        "Nick Trutanic"
+
+REFERENCE           DANIEL_SUAREZ
+LANG_ENGLISH        "Daniel Suarez"
+
+REFERENCE           VICE_PRESIDENT_PRODUCTION
+LANG_ENGLISH        "Vice President, Production"
+
+REFERENCE           THAINE_LYMAN
+LANG_ENGLISH        "Thaine Lyman"
+
+REFERENCE           SVP_TECHNOLOGY_CTO
+LANG_ENGLISH        "SVP Technology, CTO"
+
+REFERENCE           STEVE_PEARCE
+LANG_ENGLISH        "Steve Pearce"
+
+REFERENCE           SVP_PRODUCTION_DEVELOPMENT_WW_STUDIOS
+LANG_ENGLISH        "SVP, Production & Development WW Studios"
+
+REFERENCE           DAVE_STOHL
+LANG_ENGLISH        "Dave Stohl"
+
+REFERENCE           GLOBAL_BRAND_MANAGEMENT
+LANG_ENGLISH        "GLOBAL BRAND MANAGEMENT"
+
+REFERENCE           SR_DIRECTOR_OF_MARKETING
+LANG_ENGLISH        "Sr. Director of Marketing"
+
+REFERENCE           JEFF_KALTREIDER
+LANG_ENGLISH        "Jeff Kaltreider"
+
+REFERENCE           GLOBAL_BRAND_MANAGER
+LANG_ENGLISH        "Global Brand Manager"
+
+REFERENCE           JEREMIAH_COHN
+LANG_ENGLISH        "Jeremiah Cohn"
+
+REFERENCE           ASSOCIATE_BRAND_MANAGERS
+LANG_ENGLISH        "Associate Brand Managers"
+
+REFERENCE           JON_DELODDER
+LANG_ENGLISH        "Jon DeLodder"
+
+REFERENCE           MIKE_SCHAEFER
+LANG_ENGLISH        "Mike Schaefer"
+
+REFERENCE           GBM_SPECIAL_THANKS
+LANG_ENGLISH        "GBM Special Thanks"
+
+REFERENCE           TABITHA_HAYES
+LANG_ENGLISH        "Tabitha Hayes"
+
+REFERENCE           JEN_FOX
+LANG_ENGLISH        "Jen Fox"
+
+REFERENCE           TOM_SILK
+LANG_ENGLISH        "Tom Silk"
+
+REFERENCE           VP_OWNED_PROPERTIES
+LANG_ENGLISH        "VP, Owned Properties"
+
+REFERENCE           DAVID_POKRESS
+LANG_ENGLISH        "David Pokress"
+
+REFERENCE           PUBLIC_RELATIONS
+LANG_ENGLISH        "PUBLIC RELATIONS"
+
+REFERENCE           PR_MANAGER
+LANG_ENGLISH        "PR Manager"
+
+REFERENCE           JOHN_RAFACZ
+LANG_ENGLISH        "John Rafacz"
+
+REFERENCE           JUNIOR_PUBLICIST
+LANG_ENGLISH        "Junior Publicist"
+
+REFERENCE           ROBERT_TAYLOR
+LANG_ENGLISH        "Robert Taylor"
+
+REFERENCE           NEIL_WOOD
+LANG_ENGLISH        "Neil Wood"
+
+REFERENCE           JON_LENAWAY
+LANG_ENGLISH        "Jon Lenaway"
+
+REFERENCE           WIEBKE_HESSE
+LANG_ENGLISH        "Wiebke Hesse"
+
+REFERENCE           OLIVER_GUBBA
+LANG_ENGLISH        "Oliver Gubba"
+
+REFERENCE           PR_DIRECTOR_OWNED_PROPERTIES
+LANG_ENGLISH        "PR Director, Owned Properties"
+
+REFERENCE           MIKE_MANTARRO
+LANG_ENGLISH        "Mike Mantarro"
+
+REFERENCE           PRODUCTION_SERVICES_EUROPE
+LANG_ENGLISH        "PRODUCTION SERVICES - EUROPE"
+
+REFERENCE           SENIOR_LOCALIZATION_PROJECT_MANAGER
+LANG_ENGLISH        "Senior Localization Project Manager"
+
+REFERENCE           FIONA_EBBS
+LANG_ENGLISH        "Fiona Ebbs"
+
+REFERENCE           LOCALIZATION_COORDINATORS
+LANG_ENGLISH        "Localization Co-ordinators"
+
+REFERENCE           DOUG_AVERY
+LANG_ENGLISH        "Doug Avery"
+
+REFERENCE           DAVID_HILL
+LANG_ENGLISH        "David Hill"
+
+REFERENCE           LOCALIZATION_QA_MANAGER
+LANG_ENGLISH        "Localization QA Manager"
+
+REFERENCE           DAVID_HICKEY
+LANG_ENGLISH        "David Hickey"
+
+REFERENCE           LOCALIZATION_QA_LEAD
+LANG_ENGLISH        "Localization QA Lead"
+
+REFERENCE           JACK_OHARA
+LANG_ENGLISH        "Jack O'Hara"
+
+REFERENCE           LOCALIZATION_QA_FLOOR_LEADS
+LANG_ENGLISH        "Localization QA Floor Leads"
+
+REFERENCE           DANIELE_CELEGHIN
+LANG_ENGLISH        "Daniele Celeghin"
+
+REFERENCE           LOCALIZATION_QA_TESTERS
+LANG_ENGLISH        "Localization QA Testers"
+
+REFERENCE           KIERAN_COSGRAVE
+LANG_ENGLISH        "    Kieran Cosgrave          Peter Kremer                Kerill Meier     "
+
+REFERENCE           JAN_VESTER
+LANG_ENGLISH        "    Jan Vester              Istvan Juhasz                Eugen Brab "
+
+REFERENCE           JEREMY_LEVI
+LANG_ENGLISH        "         Jeremy Levi             Damien Urruty         Guillame Lerouvreur"
+
+REFERENCE           BRIAN_HERLIHY
+LANG_ENGLISH        "      Brian Herlihy           Vincenzo Ferrara              Luca Visciola    "
+
+REFERENCE           FABRIZIO_AMPOLA
+LANG_ENGLISH        "           Fabrizio Ampola         Giovanni Rossi           Andres Sacias Vieira    "
+
+REFERENCE           SERGIO_GONZALEZ_MONROY
+LANG_ENGLISH        "                Stephen Lowry         Lara Sola Gallego      Luis Hernandez Dalmau    "
+
+REFERENCE           STEPHEN_LOWRY
+LANG_ENGLISH        "    Sergio Gonzalez Monroy   "
+
+REFERENCE           BURN_LAB_TECHNICIANS
+LANG_ENGLISH        "Burn Lab Technicians"
+
+REFERENCE           DEREK_BRANGAN
+LANG_ENGLISH        "Derek Brangan"
+
+REFERENCE           MARK_SMITH
+LANG_ENGLISH        "Mark Smith"
+
+REFERENCE           LOCALIZATION_TOOLS_SUPPORT
+LANG_ENGLISH        "Localization Tools & Support"
+
+REFERENCE           PROVIDED_BY_STEPHANIE_DEMING
+LANG_ENGLISH        "Provided by Stephanie Deming & XLOC, Inc."
+
+REFERENCE           DIRECTOR_OF_PROD_SERVICES_EUROPE
+LANG_ENGLISH        "Director of Production Services - Europe"
+
+REFERENCE           BARRY_KEHOE
+LANG_ENGLISH        "Barry Kehoe"
+
+REFERENCE           CENTRAL_TECHNOLOGY
+LANG_ENGLISH        "CENTRAL TECHNOLOGY"
+
+REFERENCE           SENIOR_DIRECTOR_OF_TECHNOLOGY
+LANG_ENGLISH        "Senior Director of Technology"
+
+REFERENCE           MATT_WILKINSON
+LANG_ENGLISH        "Matt Wilkinson"
+
+REFERENCE           DEMONWARE
+LANG_ENGLISH        "DemonWare"
+
+REFERENCE           NADIA_ALRAMLI
+LANG_ENGLISH        "       Nadia Alramli            David Brennan           Morgan Brickley     "
+
+REFERENCE           LUKE_BURDEN
+LANG_ENGLISH        "   Luke Burden                Aaron Burt              Michael Collins  "
+
+REFERENCE           TIM_CZERNIAK
+LANG_ENGLISH        "      Tim Czerniak             Brendan Dillon           Malcolm Dowse     "
+
+REFERENCE           EOGHAN_GAFFNEY
+LANG_ENGLISH        "   Eoghan Gaffney          Steffen Higel                 Tony Kelly     "
+
+REFERENCE           JOHN_KIRK
+LANG_ENGLISH        "      John Kirk                 Craig McInnes           Eoin O'Fearghail "
+
+REFERENCE           BYRON_PILE
+LANG_ENGLISH        "     Byron Pile                Ruaidhrí Power            Tilman Schäfer  "
+
+REFERENCE           AMY_SMITH
+LANG_ENGLISH        "      Amy Smith                                                Emmanuel Stone  "
+
+REFERENCE           SENIOR_DIRECTOR_OF_GAME_DESIGN
+LANG_ENGLISH        "Senior Director of Game Design"
+
+REFERENCE           CARL_SCHNURR
+LANG_ENGLISH        "Carl Schnurr"
+
+REFERENCE           CENTRAL_DESIGN_LEAD_COMBAT_DESIGNER
+LANG_ENGLISH        "Central Design, Lead Combat Designer"
+
+REFERENCE           DEREK_DANIELS
+LANG_ENGLISH        "Derek Daniels"
+
+REFERENCE           MANAGER_CENTRAL_USER_TESTING
+LANG_ENGLISH        "Manager, Central User Testing"
+
+REFERENCE           RAY_KOWALEWSKI
+LANG_ENGLISH        "Ray Kowalewski"
+
+REFERENCE           CENTRAL_DESIGN
+LANG_ENGLISH        "Central Design"
+
+REFERENCE           TOM_WELLS
+LANG_ENGLISH        "Tom Wells"
+
+REFERENCE           JEFFREY_CHEN
+LANG_ENGLISH        "Jeffrey Chen"
+
+REFERENCE           TALENT_AUDIO_MANAGEMENT_GROUP
+LANG_ENGLISH        "TALENT & AUDIO MANAGEMENT GROUP"
+
+REFERENCE           DIRECTOR_OF_CENTRAL_AUDIO
+LANG_ENGLISH        "Director of Central Audio"
+
+REFERENCE           ADAM_LEVENSON
+LANG_ENGLISH        "Adam Levenson"
+
+REFERENCE           AUDIO_COORDINATOR
+LANG_ENGLISH        "Audio Coordinator"
+
+REFERENCE           NOAH_SARID
+LANG_ENGLISH        "Noah Sarid"
+
+REFERENCE           TALENT_MANAGER
+LANG_ENGLISH        "Talent Manager"
+
+REFERENCE           MARCHELE_HARDIN
+LANG_ENGLISH        "Marchele Hardin"
+
+REFERENCE           MARKETING_COMMUNICATIONS
+LANG_ENGLISH        "MARKETING COMMUNICATIONS"
+
+REFERENCE           SENIOR_DIRECTOR_MARKETING_COMMUNICATIONS
+LANG_ENGLISH        "Senior Director, Marketing Communications"
+
+REFERENCE           ALEX_FIANCE
+LANG_ENGLISH        "Alex Fiance"
+
+REFERENCE           MARKETING_COMMUNICATIONS_MANAGER
+LANG_ENGLISH        "Marketing Communications Manager"
+
+REFERENCE           KAREN_STARR
+LANG_ENGLISH        "Karen Starr"
+
+REFERENCE           BUSINESS_DEVELOPMENT
+LANG_ENGLISH        "BUSINESS DEVELOPMENT"
+
+REFERENCE           DAVE_ANDERSON
+LANG_ENGLISH        "Dave Anderson"
+
+REFERENCE           RALPH_PERILLON
+LANG_ENGLISH        "Ralph Perillon"
+
+REFERENCE           LETAM_BIRA
+LANG_ENGLISH        "Letam Bira"
+
+REFERENCE           ART_SERVICES_MANAGER
+LANG_ENGLISH        "Art Services Manager"
+
+REFERENCE           TODD_PRUYN
+LANG_ENGLISH        "Todd Pruyn"
+
+REFERENCE           ART_SERVICES
+LANG_ENGLISH        "Art Services"
+
+REFERENCE           MICHAEL_HUNAU
+LANG_ENGLISH        "Michael Hunau"
+
+REFERENCE           RYAN_VOLKER
+LANG_ENGLISH        "Ryan Volker"
+
+REFERENCE           CHRIS_REINHART
+LANG_ENGLISH        "Chris Reinhart"
+
+REFERENCE           SPECIAL_THANKS
+LANG_ENGLISH        "SPECIAL THANKS"
+
+REFERENCE           MIKE_GRIFFITH
+LANG_ENGLISH        "Mike Griffith"
+
+REFERENCE           ROBIN_KAMINSKY
+LANG_ENGLISH        "Robin Kaminsky"
+
+REFERENCE           STEVE_ACKRICH
+LANG_ENGLISH        "Steve Ackrich"
+
+REFERENCE           LAIRD_M_MALAMED
+LANG_ENGLISH        "Laird M. Malamed"
+
+REFERENCE           BRIAN_WARD
+LANG_ENGLISH        "Brian Ward"
+
+REFERENCE           MARIA_STIPP
+LANG_ENGLISH        "Maria Stipp"
+
+REFERENCE           WILL_KASSOY
+LANG_ENGLISH        "Will Kassoy"
+
+REFERENCE           RAJ_SAIN
+LANG_ENGLISH        "Raj Sain"
+
+REFERENCE           MARYANNE_LATAIF
+LANG_ENGLISH        "Maryanne Lataif"
+
+REFERENCE           SUZAN_RUDE
+LANG_ENGLISH        "Suzan Rude"
+
+REFERENCE           JASON_DALBOTTEN
+LANG_ENGLISH        "Jason Dalbotten"
+
+REFERENCE           HARJINDER_SINGH
+LANG_ENGLISH        "Harjinder Singh"
+
+REFERENCE           ERIC_GLINOGA
+LANG_ENGLISH        "Eric Glinoga"
+
+REFERENCE           MICA_ROSS
+LANG_ENGLISH        "Mica Ross"
+
+REFERENCE           STEVE_YOUNG
+LANG_ENGLISH        "Steve Young"
+
+REFERENCE           BLAKE_HENNON
+LANG_ENGLISH        "Blake Hennon"
+
+REFERENCE           ALEX_MAHLKE
+LANG_ENGLISH        "Alex Mahlke"
+
+REFERENCE           SHANNON_WAHL
+LANG_ENGLISH        "Shannon Wahl"
+
+REFERENCE           CLARENCE_BELL
+LANG_ENGLISH        "Clarence Bell"
+
+REFERENCE           GEORGE_ROSE
+LANG_ENGLISH        "George Rose"
+
+REFERENCE           GREG_DEUTSCH
+LANG_ENGLISH        "Greg Deutsch"
+
+REFERENCE           MARY_TUCK
+LANG_ENGLISH        "Mary Tuck"
+
+REFERENCE           MARCUS_IREMONGER
+LANG_ENGLISH        "Marcus Iremonger"
+
+REFERENCE           MICHELLE_SCHRODER
+LANG_ENGLISH        "Michelle Schroder"
+
+REFERENCE           STEVE_HOLMES
+LANG_ENGLISH        "Steve Holmes"
+
+REFERENCE           RODRIGO_MORA
+LANG_ENGLISH        "Rodrigo Mora"
+
+REFERENCE           JASON_POSADA
+LANG_ENGLISH        "Jason Posada"
+
+REFERENCE           VICTOR_LOPEZ
+LANG_ENGLISH        "Victor Lopez"
+
+REFERENCE           JENNIFER_SULLIVAN
+LANG_ENGLISH        "Jennifer Sullivan"
+
+REFERENCE           ADAM_FOSHKO
+LANG_ENGLISH        "Adam Foshko"
+
+REFERENCE           TODD_MUELLER
+LANG_ENGLISH        "Todd Mueller"
+
+REFERENCE           BRANDON_YOUNG
+LANG_ENGLISH        "Brandon Young"
+
+REFERENCE           TIM_RILEY
+LANG_ENGLISH        "Tim Riley"
+
+REFERENCE           ANDREA_HAMMON
+LANG_ENGLISH        "Andrea Hammon"
+
+REFERENCE           ADRIAN_GOMEZ
+LANG_ENGLISH        "Adrian Gomez"
+
+REFERENCE           KARA_CORETTE
+LANG_ENGLISH        "Kara Corette"
+
+REFERENCE           CHRIS_COSBY
+LANG_ENGLISH        "Chris Cosby"
+
+REFERENCE           DEREK_BROWN
+LANG_ENGLISH        "Derek Brown"
+
+REFERENCE           PHIL_TERZIAN
+LANG_ENGLISH        "Phil Terzian"
+
+REFERENCE           TRAVIS_STANBURY
+LANG_ENGLISH        "Travis Stanbury"
+
+REFERENCE           JANE_ELMS
+LANG_ENGLISH        "Jane Elms"
+
+REFERENCE           KAP_KANG
+LANG_ENGLISH        "Kap Kang"
+
+REFERENCE           DANIELLE_KIM
+LANG_ENGLISH        "Danielle Kim"
+
+REFERENCE           ERIC_PIERCE
+LANG_ENGLISH        "Eric Pierce"
+
+REFERENCE           TED_SPIEGEL
+LANG_ENGLISH        "Ted Spiegel"
+
+REFERENCE           DUSTY_WELCH
+LANG_ENGLISH        "Dusty Welch"
+
+REFERENCE           WEST_POINT_MUSEUM_LES_JENSEN
+LANG_ENGLISH        "West Point Museum - Les Jensen"
+
+REFERENCE           MARINE_LIBRARY_ALISA_WHITLEY
+LANG_ENGLISH        "Marine Library - Alisa Whitley"
+
+REFERENCE           QUALITY_ASSURANCE
+LANG_ENGLISH        "QUALITY ASSURANCE"
+
+REFERENCE           VP_QUALITY_ASSURANCE_CUSTOMER_SERVICE
+LANG_ENGLISH        "VP Quality Assurance/Customer Service"
+
+REFERENCE           RICH_ROBINSON
+LANG_ENGLISH        "Rich Robinson"
+
+REFERENCE           DIRECTOR_QUALITY_ASSURANCE
+LANG_ENGLISH        "Director, Quality Assurance"
+
+REFERENCE           MARILENA_RIXFORD
+LANG_ENGLISH        "Marilena Morini"
+
+REFERENCE           QUALITY_ASSURANCE_FUNCTIONALITY
+LANG_ENGLISH        "QUALITY ASSURANCE, FUNCTIONALITY"
+
+REFERENCE           QA_PROJECT_LEAD_DAY_SHIFT
+LANG_ENGLISH        "QA Project Lead, Day Shift"
+
+REFERENCE           ERIK_MELEN
+LANG_ENGLISH        "Erik Melen"
+
+REFERENCE           CASEY_COLEMAN
+LANG_ENGLISH        "Casey Coleman"
+
+REFERENCE           QA_PROJECT_LEAD_NIGHT_SHIFT
+LANG_ENGLISH        "QA Project Lead, Night Shift"
+
+REFERENCE           TOM_CHUA
+LANG_ENGLISH        "Tom Chua"
+
+REFERENCE           QA_FLOOR_LEAD_DAY_SHIFT
+LANG_ENGLISH        "QA Floor Lead, Day Shift"
+
+REFERENCE           JEFF_ROPER
+LANG_ENGLISH        "Jeff Roper"
+
+REFERENCE           QA_FLOOR_LEAD_NIGHT_SHIFT
+LANG_ENGLISH        "QA Floor Lead, Night Shift"
+
+REFERENCE           JAMES_DAVIS
+LANG_ENGLISH        "James Davis"
+
+REFERENCE           JAY_MENCONI
+LANG_ENGLISH        "Jay Menconi"
+
+REFERENCE           OSCAR_RODRIGUEZ
+LANG_ENGLISH        "Oscar Rodriguez"
+
+REFERENCE           QA_DATABASE_MANAGER
+LANG_ENGLISH        "QA Database Manager"
+
+REFERENCE           MIKE_GENADRY
+LANG_ENGLISH        "Mike Genadry"
+
+REFERENCE           DILLON_CHANCE
+LANG_ENGLISH        "Dillon Chance"
+
+REFERENCE           QA_TESTERS_DAY_SHIFT
+LANG_ENGLISH        "QA Testers, Day Shift"
+
+REFERENCE           JAMES_FRYKMAN
+LANG_ENGLISH        "  James Frykman              Jason New              Jeffrey Good   "
+
+REFERENCE           CREED_WEATHERMAN
+LANG_ENGLISH        "Creed Weatherman           Marvin Rivera          Anthony Bailey   "
+
+REFERENCE           BEN_MULLER
+LANG_ENGLISH        "   Ben Muller              Demetrius Hoston        Brian Casillas  "
+
+REFERENCE           ANDY_WORSHILL
+LANG_ENGLISH        "  Andy Worshill             Davion Farris            Carlos Monroy "
+
+REFERENCE           JACOB_ZAGHA
+LANG_ENGLISH        "   Jacob Zagha                Ilan Adir               Tiffany Gouche"
+
+REFERENCE           SCOTT_J_MCPHERSON
+LANG_ENGLISH        "Scott J.  McPherson          Jeremy Ingram          Daniel Herscher  "
+
+REFERENCE           STEVEN_WRUBLEVSKI
+LANG_ENGLISH        " Steven Wrublevski         Justin Goldstein         Dillon Chance   "
+
+REFERENCE           DOMINIQUE_NEAL
+LANG_ENGLISH        " Dominique Neal             Alex Lifschitz           Harold Gim     "
+
+REFERENCE           LEVETT_WASHINGTON
+LANG_ENGLISH        "    Levett Washington       Matthew Wellman       Padraic McGowan    "
+
+REFERENCE           RONALD_DEMPSEY
+LANG_ENGLISH        "  Ronald Dempsey             Andrew Grass           Matthew Hui      "
+
+REFERENCE           STEPHEN_HODDE
+LANG_ENGLISH        "Stephen Hodde              Justin Seay               Richard Elias   "
+
+REFERENCE           MIKE_ANDEN
+LANG_ENGLISH        "    Mike Anden             Ernesto Constantino         David Rodela     "
+
+REFERENCE           JULIO_DELEON
+LANG_ENGLISH        "   Julio DeLeon               Tommy Hooper           Jason Gilmore    "
+
+REFERENCE           IAN_DOUGLAS
+LANG_ENGLISH        "  Ian Douglas               Craig Nelson                Ian Serna    "
+
+REFERENCE           THOMAS_VU
+LANG_ENGLISH        "     Thomas Vu                James Cha               Prommet Srinara "
+
+REFERENCE           STEVEN_JOHNSON
+LANG_ENGLISH        "   Steven Johnson           John Estioko              Joseph Ramos  "
+
+REFERENCE           CALEB_TURNER
+LANG_ENGLISH        "      Caleb Turner         Brandom McCartney       Christopher Pasol   "
+
+REFERENCE           STEVEN_RODRIGUEZ
+LANG_ENGLISH        "Steven Rodriguez         Tarbari Jeffries               Eric Miller     "
+
+REFERENCE           ADAM_SMITH
+LANG_ENGLISH        "      Adam Smith            Richard Bernot            Kamron Williams "
+
+REFERENCE           CARLOS_MONROY
+LANG_ENGLISH        "Christopher Tepper-Weise  "
+
+REFERENCE           QA_TESTERS_NIGHT_SHIFT
+LANG_ENGLISH        "QA Testers, Night Shift"
+
+REFERENCE           ALYSSA_DELHOTAL
+LANG_ENGLISH        "Alyssa Delhotal              Jeff Mitchell             Royal Roshto  "
+
+REFERENCE           JIMMY_YANG
+LANG_ENGLISH        "    Jimmy Yang               Jonathan Quon         Dennis Edwards   "
+
+REFERENCE           EMILY_FULLER
+LANG_ENGLISH        "Emily Fuller                   Jan Flugum              Gary Davidson"
+
+REFERENCE           ERWIN_ALCANTARA
+LANG_ENGLISH        "Erwin Alcantara             Scott Anderson            Albert Astorga"
+
+REFERENCE           ANTHONY_RUIZ
+LANG_ENGLISH        " Anthony Ruiz                Armando Acosta           Miguel Reyes "
+
+REFERENCE           BRYAN_CHICE
+LANG_ENGLISH        "Bryan Chice                   Charlton Chu              Kevin Giang"
+
+REFERENCE           EDWIN_PAYEN
+LANG_ENGLISH        "Edwin Payen                  Lerry Ortega              Emil Mansoor"
+
+REFERENCE           LA_VONCE_ERVIN
+LANG_ENGLISH        "La Vonce Ervin               Colin Tistaert            Zachary Blough"
+
+REFERENCE           JOSUE_MEDINA
+LANG_ENGLISH        "Josue Medina                 Isaiah Hayes                 Richard Lee"
+
+REFERENCE           HAI_CHIEM
+LANG_ENGLISH        "Hai Chiem                    Marc Hughley                 Ian Comi  "
+
+REFERENCE           JULES_LEWIS
+LANG_ENGLISH        "Jules Lewis                   Earl Battice                  Rain Cross"
+
+REFERENCE           MARIO_MARTINEZ
+LANG_ENGLISH        "Mario Martinez              Anthony Franco            Leonel Valtierra "
+
+REFERENCE           BLAKE_BOLTON
+LANG_ENGLISH        "Blake Bolton                  William Kelly             Michael Carlile"
+
+REFERENCE           MICHAEL_ORDONEZ
+LANG_ENGLISH        "Michael Ordonez              Kristefer Adams           Gerald Arteaga  "
+
+REFERENCE           JAVIER_PANAMENO
+LANG_ENGLISH        "Javier Panameno               Steven Springer              Gary Paul   "
+
+REFERENCE           THOMAS_RIBADENEIRA
+LANG_ENGLISH        " Thomas Ribadeneira            Jonathan Ramsay          Benjamin Johnson "
+
+REFERENCE           ANTHONY_BELLISARIO
+LANG_ENGLISH        "Anthony Bellisario             Joshua Castrejon           Matt Hartley  "
+
+REFERENCE           QA_SENIOR_PROJECT_LEAD_DAY_SHIFT
+LANG_ENGLISH        "QA Senior Project Lead, Day Shift"
+
+REFERENCE           HENRY_VILLANUEVA
+LANG_ENGLISH        "Henry Villanueva"
+
+REFERENCE           QA_SENIOR_PROJECT_LEAD_NIGHT_SHIFT
+LANG_ENGLISH        "QA Senior Project Lead, Night Shift"
+
+REFERENCE           PAUL_COLBERT
+LANG_ENGLISH        "Paul Colbert"
+
+REFERENCE           QA_MANAGER_DAY_SHIFT
+LANG_ENGLISH        "QA Manager, Day Shift"
+
+REFERENCE           GLENN_VISTANTE
+LANG_ENGLISH        "Glenn Vistante"
+
+REFERENCE           QA_MANAGER_NIGHT_SHIFT
+LANG_ENGLISH        "QA Manager, Night Shift"
+
+REFERENCE           ADAM_HARTSFIELD
+LANG_ENGLISH        "Adam Hartsfield"
+
+REFERENCE           TECHNICAL_REQUIREMENTS_GROUP
+LANG_ENGLISH        "TECHNICAL REQUIREMENTS GROUP"
+
+REFERENCE           TRG_SENIOR_MANAGER
+LANG_ENGLISH        "TRG Senior Manager"
+
+REFERENCE           CHRISTOPHER_WILSON
+LANG_ENGLISH        "Christopher Wilson"
+
+REFERENCE           TRG_SUBMISSIONS_LEAD
+LANG_ENGLISH        "TRG Submissions Lead"
+
+REFERENCE           DANIEL_L_NICHOLS
+LANG_ENGLISH        "Daniel L. Nichols"
+
+REFERENCE           CHRISTOPHER_NORMAN
+LANG_ENGLISH        "Christopher Norman"
+
+REFERENCE           TRG_SENIOR_PLATFORM_LEADS
+LANG_ENGLISH        "TRG Senior Platform Leads"
+
+REFERENCE           MARC_VILLANUEVA
+LANG_ENGLISH        "Marc Villanueva"
+
+REFERENCE           TEAK_HOLLEY
+LANG_ENGLISH        "Teak Holley"
+
+REFERENCE           TRG_PLATFORM_LEADS
+LANG_ENGLISH        "TRG Platform Leads"
+
+REFERENCE           BENJAMIN_ABEL
+LANG_ENGLISH        "Benjamin Abel"
+
+REFERENCE           JARED_BACA
+LANG_ENGLISH        "Jared Baca"
+
+REFERENCE           JAMES_ROSE
+LANG_ENGLISH        "James Rose"
+
+REFERENCE           TRG_TESTERS
+LANG_ENGLISH        "TRG Testers"
+
+REFERENCE           ALEX_HIRSCH
+LANG_ENGLISH        "Alex Hirsch"
+
+REFERENCE           CHRISTIAN_HAILE
+LANG_ENGLISH        "Christian Haile"
+
+REFERENCE           DANIEL_FEHSKENS
+LANG_ENGLISH        "Daniel Fehskens"
+
+REFERENCE           JACOB_ZWIRN
+LANG_ENGLISH        "Jacob Zwirn"
+
+REFERENCE           JASON_GARZA
+LANG_ENGLISH        "Jason Garza"
+
+REFERENCE           JONATHAN_BUTCHER
+LANG_ENGLISH        "Jonathan Butcher"
+
+REFERENCE           MARK_RUZICKA
+LANG_ENGLISH        "Mark Ruzicka"
+
+REFERENCE           PISOTH_CHHAM
+LANG_ENGLISH        "Pisoth Chham"
+
+REFERENCE           RHONDA_RAMIREZ
+LANG_ENGLISH        "Rhonda Ramirez"
+
+REFERENCE           STEFAN_BEEMAN
+LANG_ENGLISH        "Stefan Beeman"
+
+REFERENCE           TIMOTHY_GAGLIARDO
+LANG_ENGLISH        "Timothy Gagliardo"
+
+REFERENCE           CHRISTOPHER_ABEEL
+LANG_ENGLISH        "Christopher Abeel"
+
+REFERENCE           QA_CODE_RELEASE_GROUP
+LANG_ENGLISH        "QA CODE RELEASE GROUP"
+
+REFERENCE           QA_CRG_PROJECT_LEAD
+LANG_ENGLISH        "QA-CRG Acting Project Lead"
+
+REFERENCE           JEF_SEDIVY
+LANG_ENGLISH        "Jef Sedivy"
+
+REFERENCE           QA_CRG_TESTERS
+LANG_ENGLISH        "QA-CRG Testers"
+
+REFERENCE           QA_NETWORK_LAB
+LANG_ENGLISH        "QA NETWORK LAB"
+
+REFERENCE           MANAGER_QA_OPERATIONS
+LANG_ENGLISH        "Manager, QA Operations"
+
+REFERENCE           CHRIS_KEIM
+LANG_ENGLISH        "Chris Keim"
+
+REFERENCE           QA_NETWORK_LAB_SENIOR_PROJECT_LEAD
+LANG_ENGLISH        "QA Network Lab Senior Project Lead"
+
+REFERENCE           FRANCIS_JIMENEZ
+LANG_ENGLISH        "Francis Jimenez"
+
+REFERENCE           QA_NETWORK_LAB_TESTERS
+LANG_ENGLISH        "QA Network Floor Leads"
+
+REFERENCE           JESSIE_JONES
+LANG_ENGLISH        "Jessie Jones"
+
+REFERENCE           QA_MULTIPLAYER_LAB
+LANG_ENGLISH        "QA MULTIPLAYER LAB"
+
+REFERENCE           QA_MPL_PROJECT_LEAD
+LANG_ENGLISH        "QA - Multiplayer Test Lead"
+
+REFERENCE           GARRETT_OSHIRO
+LANG_ENGLISH        "Garrett Oshiro"
+
+REFERENCE           QA_MPL_FLOOR_LEADS
+LANG_ENGLISH        "QA - Multiplayer Floor Leads"
+
+REFERENCE           LEONARD_RODRIGUEZ
+LANG_ENGLISH        "Leonard Rodriguez"
+
+REFERENCE           QA_MPL_TESTERS
+LANG_ENGLISH        "QA - Multiplayer Testers"
+
+REFERENCE           SHAMENE_CHILDRESS
+LANG_ENGLISH        "Shamen'e Childress"
+
+REFERENCE           MATTHEW_FAWBUSH
+LANG_ENGLISH        "Matthew Fawbush"
+
+REFERENCE           JAEMIN_KANG
+LANG_ENGLISH        "Jaemin Kang"
+
+REFERENCE           BRIAN_LAY
+LANG_ENGLISH        "Brian Lay"
+
+REFERENCE           JONATHAN_MACK
+LANG_ENGLISH        "Jonathan Mack"
+
+REFERENCE           QA_COMPATIBILITY_LAB
+LANG_ENGLISH        "QA COMPATIBILITY LAB"
+
+REFERENCE           QA_CL_SENIOR_PROJECT_LEAD
+LANG_ENGLISH        "QA-CL Senior Project Lead"
+
+REFERENCE           NEIL_BARIZO
+LANG_ENGLISH        "Neil Barizo"
+
+REFERENCE           QA_CL_LAB_PROJECT_LEAD
+LANG_ENGLISH        "QA-CL Lab Project Lead"
+
+REFERENCE           CHRIS_NEAL
+LANG_ENGLISH        "Chris Neal"
+
+REFERENCE           QA_CL_LAB_TESTERS
+LANG_ENGLISH        "QA-CL Lab Testers"
+
+REFERENCE           ALBERT_LEE
+LANG_ENGLISH        "Albert lee"
+
+REFERENCE           WILLIAM_WHALEY
+LANG_ENGLISH        "William Whaley"
+
+REFERENCE           QA_AUDIO_VISUAL_LAB
+LANG_ENGLISH        "QA AUDIO VISUAL LAB"
+
+REFERENCE           QA_AVL_PROJECT_LEAD
+LANG_ENGLISH        "QA-AVL Project Lead"
+
+REFERENCE           VICTOR_DURLING
+LANG_ENGLISH        "Victor Durling"
+
+REFERENCE           QA_AVL_TESTER
+LANG_ENGLISH        "QA-AVL Tester"
+
+REFERENCE           CLIFF_HOOPER
+LANG_ENGLISH        "Cliff Hooper"
+
+REFERENCE           QA_BURNROOM
+LANG_ENGLISH        "QA BURNROOM"
+
+REFERENCE           BURN_ROOM_SUPERVISOR
+LANG_ENGLISH        "Burn Room Supervisor"
+
+REFERENCE           JOULE_MIDDLETON
+LANG_ENGLISH        "Joule Middleton"
+
+REFERENCE           BURN_ROOM_TECHNICIANS
+LANG_ENGLISH        "Burn Room Technicians"
+
+REFERENCE           DANNY_FENG
+LANG_ENGLISH        "Danny Feng"
+
+REFERENCE           KAI_HSU
+LANG_ENGLISH        "Kai Hsu"
+
+REFERENCE           SEAN_KIM
+LANG_ENGLISH        "Sean Kim"
+
+REFERENCE           RODRIGO_MAGANA
+LANG_ENGLISH        "Rodrigo Magana"
+
+REFERENCE           QA_MIS
+LANG_ENGLISH        "QA-MIS"
+
+REFERENCE           SENIOR_MANAGER_QA_TECHNOLOGIES
+LANG_ENGLISH        "Senior Manager, QA Technologies"
+
+REFERENCE           INDRA_YEE
+LANG_ENGLISH        "Indra Yee"
+
+REFERENCE           QA_MIS_MANAGER
+LANG_ENGLISH        "QA-MIS Manager"
+
+REFERENCE           DAVE_GARCIA_GOMEZ
+LANG_ENGLISH        "Dave Garcia-Gomez"
+
+REFERENCE           QA_MIS_TECHNICIANS
+LANG_ENGLISH        "QA-MIS Technicians"
+
+REFERENCE           TEDDY_HWANG
+LANG_ENGLISH        "Teddy Hwang"
+
+REFERENCE           BRIAN_MARTIN
+LANG_ENGLISH        "Brian Martin"
+
+REFERENCE           JEREMY_TORRES
+LANG_ENGLISH        "Jeremy Torres"
+
+REFERENCE           LAWRENCE_WEI
+LANG_ENGLISH        "Lawrence Wei"
+
+REFERENCE           QA_MIS_WEB_DEVELOPER
+LANG_ENGLISH        "QA-MIS Web Developer"
+
+REFERENCE           SEAN_OLSON
+LANG_ENGLISH        "Sean Olson"
+
+REFERENCE           QA_MIS_EQUIPMENT_COORDINATORS
+LANG_ENGLISH        "QA-MIS Equipment Coordinators"
+
+REFERENCE           LONG_LE
+LANG_ENGLISH        "Long Le"
+
+REFERENCE           COLEMAN_THAXTON
+LANG_ENGLISH        "Coleman Thaxton"
+
+REFERENCE           QA_DBA_GROUP
+LANG_ENGLISH        "QA DBA GROUP"
+
+REFERENCE           SENIOR_LEAD_DATABASE_ADMINISTRATOR
+LANG_ENGLISH        "Senior Lead Database Administrator"
+
+REFERENCE           JEREMY_RICHARDS
+LANG_ENGLISH        "Jeremy Richards"
+
+REFERENCE           LEAD_DATABASE_ADMINISTRATOR
+LANG_ENGLISH        "Lead Database Administrator"
+
+REFERENCE           KELLY_HUFFINE
+LANG_ENGLISH        "Kelly Huffine"
+
+REFERENCE           DBA_SENIOR_TESTERS
+LANG_ENGLISH        "DBA Senior Testers"
+
+REFERENCE           CHRISTOPHER_SHANLEY
+LANG_ENGLISH        "Christopher Shanley"
+
+REFERENCE           TIMOTHY_TOLEDO
+LANG_ENGLISH        "Timothy Toledo"
+
+REFERENCE           WAYNE_WILLIAMS
+LANG_ENGLISH        "Wayne Williams"
+
+REFERENCE           DBA_TESTERS
+LANG_ENGLISH        "DBA Testers"
+
+REFERENCE           JON_LUCE
+LANG_ENGLISH        "Jon Luce"
+
+REFERENCE           DENNIS_SOH
+LANG_ENGLISH        "Dennis Soh"
+
+REFERENCE           NICK_CHAVEZ
+LANG_ENGLISH        "Nick Chavez"
+
+REFERENCE           CUSTOMER_SUPPORT_MANAGERS
+LANG_ENGLISH        "Customer Support Managers"
+
+REFERENCE           GARY_BOLDUC
+LANG_ENGLISH        "Gary Bolduc"
+
+REFERENCE           MICHAEL_HILL
+LANG_ENGLISH        "Michael Hill"
+
+REFERENCE           QA_SPECIAL_THANKS
+LANG_ENGLISH        "QA SPECIAL THANKS"
+
+REFERENCE           MIKE_CLARKE
+LANG_ENGLISH        "Michael Clarke"
+
+REFERENCE           NADINE_THEUZILLOT
+LANG_ENGLISH        "Nadine Theuzillot"
+
+REFERENCE           DENISE_LUCE
+LANG_ENGLISH        "Denise Luce"
+
+REFERENCE           RACHEL_OVERTON
+LANG_ENGLISH        "Rachel Overton"
+
+REFERENCE           AILEEN_GALEAS
+LANG_ENGLISH        "Aileen Galeas"
+
+REFERENCE           JEREMY_SHORTELL
+LANG_ENGLISH        "Jeremy Shortell"
+
+REFERENCE           DYLAN_RIXFORD
+LANG_ENGLISH        "Dylan Rixford"
+
+REFERENCE           MARC_WILLIAMS
+LANG_ENGLISH        "Marc Williams"
+
+REFERENCE           RICHARD_PEARSON
+LANG_ENGLISH        "Richard Pearson"
+
+REFERENCE           MANUAL_DESIGN
+LANG_ENGLISH        "Manual Design"
+
+REFERENCE           IGNITED_MINDS_LLC
+LANG_ENGLISH        "Ignited Minds, LLC"
+
+REFERENCE           PACKAGING_DESIGN_BY
+LANG_ENGLISH        "Packaging Design by"
+
+REFERENCE           PETROL
+LANG_ENGLISH        "Petrol"
+
+REFERENCE           USES_BINK_VIDEO_COPYRIGHT
+LANG_ENGLISH        "Uses Bink Video. Copyright © 1997-2008 by RAD Game Tools, Inc."
+
+REFERENCE           USES_MILES_SOUND_SYSTEM
+LANG_ENGLISH        "Uses Miles Sound System. Copyright 1991-2008 by RAD Game Tools, Inc."
+
+REFERENCE           THIS_PRODUCT_USES_FMOD
+LANG_ENGLISH        "This product uses 'FMOD Ex Sound System' by Firelight Technologies."
+
+REFERENCE           FONTS_LICENSED_FROM
+LANG_ENGLISH        "Fonts licensed from"
+
+REFERENCE           T26_INC
+LANG_ENGLISH        "T26, Inc."
+
+REFERENCE           MONOTYPE
+LANG_ENGLISH        "Monotype"
+
+REFERENCE           THE_CHARACTERS_AND_EVENTS
+LANG_ENGLISH        "The characters and events depicted in this game are fictitious."
+
+REFERENCE           ANY_SIMILARITY
+LANG_ENGLISH        "Any similarity to actual persons, living or dead, is purely coincidental."
+
+REFERENCE           MIXED_AND_MASTERED
+LANG_ENGLISH        "Call of Duty: World At War mixed and mastered by"
+
+REFERENCE           TREYARCH_AUDIO_COD_TEAM
+LANG_ENGLISH        "Treyarch Audio: CoD Team"
+
+REFERENCE           SPECIAL_THANKS_TO_LEN_HAYES
+LANG_ENGLISH        "Special thanks to Len Hayes of the First Marine Division Veterans Association"
+
+REFERENCE           AND_THE_FOLLOWING
+LANG_ENGLISH        "and the following veterans for sharing their stories and insight."
+
+REFERENCE           WE_ARE_INSPIRED
+LANG_ENGLISH        "We are inspired and humbled by your sacrifice."
+
+REFERENCE           CLINTON_ACKERMAN
+LANG_ENGLISH        "Clinton Ackerman"
+
+REFERENCE           ALLAN_R_BISHOP
+LANG_ENGLISH        "Allan R. Bishop"
+
+REFERENCE           DON_BISHOP
+LANG_ENGLISH        "Don Bishop"
+
+REFERENCE           RUSSELL_DIEFENBACH
+LANG_ENGLISH        "Russell Diefenbach"
+
+REFERENCE           JOHN_PAUL_DRESTE
+LANG_ENGLISH        "John Paul Dreste"
+
+REFERENCE           LEOPOLDO_GRIEGO
+LANG_ENGLISH        "Leopoldo Griego"
+
+REFERENCE           TOM_HARGRAVES
+LANG_ENGLISH        "Tom Hargraves"
+
+REFERENCE           BILL_JENKINS
+LANG_ENGLISH        "Bill Jenkins"
+
+REFERENCE           SEMPER_FI
+LANG_ENGLISH        "SEMPER FI"
+
+REFERENCE           CHRIS_BANNOCK
+LANG_ENGLISH        "Chris Bannock"
+
+REFERENCE           SCOTT_BEAN
+LANG_ENGLISH        "Scott Bean"
+
+REFERENCE           JAMIE_PARENT
+LANG_ENGLISH        "Jamie Parent"
+
+REFERENCE           MILITARY_ADVISOR
+LANG_ENGLISH        "Military Advisor"
+
+REFERENCE           HANK_KEIRSEY
+LANG_ENGLISH        "Lt. Colonel (ret.) Hank Keirsey"
+
+REFERENCE           TRG_LEAD
+LANG_ENGLISH        "TRG Lead"
+
+REFERENCE           MARK_JIHANIAN
+LANG_ENGLISH        "Mark Jihanian"
+
+REFERENCE           GUITAR_ARRANGEMENTS
+LANG_ENGLISH        "Guitar Arrangements"
+
+REFERENCE           WORLD_AT_WAR_REMIX
+LANG_ENGLISH        "World at War Remix"
+
+REFERENCE           LEAD_ENGINEER
+LANG_ENGLISH        "Lead Engineer"
+
+REFERENCE           KYLE_CAREY
+LANG_ENGLISH        "Kyle Carey"
+
+REFERENCE           JASON_HARRIS
+LANG_ENGLISH        "Jason Harris"
+
+REFERENCE           BRIAN_BENSI
+LANG_ENGLISH        "Brian Bensi"
+
+REFERENCE           PAUL_CARRION
+LANG_ENGLISH        "Paul Carrion"
+
+REFERENCE           TOMO_SHIKAMI
+LANG_ENGLISH        "Tomo Shikami"
+
+REFERENCE           KEITH_KODAMA
+LANG_ENGLISH        "Keith Kodama"
+
+REFERENCE           COLIN_KAWAKAMI
+LANG_ENGLISH        "Colin Kawakami"
+
+REFERENCE           SCOTT_BORAKOVE
+LANG_ENGLISH        "Scott Borakove"
+
+REFERENCE           SCOTT_WINSLOW
+LANG_ENGLISH        "Scott Winslow"
+
+REFERENCE           JOHN_MCCURRY
+LANG_ENGLISH        "John McCurry"
+
+REFERENCE           KIRT_SANCHEZ
+LANG_ENGLISH        "Kirt Sanchez"
+
+REFERENCE           MELVIN_ALLEN
+LANG_ENGLISH        "Melvin Allen"
+
+REFERENCE           STEFAN_GOODREAU
+LANG_ENGLISH        "Stefan Goodreau"
+
+REFERENCE           ELIZABETH_HICKEY_MCCOY
+LANG_ENGLISH        "Elizabeth Hickey-McCoy"
+
+REFERENCE           JENNIFER_GOODMAN
+LANG_ENGLISH        "Jennifer Goodman"
+
+REFERENCE           MIKE_JUAREZ
+LANG_ENGLISH        "Mike Juarez"
+
+REFERENCE           DAVID_OBERLIN
+LANG_ENGLISH        "David Oberlin"
+
+REFERENCE           BRENT_GOTHOLD
+LANG_ENGLISH        "Brent Gothold"
+
+REFERENCE           VIDAL_CANTU
+LANG_ENGLISH        "Vidal Cantu"
+
+REFERENCE           BRIAN_BAKER
+LANG_ENGLISH        "Brian Baker"
+
+REFERENCE           TAKUMA_KOKUBO
+LANG_ENGLISH        "Takuma Kokubo"
+
+REFERENCE           PROJECT_LEAD_WII_TEAM
+LANG_ENGLISH        "Platform Lead"
+
+REFERENCE           SAM_NOURIANI
+LANG_ENGLISH        "Sam Nouriani"
+
+REFERENCE           TECHNICAL_DIRECTOR
+LANG_ENGLISH        "Technical Director"
+
+REFERENCE           JOHN_ALLENSWORTH
+LANG_ENGLISH        "John Allensworth"
+
+REFERENCE           TREVOR_BRESAW
+LANG_ENGLISH        "Trevor Bresaw"
+
+REFERENCE           JOEL_KU
+LANG_ENGLISH        "Joel Ku"
+
+REFERENCE           EXAKT_ENTERTAINMENT
+LANG_ENGLISH        "EXAKT Entertainment, Inc."
+
+REFERENCE           PAUL_ASHDOWN
+LANG_ENGLISH        "Paul Ashdown"
+
+REFERENCE           ERAN_RICH
+LANG_ENGLISH        "Eran Rich"
+
+REFERENCE           FXVILLE
+LANG_ENGLISH        "FXVille"
+
+REFERENCE           JOSEPH_OLSON
+LANG_ENGLISH        "Joseph Olson"
+
+REFERENCE           JOHN_SCRAPPER
+LANG_ENGLISH        "John Scrapper"
+
+REFERENCE           JONATHAN_PETERS
+LANG_ENGLISH        "Jonathan Peters"
+
+REFERENCE           GARRETT_SMITH
+LANG_ENGLISH        "Garrett Smith"
+
+REFERENCE           JOHN_SHIRKEY
+LANG_ENGLISH        "John Shirkey"
+
+REFERENCE           CHRISTINE_HOTTOVY
+LANG_ENGLISH        "Christine Hottovy"
+
+REFERENCE           SASAN_HELMI
+LANG_ENGLISH        "Sasan 'Sauce' Helmi"
+
+REFERENCE           TODD_SUTTON
+LANG_ENGLISH        "Todd Sutton"
+
+REFERENCE           ZAC_BLITZ
+LANG_ENGLISH        "Zac Blitz"
+
+REFERENCE           MENAS_KAPITSAS
+LANG_ENGLISH        "Menas Kapitsas"
+
+REFERENCE           ERIC_STANZIONE
+LANG_ENGLISH        "Eric Stanzione"
+
+REFERENCE           ANTHONY_ROCHA
+LANG_ENGLISH        "Anthony Rocha"
+
+REFERENCE           ANTOINE_BOHANNON
+LANG_ENGLISH        "Antoine 'Bo' Bohannon"
+
+REFERENCE           BRYAN_PAPA
+LANG_ENGLISH        "Bryan Papa"
+
+REFERENCE           EDDIE_FERNANDO_ARAUJO
+LANG_ENGLISH        "Eddie Fernando Araujo"
+
+REFERENCE           JEFF_KOYAMA
+LANG_ENGLISH        "Jeff Koyama"
+
+REFERENCE           JOE_PARDO
+LANG_ENGLISH        "Joe Pardo"
+
+REFERENCE           JUSTIN_GOGUE
+LANG_ENGLISH        "Justin Gogue"
+
+REFERENCE           LUCAS_GOODMAN
+LANG_ENGLISH        "Lucas Goodman"
+
+REFERENCE           TOMER_MOR
+LANG_ENGLISH        "Tomer Mor"
+
+REFERENCE           SHON_GRAY
+LANG_ENGLISH        "Shon Gray"
+
+REFERENCE           SANTIAGO_SALVADOR
+LANG_ENGLISH        "Santiago Salvador"
+
+REFERENCE           STEVE_MCILROY
+LANG_ENGLISH        "Steve McIlroy"
+
+REFERENCE           PROJECT_LEAD_PC
+LANG_ENGLISH        "Project Lead, PC Team"
+
+REFERENCE           CESAR_STASTNY
+LANG_ENGLISH        "Cesar Stastny"
+
+REFERENCE           AP_PC
+LANG_ENGLISH        "Associate Producer, PC Team"
+
+REFERENCE           KEN_SATO
+LANG_ENGLISH        "Ken Sato"
+
+REFERENCE           JAMES_CHIEN_CHEN
+LANG_ENGLISH        "James Chien Chen"
+
+REFERENCE           LEAD_ENGINEER_PC
+LANG_ENGLISH        "Lead Engineer, PC Team"
+
+REFERENCE           ENGINEERS_PC_TEAM
+LANG_ENGLISH        "Engineers, PC Team"
+
+REFERENCE           MICHAEL_BEACH
+LANG_ENGLISH        "Michael Beach"
+
+REFERENCE           QA_PC_MOD_TOOLS
+LANG_ENGLISH        "Quality Assurance, PC Mod Tools"
+
+REFERENCE           TONY_KRAMER
+LANG_ENGLISH        "Tony Kramer"
+
+REFERENCE           GAVIN_NIEBEL
+LANG_ENGLISH        "Gavin Niebel"
+
+REFERENCE           ALEX_ROMO
+LANG_ENGLISH        "Alex Romo"
+
+REFERENCE           NATHAN_FILLHARDT
+LANG_ENGLISH        "Nathan Fillhardt"
+
+REFERENCE           DEDICATION
+LANG_ENGLISH        " Dedicated to the veterans of World War II who \nsacrificed their lives for the preservation of liberty."
+
+REFERENCE           JULIUS_HIPOLITO
+LANG_ENGLISH        "Julius Hipolito"
+
+REFERENCE           SKYE_CHANDLER
+LANG_ENGLISH        "Skye Chandler"
+
+REFERENCE           JOHN_GETTY
+LANG_ENGLISH        "John Getty"
+
+REFERENCE           ELLIOT_GOMEZ
+LANG_ENGLISH        "Elliot Gomez"
+
+REFERENCE           GABRIEL_HIDALGO
+LANG_ENGLISH        "Gabriel Hidalgo"
+
+REFERENCE           DANIEL_KIM
+LANG_ENGLISH        "Daniel Kim"
+
+REFERENCE           HYUN_ANDY_KIM
+LANG_ENGLISH        "Hyun Andy Kim"
+
+REFERENCE           IAN_LYNCH
+LANG_ENGLISH        "Ian Lynch"
+
+REFERENCE           RYAN_RIGG
+LANG_ENGLISH        "Ryan Rigg"
+
+REFERENCE           JONATHAN_YANIV_SADKA
+LANG_ENGLISH        "Jonathan Yaniv Sadka"
+
+REFERENCE           KURTIS_SHERMAN
+LANG_ENGLISH        "Kurtis Sherman"
+
+REFERENCE           MATT_JENSEN
+LANG_ENGLISH        "Matt Jensen"
+
+REFERENCE           QA_CL_LAB_SPECIALIST
+LANG_ENGLISH        "QA-CL Lab Specialist"
+
+REFERENCE           JON_AN
+LANG_ENGLISH        "Jon An"
+
+REFERENCE           DOV_CARSON
+LANG_ENGLISH        "Dov Carson"
+
+REFERENCE           MATT_RYAN
+LANG_ENGLISH        "Matt Ryan"
+
+REFERENCE           BOBBY_JONES
+LANG_ENGLISH        "Bobby Jones"
+
+REFERENCE           JULIO_MEDINA
+LANG_ENGLISH        "Julio Mendina"
+
+REFERENCE           EMMANUEL_SALVA_CRUZ
+LANG_ENGLISH        "Emmanuel Salva Cruz"
+
+REFERENCE           RUSTY_GYGAX
+LANG_ENGLISH        "Rusty Gygax"
+
+REFERENCE           NATY_HOFFMAN
+LANG_ENGLISH        "Naty Hoffman"
+
+
+ENDMARKER
+
+

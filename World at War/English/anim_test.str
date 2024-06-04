@@ -1,0 +1,49 @@
+// Note to translators:
+// If a sentence is the same in your language then please change it to "#same"
+//
+// eg:
+// LANG_ENGLISH  "HALT"
+// LANG_GERMAN   "#same"
+//
+// (This is so we can tell which strings have been signed-off as ok to be the same words for QA
+//  and because we do not store duplicate strings, which will then get exported again next time
+//  as being untranslated.)
+//
+VERSION             "1"
+CONFIG              "G:\CoD5\cod\cod5\bin\StringEd.cfg"
+FILENOTES           ""
+
+REFERENCE           ANIM_RATE
+LANG_ENGLISH        "Anim Rate:"
+
+REFERENCE           FORCE_LOOP
+LANG_ENGLISH        "Force Loop:"
+
+REFERENCE           PLAY_IN_PLACE
+LANG_ENGLISH        "Play in Place:"
+
+REFERENCE           PLAY_IN_1_SPOT
+LANG_ENGLISH        "Play in 1 Spot:"
+
+REFERENCE           PLAY_OFF_LAST_SPOT
+LANG_ENGLISH        "Play off Last Spot:"
+
+REFERENCE           DISPLAY_INFO
+LANG_ENGLISH        "Display Info:"
+
+REFERENCE           DRAW_NOTETRACKS
+LANG_ENGLISH        "Draw Notetracks:"
+
+REFERENCE           OFF
+LANG_ENGLISH        "OFF"
+
+REFERENCE           ON
+LANG_ENGLISH        "ON"
+
+REFERENCE           Z_OFFSET
+LANG_ENGLISH        "Z Offset:"
+
+
+ENDMARKER
+
+

@@ -1,0 +1,271 @@
+// Note to translators:
+// If a sentence is the same in your language then please change it to "#same"
+//
+// eg:
+// LANG_ENGLISH  "HALT"
+// LANG_GERMAN   "#same"
+//
+// (This is so we can tell which strings have been signed-off as ok to be the same words for QA
+//  and because we do not store duplicate strings, which will then get exported again next time
+//  as being untranslated.)
+//
+VERSION             "1"
+CONFIG              "C:\cod5\cod\cod5\bin\StringEd.cfg"
+FILENOTES           ""
+
+REFERENCE           NEEDS_REVIVE
+LANG_ENGLISH        "needs to be revived."
+
+REFERENCE           NOSPECTATORVOICECHAT
+LANG_ENGLISH        "Can't voice chat as a spectator."
+
+REFERENCE           SPECTATOR
+LANG_ENGLISH        "Spectator"
+
+REFERENCE           COMPLAINTFILED
+LANG_ENGLISH        "Your complaint has been filed"
+
+REFERENCE           COMPLAINTDISMISSED
+LANG_ENGLISH        "Complaint dismissed"
+
+REFERENCE           COMPLAINTSERVERHOST
+LANG_ENGLISH        "Server Host cannot be complained against"
+
+REFERENCE           SERVERHOSTTEAMKILLED
+LANG_ENGLISH        "You were team-killed by the Server Host"
+
+REFERENCE           COMPLAINTTEAMKILLFILE
+LANG_ENGLISH        "File complaint against &&1 for team-killing?"
+
+REFERENCE           PRESSYESNO
+LANG_ENGLISH        "Press '&&1' for Yes, or '&&2' for No"
+
+REFERENCE           VOTE
+LANG_ENGLISH        "Vote"
+
+REFERENCE           YES
+LANG_ENGLISH        "Yes"
+
+REFERENCE           NO
+LANG_ENGLISH        "No"
+
+REFERENCE           FOLLOWING
+LANG_ENGLISH        "Spectating"
+
+REFERENCE           YOUREVIVED
+LANG_ENGLISH        "You revived &&1"
+
+REFERENCE           YOUKILLED
+LANG_ENGLISH        "You killed &&1"
+
+REFERENCE           TEAMMATE
+LANG_ENGLISH        "Teammate"
+
+REFERENCE           UNKNOWN
+LANG_ENGLISH        "unknown"
+
+REFERENCE           MISSIONOBJECTIVES_CAP
+LANG_ENGLISH        "MISSION OBJECTIVES"
+
+REFERENCE           MISSIONOBJECTIVES
+LANG_ENGLISH        "Mission Objectives"
+
+REFERENCE           PAUSED
+LANG_ENGLISH        "Paused"
+
+REFERENCE           PLAYERRENAMES
+LANG_ENGLISH        "renamed to"
+
+REFERENCE           CONNECTIONINTERUPTED
+LANG_ENGLISH        "Connection Interrupted"
+
+REFERENCE           SPECTATORS
+LANG_ENGLISH        "Spectators"
+
+REFERENCE           FOR
+LANG_ENGLISH        "for"
+
+REFERENCE           DIED
+LANG_ENGLISH        "died"
+
+REFERENCE           MELEE
+LANG_ENGLISH        "melee"
+
+REFERENCE           SUICIDE
+LANG_ENGLISH        "suicide"
+
+REFERENCE           FALLING
+LANG_ENGLISH        "falling"
+
+REFERENCE           CRUSH
+LANG_ENGLISH        "crush"
+
+REFERENCE           DROWN
+LANG_ENGLISH        "drown"
+
+REFERENCE           SLIME
+LANG_ENGLISH        "slime"
+
+REFERENCE           WAITINGFORSERVERLOAD
+LANG_ENGLISH        "Waiting for server to load new map"
+
+REFERENCE           HEAD_SHOT
+LANG_ENGLISH        "head shot"
+
+REFERENCE           PRONE_BLOCKED
+LANG_ENGLISH        "Prone Blocked"
+
+REFERENCE           PRONE_BLOCKED_WEAPON
+LANG_ENGLISH        "Can't Go Prone With This Weapon"
+
+REFERENCE           HEALTH
+LANG_ENGLISH        "Health"
+
+REFERENCE           LISTENSERVER
+LANG_ENGLISH        "Listen Server"
+
+REFERENCE           THIS_WEAPON_HAS_NO_ALTERNATE
+LANG_ENGLISH        "This weapon has no alternate mode to switch to."
+
+REFERENCE           YOUWEREREVIVED
+LANG_ENGLISH        "Revived by &&1"
+
+REFERENCE           YOUWEREKILLED
+LANG_ENGLISH        "Killed by &&1"
+
+REFERENCE           NOW_SAVING
+LANG_ENGLISH        "Saving..."
+
+REFERENCE           CONTINUE_SAVING_CAP
+LANG_ENGLISH        "SAVE AND QUIT"
+
+REFERENCE           CONTINUE_SAVING
+LANG_ENGLISH        "Save and Quit"
+
+REFERENCE           SAVE_WARNING
+LANG_ENGLISH        "Are you sure you want to overwrite this content? \nAll progress within this save content will be lost. \n\nContinue saving?"
+
+REFERENCE           RESTART_WARNING
+LANG_ENGLISH        "If you restart now, you will lose \nany progress that you have made \nin this mission\n\nContinue restart?"
+
+REFERENCE           SAVE_VICTORY
+LANG_ENGLISH        "Would you like to save your game progress?"
+
+REFERENCE           OBJECTIVE_BELOW
+LANG_ENGLISH        "Objective Below"
+
+REFERENCE           OBJECTIVE_ABOVE
+LANG_ENGLISH        "Objective Above"
+
+REFERENCE           SQUAD_CLEAR
+LANG_ENGLISH        "Squad leader cancelled the command"
+
+REFERENCE           SQUAD_ATTACK
+LANG_ENGLISH        "Attack command issued by squad leader"
+
+REFERENCE           SQUAD_REGROUP
+LANG_ENGLISH        "Regroup command issued by squad leader"
+
+REFERENCE           SQUAD_DEFEND
+LANG_ENGLISH        "Defend command issued by squad leader"
+
+REFERENCE           SQUAD_LEADERCHANGED
+LANG_ENGLISH        "Squad leader changed ! Your new squad leader is "
+
+REFERENCE           SQUAD_DISBANDED
+LANG_ENGLISH        "Your squad has been disbanded. You are now a lone wolf."
+
+REFERENCE           SQUAD_MEMBERJOINED
+LANG_ENGLISH        "has joined squad"
+
+REFERENCE           SQUAD_MEMBERLEFT
+LANG_ENGLISH        "has left squad"
+
+REFERENCE           SQUAD_MEMBERKICKED
+LANG_ENGLISH        "kicked you from squad"
+
+REFERENCE           SQUAD_INVITERECEIVED
+LANG_ENGLISH        "has invited you to squad"
+
+REFERENCE           DW_SENT_GAME_INVITE
+LANG_ENGLISH        "has sent you a game invite."
+
+REFERENCE           DW_ACCEPTED_FRIEND
+LANG_ENGLISH        "has accepted your friendship proposal."
+
+REFERENCE           DW_CANCEL_FRIEND
+LANG_ENGLISH        "has cancelled their request for friendship."
+
+REFERENCE           DW_REVOKED_FRIEND
+LANG_ENGLISH        "has revoked their friendship."
+
+REFERENCE           DW_REJECTED_FRIEND
+LANG_ENGLISH        "has rejected your friendship proposal."
+
+REFERENCE           DW_WANTS_TO_BE_FRIEND
+LANG_ENGLISH        "wants to be your friend."
+
+REFERENCE           DW_IS_OFFLINE
+LANG_ENGLISH        "is offline"
+
+REFERENCE           DW_IS_ONLINE
+LANG_ENGLISH        "is online"
+
+REFERENCE           SB_PLAYER
+LANG_ENGLISH        "&&1"
+
+REFERENCE           SB_PLAYERS
+LANG_ENGLISH        "&&1"
+
+REFERENCE           SB_SCORE
+LANG_ENGLISH        "Score"
+
+REFERENCE           SB_POINTS
+LANG_ENGLISH        "Points"
+
+REFERENCE           SB_DEATHS
+LANG_ENGLISH        "Deaths"
+
+REFERENCE           SB_PING
+LANG_ENGLISH        "Ping"
+
+REFERENCE           SB_KILLS
+LANG_ENGLISH        "Kills"
+
+REFERENCE           SB_ASSISTS
+LANG_ENGLISH        "Assists"
+
+REFERENCE           SB_REVIVES
+LANG_ENGLISH        "Revives"
+
+REFERENCE           SB_DOWNS
+LANG_ENGLISH        "Downs"
+
+REFERENCE           SB_ACCURACY
+LANG_ENGLISH        "Accuracy"
+
+REFERENCE           SB_HEADSHOTS
+LANG_ENGLISH        "Headshots"
+
+REFERENCE           AM_IN_FIRST_PLACE
+LANG_ENGLISH        "&&1 has taken the lead"
+
+REFERENCE           SQUAD_CREATEDSQUAD
+LANG_ENGLISH        "You have created squad"
+
+REFERENCE           SQUAD_JOINEDSQUAD
+LANG_ENGLISH        "You have joined squad"
+
+REFERENCE           SQUAD_LEFTSQUAD
+LANG_ENGLISH        "You have left squad"
+
+REFERENCE           SQUAD_LONEWOLF
+LANG_ENGLISH        "You are now a lone wolf."
+
+REFERENCE           COOP_FOUND_COLLECTIBLE
+LANG_ENGLISH        "&&1 found a death card"
+
+
+ENDMARKER
+
+

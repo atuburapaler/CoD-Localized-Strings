@@ -1,0 +1,292 @@
+// Note to translators:
+// If a sentence is the same in your language then please change it to "#same"
+//
+// eg:
+// LANG_ENGLISH  "HALT"
+// LANG_GERMAN   "#same"
+//
+// (This is so we can tell which strings have been signed-off as ok to be the same words for QA
+//  and because we do not store duplicate strings, which will then get exported again next time
+//  as being untranslated.)
+//
+VERSION             "1"
+CONFIG              "C:\cod5\cod\cod5\bin\StringEd.cfg"
+FILENOTES           ""
+
+REFERENCE           SEE2_TRAINSTATION
+LANG_ENGLISH        "Train Station"
+
+REFERENCE           SEE2_AIRSTRIKE
+LANG_ENGLISH        "Final Tank Battle"
+
+REFERENCE           SEE2_FUELDEPOT
+LANG_ENGLISH        "Fuel Depot"
+
+REFERENCE           SEE2_RADIOTOWER
+LANG_ENGLISH        "Destroy Radio Tower"
+
+REFERENCE           PEL1A_EVENT2
+LANG_ENGLISH        "1st Mortar Pit"
+
+REFERENCE           SNIPER_EVENT2B
+LANG_ENGLISH        "Burning building event - EVENT2b"
+
+REFERENCE           PEL1A_EVENT3
+LANG_ENGLISH        "2nd Mortar Pit"
+
+REFERENCE           PEL1A_EVENT4
+LANG_ENGLISH        "3rd Mortar Pit"
+
+REFERENCE           DEFAULT
+LANG_ENGLISH        "Default"
+
+REFERENCE           AVAILABLE_STARTS
+LANG_ENGLISH        "Available Starts:"
+
+REFERENCE           PEL2_BUNKERS
+LANG_ENGLISH        "Bunkers"
+
+REFERENCE           PEL2_FLAME
+LANG_ENGLISH        "Flame"
+
+REFERENCE           PEL2_FOREST
+LANG_ENGLISH        "Sand Dunes"
+
+REFERENCE           PEL2_ADMIN
+LANG_ENGLISH        "Admin Building"
+
+REFERENCE           PEL2_AIRFIELD
+LANG_ENGLISH        "Airfield"
+
+REFERENCE           PEL2_AAGUNS
+LANG_ENGLISH        "AA Guns"
+
+REFERENCE           PEL2_NAPALM
+LANG_ENGLISH        "Napalm"
+
+REFERENCE           HOL3_STREET
+LANG_ENGLISH        "Street"
+
+REFERENCE           HOL3_SATCHEL
+LANG_ENGLISH        "Satchel"
+
+REFERENCE           HOL3_FURNITURE
+LANG_ENGLISH        "Furniture Move"
+
+REFERENCE           HOL3_DEFEND
+LANG_ENGLISH        "Defend"
+
+REFERENCE           HOL3_YARD
+LANG_ENGLISH        "Yard"
+
+REFERENCE           HOL3_SQUARE
+LANG_ENGLISH        "Townsquare"
+
+REFERENCE           BER3B_INTRO
+LANG_ENGLISH        "intro (default level start)"
+
+REFERENCE           BER3B_FOYER
+LANG_ENGLISH        "foyer (level start, no intro)"
+
+REFERENCE           BER3B_FOYER_PACING
+LANG_ENGLISH        "post-foyer pacing"
+
+REFERENCE           BER3B_PARLIAMENT
+LANG_ENGLISH        "parliament"
+
+REFERENCE           BER3B_PARLIAMENT_DOORS
+LANG_ENGLISH        "parliament door bashing"
+
+REFERENCE           BER3B_ROOF
+LANG_ENGLISH        "roof dome"
+
+REFERENCE           BER3B_ROOF_FLAGPLANT
+LANG_ENGLISH        "roof flagplant sequence"
+
+REFERENCE           CANCEL
+LANG_ENGLISH        "( Cancel Start Point Selection )"
+
+REFERENCE           BER2_EVENT1
+LANG_ENGLISH        "building rooftop (default level start)"
+
+REFERENCE           BER2_EVENT1_ACTION
+LANG_ENGLISH        "building rooftop (no intro)"
+
+REFERENCE           BER2_APT2
+LANG_ENGLISH        "second apartment floor"
+
+REFERENCE           BER2_ATRIUM
+LANG_ENGLISH        "bank atrium"
+
+REFERENCE           BER2_LOADINGDOCK
+LANG_ENGLISH        "loading dock"
+
+REFERENCE           BER2_OUTSIDE
+LANG_ENGLISH        "outside at street level"
+
+REFERENCE           BER2_EVENT2
+LANG_ENGLISH        "subway start"
+
+REFERENCE           BER2_EVENT2_METROWAVE
+LANG_ENGLISH        "subway wave event"
+
+REFERENCE           SEE1_1_OPENING
+LANG_ENGLISH        "Opening"
+
+REFERENCE           SEE1_2_BURNING_FOREST
+LANG_ENGLISH        "Burning Forest"
+
+REFERENCE           SEE1_3_TANK_BATTLE
+LANG_ENGLISH        "Tank Battle"
+
+REFERENCE           PBY_RESCUE
+LANG_ENGLISH        "Rescue Swimmers"
+
+REFERENCE           PBY_SUNRISE
+LANG_ENGLISH        "Sunrise"
+
+REFERENCE           PBY_BOATS
+LANG_ENGLISH        "Merchant Ships"
+
+REFERENCE           PBY_LANDING
+LANG_ENGLISH        "Emergency Landing"
+
+REFERENCE           SNIPER_EVENT2
+LANG_ENGLISH        "Enter Sniper Battle - EVENT2"
+
+REFERENCE           SNIPER_EVENT2C
+LANG_ENGLISH        "Roof collapse on you - EVENT2c"
+
+REFERENCE           MAK_EVENT1_AFTER_INTRO
+LANG_ENGLISH        "After Intro"
+
+REFERENCE           MAK_EVENT1_V_UNDER_HUT
+LANG_ENGLISH        "V: Under Hut"
+
+REFERENCE           MAK_EVENT1_V_GUY2SHED
+LANG_ENGLISH        "V: Guy 2 Shed"
+
+REFERENCE           MAK_EVENT1_V_2VS1_ACTION
+LANG_ENGLISH        "V: 2vs1 Action"
+
+REFERENCE           MAK_EVENT1_V_SHED_GRENADER
+LANG_ENGLISH        "V: Shed Grenader"
+
+REFERENCE           MAK_EVENT1_V_POND_FIGHT
+LANG_ENGLISH        "V: Pond Fight"
+
+REFERENCE           MAK_EVENT1_V_FIRE_BEATDOWN
+LANG_ENGLISH        "V: Fire Beatdown"
+
+REFERENCE           MAK_EVENT1_V_SHOWDOWN
+LANG_ENGLISH        "V: Showdown"
+
+REFERENCE           MAK_EVENT1_LMG
+LANG_ENGLISH        "Event1 LMG"
+
+REFERENCE           MAK_EVENT1_V_BOATSQUAD1
+LANG_ENGLISH        "V: BoatSquad 1"
+
+REFERENCE           MAK_EVENT1_V_BRIDGE_BARFIGHT
+LANG_ENGLISH        "V: Bridge BarFight"
+
+REFERENCE           MAK_EVENT1_V_TOWER_COLLAPSE
+LANG_ENGLISH        "V: Tower Collapse"
+
+REFERENCE           MAK_EVENT2
+LANG_ENGLISH        "Event2"
+
+REFERENCE           MAK_EVENT2_BEACH
+LANG_ENGLISH        "Event2 Beach"
+
+REFERENCE           MAK_EVENT3_FEIGN
+LANG_ENGLISH        "Event3 Feign"
+
+REFERENCE           BER2_STREET_REGROUP
+LANG_ENGLISH        "street regroup"
+
+REFERENCE           SEE1_4_CAMP
+LANG_ENGLISH        "Camp"
+
+REFERENCE           SEE1_5_OUTRO
+LANG_ENGLISH        "Outro"
+
+REFERENCE           MAK_EVENT4
+LANG_ENGLISH        "Event4"
+
+REFERENCE           MAK_EVENT5
+LANG_ENGLISH        "Event5"
+
+REFERENCE           MAK_OUTTRO
+LANG_ENGLISH        "Outtro"
+
+REFERENCE           BER1_RUINS
+LANG_ENGLISH        "Ruins"
+
+REFERENCE           BER1_SURRENDER
+LANG_ENGLISH        "Surrender"
+
+REFERENCE           BER1_RUINS_2
+LANG_ENGLISH        "Mid-Ruins"
+
+REFERENCE           BER1_STREET
+LANG_ENGLISH        "Street"
+
+REFERENCE           BER1_ASYLUM
+LANG_ENGLISH        "Asylum"
+
+REFERENCE           BER1_TANKRIDE
+LANG_ENGLISH        "Tank Ride"
+
+REFERENCE           OKI2_FINALBUNKER
+LANG_ENGLISH        "Hilltop Bunker Assault"
+
+REFERENCE           OKI2_CANYON
+LANG_ENGLISH        "Canyon"
+
+REFERENCE           OKI2_OUTRO
+LANG_ENGLISH        "Outro Cinematic"
+
+REFERENCE           OKI2_FINALBUNKER_BASH
+LANG_ENGLISH        "Turn Around for Gate Bash!"
+
+REFERENCE           SNIPER_EVENT2D
+LANG_ENGLISH        "bookcase Falling - EVENT2d"
+
+REFERENCE           SNIPER_EVENT1C
+LANG_ENGLISH        "In fountain, after shooting street guys - EVENT1c"
+
+REFERENCE           SNIPER_EVENT1D
+LANG_ENGLISH        "Door opening animation to window dive, not progressible - EVENT1d"
+
+REFERENCE           NEWREF
+LANG_ENGLISH        "New text"
+
+REFERENCE           SNIPER_EVENT2E
+LANG_ENGLISH        "Just before jump out - EVENT2e"
+
+REFERENCE           SNIPER_EVENT1B
+LANG_ENGLISH        "In fountain after crawl - EVENT1B"
+
+REFERENCE           SNIPER_EVENT3
+LANG_ENGLISH        "After germans are dead alley vignette - EVENT3"
+
+REFERENCE           SNIPER_EVENT3B
+LANG_ENGLISH        "Reznov knocking door open animation - EVENT3b"
+
+REFERENCE           SNIPER_EVENT3C
+LANG_ENGLISH        "various event3 skipto tool - EVENT3c"
+
+REFERENCE           SNIPER_EVENT4
+LANG_ENGLISH        "Amsel Sniping Event - EVENT4"
+
+REFERENCE           SNIPER_EVENT5
+LANG_ENGLISH        "post Amsel building escape - EVENT5"
+
+REFERENCE           BER3B_ROOF_MIDPOINT
+LANG_ENGLISH        "roof midpoint"
+
+
+ENDMARKER
+
+

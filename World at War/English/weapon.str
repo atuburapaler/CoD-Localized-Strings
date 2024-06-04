@@ -1,0 +1,1062 @@
+// Note to translators:
+// If a sentence is the same in your language then please change it to "#same"
+//
+// eg:
+// LANG_ENGLISH  "HALT"
+// LANG_GERMAN   "#same"
+//
+// (This is so we can tell which strings have been signed-off as ok to be the same words for QA
+//  and because we do not store duplicate strings, which will then get exported again next time
+//  as being untranslated.)
+//
+VERSION             "1"
+CONFIG              "C:\cod5\cod\cod5\bin\StringEd.cfg"
+FILENOTES           "Strings used in the weapon settings go in this file."
+
+REFERENCE           SYRETTE
+LANG_ENGLISH        "Syrette"
+
+REFERENCE           30CAL
+LANG_ENGLISH        "Browning M1919"
+
+REFERENCE           SUPPORTGUNNER
+LANG_ENGLISH        "Support Gunner"
+
+REFERENCE           BAR
+LANG_ENGLISH        "BAR"
+
+REFERENCE           BREN
+LANG_ENGLISH        "Bren LMG"
+
+REFERENCE           RIFLEMAN
+LANG_ENGLISH        "Rifleman"
+
+REFERENCE           LEE_ENFIELD
+LANG_ENGLISH        "Lee-Enfield"
+
+REFERENCE           FG42
+LANG_ENGLISH        "FG42"
+
+REFERENCE           KAR98K
+LANG_ENGLISH        "Kar98k"
+
+REFERENCE           LUGER
+LANG_ENGLISH        "Luger"
+
+REFERENCE           M1A1CARBINE
+LANG_ENGLISH        "M1A1 Carbine"
+
+REFERENCE           M1GARAND
+LANG_ENGLISH        "M1 Garand"
+
+REFERENCE           MOSIN_RIFLE
+LANG_ENGLISH        "Mosin-Nagant"
+
+REFERENCE           MOSIN_RIFLE_SCOPED
+LANG_ENGLISH        "Sniper Scope"
+
+REFERENCE           SNIPER
+LANG_ENGLISH        "Sniper"
+
+REFERENCE           SUBMACHINEGUNNER
+LANG_ENGLISH        "Submachine Gunner"
+
+REFERENCE           MP40
+LANG_ENGLISH        "MP40"
+
+REFERENCE           MP44
+LANG_ENGLISH        "MP44"
+
+REFERENCE           PPSH
+LANG_ENGLISH        "PPSh-41"
+
+REFERENCE           SPRINGFIELD
+LANG_ENGLISH        "Springfield"
+
+REFERENCE           MOSINNAGANTAMMO
+LANG_ENGLISH        "Mosin-Nagant Ammo"
+
+REFERENCE           STEN
+LANG_ENGLISH        "Sten"
+
+REFERENCE           ARMYENGINEER
+LANG_ENGLISH        "Army Engineer"
+
+REFERENCE           THOMPSON
+LANG_ENGLISH        "Thompson"
+
+REFERENCE           FASTAUTO
+LANG_ENGLISH        "Fast-Auto"
+
+REFERENCE           SLOWAUTO
+LANG_ENGLISH        "Slow-Auto"
+
+REFERENCE           FULLAUTO
+LANG_ENGLISH        "Full-Auto"
+
+REFERENCE           SEMIAUTO
+LANG_ENGLISH        "Semi-Auto"
+
+REFERENCE           M2FRAGGRENADE
+LANG_ENGLISH        "M2 Frag Grenade"
+
+REFERENCE           MK1_FRAG_GRENADE
+LANG_ENGLISH        "MK1 Frag Grenade"
+
+REFERENCE           RUSSIANGRENADE
+LANG_ENGLISH        "RGD-33 Stick Grenade"
+
+REFERENCE           GERMANGRENADE
+LANG_ENGLISH        "Stielhandgranate"
+
+REFERENCE           PANZERSCHREK
+LANG_ENGLISH        "Panzerschrek"
+
+REFERENCE           PANZERFAUST
+LANG_ENGLISH        "Panzerfaust 60"
+
+REFERENCE           SCOPEDKAR98K
+LANG_ENGLISH        "Scoped Kar98k"
+
+REFERENCE           HOLDPIN
+LANG_ENGLISH        "Hold-Pin"
+
+REFERENCE           COOKOFF
+LANG_ENGLISH        "Cook-Off"
+
+REFERENCE           MEDICPLACEHOLDER
+LANG_ENGLISH        "Medic"
+
+REFERENCE           FRAGGRENADE
+LANG_ENGLISH        "Frag"
+
+REFERENCE           M8_WHITE_SMOKE
+LANG_ENGLISH        "Smoke"
+
+REFERENCE           SHOTGUN
+LANG_ENGLISH        "M1897 Trench Gun"
+
+REFERENCE           GEWEHR43
+LANG_ENGLISH        "Gewehr 43"
+
+REFERENCE           GREASEGUN
+LANG_ENGLISH        "Grease Gun"
+
+REFERENCE           PPS42
+LANG_ENGLISH        "PPS42"
+
+REFERENCE           SVT40
+LANG_ENGLISH        "SVT-40"
+
+REFERENCE           WEBLEY
+LANG_ENGLISH        "Webley"
+
+REFERENCE           SCOPEDG43
+LANG_ENGLISH        "Scoped Gewehr 43"
+
+REFERENCE           DEFAULTWEAPON
+LANG_ENGLISH        "Default Weapon"
+
+REFERENCE           SATCHEL
+LANG_ENGLISH        "Satchel Charge"
+
+REFERENCE           ANM8_SMOKE_GRENADE
+LANG_ENGLISH        "AN-M8 Smoke Grenade"
+
+REFERENCE           NO77_WP_SMOKE_GRENADE
+LANG_ENGLISH        "No.77 WP Smoke Grenade"
+
+REFERENCE           NEBELHANDGRANATE
+LANG_ENGLISH        "Nebelhandgranate"
+
+REFERENCE           RGD1_SMOKE_GRENADE
+LANG_ENGLISH        "RGD-1 Smoke Grenade"
+
+REFERENCE           POTATO
+LANG_ENGLISH        "Potato"
+
+REFERENCE           NO_AMMO
+LANG_ENGLISH        "No Ammo"
+
+REFERENCE           NO_FRAG_GRENADE
+LANG_ENGLISH        "No Primary Grenades Remaining"
+
+REFERENCE           NO_SMOKE_GRENADE
+LANG_ENGLISH        "No Smoke Grenades Remaining"
+
+REFERENCE           NO_FLASH_GRENADE
+LANG_ENGLISH        "No Flashbang Grenades Remaining"
+
+REFERENCE           NO_SPECIAL_GRENADE
+LANG_ENGLISH        "No Special Grenades Remaining"
+
+REFERENCE           LOCATION_SELECTOR
+LANG_ENGLISH        "Select a location"
+
+REFERENCE           SMOKE_GRENADE
+LANG_ENGLISH        "Smoke Grenade"
+
+REFERENCE           FLASH_GRENADE
+LANG_ENGLISH        "Flash Grenade"
+
+REFERENCE           CONCUSSION_GRENADE
+LANG_ENGLISH        "Stun Grenade"
+
+REFERENCE           SMGS
+LANG_ENGLISH        "Submachine Guns"
+
+REFERENCE           ASSAULTRIFLES
+LANG_ENGLISH        "Assault Rifles"
+
+REFERENCE           SHOTGUNS
+LANG_ENGLISH        "Shotguns"
+
+REFERENCE           SNIPERRIFLES
+LANG_ENGLISH        "Sniper Rifles"
+
+REFERENCE           TARGET_TOO_CLOSE
+LANG_ENGLISH        "Too Close to Target"
+
+REFERENCE           LOCKON_REQUIRED
+LANG_ENGLISH        "Lock-On Required"
+
+REFERENCE           TARGET_NOT_ENOUGH_CLEARANCE
+LANG_ENGLISH        "Not Enough Room To Fire"
+
+REFERENCE           NO_ATTACHMENT
+LANG_ENGLISH        "No Attachment"
+
+REFERENCE           SILENCER
+LANG_ENGLISH        "Suppressor"
+
+REFERENCE           APERTURE
+LANG_ENGLISH        "Aperture Site"
+
+REFERENCE           GRENADE_LAUNCHER
+LANG_ENGLISH        "Grenade Launcher"
+
+REFERENCE           NO_CAMO
+LANG_ENGLISH        "No Camo"
+
+REFERENCE           GOLDEN_CAMO
+LANG_ENGLISH        "Golden"
+
+REFERENCE           PRESTIGE_CAMO
+LANG_ENGLISH        "Prestige"
+
+REFERENCE           BINOCULARS
+LANG_ENGLISH        "Binoculars"
+
+REFERENCE           GRIP
+LANG_ENGLISH        "Grip"
+
+REFERENCE           M16A4_GRENADIER
+LANG_ENGLISH        "M16A4 Grenadier"
+
+REFERENCE           PANZERSHREK
+LANG_ENGLISH        "Panzershrek"
+
+REFERENCE           BAZOOKA
+LANG_ENGLISH        "M9A1 Bazooka"
+
+REFERENCE           BAZOOKA_MAN
+LANG_ENGLISH        "Bazooka"
+
+REFERENCE           TOKAREV
+LANG_ENGLISH        "Tokarev TT-33"
+
+REFERENCE           RUSSIAN_FLAG
+LANG_ENGLISH        "Red Army Banner"
+
+REFERENCE           STG-44
+LANG_ENGLISH        "STG-44"
+
+REFERENCE           MORTAR_ROUND
+LANG_ENGLISH        "Mortar Round"
+
+REFERENCE           MOLOTOV
+LANG_ENGLISH        "Molotov Cocktail"
+
+REFERENCE           FIREBLOB
+LANG_ENGLISH        "Napalm Blob (Fire on Ground)"
+
+REFERENCE           M2_FLAMETHROWER
+LANG_ENGLISH        "M2 Flamethrower"
+
+REFERENCE           FLAMETHROWER_GUNNER
+LANG_ENGLISH        "Flamethrower"
+
+REFERENCE           KAR98K_SCOPED
+LANG_ENGLISH        "Sniper Scope"
+
+REFERENCE           LEE_ENFIELD_SCOPED
+LANG_ENGLISH        "Scoped Lee-Enfield"
+
+REFERENCE           TYPE100_SMG
+LANG_ENGLISH        "Type 100"
+
+REFERENCE           TYPE99_RIFLE
+LANG_ENGLISH        "Arisaka"
+
+REFERENCE           TYPE99_RIFLE_BAYONET
+LANG_ENGLISH        "Bayonet"
+
+REFERENCE           TYPE99_RIFLE_SCOPED
+LANG_ENGLISH        "Sniper Scope"
+
+REFERENCE           WALTHER_P38
+LANG_ENGLISH        "Walther P38"
+
+REFERENCE           NAMBU
+LANG_ENGLISH        "Nambu"
+
+REFERENCE           M1GARAND_BAYONET
+LANG_ENGLISH        "Bayonet"
+
+REFERENCE           M1A1CARBINE_BAYONET
+LANG_ENGLISH        "Bayonet"
+
+REFERENCE           KAR98K_BAYONET
+LANG_ENGLISH        "Bayonet"
+
+REFERENCE           MOSIN_RIFLE_BAYONET
+LANG_ENGLISH        "Bayonet"
+
+REFERENCE           MG42
+LANG_ENGLISH        "MG42"
+
+REFERENCE           COLT45
+LANG_ENGLISH        "Colt M1911"
+
+REFERENCE           STEN_SILENCED
+LANG_ENGLISH        "Silenced Sten"
+
+REFERENCE           TYPE99_LMG
+LANG_ENGLISH        "Type 99"
+
+REFERENCE           DP28
+LANG_ENGLISH        "DP-28"
+
+REFERENCE           MINE_SHOEBOX
+LANG_ENGLISH        "PMD-6"
+
+REFERENCE           MINE_BOUNCING_BETTY
+LANG_ENGLISH        "Bouncing Betty"
+
+REFERENCE           357MAGNUM
+LANG_ENGLISH        ".357 Magnum"
+
+REFERENCE           PTRS41
+LANG_ENGLISH        "PTRS-41"
+
+REFERENCE           REMINGTONMODEL11
+LANG_ENGLISH        "Remington Model 11"
+
+REFERENCE           TABUN_GRENADE
+LANG_ENGLISH        "Tabun Gas"
+
+REFERENCE           SIGNAL_FLARE
+LANG_ENGLISH        "Signal Flare"
+
+REFERENCE           SHOTGUN_DOUBLE_BARRELED
+LANG_ENGLISH        "Double-Barreled Shotgun"
+
+REFERENCE           M7_LAUNCHER
+LANG_ENGLISH        "M7 Grenade Launcher"
+
+REFERENCE           FG42_TELESCOPIC
+LANG_ENGLISH        "Telescopic Sight"
+
+REFERENCE           SPRINGFIELD_SCOPED
+LANG_ENGLISH        "Sniper Scope"
+
+REFERENCE           M1GARAND_GL
+LANG_ENGLISH        "M1 Garand w/ Launcher"
+
+REFERENCE           STICKY_GRENADE
+LANG_ENGLISH        "Nº 74 ST"
+
+REFERENCE           TOKAREV_TT30
+LANG_ENGLISH        "Tokarev TT-33"
+
+REFERENCE           MG42_BIPOD
+LANG_ENGLISH        "Bipod"
+
+REFERENCE           DP28_BIPOD
+LANG_ENGLISH        "Bipod"
+
+REFERENCE           FG42_BIPOD
+LANG_ENGLISH        "Bipod"
+
+REFERENCE           BAR_BIPOD
+LANG_ENGLISH        "Bipod"
+
+REFERENCE           30CAL_BIPOD
+LANG_ENGLISH        "Bipod"
+
+REFERENCE           TYPE99_LMG_BIPOD
+LANG_ENGLISH        "Bipod"
+
+REFERENCE           SHOTGUNNER
+LANG_ENGLISH        "Shotgunner"
+
+REFERENCE           SHOTGUN_DOUBLE_BARRELED_SAWED_GRIP
+LANG_ENGLISH        "Sawed-Off Double-Barreled Shotgun w/ Grip"
+
+REFERENCE           ANTITANK_GUNNER
+LANG_ENGLISH        "Anti-Tank Gunner"
+
+REFERENCE           SPRINGFIELD_NO_ATTACHMENT
+LANG_ENGLISH        "No Attachment"
+
+REFERENCE           SPRINGFIELD_BAYONET
+LANG_ENGLISH        "Bayonet"
+
+REFERENCE           SPRINGFIELD_RIFLE_GRENADE
+LANG_ENGLISH        "Rifle Grenade"
+
+REFERENCE           TYPE99_RIFLE_RIFLE_GRENADE
+LANG_ENGLISH        "Rifle Grenade"
+
+REFERENCE           TYPE99_RIFLE_NO_ATTACHMENT
+LANG_ENGLISH        "No Attachment"
+
+REFERENCE           KAR98K_NO_ATTACHMENT
+LANG_ENGLISH        "No Attachment"
+
+REFERENCE           KAR98K_RIFLE_GRENADE
+LANG_ENGLISH        "Rifle Grenade"
+
+REFERENCE           MOSIN_RIFLE_NO_ATTACHMENT
+LANG_ENGLISH        "No Attachment"
+
+REFERENCE           MOSIN_RIFLE_RIFLE_GRENADE
+LANG_ENGLISH        "Rifle Grenade"
+
+REFERENCE           SVT40_NO_ATTACHMENT
+LANG_ENGLISH        "No Attachment"
+
+REFERENCE           SVT40_FLASH
+LANG_ENGLISH        "Flash Hider"
+
+REFERENCE           SVT40_APERTURE
+LANG_ENGLISH        "Aperture Sight"
+
+REFERENCE           SVT40_TELESCOPIC
+LANG_ENGLISH        "Telescopic Sight"
+
+REFERENCE           SVT40_SELECT_FIRE
+LANG_ENGLISH        "Select Fire"
+
+REFERENCE           GEWEHR43_NO_ATTACHMENT
+LANG_ENGLISH        "No Attachment"
+
+REFERENCE           GEWEHR43_SILENCED
+LANG_ENGLISH        "Suppressor"
+
+REFERENCE           GEWEHR43_APERTURE
+LANG_ENGLISH        "Aperture Sight"
+
+REFERENCE           GEWEHR43_TELESCOPIC
+LANG_ENGLISH        "Telescopic Sight"
+
+REFERENCE           GEWEHR43_RIFLE_GRENADE
+LANG_ENGLISH        "Rifle Grenade"
+
+REFERENCE           M1GARAND_NO_ATTACHMENT
+LANG_ENGLISH        "No Attachment"
+
+REFERENCE           M1GARAND_RIFLE_GRENADE
+LANG_ENGLISH        "Rifle Grenade"
+
+REFERENCE           M1GARAND_SCOPED
+LANG_ENGLISH        "Sniper Scope"
+
+REFERENCE           M1GARAND_FLASH
+LANG_ENGLISH        "Flash Hider"
+
+REFERENCE           M1A1CARBINE_NO_ATTACHMENT
+LANG_ENGLISH        "No Attachment"
+
+REFERENCE           M1A1CARBINE_FLASH
+LANG_ENGLISH        "Flash Hider"
+
+REFERENCE           M1A1CARBINE_BIGAMMO
+LANG_ENGLISH        "Box Magazine"
+
+REFERENCE           M1A1CARBINE_APERTURE
+LANG_ENGLISH        "Aperture Sight"
+
+REFERENCE           STG-44_NO_ATTACHMENT
+LANG_ENGLISH        "No Attachment"
+
+REFERENCE           STG-44_FLASH
+LANG_ENGLISH        "Flash Hider"
+
+REFERENCE           STG-44_APERTURE
+LANG_ENGLISH        "Aperture Sight"
+
+REFERENCE           STG-44_TELESCOPIC
+LANG_ENGLISH        "Telescopic Sight"
+
+REFERENCE           STG-44_SELECT_FIRE
+LANG_ENGLISH        "Select Fire"
+
+REFERENCE           THOMPSON_NO_ATTACHMENT
+LANG_ENGLISH        "No Attachment"
+
+REFERENCE           THOMPSON_SILENCED
+LANG_ENGLISH        "Suppressor"
+
+REFERENCE           THOMPSON_APERTURE
+LANG_ENGLISH        "Aperture Sight"
+
+REFERENCE           THOMPSON_BIGAMMO
+LANG_ENGLISH        "Round Drum"
+
+REFERENCE           TYPE100_SMG_NO_ATTACHMENT
+LANG_ENGLISH        "No Attachment"
+
+REFERENCE           TYPE100_SMG_SILENCED
+LANG_ENGLISH        "Suppressor"
+
+REFERENCE           TYPE100_SMG_BIGAMMO
+LANG_ENGLISH        "Box Magazine"
+
+REFERENCE           TYPE100_SMG_APERTURE
+LANG_ENGLISH        "Aperture Sight"
+
+REFERENCE           MP40_NO_ATTACHMENT
+LANG_ENGLISH        "No Attachment"
+
+REFERENCE           MP40_SILENCED
+LANG_ENGLISH        "Suppressor"
+
+REFERENCE           MP40_APERTURE
+LANG_ENGLISH        "Aperture Sight"
+
+REFERENCE           MP40_BIGAMMO
+LANG_ENGLISH        "Dual Magazines"
+
+REFERENCE           PPSH_NO_ATTACHMENT
+LANG_ENGLISH        "No Attachment"
+
+REFERENCE           PPSH_APERTURE
+LANG_ENGLISH        "Aperture Sight"
+
+REFERENCE           PPSH_BIGAMMO
+LANG_ENGLISH        "Round Drum"
+
+REFERENCE           SHOTGUN_NO_ATTACHMENT
+LANG_ENGLISH        "No Attachment"
+
+REFERENCE           SHOTGUN_GRIP
+LANG_ENGLISH        "Grip"
+
+REFERENCE           SHOTGUN_BAYONET
+LANG_ENGLISH        "Bayonet"
+
+REFERENCE           SHOTGUN_DOUBLE_BARRELED_NO_ATTACHMENT
+LANG_ENGLISH        "No Attachment"
+
+REFERENCE           SHOTGUN_DOUBLE_BARRELED_GRIP
+LANG_ENGLISH        "Grip"
+
+REFERENCE           SHOTGUN_DOUBLE_BARRELED_SAWOFF
+LANG_ENGLISH        "Sawed-Off Shotgun"
+
+REFERENCE           TYPE99_LMG_NO_ATTACHMENT
+LANG_ENGLISH        "No Attachment"
+
+REFERENCE           TYPE99_LMG_BAYONET
+LANG_ENGLISH        "Bayonet"
+
+REFERENCE           BAR_NO_ATTACHMENT
+LANG_ENGLISH        "No Attachment"
+
+REFERENCE           DP28_NO_ATTACHMENT
+LANG_ENGLISH        "No Attachment"
+
+REFERENCE           FG42_NO_ATTACHMENT
+LANG_ENGLISH        "No Attachment"
+
+REFERENCE           MG42_NO_ATTACHMENT
+LANG_ENGLISH        "No Attachment"
+
+REFERENCE           30CAL_NO_ATTACHMENT
+LANG_ENGLISH        "No Attachment"
+
+REFERENCE           30CAL_BIPOD_DESC
+LANG_ENGLISH        "When deployed, reduces motion to permit more accurate shooting."
+
+REFERENCE           30CAL_NO_ATTACHMENT_DESC
+LANG_ENGLISH        " "
+
+REFERENCE           DP28_BIPOD_DESC
+LANG_ENGLISH        "When deployed, reduces motion to permit more accurate shooting."
+
+REFERENCE           DP28_NO_ATTACHMENT_DESC
+LANG_ENGLISH        " "
+
+REFERENCE           FG42_BIPOD_DESC
+LANG_ENGLISH        "When deployed, reduces motion to permit more accurate shooting."
+
+REFERENCE           FG42_NO_ATTACHMENT_DESC
+LANG_ENGLISH        " "
+
+REFERENCE           FG42_TELESCOPIC_DESC
+LANG_ENGLISH        "Replaces default iron sights with an enhanced telescopic scope."
+
+REFERENCE           GEWEHR43_APERTURE_DESC
+LANG_ENGLISH        "Replaces the default iron sights with a precision sight."
+
+REFERENCE           GEWEHR43_NO_ATTACHMENT_DESC
+LANG_ENGLISH        " "
+
+REFERENCE           GEWEHR43_RIFLE_GRENADE_DESC
+LANG_ENGLISH        "Grenade launcher attachment for rifles.\nTHIS ATTACHMENT REPLACES PERK 1."
+
+REFERENCE           GEWEHR43_SILENCED_DESC
+LANG_ENGLISH        "Invisible on radar when firing, reduced muzzle flash, but shorter range."
+
+REFERENCE           GEWEHR43_TELESCOPIC_DESC
+LANG_ENGLISH        "Replaces default iron sights with an enhanced telescopic scope."
+
+REFERENCE           KAR98K_BAYONET_DESC
+LANG_ENGLISH        "Increases melee attack range."
+
+REFERENCE           KAR98K_NO_ATTACHMENT_DESC
+LANG_ENGLISH        " "
+
+REFERENCE           KAR98K_RIFLE_GRENADE_DESC
+LANG_ENGLISH        "Grenade launcher attachment for rifles. \nTHIS ATTACHMENT REPLACES PERK 1."
+
+REFERENCE           KAR98K_SCOPED_DESC
+LANG_ENGLISH        "Increases accuracy and range."
+
+REFERENCE           M1A1CARBINE_APERTURE_DESC
+LANG_ENGLISH        "Replaces the default iron sights with a precision sight."
+
+REFERENCE           M1A1CARBINE_BAYONET_DESC
+LANG_ENGLISH        "Increases melee attack range."
+
+REFERENCE           M1A1CARBINE_BIGAMMO_DESC
+LANG_ENGLISH        "Increases ammunition capacity."
+
+REFERENCE           M1A1CARBINE_FLASH_DESC
+LANG_ENGLISH        "Invisible on radar when firing, reduced muzzle flash, but shorter range."
+
+REFERENCE           M1A1CARBINE_NO_ATTACHMENT_DESC
+LANG_ENGLISH        " "
+
+REFERENCE           M1GARAND_BAYONET_DESC
+LANG_ENGLISH        "Increases melee attack range."
+
+REFERENCE           M1GARAND_FLASH_DESC
+LANG_ENGLISH        "Invisible on radar when firing, reduced muzzle flash, but shorter range."
+
+REFERENCE           M1GARAND_NO_ATTACHMENT_DESC
+LANG_ENGLISH        " "
+
+REFERENCE           M1GARAND_RIFLE_GRENADE_DESC
+LANG_ENGLISH        "Grenade launcher attachment for rifles. \nTHIS ATTACHMENT REPLACES PERK 1."
+
+REFERENCE           M1GARAND_SCOPED_DESC
+LANG_ENGLISH        "Increases accuracy and range."
+
+REFERENCE           MG42_BIPOD_DESC
+LANG_ENGLISH        "When deployed, reduces motion to permit more accurate shooting."
+
+REFERENCE           MG42_NO_ATTACHMENT_DESC
+LANG_ENGLISH        " "
+
+REFERENCE           MOSIN_RIFLE_BAYONET_DESC
+LANG_ENGLISH        "Increases melee attack range."
+
+REFERENCE           MOSIN_RIFLE_NO_ATTACHMENT_DESC
+LANG_ENGLISH        " "
+
+REFERENCE           MOSIN_RIFLE_RIFLE_GRENADE_DESC
+LANG_ENGLISH        "Grenade launcher attachment for rifles.\nTHIS ATTACHMENT REPLACES PERK 1."
+
+REFERENCE           MOSIN_RIFLE_SCOPED_DESC
+LANG_ENGLISH        "Increases accuracy and range."
+
+REFERENCE           MP40_APERTURE_DESC
+LANG_ENGLISH        "Replaces the default iron sights with a precision sight."
+
+REFERENCE           MP40_BIGAMMO_DESC
+LANG_ENGLISH        "Increases ammunition capacity."
+
+REFERENCE           MP40_NO_ATTACHMENT_DESC
+LANG_ENGLISH        " "
+
+REFERENCE           MP40_SILENCED_DESC
+LANG_ENGLISH        "Invisible on radar when firing, reduced muzzle flash, but shorter range."
+
+REFERENCE           PPSH_APERTURE_DESC
+LANG_ENGLISH        "Replaces the default iron sights with a precision sight."
+
+REFERENCE           PPSH_BIGAMMO_DESC
+LANG_ENGLISH        "Increases ammunition capacity."
+
+REFERENCE           PPSH_NO_ATTACHMENT_DESC
+LANG_ENGLISH        " "
+
+REFERENCE           SHOTGUN_BAYONET_DESC
+LANG_ENGLISH        "Increases melee attack range."
+
+REFERENCE           SHOTGUN_DOUBLE_BARRELED_GRIP_DESC
+LANG_ENGLISH        "Vertical foregrip for reduced recoil.\nTHIS ATTACHMENT REPLACES PERK 1."
+
+REFERENCE           SHOTGUN_DOUBLE_BARRELED_NO_ATTACHMENT_DESC
+LANG_ENGLISH        " "
+
+REFERENCE           SHOTGUN_DOUBLE_BARRELED_SAWOFF_DESC
+LANG_ENGLISH        "Increases weapon spread, but reduces accuracy."
+
+REFERENCE           SHOTGUN_GRIP_DESC
+LANG_ENGLISH        "Vertical foregrip for reduced recoil.\nTHIS ATTACHMENT REPLACES PERK 1."
+
+REFERENCE           SHOTGUN_NO_ATTACHMENT_DESC
+LANG_ENGLISH        " "
+
+REFERENCE           SPRINGFIELD_BAYONET_DESC
+LANG_ENGLISH        "Increases melee attack range."
+
+REFERENCE           SPRINGFIELD_NO_ATTACHMENT_DESC
+LANG_ENGLISH        " "
+
+REFERENCE           SPRINGFIELD_RIFLE_GRENADE_DESC
+LANG_ENGLISH        "Grenade launcher attachment for rifles.\nTHIS ATTACHMENT REPLACES PERK 1."
+
+REFERENCE           SPRINGFIELD_SCOPED_DESC
+LANG_ENGLISH        "Increases accuracy and range."
+
+REFERENCE           STG-44_APERTURE_DESC
+LANG_ENGLISH        "Replaces the default iron sights with a precision sight."
+
+REFERENCE           STG-44_FLASH_DESC
+LANG_ENGLISH        "Invisible on radar when firing, reduced muzzle flash, but shorter range."
+
+REFERENCE           STG-44_NO_ATTACHMENT_DESC
+LANG_ENGLISH        " "
+
+REFERENCE           STG-44_SELECT_FIRE_DESC
+LANG_ENGLISH        "Adds the ability to switch weapon fire rate."
+
+REFERENCE           STG-44_TELESCOPIC_DESC
+LANG_ENGLISH        "Replaces default iron sights with an enhanced telescopic scope."
+
+REFERENCE           SVT40_APERTURE_DESC
+LANG_ENGLISH        "Replaces the default iron sights with a precision sight."
+
+REFERENCE           SVT40_FLASH_DESC
+LANG_ENGLISH        "Invisible on radar when firing, reduced muzzle flash, but shorter range."
+
+REFERENCE           SVT40_NO_ATTACHMENT_DESC
+LANG_ENGLISH        " "
+
+REFERENCE           SVT40_SELECT_FIRE_DESC
+LANG_ENGLISH        "Adds the ability to switch weapon fire rate."
+
+REFERENCE           SVT40_TELESCOPIC_DESC
+LANG_ENGLISH        "Replaces default iron sights with an enhanced telescopic scope."
+
+REFERENCE           THOMPSON_APERTURE_DESC
+LANG_ENGLISH        "Replaces the default iron sights with a precision sight."
+
+REFERENCE           THOMPSON_BIGAMMO_DESC
+LANG_ENGLISH        "Increases ammunition capacity."
+
+REFERENCE           THOMPSON_NO_ATTACHMENT_DESC
+LANG_ENGLISH        " "
+
+REFERENCE           THOMPSON_SILENCED_DESC
+LANG_ENGLISH        "Invisible on radar when firing, reduced muzzle flash, but shorter range."
+
+REFERENCE           TYPE100_SMG_APERTURE_DESC
+LANG_ENGLISH        "Replaces the default iron sights with a precision sight."
+
+REFERENCE           TYPE100_SMG_BIGAMMO_DESC
+LANG_ENGLISH        "Increases ammunition capacity."
+
+REFERENCE           TYPE100_SMG_NO_ATTACHMENT_DESC
+LANG_ENGLISH        " "
+
+REFERENCE           TYPE100_SMG_SILENCED_DESC
+LANG_ENGLISH        "Invisible on radar when firing, reduced muzzle flash, but shorter range."
+
+REFERENCE           TYPE99_LMG_BAYONET_DESC
+LANG_ENGLISH        "Increases melee attack range."
+
+REFERENCE           TYPE99_LMG_BIPOD_DESC
+LANG_ENGLISH        "When deployed, reduces motion to permit more accurate shooting."
+
+REFERENCE           TYPE99_LMG_NO_ATTACHMENT_DESC
+LANG_ENGLISH        " "
+
+REFERENCE           TYPE99_RIFLE_BAYONET_DESC
+LANG_ENGLISH        "Increases melee attack range."
+
+REFERENCE           TYPE99_RIFLE_NO_ATTACHMENT_DESC
+LANG_ENGLISH        " "
+
+REFERENCE           TYPE99_RIFLE_RIFLE_GRENADE_DESC
+LANG_ENGLISH        "Grenade launcher attachment for rifles.\nTHIS ATTACHMENT REPLACES PERK 1."
+
+REFERENCE           TYPE99_RIFLE_SCOPED_DESC
+LANG_ENGLISH        "Increases accuracy and range."
+
+REFERENCE           BAR_BIPOD_DESC
+LANG_ENGLISH        "When deployed, reduces motion to permit more accurate shooting."
+
+REFERENCE           BAR_NO_ATTACHMENT_DESC
+LANG_ENGLISH        " "
+
+REFERENCE           COLT45_NO_ATTACHMENT
+LANG_ENGLISH        " "
+
+REFERENCE           NAMBU_NO_ATTACHMENT
+LANG_ENGLISH        " "
+
+REFERENCE           TOKAREV_NO_ATTACHMENT
+LANG_ENGLISH        " "
+
+REFERENCE           WALTHER_P38_NO_ATTACHMENT
+LANG_ENGLISH        " "
+
+REFERENCE           357MAGNUM_NO_ATTACHMENT
+LANG_ENGLISH        " "
+
+REFERENCE           SAILOR
+LANG_ENGLISH        "Crewman"
+
+REFERENCE           PTRS41_NO_ATTACHMENT
+LANG_ENGLISH        "No Attachment"
+
+REFERENCE           PTRS41_NO_ATTACHMENT_DESC
+
+REFERENCE           SVT40_NO_FLASH_DESC
+LANG_ENGLISH        "Complete the Marksman I Challenge to Unlock."
+
+REFERENCE           SVT40_NO_APERTURE_DESC
+LANG_ENGLISH        "Complete the Marksman II Challenge to Unlock."
+
+REFERENCE           SVT40_NO_TELESCOPIC_DESC
+LANG_ENGLISH        "Complete the Marksman III Challenge to Unlock."
+
+REFERENCE           THOMPSON_NO_SILENCED_DESC
+LANG_ENGLISH        "Complete the Marksman I Challenge to Unlock."
+
+REFERENCE           THOMPSON_NO_APERTURE_DESC
+LANG_ENGLISH        "Complete the Marksman II Challenge to Unlock."
+
+REFERENCE           THOMPSON_NO_BIGAMMO_DESC
+LANG_ENGLISH        "Complete the Marksman III Challenge to Unlock."
+
+REFERENCE           SPRINGFIELD_NO_BAYONET_DESC
+LANG_ENGLISH        "Complete the Marksman I Challenge to Unlock."
+
+REFERENCE           SPRINGFIELD_NO_RIFLE_GRENADE_DESC
+LANG_ENGLISH        "Complete the Marksman II Challenge to Unlock."
+
+REFERENCE           SHOTGUN_NO_GRIP_DESC
+LANG_ENGLISH        "Complete the Marksman I Challenge to Unlock."
+
+REFERENCE           SHOTGUN_NO_BAYONET_DESC
+LANG_ENGLISH        "Complete the Marksman II Challenge to Unlock."
+
+REFERENCE           TYPE99_LMG_NO_BIPOD_DESC
+LANG_ENGLISH        "Complete the Marksman I Challenge to Unlock."
+
+REFERENCE           TYPE99_LMG_NO_BAYONET_DESC
+LANG_ENGLISH        "Complete the Marksman II Challenge to Unlock."
+
+REFERENCE           TYPE99_RIFLE_NO_SCOPED_DESC
+LANG_ENGLISH        "Complete the Marksman I Challenge to Unlock."
+
+REFERENCE           TYPE99_RIFLE_NO_BAYONET_DESC
+LANG_ENGLISH        "Complete the Marksman II Challenge to Unlock."
+
+REFERENCE           TYPE99_RIFLE_NO_RIFLE_GRENADE_DESC
+LANG_ENGLISH        "Complete the Marksman III Challenge to Unlock."
+
+REFERENCE           MOSIN_RIFLE_NO_SCOPED_DESC
+LANG_ENGLISH        "Complete the Marksman I Challenge to Unlock."
+
+REFERENCE           MOSIN_RIFLE_NO_BAYONET_DESC
+LANG_ENGLISH        "Complete the Marksman II Challenge to Unlock."
+
+REFERENCE           MOSIN_RIFLE_NO_RIFLE_GRENADE_DESC
+LANG_ENGLISH        "Complete the Marksman III Challenge to Unlock."
+
+REFERENCE           KAR98K_NO_SCOPED_DESC
+LANG_ENGLISH        "Complete the Marksman I Challenge to Unlock."
+
+REFERENCE           KAR98K_NO_BAYONET_DESC
+LANG_ENGLISH        "Complete the Marksman II Challenge to Unlock."
+
+REFERENCE           KAR98K_NO_RIFLE_GRENADE_DESC
+LANG_ENGLISH        "Complete the Marksman III Challenge to Unlock."
+
+REFERENCE           GEWEHR43_NO_SILENCED_DESC
+LANG_ENGLISH        "Complete the Marksman I Challenge to Unlock."
+
+REFERENCE           GEWEHR43_NO_APERTURE_DESC
+LANG_ENGLISH        "Complete the Marksman II Challenge to Unlock."
+
+REFERENCE           GEWEHR43_NO_TELESCOPIC_DESC
+LANG_ENGLISH        "Complete the Marksman III Challenge to Unlock."
+
+REFERENCE           GEWEHR43_NO_RIFLE_GRENADE_DESC
+LANG_ENGLISH        "Complete the Marksman IV Challenge to Unlock."
+
+REFERENCE           M1GARAND_NO_FLASH_DESC
+LANG_ENGLISH        "Complete the Marksman I Challenge to Unlock."
+
+REFERENCE           M1GARAND_NO_BAYONET_DESC
+LANG_ENGLISH        "Complete the Marksman II Challenge to Unlock."
+
+REFERENCE           M1GARAND_NO_SCOPED_DESC
+LANG_ENGLISH        "Complete the Marksman III Challenge to Unlock."
+
+REFERENCE           M1GARAND_NO_RIFLE_GRENADE_DESC
+LANG_ENGLISH        "Complete the Marksman IV Challenge to Unlock."
+
+REFERENCE           STG-44_NO_FLASH_DESC
+LANG_ENGLISH        "Complete the Marksman I Challenge to Unlock."
+
+REFERENCE           STG-44_NO_APERTURE_DESC
+LANG_ENGLISH        "Complete the Marksman II Challenge to Unlock."
+
+REFERENCE           STG-44_NO_TELESCOPIC_DESC
+LANG_ENGLISH        "Complete the Marksman III Challenge to Unlock."
+
+REFERENCE           M1A1CARBINE_NO_FLASH_DESC
+LANG_ENGLISH        "Complete the Marksman I Challenge to Unlock."
+
+REFERENCE           M1A1CARBINE_NO_APERTURE_DESC
+LANG_ENGLISH        "Complete the Marksman II Challenge to Unlock."
+
+REFERENCE           M1A1CARBINE_NO_BAYONET_DESC
+LANG_ENGLISH        "Complete the Marksman III Challenge to Unlock."
+
+REFERENCE           M1A1CARBINE_NO_BIGAMMO_DESC
+LANG_ENGLISH        "Complete the Marksman IV Challenge to Unlock."
+
+REFERENCE           MP40_NO_SILENCED_DESC
+LANG_ENGLISH        "Complete the Marksman I Challenge to Unlock."
+
+REFERENCE           MP40_NO_APERTURE_DESC
+LANG_ENGLISH        "Complete the Marksman II Challenge to Unlock."
+
+REFERENCE           MP40_NO_BIGAMMO_DESC
+LANG_ENGLISH        "Complete the Marksman III Challenge to Unlock."
+
+REFERENCE           TYPE100_SMG_NO_SILENCED_DESC
+LANG_ENGLISH        "Complete the Marksman I Challenge to Unlock."
+
+REFERENCE           TYPE100_SMG_NO_APERTURE_DESC
+LANG_ENGLISH        "Complete the Marksman II Challenge to Unlock."
+
+REFERENCE           TYPE100_SMG_NO_BIGAMMO_DESC
+LANG_ENGLISH        "Complete the Marksman III Challenge to Unlock."
+
+REFERENCE           PPSH_NO_APERTURE_DESC
+LANG_ENGLISH        "Complete the Marksman I Challenge to Unlock."
+
+REFERENCE           PPSH_NO_BIGAMMO_DESC
+LANG_ENGLISH        "Complete the Marksman II Challenge to Unlock."
+
+REFERENCE           SHOTGUN_DOUBLE_BARRELED_NO_GRIP_DESC
+LANG_ENGLISH        "Complete the Marksman I Challenge to Unlock."
+
+REFERENCE           SHOTGUN_DOUBLE_BARRELED_NO_SAWOFF_DESC
+LANG_ENGLISH        "Complete the Marksman II Challenge to Unlock."
+
+REFERENCE           BAR_NO_BIPOD_DESC
+LANG_ENGLISH        "Complete the Marksman I Challenge to Unlock."
+
+REFERENCE           DP28_NO_BIPOD_DESC
+LANG_ENGLISH        "Complete the Marksman I Challenge to Unlock."
+
+REFERENCE           MG42_NO_BIPOD_DESC
+LANG_ENGLISH        "Complete the Marksman I Challenge to Unlock."
+
+REFERENCE           FG42_NO_BIPOD_DESC
+LANG_ENGLISH        "Complete the Marksman I Challenge to Unlock."
+
+REFERENCE           FG42_NO_TELESCOPIC_DESC
+LANG_ENGLISH        "Complete the Marksman II Challenge to Unlock."
+
+REFERENCE           30CAL_NO_BIPOD_DESC
+LANG_ENGLISH        "Complete the Marksman I Challenge to Unlock."
+
+REFERENCE           FG42_SCOPED
+LANG_ENGLISH        "Scoped FG42"
+
+REFERENCE           MOSIN_LAUNCHER
+LANG_ENGLISH        "Mosin-Nagant w/ Launcher"
+
+REFERENCE           30CAL_BIPOD_SP
+LANG_ENGLISH        "Deployable Browning M1919"
+
+REFERENCE           BAR_BIPOD_SP
+LANG_ENGLISH        "Deployable BAR"
+
+REFERENCE           DP28_BIPOD_SP
+LANG_ENGLISH        "Deployable DP-28"
+
+REFERENCE           FG42_BIPOD_SP
+LANG_ENGLISH        "Deployable FG42"
+
+REFERENCE           KAR98K_BAYONET_SP
+LANG_ENGLISH        "Kar98k Bayonet"
+
+REFERENCE           KAR98K_SCOPED_SP
+LANG_ENGLISH        "Scoped Kar98k"
+
+REFERENCE           SPRINGFIELD_BAYONET_SP
+LANG_ENGLISH        "Springfield Bayonet"
+
+REFERENCE           SPRINGFIELD_SCOPED_SP
+LANG_ENGLISH        "Scoped Springfield"
+
+REFERENCE           M1A1CARBINE_BAYONET_SP
+LANG_ENGLISH        "M1A1 Carbine Bayonet"
+
+REFERENCE           M1GARAND_BAYONET_SP
+LANG_ENGLISH        "M1 Garand Bayonet"
+
+REFERENCE           MG42_BIPOD_SP
+LANG_ENGLISH        "Deployable MG42"
+
+REFERENCE           MOSIN_RIFLE_BAYONET_SP
+LANG_ENGLISH        "Mosin-Nagant Bayonet"
+
+REFERENCE           MOSIN_RIFLE_SCOPED_SP
+LANG_ENGLISH        "Scoped Mosin-Nagant"
+
+REFERENCE           TYPE99_LMG_BIPOD_SP
+LANG_ENGLISH        "Deployable Type 99"
+
+REFERENCE           TYPE99_RIFLE_BAYONET_SP
+LANG_ENGLISH        "Arisaka Bayonet"
+
+REFERENCE           TYPE99_RIFLE_SCOPED_SP
+LANG_ENGLISH        "Scoped Arisaka"
+
+REFERENCE           ZOMBIE_MELEE
+LANG_ENGLISH        "BRAAAINS..."
+
+REFERENCE           RAY_GUN
+LANG_ENGLISH        "Ray Gun"
+
+REFERENCE           M1A1CARBINE_NO_BAYONET_DESC
+LANG_ENGLISH        "Complete the Marksman III Challenge to Unlock."
+
+
+ENDMARKER
+
+

@@ -1,0 +1,8 @@
+VERSION             "1"
+CONFIG              "F:\cod5\cod\cod5\bin\StringEd.cfg"
+FILENOTES           "Strings displayed in the menus go in this file."
+
+REFERENCE           INTRO
+LANG_ENGLISH        "Change me in raw/english/localizedstrings/mod.str!"
+
+ENDMARKER

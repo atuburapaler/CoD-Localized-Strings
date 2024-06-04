@@ -1,0 +1,2608 @@
+// Note to translators:
+// If a sentence is the same in your language then please change it to "#same"
+//
+// eg:
+// LANG_ENGLISH  "HALT"
+// LANG_GERMAN   "#same"
+//
+// (This is so we can tell which strings have been signed-off as ok to be the same words for QA
+//  and because we do not store duplicate strings, which will then get exported again next time
+//  as being untranslated.)
+//
+VERSION             "1"
+CONFIG              "C:\cod5\cod\cod5\bin\StringEd.cfg"
+FILENOTES           ""
+
+REFERENCE           WIN_1_HARDCORE_TEAM_DEATHMATCH
+LANG_ENGLISH        "Win 1 hardcore Team Deathmatch. (Phase 1 of 3)"
+
+REFERENCE           ASSAULT
+LANG_ENGLISH        "RIFLES"
+
+REFERENCE           SMG
+LANG_ENGLISH        "SUBMACHINE GUNS"
+
+REFERENCE           HMG
+LANG_ENGLISH        "Heavy Machine Gun"
+
+REFERENCE           LMG
+LANG_ENGLISH        "MACHINE GUNS"
+
+REFERENCE           SHOTGUN
+LANG_ENGLISH        "SHOTGUNS"
+
+REFERENCE           SNIPER
+LANG_ENGLISH        "BOLT ACTION RIFLES"
+
+REFERENCE           BOOT_CAMP
+LANG_ENGLISH        "BOOT CAMP"
+
+REFERENCE           OPERATIONS
+LANG_ENGLISH        "OPERATIONS"
+
+REFERENCE           OPERATION_SPECIALIST
+LANG_ENGLISH        "Operation Specialist"
+
+REFERENCE           FIELD_SPECIALIST
+LANG_ENGLISH        "FIELD SPECIALIST"
+
+REFERENCE           KILLER
+LANG_ENGLISH        "KILLER"
+
+REFERENCE           VEHICLES
+LANG_ENGLISH        "VEHICLES"
+
+REFERENCE           HUMILIATION
+LANG_ENGLISH        "HUMILIATION"
+
+REFERENCE           ELITE
+LANG_ENGLISH        "ELITE"
+
+REFERENCE           ASSAULT_RIFLE_CHALLENGES
+LANG_ENGLISH        "RIFLES CHALLENGES"
+
+REFERENCE           SUB_MACHINE_GUN_CHALLENGES
+LANG_ENGLISH        "SUBMACHINE GUNS CHALLENGES"
+
+REFERENCE           LIGHT_MACHINE_GUN_CHALLENGES
+LANG_ENGLISH        "MACHINE GUNS CHALLENGES"
+
+REFERENCE           SHOTGUN_CHALLENGES
+LANG_ENGLISH        "SHOTGUNS CHALLENGES"
+
+REFERENCE           SNIPER_RIFLE_CHALLENGES
+LANG_ENGLISH        "BOLT ACTION RIFLES CHALLENGES"
+
+REFERENCE           BOOT_CAMP_CHALLENGES
+LANG_ENGLISH        "BOOT CAMP CHALLENGES"
+
+REFERENCE           OPERATIONS_CHALLENGES
+LANG_ENGLISH        "OPERATIONS CHALLENGES"
+
+REFERENCE           FIELD_SPECIALIST_CHALLENGES
+LANG_ENGLISH        "FIELD SPECIALIST CHALLENGES"
+
+REFERENCE           VEHICLE_CHALLENGES
+LANG_ENGLISH        "VEHICLES CHALLENGES"
+
+REFERENCE           HUMILIATION_CHALLENGES
+LANG_ENGLISH        "HUMILIATION CHALLENGES"
+
+REFERENCE           M1GARAND_MARKSMAN_I
+LANG_ENGLISH        "M1 Garand Marksman I"
+
+REFERENCE           M1GARAND_MARKSMAN_II
+LANG_ENGLISH        "M1 Garand Marksman II"
+
+REFERENCE           M1GARAND_MARKSMAN_III
+LANG_ENGLISH        "M1 Garand Marksman III"
+
+REFERENCE           M1GARAND_EXPERT_I
+LANG_ENGLISH        "M1 Garand Expert I"
+
+REFERENCE           M1GARAND_EXPERT_II
+LANG_ENGLISH        "M1 Garand Expert II"
+
+REFERENCE           M1GARAND_EXPERT_III
+LANG_ENGLISH        "M1 Garand Expert III"
+
+REFERENCE           SVT40_MARKSMAN_I
+LANG_ENGLISH        "SVT-40 Marksman I"
+
+REFERENCE           SVT40_MARKSMAN_II
+LANG_ENGLISH        "SVT-40 Marksman II"
+
+REFERENCE           SVT40_MARKSMAN_III
+LANG_ENGLISH        "SVT-40 Marksman III"
+
+REFERENCE           SVT40_EXPERT_I
+LANG_ENGLISH        "SVT-40 Expert I"
+
+REFERENCE           SVT40_EXPERT_II
+LANG_ENGLISH        "SVT-40 Expert II"
+
+REFERENCE           SVT40_EXPERT_III
+LANG_ENGLISH        "SVT-40 Expert III"
+
+REFERENCE           G43_MARKSMAN_I
+LANG_ENGLISH        "Gewehr 43 Marksman I"
+
+REFERENCE           G43_MARKSMAN_II
+LANG_ENGLISH        "Gewehr 43 Marksman II"
+
+REFERENCE           G43_MARKSMAN_III
+LANG_ENGLISH        "Gewehr 43 Marksman III"
+
+REFERENCE           G43_EXPERT_I
+LANG_ENGLISH        "Gewehr 43 Expert I"
+
+REFERENCE           G43_EXPERT_II
+LANG_ENGLISH        "Gewehr 43 Expert II"
+
+REFERENCE           G43_EXPERT_III
+LANG_ENGLISH        "Gewehr 43 Expert III"
+
+REFERENCE           STG44_MARKSMAN_I
+LANG_ENGLISH        "STG-44 Marksman I"
+
+REFERENCE           STG44_MARKSMAN_II
+LANG_ENGLISH        "STG-44 Marksman II"
+
+REFERENCE           STG44_MARKSMAN_III
+LANG_ENGLISH        "STG-44 Marksman III"
+
+REFERENCE           STG44_EXPERT_I
+LANG_ENGLISH        "STG-44 Expert I"
+
+REFERENCE           STG44_EXPERT_II
+LANG_ENGLISH        "STG-44 Expert II"
+
+REFERENCE           STG44_EXPERT_III
+LANG_ENGLISH        "STG-44 Expert III"
+
+REFERENCE           M1A1_MARKSMAN_I
+LANG_ENGLISH        "M1A1 Carbine Marksman I"
+
+REFERENCE           M1A1_MARKSMAN_II
+LANG_ENGLISH        "M1A1 Carbine Marksman II"
+
+REFERENCE           M1A1_MARKSMAN_III
+LANG_ENGLISH        "M1A1 Carbine Marksman III"
+
+REFERENCE           M1A1_EXPERT_I
+LANG_ENGLISH        "M1A1 Carbine Expert I"
+
+REFERENCE           M1A1_EXPERT_II
+LANG_ENGLISH        "M1A1 Carbine Expert II"
+
+REFERENCE           M1A1_EXPERT_III
+LANG_ENGLISH        "M1A1 Carbine Expert III"
+
+REFERENCE           THOMPSON_MARKSMAN_II
+LANG_ENGLISH        "Thompson Marksman II"
+
+REFERENCE           THOMPSON_MARKSMAN_III
+LANG_ENGLISH        "Thompson Marksman III"
+
+REFERENCE           THOMPSON_MARKSMAN_I
+LANG_ENGLISH        "Thompson Marksman I"
+
+REFERENCE           THOMPSON_EXPERT_I
+LANG_ENGLISH        "Thompson Expert I"
+
+REFERENCE           THOMPSON_EXPERT_II
+LANG_ENGLISH        "Thompson Expert II"
+
+REFERENCE           THOMPSON_EXPERT_III
+LANG_ENGLISH        "Thompson Expert III"
+
+REFERENCE           GET_25_KILLS_WITH_THIS
+LANG_ENGLISH        "Get 25 kills with this weapon. (Phase 1 of 3)"
+
+REFERENCE           GET_75_KILLS_WITH_THIS
+LANG_ENGLISH        "Get 75 kills with this weapon. (Phase 2 of 3)"
+
+REFERENCE           GET_150_KILLS_WITH_THIS
+LANG_ENGLISH        "Get 150 kills with this weapon. (Phase 3 of 3)"
+
+REFERENCE           GET_25_HEAD_SHOTS_WITH
+LANG_ENGLISH        "Get 25 head shots with this weapon. (Phase 1 of 3)"
+
+REFERENCE           GET_75_HEAD_SHOTS_WITH
+LANG_ENGLISH        "Get 75 head shots with this weapon. (Phase 2 of 3)"
+
+REFERENCE           GET_150_HEAD_SHOTS_WITH
+LANG_ENGLISH        "Get 150 head shots with this weapon. (Phase 3 of 3)"
+
+REFERENCE           TYPE100SMG_MARKSMAN_I
+LANG_ENGLISH        "Type 100 Marksman I"
+
+REFERENCE           TYPE100SMG_MARKSMAN_II
+LANG_ENGLISH        "Type 100 Marksman II"
+
+REFERENCE           TYPE100SMG_MARKSMAN_III
+LANG_ENGLISH        "Type 100 Marksman III"
+
+REFERENCE           TYPE100SMG_EXPERT_I
+LANG_ENGLISH        "Type 100 Expert I"
+
+REFERENCE           TYPE100SMG_EXPERT_II
+LANG_ENGLISH        "Type 100 Expert II"
+
+REFERENCE           TYPE100SMG_EXPERT_III
+LANG_ENGLISH        "Type 100 Expert III"
+
+REFERENCE           MP40_MARKSMAN_I
+LANG_ENGLISH        "MP40 Marksman I"
+
+REFERENCE           MP40_MARKSMAN_II
+LANG_ENGLISH        "MP40 Marksman II"
+
+REFERENCE           MP40_MARKSMAN_III
+LANG_ENGLISH        "MP40 Marksman III"
+
+REFERENCE           MP40_EXPERT_I
+LANG_ENGLISH        "MP40 Expert I"
+
+REFERENCE           MP40_EXPERT_II
+LANG_ENGLISH        "MP40 Expert II"
+
+REFERENCE           MP40_EXPERT_III
+LANG_ENGLISH        "MP40 Expert III"
+
+REFERENCE           PPSH_MARKSMAN_I
+LANG_ENGLISH        "PPSh-41 Marksman I"
+
+REFERENCE           PPSH_MARKSMAN_II
+LANG_ENGLISH        "PPSh-41 Marksman II"
+
+REFERENCE           PPSH_MARKSMAN_III
+LANG_ENGLISH        "PPSh-41 Marksman III"
+
+REFERENCE           PPSH_EXPERT_I
+LANG_ENGLISH        "PPSh-41 Expert I"
+
+REFERENCE           PPSH_EXPERT_II
+LANG_ENGLISH        "PPSh-41 Expert II"
+
+REFERENCE           PPSH_EXPERT_III
+LANG_ENGLISH        "PPSh-41 Expert III"
+
+REFERENCE           TYPE99LMG_MARKSMAN_I
+LANG_ENGLISH        "Type 99 Marksman I"
+
+REFERENCE           TYPE99LMG_EXPERT_I
+LANG_ENGLISH        "Type 99 Expert I"
+
+REFERENCE           TYPE99LMG_EXPERT_II
+LANG_ENGLISH        "Type 99 Expert II"
+
+REFERENCE           TYPE99LMG_EXPERT_III
+LANG_ENGLISH        "Type 99 Expert III"
+
+REFERENCE           FG42_MARKSMAN_I
+LANG_ENGLISH        "FG42 Marksman I"
+
+REFERENCE           FG42_EXPERT_I
+LANG_ENGLISH        "FG42 Expert I"
+
+REFERENCE           FG42_EXPERT_II
+LANG_ENGLISH        "FG42 Expert II"
+
+REFERENCE           FG42_EXPERT_III
+LANG_ENGLISH        "FG42 Expert III"
+
+REFERENCE           30CAL_MARKSMAN
+LANG_ENGLISH        "Browning M1919 Marksman"
+
+REFERENCE           30CAL_EXPERT_I
+LANG_ENGLISH        "Browning M1919 Expert I"
+
+REFERENCE           30CAL_EXPERT_II
+LANG_ENGLISH        "Browning M1919 Expert II"
+
+REFERENCE           30CAL_EXPERT_III
+LANG_ENGLISH        "Browning M1919 Expert III"
+
+REFERENCE           MG42_MARKSMAN
+LANG_ENGLISH        "MG42 Marksman"
+
+REFERENCE           MG42_EXPERT_I
+LANG_ENGLISH        "MG42 Expert I"
+
+REFERENCE           MG42_EXPERT_II
+LANG_ENGLISH        "MG42 Expert II"
+
+REFERENCE           MG42_EXPERT_III
+LANG_ENGLISH        "MG42 Expert III"
+
+REFERENCE           DP28_MARKSMAN
+LANG_ENGLISH        "DP-28 Marksman"
+
+REFERENCE           DP28_EXPERT_I
+LANG_ENGLISH        "DP-28 Expert I"
+
+REFERENCE           DP28_EXPERT_II
+LANG_ENGLISH        "DP-28 Expert II"
+
+REFERENCE           DP28_EXPERT_III
+LANG_ENGLISH        "DP-28 Expert III"
+
+REFERENCE           UNLOCK_GRIP
+LANG_ENGLISH        "UNLOCK: Grip for this weapon"
+
+REFERENCE           UNLOCK_BIPOD
+LANG_ENGLISH        "UNLOCK: Bipod for this weapon"
+
+REFERENCE           UNLOCK_BOXMAG
+LANG_ENGLISH        "UNLOCK: Extended Clip for this weapon"
+
+REFERENCE           UNLOCK_APERTURE
+LANG_ENGLISH        "UNLOCK: Aperture for this weapon"
+
+REFERENCE           UNLOCK_FLASH
+LANG_ENGLISH        "UNLOCK: Flash Hider for this weapon"
+
+REFERENCE           UNLOCK_SILENCER
+LANG_ENGLISH        "UNLOCK: Suppressor for this weapon"
+
+REFERENCE           UNLOCK_TELESCOPIC_SCOPE
+LANG_ENGLISH        "UNLOCK: Telescopic sight for this weapon"
+
+REFERENCE           UNLOCK_BAYONET
+LANG_ENGLISH        "UNLOCK: Bayonet for this weapon"
+
+REFERENCE           UNLOCK_GL
+LANG_ENGLISH        "UNLOCK: Rifle Grenade for this weapon"
+
+REFERENCE           GET_25_KILLS_WITH_THIS_21
+LANG_ENGLISH        "RENAME ME"
+
+REFERENCE           GET_25_KILLS_WITH_THIS_1
+LANG_ENGLISH        "Get 25 kills with this weapon. (Phase 1 of 1)"
+
+REFERENCE           GET_75_KILLS_WITH_THIS_1
+LANG_ENGLISH        "Get 75 kills with this weapon. "
+
+REFERENCE           GET_50_KILLS_WITH_THIS
+LANG_ENGLISH        "Get 50 kills with this weapon. (Phase 2 of 3)"
+
+REFERENCE           GET_50_HEAD_SHOTS_WITH
+LANG_ENGLISH        "Get 50 head shots with this weapon. (Phase 2 of 3)"
+
+REFERENCE           GET_100_HEAD_SHOTS_WITH
+LANG_ENGLISH        "Get 100 head shots with this weapon. (Phase 3 of 3)"
+
+REFERENCE           BAR_MARKSMAN
+LANG_ENGLISH        "BAR Marksman"
+
+REFERENCE           BAR_EXPERT_I
+LANG_ENGLISH        "BAR Expert I"
+
+REFERENCE           BAR_EXPERT_II
+LANG_ENGLISH        "BAR Expert II"
+
+REFERENCE           BAR_EXPERT_III
+LANG_ENGLISH        "BAR Expert III"
+
+REFERENCE           SHOTGUN_MARKSMAN_I
+LANG_ENGLISH        "M1897 Trench Gun Marksman I"
+
+REFERENCE           SHOTGUN_EXPERT_I
+LANG_ENGLISH        "M1897 Trench Gun Expert I"
+
+REFERENCE           SHOTGUN_EXPERT_II
+LANG_ENGLISH        "M1897 Trench Gun Expert II"
+
+REFERENCE           SHOTGUN_EXPERT_III
+LANG_ENGLISH        "M1897 Trench Gun Expert III"
+
+REFERENCE           GET_25_KILLS_WITH_THIS_1_OF_4
+LANG_ENGLISH        "Get 25 kills with this weapon. (Phase 1 of 4)"
+
+REFERENCE           GET_75_KILLS_WITH_THIS_2_OF_4
+LANG_ENGLISH        "Get 75 kills with this weapon. (Phase 2 of 4)"
+
+REFERENCE           GET_100_KILLS_WITH_THIS_3_OF_4
+LANG_ENGLISH        "Get 100 kills with this weapon. (Phase 3 of 4)"
+
+REFERENCE           GET_150_KILLS_WITH_THIS_4_OF_4
+LANG_ENGLISH        "Get 150 kills with this weapon. (Phase 4 of 4)"
+
+REFERENCE           GET_25_KILLS_WITH_THIS_1_OF_2
+LANG_ENGLISH        "Get 25 kills with this weapon. (Phase 1 of 2)"
+
+REFERENCE           GET_75_KILLS_WITH_THIS_1_OF_1
+LANG_ENGLISH        "Get 75 kills with this weapon. "
+
+REFERENCE           GET_75_KILLS_WITH_THIS_2_OF_2
+LANG_ENGLISH        "Get 75 kills with this weapon. (Phase 2 of 2)"
+
+REFERENCE           GET_75_KILLS_WITH_THIS_1_OF_2
+LANG_ENGLISH        "Get 75 kills with this weapon. (Phase 1 of 2)"
+
+REFERENCE           GET_100_KILLS_WITH_THIS_2_OF_2
+LANG_ENGLISH        "Get 100 kills with this weapon. (Phase 2 of 2)"
+
+REFERENCE           GET_100_KILLS_WITH_THIS
+LANG_ENGLISH        "Get 100 kills with this weapon. (Phase 3 of 3)"
+
+REFERENCE           DBSHOTTY_MARKSMAN_I
+LANG_ENGLISH        "Double Barreled Marksman I"
+
+REFERENCE           DBSHOTTY_EXPERT_I
+LANG_ENGLISH        "Double Barreled Expert I"
+
+REFERENCE           DBSHOTTY_EXPERT_II
+LANG_ENGLISH        "Double Barreled Expert II"
+
+REFERENCE           DBSHOTTY_EXPERT_III
+LANG_ENGLISH        "Double Barreled Expert III"
+
+REFERENCE           MOSINRIFLE_MARKSMAN_I
+LANG_ENGLISH        "Mosin-Nagant Marksman I"
+
+REFERENCE           MOSINRIFLE_MARKSMAN_II
+LANG_ENGLISH        "Mosin-Nagant Marksman II"
+
+REFERENCE           MOSINRIFLE_MARKSMAN_III
+LANG_ENGLISH        "Mosin-Nagant Marksman III"
+
+REFERENCE           MOSINRIFLE_EXPERT_I
+LANG_ENGLISH        "Mosin-Nagant Expert I"
+
+REFERENCE           MOSINRIFLE_EXPERT_II
+LANG_ENGLISH        "Mosin-Nagant Expert II"
+
+REFERENCE           MOSINRIFLE_EXPERT_III
+LANG_ENGLISH        "Mosin-Nagant Expert III"
+
+REFERENCE           SPRINGFIELD_MARKSMAN_I
+LANG_ENGLISH        "Springfield Marksman I"
+
+REFERENCE           SPRINGFIELD_MARKSMAN_II
+LANG_ENGLISH        "Springfield Marksman II"
+
+REFERENCE           SPRINGFIELD_MARKSMAN_III
+LANG_ENGLISH        "Springfield Marksman III"
+
+REFERENCE           SPRINGFIELD_EXPERT_I
+LANG_ENGLISH        "Springfield Expert I"
+
+REFERENCE           SPRINGFIELD_EXPERT_II
+LANG_ENGLISH        "Springfield Expert II"
+
+REFERENCE           SPRINGFIELD_EXPERT_III
+LANG_ENGLISH        "Springfield Expert III"
+
+REFERENCE           KAR98K_MARKSMAN_I
+LANG_ENGLISH        "Kar98k Marksman I"
+
+REFERENCE           KAR98K_MARKSMAN_II
+LANG_ENGLISH        "Kar98k Marksman II"
+
+REFERENCE           KAR98K_MARKSMAN_III
+LANG_ENGLISH        "Kar98k Marksman III"
+
+REFERENCE           KAR98K_EXPERT_I
+LANG_ENGLISH        "Kar98k Expert I"
+
+REFERENCE           KAR98K_EXPERT_II
+LANG_ENGLISH        "Kar98k Expert II"
+
+REFERENCE           KAR98K_EXPERT_III
+LANG_ENGLISH        "Kar98k Expert III"
+
+REFERENCE           TYPE99RIFLE_MARKSMAN_I
+LANG_ENGLISH        "Arisaka Marksman I"
+
+REFERENCE           TYPE99RIFLE_MARKSMAN_II
+LANG_ENGLISH        "Arisaka Marksman II"
+
+REFERENCE           TYPE99RIFLE_MARKSMAN_III
+LANG_ENGLISH        "Arisaka Marksman III"
+
+REFERENCE           TYPE99RIFLE_EXPERT_I
+LANG_ENGLISH        "Arisaka Expert I"
+
+REFERENCE           TYPE99RIFLE_EXPERT_II
+LANG_ENGLISH        "Arisaka Expert II"
+
+REFERENCE           TYPE99RIFLE_EXPERT_III
+LANG_ENGLISH        "Arisaka Expert III"
+
+REFERENCE           PTRS41_MARKSMAN_I
+LANG_ENGLISH        "PTRS-41 Marksman I"
+
+REFERENCE           PTRS41_MARKSMAN_II
+LANG_ENGLISH        "PTRS-41 Marksman II"
+
+REFERENCE           PTRS41_MARKSMAN_III
+LANG_ENGLISH        "PTRS-41 Marksman III"
+
+REFERENCE           PTRS41_EXPERT_I
+LANG_ENGLISH        "PTRS-41 Expert I"
+
+REFERENCE           PTRS41_EXPERT_II
+LANG_ENGLISH        "PTRS-41 Expert II"
+
+REFERENCE           PTRS41_EXPERT_III
+LANG_ENGLISH        "PTRS-41 Expert III"
+
+REFERENCE           LUPRA_MARKSMAN
+LANG_ENGLISH        "Sawed-Off Shotgun"
+
+REFERENCE           LUPRA_EXPERT_I
+LANG_ENGLISH        "Sawed-Off Shotgun Expert I"
+
+REFERENCE           LUPRA_EXPERT_II
+LANG_ENGLISH        "Sawed-Off Shotgun Expert II"
+
+REFERENCE           LUPRA_EXPERT_III
+LANG_ENGLISH        "Sawed-Off Shotgun Expert III"
+
+REFERENCE           RADAR_INBOUND
+LANG_ENGLISH        "Recon Plane Inbound"
+
+REFERENCE           ARTILLARY_INBOUND
+LANG_ENGLISH        "Artillery Strike Inbound"
+
+REFERENCE           DOGS_INBOUND
+LANG_ENGLISH        "Call In The Dogs"
+
+REFERENCE           SELF_DEFENSE
+LANG_ENGLISH        "Self Defense"
+
+REFERENCE           MARATHON
+LANG_ENGLISH        "Marathon"
+
+REFERENCE           GOODBYE
+LANG_ENGLISH        "Sayonara"
+
+REFERENCE           SWAN_DIVE
+LANG_ENGLISH        "Swan Dive"
+
+REFERENCE           BASE_JUMP
+LANG_ENGLISH        "Geronimo"
+
+REFERENCE           CROUCH_SHOT_I
+LANG_ENGLISH        "Crouch Shot I"
+
+REFERENCE           CROUCH_SHOT_II
+LANG_ENGLISH        "Crouch Shot II"
+
+REFERENCE           CROUCH_SHOT_III
+LANG_ENGLISH        "Crouch Shot III"
+
+REFERENCE           PRONE_SHOT_I
+LANG_ENGLISH        "Prone Shot I"
+
+REFERENCE           PRONE_SHOT_II
+LANG_ENGLISH        "Prone Shot II"
+
+REFERENCE           PRONE_SHOT_III
+LANG_ENGLISH        "Prone Shot III"
+
+REFERENCE           GRENADE_KILL_I
+LANG_ENGLISH        "Grenade Kill I"
+
+REFERENCE           GRENADE_KILL_II
+LANG_ENGLISH        "Grenade Kill II"
+
+REFERENCE           GRENADE_KILL_III
+LANG_ENGLISH        "Grenade Kill III"
+
+REFERENCE           BAR_TENDER_I
+LANG_ENGLISH        "Bartender I"
+
+REFERENCE           BAR_TENDER_II
+LANG_ENGLISH        "Bartender II"
+
+REFERENCE           BAR_TENDER_III
+LANG_ENGLISH        "Bartender III"
+
+REFERENCE           STICKY_KILL_I
+LANG_ENGLISH        "Sticky Kill I"
+
+REFERENCE           STICKY_KILL_II
+LANG_ENGLISH        "Sticky Kill II"
+
+REFERENCE           STICKY_KILL_III
+LANG_ENGLISH        "Sticky Kill III"
+
+REFERENCE           POINT_GUARD_I
+LANG_ENGLISH        "Point Guard I"
+
+REFERENCE           POINT_GUARD_II
+LANG_ENGLISH        "Point Guard II"
+
+REFERENCE           POINT_GUARD_III
+LANG_ENGLISH        "Point Guard III"
+
+REFERENCE           XRAY_VISION_I
+LANG_ENGLISH        "X-Ray Vision I"
+
+REFERENCE           XRAY_VISION_II
+LANG_ENGLISH        "X-Ray Vision II"
+
+REFERENCE           XRAY_VISION_III
+LANG_ENGLISH        "X-Ray Vision III"
+
+REFERENCE           VANDALISM_I
+LANG_ENGLISH        "Vandalism I"
+
+REFERENCE           VANDALISM_II
+LANG_ENGLISH        "Vandalism II"
+
+REFERENCE           VANDALISM_III
+LANG_ENGLISH        "Vandalism III"
+
+REFERENCE           EXPOSED_I
+LANG_ENGLISH        "Exposed I"
+
+REFERENCE           EXPOSED_II
+LANG_ENGLISH        "Exposed II"
+
+REFERENCE           EXPOSED_III
+LANG_ENGLISH        "Exposed III"
+
+REFERENCE           BACKDRAFT_I
+LANG_ENGLISH        "Backdraft I"
+
+REFERENCE           BACKDRAFT_II
+LANG_ENGLISH        "Backdraft II"
+
+REFERENCE           BACKDRAFT_III
+LANG_ENGLISH        "Backdraft III"
+
+REFERENCE           KNIFE_VETERAN_I
+LANG_ENGLISH        "Knife Veteran I"
+
+REFERENCE           KNIFE_VETERAN_II
+LANG_ENGLISH        "Knife Veteran II"
+
+REFERENCE           KNIFE_VETERAN_III
+LANG_ENGLISH        "Knife Veteran III"
+
+REFERENCE           KILL_3_ENEMIES_WITHOUT
+LANG_ENGLISH        "Kill 3 enemies without dying and call in radar."
+
+REFERENCE           KILL_5_ENEMIES_WITHOUT
+LANG_ENGLISH        "Kill 5 enemies without dying and call in an Artillery Strike."
+
+REFERENCE           KILL_7_ENEMIES_WITHOUT
+LANG_ENGLISH        "Kill 7 enemies without dying and call in the dogs."
+
+REFERENCE           SHOOT_DOWN_AN_ENEMY_ATTACK_DOG
+LANG_ENGLISH        "Shoot an enemy attack dog."
+
+REFERENCE           SPRINT_FOR_26_MILES_TOTAL
+LANG_ENGLISH        "Sprint for 26 miles total."
+
+REFERENCE           FALL_30_FEET_OR_MORE
+LANG_ENGLISH        "Fall 30 feet or more to your death."
+
+REFERENCE           FALL_20_FEET_OR_MORE
+LANG_ENGLISH        "Fall 20 feet or more into water and survive."
+
+REFERENCE           FALL_15_FEET_OR_MORE
+LANG_ENGLISH        "Fall 15 feet or more and survive."
+
+REFERENCE           KILL_5_ENEMIES_WHILE
+LANG_ENGLISH        "Kill 5 enemies while you are crouching. (Phase 1 of 3)"
+
+REFERENCE           KILL_15_ENEMIES_WHILE
+LANG_ENGLISH        "Kill 15 enemies while you are crouching. (Phase 2 of 3)"
+
+REFERENCE           KILL_30_ENEMIES_WHILE
+LANG_ENGLISH        "Kill 30 enemies while you are crouching. (Phase 3 of 3)"
+
+REFERENCE           KILL_5_ENEMIES_WHILE1
+LANG_ENGLISH        "Kill 5 enemies while you are prone. (Phase 1 of 3)"
+
+REFERENCE           KILL_15_ENEMIES_WHILE1
+LANG_ENGLISH        "Kill 15 enemies while you are prone. (Phase 2 of 3)"
+
+REFERENCE           KILL_30_ENEMIES_WHILE1
+LANG_ENGLISH        "Kill 30 enemies while you are prone. (Phase 3 of 3)"
+
+REFERENCE           KILL_1_ENEMY_WITH_A_GRENADE
+LANG_ENGLISH        "Kill 1 enemy with a grenade. (Phase 1 of 3)"
+
+REFERENCE           KILL_5_ENEMIES_WITH_A
+LANG_ENGLISH        "Kill 5 enemies with a grenade. (Phase 2 of 3)"
+
+REFERENCE           KILL_10_ENEMIES_WITH
+LANG_ENGLISH        "Kill 10 enemies with a grenade. (Phase 3 of 3)"
+
+REFERENCE           KILL_1_ENEMY_WITH_A_MOLOTOV
+LANG_ENGLISH        "Kill 1 enemy with a Molotov Cocktail. (Phase 1 of 3)"
+
+REFERENCE           KILL_5_ENEMIES_WITH_A_MOLOTOV
+LANG_ENGLISH        "Kill 5 enemies with a Molotov Cocktail. (Phase 2 of 3)"
+
+REFERENCE           TIPOFTHEHAT
+LANG_ENGLISH        "Tip of the Hat"
+
+REFERENCE           KILL_1_ENEMY_WITH_A_STICKY
+LANG_ENGLISH        "Kill 1 enemy with a Sticky Grenade. (Phase 1 of 3)"
+
+REFERENCE           KILL_5_ENEMIES_WITH_A_STICKY
+LANG_ENGLISH        "Kill 5 enemies with a Sticky Grenade. (Phase 2 of 3)"
+
+REFERENCE           KILL_15_ENEMIES_WITH_A_STICKY
+LANG_ENGLISH        "Kill 15 enemies with a Sticky Grenade. (Phase 3 of 3)"
+
+REFERENCE           GET_5_ASSISTS_PHASE_1
+LANG_ENGLISH        "Get 5 assists. (Phase 1 of 3)"
+
+REFERENCE           GET_15_ASSISTS_PHASE
+LANG_ENGLISH        "Get 15 assists. (Phase 2 of 3)"
+
+REFERENCE           GET_30_ASSISTS_PHASE
+LANG_ENGLISH        "Get 30 assists. (Phase 3 of 3)"
+
+REFERENCE           KILL_1_ENEMY_THROUGH
+LANG_ENGLISH        "Kill 1 enemy through a surface using bullet penetration. (Phase 1 of 3)"
+
+REFERENCE           KILL_5_ENEMIES_THROUGH
+LANG_ENGLISH        "Kill 5 enemies through a surface using bullet penetration. (Phase 2 of 3)"
+
+REFERENCE           KILL_15_ENEMIES_THROUGH
+LANG_ENGLISH        "Kill 15 enemies through a surface using bullet penetration. (Phase 3 of 3)"
+
+REFERENCE           BLOW_UP_1_CAR_PHASE_1
+LANG_ENGLISH        "Blow up 1 car. (Phase 1 of 3)"
+
+REFERENCE           BLOW_UP_5_CARS_PHASE
+LANG_ENGLISH        "Blow up 5 cars. (Phase 2 of 3)"
+
+REFERENCE           BLOW_UP_15_CARS_PHASE
+LANG_ENGLISH        "Blow up 15 cars. (Phase 3 of 3)"
+
+REFERENCE           CALL_IN_A_UAV_5_TIMES
+LANG_ENGLISH        "Call in a recon plane 5 times. (Phase 1 of 3)"
+
+REFERENCE           CALL_IN_A_UAV_10_TIMES
+LANG_ENGLISH        "Call in a recon plane 10 times. (Phase 2 of 3)"
+
+REFERENCE           CALL_IN_A_UAV_20_TIMES
+LANG_ENGLISH        "Call in a recon plane 20 times. (Phase 3 of 3)"
+
+REFERENCE           DESTROY_1_ENEMY_EXPLOSIVE
+LANG_ENGLISH        "Destroy 1 enemy explosive device. (Phase 1 of 3)"
+
+REFERENCE           DESTROY_5_ENEMY_EXPLOSIVE
+LANG_ENGLISH        "Destroy 5 enemy explosive devices. (Phase 2 of 3)"
+
+REFERENCE           DESTROY_15_ENEMY_EXPLOSIVE
+LANG_ENGLISH        "Destroy 15 enemy explosive devices. (Phase 3 of 3)"
+
+REFERENCE           KILL_1_ENEMY_WITH_THE
+LANG_ENGLISH        "Kill 1 enemy with the knife melee attack. (Phase 1 of 3)"
+
+REFERENCE           KILL_5_ENEMIES_WITH_THE
+LANG_ENGLISH        "Kill 5 enemies with the knife melee attack. (Phase 2 of 3)"
+
+REFERENCE           KILL_15_ENEMIES_WITH
+LANG_ENGLISH        "Kill 15 enemies with the knife melee attack. (Phase 3 of 3)"
+
+REFERENCE           FREEFORALL_VICTOR_I
+LANG_ENGLISH        "Free-For-All Victor I"
+
+REFERENCE           FREEFORALL_VICTOR_II
+LANG_ENGLISH        "Free-For-All Victor II"
+
+REFERENCE           FREEFORALL_VICTOR_III
+LANG_ENGLISH        "Free-For-All Victor III"
+
+REFERENCE           TEAM_PLAYER_I
+LANG_ENGLISH        "Team Player I"
+
+REFERENCE           TEAM_PLAYER_II
+LANG_ENGLISH        "Team Player II"
+
+REFERENCE           TEAM_PLAYER_III
+LANG_ENGLISH        "Team Player III"
+
+REFERENCE           WAR_VICTOR_I
+LANG_ENGLISH        "War Victor I"
+
+REFERENCE           WAR_VICTOR_II
+LANG_ENGLISH        "War Victor II"
+
+REFERENCE           WAR_VICTOR_III
+LANG_ENGLISH        "War Victor III"
+
+REFERENCE           DOMINATION_VICTOR_I
+LANG_ENGLISH        "Domination Victor I"
+
+REFERENCE           DOMINATION_VICTOR_II
+LANG_ENGLISH        "Domination Victor II"
+
+REFERENCE           DOMINATION_VICTOR_III
+LANG_ENGLISH        "Domination Victor III"
+
+REFERENCE           HEAD_QUATERS_VICTOR_I
+LANG_ENGLISH        "Headquarters Victor I"
+
+REFERENCE           HEAD_QUATERS_VICTOR_II
+LANG_ENGLISH        "Headquarters Victor II"
+
+REFERENCE           HEAD_QUATERS_VICTOR_III
+LANG_ENGLISH        "Headquarters Victor III"
+
+REFERENCE           TANK_WAR_VICTOR_I
+LANG_ENGLISH        "Tank War Victor I"
+
+REFERENCE           TANK_WAR_VICTOR_II
+LANG_ENGLISH        "Tank War Victor II"
+
+REFERENCE           TANK_WAR_VICTOR_III
+LANG_ENGLISH        "Tank War Victor III"
+
+REFERENCE           VEHICLE_TDM_VICTOR_I
+LANG_ENGLISH        "Vehicle Team Deathmatch Victor I"
+
+REFERENCE           VEHICLE_TDM_VICTOR_II
+LANG_ENGLISH        "Vehicle Team Deathmatch Victor II"
+
+REFERENCE           VEHICLE_TDM_VICTOR_III
+LANG_ENGLISH        "Vehicle Team Deathmatch Victor III"
+
+REFERENCE           SD_VICTOR_I
+LANG_ENGLISH        "Search And Destroy Victor I"
+
+REFERENCE           SD_VICTOR_II
+LANG_ENGLISH        "Search And Destroy Victor II"
+
+REFERENCE           SD_VICTOR_III
+LANG_ENGLISH        "Search And Destroy Victor III"
+
+REFERENCE           CTF_VICTOR_I
+LANG_ENGLISH        "Capture The Flag Victor I"
+
+REFERENCE           CTF_VICTOR_II
+LANG_ENGLISH        "Capture The Flag Victor II"
+
+REFERENCE           CTF_VICTOR_III
+LANG_ENGLISH        "Capture The Flag Victor III"
+
+REFERENCE           MVP_TEAM_DEATHMATCH
+LANG_ENGLISH        "MVP Team Deathmatch"
+
+REFERENCE           HARDCORE_TEAM_PLAYER_I
+LANG_ENGLISH        "Hardcore Team Player I"
+
+REFERENCE           HARDCORE_TEAM_PLAYER_II
+LANG_ENGLISH        "Hardcore Team Player II"
+
+REFERENCE           HARDCORE_TEAM_PLAYER_III
+LANG_ENGLISH        "Hardcore Team Player III"
+
+REFERENCE           SABOTAGE_VICTOR_I
+LANG_ENGLISH        "Sabotage Victor I"
+
+REFERENCE           SABOTAGE_VICTOR_II
+LANG_ENGLISH        "Sabotage Victor II"
+
+REFERENCE           SABOTAGE_VICTOR_III
+LANG_ENGLISH        "Sabotage Victor III"
+
+REFERENCE           MVP_TEAM_HARDCORE
+LANG_ENGLISH        "MVP Team Hardcore"
+
+REFERENCE           BOMB_DOWN
+LANG_ENGLISH        "Bomb Down"
+
+REFERENCE           BOMB_DEFENDER
+LANG_ENGLISH        "Bomb Defender"
+
+REFERENCE           BOMB_PLANTER
+LANG_ENGLISH        "Bomb Planter"
+
+REFERENCE           HERO
+LANG_ENGLISH        "Hero"
+
+REFERENCE           LAST_MAN_STANDING
+LANG_ENGLISH        "Last Man Standing"
+
+REFERENCE           WAR_HERO
+LANG_ENGLISH        "War Hero"
+
+REFERENCE           PLACE_IN_THE_TOP_3_IN
+LANG_ENGLISH        "Place in the top 3 in 1 Free-for-all match. (Phase 1 of 3)"
+
+REFERENCE           PLACE_IN_THE_TOP_3_IN1
+LANG_ENGLISH        "Place in the top 3 in 5 Free-for-all matches. (Phase 2 of 3)"
+
+REFERENCE           PLACE_IN_THE_TOP_3_IN2
+LANG_ENGLISH        "Place in the top 3 in 10 Free-for-all matches. (Phase 3 of 3)"
+
+REFERENCE           WIN_5_TEAM_DEATHMATCH
+LANG_ENGLISH        "Win 5 Team Deathmatch matches. (Phase 1 of 3)"
+
+REFERENCE           WIN_15_TEAM_DEATHMATCH
+LANG_ENGLISH        "Win 15 Team Deathmatch matches. (Phase 2 of 3)"
+
+REFERENCE           WIN_30_TEAM_DEATHMATCH
+LANG_ENGLISH        "Win 30 Team Deathmatch matches. (Phase 3 of 3)"
+
+REFERENCE           WIN_5_SEARCH_AND_DESTROY
+LANG_ENGLISH        "Win 5 Search And Destroy matches. (Phase 1 of 3)"
+
+REFERENCE           WIN_15_SEARCH_AND_DESTROY
+LANG_ENGLISH        "Win 15 Search And Destroy matches. (Phase 2 of 3)"
+
+REFERENCE           WIN_30_SEARCH_AND_DESTROY
+LANG_ENGLISH        "Win 30 Search And Destroy matches. (Phase 3 of 3)"
+
+REFERENCE           WIN_5_CAPTURE_THE_FLAG
+LANG_ENGLISH        "Win 5 Capture the Flag matches. (Phase 1 of 3)"
+
+REFERENCE           WIN_15_CAPTURE_THE_FLAG
+LANG_ENGLISH        "Win 15 Capture the Flag matches. (Phase 2 of 3)"
+
+REFERENCE           WIN_30_CAPTURE_THE_FLAG
+LANG_ENGLISH        "Win 30 Capture the Flag matches. (Phase 3 of 3)"
+
+REFERENCE           WIN_5_WAR_MATCHES
+LANG_ENGLISH        "Win 5 War matches. (Phase 1 of 3)"
+
+REFERENCE           WIN_15_WAR_MATCHES
+LANG_ENGLISH        "Win 15 War matches. (Phase 2 of 3)"
+
+REFERENCE           WIN_30_WAR_MATCHES
+LANG_ENGLISH        "Win 30 War matches. (Phase 3 of 3)"
+
+REFERENCE           WIN_5_DOMINATION_MATCHES
+LANG_ENGLISH        "Win 5 Domination matches. (Phase 1 of 3)"
+
+REFERENCE           WIN_15_DOMINATION_MATCHES
+LANG_ENGLISH        "Win 15 Domination matches. (Phase 2 of 3)"
+
+REFERENCE           WIN_30_DOMINATION_MATCHES
+LANG_ENGLISH        "Win 30 Domination matches. (Phase 3 of 3)"
+
+REFERENCE           WIN_5_HEAD_QUATERS_MATCHES
+LANG_ENGLISH        "Win 5 Headquarters matches. (Phase 1 of 3)"
+
+REFERENCE           WIN_15_HEAD_QUATERS_MATCHES
+LANG_ENGLISH        "Win 15 Headquarters matches. (Phase 2 of 3)"
+
+REFERENCE           WIN_30_HEAD_QUATERS_MATCHES
+LANG_ENGLISH        "Win 30 Headquarters matches. (Phase 3 of 3)"
+
+REFERENCE           PLAY_TEAM_DEATHMATCH
+LANG_ENGLISH        "Win a Team Deathmatch with the top score."
+
+REFERENCE           WIN_5_TANK_WAR_MATCHES
+LANG_ENGLISH        "Win 5 Tank War matches. (Phase 1 of 3)"
+
+REFERENCE           WIN_15_TANK_WAR_MATCHES
+LANG_ENGLISH        "Win 15 Tank War matches. (Phase 2 of 3)"
+
+REFERENCE           WIN_30_TANK_WAR_MATCHES
+LANG_ENGLISH        "Win 30 Tank War matches. (Phase 3 of 3)"
+
+REFERENCE           WIN_5_VEHICLE_TDM_MATCHES
+LANG_ENGLISH        "Win 5 Vehicle Team Deathmatches. (Phase 1 of 3)"
+
+REFERENCE           WIN_15_VEHICLE_TDM_MATCHES
+LANG_ENGLISH        "Win 15 Vehicle Team Deathmatches. (Phase 2 of 3)"
+
+REFERENCE           WIN_30_VEHICLE_TDM_MATCHES
+LANG_ENGLISH        "Win 30 Vehicle Team Deathmatches. (Phase 3 of 3)"
+
+REFERENCE           WIN_5_HARDCORE_TEAM_DEATHMATCH
+LANG_ENGLISH        "Win 5 Hardcore Team Deathmatch matches. (Phase 1 of 3)"
+
+REFERENCE           WIN_15_HARDCORE_TEAM_DEATHMATCH
+LANG_ENGLISH        "Win 15 Hardcore Team Deathmatch matches. (Phase 2 of 3)"
+
+REFERENCE           WIN_30_HARDCORE_TEAM_DEATHMATCH
+LANG_ENGLISH        "Win 30 Hardcore Team Deathmatch matches. (Phase 3 of 3)"
+
+REFERENCE           WIN_5_SABOTAGE_MATCHES
+LANG_ENGLISH        "Win 5 Sabotage matches. (Phase 1 of 3)"
+
+REFERENCE           WIN_15_SABOTAGE_MATCHES
+LANG_ENGLISH        "Win 15 Sabotage matches. (Phase 2 of 3)"
+
+REFERENCE           WIN_30_SABOTAGE_MATCHES
+LANG_ENGLISH        "Win 30 Sabotage matches. (Phase 3 of 3)"
+
+REFERENCE           WIN_A_TEAM_HARDCORE_MATCH
+LANG_ENGLISH        "Win a Team Hardcore match with the top score."
+
+REFERENCE           KILL_THE_BOMB_CARRIER
+LANG_ENGLISH        "Kill the bomb carrier in a Sabotage or Search and Destroy match."
+
+REFERENCE           KILL_A_BOMB_DEFUSER_IN
+LANG_ENGLISH        "Kill a bomb defuser in a Sabotage or Search and Destroy match."
+
+REFERENCE           KILL_A_BOMB_PLANTER_IN
+LANG_ENGLISH        "Kill a bomb planter in a Sabotage or Search and Destroy match."
+
+REFERENCE           DEFUSE_A_BOMB_IN_SABOTAGE
+LANG_ENGLISH        "Defuse a bomb in Sabotage or Search and Destroy."
+
+REFERENCE           BE_THE_LAST_MAN_STANDING
+LANG_ENGLISH        "Be the last man standing in Search and Destroy."
+
+REFERENCE           BE_A_WAR_HERO
+LANG_ENGLISH        "Kill 1 or more enemy players in the act of capturing the last flag then help to recapture it for your team. (War)\n"
+
+REFERENCE           CLAYMORE_SHOT
+LANG_ENGLISH        "Claymore Shot"
+
+REFERENCE           PISTOL_MARKSMAN_I
+LANG_ENGLISH        "Pistol Marksman I"
+
+REFERENCE           PISTOL_MARKSMAN_II
+LANG_ENGLISH        "Pistol Marksman II"
+
+REFERENCE           PISTOL_MARKSMAN_III
+LANG_ENGLISH        "Pistol Marksman III"
+
+REFERENCE           PISTOL_EXPERT_I
+LANG_ENGLISH        "Pistol Expert I"
+
+REFERENCE           PISTOL_EXPERT_II
+LANG_ENGLISH        "Pistol Expert II"
+
+REFERENCE           PISTOL_EXPERT_III
+LANG_ENGLISH        "Pistol Expert III"
+
+REFERENCE           ASSAULT_EXPERT_I
+LANG_ENGLISH        "Rifle Expert I"
+
+REFERENCE           ASSAULT_EXPERT_II
+LANG_ENGLISH        "Rifle Expert II"
+
+REFERENCE           ASSAULT_EXPERT_III
+LANG_ENGLISH        "Rifle Expert III"
+
+REFERENCE           SMG_EXPERT_I
+LANG_ENGLISH        "SMG Expert I"
+
+REFERENCE           SMG_EXPERT_II
+LANG_ENGLISH        "SMG Expert II"
+
+REFERENCE           SMG_EXPERT_III
+LANG_ENGLISH        "SMG Expert III"
+
+REFERENCE           LMG_EXPERT_I
+LANG_ENGLISH        "LMG Expert I"
+
+REFERENCE           LMG_EXPERT_II
+LANG_ENGLISH        "LMG Expert II"
+
+REFERENCE           LMG_EXPERT_III
+LANG_ENGLISH        "LMG Expert III"
+
+REFERENCE           HMG_EXPERT_I
+LANG_ENGLISH        "HMG Expert I"
+
+REFERENCE           HMG_EXPERT_II
+LANG_ENGLISH        "HMG Expert II"
+
+REFERENCE           HMG_EXPERT_III
+LANG_ENGLISH        "HMG Expert III"
+
+REFERENCE           BOLT_EXPERT_I
+LANG_ENGLISH        "Bolt Action Expert I"
+
+REFERENCE           BOLT_EXPERT_II
+LANG_ENGLISH        "Bolt Action Expert II"
+
+REFERENCE           BOLT_EXPERT_III
+LANG_ENGLISH        "Bolt Action Expert III"
+
+REFERENCE           LAST_STAND_VETERAN_I
+LANG_ENGLISH        "Last Stand Veteran I"
+
+REFERENCE           LAST_STAND_VETERAN_II
+LANG_ENGLISH        "Last Stand Veteran II"
+
+REFERENCE           LAST_STAND_VETERAN_III
+LANG_ENGLISH        "Last Stand Veteran III"
+
+REFERENCE           MASTER_CHEF_I
+LANG_ENGLISH        "Master Chef I"
+
+REFERENCE           MASTER_CHEF_II
+LANG_ENGLISH        "Master Chef II"
+
+REFERENCE           MASTER_CHEF_III
+LANG_ENGLISH        "Master Chef III"
+
+REFERENCE           ARTILLARY_VETERAN_I
+LANG_ENGLISH        "Artillery Strike Veteran I"
+
+REFERENCE           ARTILLARY_VETERAN_II
+LANG_ENGLISH        "Artillery Strike Veteran II"
+
+REFERENCE           ARTILLARY_VETERAN_III
+LANG_ENGLISH        "Artillery Strike Veteran III"
+
+REFERENCE           DOG_VETERAN_I
+LANG_ENGLISH        "Dog Handler I"
+
+REFERENCE           DOG_VETERAN_II
+LANG_ENGLISH        "Dog Handler II"
+
+REFERENCE           DOG_VETERAN_III
+LANG_ENGLISH        "Dog Handler III"
+
+REFERENCE           TABUN_I
+LANG_ENGLISH        "Fumigator I"
+
+REFERENCE           TABUN_II
+LANG_ENGLISH        "Fumigator II"
+
+REFERENCE           TABUN_III
+LANG_ENGLISH        "Fumigator III"
+
+REFERENCE           FLARE_I
+LANG_ENGLISH        "Signal Flare Veteran I"
+
+REFERENCE           FLARE_II
+LANG_ENGLISH        "Signal Flare Veteran II"
+
+REFERENCE           FLARE_III
+LANG_ENGLISH        "Signal Flare Veteran III"
+
+REFERENCE           SHOEBOX_I
+LANG_ENGLISH        "Bouncing Betty I"
+
+REFERENCE           SHOEBOX_II
+LANG_ENGLISH        "Bouncing Betty II"
+
+REFERENCE           SHOEBOX_III
+LANG_ENGLISH        "Bouncing Betty III"
+
+REFERENCE           SATCHEL_I
+LANG_ENGLISH        "Satchel Charge I"
+
+REFERENCE           SATCHEL_II
+LANG_ENGLISH        "Satchel Charge II"
+
+REFERENCE           SATCHEL_III
+LANG_ENGLISH        "Satchel Charge III"
+
+REFERENCE           MULTIRPG
+LANG_ENGLISH        "Multi-RPG"
+
+REFERENCE           MARTYRDOM_VETERAN_I
+LANG_ENGLISH        "Martyrdom Veteran I"
+
+REFERENCE           MARTYRDOM_VETERAN_II
+LANG_ENGLISH        "Martyrdom Veteran II"
+
+REFERENCE           MARTYRDOM_VETERAN_III
+LANG_ENGLISH        "Martyrdom Veteran III"
+
+REFERENCE           CLAY_MORE
+LANG_ENGLISH        "Clay More"
+
+REFERENCE           STEALTH_I
+LANG_ENGLISH        "Stealth I"
+
+REFERENCE           STEALTH_II
+LANG_ENGLISH        "Stealth II"
+
+REFERENCE           STEALTH_III
+LANG_ENGLISH        "Stealth III"
+
+REFERENCE           PYRO_I
+LANG_ENGLISH        "Pyro I"
+
+REFERENCE           PYRO_II
+LANG_ENGLISH        "Pyro II"
+
+REFERENCE           PYRO_III
+LANG_ENGLISH        "Pyro III"
+
+REFERENCE           COUNTERSHOEBOX_I
+LANG_ENGLISH        "Counter-Betty I"
+
+REFERENCE           COUNTERSHOEBOX_II
+LANG_ENGLISH        "Counter-Betty II"
+
+REFERENCE           COUNTERSHOEBOX_III
+LANG_ENGLISH        "Counter-Betty III"
+
+REFERENCE           COUNTERSATCHEL_I
+LANG_ENGLISH        "Counter-Satchel I"
+
+REFERENCE           COUNTERSATCHEL_II
+LANG_ENGLISH        "Counter-Satchel II"
+
+REFERENCE           COUNTERSATCHEL_III
+LANG_ENGLISH        "Counter-Satchel III"
+
+REFERENCE           KILL_25_ENEMIES_WITH_PISTOL
+LANG_ENGLISH        "Kill 25 enemies while using a pistol. (Phase 1 of 3)"
+
+REFERENCE           KILL_50_ENEMIES_WITH_PISTOL
+LANG_ENGLISH        "Kill 50 enemies while using a pistol. (Phase 2 of 3)"
+
+REFERENCE           KILL_75_ENEMIES_WITH_PISTOL
+LANG_ENGLISH        "Kill 75 enemies while using a pistol. (Phase 3 of 3)"
+
+REFERENCE           KILL_5_ENEMIES_WITH_HEADSHOTS_PISTOL
+LANG_ENGLISH        "Kill 5 enemies with a headshot while using a pistol. (Phase 1 of 3)"
+
+REFERENCE           KILL_25_ENEMIES_WITH_HEADSHOTS_PISTOL
+LANG_ENGLISH        "Kill 25 enemies with a headshot while using a pistol. (Phase 2 of 3)"
+
+REFERENCE           KILL_35_ENEMIES_WITH_HEADSHOTS_PISTOL
+LANG_ENGLISH        "Kill 35 enemies with a headshot while using a pistol. (Phase 3 of 3)"
+
+REFERENCE           KILL_5_ENEMIES_WITH_A1
+LANG_ENGLISH        "Kill 5 enemies with a headshot while using a rifle. (Phase 1 of 3)"
+
+REFERENCE           KILL_25_ENEMIES_WITH
+LANG_ENGLISH        "Kill 25 enemies with a headshot while using a rifle. (Phase 2 of 3)"
+
+REFERENCE           KILL_35_ENEMIES_WITH
+LANG_ENGLISH        "Kill 35 enemies with a headshot while using a Rifle. (Phase 3 of 3)"
+
+REFERENCE           KILL_5_ENEMIES_WITH_HEADSHOTS
+LANG_ENGLISH        "Kill 5 enemies with headshots while using a submachine gun. (Phase 1 of 3)"
+
+REFERENCE           KILL_25_ENEMIES_WITH1
+LANG_ENGLISH        "Kill 25 enemies with headshots while using a submachine gun. (Phase 2 of 3)"
+
+REFERENCE           KILL_35_ENEMIES_WITH1
+LANG_ENGLISH        "Kill 35 enemies with headshots while using a submachine gun. (Phase 3 of 3)"
+
+REFERENCE           KILL_5_ENEMIES_WITH_HEADSHOTS1
+LANG_ENGLISH        "Kill 5 enemies with headshots while using a light machine gun. (Phase 1 of 3)"
+
+REFERENCE           KILL_25_ENEMIES_WITH2
+LANG_ENGLISH        "Kill 25 enemies with headshots while using a light machine gun. (Phase 2 of 3)"
+
+REFERENCE           KILL_35_ENEMIES_WITH2
+LANG_ENGLISH        "Kill 35 enemies with headshots while using a light machine gun. (Phase 3 of 3)"
+
+REFERENCE           KILL_5_ENEMIES_WITH_HEADSHOTS3
+LANG_ENGLISH        "Kill 5 enemies with headshots while using a heavy machine gun. (Phase 1 of 3)"
+
+REFERENCE           KILL_25_ENEMIES_WITH_HEADSHOTS3
+LANG_ENGLISH        "Kill 25 enemies with headshots while using a heavy machine gun. (Phase 2 of 3)"
+
+REFERENCE           KILL_35_ENEMIES_WITH_HEADSHOTS3
+LANG_ENGLISH        "Kill 35 enemies with headshots while using a heavy machine gun. (Phase 3 of 3)"
+
+REFERENCE           KILL_5_ENEMIES_WITH_HEADSHOTS_BOLT
+LANG_ENGLISH        "Kill 5 enemies with headshots while using a Bolt Action Rifle. (Phase 1 of 3)"
+
+REFERENCE           KILL_25_ENEMIES_WITH_HEADSHOTS_BOLT
+LANG_ENGLISH        "Kill 25 enemies with headshots while using a Bolt Action Rifle. (Phase 2 of 3)"
+
+REFERENCE           KILL_35_ENEMIES_WITH_HEADSHOTS_BOLT
+LANG_ENGLISH        "Kill 35 enemies with headshots while using a Bolt Action Rifle. (Phase 3 of 3)"
+
+REFERENCE           KILL_1_ENEMY_WHILE_USING
+LANG_ENGLISH        "Kill 1 enemy while using the Last Stand perk. (Phase 1 of 3)"
+
+REFERENCE           KILL_5_ENEMIES_WHILE2
+LANG_ENGLISH        "Kill 5 enemies while the Last Stand perk. (Phase 2 of 3)"
+
+REFERENCE           KILL_15_ENEMIES_WHILE2
+LANG_ENGLISH        "Kill 15 enemies while using the Last Stand perk. (Phase 3 of 3)"
+
+REFERENCE           KILL_5_ENEMIES_WITH_COOKED
+LANG_ENGLISH        "Kill 5 enemies with cooked grenades. (Phase 1 of 3)"
+
+REFERENCE           KILL_10_ENEMIES_WITH1
+LANG_ENGLISH        "Kill 10 enemies with cooked grenades. (Phase 2 of 3)"
+
+REFERENCE           KILL_20_ENEMIES_WITH
+LANG_ENGLISH        "Kill 20 enemies with cooked grenades. (Phase 3 of 3)"
+
+REFERENCE           KILL_5_ENEMIES_BY_CALLING_ART
+LANG_ENGLISH        "Kill 5 enemies by calling in Artillery. (Phase 1 of 3)"
+
+REFERENCE           KILL_15_ENEMIES_BY_CALLING_ART
+LANG_ENGLISH        "Kill 15 enemies by calling in Artillery. (Phase 2 of 3)"
+
+REFERENCE           KILL_30_ENEMIES_BY_CALLING_ART
+LANG_ENGLISH        "Kill 30 enemies by calling in Artillery. (Phase 3 of 3)"
+
+REFERENCE           KILL_5_ENEMIES_BY_CALLING_DOGS
+LANG_ENGLISH        "Kill 5 enemies by calling in the dogs. (Phase 1 of 3)"
+
+REFERENCE           KILL_15_ENEMIES_BY_CALLING_DOGS
+LANG_ENGLISH        "Kill 15 enemies by calling in the dogs. (Phase 2 of 3)"
+
+REFERENCE           KILL_30_ENEMIES_BY_CALLING_DOGS
+LANG_ENGLISH        "Kill 30 enemies by calling in the dogs. (Phase 3 of 3)"
+
+REFERENCE           KILL_5_ENEMIES_WHILE_TABUN
+LANG_ENGLISH        "Kill 5 enemies still dazed by a tabun grenade. (Phase 1 of 3)"
+
+REFERENCE           KILL_10_ENEMIES_WHILE_TABUN
+LANG_ENGLISH        "Kill 10 enemies still dazed by a tabun grenade. (Phase 2 of 3)"
+
+REFERENCE           KILL_25_ENEMIES_WHILE_TABUN
+LANG_ENGLISH        "Kill 25 enemies still dazed by a tabun grenade. (Phase 3 of 3)"
+
+REFERENCE           KILL_2_OR_MORE_ENEMIES
+LANG_ENGLISH        "Kill 2 or more enemies with a single RPG shot."
+
+REFERENCE           KILL_5_ENEMIES_WHILE_FLARE
+LANG_ENGLISH        "Kill 5 enemies still dazed by a signal flare. (Phase 1 of 3)"
+
+REFERENCE           KILL_10_ENEMIES_WHILE_FLARE
+LANG_ENGLISH        "Kill 10 enemies still dazed by a signal flare. (Phase 2 of 3)"
+
+REFERENCE           KILL_25_ENEMIES_WHILE_FLARE
+LANG_ENGLISH        "Kill 25 enemies still dazed by a signal flare. (Phase 3 of 3)"
+
+REFERENCE           KILL_1_ENEMY_WITH_A_DROPPED
+LANG_ENGLISH        "Kill 1 enemy with a dropped grenade from the Martyrdom perk. (Phase 1 of 3)"
+
+REFERENCE           KILL_5_ENEMIES_WITH_A2
+LANG_ENGLISH        "Kill 5 enemies with a dropped grenade from the Martyrdom perk. (Phase 2 of 3)"
+
+REFERENCE           KILL_15_ENEMIES_WITH1
+LANG_ENGLISH        "Kill 15 enemies with a dropped grenade from the Martyrdom perk. (Phase 3 of 3)"
+
+REFERENCE           KILL_2_OR_MORE_ENEMIES1
+LANG_ENGLISH        "Kill 2 or more enemies with a single claymore."
+
+REFERENCE           KILL_10_ENEMIES_WHILE
+LANG_ENGLISH        "Kill 10 enemies while using a silenced weapon. (Phase 1 of 3)"
+
+REFERENCE           KILL_25_ENEMIES_WHILE
+LANG_ENGLISH        "Kill 25 enemies while using a silenced weapon. (Phase 2 of 3)"
+
+REFERENCE           KILL_50_ENEMIES_WHILE
+LANG_ENGLISH        "Kill 50 enemies while using a silenced weapon. (Phase 3 of 3)"
+
+REFERENCE           KILL_5_ENEMIES_WHILE3
+LANG_ENGLISH        "Kill 5 enemies while using a Scoped Bolt Action Rifle in prone. (Phase 1 of 3)"
+
+REFERENCE           KILL_25_ENEMIES_WHILE1
+LANG_ENGLISH        "Kill 25 enemies while using a Scoped Bolt Action Rifle in prone. (Phase 2 of 3)"
+
+REFERENCE           KILL_50_ENEMIES_WHILE1
+LANG_ENGLISH        "Kill 50 enemies while using a Scoped Bolt Action Rifle in prone. (Phase 3 of 3)"
+
+REFERENCE           KILL_1_ENEMY_BY_SHOE
+LANG_ENGLISH        "Kill 1 enemy with a Bouncing Betty. (Phase 1 of 3)"
+
+REFERENCE           KILL_5_ENEMIES_BY_SHOE
+LANG_ENGLISH        "Kill 5 enemies with a Bouncing Betty. (Phase 2 of 3)"
+
+REFERENCE           KILL_10_ENEMIES_BY_SHOE
+LANG_ENGLISH        "Kill 10 enemies with a Bouncing Betty. (Phase 3 of 3)"
+
+REFERENCE           KILL_1_ENEMY_BY_SATCHEL
+LANG_ENGLISH        "Kill 1 enemy with a satchel charge. (Phase 1 of 3)"
+
+REFERENCE           KILL_5_ENEMIES_BY_SATCHEL
+LANG_ENGLISH        "Kill 5 enemies with a satchel charge. (Phase 2 of 3)"
+
+REFERENCE           KILL_10_ENEMIES_BY_SATCHEL
+LANG_ENGLISH        "Kill 10 enemies with a satchel charge. (Phase 3 of 3)"
+
+REFERENCE           KILL_5_ENEMIES_BY_FLAME
+LANG_ENGLISH        "Kill 5 enemies with the flamethrower. (Phase 1 of 3)"
+
+REFERENCE           KILL_10_ENEMIES_BY_FLAME
+LANG_ENGLISH        "Kill 10 enemies with the flamethrower. (Phase 2 of 3)"
+
+REFERENCE           KILL_25_ENEMIES_BY_FLAME
+LANG_ENGLISH        "Kill 25 enemies with the flamethrower. (Phase 3 of 3)"
+
+REFERENCE           KILL_1_ENEMY_BY_SHOOTING
+LANG_ENGLISH        "Kill 1 enemy by shooting a satchel charge. (Phase 1 of 3)"
+
+REFERENCE           KILL_5_ENEMIES_BY_SHOOTING
+LANG_ENGLISH        "Kill 5 enemies by shooting a satchel charge. (Phase 2 of 3)"
+
+REFERENCE           KILL_10_ENEMIES_BY_SHOOTING
+LANG_ENGLISH        "Kill 10 enemies by shooting a satchel charge. (Phase 3 of 3)"
+
+REFERENCE           KILL_1_ENEMY_BY_SHOOTING_SHOE
+LANG_ENGLISH        "Kill 1 enemy by shooting a Bouncing Betty. (Phase 1 of 3)"
+
+REFERENCE           KILL_5_ENEMIES_BY_SHOOTING_SHOE
+LANG_ENGLISH        "Kill 5 enemies by shooting a Bouncing Betty. (Phase 2 of 3)"
+
+REFERENCE           KILL_10_ENEMIES_BY_SHOOTING_SHOE
+LANG_ENGLISH        "Kill 10 enemies by shooting a Bouncing Betty. (Phase 3 of 3)"
+
+REFERENCE           AIRBORNE
+LANG_ENGLISH        "Airborne"
+
+REFERENCE           MULTIFRAG
+LANG_ENGLISH        "Multi-Frag"
+
+REFERENCE           HEAVYSTRIKE
+LANG_ENGLISH        "Heavy Strike"
+
+REFERENCE           MAJOR_STRIKE
+LANG_ENGLISH        "Major Stike"
+
+REFERENCE           MG_MASTER
+LANG_ENGLISH        "MG Master"
+
+REFERENCE           MULTIMINE
+LANG_ENGLISH        "Multi-Mine"
+
+REFERENCE           OH_NO_YOU_DONT
+LANG_ENGLISH        "Oh No You Don't"
+
+REFERENCE           SPECIALDELIVERY
+LANG_ENGLISH        "Special Delivery"
+
+REFERENCE           HOT_POTATO_I
+LANG_ENGLISH        "Hot Potato I"
+
+REFERENCE           HOT_POTATO_II
+LANG_ENGLISH        "Hot Potato II"
+
+REFERENCE           HOT_POTATO_III
+LANG_ENGLISH        "Hot Potato III"
+
+REFERENCE           CAR_BOMB_1
+LANG_ENGLISH        "Car Bomber I"
+
+REFERENCE           CAR_BOMB_2
+LANG_ENGLISH        "Car Bomber II"
+
+REFERENCE           CAR_BOMB_3
+LANG_ENGLISH        "Car Bomber III"
+
+REFERENCE           BARREL_BOMB_1
+LANG_ENGLISH        "Barrel Bomber I"
+
+REFERENCE           BARREL_BOMB_2
+LANG_ENGLISH        "Barrel Bomber II"
+
+REFERENCE           BARREL_BOMB_3
+LANG_ENGLISH        "Barrel Bomber III"
+
+REFERENCE           BACKSTABBER
+LANG_ENGLISH        "Backstabber"
+
+REFERENCE           SLOW_BUT_SURE
+LANG_ENGLISH        "Slow But Sure"
+
+REFERENCE           FLASHBANG_VETERAN_I
+LANG_ENGLISH        "Flashbang Veteran I"
+
+REFERENCE           FLASHBANG_VETERAN_II
+LANG_ENGLISH        "Flashbang Veteran II"
+
+REFERENCE           FLASHBANG_VETERAN_III
+LANG_ENGLISH        "Flashbang Veteran III"
+
+REFERENCE           MISERY_LOVES_COMPANY
+LANG_ENGLISH        "Misery Loves Company I"
+
+REFERENCE           MISERY_LOVES_COMPANY1
+LANG_ENGLISH        "Misery Loves Company II"
+
+REFERENCE           MISERY_LOVES_COMPANY2
+LANG_ENGLISH        "Misery Loves Company III"
+
+REFERENCE           OUCH_I
+LANG_ENGLISH        "Ouch I"
+
+REFERENCE           OUCH_II
+LANG_ENGLISH        "Ouch II"
+
+REFERENCE           OUCH_III
+LANG_ENGLISH        "Ouch III"
+
+REFERENCE           RIVAL
+LANG_ENGLISH        "Rival"
+
+REFERENCE           CRUELTY
+LANG_ENGLISH        "Cruelty"
+
+REFERENCE           THINK_FAST
+LANG_ENGLISH        "Potato Chucker"
+
+REFERENCE           THINK_FAST_SPECIAL
+LANG_ENGLISH        "Think Fast Special"
+
+REFERENCE           THINK_FAST_FLARE
+LANG_ENGLISH        "Think Fast Flare"
+
+REFERENCE           RETURN_TO_SENDER
+LANG_ENGLISH        "Return To Sender"
+
+REFERENCE           BLINDFIRE
+LANG_ENGLISH        "Blindfire"
+
+REFERENCE           GIB_I
+LANG_ENGLISH        "Gib Factory I"
+
+REFERENCE           GIB_II
+LANG_ENGLISH        "Gib Factory II"
+
+REFERENCE           GIB_III
+LANG_ENGLISH        "Gib Factory III"
+
+REFERENCE           VENGENCE_I
+LANG_ENGLISH        "Vengence I"
+
+REFERENCE           VENGENCE_II
+LANG_ENGLISH        "Vengence II"
+
+REFERENCE           VENGENCE_III
+LANG_ENGLISH        "Vengence III"
+
+REFERENCE           VENGENCE_DESC_I
+LANG_ENGLISH        "Kill the player that ended your spree 1 time with Kamikaze. NOT DONE"
+
+REFERENCE           VENGENCE_DESC_II
+LANG_ENGLISH        "Kill the player that ended your spree 5 times with Kamikaze. NOT DONE"
+
+REFERENCE           VENGENCE_DESC_III
+LANG_ENGLISH        "Kill the player that ended your spree 15 times with Kamikaze. NOT DONE"
+
+REFERENCE           DEATHDODGER_I
+LANG_ENGLISH        "Coffin Dodger I"
+
+REFERENCE           DEATHDODGER_II
+LANG_ENGLISH        "Coffin Dodger II"
+
+REFERENCE           DEATHDODGER_III
+LANG_ENGLISH        "Coffin Dodger III"
+
+REFERENCE           SURVIVEBETTY_I
+LANG_ENGLISH        "Trigger a Bouncing Betty and survive 1 time. (Phase 1 of 3)"
+
+REFERENCE           SURVIVEBETTY_II
+LANG_ENGLISH        "Trigger a Bouncing Betty and survive 5 times. (Phase 2 of 3)"
+
+REFERENCE           SURVIVEBETTY_III
+LANG_ENGLISH        "Trigger a Bouncing Betty and survive 15 times. (Phase 3 of 3)"
+
+REFERENCE           KILL_1_ENEMY_WITH_A_GIB
+LANG_ENGLISH        "Kill a player with such force that body parts fly 1 time. (Phase 1 of 3)"
+
+REFERENCE           KILL_5_ENEMIES_WITH_A_GIB
+LANG_ENGLISH        "Kill a player with such force that body parts fly 5 times. (Phase 2 of 3)"
+
+REFERENCE           KILL_15_ENEMIES_WITH_GIB
+LANG_ENGLISH        "Kill a player with such force that body parts fly 15 times. (Phase 3 of 3)"
+
+REFERENCE           FINISH_AN_ENEMY_DESTROY_BETTY
+LANG_ENGLISH        "Kill an enemy by destroying their own Bouncing Betty immediately after they plant it."
+
+REFERENCE           STICK_1_KILL_2
+LANG_ENGLISH        "Kill 2 enemies at once by sticking a grenade to an enemy, then it kills him and another enemy.  "
+
+REFERENCE           GET_A_2_KILL_STREAK_WHILE
+LANG_ENGLISH        "Get a 2 kill streak with bullets while in mid-air."
+
+REFERENCE           KILL_2_OR_MORE_ENEMIES2
+LANG_ENGLISH        "Kill 2 or more enemies with a single frag grenade."
+
+REFERENCE           KILL_5_ENEMIES_WITH_A3
+LANG_ENGLISH        "Kill 5 enemies with a single airstrike."
+
+REFERENCE           GET_A_5_KILL_STREAK_WHILE
+LANG_ENGLISH        "Get a 5 kill streak while on a mounted machine gun."
+
+REFERENCE           GET_A_3_MELEE_KILL_STREAK
+LANG_ENGLISH        "Get a 3 melee kill streak without dying."
+
+REFERENCE           KILL_2_OR_MORE_ENEMIES3
+LANG_ENGLISH        "Kill 2 or more enemies with a single mine."
+
+REFERENCE           KILL_1_ENEMY_WITH_A_THROWN
+LANG_ENGLISH        "Kill 1 enemy with a thrown back grenade. (Phase 1 of 3)"
+
+REFERENCE           KILL_5_ENEMIES_WITH_THROWN
+LANG_ENGLISH        "Kill 5 enemies with thrown back grenades. (Phase 2 of 3)"
+
+REFERENCE           KILL_15_ENEMIES_WITH2
+LANG_ENGLISH        "Kill 15 enemies with thrown back grenades. (Phase 3 of 3)"
+
+REFERENCE           KILL_1_ENEMY_BY_DESTROYING
+LANG_ENGLISH        "Kill 1 enemy by destroying a car. (Phase 1 of 3)"
+
+REFERENCE           KILL_5_ENEMY_BY_DESTROYING
+LANG_ENGLISH        "Kill 5 enemies by destroying a car. (Phase 2 of 3)"
+
+REFERENCE           KILL_10_ENEMY_BY_DESTROYING
+LANG_ENGLISH        "Kill 15 enemies by destroying a car. (Phase 3 of 3)"
+
+REFERENCE           KILL_1_ENEMY_BY_DESTROYING_BARREL
+LANG_ENGLISH        "Kill 1 enemy by exploding a barrel. (Phase 1 of 3)"
+
+REFERENCE           KILL_5_ENEMY_BY_DESTROYING_BARREL
+LANG_ENGLISH        "Kill 5 enemies by exploding a barrel. (Phase 2 of 3)"
+
+REFERENCE           KILL_15_ENEMY_BY_DESTROYING_BARREL
+LANG_ENGLISH        "Kill 15 enemies by exploding a barrel. (Phase 3 of 3)"
+
+REFERENCE           STAB_AN_ENEMY_IN_THE
+LANG_ENGLISH        "Stab an enemy in the back with your knife."
+
+REFERENCE           KILL_1_ENEMY_WHILE_BEING
+LANG_ENGLISH        "Kill 1 enemy while being poisoned with tabun gas. "
+
+REFERENCE           KILL_5_ENEMIES_DAZED
+LANG_ENGLISH        "Kill 5 enemies dazed by a signal flare. (Phase 1 of 3)"
+
+REFERENCE           KILL_10_ENEMIES_DAZED
+LANG_ENGLISH        "Kill 10 enemies dazed by a signal flare.  (Phase 2 of 3)"
+
+REFERENCE           KILL_25_ENEMIES_DAZED
+LANG_ENGLISH        "Kill 25 enemies dazed by a signal flare. (Phase 3 of 3)"
+
+REFERENCE           KILL_YOURSELF_AND_1_ENEMY
+LANG_ENGLISH        "Kill yourself and 1 enemy by cooking a grenade without throwing it. (Phase 1 of 3)"
+
+REFERENCE           KILL_YOURSELF_AND_A_2ND
+LANG_ENGLISH        "Kill yourself and 1 enemy by cooking a grenade without throwing it. (Phase 2 of 3)"
+
+REFERENCE           KILL_YOURSELF_AND_A_3RD
+LANG_ENGLISH        "Kill yourself and 1 enemy by cooking a grenade without throwing it. (Phase 3 of 3)"
+
+REFERENCE           KILL_1_ENEMY_WITH_A_RIFLEMOUNTED
+LANG_ENGLISH        "Kill 1 enemy with a rifle-mounted grenade launcher without detonation. (Direct impact) (Phase 1 of 3)"
+
+REFERENCE           KILL_5_ENEMIES_WITH_A4
+LANG_ENGLISH        "Kill 5 enemies with a rifle-mounted grenade launcher without detonation. (Direct impact) (Phase 2 of 3)"
+
+REFERENCE           KILL_15_ENEMIES_WITH3
+LANG_ENGLISH        "Kill 15 enemies with a rifle-mounted grenade launcher without detonation. (Direct impact) (Phase 3 of 3)"
+
+REFERENCE           KILL_THE_SAME_ENEMY_5
+LANG_ENGLISH        "Kill the same enemy 5 times in a single match."
+
+REFERENCE           KILL_AN_ENEMY_PICK_UP
+LANG_ENGLISH        "Kill an enemy, pick up his weapon, then kill him again with his own weapon."
+
+REFERENCE           FINISH_AN_ENEMY_OFF_BY
+LANG_ENGLISH        "Finish an enemy off by hitting them with a frag grenade. (Direct impact)"
+
+REFERENCE           FINISH_AN_ENEMY_OFF_BY1
+LANG_ENGLISH        "Finish an enemy off by hitting them with a tabun grenade. (Direct impact)"
+
+REFERENCE           FINISH_AN_ENEMY_OFF_BY2
+LANG_ENGLISH        "Finish an enemy off by hitting them with a signal flare. (Direct impact)"
+
+REFERENCE           KILL_AN_ENEMY_BY_SHOOTING
+LANG_ENGLISH        "Kill an enemy by shooting their own mine."
+
+REFERENCE           KILL_AN_ENEMY_WHILE_YOU
+LANG_ENGLISH        "Kill an enemy while you are still dazed by a flashbang."
+
+REFERENCE           THE_BRINK
+LANG_ENGLISH        "The Brink"
+
+REFERENCE           COLLATERAL_DAMAGE
+LANG_ENGLISH        "Collateral Damage"
+
+REFERENCE           THE_EDGE_I
+LANG_ENGLISH        "The Edge I"
+
+REFERENCE           THE_EDGE_II
+LANG_ENGLISH        "The Edge II"
+
+REFERENCE           THE_EDGE_III
+LANG_ENGLISH        "The Edge III"
+
+REFERENCE           FLAWLESS
+LANG_ENGLISH        "Flawless"
+
+REFERENCE           TANGO_DOWN
+LANG_ENGLISH        "Massacre"
+
+REFERENCE           HARD_LANDING
+LANG_ENGLISH        "Hard Landing"
+
+REFERENCE           EXTREME_CRUELTY
+LANG_ENGLISH        "Extreme Cruelty"
+
+REFERENCE           FAST_SWAP
+LANG_ENGLISH        "Fast Swap"
+
+REFERENCE           STAR_PLAYER
+LANG_ENGLISH        "Star Player"
+
+REFERENCE           HOW_THE_
+LANG_ENGLISH        "How The ?"
+
+REFERENCE           DOMINOS
+LANG_ENGLISH        "Dominos"
+
+REFERENCE           NO_SECRETS
+LANG_ENGLISH        "No Secrets"
+
+REFERENCE           RABID
+LANG_ENGLISH        "Rabid"
+
+REFERENCE           HEAVYARTILLARY
+LANG_ENGLISH        "Heavy Artillery"
+
+REFERENCE           FEARLESS
+LANG_ENGLISH        "Fearless"
+
+REFERENCE           COUNTERMVP
+LANG_ENGLISH        "Counter-MVP"
+
+REFERENCE           INVINCIBLE
+LANG_ENGLISH        "Invincible"
+
+REFERENCE           SURVIVALIST
+LANG_ENGLISH        "Survivalist"
+
+REFERENCE           DESPERADO
+LANG_ENGLISH        "Desperado"
+
+REFERENCE           FINISH_AN_ENEMY_OFF_BY_SPECIAL
+LANG_ENGLISH        "Finish an enemy off by hitting them with a special grenade. (Direct impact)"
+
+REFERENCE           FINISH_AN_ENEMY_OFF_WHILE_BLINDED
+LANG_ENGLISH        "Kill an enemy while you are still dazed by a signal flare."
+
+REFERENCE           GET_A_3_OR_MORE_KILL
+LANG_ENGLISH        "Get a 3 or more kill streak while near death.  (Screen flashing red)"
+
+REFERENCE           KILL_2_OR_MORE_ENEMIES4
+LANG_ENGLISH        "Kill 2 or more enemies with a single sniper rifle bullet."
+
+REFERENCE           GET_THE_LAST_KILL_IN
+LANG_ENGLISH        "Get the last kill in a match 1 time. (Phase 1 of 3)"
+
+REFERENCE           GET_THE_LAST_KILL_IN1
+LANG_ENGLISH        "Get the last kill in a match 5 times. (Phase 2 of 3)"
+
+REFERENCE           GET_THE_LAST_KILL_IN2
+LANG_ENGLISH        "Get the last kill in a match 10 times. (Phase 3 of 3)"
+
+REFERENCE           PLAY_AN_ENTIRE_FULLLENGTH
+LANG_ENGLISH        "Play an entire full-length match without dying."
+
+REFERENCE           KILL_EVERY_MEMBER_OF
+LANG_ENGLISH        "Kill every member of the enemy team. (4 enemy minimum)"
+
+REFERENCE           KILL_AN_ENEMY_THAT_IS
+LANG_ENGLISH        "Kill an enemy that is currently in mid-air."
+
+REFERENCE           KILL_AN_ENEMY_THAT_IS1
+LANG_ENGLISH        "Kill an enemy that is currently in mid-air."
+
+REFERENCE           KILL_EVERY_MEMBER_OF1
+LANG_ENGLISH        "Kill every member of the enemy team (at least 4 enemies) without dying."
+
+REFERENCE           HURT_AN_ENEMY_WITH_A
+LANG_ENGLISH        "Hurt an enemy with a primary weapon, then finish them off with a pistol."
+
+REFERENCE           PLAY_AN_ENTIRE_MATCH
+LANG_ENGLISH        "Play an entire match of any game type with a 5:1 kill / death ratio."
+
+REFERENCE           KILL_AN_ENEMY_BY_USING
+LANG_ENGLISH        "Kill an enemy by using bullet penetration to shoot an explosive device through a wall."
+
+REFERENCE           KILL_AN_ENEMY_BY_SETTING
+LANG_ENGLISH        "Kill an enemy by setting off a chain reaction of different explosives."
+
+REFERENCE           CALL_IN_A_UAV_3_TIMES
+LANG_ENGLISH        "Call in radar 3 times in a single match."
+
+REFERENCE           CALL_IN_DOGS_2_TIMES
+LANG_ENGLISH        "Call in the dogs of war 2 times in a single match."
+
+REFERENCE           CALL_IN_ARTILLARY_2_TIMES
+LANG_ENGLISH        "Call in Artillery 2 times in a single match."
+
+REFERENCE           KILL_10_ENEMIES_IN_A
+LANG_ENGLISH        "Kill 10 enemies in a single match without dying."
+
+REFERENCE           KILL_THE_1_PLAYER_ON
+LANG_ENGLISH        "Kill the #1 player on the enemy team 10 times in a single match."
+
+REFERENCE           GET_5_HEALTH_REGENERATIONS
+LANG_ENGLISH        "Get 5 health regenerations from enemy damage in a row, without dying."
+
+REFERENCE           SURVIVE_FOR_5_CONSECUTIVE
+LANG_ENGLISH        "Survive for 5 consecutive minutes."
+
+REFERENCE           KILL_WITH_LAST_BULLET_IN_CLIP
+LANG_ENGLISH        "Kill the enemy player with the last bullet in your clip."
+
+REFERENCE           GET_100_KILLS_WITH_THIS_2
+LANG_ENGLISH        "Get 100 kills with this weapon. "
+
+REFERENCE           GET_75_KILLS_WITH_THIS_2
+LANG_ENGLISH        "Get 75 kills with this weapon. (Phase 2 of 2)"
+
+REFERENCE           GET_50_KILLS_WITH_THIS_2
+LANG_ENGLISH        "Get 50 kills with this weapon. (Phase 2 of 2)"
+
+REFERENCE           GET_25_KILLS_WITH_THIS_2
+LANG_ENGLISH        "Get 25 kills with this weapon. (Phase 1 of 2)"
+
+REFERENCE           SUBMACHINEGUN_I
+LANG_ENGLISH        "Run & Gunner"
+
+REFERENCE           PISTOL_I
+LANG_ENGLISH        "Pistolero"
+
+REFERENCE           SNIPER_I
+LANG_ENGLISH        "Rifleman"
+
+REFERENCE           FLAME_I
+LANG_ENGLISH        "Frequent Fryer"
+
+REFERENCE           PISTOLERO
+LANG_ENGLISH        "Pistolero"
+
+REFERENCE           RIFLEMAN
+LANG_ENGLISH        "Rifleman"
+
+REFERENCE           BARTENDER
+LANG_ENGLISH        "Bartender"
+
+REFERENCE           LUCKY_PUNK
+LANG_ENGLISH        "Lucky Punk"
+
+REFERENCE           DIE_HARD
+LANG_ENGLISH        "Diehard"
+
+REFERENCE           BULLETPROOF
+LANG_ENGLISH        "Bulletproof"
+
+REFERENCE           HAT_TRICK
+LANG_ENGLISH        "Hat Trick"
+
+REFERENCE           THEATER
+LANG_ENGLISH        "THEATER OF WAR"
+
+REFERENCE           BATTLEFIELD
+LANG_ENGLISH        "BATTLEFIELD COMMISSION"
+
+REFERENCE           HOT_POTATO
+LANG_ENGLISH        "Hot Potato"
+
+REFERENCE           THROW_BACK_25_GRENADES
+LANG_ENGLISH        "Kill 25 enemies with returned grenades."
+
+REFERENCE           GET_250_KILLS_WITH_SUBMACHINE
+LANG_ENGLISH        "Kill 250 enemies with submachine guns."
+
+REFERENCE           GET_100_KILLS_WITH_PISTOL
+LANG_ENGLISH        "Kill 100 enemies with pistols."
+
+REFERENCE           GET_250_KILLS_WITH_RIFLE
+LANG_ENGLISH        "Kill 250 enemies with semi-auto or bolt-action rifles."
+
+REFERENCE           GET_50_KILLS_WITH_FLAMETHROWER
+LANG_ENGLISH        "Kill 50 enemies with the flamethrower."
+
+REFERENCE           FREQUENT_FRYER
+LANG_ENGLISH        "Frequent Fryer"
+
+REFERENCE           SURGEON
+LANG_ENGLISH        "The Surgeon"
+
+REFERENCE           GET_75_KILLS_WITH_KNIFE
+LANG_ENGLISH        "Kill 75 enemies with a knife or bayonet melee attack."
+
+REFERENCE           GET_3_HEADSHOTS_IN_A_ROW
+LANG_ENGLISH        "Get 3 headshots in a row, 3 times in a single mission."
+
+REFERENCE           SPARTAN
+LANG_ENGLISH        "The Spartan"
+
+REFERENCE           KILL_50_BANZAI
+LANG_ENGLISH        "Kill 50 banzai attackers."
+
+REFERENCE           GET_30_KILLSTREAK
+LANG_ENGLISH        "Get a 30 killstreak."
+
+REFERENCE           CLEANER
+LANG_ENGLISH        "The Cleaner"
+
+REFERENCE           KILL_30_TREE_SNIPERS
+LANG_ENGLISH        "Kill 30 tree snipers."
+
+REFERENCE           CRAFTY_SHERMAN
+LANG_ENGLISH        "Crafty Sherman"
+
+REFERENCE           RUN_OVER_20
+LANG_ENGLISH        "Kill 20 enemies by running them over in a tank."
+
+REFERENCE           GRINDER
+LANG_ENGLISH        "The Grinder"
+
+REFERENCE           GIB_50
+LANG_ENGLISH        "Gib 50 enemies."
+
+REFERENCE           HEAVY_METAL
+LANG_ENGLISH        "Heavy Metal"
+
+REFERENCE           GET_250_KILLS_WITH_HEAVY
+LANG_ENGLISH        "Kill 250 enemies with light machine guns or automatic rifles."
+
+REFERENCE           RIOT_CONTROL
+LANG_ENGLISH        "Riot Control"
+
+REFERENCE           GET_100_KILLS_WITH_SHOTGUN
+LANG_ENGLISH        "Kill 100 enemies with shotguns."
+
+REFERENCE           GET_25_KILLS_WITH_MOLOTOV
+LANG_ENGLISH        "Kill 25 enemies with Molotov cocktails."
+
+REFERENCE           KILL_50_IN_LAST_STAND
+LANG_ENGLISH        "Kill 50 enemies while downed."
+
+REFERENCE           GET_50_KILLSTREAK
+LANG_ENGLISH        "Get a 50 killstreak."
+
+REFERENCE           SPRAY_N_PRAY
+LANG_ENGLISH        "Spray & Pray"
+
+REFERENCE           COMPLETE_MISSION_WITH_THIS
+LANG_ENGLISH        "Complete any mission in co-op with this cheat enabled."
+
+REFERENCE           VAMPIRE
+LANG_ENGLISH        "Vampire"
+
+REFERENCE           STICKSSTONES
+LANG_ENGLISH        "Sticks & Stones"
+
+REFERENCE           BERSERKER
+LANG_ENGLISH        "Berserker"
+
+REFERENCE           PAINTBALL
+LANG_ENGLISH        "Paintball"
+
+REFERENCE           DIRTYHARRY
+LANG_ENGLISH        "Suicide King"
+
+REFERENCE           MORPHINE
+LANG_ENGLISH        "Painkiller"
+
+REFERENCE           THUNDER
+LANG_ENGLISH        "Thunder"
+
+REFERENCE           FLAK_JACKET
+LANG_ENGLISH        "Flak Jacket"
+
+REFERENCE           HARDCORE
+LANG_ENGLISH        "Victory"
+
+REFERENCE           BODY_ARMOR
+LANG_ENGLISH        "Body Armor"
+
+REFERENCE           HARD_HEADED
+LANG_ENGLISH        "Hard Headed"
+
+REFERENCE           DEAD_HANDS
+LANG_ENGLISH        "Cold Dead Hands"
+
+REFERENCE           GET_15000_POINTS
+LANG_ENGLISH        "Score 15,000 points or higher in this mission in Competitive Co-Op."
+
+REFERENCE           GET_20000_POINTS
+LANG_ENGLISH        "Score 20,000 points or higher in this mission in Competitive Co-Op."
+
+REFERENCE           GET_45000_POINTS
+LANG_ENGLISH        "Score 45,000 points or higher in this mission in Competitive Co-Op."
+
+REFERENCE           GET_10000_POINTS
+LANG_ENGLISH        "Score 10,000 points or higher in this mission in Competitive Co-Op."
+
+REFERENCE           GET_25000_POINTS
+LANG_ENGLISH        "Score 25,000 points or higher in this mission in Competitive Co-Op."
+
+REFERENCE           MAK
+LANG_ENGLISH        "Semper Fi"
+
+REFERENCE           PEL1
+LANG_ENGLISH        "Little Resistance"
+
+REFERENCE           PEL2
+LANG_ENGLISH        "Hard Landing"
+
+REFERENCE           SEE2
+LANG_ENGLISH        "Blood and Iron"
+
+REFERENCE           SEE1
+LANG_ENGLISH        "Their Land, Their Blood"
+
+REFERENCE           PEL1A
+LANG_ENGLISH        "Burn 'em Out"
+
+REFERENCE           PEL1B
+LANG_ENGLISH        "Relentless"
+
+REFERENCE           BER1
+LANG_ENGLISH        "Ring of Steel"
+
+REFERENCE           BER2
+LANG_ENGLISH        "Eviction"
+
+REFERENCE           OKI2
+LANG_ENGLISH        "Blowtorch and Corkscrew"
+
+REFERENCE           OKI3
+LANG_ENGLISH        "Breaking Point"
+
+REFERENCE           BER3
+LANG_ENGLISH        "Heart of the Reich"
+
+REFERENCE           BER3B
+LANG_ENGLISH        "Downfall"
+
+REFERENCE           GET_100_KILLS_WITH_GRENADE
+LANG_ENGLISH        "Kill 100 enemies with thrown grenades."
+
+REFERENCE           GOLDEN_GOD
+LANG_ENGLISH        "Golden God"
+
+REFERENCE           GET_X_KILLSTREAK
+LANG_ENGLISH        "Get a 75 killstreak"
+
+REFERENCE           PURPLE_HEART
+LANG_ENGLISH        "Legion of Merit"
+
+REFERENCE           NO_LAST_STAND
+LANG_ENGLISH        "Complete a mission without any team members going down."
+
+REFERENCE           GOOOAL
+LANG_ENGLISH        "Cluster Chuck"
+
+REFERENCE           GET_5_KILLS_WITH_1_GRENADE
+LANG_ENGLISH        "Kill 5 enemies with one grenade."
+
+REFERENCE           X_MULTIPLIER
+LANG_ENGLISH        "Power of Ten"
+
+REFERENCE           GET_X_MULTIPLIER
+LANG_ENGLISH        "Get a 10x bonus multiplier in Competitive Co-Op."
+
+REFERENCE           COOP_COMPLETED
+LANG_ENGLISH        "Co-Op Challenge Completed"
+
+REFERENCE           MULTIPLE_COOP_COMPLETED
+LANG_ENGLISH        "Co-Op Challenges Completed"
+
+REFERENCE           MULTIPLE_COOP_COMPLETED_DETAILS
+LANG_ENGLISH        "Check 'Rank & Challenges' for Total XP Rewarded"
+
+REFERENCE           BLOODY_TOSSER
+LANG_ENGLISH        "Bloody Tosser"
+
+REFERENCE           REMF
+LANG_ENGLISH        "REMF"
+
+REFERENCE           GET_100_ASSISTS
+LANG_ENGLISH        "Get 100 kill assists."
+
+REFERENCE           BRASS_COLLECTOR
+LANG_ENGLISH        "Brass Collector"
+
+REFERENCE           FINISH_LEVEL_WITHOUT_RELOADING
+LANG_ENGLISH        "Complete any mission on a single clip of ammo."
+
+REFERENCE           KILLER_CHALLENGES
+LANG_ENGLISH        "KILLER CHALLENGES"
+
+REFERENCE           ELITE_CHALLENGES
+LANG_ENGLISH        "ELITE CHALLENGES"
+
+REFERENCE           SLASHER
+LANG_ENGLISH        "Slasher"
+
+REFERENCE           COMPLETE_PACIFIC_TOUR
+LANG_ENGLISH        "Complete every American campaign mission in the Pacific."
+
+REFERENCE           GOTEM
+LANG_ENGLISH        "Got 'Em!"
+
+REFERENCE           YOUTALKINGTOME
+LANG_ENGLISH        "You Talkin To Me?"
+
+REFERENCE           HIJACKER
+LANG_ENGLISH        "Hijacker"
+
+REFERENCE           ROADTRIP
+LANG_ENGLISH        "Road Trip"
+
+REFERENCE           COLLATERALDAMAGE
+LANG_ENGLISH        "Collateral Damage"
+
+REFERENCE           TRAPPER
+LANG_ENGLISH        "Trapper"
+
+REFERENCE           IMMOBILIZER_1
+LANG_ENGLISH        "Immobilizer I"
+
+REFERENCE           IMMOBILIZER_2
+LANG_ENGLISH        "Immobilizer II"
+
+REFERENCE           IMMOBILIZER_3
+LANG_ENGLISH        "Immobilizer III"
+
+REFERENCE           TANKSTICKER_1
+LANG_ENGLISH        "Tank Sticker I"
+
+REFERENCE           TANKSTICKER_2
+LANG_ENGLISH        "Tank Sticker II"
+
+REFERENCE           TANKSTICKER_3
+LANG_ENGLISH        "Tank Sticker III"
+
+REFERENCE           ANTITANKDEMOLITIONS_1
+LANG_ENGLISH        "Anti Tank Demolitions I"
+
+REFERENCE           ANTITANKDEMOLITIONS_2
+LANG_ENGLISH        "Anti Tank Demolitions II"
+
+REFERENCE           ANTITANKDEMOLITIONS_3
+LANG_ENGLISH        "Anti Tank Demolitions III"
+
+REFERENCE           ANTITANKROCKET_1
+LANG_ENGLISH        "Anti Tank Rockets I"
+
+REFERENCE           ANTITANKROCKET_2
+LANG_ENGLISH        "Anti Tank Rockets II"
+
+REFERENCE           ANTITANKROCKET_3
+LANG_ENGLISH        "Anti Tank Rockets III"
+
+REFERENCE           TANKVTANK_1
+LANG_ENGLISH        "Tank vs. Tank I"
+
+REFERENCE           TANKVTANK_2
+LANG_ENGLISH        "Tank vs. Tank II"
+
+REFERENCE           TANKVTANK_3
+LANG_ENGLISH        "Tank vs. Tank III"
+
+REFERENCE           BEHEMOUTH_1
+LANG_ENGLISH        "Behemoth I"
+
+REFERENCE           BEHEMOUTH_2
+LANG_ENGLISH        "Behemoth II"
+
+REFERENCE           BEHEMOUTH_3
+LANG_ENGLISH        "Behemoth III"
+
+REFERENCE           TURRETHUNTER_1
+LANG_ENGLISH        "Turret Hunter I"
+
+REFERENCE           TURRETHUNTER_2
+LANG_ENGLISH        "Turret Hunter II"
+
+REFERENCE           TURRETHUNTER_3
+LANG_ENGLISH        "Turret Hunter III"
+
+REFERENCE           TURRET_FLAME_1
+LANG_ENGLISH        "Turret Flamethrower Expert I"
+
+REFERENCE           TURRET_FLAME_2
+LANG_ENGLISH        "Turret Flamethrower Expert II"
+
+REFERENCE           TURRET_FLAME_3
+LANG_ENGLISH        "Turret Flamethrower Expert III"
+
+REFERENCE           TURRET_MG_1
+LANG_ENGLISH        "Turret MG Expert I"
+
+REFERENCE           TURRET_MG_2
+LANG_ENGLISH        "Turret MG Expert II"
+
+REFERENCE           TURRET_MG_3
+LANG_ENGLISH        "Turret MG Expert III"
+
+REFERENCE           GET_50_ASSISTS
+LANG_ENGLISH        "Get 50 kill assists."
+
+REFERENCE           KILL_10_IN_LAST_STAND
+LANG_ENGLISH        "Kill 10 enemies while downed."
+
+REFERENCE           TURRET_MG_1_DESC
+LANG_ENGLISH        "Kill 10 enemy players with a tank's turret machine gun. (Phase 1 of 3)"
+
+REFERENCE           TURRET_MG_2_DESC
+LANG_ENGLISH        "Kill 25 enemy players with a tank's turret machine gun. (Phase 2 of 3)"
+
+REFERENCE           TURRET_MG_3_DESC
+LANG_ENGLISH        "Kill 35 enemy players with a tank's turret machine gun. (Phase 3 of 3)"
+
+REFERENCE           TURRET_FLAME_1_DESC
+LANG_ENGLISH        "Kill 10 enemy players with a tank's turret flamethrower. (Phase 1 of 3)"
+
+REFERENCE           TURRET_FLAME_2_DESC
+LANG_ENGLISH        "Kill 25 enemy  players with a tank's turret flamethrower. (Phase 2 of 3)"
+
+REFERENCE           TURRET_FLAME_3_DESC
+LANG_ENGLISH        "Kill 35  enemy players with a tank's turret flamethrower. (Phase 3 of 3)"
+
+REFERENCE           TURRETHUNTER_1_DESC
+LANG_ENGLISH        "Kill the turret gunner of a tank 10 times without destroying the tank. (Phase 1 of 3)"
+
+REFERENCE           TURRETHUNTER_2_DESC
+LANG_ENGLISH        "Kill the turret gunner of a tank 25 times without destroying the tank. (Phase 2 of 3)"
+
+REFERENCE           TURRETHUNTER_3_DESC
+LANG_ENGLISH        "Kill the turret gunner of a tank 50 times without destroying the tank. (Phase 3 of 3)"
+
+REFERENCE           BEHEMOUTH_1_DESC
+LANG_ENGLISH        "Kill 10 enemy infantry with the main gun of the tank. (Phase 1 of 3)"
+
+REFERENCE           BEHEMOUTH_2_DESC
+LANG_ENGLISH        "Kill 25 enemy infantry with the main gun of the tank. (Phase 2 of 3)"
+
+REFERENCE           BEHEMOUTH_3_DESC
+LANG_ENGLISH        "Kill 50 enemy infantry with the main gun of the tank. (Phase 3 of 3)"
+
+REFERENCE           TANKVTANK_1_DESC
+LANG_ENGLISH        "Finish off 10 enemy controlled tanks with the main gun of a tank (shot destroys tank). (Phase 1 of 3)"
+
+REFERENCE           TANKVTANK_2_DESC
+LANG_ENGLISH        "Finish off 25 enemy controlled tanks with the main gun of a tank (shot destroys tank). (Phase 2 of 3)"
+
+REFERENCE           TANKVTANK_3_DESC
+LANG_ENGLISH        "Finish off 35 enemy controlled tanks with the main gun of a tank (shot destroys tank). (Phase 3 of 3)"
+
+REFERENCE           ANTITANKROCKET_1_DESC
+LANG_ENGLISH        "Finish off 1 enemy controlled tank with a Bazooka (shot destroys tank). (Phase 1 of 3)"
+
+REFERENCE           ANTITANKROCKET_2_DESC
+LANG_ENGLISH        "Finish off 5 enemy controlled tanks with a Bazooka (shot destroys tank). (Phase 2 of 3)"
+
+REFERENCE           ANTITANKROCKET_3_DESC
+LANG_ENGLISH        "Finish off 15 enemy controlled tanks with a Bazooka (shot destroys tank). (Phase 3 of 3)"
+
+REFERENCE           ANTITANKDEMOLITIONS_1_DESC
+LANG_ENGLISH        "Finish off 1 enemy controlled tanks with a satchel charge (explosion destroys tank). (Phase 1 of 3)"
+
+REFERENCE           ANTITANKDEMOLITIONS_2_DESC
+LANG_ENGLISH        "Finish off 5 enemy controlled tanks with a satchel charge (explosion destroys tank). (Phase 2 of 3)"
+
+REFERENCE           ANTITANKDEMOLITIONS_3_DESC
+LANG_ENGLISH        "Finish off 15 enemy controlled tanks with a satchel charge (explosion destroys tank). (Phase 3 of 3)"
+
+REFERENCE           TANKSTICKER_1_DESC
+LANG_ENGLISH        "Finish off 1 enemy controlled tanks with a sticky grenade. (Phase 1 of 3)"
+
+REFERENCE           TANKSTICKER_2_DESC
+LANG_ENGLISH        "Finish off 5 enemey controlled tanks with a sticky grenade. (Phase 2 of 3)"
+
+REFERENCE           TANKSTICKER_3_DESC
+LANG_ENGLISH        "Finish off 15 enemy controlled tanks with a sticky grenade. (Phase 3 of 3)"
+
+REFERENCE           IMMOBILIZER_1_DESC
+LANG_ENGLISH        "Destroy the treads of a tank 10 times to stop it from moving. (Phase 1 of 3)"
+
+REFERENCE           IMMOBILIZER_2_DESC
+LANG_ENGLISH        "Destroy the treads of a tank 25 times to stop it from moving. (Phase 2 of 3)"
+
+REFERENCE           IMMOBILIZER_3_DESC
+LANG_ENGLISH        "Destroy the treads of a tank 35 times to stop it from moving. (Phase 3 of 3)"
+
+REFERENCE           TRAPPER_DESC
+LANG_ENGLISH        "Kill an enemy by detonating a satchel charge underneath a tank after the enemy drives over it."
+
+REFERENCE           COLLATERALDAMAGE_DESC
+LANG_ENGLISH        "Destroy a tank and kill a nearby enemy player with the explosion from the tank."
+
+REFERENCE           ROADTRIP_DESC
+LANG_ENGLISH        "Drive a tank 50 miles."
+
+REFERENCE           YOUTALKINGTOME_DESC
+LANG_ENGLISH        "While on foot, survive a tank round and destroy the tank that shot at you before your health regenerates."
+
+REFERENCE           GOTEM_DESC
+LANG_ENGLISH        "Kill 3 or more players with a single shot from the main gun of the tank."
+
+REFERENCE           SUPRESSOR_1
+LANG_ENGLISH        "Silent But Deadly I"
+
+REFERENCE           SUPRESSOR_2
+LANG_ENGLISH        "Silent But Deadly II"
+
+REFERENCE           SUPRESSOR_3
+LANG_ENGLISH        "Silent But Deadly III"
+
+REFERENCE           INVISIBLE_1
+LANG_ENGLISH        "Invisible I"
+
+REFERENCE           INVISIBLE_2
+LANG_ENGLISH        "Invisible II"
+
+REFERENCE           INVISIBLE_3
+LANG_ENGLISH        "Invisible III"
+
+REFERENCE           BAYONET_1
+LANG_ENGLISH        "Bayonet Specialist I"
+
+REFERENCE           BAYONET_2
+LANG_ENGLISH        "Bayonet Specialist II"
+
+REFERENCE           BAYONET_3
+LANG_ENGLISH        "Bayonet Specialist III"
+
+REFERENCE           SAWOFF_1
+LANG_ENGLISH        "Sawed Off Specialist I"
+
+REFERENCE           SAWOFF_2
+LANG_ENGLISH        "Sawed Off Specialist II"
+
+REFERENCE           SAWOFF_3
+LANG_ENGLISH        "Sawed Off Specialist III"
+
+REFERENCE           LAUNCHSPECIALIST_1
+LANG_ENGLISH        "Launch Specialist I"
+
+REFERENCE           LAUNCHSPECIALIST_2
+LANG_ENGLISH        "Launch Specialist II"
+
+REFERENCE           LAUNCHSPECIALIST_3
+LANG_ENGLISH        "Launch Specialist III"
+
+REFERENCE           DOWNNOTOUT_1
+LANG_ENGLISH        "Down But Not Out I"
+
+REFERENCE           DOWNNOTOUT_2
+LANG_ENGLISH        "Down But Not Out II"
+
+REFERENCE           DOWNNOTOUT_3
+LANG_ENGLISH        "Down But Not Out III"
+
+REFERENCE           MEDIC_1
+LANG_ENGLISH        "Medic I"
+
+REFERENCE           MEDIC_2
+LANG_ENGLISH        "Medic II"
+
+REFERENCE           MEDIC_3
+LANG_ENGLISH        "Medic III"
+
+REFERENCE           MARTRYDOM_1
+LANG_ENGLISH        "Martyrdom Veteran I"
+
+REFERENCE           MARTRYDOM_2
+LANG_ENGLISH        "Martyrdom Veteran II"
+
+REFERENCE           MARTRYDOM_3
+LANG_ENGLISH        "Martyrdom Veteran III"
+
+REFERENCE           GASMASK
+LANG_ENGLISH        "Gas Mask"
+
+REFERENCE           SHADES
+LANG_ENGLISH        "Shades"
+
+REFERENCE           SUPRESSOR_DESC_1
+LANG_ENGLISH        "Kill 5 enemies with a weapon that has a suppressor. (Phase 1 of 3)"
+
+REFERENCE           SUPRESSOR_DESC_2
+LANG_ENGLISH        "Kill 15 enemies with a weapon that has a suppressor. (Phase 2 of 3)"
+
+REFERENCE           SUPRESSOR_DESC_3
+LANG_ENGLISH        "Kill 35 enemies with a weapon that has a suppressor. (Phase 3 of 3)"
+
+REFERENCE           INVISIBLE_DESC_1
+LANG_ENGLISH        "Kill 5 enemies with a weapon that has a flash hider. (Phase 1 of 3)"
+
+REFERENCE           INVISIBLE_DESC_2
+LANG_ENGLISH        "Kill 15 enemies with a weapon that has a flash hider. (Phase 2 of 3)"
+
+REFERENCE           INVISIBLE_DESC_3
+LANG_ENGLISH        "Kill 35 enemies with a weapon that has a flash hider. (Phase 3 of 3)"
+
+REFERENCE           BAYONET_DESC_1
+LANG_ENGLISH        "Kill 5 enemies with the Bayonet. (Phase 1 of 3)"
+
+REFERENCE           BAYONET_DESC_2
+LANG_ENGLISH        "Kill 15 enemies with the Bayonet. (Phase 2 of 3)"
+
+REFERENCE           BAYONET_DESC_3
+LANG_ENGLISH        "Kill 35 enemies with the Bayonet. (Phase 3 of 3)"
+
+REFERENCE           SAWOFF_DESC_1
+LANG_ENGLISH        "Kill 5 enemies with the sawed off shotgun. (Phase 1 of 3)"
+
+REFERENCE           SAWOFF_DESC_2
+LANG_ENGLISH        "Kill 15 enemies with the sawed off shotgun. (Phase 2 of 3)"
+
+REFERENCE           SAWOFF_DESC_3
+LANG_ENGLISH        "Kill 35 enemies with the sawed off shotgun. (Phase 3 of 3)"
+
+REFERENCE           BACKDRAFT
+LANG_ENGLISH        "Backdraft"
+
+REFERENCE           BBQ
+LANG_ENGLISH        "Torchbearer"
+
+REFERENCE           HOTHANDS
+LANG_ENGLISH        "Hot Hands"
+
+REFERENCE           WAGOFTHEFINGER
+LANG_ENGLISH        "Wag of the Finger"
+
+REFERENCE           DOUBLEHEADER
+LANG_ENGLISH        "Double Header"
+
+REFERENCE           FLEAFLICKER
+LANG_ENGLISH        "Flea Flicker"
+
+REFERENCE           GET_3_KILLS_FROM_EXPLOSION
+LANG_ENGLISH        "Get 3 kills by exploding the tank of an enemy flamethrower."
+
+REFERENCE           GET_8_QUICK_FLAME_KILLS
+LANG_ENGLISH        "Get 8 kills in 4 seconds with the flamethrower."
+
+REFERENCE           GET_HOTHANDS
+LANG_ENGLISH        "Get 4 headshots in 10 seconds using multiple weapons."
+
+REFERENCE           GET_TIPOFTHEHAT
+LANG_ENGLISH        "In 4-player Competitive Co-Op, take first place 20 times."
+
+REFERENCE           GET_WAGOFTHEFINGER
+LANG_ENGLISH        "Two players get simultaneous melee kills. [Requires coordination between 2 or more players]"
+
+REFERENCE           GET_DOUBLEHEADER
+LANG_ENGLISH        "Two players get simultaneous headshots. [Requires coordination between 2 or more players]"
+
+REFERENCE           GET_FLEAFLICKER
+LANG_ENGLISH        "Get an enemy kill by tossing back a grenade thrown by a teammate. [Requires coordination between 2 or more players]"
+
+REFERENCE           LAUNCHSPECIALIST_DESC_1
+LANG_ENGLISH        "Kill 5 enemies with a rifle grenade. (Phase 1 of 3)"
+
+REFERENCE           LAUNCHSPECIALIST_DESC_2
+LANG_ENGLISH        "Kill 15 enemies with a rifle grenade. (Phase 2 of 3)"
+
+REFERENCE           LAUNCHSPECIALIST_DESC_3
+LANG_ENGLISH        "Kill 35 enemies with a rifle grenade. (Phase 3 of 3)"
+
+REFERENCE           DOWNNOTOUT_DESC_1
+LANG_ENGLISH        "Kill 1 enemy while you are in Second Chance. (Phase 1 of 3)"
+
+REFERENCE           DOWNNOTOUT_DESC_2
+LANG_ENGLISH        "Kill 10 enemies while you are in Second Chance. (Phase 2 of 3)"
+
+REFERENCE           DOWNNOTOUT_DESC_3
+LANG_ENGLISH        "Kill 25 enemies while you are in Second Chance. (Phase 3 of 3)"
+
+REFERENCE           MEDIC_DESC_1
+LANG_ENGLISH        "Revive 1 teammate that is in Second Chance. (Phase 1 of 3)"
+
+REFERENCE           MEDIC_DESC_2
+LANG_ENGLISH        "Revive 10 teammates that are in Second Chance. (Phase 2 of 3)"
+
+REFERENCE           MEDIC_DESC_3
+LANG_ENGLISH        "Revive 25 teammates that are in Second Chance. (Phase 3 of 3)"
+
+REFERENCE           MARTRYDOM_DESC_1
+LANG_ENGLISH        "Kill 1 enemy with Martyrdom. (Phase 1 of 3)"
+
+REFERENCE           MARTRYDOM_DESC_2
+LANG_ENGLISH        "Kill 10 enemies with Martyrdom. (Phase 2 of 3)"
+
+REFERENCE           MARTRYDOM_DESC_3
+LANG_ENGLISH        "Kill 25 enemies with Martyrdom. (Phase 3 of 3)"
+
+REFERENCE           GASMASK_DESC
+LANG_ENGLISH        "With the Gas Mask perk equipped, kill the enemy that threw a Tabun grenade at you."
+
+REFERENCE           SHADES_DESC
+LANG_ENGLISH        "With the Shades perk equipped, kill the player that threw a flare at you."
+
+REFERENCE           UNLOCK_SCOPE
+LANG_ENGLISH        "UNLOCK: Sniper scope for this weapon"
+
+REFERENCE           UNLOCK_ROUNDRUM
+LANG_ENGLISH        "UNLOCK: Round Drum for this weapon"
+
+REFERENCE           UNLOCK_DUALMAGS
+LANG_ENGLISH        "UNLOCK: Dual Magazines for this weapon"
+
+REFERENCE           TYPE99LMG_MARKSMAN_II
+LANG_ENGLISH        "Type 99 LMG Marksman II"
+
+REFERENCE           SHOTGUN_MARKSMAN_II
+LANG_ENGLISH        "Trenchgun Marksman II"
+
+REFERENCE           DBSHOTTY_MARKSMAN_II
+LANG_ENGLISH        "Double Barreled Marksman II"
+
+REFERENCE           FG42_MARKSMAN_II
+LANG_ENGLISH        "FG42 Marksman II"
+
+REFERENCE           UNLOCKED_AT_LVL_5
+LANG_ENGLISH        "Unlocked at level 5"
+
+REFERENCE           UNLOCKED_AT_LVL_15
+LANG_ENGLISH        "Unlocked at level 15."
+
+REFERENCE           UNLOCKED_AT_LVL_23
+LANG_ENGLISH        "Unlocked at level 23."
+
+REFERENCE           UNLOCKED_AT_LVL_26
+LANG_ENGLISH        "Unlocked at level 26."
+
+REFERENCE           UNLOCKED_AT_LVL_27
+LANG_ENGLISH        "Unlocked at level 27."
+
+REFERENCE           UNLOCKED_AT_LVL_42
+LANG_ENGLISH        "Unlocked at level 42."
+
+REFERENCE           UNLOCKED_AT_LVL_50
+LANG_ENGLISH        "Unlocked at level 50."
+
+REFERENCE           ZOMBIE
+LANG_ENGLISH        "Undead Soldier"
+
+REFERENCE           TANKBOMB
+LANG_ENGLISH        "Tank Bomb"
+
+REFERENCE           PACIFIC_TOUR
+LANG_ENGLISH        "Pacific Tour"
+
+REFERENCE           EUROPEAN_TOUR
+LANG_ENGLISH        "European Tour"
+
+REFERENCE           COMPLETE_EUROPEAN_TOUR
+LANG_ENGLISH        "Complete every Russian campaign mission in Europe."
+
+REFERENCE           UNLOCK_SAWOFF
+LANG_ENGLISH        "UNLOCK: Sawoff for this weapon"
+
+REFERENCE           KILL_25_ENEMIES_WITH3
+LANG_ENGLISH        "Kill 25 enemies with headshots while using a heavy machine gun. (Phase 2 of 3)"
+
+REFERENCE           KILL_35_ENEMIES_WITH3
+LANG_ENGLISH        "Kill 35 enemies with headshots while using a heavy machine gun. (Phase 3 of 3)"
+
+REFERENCE           KILL_15_ENEMIES_WITH_A_MOLOTOV
+LANG_ENGLISH        "Kill 15 enemies with a Molotov. (Phase 3 of 3)"
+
+REFERENCE           G43_MARKSMAN_IIII
+LANG_ENGLISH        "Gewehr 43 Marksman IV"
+
+REFERENCE           M1GARAND_MARKSMAN_IIII
+LANG_ENGLISH        "M1 Garand Marksman IV"
+
+REFERENCE           M1A1_MARKSMAN_IIII
+LANG_ENGLISH        "M1A1 Carbine Marksman IV"
+
+REFERENCE           GET_30000_POINTS
+LANG_ENGLISH        "Score 30,000 points or higher in this mission in Competitive Co-Op."
+
+REFERENCE           GET_40000_POINTS
+LANG_ENGLISH        "Score 40,000 points or higher in this mission in Competitive Co-Op."
+
+REFERENCE           GET_50000_POINTS
+LANG_ENGLISH        "Score 50,000 points or higher in this mission in Competitive Co-Op."
+
+REFERENCE           GET_60000_POINTS
+LANG_ENGLISH        "Score 60,000 points or higher in this mission in Competitive Co-Op."
+
+REFERENCE           GET_70000_POINTS
+LANG_ENGLISH        "Score 70,000 points or higher in this mission in Competitive Co-Op."
+
+REFERENCE           GET_80000_POINTS
+LANG_ENGLISH        "Score 80,000 points or higher in this mission in Competitive Co-Op."
+
+REFERENCE           GET_100000_POINTS
+LANG_ENGLISH        "Score 100,000 points or higher in this mission in Competitive Co-Op."
+
+REFERENCE           DONE
+LANG_ENGLISH        "Done"
+
+
+ENDMARKER
+
+

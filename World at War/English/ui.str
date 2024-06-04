@@ -1,0 +1,274 @@
+// Note to translators:
+// If a sentence is the same in your language then please change it to "#same"
+//
+// eg:
+// LANG_ENGLISH  "HALT"
+// LANG_GERMAN   "#same"
+//
+// (This is so we can tell which strings have been signed-off as ok to be the same words for QA
+//  and because we do not store duplicate strings, which will then get exported again next time
+//  as being untranslated.)
+//
+VERSION             "1"
+CONFIG              "C:\cod5\cod\cod5\bin\StringEd.cfg"
+FILENOTES           ""
+
+REFERENCE           SOLO_CAMPAIGN
+LANG_ENGLISH        "Solo Campaign"
+
+REFERENCE           START_GAME
+LANG_ENGLISH        "Start Game"
+
+REFERENCE           COOP_CAMPAIGN
+LANG_ENGLISH        "Coop Campaign"
+
+REFERENCE           COMPETITIVE
+LANG_ENGLISH        "Competitive"
+
+REFERENCE           OPTIONS
+LANG_ENGLISH        "Options"
+
+REFERENCE           PELELIU_1
+LANG_ENGLISH        "Peleliu 1"
+
+REFERENCE           MAKIN_RAID
+LANG_ENGLISH        "Makin Raid"
+
+REFERENCE           PELELIU_1A
+LANG_ENGLISH        "Peleliu 1a"
+
+REFERENCE           PELELIU_1B
+LANG_ENGLISH        "Peleliu 1b"
+
+REFERENCE           PELELIU_2
+LANG_ENGLISH        "Peleliu 2"
+
+REFERENCE           HOLLAND_1
+LANG_ENGLISH        "Holland 1"
+
+REFERENCE           HOLLAND_2
+LANG_ENGLISH        "Holland 2"
+
+REFERENCE           HOLLAND_3
+LANG_ENGLISH        "Holland 3"
+
+REFERENCE           SEELOW_1
+LANG_ENGLISH        "Seelow 1"
+
+REFERENCE           SEELOW_2
+LANG_ENGLISH        "Seelow 2"
+
+REFERENCE           OKINAWA_2
+LANG_ENGLISH        "Okinawa 2"
+
+REFERENCE           OKINAWA_3
+LANG_ENGLISH        "Okinawa 3"
+
+REFERENCE           BERLIN_1
+LANG_ENGLISH        "Berlin 1"
+
+REFERENCE           BERLIN_2
+LANG_ENGLISH        "Berlin 2"
+
+REFERENCE           BERLIN_3
+LANG_ENGLISH        "Berlin 3"
+
+REFERENCE           BERLIN_3B
+LANG_ENGLISH        "Berlin 3b"
+
+REFERENCE           TRAINING
+LANG_ENGLISH        "Training"
+
+REFERENCE           FLYING
+LANG_ENGLISH        "Flying"
+
+REFERENCE           LIVING_BATTLEFIELD
+LANG_ENGLISH        "Living Battlefield"
+
+REFERENCE           PEL1_INSTR
+LANG_ENGLISH        "Peleliu 1"
+
+REFERENCE           DIFFICULTY
+LANG_ENGLISH        "Difficulty"
+
+REFERENCE           EASY
+LANG_ENGLISH        "Easy"
+
+REFERENCE           REGULAR
+LANG_ENGLISH        "Regular"
+
+REFERENCE           HARDENED
+LANG_ENGLISH        "Hardened"
+
+REFERENCE           VETERAN
+LANG_ENGLISH        "Veteran"
+
+REFERENCE           EASY_INSTR
+LANG_ENGLISH        "For players who are new to first person action games."
+
+REFERENCE           REGULAR_INSTR
+LANG_ENGLISH        "Your abilities in combat will be tested."
+
+REFERENCE           HARDENED_INSTR
+LANG_ENGLISH        "Your skills will be strained."
+
+REFERENCE           VETERAN_INSTR
+LANG_ENGLISH        "You will not survive."
+
+REFERENCE           NETWORK
+LANG_ENGLISH        "Network"
+
+REFERENCE           OPEN_PARTY
+LANG_ENGLISH        "Open Party"
+
+REFERENCE           FRIENDS_ONLY
+LANG_ENGLISH        "Friends Only"
+
+REFERENCE           INVITE_ONLY
+LANG_ENGLISH        "Invite Only"
+
+REFERENCE           FIND_GAME
+LANG_ENGLISH        "Find Game"
+
+REFERENCE           HOST_GAME
+LANG_ENGLISH        "Host Game"
+
+REFERENCE           HOST_GAME_INSTR
+LANG_ENGLISH        "Host Game description"
+
+REFERENCE           FIND_GAME_INSTR
+LANG_ENGLISH        "Find Game description"
+
+REFERENCE           SPLITSCREEN
+LANG_ENGLISH        "Split Screen"
+
+REFERENCE           SPLITSCREEN_INSTR
+LANG_ENGLISH        "Split Screen"
+
+REFERENCE           INVITE_FRIENDS
+LANG_ENGLISH        "Invite Friends"
+
+REFERENCE           SUBTITLES
+LANG_ENGLISH        "Subtitles"
+
+REFERENCE           SUBTITLES_INSTR
+LANG_ENGLISH        "Subtitles description"
+
+REFERENCE           VOLUME
+LANG_ENGLISH        "Volume"
+
+REFERENCE           VOLUME_INSTR
+LANG_ENGLISH        "Volume description"
+
+REFERENCE           BRIGHTNESS
+LANG_ENGLISH        "Brightness"
+
+REFERENCE           BRIGHTNESS_INSTR
+LANG_ENGLISH        "Brightness description"
+
+REFERENCE           SELECT_SAVE_DEVICE
+LANG_ENGLISH        "Select Save Device"
+
+REFERENCE           CONTROLS
+LANG_ENGLISH        "Controls"
+
+REFERENCE           STICK_LAYOUT
+LANG_ENGLISH        "Stick Layout"
+
+REFERENCE           DEFAULT
+LANG_ENGLISH        "Default"
+
+REFERENCE           DEFAULT_STICK_INSTR
+LANG_ENGLISH        "Stick Default description"
+
+REFERENCE           SOUTHPAW
+LANG_ENGLISH        "Southpaw"
+
+REFERENCE           SOUTHPAW_INSTR
+LANG_ENGLISH        "Southpaw description"
+
+REFERENCE           LEGACY
+LANG_ENGLISH        "Legacy"
+
+REFERENCE           LEGACY_INSTR
+LANG_ENGLISH        "Legacy description"
+
+REFERENCE           LEGACY_SOUTHPAW
+LANG_ENGLISH        "Legacy Southpaw"
+
+REFERENCE           LEGACY_SOUTHPAW_INSTR
+LANG_ENGLISH        "Legacy Southpaw description"
+
+REFERENCE           BUTTON_LAYOUT
+LANG_ENGLISH        "Button Layout"
+
+REFERENCE           TACTICAL
+LANG_ENGLISH        "Tactical"
+
+REFERENCE           TACTICAL_INSTR
+LANG_ENGLISH        "Tactical description"
+
+REFERENCE           LEFTY
+LANG_ENGLISH        "Lefty"
+
+REFERENCE           LEFTY_INSTR
+LANG_ENGLISH        "Lefty description"
+
+REFERENCE           SENSITIVITY
+LANG_ENGLISH        "Sensitivity"
+
+REFERENCE           LOW
+LANG_ENGLISH        "Low"
+
+REFERENCE           MEDIUM
+LANG_ENGLISH        "Medium"
+
+REFERENCE           HIGH
+LANG_ENGLISH        "High"
+
+REFERENCE           VERYHIGH
+LANG_ENGLISH        "Very High"
+
+REFERENCE           INSANE
+LANG_ENGLISH        "Insane"
+
+REFERENCE           AIM_ASSIST
+LANG_ENGLISH        "Aim Assist"
+
+REFERENCE           INVERSION
+LANG_ENGLISH        "Inversion"
+
+REFERENCE           VIBRATION
+LANG_ENGLISH        "Vibration"
+
+REFERENCE           DISABLED
+LANG_ENGLISH        "Disabled"
+
+REFERENCE           ENABLED
+LANG_ENGLISH        "Enabled"
+
+REFERENCE           SYSTEM_LINK_INSTR
+LANG_ENGLISH        "System Link Instruction"
+
+REFERENCE           RESUME_GAME
+LANG_ENGLISH        "Resume Game"
+
+REFERENCE           NEWGAME
+LANG_ENGLISH        "New Game"
+
+REFERENCE           SOLO_CHAPTERS
+LANG_ENGLISH        "Chapters"
+
+REFERENCE           SYSTEM_LINK
+LANG_ENGLISH        "System Link"
+
+REFERENCE           COOP_CHAPTERS
+LANG_ENGLISH        "Chapters"
+
+REFERENCE           OKINAWA_1
+LANG_ENGLISH        "Okinawa"
+
+
+ENDMARKER
+
+

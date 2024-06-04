@@ -1,0 +1,103 @@
+// Note to translators:
+// If a sentence is the same in your language then please change it to "#same"
+//
+// eg:
+// LANG_ENGLISH  "HALT"
+// LANG_GERMAN   "#same"
+//
+// (This is so we can tell which strings have been signed-off as ok to be the same words for QA
+//  and because we do not store duplicate strings, which will then get exported again next time
+//  as being untranslated.)
+//
+VERSION             "1"
+CONFIG              "C:\cod5\cod\cod5\bin\StringEd.cfg"
+FILENOTES           ""
+
+REFERENCE           INTROSCREEN_TITLE
+LANG_ENGLISH        "'Hard Landing'"
+
+REFERENCE           INTROSCREEN_PLACE
+LANG_ENGLISH        "Airfield, Peleliu"
+
+REFERENCE           INTROSCREEN_DATE
+LANG_ENGLISH        "Sept. 15, 1944"
+
+REFERENCE           INTROSCREEN_NAME
+LANG_ENGLISH        "Pvt. Miller"
+
+REFERENCE           INTROSCREEN_INFO
+LANG_ENGLISH        "1st Marine Division"
+
+REFERENCE           SECURE_MANGROVE_AREA
+LANG_ENGLISH        "Flank Japanese Artillery Positions"
+
+REFERENCE           CLEAR_BUNKERS
+LANG_ENGLISH        "Assault the Bunkers"
+
+REFERENCE           BUNKER_REGROUP
+LANG_ENGLISH        "Take Cover with Squad"
+
+REFERENCE           FLAME_MG
+LANG_ENGLISH        "Lay Suppressing Fire on the Bunker"
+
+REFERENCE           RETRIEVE_FLAME
+LANG_ENGLISH        "Retrieve the Flamethrower"
+
+REFERENCE           FLAME_BUNKER
+LANG_ENGLISH        "Flame the Bunker"
+
+REFERENCE           RIFLE_GRENADE_TEXT
+LANG_ENGLISH        "Press [{+actionslot 3}] to Attach the Rifle Grenade."
+
+REFERENCE           ADVANCE_TOWARDS_AIRFIELD
+LANG_ENGLISH        "Advance Towards the Airfield"
+
+REFERENCE           CLEAR_THE_BUILDING
+LANG_ENGLISH        "Clear the Building"
+
+REFERENCE           ASSAULT_AIRFIELD
+LANG_ENGLISH        "Assault the Airfield"
+
+REFERENCE           GET_BAZOOKA
+LANG_ENGLISH        "Get the Bazooka from the Trench."
+
+REFERENCE           BAZOOKA
+LANG_ENGLISH        "Destroy the Enemy Tanks with Bazookas"
+
+REFERENCE           BAZOOKA_1
+LANG_ENGLISH        "Destroy the Type97 tanks with Bazookas (1 of 3 remaining)"
+
+REFERENCE           BAZOOKA_2
+LANG_ENGLISH        "Destroy the Type97 tanks with Bazookas (2 of 3 remaining)"
+
+REFERENCE           BAZOOKA_3
+LANG_ENGLISH        "Destroy the Type97 tanks with Bazookas (3 of 3 remaining)"
+
+REFERENCE           AA_BUNKER
+LANG_ENGLISH        "Assault the Anti-Aircraft Bunker"
+
+REFERENCE           DESTROY_AA_GUNS
+LANG_ENGLISH        "Take out the AA crews "
+
+REFERENCE           DESTROY_AA_GUNS_1
+LANG_ENGLISH        "Take out the AA crews (1 of 4 remaining)"
+
+REFERENCE           DESTROY_AA_GUNS_2
+LANG_ENGLISH        "Take out the AA crews (2 of 4 remaining)"
+
+REFERENCE           DESTROY_AA_GUNS_3
+LANG_ENGLISH        "Take out the AA crews (3 of 4 remaining)"
+
+REFERENCE           DESTROY_AA_GUNS_4
+LANG_ENGLISH        "Take out the AA crews (4 of 4 remaining)"
+
+REFERENCE           SECURE_AABUNKER
+LANG_ENGLISH        "Secure the AA Bunker"
+
+REFERENCE           COUNTERATTACK
+LANG_ENGLISH        "Defend Against the Counterattack"
+
+
+ENDMARKER
+
+

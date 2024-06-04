@@ -1,0 +1,73 @@
+// Note to translators:
+// If a sentence is the same in your language then please change it to "#same"
+//
+// eg:
+// LANG_ENGLISH  "HALT"
+// LANG_GERMAN   "#same"
+//
+// (This is so we can tell which strings have been signed-off as ok to be the same words for QA
+//  and because we do not store duplicate strings, which will then get exported again next time
+//  as being untranslated.)
+//
+VERSION             "1"
+CONFIG              "G:\CoD5\cod\cod5\bin\StringEd.cfg"
+FILENOTES           ""
+
+REFERENCE           INTROSCREEN_TITLE
+LANG_ENGLISH        "'Heart of the Reich'"
+
+REFERENCE           INTROSCREEN_DATE
+LANG_ENGLISH        "April 30, 1945"
+
+REFERENCE           INTROSCREEN_PLACE
+LANG_ENGLISH        "The Reichstag, Berlin"
+
+REFERENCE           INTROSCREEN_NAME
+LANG_ENGLISH        "Pvt. Petrenko"
+
+REFERENCE           INTROSCREEN_INFO
+LANG_ENGLISH        "150th Rifle Division"
+
+REFERENCE           OBJ0
+LANG_ENGLISH        "Regroup with your squad"
+
+REFERENCE           OBJ1
+LANG_ENGLISH        "Advance through the buildings"
+
+REFERENCE           OBJ2
+LANG_ENGLISH        "Storm the Plaza"
+
+REFERENCE           HINT_PLANT_CHARGE
+LANG_ENGLISH        "Press &&1 to Plant the Charge"
+
+REFERENCE           OBJ3_4
+LANG_ENGLISH        "Destroy the Flak 88s (4 Remaining)"
+
+REFERENCE           OBJ3_3
+LANG_ENGLISH        "Destroy the Flak 88s (3 Remaining)"
+
+REFERENCE           OBJ3_2
+LANG_ENGLISH        "Destroy the Flak 88s (2 Remaining)"
+
+REFERENCE           OBJ3_1
+LANG_ENGLISH        "Destroy the Flak 88s (1 Remaining)"
+
+REFERENCE           OBJ3
+LANG_ENGLISH        "Destroy the Flak 88s"
+
+REFERENCE           OBJ4
+LANG_ENGLISH        "Enter the Reichstag"
+
+REFERENCE           WARP_INTRO
+LANG_ENGLISH        "INTRO"
+
+REFERENCE           WARP_PLAZA
+LANG_ENGLISH        "CHARGE_PLAZA"
+
+REFERENCE           WARP_REICH
+LANG_ENGLISH        "REICHSTAG_STEPS"
+
+
+ENDMARKER
+
+

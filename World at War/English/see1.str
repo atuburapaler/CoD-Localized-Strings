@@ -1,0 +1,121 @@
+// Note to translators:
+// If a sentence is the same in your language then please change it to "#same"
+//
+// eg:
+// LANG_ENGLISH  "HALT"
+// LANG_GERMAN   "#same"
+//
+// (This is so we can tell which strings have been signed-off as ok to be the same words for QA
+//  and because we do not store duplicate strings, which will then get exported again next time
+//  as being untranslated.)
+//
+VERSION             "1"
+CONFIG              "C:\cod5\cod\cod5\bin\StringEd.cfg"
+FILENOTES           ""
+
+REFERENCE           INTROSCREEN_TITLE
+LANG_ENGLISH        "'Their Land, Their Blood'"
+
+REFERENCE           INTROSCREEN_PLACE
+LANG_ENGLISH        "Seelow Heights, Germany"
+
+REFERENCE           INTROSCREEN_DATE
+LANG_ENGLISH        "April 18th, 1945"
+
+REFERENCE           INTROSCREEN_NAME
+LANG_ENGLISH        "Pvt. Petrenko"
+
+REFERENCE           OBJECTIVE1
+LANG_ENGLISH        "Advance to the River"
+
+REFERENCE           OBJECTIVE2
+LANG_ENGLISH        "Choose a Path to Advance, LEFT or RIGHT"
+
+REFERENCE           OBJECTIVE3A
+LANG_ENGLISH        "Eliminate All Enemy Tanks (4 remaining)"
+
+REFERENCE           OBJECTIVE4
+LANG_ENGLISH        "Regroup at the Barn Entrance"
+
+REFERENCE           OBJECTIVE5
+LANG_ENGLISH        "Destroy the Last German Tank"
+
+REFERENCE           OBJECTIVE6
+LANG_ENGLISH        "Follow Reznov into the Barn"
+
+REFERENCE           OBJECTIVE7
+LANG_ENGLISH        "Advance up the Road"
+
+REFERENCE           OBJECTIVE8
+LANG_ENGLISH        "Enter the German Camp"
+
+REFERENCE           OBJECTIVE9
+LANG_ENGLISH        "Clear the German Camp"
+
+REFERENCE           OBJECTIVE10A
+LANG_ENGLISH        "Destroy German Halftracks (2 remaining)"
+
+REFERENCE           OBJECTIVE10B
+LANG_ENGLISH        "Destroy German Halftracks (1 remaining)"
+
+REFERENCE           OBJECTIVE10C
+LANG_ENGLISH        "Destroy German Halftracks"
+
+REFERENCE           OBJECTIVE11
+LANG_ENGLISH        "Eliminate fleeing Germans"
+
+REFERENCE           OBJECTIVE1_B
+LANG_ENGLISH        "Break through the German Defenses"
+
+REFERENCE           OBJECTIVE1_C
+LANG_ENGLISH        "Climb on and destroy the Tiger tank"
+
+REFERENCE           ACHIEVEMENT_UNLOCK
+LANG_ENGLISH        "Achievement Unlocked"
+
+REFERENCE           MANTLE_TANK
+LANG_ENGLISH        "Press and hold X button to climb enemy tank"
+
+REFERENCE           RIDE_TANK
+LANG_ENGLISH        "Press [{+activate}] to ride tank"
+
+REFERENCE           OFF_TANK
+LANG_ENGLISH        "Press and hold [{+activate}] to get off tank"
+
+REFERENCE           OBJECTIVE3B
+LANG_ENGLISH        "Eliminate All Enemy Tanks (3 remaining)"
+
+REFERENCE           OBJECTIVE3C
+LANG_ENGLISH        "Eliminate All Enemy Tanks (2 remaining)"
+
+REFERENCE           OBJECTIVE3D
+LANG_ENGLISH        "Eliminate All Enemy Tanks (1 remaining)"
+
+REFERENCE           OBJECTIVE3E
+LANG_ENGLISH        "Eliminate All Enemy Tanks"
+
+REFERENCE           INTROSCREEN_INFO
+LANG_ENGLISH        "3rd Shock Army"
+
+REFERENCE           LATER
+LANG_ENGLISH        "Train Station: Boarding for Berlin"
+
+REFERENCE           OBJECTIVE12
+LANG_ENGLISH        "Get to the Train Station"
+
+REFERENCE           RIDE_TANK_PC
+LANG_ENGLISH        "Press and hold F button at the back of the tank to ride it."
+
+REFERENCE           MANTLE_TANK_PC
+LANG_ENGLISH        "Press and hold F button to climb enemy tank"
+
+REFERENCE           OFF_TANK_PC
+LANG_ENGLISH        "Press and hold F button to get off tank"
+
+REFERENCE           USE_MOLOTOV
+LANG_ENGLISH        "Press  [{+smoke}]  to throw molotovs"
+
+
+ENDMARKER
+
+

@@ -1,0 +1,58 @@
+// Note to translators:
+// If a sentence is the same in your language then please change it to "#same"
+//
+// eg:
+// LANG_ENGLISH  "HALT"
+// LANG_GERMAN   "#same"
+//
+// (This is so we can tell which strings have been signed-off as ok to be the same words for QA
+//  and because we do not store duplicate strings, which will then get exported again next time
+//  as being untranslated.)
+//
+VERSION             "1"
+CONFIG              "C:\cod5\cod\cod5\bin\StringEd.cfg"
+FILENOTES           ""
+
+REFERENCE           INTROSCREEN_INFO
+LANG_ENGLISH        "3rd Shock Army"
+
+REFERENCE           OBJ_REGROUP
+LANG_ENGLISH        "Regroup with your squad."
+
+REFERENCE           OBJ_FIGHT_THRU_METRO
+LANG_ENGLISH        "Fight through the Metro."
+
+REFERENCE           OBJ_MOVE_THRU_STREET
+LANG_ENGLISH        "Move up the street with the tanks."
+
+REFERENCE           INTROSCREEN_DATE
+LANG_ENGLISH        "April 24, 1945"
+
+REFERENCE           INTROSCREEN_PLACE
+LANG_ENGLISH        "Berlin, Germany"
+
+REFERENCE           INTROSCREEN_TITLE
+LANG_ENGLISH        "'Eviction'"
+
+REFERENCE           OBJ_CLEAR_BLDGS
+LANG_ENGLISH        "Clear the buildings."
+
+REFERENCE           OBJ_STAY_WITH_TANK
+LANG_ENGLISH        "Stay close to the tank."
+
+REFERENCE           OBJ_DEFEND_SARGE
+LANG_ENGLISH        "Defend Reznov while he opens the door."
+
+REFERENCE           OBJ_EXECUTE
+LANG_ENGLISH        "Execute the wounded Germans."
+
+REFERENCE           INTROSCREEN_NAME
+LANG_ENGLISH        "Pvt. Petrenko"
+
+REFERENCE           OBJ_GET_TO_METRO
+LANG_ENGLISH        "Head into the Metro to escape the rockets!"
+
+
+ENDMARKER
+
+

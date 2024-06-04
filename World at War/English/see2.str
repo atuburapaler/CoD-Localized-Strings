@@ -1,0 +1,85 @@
+// Note to translators:
+// If a sentence is the same in your language then please change it to "#same"
+//
+// eg:
+// LANG_ENGLISH  "HALT"
+// LANG_GERMAN   "#same"
+//
+// (This is so we can tell which strings have been signed-off as ok to be the same words for QA
+//  and because we do not store duplicate strings, which will then get exported again next time
+//  as being untranslated.)
+//
+VERSION             "1"
+CONFIG              "C:\cod5\cod\cod5\bin\StringEd.cfg"
+FILENOTES           ""
+
+REFERENCE           REJOIN_ARMY
+LANG_ENGLISH        "Rejoin the main Russian Army"
+
+REFERENCE           ADVANCE_TOWARDS_SEELOW
+LANG_ENGLISH        "Advance towards Seelow"
+
+REFERENCE           DESTROY_SURVIVING_TANKS
+LANG_ENGLISH        "Destroy surviving tanks"
+
+REFERENCE           ASSAULT_THE_TOWN
+LANG_ENGLISH        "Assault the town"
+
+REFERENCE           INTROSCREEN_TITLE
+LANG_ENGLISH        "'Blood & Iron'"
+
+REFERENCE           INTROSCREEN_PLACE
+LANG_ENGLISH        "Seelow Heights, Germany"
+
+REFERENCE           INTROSCREEN_INFO
+LANG_ENGLISH        "3rd Shock Army"
+
+REFERENCE           INTROSCREEN_NAME
+LANG_ENGLISH        "Pvt. Petrenko"
+
+REFERENCE           INTROSCREEN_DATE
+LANG_ENGLISH        "April 16, 1945"
+
+REFERENCE           COMMANDEER_THE_TIGER
+LANG_ENGLISH        "Commandeer the Tiger tank"
+
+REFERENCE           DESTROY_INCOMING_PANTHER
+LANG_ENGLISH        "Destroy incoming Panther tanks"
+
+REFERENCE           CLEAR_TRAIN_AREA
+LANG_ENGLISH        "Clear enemy tanks around train"
+
+REFERENCE           DESTROY_ARTILLERY
+LANG_ENGLISH        "Neutralize all enemy artillery (&&1 remaining)"
+
+REFERENCE           PROCEED_RADIOTOWER
+LANG_ENGLISH        "Proceed to the Radio Tower"
+
+REFERENCE           DESTROY_RADIOTOWER
+LANG_ENGLISH        "Destroy Radio Tower"
+
+REFERENCE           ADVANCE_TIGER_SEELOW
+LANG_ENGLISH        "Advance towards Seelow using the Tiger tank"
+
+REFERENCE           BREAK_THE_LINE
+LANG_ENGLISH        "Break the German line and reach the train station"
+
+REFERENCE           SCOUT_AHEAD
+LANG_ENGLISH        "Scout ahead for any retreating enemies"
+
+REFERENCE           DESTROY_FUELCACHES
+LANG_ENGLISH        "Destroy the fuel supplies"
+
+REFERENCE           ADS_HINT
+LANG_ENGLISH        "Aim Down Sight (ADS) to look at distant targets"
+
+REFERENCE           FLAMETHROWER_HINT
+LANG_ENGLISH        "Press [{+frag}] to fire your flamethrower"
+
+REFERENCE           MG_COOP_HINT
+LANG_ENGLISH        "Press [{+frag}] to fire your machinegun"
+
+
+ENDMARKER
+
+

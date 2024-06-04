@@ -1,0 +1,280 @@
+// Note to translators:
+// If a sentence is the same in your language then please change it to "#same"
+//
+// eg:
+// LANG_ENGLISH  "HALT"
+// LANG_GERMAN   "#same"
+//
+// (This is so we can tell which strings have been signed-off as ok to be the same words for QA
+//  and because we do not store duplicate strings, which will then get exported again next time
+//  as being untranslated.)
+//
+VERSION             "1"
+CONFIG              "E:\cod5\cod\cod5\bin\StringEd.cfg"
+FILENOTES           "Subtitle text should go in this file"
+
+REFERENCE           BERLIN_A_VIDEO11
+LANG_ENGLISH        "^1REZNOV: ^7With the line at Seelow now broken, nothing stands between the Red Army and Berlin."
+
+REFERENCE           BERLIN_A_VIDEO12
+LANG_ENGLISH        "^1REZNOV: ^7Every day, we carve deeper into German territory."
+
+REFERENCE           BERLIN_A_VIDEO13
+LANG_ENGLISH        "^1REZNOV: ^7Every day, fear and desperation erode their will."
+
+REFERENCE           BERLIN_A_VIDEO14
+LANG_ENGLISH        "^1REZNOV: ^7When our train reaches Berlin, they will have nowhere left to hide."
+
+REFERENCE           BERLIN_B_VIDEO11
+LANG_ENGLISH        "^1REZNOV: ^7Our grip tightens around the black heart of Berlin."
+
+REFERENCE           BERLIN_B_VIDEO12
+LANG_ENGLISH        "^1REZNOV: ^7The Fuhrer demands all to shed their last drop of blood in it's defense."
+
+REFERENCE           BERLIN_B_VIDEO13
+LANG_ENGLISH        "^1REZNOV: ^7The old...  the young...  the weak..."
+
+REFERENCE           BERLIN_B_VIDEO14
+LANG_ENGLISH        "^1REZNOV: ^7If they stand for Germany...  They die for Germany."
+
+REFERENCE           BERLIN_B_VIDEO15
+LANG_ENGLISH        "^1REZNOV: ^7Building by building...  Room by room...  One rat at a time."
+
+REFERENCE           BERLIN_C_VIDEO11
+LANG_ENGLISH        "^1REZNOV: ^7The Red army encircles the Reichstag - their parliament building and final stronghold of the fascist Reich."
+
+REFERENCE           BERLIN_C_VIDEO12
+LANG_ENGLISH        "^1REZNOV: ^7In the surrounding streets we choke the life from those who would still dare to defend it."
+
+REFERENCE           BERLIN_C_VIDEO13
+LANG_ENGLISH        "^1REZNOV: ^7It is an honor and a privilege to play a part in this glorious battle."
+
+REFERENCE           BERLIN_C_VIDEO14
+LANG_ENGLISH        "^1REZNOV: ^7When our flag flies over the city, our enemy's defeat and humiliation will be beyond question."
+
+REFERENCE           BERLIN_C_VIDEO15
+LANG_ENGLISH        "^1REZNOV: ^7Our vengeance will be complete... "
+
+REFERENCE           BERLIN_D_VIDEO11
+LANG_ENGLISH        "^1REZNOV: ^7The path towards our glorious victory has been a journey of blood and brutality."
+
+REFERENCE           BERLIN_D_VIDEO12
+LANG_ENGLISH        "^1REZNOV: ^7All of it has been necessary."
+
+REFERENCE           BERLIN_D_VIDEO14
+LANG_ENGLISH        "^1REZNOV: ^7When the flag of our Motherland flies atop the Reichstag..."
+
+REFERENCE           BERLIN_D_VIDEO15
+LANG_ENGLISH        "^1REZNOV: ^7All of Berlin will know that the evil of the Fascist reich has been wiped from the face of the earth."
+
+REFERENCE           MAKIN_VIDEO11
+LANG_ENGLISH        "^1ROEBUCK: ^7Makin Atoll - little more than sand, trees and a small Japanese Military base."
+
+REFERENCE           MAKIN_VIDEO12
+LANG_ENGLISH        "^1ROEBUCK: ^7Miller's reconnaissance team landed there almost a week ago. Since then - we've heard nothing."
+
+REFERENCE           MAKIN_VIDEO13
+LANG_ENGLISH        "^1ROEBUCK: ^7The waiting's over, we're going in. For all we know they're already dead."
+
+REFERENCE           MAKIN_VIDEO14
+LANG_ENGLISH        "^1ROEBUCK: ^7If what little we know about the Japanese is true, it might be better if they are."
+
+REFERENCE           OKINAWA_A_VIDEO11
+LANG_ENGLISH        "^1ROEBUCK: ^7Status report?"
+
+REFERENCE           OKINAWA_A_VIDEO12
+LANG_ENGLISH        "^1ROEBUCK: ^7The last few months on Okinawa have taken their toll...  "
+
+REFERENCE           OKINAWA_A_VIDEO13
+LANG_ENGLISH        "^1ROEBUCK: ^7Morale is low."
+
+REFERENCE           OKINAWA_A_VIDEO14
+LANG_ENGLISH        "^1ROEBUCK: ^7It's the rain, sir... and the mud."
+
+REFERENCE           OKINAWA_A_VIDEO15
+LANG_ENGLISH        "^1ROEBUCK: ^7Tanks are getting bogged down."
+
+REFERENCE           OKINAWA_A_VIDEO16
+LANG_ENGLISH        "^1ROEBUCK: ^7Supplies aren't getting through."
+
+REFERENCE           OKINAWA_A_VIDEO17
+LANG_ENGLISH        "^1ROEBUCK: ^7We can't even get the wounded out."
+
+REFERENCE           OKINAWA_A_VIDEO18
+LANG_ENGLISH        "^1ROEBUCK: ^7Yes, sir...  Understood..."
+
+REFERENCE           OKINAWA_B_VIDEO11
+LANG_ENGLISH        "^1ROEBUCK: ^7Everything that was asked of us - we've done."
+
+REFERENCE           OKINAWA_B_VIDEO12
+LANG_ENGLISH        "^1ROEBUCK: ^7Every night we lay in a filthy foxhole - prayin' the enemy won't slit our throats."
+
+REFERENCE           OKINAWA_B_VIDEO13
+LANG_ENGLISH        "^1ROEBUCK: ^7Every day we spent crawling through the mud and the dirt while bullets whistled all around."
+
+REFERENCE           OKINAWA_B_VIDEO15
+LANG_ENGLISH        "^1ROEBUCK: ^7But this is the last time we're gonna have to put our lives on the line."
+
+REFERENCE           OKINAWA_B_VIDEO16
+LANG_ENGLISH        "^1ROEBUCK: ^7This is the enemy's last stand. When we take Shuri Castle, we go home."
+
+REFERENCE           OKINAWA_B_VIDEO17
+LANG_ENGLISH        "^1ROEBUCK: ^7All of us."
+
+REFERENCE           OUTRO_VIDEO11
+LANG_ENGLISH        "^1PRESIDENT TRUMAN: ^7General Eisenhower informs me,"
+
+REFERENCE           OUTRO_VIDEO12
+LANG_ENGLISH        "^1PRESIDENT TRUMAN: ^7that the forces of Germany\nhave surrendered to the United Nations."
+
+REFERENCE           OUTRO_VIDEO13
+LANG_ENGLISH        "^1PRESIDENT TRUMAN: ^7The victory won in the West,\nmust now be won in the East."
+
+REFERENCE           OUTRO_VIDEO14
+LANG_ENGLISH        "^1GENERAL MACARTHUR: ^7We are gathered here,"
+
+REFERENCE           OUTRO_VIDEO15
+LANG_ENGLISH        "^1GENERAL MACARTHUR: ^7representatives of the major warring powers,"
+
+REFERENCE           OUTRO_VIDEO16
+LANG_ENGLISH        "^1GENERAL MACARTHUR: ^7to conclude a solemn agreement,"
+
+REFERENCE           OUTRO_VIDEO17
+LANG_ENGLISH        "^1GENERAL MACARTHUR: ^7whereby peace may be restored."
+
+REFERENCE           OUTRO_VIDEO18
+LANG_ENGLISH        "^1GENERAL MACARTHUR: ^7It is my earnest hope,"
+
+REFERENCE           OUTRO_VIDEO19
+LANG_ENGLISH        "^1GENERAL MACARTHUR: ^7and indeed the hope of all mankind,"
+
+REFERENCE           OUTRO_VIDEO20
+LANG_ENGLISH        "^1GENERAL MACARTHUR: ^7that from this solemn occasion,"
+
+REFERENCE           OUTRO_VIDEO21
+LANG_ENGLISH        "^1GENERAL MACARTHUR: ^7a better world shall emerge out\nof the blood and carnage of the past."
+
+REFERENCE           OUTRO_VIDEO22
+LANG_ENGLISH        "^1GENERAL MACARTHUR: ^7A world founded upon faith and understanding,"
+
+REFERENCE           OUTRO_VIDEO23
+LANG_ENGLISH        "^1GENERAL MACARTHUR: ^7of man and the fufillment \nof his most cherished wish,"
+
+REFERENCE           OUTRO_VIDEO24
+LANG_ENGLISH        "^1GENERAL MACARTHUR: ^7of freedom, tolerance and justice."
+
+REFERENCE           PBY_VIDEO11
+LANG_ENGLISH        "^1ROEBUCK: ^7The battle of Peleliu finally came to an end in November of 1944."
+
+REFERENCE           PBY_VIDEO12
+LANG_ENGLISH        "^1ROEBUCK: ^7Three bitter months after it was supposed to."
+
+REFERENCE           PBY_VIDEO13
+LANG_ENGLISH        "^1ROEBUCK: ^7When we shipped out for Okinawa, the airfield became a vital asset in the campaign."
+
+REFERENCE           PBY_VIDEO14
+LANG_ENGLISH        "^1ROEBUCK: ^7Among those stationed there are the  crews of US Navy Black Cats."
+
+REFERENCE           PBY_VIDEO15
+LANG_ENGLISH        "^1ROEBUCK: ^7Men who would risk everything before they would leave any of us in enemy waters."
+
+REFERENCE           PELELIU_A_VIDEO11
+LANG_ENGLISH        "^1ROEBUCK: ^7Years after the raid on Makin, we're heading up an all out assault on Peleliu Island... "
+
+REFERENCE           PELELIU_A_VIDEO12
+LANG_ENGLISH        "^1ROEBUCK: ^7No POW's to rescue this time... Our mission: take the airfield and cripple their supply network."
+
+REFERENCE           PELELIU_A_VIDEO13
+LANG_ENGLISH        "^1ROEBUCK: ^7Alongside familiar faces, fresh faced recruits."
+
+REFERENCE           PELELIU_A_VIDEO14
+LANG_ENGLISH        "^1ROEBUCK: ^7The older guys like Miller, Sergeant Sullivan and myself, we're known as "The old breed"."
+
+REFERENCE           PELELIU_A_VIDEO15
+LANG_ENGLISH        "^1ROEBUCK: ^7"Old"... we're not even out of our twenties."
+
+REFERENCE           PELELIU_B_VIDEO11
+LANG_ENGLISH        "^1ROEBUCK: ^7Though we've taken the airfield, the enemy still hold onto most of the inland areas of the island."
+
+REFERENCE           PELELIU_B_VIDEO12
+LANG_ENGLISH        "^1ROEBUCK: ^7A maze of trenches and artillery positions run right through the this whole Godforsaken rock."
+
+REFERENCE           PELELIU_B_VIDEO13
+LANG_ENGLISH        "^1ROEBUCK: ^7The enemy's dug in deep, and we have to get our hands dirty."
+
+REFERENCE           PELELIU_B_VIDEO14
+LANG_ENGLISH        "^1ROEBUCK: ^7Flamethrowers."
+
+REFERENCE           PELELIU_B_VIDEO15
+LANG_ENGLISH        "^1ROEBUCK: ^7We'll burn 'em out."
+
+REFERENCE           PELELIU_C_VIDEO11
+LANG_ENGLISH        "^1ROEBUCK: ^7Getting this far has been tougher than any of us could ever have imagined."
+
+REFERENCE           PELELIU_C_VIDEO12
+LANG_ENGLISH        "^1ROEBUCK: ^7Taking the airfield and the mortar pits showed us \nthat the enemy will fight to the death for every last inch of this rock."
+
+REFERENCE           PELELIU_C_VIDEO13
+LANG_ENGLISH        "^1ROEBUCK: ^7They're making their last stand in the jungles and caves that surround the heavy guns on the point."
+
+REFERENCE           PELELIU_C_VIDEO14
+LANG_ENGLISH        "^1ROEBUCK: ^7We take them... and we take Peleliu."
+
+REFERENCE           PELELIU_D_VIDEO11
+LANG_ENGLISH        "^1ROEBUCK: ^7We're all numbed by Sullivan's death.  We just never saw it coming, I still can't believe it."
+
+REFERENCE           PELELIU_D_VIDEO12
+LANG_ENGLISH        "^1ROEBUCK: ^7The most solid, dependable and courageous Marine we've ever known. Blink of an eye, gone."
+
+REFERENCE           PELELIU_D_VIDEO13
+LANG_ENGLISH        "^1ROEBUCK: ^7Now it's down to me, and me alone, to lead these men, my brothers, safely through this campaign."
+
+REFERENCE           PELELIU_D_VIDEO14
+LANG_ENGLISH        "^1ROEBUCK: ^7AA fire from Peleliu airfield is knocking our planes right out the sky. Taking this airfield is our only priority."
+
+REFERENCE           PELELIU_D_VIDEO15
+LANG_ENGLISH        "^1ROEBUCK: ^7Whatever the cost."
+
+REFERENCE           SEELOW_A_VIDEO11
+LANG_ENGLISH        "^1REZNOV: ^7The Red Army's advance into Germany is swift and brutal."
+
+REFERENCE           SEELOW_A_VIDEO12
+LANG_ENGLISH        "^1REZNOV: ^7In mere months, we have reached Seelow Heights - the last line of defense before the German capital."
+
+REFERENCE           SEELOW_A_VIDEO13
+LANG_ENGLISH        "^1REZNOV: ^7We outnumber the Germans ten to one!  Wave upon wave of our infantry are unleashed upon them to clear the way for our armor."
+
+REFERENCE           SEELOW_A_VIDEO14
+LANG_ENGLISH        "^1REZNOV: ^7Once we have control of Seelow, we will begin the march to Berlin."
+
+REFERENCE           SEELOW_A_VIDEO15
+LANG_ENGLISH        "^1REZNOV: ^7There, we will ensure that every sacrifice is repaid in blood."
+
+REFERENCE           SEELOW_B_VIDEO11
+LANG_ENGLISH        "^1REZNOV: ^7We have lost many brave men, but their sacrifice is not in vain."
+
+REFERENCE           SEELOW_B_VIDEO12
+LANG_ENGLISH        "^1REZNOV: ^7Our tanks now form a line of steel so powerful that all German resistance will be crushed beneath its mighty treads. "
+
+REFERENCE           SEELOW_B_VIDEO13
+LANG_ENGLISH        "^1REZNOV: ^7Today - We will watch as Seelow falls."
+
+REFERENCE           SEELOW_B_VIDEO14
+LANG_ENGLISH        "^1REZNOV: ^7Along with all those foolish enough to stand in our way."
+
+REFERENCE           SNIPER_VIDEO11
+LANG_ENGLISH        "^1REZNOV: ^7The rotten cancer of the fascist Reich ravages Europe like a plague."
+
+REFERENCE           SNIPER_VIDEO12
+LANG_ENGLISH        "^1REZNOV: ^7Their relentless drive into our motherland steals the lives of men, women and children alike."
+
+REFERENCE           SNIPER_VIDEO13
+LANG_ENGLISH        "^1REZNOV: ^7The arrogance of their leaders is matched only by the brutality of their soldiers."
+
+REFERENCE           SNIPER_VIDEO14
+LANG_ENGLISH        "^1REZNOV: ^7These are the darkest days of the Nazi occupation of Stalingrad."
+
+
+ENDMARKER
+
+

@@ -1,0 +1,70 @@
+// Note to translators:
+// If a sentence is the same in your language then please change it to "#same"
+//
+// eg:
+// LANG_ENGLISH  "HALT"
+// LANG_GERMAN   "#same"
+//
+// (This is so we can tell which strings have been signed-off as ok to be the same words for QA
+//  and because we do not store duplicate strings, which will then get exported again next time
+//  as being untranslated.)
+//
+VERSION             "1"
+CONFIG              "C:\cod5\cod\cod5\bin\StringEd.cfg"
+FILENOTES           ""
+
+REFERENCE           OBJ_1
+LANG_ENGLISH        "Stay with Sgt. Reznov"
+
+REFERENCE           OBJ_2
+LANG_ENGLISH        "Eliminate all Germans in the street"
+
+REFERENCE           OBJ_3
+LANG_ENGLISH        "Follow Sgt. Reznov"
+
+REFERENCE           OBJ_5
+LANG_ENGLISH        "Support your comrades with sniper cover fire"
+
+REFERENCE           HINT_CROUCH
+LANG_ENGLISH        "Press [{gocrouch}] To Crouch"
+
+REFERENCE           INTROSCREEN_PLACE
+LANG_ENGLISH        "Stalingrad, Russia"
+
+REFERENCE           OBJ_6
+LANG_ENGLISH        "Kill General Amsel"
+
+REFERENCE           INTROSCREEN_DATE
+LANG_ENGLISH        "Sept. 17, 1942"
+
+REFERENCE           INTROSCREEN_INFO
+LANG_ENGLISH        "Pvt. Petrenko"
+
+REFERENCE           INTROSCREEN_INFO2
+LANG_ENGLISH        "62nd Rifle Army"
+
+REFERENCE           INTROSCREEN_TITLE
+LANG_ENGLISH        "'Vendetta'"
+
+REFERENCE           OBJ_4
+LANG_ENGLISH        "Defeat the enemy sniper"
+
+REFERENCE           TO_BE_CONTINUED
+LANG_ENGLISH        "To Be Continued...."
+
+REFERENCE           GENERAL_ESCAPED
+LANG_ENGLISH        "The General escaped!"
+
+REFERENCE           REZNOV_KILLED
+LANG_ENGLISH        "Your actions got Reznov killed."
+
+REFERENCE           JUMP_FARTHER
+LANG_ENGLISH        "S"
+
+REFERENCE           EASY_PRONE_DESC
+LANG_ENGLISH        "Press^3 [{goprone}] ^7to go prone"
+
+
+ENDMARKER
+
+

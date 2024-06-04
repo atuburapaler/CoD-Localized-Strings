@@ -1,0 +1,109 @@
+// Note to translators:
+// If a sentence is the same in your language then please change it to "#same"
+//
+// eg:
+// LANG_ENGLISH  "HALT"
+// LANG_GERMAN   "#same"
+//
+// (This is so we can tell which strings have been signed-off as ok to be the same words for QA
+//  and because we do not store duplicate strings, which will then get exported again next time
+//  as being untranslated.)
+//
+VERSION             "1"
+CONFIG              "R:\cod5\cod\cod5\bin\StringEd.cfg"
+FILENOTES           ""
+
+REFERENCE           TUT_INTRO
+LANG_ENGLISH        "Welcome to the PBY Turret Tutorial."
+
+REFERENCE           TUT_SWITCH
+LANG_ENGLISH        "Use the D-Pad to switch between turrets."
+
+REFERENCE           INTROSCREEN_TITLE
+LANG_ENGLISH        "'Black Cats'"
+
+REFERENCE           INTROSCREEN_PLACE
+LANG_ENGLISH        "South of Okinawa"
+
+REFERENCE           INTROSCREEN_DATE
+LANG_ENGLISH        "April 3, 1945"
+
+REFERENCE           INTROSCREEN_NAME
+LANG_ENGLISH        "Petty Officer Locke"
+
+REFERENCE           INTROSCREEN_INFO
+LANG_ENGLISH        "Black Cat Squadron VPB-54"
+
+REFERENCE           OBJ_EV1
+LANG_ENGLISH        "Continue Routine Patrol"
+
+REFERENCE           OBJ_EV2_PTBOATS
+LANG_ENGLISH        "Defend against Japanese PT Boats. [&&1 destroyed]"
+
+REFERENCE           OBJ_EV2
+LANG_ENGLISH        "Destroy Japanese Merchant Ships. [&&1 remaining]"
+
+REFERENCE           OBJ_EV3
+LANG_ENGLISH        "Return to Base"
+
+REFERENCE           OBJ_EV4
+LANG_ENGLISH        "Rescue All Possible Survivors [&&1 rescued]"
+
+REFERENCE           OBJ_EV3B
+LANG_ENGLISH        "Respond to Fleet Distress Call"
+
+REFERENCE           SWITCH_FRONT
+LANG_ENGLISH        "Press [{+activate}] To Switch To The Bow Turret"
+
+REFERENCE           SWITCH_RIGHT
+LANG_ENGLISH        "Press [{+activate}] To Switch To The Right Turret"
+
+REFERENCE           SWITCH_LEFT
+LANG_ENGLISH        "Press [{+activate}] To Switch To The Left Turret"
+
+REFERENCE           SWITCH_REAR
+LANG_ENGLISH        "Press [{+activate}] To Switch To The Ventral Turret"
+
+REFERENCE           RESCUE
+LANG_ENGLISH        "Press [{+activate}] To Rescue Survivor"
+
+REFERENCE           ADS_HINT
+LANG_ENGLISH        "Press and Hold [{+speed_throw}] to use Reflector and Iron Sights."
+
+REFERENCE           PBY_NAME_A
+LANG_ENGLISH        "MANTA RAY"
+
+REFERENCE           PBY_NAME_B
+LANG_ENGLISH        "HAMMERHEAD"
+
+REFERENCE           PBY_SQUAD
+LANG_ENGLISH        "VPB 54 - BLACK CAT"
+
+REFERENCE           OBJ_EV5
+LANG_ENGLISH        "Clear the skies of Japanese Zeroes."
+
+REFERENCE           PTBOAT
+LANG_ENGLISH        "Patrol Boats:"
+
+REFERENCE           ZEROES
+LANG_ENGLISH        "Zeroes:"
+
+REFERENCE           MERCHANT
+LANG_ENGLISH        "Merchant Ships:"
+
+REFERENCE           SURVIVOR
+LANG_ENGLISH        "Survivors:"
+
+REFERENCE           X
+LANG_ENGLISH        "x"
+
+REFERENCE           OBJ_EV3B_ZEROES
+LANG_ENGLISH        "Defend against Japanese Zeroes. [&&1 destroyed]"
+
+REFERENCE           CANNON
+LANG_ENGLISH        "Press [{+frag}] To Fire 20mm Cannon"
+
+
+ENDMARKER
+
+

@@ -1,0 +1,55 @@
+// Note to translators:
+// If a sentence is the same in your language then please change it to "#same"
+//
+// eg:
+// LANG_ENGLISH  "HALT"
+// LANG_GERMAN   "#same"
+//
+// (This is so we can tell which strings have been signed-off as ok to be the same words for QA
+//  and because we do not store duplicate strings, which will then get exported again next time
+//  as being untranslated.)
+//
+VERSION             "1"
+CONFIG              "C:\cod5\cod\cod5\bin\StringEd.cfg"
+FILENOTES           ""
+
+REFERENCE           REGROUP_BERM
+LANG_ENGLISH        "Regroup with your Squad"
+
+REFERENCE           CLEAR_RUINS
+LANG_ENGLISH        "Assault the German Defenses"
+
+REFERENCE           CLEAR_CLOCKTOWER
+LANG_ENGLISH        "Eliminate Panzershreks and MGs so Tanks can Advance"
+
+REFERENCE           CLEAR_OFFICE
+LANG_ENGLISH        "Advance through the Office Building"
+
+REFERENCE           ENTER_ASYLUM
+LANG_ENGLISH        "Get inside the Asylum"
+
+REFERENCE           CLEAR_ASYLUM
+LANG_ENGLISH        "Clear the Asylum"
+
+REFERENCE           PUSH_GERMANS
+LANG_ENGLISH        "Kill the Retreating German Forces"
+
+REFERENCE           INTROSCREEN_TITLE
+LANG_ENGLISH        "'Ring of Steel'"
+
+REFERENCE           INTROSCREEN_PLACE
+LANG_ENGLISH        "Pankow, Germany"
+
+REFERENCE           INTROSCREEN_DATE
+LANG_ENGLISH        "April 23, 1945"
+
+REFERENCE           INTROSCREEN_INFO
+LANG_ENGLISH        "3rd Shock Army"
+
+REFERENCE           INTROSCREEN_NAME
+LANG_ENGLISH        "Pvt. Petrenko"
+
+
+ENDMARKER
+
+
