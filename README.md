@@ -11,7 +11,6 @@ Compilation of **Localized Strings** from **Call of Duty** games. _Currently on 
 > This repository is constantly growing, so this list is not definitive. New content is added regularly.
 * **Call of Duty: Modern Warfare 2** (2009)
 * **Call of Duty: Modern Warfare 3** (2011)
-* **Call of Duty: Modern Warfare 3** (2011)
 * **Call of Duty: World at War** (2008)
 * **Call of Duty: Black Ops** (2010)
 * **Call of Duty: Black Ops II** (2012)
