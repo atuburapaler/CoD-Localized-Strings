@@ -1,0 +1,90 @@
+// Dumped from fastfile "sna_code_post_gfx_mp".
+// In their original format the strings might have been separated in multiple files.
+
+VERSION             "1"
+FILENOTES           ""
+
+REFERENCE           LUA_HUD_CAPSLOCK
+LANG_ENGLISH           "MAYÚS" 
+REFERENCE           LUA_HUD_CTRL
+LANG_ENGLISH           "CTRL" 
+REFERENCE           LUA_HUD_DEL
+LANG_ENGLISH           "SUPR" 
+REFERENCE           LUA_HUD_DOWNARROW
+LANG_ENGLISH           "Abajo" 
+REFERENCE           LUA_HUD_END
+LANG_ENGLISH           "FIN" 
+REFERENCE           LUA_HUD_ENTER
+LANG_ENGLISH           "ENTER" 
+REFERENCE           LUA_HUD_HOME
+LANG_ENGLISH           "INICIO" 
+REFERENCE           LUA_HUD_INS
+LANG_ENGLISH           "INSERT" 
+REFERENCE           LUA_HUD_KP_5
+LANG_ENGLISH           "Num. 5" 
+REFERENCE           LUA_HUD_KP_DEL
+LANG_ENGLISH           "Num." 
+REFERENCE           LUA_HUD_KP_DOWNARROW
+LANG_ENGLISH           "Num. 2" 
+REFERENCE           LUA_HUD_KP_END
+LANG_ENGLISH           "Num. 1" 
+REFERENCE           LUA_HUD_KP_ENTER
+LANG_ENGLISH           "Num. ENTER" 
+REFERENCE           LUA_HUD_KP_HOME
+LANG_ENGLISH           "Num. 7" 
+REFERENCE           LUA_HUD_KP_INS
+LANG_ENGLISH           "Num. 0" 
+REFERENCE           LUA_HUD_KP_LEFTARROW
+LANG_ENGLISH           "Num. 4" 
+REFERENCE           LUA_HUD_KP_MINUS
+LANG_ENGLISH           "Num. -" 
+REFERENCE           LUA_HUD_KP_NUMLOCK
+LANG_ENGLISH           "NUM." 
+REFERENCE           LUA_HUD_KP_PGDN
+LANG_ENGLISH           "Num. 3" 
+REFERENCE           LUA_HUD_KP_PGUP
+LANG_ENGLISH           "Num. 9" 
+REFERENCE           LUA_HUD_KP_PLUS
+LANG_ENGLISH           "Num. +" 
+REFERENCE           LUA_HUD_KP_RIGHTARROW
+LANG_ENGLISH           "Num. 6" 
+REFERENCE           LUA_HUD_KP_SLASH
+LANG_ENGLISH           "Num. /" 
+REFERENCE           LUA_HUD_KP_STAR
+LANG_ENGLISH           "Num. *" 
+REFERENCE           LUA_HUD_KP_UPARROW
+LANG_ENGLISH           "Num. 8" 
+REFERENCE           LUA_HUD_LEFTARROW
+LANG_ENGLISH           "Izquierda" 
+REFERENCE           LUA_HUD_MOUSE1
+LANG_ENGLISH           "CLIC IZQ." 
+REFERENCE           LUA_HUD_MOUSE2
+LANG_ENGLISH           "CLIC DER." 
+REFERENCE           LUA_HUD_MOUSE3
+LANG_ENGLISH           "m3" 
+REFERENCE           LUA_HUD_MOUSE4
+LANG_ENGLISH           "m4" 
+REFERENCE           LUA_HUD_MOUSE5
+LANG_ENGLISH           "m5" 
+REFERENCE           LUA_HUD_MWHEELDOWN
+LANG_ENGLISH           "RuedaAB" 
+REFERENCE           LUA_HUD_MWHEELUP
+LANG_ENGLISH           "RuedaARR" 
+REFERENCE           LUA_HUD_PGDN
+LANG_ENGLISH           "AV PÁG" 
+REFERENCE           LUA_HUD_PGUP
+LANG_ENGLISH           "RE PÁG" 
+REFERENCE           LUA_HUD_RIGHTARROW
+LANG_ENGLISH           "Derecha" 
+REFERENCE           LUA_HUD_SHIFT
+LANG_ENGLISH           "MAYÚSCULAS" 
+REFERENCE           LUA_HUD_SPACE
+LANG_ENGLISH           "ESPACIO" 
+REFERENCE           LUA_HUD_TAB
+LANG_ENGLISH           "TAB" 
+REFERENCE           LUA_HUD_UNBOUND
+LANG_ENGLISH           "¿?" 
+REFERENCE           LUA_HUD_UPARROW
+LANG_ENGLISH           "Arriba" 
+
+ENDMARKER
