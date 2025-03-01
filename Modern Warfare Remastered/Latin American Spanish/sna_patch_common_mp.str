@@ -1,0 +1,656 @@
+// Dumped from fastfile "sna_patch_common_mp".
+// In their original format the strings might have been separated in multiple files.
+
+REFERENCE           CGAME_COMPLAINTDISMISSED
+LANG_ENGLISH           "Queja desestimada"
+
+REFERENCE           CGAME_COMPLAINTFILED
+LANG_ENGLISH           "Tu queja fue archivada."
+
+REFERENCE           CGAME_COMPLAINTSERVERHOST
+LANG_ENGLISH           "No puede haber quejas contra el host del servidor."
+
+REFERENCE           CGAME_COMPLAINTTEAMKILLFILE
+LANG_ENGLISH           "¿Quieres enviar una queja contra &&1 por matar a los de su equipo?"
+
+REFERENCE           CGAME_CONNECTIONINTERUPTED
+LANG_ENGLISH           "Conexión interrumpida"
+
+REFERENCE           CGAME_CONTINUE_SAVING
+LANG_ENGLISH           "Guardar y salir"
+
+REFERENCE           CGAME_CRUSH
+LANG_ENGLISH           "aplastado"
+
+REFERENCE           CGAME_DIED
+LANG_ENGLISH           "muerto"
+
+REFERENCE           CGAME_DROWN
+LANG_ENGLISH           "ahogado"
+
+REFERENCE           CGAME_FALLING
+LANG_ENGLISH           "caída"
+
+REFERENCE           CGAME_FOLLOWING
+LANG_ENGLISH           "ESPECTADOR"
+
+REFERENCE           CGAME_FOR
+LANG_ENGLISH           "para"
+
+REFERENCE           CGAME_HEAD_SHOT
+LANG_ENGLISH           "tiro a la cabeza"
+
+REFERENCE           CGAME_HEALTH
+LANG_ENGLISH           "Salud"
+
+REFERENCE           CGAME_LISTENSERVER
+LANG_ENGLISH           "Servidor pasivo"
+
+REFERENCE           CGAME_MELEE
+LANG_ENGLISH           "cuerpo a cuerpo"
+
+REFERENCE           CGAME_MISSIONOBJECTIVES
+LANG_ENGLISH           "OBJETIVOS DE LA MISIÓN"
+
+REFERENCE           CGAME_MISSIONOBJECTIVES_NONE
+LANG_ENGLISH           "NINGÚN OBJETIVO"
+
+REFERENCE           CGAME_NO
+LANG_ENGLISH           "NO"
+
+REFERENCE           CGAME_NOSPECTATORVOICECHAT
+LANG_ENGLISH           "Un espectador no puede usar el chat de voz."
+
+REFERENCE           CGAME_NOW_SAVING
+LANG_ENGLISH           "Guardando..."
+
+REFERENCE           CGAME_OBJECTIVE_ABOVE
+LANG_ENGLISH           "Objetivo encima"
+
+REFERENCE           CGAME_OBJECTIVE_BELOW
+LANG_ENGLISH           "Objetivo debajo"
+
+REFERENCE           CGAME_OBJECTIVE_FOLLOWTEXT_DEFAULT
+LANG_ENGLISH           "Sigue"
+
+REFERENCE           CGAME_PAUSED
+LANG_ENGLISH           "En pausa"
+
+REFERENCE           CGAME_PLAYERRENAMES
+LANG_ENGLISH           "cambiado de nombre a"
+
+REFERENCE           CGAME_PRESSYESNO
+LANG_ENGLISH           "Oprime '&&1' para Sí o '&&2' para No"
+
+REFERENCE           CGAME_PRONE_BLOCKED
+LANG_ENGLISH           "Cuerpo a tierra bloqueado"
+
+REFERENCE           CGAME_PRONE_BLOCKED_WEAPON
+LANG_ENGLISH           "No puedes ponerte boca abajo con esta arma"
+
+REFERENCE           CGAME_RESTART_WARNING
+LANG_ENGLISH           "Si reinicias ahora, se perderán todos 
+los progresos realizados 
+en esta misión
+
+¿Quieres seguir con el reinicio?"
+
+REFERENCE           CGAME_SAVE_VICTORY
+LANG_ENGLISH           "¿Quieres guardar los progresos del juego?"
+
+REFERENCE           CGAME_SAVE_WARNING
+LANG_ENGLISH           "Si guardas ahora, se perderán todos los progresos 
+desde el último punto de control. 
+
+¿Quieres seguir guardando?"
+
+REFERENCE           CGAME_SAVINGREPLAY
+LANG_ENGLISH           "&&1 guardando repetición en
+ &&2 -> &&3"
+ REFERENCE           CGAME_SB_ASSISTS
+LANG_ENGLISH           "Asist."
+
+REFERENCE           CGAME_SB_DEATHS
+LANG_ENGLISH           "Muertes"
+
+REFERENCE           CGAME_SB_KILLS
+LANG_ENGLISH           "Bajas"
+
+REFERENCE           CGAME_SB_PING
+LANG_ENGLISH           "Ping"
+
+REFERENCE           CGAME_SB_PLAYER
+LANG_ENGLISH           "&&1"
+
+REFERENCE           CGAME_SB_PLAYERS
+LANG_ENGLISH           "&&1"
+
+REFERENCE           CGAME_SB_SCORE
+LANG_ENGLISH           "Puntos"
+
+REFERENCE           CGAME_SB_TAGS
+LANG_ENGLISH           "Placas"
+
+REFERENCE           CGAME_SERVERHOSTTEAMKILLED
+LANG_ENGLISH           "El host del servidor te mató, pese a ser compañero tuyo."
+
+REFERENCE           CGAME_SLIME
+LANG_ENGLISH           "fango"
+
+REFERENCE           CGAME_SPECTATOR
+LANG_ENGLISH           "ESPECTADOR"
+
+REFERENCE           CGAME_SPECTATORS
+LANG_ENGLISH           "Espectadores"
+
+REFERENCE           CGAME_SUICIDE
+LANG_ENGLISH           "suicidio"
+
+REFERENCE           CGAME_TEAMMATE
+LANG_ENGLISH           "COMPAÑERO"
+
+REFERENCE           CGAME_THIS_WEAPON_HAS_NO_ALTERNATE
+LANG_ENGLISH           "Esta arma no dispone de modo alternativo."
+
+REFERENCE           CGAME_UNKNOWN
+LANG_ENGLISH           "desconocido"
+
+REFERENCE           CGAME_VOTE
+LANG_ENGLISH           "VOTO"
+
+REFERENCE           CGAME_WAITINGFORSERVERLOAD
+LANG_ENGLISH           "Esperando a que el servidor cargue un nuevo mapa"
+
+REFERENCE           CGAME_YES
+LANG_ENGLISH           "SÍ"
+
+REFERENCE           CGAME_YOUKILLED
+LANG_ENGLISH           "Mataste a &&1"
+
+REFERENCE           CGAME_YOUWEREKILLED
+LANG_ENGLISH           "&&1 te mató."
+
+REFERENCE           CLANS_ACTIVE_BONUSES
+LANG_ENGLISH           "Bonificaciones activas en el juego"
+
+REFERENCE           CLANS_ACTIVE_TARGET
+LANG_ENGLISH           "Blanco activo"
+
+REFERENCE           CLANS_ACTIVE_TARGET_LABEL
+LANG_ENGLISH           "Blanco activo: &&1"
+
+REFERENCE           CLANS_BONUS_NAME_PERCENT
+LANG_ENGLISH           "&&1 &&2%"
+
+REFERENCE           CLANS_BRONZE_DIVISION
+LANG_ENGLISH           "División de bronce"
+
+REFERENCE           CLANS_CHANGE_MEMBER_STATUS
+LANG_ENGLISH           "Cambiar estado de miembro"
+
+REFERENCE           CLANS_CHANGE_MOTTO
+LANG_ENGLISH           "Cambiar lema"
+
+REFERENCE           CLANS_CHANGE_TAG
+LANG_ENGLISH           "Opciones de insignia"
+
+REFERENCE           CLANS_CLANNAME
+LANG_ENGLISH           "Nombre del clan:"
+
+REFERENCE           CLANS_CLANS
+LANG_ENGLISH           "Clanes"
+
+REFERENCE           CLANS_CLANTAG
+LANG_ENGLISH           "Insignia del clan:"
+
+REFERENCE           CLANS_CLAN_BANK
+LANG_ENGLISH           "Banco del clan"
+
+REFERENCE           CLANS_CLAN_CALL_TO_ACTION
+LANG_ENGLISH           "Para más opciones de clan, descarga la aplicación de Call of Duty®."
+
+REFERENCE           CLANS_CLAN_DETAILS
+LANG_ENGLISH           "Detalles del clan"
+
+REFERENCE           CLANS_CLAN_DETAILS_DESC_TEXT
+LANG_ENGLISH           "Ver información sobre tu clan."
+
+REFERENCE           CLANS_CLAN_INTEL
+LANG_ENGLISH           "Información del clan"
+
+REFERENCE           CLANS_CLAN_LEADER_CAPS
+LANG_ENGLISH           "COMANDANTE"
+
+REFERENCE           CLANS_CLAN_PAGE_CAPS
+LANG_ENGLISH           "PÁGINA DEL CLAN DE &&1"
+
+REFERENCE           CLANS_CLAN_POSITION
+LANG_ENGLISH           "Posición: &&1"
+
+REFERENCE           CLANS_CLAN_REWARD
+LANG_ENGLISH           "Recompensa de clan"
+
+REFERENCE           CLANS_CLAN_WARS_MVP
+LANG_ENGLISH           "Mejor jugador de G. de clanes"
+
+REFERENCE           CLANS_CLAN_WARS_WITH_NAME
+LANG_ENGLISH           "Guerra de clanes: &&1"
+
+REFERENCE           CLANS_CLAN_WAR_DETAILS
+LANG_ENGLISH           "Detalles de las guerras de clanes"
+
+REFERENCE           CLANS_CP_EARNED
+LANG_ENGLISH           "Total de CP ganados"
+
+REFERENCE           CLANS_CREATE
+LANG_ENGLISH           "Crear"
+
+REFERENCE           CLANS_CREATE_CLAN
+LANG_ENGLISH           "Crear un clan"
+
+REFERENCE           CLANS_CURRENT_WAR_POSITION
+LANG_ENGLISH           "Posición en guerra de clanes"
+
+REFERENCE           CLANS_CXP_AWARDED
+LANG_ENGLISH           "PX de clan (PXC) concedidos"
+
+REFERENCE           CLANS_DETAILS
+LANG_ENGLISH           "Detalles del clan"
+
+REFERENCE           CLANS_DIAMOND_DIVISION
+LANG_ENGLISH           "División de diamante"
+
+REFERENCE           CLANS_EDIT_CLAN_MOTTO
+LANG_ENGLISH           "Editar lema del clan"
+
+REFERENCE           CLANS_EDIT_CLAN_NAME
+LANG_ENGLISH           "Editar nombre del clan"
+
+REFERENCE           CLANS_EDIT_CLAN_TAG
+LANG_ENGLISH           "Editar insignia del clan"
+
+REFERENCE           CLANS_ENGAGED
+LANG_ENGLISH           "Atacando"
+
+REFERENCE           CLANS_ERROR_UPDATING
+LANG_ENGLISH           "Se produjo un error al intentar actualizar tu clan."
+
+REFERENCE           CLANS_GOLD_DIVISION
+LANG_ENGLISH           "División de oro"
+
+REFERENCE           CLANS_GOLD_TAG
+LANG_ENGLISH           "Insignia del clan dorada"
+
+REFERENCE           CLANS_GOLD_TAG_PLUS_TWO
+LANG_ENGLISH           "Insignia del clan dorada +2"
+
+REFERENCE           CLANS_GROUP_BATTALION
+LANG_ENGLISH           "Batallón"
+
+REFERENCE           CLANS_GROUP_LEGION
+LANG_ENGLISH           "Legión"
+
+REFERENCE           CLANS_GROUP_PLATOON
+LANG_ENGLISH           "Pelotón"
+
+REFERENCE           CLANS_GROUP_REGIMENT
+LANG_ENGLISH           "Regimiento"
+
+REFERENCE           CLANS_HIGH_KD_RATIO
+LANG_ENGLISH           "Prop. bajas/muertes alta"
+
+REFERENCE           CLANS_HOURS_PLAYED
+LANG_ENGLISH           "Horas jugadas"
+
+REFERENCE           CLANS_INVALIDCHARS
+LANG_ENGLISH           "Se eliminaron los personajes incompatibles."
+
+REFERENCE           CLANS_INVITATION_DETAILS
+LANG_ENGLISH           "Detalles de la invitación"
+
+REFERENCE           CLANS_INVITES
+LANG_ENGLISH           "Invitaciones"
+
+REFERENCE           CLANS_INVITE_RECENT_PLAYERS
+LANG_ENGLISH           "Invitar a jugadores recientes"
+
+REFERENCE           CLANS_INVITE_SENDER
+LANG_ENGLISH           "Remitente"
+
+REFERENCE           CLANS_INVITE_SENDER_RANK
+LANG_ENGLISH           "Rango del remitente"
+
+REFERENCE           CLANS_LAST_UNLOCK
+LANG_ENGLISH           "Último desbloqueo"
+
+REFERENCE           CLANS_LEADER
+LANG_ENGLISH           "Capitán general"
+
+REFERENCE           CLANS_LEADER_CANT_LEAVE
+LANG_ENGLISH           "Como comandante, tendrás que transferir la propiedad antes de dejar el clan.
+
+Descarga la aplicación de Call of Duty® para acceder a más opciones de gestión de clan."
+
+REFERENCE           CLANS_LEADER_LEAVE_CONFIRM
+LANG_ENGLISH           "¿Seguro que quieres abandonar este clan? Si lo haces, el clan se disolverá y quedará eliminado de las guerras de clanes. Descarga la aplicación de Call of Duty® para acceder a más opciones de gestión de clan."
+
+REFERENCE           CLANS_LEAVE_CLAN
+LANG_ENGLISH           "Abandonar clan"
+
+REFERENCE           CLANS_LEAVE_CONFIRM
+LANG_ENGLISH           "¿Seguro que quieres abandonar este clan?"
+
+REFERENCE           CLANS_LEAVE_FAIL
+LANG_ENGLISH           "Se produjo un error al intentar abandonar el clan."
+
+REFERENCE           CLANS_LEAVE_SUCCESS
+LANG_ENGLISH           "Abandonaste el clan con éxito."
+
+REFERENCE           CLANS_LEVEL_N
+LANG_ENGLISH           "Nivel &&1"
+
+REFERENCE           CLANS_MANAGE
+LANG_ENGLISH           "Gestionar"
+
+REFERENCE           CLANS_MANAGE_CLAN_CAPS
+LANG_ENGLISH           "GESTIONAR CLAN"
+
+REFERENCE           CLANS_MAX_LEVEL
+LANG_ENGLISH           "Nivel máximo"
+
+REFERENCE           CLANS_MOBILE_REMINDER
+LANG_ENGLISH           "Descarga ahora la aplicación de Call of Duty® para acceder a características adicionales. 
+Visita www.callofduty.com/app para obtener más información."
+
+REFERENCE           CLANS_MOST_HOURS_PLAYED
+LANG_ENGLISH           "Más activos"
+
+REFERENCE           CLANS_MVP
+LANG_ENGLISH           "Mejor jugador del clan"
+
+REFERENCE           CLANS_MY_BANK
+LANG_ENGLISH           "Mi banco"
+
+REFERENCE           CLANS_MY_CLAN
+LANG_ENGLISH           "Mi clan"
+
+REFERENCE           CLANS_NAME_YOUR_CLAN
+LANG_ENGLISH           "Ponle nombre a tu clan"
+
+REFERENCE           CLANS_NEW_CALLING_CARD
+LANG_ENGLISH           "Nueva tarjeta de visita"
+
+REFERENCE           CLANS_NEW_CALLING_CARD_PLUS_ONE
+LANG_ENGLISH           "Nueva tarjeta de visita +1"
+
+REFERENCE           CLANS_NEW_CLAN_BACKGROUND
+LANG_ENGLISH           "Nueva tarjeta de clan"
+
+REFERENCE           CLANS_NEW_CLAN_BACKGROUND_PLUS_ONE
+LANG_ENGLISH           "Nueva tarjeta de clan +1"
+
+REFERENCE           CLANS_NODES_HELD
+LANG_ENGLISH           "Nodos controlados"
+
+REFERENCE           CLANS_NODE_BLITZ
+LANG_ENGLISH           "ATAQUE FULMINANTE"
+
+REFERENCE           CLANS_NODE_CONF
+LANG_ENGLISH           "BC"
+
+REFERENCE           CLANS_NODE_CRANKED
+LANG_ENGLISH           "FRENÉTICO"
+
+REFERENCE           CLANS_NODE_DOM
+LANG_ENGLISH           "DOM"
+
+REFERENCE           CLANS_NODE_HC_CONF
+LANG_ENGLISH           "BC ex"
+
+REFERENCE           CLANS_NODE_HC_DOM
+LANG_ENGLISH           "DOM ex"
+
+REFERENCE           CLANS_NODE_HC_SR
+LANG_ENGLISH           "BYR ex"
+
+REFERENCE           CLANS_NODE_HC_TDM
+LANG_ENGLISH           "DE ex"
+
+REFERENCE           CLANS_NODE_INFECT
+LANG_ENGLISH           "INFECTAR"
+
+REFERENCE           CLANS_NODE_SD
+LANG_ENGLISH           "BYD"
+
+REFERENCE           CLANS_NODE_SOTF
+LANG_ENGLISH           "HUNTED"
+
+REFERENCE           CLANS_NODE_SR
+LANG_ENGLISH           "BYR"
+
+REFERENCE           CLANS_NODE_WAR
+LANG_ENGLISH           "DE"
+
+REFERENCE           CLANS_NOT_IN_CLAN_HEADER
+LANG_ENGLISH           "¡No estás en un clan!"
+
+REFERENCE           CLANS_NOT_IN_CLAN_HEADER_CAPS
+LANG_ENGLISH           "NO ESTÁS EN UN CLAN"
+
+REFERENCE           CLANS_NOT_IN_CLAN_TEXT
+LANG_ENGLISH           "Ahora mismo no estás en un clan. Unirte a un clan te permite acceder a ventajas y modos de juego exclusivos."
+
+REFERENCE           CLANS_NO_BONUSES
+LANG_ENGLISH           "No hay bonificación disponible"
+
+REFERENCE           CLANS_NO_CLAN_INVITES
+LANG_ENGLISH           "No hay invitaciones de clan"
+
+REFERENCE           CLANS_NO_CLAN_MOTTO
+LANG_ENGLISH           "<Sin lema del clan>"
+
+REFERENCE           CLANS_NO_CLAN_TAG
+LANG_ENGLISH           "<Sin insignia del clan>"
+
+REFERENCE           CLANS_NO_SPECIAL_CHARACTERS
+LANG_ENGLISH           "Sin caracteres especiales, excepto espacios"
+
+REFERENCE           CLANS_OFFENSIVENAME
+LANG_ENGLISH           "Nombre del clan rechazado por presencia de texto prohibido"
+
+REFERENCE           CLANS_PLATINUM_DIVISION
+LANG_ENGLISH           "División de platino"
+
+REFERENCE           CLANS_PLAYER_ALREADY_IN_CLAN
+LANG_ENGLISH           "Este jugador ya está en tu clan."
+
+REFERENCE           CLANS_PLAYLIST_MODIFIER
+LANG_ENGLISH           "Bonificación del &&1% en guerras de clanes para &&2."
+
+REFERENCE           CLANS_POINTS
+LANG_ENGLISH           "Puntos"
+
+REFERENCE           CLANS_POSITION_CHANGE_FAIL
+LANG_ENGLISH           "Se produjo un error al intentar actualizar la posición del miembro del clan."
+
+REFERENCE           CLANS_POSITION_CHANGE_SUCCESS
+LANG_ENGLISH           "La posición del miembro del clan se actualizó correctamente."
+
+REFERENCE           CLANS_RED_TAG
+LANG_ENGLISH           "Roja"
+
+REFERENCE           CLANS_ROSTER
+LANG_ENGLISH           "Gregarios del clan"
+
+REFERENCE           CLANS_SAVE_CHANGES
+LANG_ENGLISH           "¿Quieres guardar los cambios de tu clan?"
+
+REFERENCE           CLANS_SET_AS_CLAN_EMBLEM
+LANG_ENGLISH           "Establecer como emblema de clan"
+
+REFERENCE           CLANS_SILVER_DIVISION
+LANG_ENGLISH           "División de plata"
+
+REFERENCE           CLANS_STATUS_COLEADER
+LANG_ENGLISH           "Teniente comandante"
+
+REFERENCE           CLANS_STATUS_COLEADER_DESC
+LANG_ENGLISH           "Los tenientes comandantes pueden invitar a otros jugadores al clan y editar los ajustes del perfil."
+
+REFERENCE           CLANS_STATUS_MEMBER
+LANG_ENGLISH           "Soldado"
+
+REFERENCE           CLANS_STATUS_MEMBER_DESC
+LANG_ENGLISH           "Los soldados pueden participar en guerras de clanes."
+
+REFERENCE           CLANS_STATUS_MEMBER_DESC_PC
+LANG_ENGLISH           "Los soldados pueden competir."
+
+REFERENCE           CLANS_SUCCESS_UPDATING
+LANG_ENGLISH           "Clan actualizado con éxito."
+
+REFERENCE           CLANS_TOKENS
+LANG_ENGLISH           "Fichas de clan"
+
+REFERENCE           CLANS_TOTAL_CP
+LANG_ENGLISH           "CP totales: &&1"
+
+REFERENCE           CLANS_TOTAL_NODES_HELD
+LANG_ENGLISH           "Total de nodos en posesión: &&1"
+
+REFERENCE           CLANS_TRANSFER_LEADERSHIP_CONFIRM
+LANG_ENGLISH           "¿Seguro que quieres transferir la propiedad de tu clan?"
+
+REFERENCE           CLANS_TRANSFER_OWNERSHIP
+LANG_ENGLISH           "Transferir propiedad"
+
+REFERENCE           CLANS_TRANSFER_OWNER_FAIL
+LANG_ENGLISH           "Se produjo un error al transferir la propiedad."
+
+REFERENCE           CLANS_TRANSFER_OWNER_SUCCESS
+LANG_ENGLISH           "Propiedad transferida con éxito. Ahora eres teniente comandante."
+
+REFERENCE           CLANS_UNLOCKED_VIA_CLAN_PROGRESSION
+LANG_ENGLISH           "Se desbloquea al subir de nivel en el clan."
+
+REFERENCE           CLANS_UNRANKED
+LANG_ENGLISH           "Sin rango"
+
+REFERENCE           CLANS_VIEW_CLAN
+LANG_ENGLISH           "Ver clan"
+
+REFERENCE           CLANS_WARS_RANK
+LANG_ENGLISH           "Rango de guerras de clanes"
+
+REFERENCE           CLANS_WARS_WON
+LANG_ENGLISH           "Guerras ganadas"
+
+REFERENCE           CLANS_WAR_ENGINE
+LANG_ENGLISH           "Motor de guerra"
+
+REFERENCE           CLANS_WAR_PERCENT_BONUS
+LANG_ENGLISH           "&&1%"
+
+REFERENCE           CLANS_XP_EARNED
+LANG_ENGLISH           "&&1 PXC obtenidos"
+
+REFERENCE           CLANS_XP_TO_NEXT
+LANG_ENGLISH           "&&1 PXC necesarios"
+
+REFERENCE           CLANS_YOU_ARE_A_MEMBER_CAPS
+LANG_ENGLISH           "* ERES MIEMBRO DE ESTE CLAN"
+
+REFERENCE           ESPORTS_1_ATTACKER_ALIVE
+LANG_ENGLISH           "1 atacante vivo"
+
+REFERENCE           ESPORTS_1_DEFENDER_ALIVE
+LANG_ENGLISH           "1 defensor vivo"
+
+REFERENCE           ESPORTS_1_PLAYER_ALIVE
+LANG_ENGLISH           "1 jugador vivo"
+
+REFERENCE           ESPORTS_BROWSE_PLAYERS
+LANG_ENGLISH           "Ver jugadores"
+
+REFERENCE           ESPORTS_CHANGE_VIEW
+LANG_ENGLISH           "Cambiar vista"
+
+REFERENCE           ESPORTS_COD_VISION
+LANG_ENGLISH           "CODVision"
+
+REFERENCE           ESPORTS_CTF_AT_BASE
+LANG_ENGLISH           "En la base"
+
+REFERENCE           ESPORTS_CTF_AWAY
+LANG_ENGLISH           "Ausente"
+
+REFERENCE           ESPORTS_CTF_DROPPED
+LANG_ENGLISH           "Soltada"
+
+REFERENCE           ESPORTS_CYCLE_LOADOUT
+LANG_ENGLISH           "Cambiar armamento"
+
+REFERENCE           ESPORTS_CYCLE_PLAYERS
+LANG_ENGLISH           "Cambiar jugadores"
+
+REFERENCE           ESPORTS_FIRST_PERSON
+LANG_ENGLISH           "Primera persona"
+
+REFERENCE           ESPORTS_FOCUS_SCOREBOARD
+LANG_ENGLISH           "Pasar a panel de puntos"
+
+REFERENCE           ESPORTS_FREE_CAMERA
+LANG_ENGLISH           "Cámara libre"
+
+REFERENCE           ESPORTS_HARDPOINT_1_PLAYER
+LANG_ENGLISH           "1 jugador"
+
+REFERENCE           ESPORTS_HARDPOINT_N_PLAYERS
+LANG_ENGLISH           "&&1 jugadores"
+
+REFERENCE           ESPORTS_HIDE_HELPER
+LANG_ENGLISH           "Leyenda"
+
+REFERENCE           ESPORTS_HIDE_PLAYER_HUD
+LANG_ENGLISH           "Ocultar HUD de jugador"
+
+REFERENCE           ESPORTS_MINIMAP
+LANG_ENGLISH           "Minimapa"
+
+REFERENCE           ESPORTS_N_ATTACKERS_ALIVE
+LANG_ENGLISH           "&&1 atacantes vivos"
+
+REFERENCE           ESPORTS_N_DEFENDERS_ALIVE
+LANG_ENGLISH           "&&1 defensores vivos"
+
+REFERENCE           ESPORTS_N_PLAYERS_ALIVE
+LANG_ENGLISH           "&&1 jugadores vivos"
+
+REFERENCE           ESPORTS_PERKS
+LANG_ENGLISH           "Ventajas"
+
+REFERENCE           ESPORTS_PLAYER
+LANG_ENGLISH           "JUGADOR"
+
+REFERENCE           ESPORTS_SCORESTREAKS
+LANG_ENGLISH           "Rachas de bajas"
+
+REFERENCE           ESPORTS_SELECT_PLAYER
+LANG_ENGLISH           "Elegir jugador"
+
+REFERENCE           ESPORTS_SHOW_PLAYER_HUD
+LANG_ENGLISH           "Mostrar HUD de jugador"
+
+REFERENCE           ESPORTS_THIRD_PERSON
+LANG_ENGLISH           "Tercera persona"
+
+REFERENCE           ESPORTS_TOGGLE_LARGE_SCOREBOARD
+LANG_ENGLISH           "Marcador grande"
+
+REFERENCE           ESPORTS_TOGGLE_SCOREBOARD
+LANG_ENGLISH           "Panel de puntos"
+
+REFERENCE           ESPORTS_UNFOCUS_SCOREBOARD
+LANG_ENGLISH           "Ocultar panel de puntos"
+
+ENDMARKER

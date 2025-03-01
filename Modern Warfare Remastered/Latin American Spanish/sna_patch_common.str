@@ -1,0 +1,4166 @@
+// Dumped from fastfile "sna_patch_common".
+// In their original format the strings might have been separated in multiple files.
+
+REFERENCE           CLANS_ACTIVE_BONUSES
+LANG_ENGLISH           "Bonificaciones activas en el juego"
+
+REFERENCE           CLANS_ACTIVE_TARGET
+LANG_ENGLISH           "Blanco activo"
+
+REFERENCE           CLANS_ACTIVE_TARGET_LABEL
+LANG_ENGLISH           "Blanco activo: &&1"
+
+REFERENCE           CLANS_BONUS_NAME_PERCENT
+LANG_ENGLISH           "&&1 &&2%"
+
+REFERENCE           CLANS_BRONZE_DIVISION
+LANG_ENGLISH           "División de bronce"
+
+REFERENCE           CLANS_CHANGE_MEMBER_STATUS
+LANG_ENGLISH           "Cambiar estado de miembro"
+
+REFERENCE           CLANS_CHANGE_MOTTO
+LANG_ENGLISH           "Cambiar lema"
+
+REFERENCE           CLANS_CHANGE_TAG
+LANG_ENGLISH           "Opciones de insignia"
+
+REFERENCE           CLANS_CLANNAME
+LANG_ENGLISH           "Nombre del clan:"
+
+REFERENCE           CLANS_CLANS
+LANG_ENGLISH           "Clanes"
+
+REFERENCE           CLANS_CLANTAG
+LANG_ENGLISH           "Insignia del clan:"
+
+REFERENCE           CLANS_CLAN_BANK
+LANG_ENGLISH           "Banco del clan"
+
+REFERENCE           CLANS_CLAN_CALL_TO_ACTION
+LANG_ENGLISH           "Para más opciones de clan, descarga la aplicación de Call of Duty®."
+
+REFERENCE           CLANS_CLAN_DETAILS
+LANG_ENGLISH           "Detalles del clan"
+
+REFERENCE           CLANS_CLAN_DETAILS_DESC_TEXT
+LANG_ENGLISH           "Ver información sobre tu clan."
+
+REFERENCE           CLANS_CLAN_INTEL
+LANG_ENGLISH           "Información del clan"
+
+REFERENCE           CLANS_CLAN_LEADER_CAPS
+LANG_ENGLISH           "COMANDANTE"
+
+REFERENCE           CLANS_CLAN_PAGE_CAPS
+LANG_ENGLISH           "PÁGINA DEL CLAN DE &&1"
+
+REFERENCE           CLANS_CLAN_POSITION
+LANG_ENGLISH           "Posición: &&1"
+
+REFERENCE           CLANS_CLAN_REWARD
+LANG_ENGLISH           "Recompensa de clan"
+
+REFERENCE           CLANS_CLAN_WARS_MVP
+LANG_ENGLISH           "Mejor jugador de G. de clanes"
+
+REFERENCE           CLANS_CLAN_WARS_WITH_NAME
+LANG_ENGLISH           "Guerra de clanes: &&1"
+
+REFERENCE           CLANS_CLAN_WAR_DETAILS
+LANG_ENGLISH           "Detalles de las guerras de clanes"
+
+REFERENCE           CLANS_CP_EARNED
+LANG_ENGLISH           "Total de CP ganados"
+
+REFERENCE           CLANS_CREATE
+LANG_ENGLISH           "Crear"
+
+REFERENCE           CLANS_CREATE_CLAN
+LANG_ENGLISH           "Crear un clan"
+
+REFERENCE           CLANS_CURRENT_WAR_POSITION
+LANG_ENGLISH           "Posición en guerra de clanes"
+
+REFERENCE           CLANS_CXP_AWARDED
+LANG_ENGLISH           "PX de clan (PXC) concedidos"
+
+REFERENCE           CLANS_DETAILS
+LANG_ENGLISH           "Detalles del clan"
+
+REFERENCE           CLANS_DIAMOND_DIVISION
+LANG_ENGLISH           "División de diamante"
+
+REFERENCE           CLANS_EDIT_CLAN_MOTTO
+LANG_ENGLISH           "Editar lema del clan"
+
+REFERENCE           CLANS_EDIT_CLAN_NAME
+LANG_ENGLISH           "Editar nombre del clan"
+
+REFERENCE           CLANS_EDIT_CLAN_TAG
+LANG_ENGLISH           "Editar insignia del clan"
+
+REFERENCE           CLANS_ENGAGED
+LANG_ENGLISH           "Atacando"
+
+REFERENCE           CLANS_ERROR_UPDATING
+LANG_ENGLISH           "Se produjo un error al intentar actualizar tu clan."
+
+REFERENCE           CLANS_GOLD_DIVISION
+LANG_ENGLISH           "División de oro"
+
+REFERENCE           CLANS_GOLD_TAG
+LANG_ENGLISH           "Insignia del clan dorada"
+
+REFERENCE           CLANS_GOLD_TAG_PLUS_TWO
+LANG_ENGLISH           "Insignia del clan dorada +2"
+
+REFERENCE           CLANS_GROUP_BATTALION
+LANG_ENGLISH           "Batallón"
+
+REFERENCE           CLANS_GROUP_LEGION
+LANG_ENGLISH           "Legión"
+
+REFERENCE           CLANS_GROUP_PLATOON
+LANG_ENGLISH           "Pelotón"
+
+REFERENCE           CLANS_GROUP_REGIMENT
+LANG_ENGLISH           "Regimiento"
+
+REFERENCE           CLANS_HIGH_KD_RATIO
+LANG_ENGLISH           "Prop. bajas/muertes alta"
+
+REFERENCE           CLANS_HOURS_PLAYED
+LANG_ENGLISH           "Horas jugadas"
+
+REFERENCE           CLANS_INVALIDCHARS
+LANG_ENGLISH           "Se eliminaron los personajes incompatibles."
+
+REFERENCE           CLANS_INVITATION_DETAILS
+LANG_ENGLISH           "Detalles de la invitación"
+
+REFERENCE           CLANS_INVITES
+LANG_ENGLISH           "Invitaciones"
+
+REFERENCE           CLANS_INVITE_RECENT_PLAYERS
+LANG_ENGLISH           "Invitar a jugadoresrecientes"
+
+REFERENCE           CLANS_INVITE_SENDER
+LANG_ENGLISH           "Remitente"
+
+REFERENCE           CLANS_INVITE_SENDER_RANK
+LANG_ENGLISH           "Rango delremitente"
+
+REFERENCE           CLANS_LAST_UNLOCK
+LANG_ENGLISH           "Último desbloqueo"
+
+REFERENCE           CLANS_LEADER
+LANG_ENGLISH           "Capitán general"
+
+REFERENCE           CLANS_LEADER_CANT_LEAVE
+LANG_ENGLISH           "Como comandante, tendrás que transferir la propiedad antes de dejar el clan.
+
+Descarga la aplicación de Call of Duty® para acceder a más opciones de gestión de clan."
+
+REFERENCE           CLANS_LEADER_LEAVE_CONFIRM
+LANG_ENGLISH           "¿Seguro que quieres abandonar este clan? Si lo haces, el clan se disolverá y quedará eliminado de las guerras de clanes. Descarga la aplicación de Call of Duty® para acceder a más opciones de gestión de clan."
+
+REFERENCE           CLANS_LEAVE_CLAN
+LANG_ENGLISH           "Abandonar clan"
+
+REFERENCE           CLANS_LEAVE_CONFIRM
+LANG_ENGLISH           "¿Seguro que quieres abandonar este clan?"
+
+REFERENCE           CLANS_LEAVE_FAIL
+LANG_ENGLISH           "Se produjo un error al intentar abandonar el clan."
+
+REFERENCE           CLANS_LEAVE_SUCCESS
+LANG_ENGLISH           "Abandonaste el clan con éxito."
+
+REFERENCE           CLANS_LEVEL_N
+LANG_ENGLISH           "Nivel &&1"
+
+REFERENCE           CLANS_MANAGE
+LANG_ENGLISH           "Gestionar"
+
+REFERENCE           CLANS_MANAGE_CLAN_CAPS
+LANG_ENGLISH           "GESTIONAR CLAN"
+
+REFERENCE           CLANS_MAX_LEVEL
+LANG_ENGLISH           "Nivel máximo"
+
+REFERENCE           CLANS_MOBILE_REMINDER
+LANG_ENGLISH           "Descarga ahora la aplicación de Call of Duty® para acceder a características adicionales. 
+Visita www.callofduty.com/app para obtener más información."
+
+REFERENCE           CLANS_MOST_HOURS_PLAYED
+LANG_ENGLISH           "Más activos"
+
+REFERENCE           CLANS_MVP
+LANG_ENGLISH           "Mejor jugador del clan"
+
+REFERENCE           CLANS_MY_BANK
+LANG_ENGLISH           "Mi banco"
+
+REFERENCE           CLANS_MY_CLAN
+LANG_ENGLISH           "Mi clan"
+
+REFERENCE           CLANS_NAME_YOUR_CLAN
+LANG_ENGLISH           "Ponle nombre a tu clan"
+
+REFERENCE           CLANS_NEW_CALLING_CARD
+LANG_ENGLISH           "Nueva tarjeta de visita"
+
+REFERENCE           CLANS_NEW_CALLING_CARD_PLUS_ONE
+LANG_ENGLISH           "Nueva tarjeta de visita +1"
+
+REFERENCE           CLANS_NEW_CLAN_BACKGROUND
+LANG_ENGLISH           "Nueva tarjeta de clan"
+
+REFERENCE           CLANS_NEW_CLAN_BACKGROUND_PLUS_ONE
+LANG_ENGLISH           "Nueva tarjeta de clan +1"
+
+REFERENCE           CLANS_NODES_HELD
+LANG_ENGLISH           "Nodos controlados"
+
+REFERENCE           CLANS_NODE_BLITZ
+LANG_ENGLISH           "ATAQUE FULMINANTE"
+
+REFERENCE           CLANS_NODE_CONF
+LANG_ENGLISH           "BC"
+
+REFERENCE           CLANS_NODE_CRANKED
+LANG_ENGLISH           "FRENÉTICO"
+
+REFERENCE           CLANS_NODE_DOM
+LANG_ENGLISH           "DOM"
+
+REFERENCE           CLANS_NODE_HC_CONF
+LANG_ENGLISH           "BC ex"
+
+REFERENCE           CLANS_NODE_HC_DOM
+LANG_ENGLISH           "DOM ex"
+
+REFERENCE           CLANS_NODE_HC_SR
+LANG_ENGLISH           "BYR ex"
+
+REFERENCE           CLANS_NODE_HC_TDM
+LANG_ENGLISH           "DE ex"
+
+REFERENCE           CLANS_NODE_INFECT
+LANG_ENGLISH           "INFECTAR"
+
+REFERENCE           CLANS_NODE_SD
+LANG_ENGLISH           "BYD"
+
+REFERENCE           CLANS_NODE_SOTF
+LANG_ENGLISH           "HUNTED"
+
+REFERENCE           CLANS_NODE_SR
+LANG_ENGLISH           "BYR"
+
+REFERENCE           CLANS_NODE_WAR
+LANG_ENGLISH           "DE"
+
+REFERENCE           CLANS_NOT_IN_CLAN_HEADER
+LANG_ENGLISH           "¡No estás en un clan!"
+
+REFERENCE           CLANS_NOT_IN_CLAN_HEADER_CAPS
+LANG_ENGLISH           "NO ESTÁS EN UN CLAN"
+
+REFERENCE           CLANS_NOT_IN_CLAN_TEXT
+LANG_ENGLISH           "Ahora mismo no estás en un clan. Unirte a un clan te permite acceder a ventajas y modos de juego exclusivos."
+
+REFERENCE           CLANS_NO_BONUSES
+LANG_ENGLISH           "No hay bonificación disponible"
+
+REFERENCE           CLANS_NO_CLAN_INVITES
+LANG_ENGLISH           "No hay invitaciones de clan"
+
+REFERENCE           CLANS_NO_CLAN_MOTTO
+LANG_ENGLISH           "<Sin lema del clan>"
+
+REFERENCE           CLANS_NO_CLAN_TAG
+LANG_ENGLISH           "<Sin insignia del clan>"
+
+REFERENCE           CLANS_NO_SPECIAL_CHARACTERS
+LANG_ENGLISH           "Sin caracteres especiales, excepto espacios"
+
+REFERENCE           CLANS_OFFENSIVENAME
+LANG_ENGLISH           "Nombre del clanrechazado por presencia de texto prohibido"
+
+REFERENCE           CLANS_PLATINUM_DIVISION
+LANG_ENGLISH           "División de platino"
+
+REFERENCE           CLANS_PLAYER_ALREADY_IN_CLAN
+LANG_ENGLISH           "Este jugador ya está en tu clan."
+
+REFERENCE           CLANS_PLAYLIST_MODIFIER
+LANG_ENGLISH           "Bonificación del &&1% en guerras de clanes para &&2."
+
+REFERENCE           CLANS_POINTS
+LANG_ENGLISH           "Puntos"
+
+REFERENCE           CLANS_POSITION_CHANGE_FAIL
+LANG_ENGLISH           "Se produjo un error al intentar actualizar la posición del miembro del clan."
+
+REFERENCE           CLANS_POSITION_CHANGE_SUCCESS
+LANG_ENGLISH           "La posición del miembro del clan se actualizó correctamente."
+
+REFERENCE           CLANS_RED_TAG
+LANG_ENGLISH           "Roja"
+
+REFERENCE           CLANS_ROSTER
+LANG_ENGLISH           "Gregarios del clan"
+
+REFERENCE           CLANS_SAVE_CHANGES
+LANG_ENGLISH           "¿Quieres guardar los cambios de tu clan?"
+
+REFERENCE           CLANS_SET_AS_CLAN_EMBLEM
+LANG_ENGLISH           "Establecer como emblema de clan"
+
+REFERENCE           CLANS_SILVER_DIVISION
+LANG_ENGLISH           "División de plata"
+
+REFERENCE           CLANS_STATUS_COLEADER
+LANG_ENGLISH           "Teniente comandante"
+
+REFERENCE           CLANS_STATUS_COLEADER_DESC
+LANG_ENGLISH           "Los tenientes comandantes pueden invitar a otros jugadores al clan y editar los ajustes del perfil."
+
+REFERENCE           CLANS_STATUS_MEMBER
+LANG_ENGLISH           "Soldado"
+
+REFERENCE           CLANS_STATUS_MEMBER_DESC
+LANG_ENGLISH           "Los soldados pueden participar en guerras de clanes."
+
+REFERENCE           CLANS_STATUS_MEMBER_DESC_PC
+LANG_ENGLISH           "Los soldados pueden competir."
+
+REFERENCE           CLANS_SUCCESS_UPDATING
+LANG_ENGLISH           "Clan actualizado con éxito."
+
+REFERENCE           CLANS_TOKENS
+LANG_ENGLISH           "Fichas de clan"
+
+REFERENCE           CLANS_TOTAL_CP
+LANG_ENGLISH           "CP totales: &&1"
+
+REFERENCE           CLANS_TOTAL_NODES_HELD
+LANG_ENGLISH           "Total de nodos en posesión: &&1"
+
+REFERENCE           CLANS_TRANSFER_LEADERSHIP_CONFIRM
+LANG_ENGLISH           "¿Seguro que quieres transferir la propiedad de tu clan?"
+
+REFERENCE           CLANS_TRANSFER_OWNERSHIP
+LANG_ENGLISH           "Transferir propiedad"
+
+REFERENCE           CLANS_TRANSFER_OWNER_FAIL
+LANG_ENGLISH           "Se produjo un error al transferir la propiedad."
+
+REFERENCE           CLANS_TRANSFER_OWNER_SUCCESS
+LANG_ENGLISH           "Propiedad transferida con éxito. Ahora eres teniente comandante."
+
+REFERENCE           CLANS_UNLOCKED_VIA_CLAN_PROGRESSION
+LANG_ENGLISH           "Se desbloquea al subir de nivel en el clan."
+
+REFERENCE           CLANS_UNRANKED
+LANG_ENGLISH           "Sin rango"
+
+REFERENCE           CLANS_VIEW_CLAN
+LANG_ENGLISH           "Ver clan"
+
+REFERENCE           CLANS_WARS_RANK
+LANG_ENGLISH           "Rango de guerras de clanes"
+
+REFERENCE           CLANS_WARS_WON
+LANG_ENGLISH           "Guerras ganadas"
+
+REFERENCE           CLANS_WAR_ENGINE
+LANG_ENGLISH           "Motor de guerra"
+
+REFERENCE           CLANS_WAR_PERCENT_BONUS
+LANG_ENGLISH           "&&1%"
+
+REFERENCE           CLANS_XP_EARNED
+LANG_ENGLISH           "&&1 PXC obtenidos"
+
+REFERENCE           CLANS_XP_TO_NEXT
+LANG_ENGLISH           "&&1 PXC necesarios"
+
+REFERENCE           CLANS_YOU_ARE_A_MEMBER_CAPS
+LANG_ENGLISH           "* ERES MIEMBRO DE ESTE CLAN"
+
+REFERENCE           DEADQUOTE_AIM_TOWARDS_THE_ENEMY
+LANG_ENGLISH           ""Apúntese hacia el enemigo"."
+
+REFERENCE           DEADQUOTE_AIM_TOWARDS_THE_ENEMY_AUTHOR
+LANG_ENGLISH           "- Instrucción en lanzacohetes estadounidense"
+
+REFERENCE           DEADQUOTE_ALL_THAT_IS_NECESSARY
+LANG_ENGLISH           ""Lo único que necesita el mal para triunfar es que los hombres buenos no hagan nada"."
+
+REFERENCE           DEADQUOTE_ALL_THAT_IS_NECESSARY_AUTHOR
+LANG_ENGLISH           "- Edmund Burke"
+
+REFERENCE           DEADQUOTE_ALL_WARFARE_IS_BASED
+LANG_ENGLISH           ""Toda guerra se basa en la mentira"."
+
+REFERENCE           DEADQUOTE_ALL_WARFARE_IS_BASED_AUTHOR
+LANG_ENGLISH           "- Sun Tzu"
+
+REFERENCE           DEADQUOTE_ANYONE_WHO_TRULY_WANTS
+LANG_ENGLISH           ""¡Si alguien quiere ir a la guerra es que no ha estado allí antes!"."
+
+REFERENCE           DEADQUOTE_ANYONE_WHO_TRULY_WANTS_AUTHOR
+LANG_ENGLISH           "- LarryReeves"
+
+REFERENCE           DEADQUOTE_ANY_MILITARY_COMMANDER
+LANG_ENGLISH           ""Todo jefe militar que sea sinceroreconocerá que comete errores al aplicar el poderío militar"."
+
+REFERENCE           DEADQUOTE_ANY_MILITARY_COMMANDER_AUTHOR
+LANG_ENGLISH           "- Robert McNamara"
+
+REFERENCE           DEADQUOTE_ANY_SOLDIER_WORTH_HIS
+LANG_ENGLISH           ""Todo soldado que se precie debería oponerse a la guerra. Aun así, aún hay cosas por las que vale la pena luchar"."
+
+REFERENCE           DEADQUOTE_ANY_SOLDIER_WORTH_HIS_AUTHOR
+LANG_ENGLISH           "- General Norman Schwarzkopf"
+
+REFERENCE           DEADQUOTE_A_LEADER_LEADS_BY_EXAMPLE
+LANG_ENGLISH           ""Un líder da ejemplo, no se impone por la fuerza"."
+
+REFERENCE           DEADQUOTE_A_LEADER_LEADS_BY_EXAMPLE_AUTHOR
+LANG_ENGLISH           "- Sun Tzu"
+
+REFERENCE           DEADQUOTE_A_MAN_MAY_DIE_NATIONS
+LANG_ENGLISH           ""Los hombres mueren, las naciones ascienden y caen, pero las ideas sobreviven"."
+
+REFERENCE           DEADQUOTE_A_MAN_MAY_DIE_NATIONS_AUTHOR
+LANG_ENGLISH           "- John F. Kennedy"
+
+REFERENCE           DEADQUOTE_A_SHIP_WITHOUT_MARINES
+LANG_ENGLISH           ""Un buque sin marines es como un traje sin botones"."
+
+REFERENCE           DEADQUOTE_A_SHIP_WITHOUT_MARINES_AUTHOR
+LANG_ENGLISH           "- Almirante David D. Porter, Armada de los EE. UU."
+
+REFERENCE           DEADQUOTE_A_SLIPPING_GEAR_COULD
+LANG_ENGLISH           ""Si se te suelta un pasador, puede que el lanzagranadas M203 se dispare cuando menos te lo esperes. Eso terestaría bastante popularidad entre los sobrevivientes de tu unidad"."
+
+REFERENCE           DEADQUOTE_A_SLIPPING_GEAR_COULD_AUTHOR
+LANG_ENGLISH           "-Revista de mantenimiento preventivo del ejército"
+
+REFERENCE           DEADQUOTE_BREAKING_RULES
+LANG_ENGLISH           ""Se terecordará por lasreglas quebrantadas, no por las obedecidas"."
+
+REFERENCE           DEADQUOTE_BREAKING_RULES_AUTHOR
+LANG_ENGLISH           "- Gen. Douglas MacArthur"
+
+REFERENCE           DEADQUOTE_CLUSTER_BOMBING_FROM
+LANG_ENGLISH           ""Los bombardeos de racimo con B-52 son muy precisos. Las bombas siempre llegan al suelo"."
+
+REFERENCE           DEADQUOTE_CLUSTER_BOMBING_FROM_AUTHOR
+LANG_ENGLISH           "- Tropa de Munición de la Fuerza Aérea de los EE. UU."
+
+REFERENCE           DEADQUOTE_CONCENTRATED_POWER_HAS
+LANG_ENGLISH           ""La concentración de poder siempre ha sido enemiga de la libertad"."
+
+REFERENCE           DEADQUOTE_CONCENTRATED_POWER_HAS_AUTHOR
+LANG_ENGLISH           "- RonaldReagan"
+
+REFERENCE           DEADQUOTE_COST_AC130U
+LANG_ENGLISH           "Precio de un avión de combate AC-130U: $190 millones"
+
+REFERENCE           DEADQUOTE_COST_B2_BOMBER
+LANG_ENGLISH           "Precio de un bombardero B-2: $2200 millones"
+
+REFERENCE           DEADQUOTE_COST_F117A
+LANG_ENGLISH           "Precio de un F-117A Nighthawk: $122 millones"
+
+REFERENCE           DEADQUOTE_COST_F22
+LANG_ENGLISH           "Precio de un F-22 Raptor: $135 millones"
+
+REFERENCE           DEADQUOTE_COST_JAVELIN
+LANG_ENGLISH           "Precio de un misil Javelin: $80 000"
+
+REFERENCE           DEADQUOTE_COST_TOMAHAWK
+LANG_ENGLISH           "Precio de un misil de crucero Tomahawk: $900 000"
+
+REFERENCE           DEADQUOTE_DIPLOMATS_ARE_JUST_AS
+LANG_ENGLISH           ""Los diplomáticos son tan necesarios para iniciar una guerra como los soldados para acabarla"."
+
+REFERENCE           DEADQUOTE_DIPLOMATS_ARE_JUST_AS_AUTHOR
+LANG_ENGLISH           "- Will Rogers"
+
+REFERENCE           DEADQUOTE_DOING_EVIL_FOR_GOOD
+LANG_ENGLISH           ""En la guerra siempre se hace el mal con la esperanza de que elresultado sea bueno"."
+
+REFERENCE           DEADQUOTE_DOING_EVIL_FOR_GOOD_AUTHOR
+LANG_ENGLISH           "- Sir Basil H. Liddel-Hart"
+
+REFERENCE           DEADQUOTE_DO_NOTHING
+LANG_ENGLISH           ""Lo único que hace falta para que el mal triunfe es que los hombres buenos no hagan nada"."
+
+REFERENCE           DEADQUOTE_DO_NOTHING_AUTHOR
+LANG_ENGLISH           "- Edmund Burke"
+
+REFERENCE           DEADQUOTE_ENTRUST_FREEDOM
+LANG_ENGLISH           ""La historia no suele confiar el cuidado de la libertad a los débiles ni a los tímidos por mucho tiempo"."
+
+REFERENCE           DEADQUOTE_ENTRUST_FREEDOM_AUTHOR
+LANG_ENGLISH           "- Dwight D. Eisenhower"
+
+REFERENCE           DEADQUOTE_EVERY_TYRANT_WHO_HAS
+LANG_ENGLISH           ""Todos los tiranos creen en la libertad... en la suya"."
+
+REFERENCE           DEADQUOTE_EVERY_TYRANT_WHO_HAS_AUTHOR
+LANG_ENGLISH           "- Elbert Hubbard"
+
+REFERENCE           DEADQUOTE_FIVE_SECOND_FUSES_ONLY
+LANG_ENGLISH           ""Las mechas de cinco segundos solo duran tres"."
+
+REFERENCE           DEADQUOTE_FIVE_SECOND_FUSES_ONLY_AUTHOR
+LANG_ENGLISH           "- Diario de Infantería"
+
+REFERENCE           DEADQUOTE_FREEDOM_IS_NOT_FREE_BUT
+LANG_ENGLISH           ""La libertad no es gratuita, pero el cuerpo de marines paga casi todos los plazos"."
+
+REFERENCE           DEADQUOTE_FREEDOM_IS_NOT_FREE_BUT_AUTHOR
+LANG_ENGLISH           "- Ned Dolan"
+
+REFERENCE           DEADQUOTE_FRIENDLY_FIRE_ISNT_UNKNOWN
+LANG_ENGLISH           ""El fuego amigo no lo es en absoluto"."
+
+REFERENCE           DEADQUOTE_FRIENDLY_FIRE_ISNT_UNKNOWN_AUTHOR
+LANG_ENGLISH           "- Anónimo"
+
+REFERENCE           DEADQUOTE_FROM_TIME_TO_TIME_THE
+LANG_ENGLISH           ""De vez en cuando hay queregar el árbol de la libertad con la sangre de tiranos y patriotas"."
+
+REFERENCE           DEADQUOTE_FROM_TIME_TO_TIME_THE_AUTHOR
+LANG_ENGLISH           "- Thomas Jefferson"
+
+REFERENCE           DEADQUOTE_GOD_TAKES_SIDES
+LANG_ENGLISH           ""Dios está del lado del bando con la mejor artillería"."
+
+REFERENCE           DEADQUOTE_GOD_TAKES_SIDES_AUTHOR
+LANG_ENGLISH           "- Napoleón Bonaparte"
+
+REFERENCE           DEADQUOTE_GOING_TOO_FAR
+LANG_ENGLISH           ""Solo los que se arriesgan a ir demasiado lejos pueden averiguar hasta dónde es posible llegar"."
+
+REFERENCE           DEADQUOTE_GOING_TOO_FAR_AUTHOR
+LANG_ENGLISH           "- T.S. Eliot"
+
+REFERENCE           DEADQUOTE_HEROES_MAY_NOT_BE_BRAVER
+LANG_ENGLISH           ""Los héroes no son mucho más valientes que los demás. Lo son cinco minutos más"."
+
+REFERENCE           DEADQUOTE_HEROES_MAY_NOT_BE_BRAVER_AUTHOR
+LANG_ENGLISH           "- RonaldReagan"
+
+REFERENCE           DEADQUOTE_HONOR_THE_DEAD
+LANG_ENGLISH           ""Honra a los muertos y lucha hasta el último aliento por los vivos"."
+
+REFERENCE           DEADQUOTE_HONOR_THE_DEAD_AUTHOR
+LANG_ENGLISH           "- Anónimo"
+
+REFERENCE           DEADQUOTE_IF_AT_FIRST_YOU_DONT
+LANG_ENGLISH           ""Si al principio no lo consigues, pide un ataque aéreo"."
+
+REFERENCE           DEADQUOTE_IF_AT_FIRST_YOU_DONT_AUTHOR
+LANG_ENGLISH           "- Anónimo"
+
+REFERENCE           DEADQUOTE_IF_A_MAN_DOES_HIS_BEST
+LANG_ENGLISH           ""Si un hombre hace todo lo que puede, ¿qué más se puede pedir?"."
+
+REFERENCE           DEADQUOTE_IF_A_MAN_DOES_HIS_BEST_AUTHOR
+LANG_ENGLISH           "- General George S. Patton"
+
+REFERENCE           DEADQUOTE_IF_THE_ENEMY_IS_IN_RANGE
+LANG_ENGLISH           ""Si el enemigo está a tu alcance, tú también lo estás al suyo"."
+
+REFERENCE           DEADQUOTE_IF_THE_ENEMY_IS_IN_RANGE_AUTHOR
+LANG_ENGLISH           "- Diario de Infantería"
+
+REFERENCE           DEADQUOTE_IF_THE_WINGS_ARE_TRAVELING
+LANG_ENGLISH           ""Si las alas van más deprisa que el fuselaje, probablemente sea un helicóptero... y, por lo tanto, no es seguro"."
+
+REFERENCE           DEADQUOTE_IF_THE_WINGS_ARE_TRAVELING_AUTHOR
+LANG_ENGLISH           "- Anónimo"
+
+REFERENCE           DEADQUOTE_IF_WE_CANT_PERSUADE_NATIONS
+LANG_ENGLISH           ""Si no podemos convencer a naciones de valores similares a la nuestra de los méritos de nuestra causa, convendríareplantearse nuestro razonamiento"."
+
+REFERENCE           DEADQUOTE_IF_WE_CANT_PERSUADE_NATIONS_AUTHOR
+LANG_ENGLISH           "- Robert McNamara"
+
+REFERENCE           DEADQUOTE_IF_YOUR_ATTACK_IS_GOING
+LANG_ENGLISH           ""Si el ataque va demasiado bien es que te estás metiendo en una emboscada"."
+
+REFERENCE           DEADQUOTE_IF_YOUR_ATTACK_IS_GOING_AUTHOR
+LANG_ENGLISH           "- Diario de Infantería"
+
+REFERENCE           DEADQUOTE_IF_YOU_CANT_REMEMBER
+LANG_ENGLISH           ""Si no lorecuerdas, la Claymore apunta hacia ti"."
+
+REFERENCE           DEADQUOTE_IF_YOU_CANT_REMEMBER_AUTHOR
+LANG_ENGLISH           "- Anónimo"
+
+REFERENCE           DEADQUOTE_IF_YOU_KNOW_THE_ENEMY
+LANG_ENGLISH           ""Si conoces al enemigo y te conoces a ti mismo, no debes temer elresultado de un centenar de batallas"."
+
+REFERENCE           DEADQUOTE_IF_YOU_KNOW_THE_ENEMY_AUTHOR
+LANG_ENGLISH           "- Sun Tzu"
+
+REFERENCE           DEADQUOTE_INCOMING_FIRE_HAS_THE
+LANG_ENGLISH           ""El fuego enemigo tiene preferencia de paso"."
+
+REFERENCE           DEADQUOTE_INCOMING_FIRE_HAS_THE_AUTHOR
+LANG_ENGLISH           "- Anónimo"
+
+REFERENCE           DEADQUOTE_IN_THE_END_IT_WAS_LUCK
+LANG_ENGLISH           ""Al final, fue cuestión de suerte. Estuvimos al borde de la guerra nuclear, pero la suerte la evitó"."
+
+REFERENCE           DEADQUOTE_IN_THE_END_IT_WAS_LUCK_AUTHOR
+LANG_ENGLISH           "- Robert McNamara"
+
+REFERENCE           DEADQUOTE_IN_WAR_TRUTH_IS_THE_FIRST
+LANG_ENGLISH           ""En la guerra, la primera baja es la verdad"."
+
+REFERENCE           DEADQUOTE_IN_WAR_TRUTH_IS_THE_FIRST_AUTHOR
+LANG_ENGLISH           "- Esquilo"
+
+REFERENCE           DEADQUOTE_IN_WAR_YOU_WIN_OR_LOSE
+LANG_ENGLISH           ""En la guerra, se gana o se pierde; se vive o se muere, la distancia entre ambas es mínima"."
+
+REFERENCE           DEADQUOTE_IN_WAR_YOU_WIN_OR_LOSE_AUTHOR
+LANG_ENGLISH           "- General Douglas MacArthur"
+
+REFERENCE           DEADQUOTE_IS_IT_RIGHT_AND_PROPER
+LANG_ENGLISH           ""¿Está bien que hoy en día haya 7500 cabezas nucleares estratégicas, de las cuales 2500 están a 15 minutos de ser lanzadas por la decisión de "un" ser humano?""
+
+REFERENCE           DEADQUOTE_IS_IT_RIGHT_AND_PROPER_AUTHOR
+LANG_ENGLISH           "- Robert McNamara"
+
+REFERENCE           DEADQUOTE_IT_DOESNT_TAKE_A_HERO
+LANG_ENGLISH           ""No hace falta ser un héroe para llevar a los hombres a la batalla, pero sí para ser uno de esos soldados"."
+
+REFERENCE           DEADQUOTE_IT_DOESNT_TAKE_A_HERO_AUTHOR
+LANG_ENGLISH           "- General Norman Schwarzkopf"
+
+REFERENCE           DEADQUOTE_IT_IS_FATAL_TO_ENTER
+LANG_ENGLISH           ""Entrar en una guerra sin intención de ganarla es fatídico"."
+
+REFERENCE           DEADQUOTE_IT_IS_FATAL_TO_ENTER_AUTHOR
+LANG_ENGLISH           "- General Douglas MacArthur"
+
+REFERENCE           DEADQUOTE_IT_IS_GENERALLY_INADVISABLE
+LANG_ENGLISH           ""No esrecomendable saltar sobre la zona que acabas de bombardear"."
+
+REFERENCE           DEADQUOTE_IT_IS_GENERALLY_INADVISABLE_AUTHOR
+LANG_ENGLISH           "- Manual de las Fuerzas Aéreas de EE. UU."
+
+REFERENCE           DEADQUOTE_IT_WOULD_BE_NAIVE_TO
+LANG_ENGLISH           ""Sería ingenuo pensar que es posible acabar con los problemas de la humanidad de hoy con los métodos que se aplicaron en el pasado"."
+
+REFERENCE           DEADQUOTE_IT_WOULD_BE_NAIVE_TO_AUTHOR
+LANG_ENGLISH           "- Mijail Gorbachov"
+
+REFERENCE           DEADQUOTE_I_KNOW_NOT_WITH_WHAT
+LANG_ENGLISH           ""No sé con qué armas se luchará la III Guerra Mundial, pero la IV Guerra Mundial se librará con palos y piedras"."
+
+REFERENCE           DEADQUOTE_I_KNOW_NOT_WITH_WHAT_AUTHOR
+LANG_ENGLISH           "- Albert Einstein"
+
+REFERENCE           DEADQUOTE_I_LOVE_THE_CORPS_FOR
+LANG_ENGLISH           ""Amo al Cuerpo de Marines por sus cualidades intangibles: el orgullo, el honor, la integridad y la capacidad de continuar con las tradiciones de numerosas generaciones de guerreros"."
+
+REFERENCE           DEADQUOTE_I_LOVE_THE_CORPS_FOR_AUTHOR
+LANG_ENGLISH           "- Cabo Jeff Sornig, Cuerpo de Marines de los EE. UU."
+
+REFERENCE           DEADQUOTE_I_THINK_THAT_TECHNOLOGIES
+LANG_ENGLISH           ""Creo que la tecnología es neutral hasta que la aplicamos. Solo al usarla para hacer el bien o el mal es cuando se vuelve bondadosa o malvada"."
+
+REFERENCE           DEADQUOTE_I_THINK_THAT_TECHNOLOGIES_AUTHOR
+LANG_ENGLISH           "- William Gibson"
+
+REFERENCE           DEADQUOTE_I_THINK_THE_HUMAN_RACE
+LANG_ENGLISH           ""Creo que la raza humana necesita pensar en la muerte, en cuánto mal cometemos para hacer el bien"."
+
+REFERENCE           DEADQUOTE_I_THINK_THE_HUMAN_RACE_AUTHOR
+LANG_ENGLISH           "- Robert McNamara"
+
+REFERENCE           DEADQUOTE_JUGGERNAUT_CORNERED
+LANG_ENGLISH           "No te dejes arrinconar por un Juggernaut. Mantén la distancia."
+
+REFERENCE           DEADQUOTE_JUGGERNAUT_EXPLOSIVES
+LANG_ENGLISH           "Los explosivos son muy eficaces contra los Juggernauts."
+
+REFERENCE           DEADQUOTE_JUGGERNAUT_FLASHBANGS
+LANG_ENGLISH           "Usa ^3[{+smoke}]^7 cegadoras para enlentecer a los Juggernauts."
+
+REFERENCE           DEADQUOTE_JUGGERNAUT_HEADSHOTS
+LANG_ENGLISH           "Apunta a la cabeza cuando te enfrentes a Juggernauts."
+
+REFERENCE           DEADQUOTE_KEEP_LOOKING_BELOW_SURFACE
+LANG_ENGLISH           ""Busca más allá de las apariencias. No te eches atrás solo por miedo a lo que puedes encontrar"."
+
+REFERENCE           DEADQUOTE_KEEP_LOOKING_BELOW_SURFACE_AUTHOR
+LANG_ENGLISH           "- Colin Powell"
+
+REFERENCE           DEADQUOTE_LET_YOUR_PLANS_BE_DARK
+LANG_ENGLISH           ""Que tus planes sean oscuros e inescrutables como la noche, y cuando ataques, hazlo como el rayo"."
+
+REFERENCE           DEADQUOTE_LET_YOUR_PLANS_BE_DARK_AUTHOR
+LANG_ENGLISH           "- Sun Tzu"
+
+REFERENCE           DEADQUOTE_MANKIND_MUST_PUT_AN_END
+LANG_ENGLISH           ""La humanidad tiene que poner fin a la guerra si no quiere que la guerra ponga fin a la humanidad"."
+
+REFERENCE           DEADQUOTE_MANKIND_MUST_PUT_AN_END_AUTHOR
+LANG_ENGLISH           "- John F. Kennedy"
+
+REFERENCE           DEADQUOTE_MEDAL_OR_BODYBAG
+LANG_ENGLISH           ""Te garantizamos una medalla, una bolsa para cadáveres, o ambas cosas"."
+
+REFERENCE           DEADQUOTE_MEDAL_OR_BODYBAG_AUTHOR
+LANG_ENGLISH           "- Delta"
+
+REFERENCE           DEADQUOTE_MY_FIRST_WISH_IS_TO_SEE
+LANG_ENGLISH           ""Mi primer deseo es borrar la guerra, esta plaga de la humanidad, de la faz de la tierra"."
+
+REFERENCE           DEADQUOTE_MY_FIRST_WISH_IS_TO_SEE_AUTHOR
+LANG_ENGLISH           "- George Washington"
+
+REFERENCE           DEADQUOTE_NEARLY_ALL_MEN_CAN_STAND
+LANG_ENGLISH           ""Casi todos los hombres pueden soportar la adversidad, pero si quieres probar el carácter de un hombre, dale poder"."
+
+REFERENCE           DEADQUOTE_NEARLY_ALL_MEN_CAN_STAND_AUTHOR
+LANG_ENGLISH           "- Abraham Lincoln"
+
+REFERENCE           DEADQUOTE_NEVER_FORGET_THAT_YOUR
+LANG_ENGLISH           ""No olvides que tu arma la fabricó el que presentó la oferta más baja"."
+
+REFERENCE           DEADQUOTE_NEVER_FORGET_THAT_YOUR_AUTHOR
+LANG_ENGLISH           "- Anónimo"
+
+REFERENCE           DEADQUOTE_NOTHING_IN_LIFE_IS_SO
+LANG_ENGLISH           ""Nada en la vida es tan estimulante como que te disparen sin consecuencias"."
+
+REFERENCE           DEADQUOTE_NOTHING_IN_LIFE_IS_SO_AUTHOR
+LANG_ENGLISH           "- Winston Churchill"
+
+REFERENCE           DEADQUOTE_NOT_FIT_TO_LIVE
+LANG_ENGLISH           ""Un hombre incapaz de morir por algo no merece vivir"."
+
+REFERENCE           DEADQUOTE_NOT_FIT_TO_LIVE_AUTHOR
+LANG_ENGLISH           "- Martin Luther King, Jr."
+
+REFERENCE           DEADQUOTE_NOT_TAKEN_LIGHTLY
+LANG_ENGLISH           ""Quitarle la vida a otra persona es un gran paso. No debe darse a la ligera"."
+
+REFERENCE           DEADQUOTE_NOT_TAKEN_LIGHTLY_AUTHOR
+LANG_ENGLISH           "- Teniente coronel Tim Collins"
+
+REFERENCE           DEADQUOTE_NO_BATTLE_PLAN_SURVIVES
+LANG_ENGLISH           ""Ningún plan de combate sobrevive al contacto con el enemigo"."
+
+REFERENCE           DEADQUOTE_NO_BATTLE_PLAN_SURVIVES_AUTHOR
+LANG_ENGLISH           "- Colin Powell"
+
+REFERENCE           DEADQUOTE_OLDER_MEN_DECLARE_WAR
+LANG_ENGLISH           ""Los adultos declaran la guerra. Pero son los jóvenes los que deben luchar y morir"."
+
+REFERENCE           DEADQUOTE_OLDER_MEN_DECLARE_WAR_AUTHOR
+LANG_ENGLISH           "- Herbert Hoover"
+
+REFERENCE           DEADQUOTE_OURS_IS_A_WORLD_OF_NUCLEAR
+LANG_ENGLISH           ""El nuestro es un mundo de gigantes nucleares e infantes éticos. Si seguimos desarrollando la tecnología sin sabiduría ni prudencia, la que es sierva nuestra acabará siendo nuestra ejecutora"."
+
+REFERENCE           DEADQUOTE_OURS_IS_A_WORLD_OF_NUCLEAR_AUTHOR
+LANG_ENGLISH           "- General Omar Bradley"
+
+REFERENCE           DEADQUOTE_PATRIOTS_ALWAYS_TALK
+LANG_ENGLISH           ""Los patriotas siempre hablan de morir por su patria, nunca de matar por ella"."
+
+REFERENCE           DEADQUOTE_PATRIOTS_ALWAYS_TALK_AUTHOR
+LANG_ENGLISH           "- Bertrand Russell"
+
+REFERENCE           DEADQUOTE_PREVENT_AND_PREPARE
+LANG_ENGLISH           ""Uno no puede evitar la guerra y prepararse para ella al mismo tiempo"."
+
+REFERENCE           DEADQUOTE_PREVENT_AND_PREPARE_AUTHOR
+LANG_ENGLISH           "- Albert Einstein"
+
+REFERENCE           DEADQUOTE_RIOTSHIELD_DONT_CHARGE
+LANG_ENGLISH           "¡Mantén la distancia! Cargar contra un enemigo con un escudo antidisturbios no es una buena idea."
+
+REFERENCE           DEADQUOTE_RIOTSHIELD_OUT_FLANK
+LANG_ENGLISH           "¡Los escudos antidisturbios solo protegen por delante! Rodéalos y tendrás un enemigo normal y corriente."
+
+REFERENCE           DEADQUOTE_RIOTSHIELD_USE_EXPLOSIVE
+LANG_ENGLISH           "Usa granadas, RPG y lanzagranadas contra enemigos con escudos antidisturbios."
+
+REFERENCE           DEADQUOTE_ROUGH_MEN_READY
+LANG_ENGLISH           ""Dormimos tranquilos en nuestras camas porque hay hombres duros que velan para enfrentarse a los que nos harían daño"."
+
+REFERENCE           DEADQUOTE_ROUGH_MEN_READY_AUTHOR
+LANG_ENGLISH           "- George Orwell"
+
+REFERENCE           DEADQUOTE_SOME_PEOPLE_LIVE_AN_ENTIRE
+LANG_ENGLISH           ""Hay personas que se preguntan, al final de sus vidas, si han marcado la diferencia en el mundo, pero los marines no tienen ese problema"."
+
+REFERENCE           DEADQUOTE_SOME_PEOPLE_LIVE_AN_ENTIRE_AUTHOR
+LANG_ENGLISH           "- RonaldReagan"
+
+REFERENCE           DEADQUOTE_SO_BEAT_BEST_TIME
+LANG_ENGLISH           "Intenta batir tu mejor tiempo.
+Experimenta con distintos caminos y estrategias."
+
+REFERENCE           DEADQUOTE_SO_BLED_OUT
+LANG_ENGLISH           "Un compañero murió desangrado. Cuando alguien caiga, colaboren yreanímense unos a otros."
+
+REFERENCE           DEADQUOTE_SO_CLAYMORE_ENEMIES_SHOOT
+LANG_ENGLISH           "Los enemigos dispararán a las claymore expuestas. Guarda las tuyas bajo cubierto."
+
+REFERENCE           DEADQUOTE_SO_CLAYMORE_POINT_ENEMY
+LANG_ENGLISH           "Coloca las claymore de forma que los rayos rojos apunten hacia la zona desde la que se acercará el enemigo."
+
+REFERENCE           DEADQUOTE_SO_CRAWL_TO_TEAMMATE
+LANG_ENGLISH           "Si caes, intenta arrastrarte hacia tu compañero."
+
+REFERENCE           DEADQUOTE_SO_FIND_FRIEND_COOP
+LANG_ENGLISH           "¡Nadie lucha solo!
+Juega con un amigo con la pantalla dividida o dos jugadores en línea."
+
+REFERENCE           DEADQUOTE_SO_FRIENDLY_FIRE_HINT
+LANG_ENGLISH           "¡Puedes herir a tu compañero! Evita el fuego amigo."
+
+REFERENCE           DEADQUOTE_SO_FRIENDLY_FIRE_KILL
+LANG_ENGLISH           "Misión fallida por fuego amigo."
+
+REFERENCE           DEADQUOTE_SO_GRENADES_ROLL
+LANG_ENGLISH           "¡Cuidado! Las granadas ruedan cuesta abajo."
+
+REFERENCE           DEADQUOTE_SO_ICON_OBJ
+LANG_ENGLISH           "El punto blanco indica la ubicación de tu objetivo."
+
+REFERENCE           DEADQUOTE_SO_ICON_OBJ_OFFSCREEN
+LANG_ENGLISH           "Si tu objetivo no está a la vista, su ícono cambiará."
+
+REFERENCE           DEADQUOTE_SO_ICON_PARTNER
+LANG_ENGLISH           "Busca el nombre de tu compañero para localizarlo. Si no está en la pantalla, la flecha verde apuntará hacia él."
+
+REFERENCE           DEADQUOTE_SO_LEFT_PLAY_AREA
+LANG_ENGLISH           "¡Mantén la posición!
+Abandonaste la misión."
+
+REFERENCE           DEADQUOTE_SO_LONG_AS_THERE_ARE
+LANG_ENGLISH           ""Mientras haya hombres, habrá guerras"."
+
+REFERENCE           DEADQUOTE_SO_LONG_AS_THERE_ARE_AUTHOR
+LANG_ENGLISH           "- Albert Einstein"
+
+REFERENCE           DEADQUOTE_SO_RED_FIND_COVER
+LANG_ENGLISH           "Cuando todo se pone rojo, es momento de cubrirse."
+
+REFERENCE           DEADQUOTE_SO_RUN_OVER_BY_VEHICLE
+LANG_ENGLISH           "Te arrollaron. Ten cuidado con los vehículos enemigos en movimiento."
+
+REFERENCE           DEADQUOTE_SO_SEARCH_FOR_WEAPONS
+LANG_ENGLISH           "Atento a las armas especiales que pueden servirte de ayuda."
+
+REFERENCE           DEADQUOTE_SO_STAR_RANKINGS
+LANG_ENGLISH           "Superar una operación en Curtido vale 2 estrellas. En Veterano vale 3."
+
+REFERENCE           DEADQUOTE_SO_STAY_NEAR_TEAMMATE
+LANG_ENGLISH           "No te alejes de tu compañero y colabora con él."
+
+REFERENCE           DEADQUOTE_SO_STEALTH_LOOK_FOR_ENEMIES
+LANG_ENGLISH           "Atento a enemigos cercanos o que estén mirando hacia tu blanco antes de disparar. Elimina a todo el grupo rápidamente para mantener el sigilo."
+
+REFERENCE           DEADQUOTE_SO_STEALTH_STAY_LOW
+LANG_ENGLISH           "Agáchate. Te verán y escucharán más fácilmente si estás de pie o corriendo."
+
+REFERENCE           DEADQUOTE_SO_STEALTH_USE_SILENCERS
+LANG_ENGLISH           "Usa los silenciadores. Las granadas y las armas sin silenciador llamarán mucho la atención."
+
+REFERENCE           DEADQUOTE_SO_SURVIVAL_AMMO_REFILL
+LANG_ENGLISH           ""Reponer munición", en el arsenal de armas,reabastecerá todas las armas que lleves."
+
+REFERENCE           DEADQUOTE_SO_SURVIVAL_ARMORY_UNLOCK
+LANG_ENGLISH           "Busca nuevos objetos en los arsenales al subir de rango."
+
+REFERENCE           DEADQUOTE_SO_SURVIVAL_ARMOR_RESTOCK
+LANG_ENGLISH           "Armadura corporal protege del daño. Cuando se acabe, puedes volver a comprarla en el arsenal de equipo."
+
+REFERENCE           DEADQUOTE_SO_SURVIVAL_ATTACHMENT
+LANG_ENGLISH           "Es posible que tu arma disponga de accesorios. Cómpralos en el arsenal de armas."
+
+REFERENCE           DEADQUOTE_SO_SURVIVAL_BUY_NEW_WEAPON
+LANG_ENGLISH           "Cuando tengas querecargar munición, considera comprar un arma nueva, ya que vendrá con el cargador lleno."
+
+REFERENCE           DEADQUOTE_SO_SURVIVAL_CHALLENGE_REWARD
+LANG_ENGLISH           "Completar un mini desafío más de una vez en una oleada aumentará surecompensa."
+
+REFERENCE           DEADQUOTE_SO_SURVIVAL_FRIENDLY_RIOTSHIELD
+LANG_ENGLISH           "También puedes aprovechar los escudos antidisturbios aliados si alguien deja caer el suyo en combate."
+
+REFERENCE           DEADQUOTE_SO_SURVIVAL_KILL_CHEMICAL_ENEMIES
+LANG_ENGLISH           "Conviene matar a un enemigo portador de gas tóxico cuando esté cerca de otros enemigos."
+
+REFERENCE           DEADQUOTE_SO_SURVIVAL_LAST_STAND
+LANG_ENGLISH           "Autorreanimar te permite volver a levantarte si matas a un enemigo. Puedes volver a comprarla en el arsenal de equipo."
+
+REFERENCE           DEADQUOTE_SO_SURVIVAL_RIOT_SHIELD_DAMAGE
+LANG_ENGLISH           "El escudo antidisturbios termina por romperse con el daño, pero seguirá protegiéndote un poco."
+
+REFERENCE           DEADQUOTE_SO_SURVIVAL_SENTRY_UNATTENDED
+LANG_ENGLISH           "Si abandonas tus torretas automáticas, es más probable que el enemigo vaya por ellas."
+
+REFERENCE           DEADQUOTE_SO_SURVIVAL_STAR_RANKINGS
+LANG_ENGLISH           "Sobrevive hasta la oleada 5 para conseguir 1 estrella, hasta la 10 para conseguir 2 y hasta la 20 para conseguir 3."
+
+REFERENCE           DEADQUOTE_SO_SURVIVAL_WAVE_BONUS
+LANG_ENGLISH           "Los tiros a la cabeza, la precisión, el dañorecibido y el tiempo contribuyen a la bonificación de oleada."
+
+REFERENCE           DEADQUOTE_SO_TEXT_COLOR_DIFFICULTY
+LANG_ENGLISH           "Al elegir misiones, el texto rojo señala una dificultad mayor que el texto verde."
+
+REFERENCE           DEADQUOTE_SO_THROW_FLASHBANG
+LANG_ENGLISH           "Oprime ^3[{+smoke}]^7 para lanzar cegadoras y aturdir al enemigo."
+
+REFERENCE           DEADQUOTE_SO_TOGGLE_TIMER
+LANG_ENGLISH           "Oprime ^3[{+actionslot 1}]^7 para alternar el tiempo y las estadísticas de la misión."
+
+REFERENCE           DEADQUOTE_SO_TOGGLE_WEAP_ALT_MODE
+LANG_ENGLISH           "Oprime ^3[{+actionslot 3}]^7 para usar lanzagranadas y acoples con escopeta."
+
+REFERENCE           DEADQUOTE_SO_TRY_NEW_DIFFICULTY
+LANG_ENGLISH           "Si una misión de Operaciones especiales es demasiado fácil o difícil, prueba con otro nivel de dificultad."
+
+REFERENCE           DEADQUOTE_SO_TURRET_PLACEMENT
+LANG_ENGLISH           "¡Protege tus torretas! Colócalas en posiciones protegidas donde no puedan ser flanqueadas."
+
+REFERENCE           DEADQUOTE_TEAMWORK_IS_ESSENTIAL
+LANG_ENGLISH           ""El trabajo en equipo es básico. Así el enemigo tiene otros blancos a los que disparar"."
+
+REFERENCE           DEADQUOTE_TEAMWORK_IS_ESSENTIAL_AUTHOR
+LANG_ENGLISH           "- Anónimo"
+
+REFERENCE           DEADQUOTE_THERES_A_WONDERFUL_PHRASE
+LANG_ENGLISH           ""El término 'confusión de guerra' significa lo siguiente: la guerra es tan compleja que la mente humana no es capaz de comprender todas las variables. Nuestro juicio, nuestro entendimiento, no basta. Y matamos gente de manera innecesaria"."
+
+REFERENCE           DEADQUOTE_THERES_A_WONDERFUL_PHRASE_AUTHOR
+LANG_ENGLISH           "- Robert McNamara"
+
+REFERENCE           DEADQUOTE_THERE_ARE_ONLY_TWO_FORCES
+LANG_ENGLISH           ""Solo hay dos fuerzas en el mundo: la espada y el espíritu. A la larga, la espada siempre será vencida por el espíritu"."
+
+REFERENCE           DEADQUOTE_THERE_ARE_ONLY_TWO_FORCES_AUTHOR
+LANG_ENGLISH           "- Napoleón Bonaparte"
+
+REFERENCE           DEADQUOTE_THERE_ARE_ONLY_TWO_KINDS
+LANG_ENGLISH           ""A los marines solo los entienden dos tipos de personas: los marines y el enemigo. Todos los demás hablan por terceros"."
+
+REFERENCE           DEADQUOTE_THERE_ARE_ONLY_TWO_KINDS_AUTHOR
+LANG_ENGLISH           "- General William Thornson"
+
+REFERENCE           DEADQUOTE_THEYLL_BE_NO_LEARNING
+LANG_ENGLISH           ""Con las armas nucleares no habrá periodo de aprendizaje. Si cometes un solo error, destruirás varias naciones"."
+
+REFERENCE           DEADQUOTE_THEYLL_BE_NO_LEARNING_AUTHOR
+LANG_ENGLISH           "- Robert McNamara"
+
+REFERENCE           DEADQUOTE_THE_BURSTING_RADIUS_OF
+LANG_ENGLISH           ""El radio de la explosión de una granada de mano siempre es medio metro más amplio que tu capacidad de salto"."
+
+REFERENCE           DEADQUOTE_THE_BURSTING_RADIUS_OF_AUTHOR
+LANG_ENGLISH           "- Anónimo"
+
+REFERENCE           DEADQUOTE_THE_COMMANDER_IN_THE
+LANG_ENGLISH           ""El oficial al mando siempre tiene razón y el escalón deretaguardia siempre está equivocado, a menos que se demuestre lo contrario"."
+
+REFERENCE           DEADQUOTE_THE_COMMANDER_IN_THE_AUTHOR
+LANG_ENGLISH           "- Colin Powell"
+
+REFERENCE           DEADQUOTE_THE_DEADLIEST_WEAPON
+LANG_ENGLISH           ""¡El arma más letal del mundo son un marine y su fusil!"."
+
+REFERENCE           DEADQUOTE_THE_DEADLIEST_WEAPON_AUTHOR
+LANG_ENGLISH           "- General John J. Pershing"
+
+REFERENCE           DEADQUOTE_THE_END_OF_WAR
+LANG_ENGLISH           ""Solo los muertos han visto el final de la guerra"."
+
+REFERENCE           DEADQUOTE_THE_END_OF_WAR_AUTHOR
+LANG_ENGLISH           "- Platón"
+
+REFERENCE           DEADQUOTE_THE_INDEFINITE_COMBINATION
+LANG_ENGLISH           ""La combinación indefinida de la falibilidad humana y las armas nucleares provocará la destrucción de las naciones"."
+
+REFERENCE           DEADQUOTE_THE_INDEFINITE_COMBINATION_AUTHOR
+LANG_ENGLISH           "- Robert McNamara"
+
+REFERENCE           DEADQUOTE_THE_MORE_MARINES_I_HAVE
+LANG_ENGLISH           ""Cuantos más marines tenga a mi alrededor, mejor"."
+
+REFERENCE           DEADQUOTE_THE_MORE_MARINES_I_HAVE_AUTHOR
+LANG_ENGLISH           "- General Clark, Ejército de los EE. UU."
+
+REFERENCE           DEADQUOTE_THE_PRESS_IS_OUR_CHIEF
+LANG_ENGLISH           ""La prensa es nuestra principal arma ideológica"."
+
+REFERENCE           DEADQUOTE_THE_PRESS_IS_OUR_CHIEF_AUTHOR
+LANG_ENGLISH           "- Nikita Jrushchov"
+
+REFERENCE           DEADQUOTE_THE_REAL_AND_LASTING
+LANG_ENGLISH           ""Las victorias auténticas y duraderas son las de la paz, no las de la guerra"."
+
+REFERENCE           DEADQUOTE_THE_REAL_AND_LASTING_AUTHOR
+LANG_ENGLISH           "- Ralph Waldo Emerson"
+
+REFERENCE           DEADQUOTE_THE_TRUTH_OF_THE_MATTER
+LANG_ENGLISH           ""Lo cierto es que siempre sabes lo que tienes que hacer. Lo complicado es hacerlo"."
+
+REFERENCE           DEADQUOTE_THE_TRUTH_OF_THE_MATTER_AUTHOR
+LANG_ENGLISH           "- General Norman Schwarzkopf"
+
+REFERENCE           DEADQUOTE_THE_TYRANT_ALWAYS_TALKS
+LANG_ENGLISH           ""El tirano siempre habla como si defendiera los derechos de su pueblo, cuando enrealidad pretende socavarlos"."
+
+REFERENCE           DEADQUOTE_THE_TYRANT_ALWAYS_TALKS_AUTHOR
+LANG_ENGLISH           "- Ramman Kenoun"
+
+REFERENCE           DEADQUOTE_THE_WILL_TO_WIN
+LANG_ENGLISH           ""Entrar en una guerra sin intención de ganarla es fatídico"."
+
+REFERENCE           DEADQUOTE_THE_WILL_TO_WIN_AUTHOR
+LANG_ENGLISH           "- Gen. Douglas MacArthur"
+
+REFERENCE           DEADQUOTE_THE_WORLD_WILL_NOT_ACCEPT
+LANG_ENGLISH           ""El mundo no aceptará las dictaduras ni las imposiciones"."
+
+REFERENCE           DEADQUOTE_THE_WORLD_WILL_NOT_ACCEPT_AUTHOR
+LANG_ENGLISH           "- Mijail Gorbachov"
+
+REFERENCE           DEADQUOTE_TRACERS_WORK_BOTH_WAYS
+LANG_ENGLISH           ""Las trazadoras funcionan en ambos sentidos"."
+
+REFERENCE           DEADQUOTE_TRACERS_WORK_BOTH_WAYS_AUTHOR
+LANG_ENGLISH           "- Oficial del Ejército de los EE. UU."
+
+REFERENCE           DEADQUOTE_TRY_TO_LOOK_UNIMPORTANT
+LANG_ENGLISH           ""Intenta parecer insignificante. A lo mejor andan escasos de munición"."
+
+REFERENCE           DEADQUOTE_TRY_TO_LOOK_UNIMPORTANT_AUTHOR
+LANG_ENGLISH           "- Diario de Infantería"
+
+REFERENCE           DEADQUOTE_TYRANTS_HAVE_ALWAYS_SOME
+LANG_ENGLISH           ""Los tiranos siempre cuentan con una virtud: apoyan las leyes antes de destruirlas"."
+
+REFERENCE           DEADQUOTE_TYRANTS_HAVE_ALWAYS_SOME_AUTHOR
+LANG_ENGLISH           "- Voltaire"
+
+REFERENCE           DEADQUOTE_UNDERSTANDING_WAR
+LANG_ENGLISH           ""El punto de partida para entender la guerra es comprender la naturaleza humana"."
+
+REFERENCE           DEADQUOTE_UNDERSTANDING_WAR_AUTHOR
+LANG_ENGLISH           "- S.L.A. Marshall"
+
+REFERENCE           DEADQUOTE_WAR_DOES_NOT_DETERMINE
+LANG_ENGLISH           ""La guerra no determina quién tiene razón. Solo determina quién queda"."
+
+REFERENCE           DEADQUOTE_WAR_DOES_NOT_DETERMINE_AUTHOR
+LANG_ENGLISH           "- Bertrand Russell"
+
+REFERENCE           DEADQUOTE_WAR_IS_DELIGHTFUL_TO
+LANG_ENGLISH           ""La guerra es deliciosa para aquellos que no la han experimentado"."
+
+REFERENCE           DEADQUOTE_WAR_IS_DELIGHTFUL_TO_AUTHOR
+LANG_ENGLISH           "- Erasmo"
+
+REFERENCE           DEADQUOTE_WAR_IS_DESTRUCTION
+LANG_ENGLISH           ""La guerra es la ciencia de la destrucción"."
+
+REFERENCE           DEADQUOTE_WAR_IS_DESTRUCTION_AUTHOR
+LANG_ENGLISH           "- John S.C. Abbot"
+
+REFERENCE           DEADQUOTE_WAR_IS_FEAR
+LANG_ENGLISH           ""La guerra es miedo enmascarado de valor"."
+
+REFERENCE           DEADQUOTE_WAR_IS_FEAR_AUTHOR
+LANG_ENGLISH           "- Gen. William C. Westmoreland"
+
+REFERENCE           DEADQUOTE_WAR_IS_TERRIBLE
+LANG_ENGLISH           ""Es bueno que las guerras sean tan terribles. De otra forma, nos aficionaríamos"."
+
+REFERENCE           DEADQUOTE_WAR_IS_TERRIBLE_AUTHOR
+LANG_ENGLISH           "- Gen. Robert E.Lee"
+
+REFERENCE           DEADQUOTE_WAR_SHOULD_BE_THE_POLITICS
+LANG_ENGLISH           ""La guerra debería ser el últimorecurso. Y cuando vayamos a la guerra, deberíamos tener un objetivo que nuestro pueblo entienda y apoye"."
+
+REFERENCE           DEADQUOTE_WAR_SHOULD_BE_THE_POLITICS_AUTHOR
+LANG_ENGLISH           "- Colin Powell"
+
+REFERENCE           DEADQUOTE_WERE_IN_A_NEW_WORLD_WERE
+LANG_ENGLISH           ""Vivimos en un mundo en el que la unión del terrorismo y la tecnología podría hacer que nos arrepintiéramos de no haber actuado"."
+
+REFERENCE           DEADQUOTE_WERE_IN_A_NEW_WORLD_WERE_AUTHOR
+LANG_ENGLISH           "- Condoleezza Rice"
+
+REFERENCE           DEADQUOTE_WE_SLEEP_SAFELY_IN_OUR
+LANG_ENGLISH           ""Dormimos tranquilos en nuestras camas porque hay hombres duros que velan para enfrentarse a los que nos harían daño"."
+
+REFERENCE           DEADQUOTE_WE_SLEEP_SAFELY_IN_OUR_AUTHOR
+LANG_ENGLISH           "- George Orwell"
+
+REFERENCE           DEADQUOTE_WHEN_THE_PIN_IS_PULLED
+LANG_ENGLISH           ""Cuando se tira del seguro, la señora granada deja de ser nuestra amiga"."
+
+REFERENCE           DEADQUOTE_WHEN_THE_PIN_IS_PULLED_AUTHOR
+LANG_ENGLISH           "- Aviso de instrucción del ejército de los EE. UU."
+
+REFERENCE           DEADQUOTE_WHETHER_YOU_LIKE_IT_OR
+LANG_ENGLISH           ""Les guste o no, la historia está de nuestra parte. ¡Los enterraremos!"."
+
+REFERENCE           DEADQUOTE_WHETHER_YOU_LIKE_IT_OR_AUTHOR
+LANG_ENGLISH           "- Nikita Jrushchov"
+
+REFERENCE           DEADQUOTE_WHOEVER_DOES_NOT_MISS
+LANG_ENGLISH           ""El que no eche de menos la Unión Soviética, no tiene corazón. El que quiera que vuelva, no tiene cerebro"."
+
+REFERENCE           DEADQUOTE_WHOEVER_DOES_NOT_MISS_AUTHOR
+LANG_ENGLISH           "- Vladimir Putin"
+
+REFERENCE           DEADQUOTE_WHOEVER_SAID_THE_PEN
+LANG_ENGLISH           ""Quien dijo que la pluma era más poderosa que la espada no conoció las armas automáticas"."
+
+REFERENCE           DEADQUOTE_WHOEVER_SAID_THE_PEN_AUTHOR
+LANG_ENGLISH           "- General Douglas MacArthur"
+
+REFERENCE           DEADQUOTE_WHOEVER_STANDS_BY_A_JUST
+LANG_ENGLISH           ""Los defensores de una causa justa no pueden ser tachados de terroristas"."
+
+REFERENCE           DEADQUOTE_WHOEVER_STANDS_BY_A_JUST_AUTHOR
+LANG_ENGLISH           "- Yasser Arafat"
+
+REFERENCE           DEADQUOTE_WORLD_WAR_IV
+LANG_ENGLISH           ""No sé con qué armas se luchará la III Guerra Mundial, pero la IV Guerra Mundial se librará con palos y piedras"."
+
+REFERENCE           DEADQUOTE_WORLD_WAR_IV_AUTHOR
+LANG_ENGLISH           "- Albert Einstein"
+
+REFERENCE           DEADQUOTE_YOU_CANT_SAY_CIV
+LANG_ENGLISH           ""No puede decirse que la civilización no progrese, pues en cada guerra se encuentran nuevas formas de matar"."
+
+REFERENCE           DEADQUOTE_YOU_CANT_SAY_CIV_AUTHOR
+LANG_ENGLISH           "- Will Rogers"
+
+REFERENCE           DEADQUOTE_YOU_CAN_MAKE_A_THRONE
+LANG_ENGLISH           ""Es posible hacer un trono con bayonetas, pero no podrás estar mucho tiempo sentado en él"."
+
+REFERENCE           DEADQUOTE_YOU_CAN_MAKE_A_THRONE_AUTHOR
+LANG_ENGLISH           "- Boris Yeltsin"
+
+REFERENCE           EXE_ALL
+LANG_ENGLISH           "Todo"
+
+REFERENCE           EXE_AUTODL_CLIENTDISABLED
+LANG_ENGLISH           "No se puede descargar &&1 porque la autodescarga está desactivada en el cliente.
+
+Tendrás que conseguir este archivo en otro lugar, o activar la autodescarga en tus ajustes, para conectarte al servidor."
+
+REFERENCE           EXE_AUTODL_FILENOTONSERVER
+LANG_ENGLISH           "No se encontró el archivo &&1 en el servidor para autodescargarlo."
+
+REFERENCE           EXE_AUTODL_SERVERDISABLED
+LANG_ENGLISH           "No se puede descargar &&1 porque la autodescarga está desactivada en el servidor.
+
+Desactiva la autodescarga en tus ajustes y quizá puedas conectarte si tienes el archivo."
+
+REFERENCE           EXE_AUTODL_SERVERDISABLED_PURE
+LANG_ENGLISH           "No se puede descargar &&1 porque la autodescarga está desactivada en el servidor.
+
+Tendrás que conseguir este archivo en otro lugar para poder conectarte a este servidor puro."
+
+REFERENCE           EXE_AWAITINGCDKEYAUTH
+LANG_ENGLISH           "Esperando autorización de clave de producto"
+
+REFERENCE           EXE_AWAITINGCHALLENGE
+LANG_ENGLISH           "Esperando el desafío...&&1"
+
+REFERENCE           EXE_AWAITINGCONNECTION
+LANG_ENGLISH           "Esperando la conexión...&&1"
+
+REFERENCE           EXE_AWAITINGGAMESTATE
+LANG_ENGLISH           "Configurando partida"
+
+REFERENCE           EXE_AWAITINGHOST
+LANG_ENGLISH           "Esperando a más jugadores"
+
+REFERENCE           EXE_BADSERVERADDRESS
+LANG_ENGLISH           "Dirección de servidor errónea."
+
+REFERENCE           EXE_BAD_CHALLENGE
+LANG_ENGLISH           "En la dirección no hay ningún desafío o hay un desafío erróneo."
+
+REFERENCE           EXE_BYTES
+LANG_ENGLISH           "bytes"
+
+REFERENCE           EXE_CANNOTKICKHOSTPLAYER
+LANG_ENGLISH           "No se puede expulsar al host."
+
+REFERENCE           EXE_CANNOTVALIDATEPURECLIENT
+LANG_ENGLISH           "¡No se puede validar como cliente puro!"
+
+REFERENCE           EXE_CANTAUTODLGAMEPAK
+LANG_ENGLISH           "No se puede descargar automáticamente el archivo de juego IWD &&1."
+
+REFERENCE           EXE_CDKEYINVALID
+LANG_ENGLISH           "La clave de producto no parece válida."
+
+REFERENCE           EXE_CDKEYVALID
+LANG_ENGLISH           "La clave de producto parece válida."
+
+REFERENCE           EXE_CHECKPOINT_REACHED
+LANG_ENGLISH           "Punto de control alcanzado."
+
+REFERENCE           EXE_COD_FEATURE_BAN_CATEGORY_1
+LANG_ENGLISH           "Modo multijugador"
+
+REFERENCE           EXE_COD_FEATURE_BAN_CATEGORY_10
+LANG_ENGLISH           "Buscando servidores dedicados"
+
+REFERENCE           EXE_COD_FEATURE_BAN_CATEGORY_11
+LANG_ENGLISH           "Asignando servidores dedicados"
+
+REFERENCE           EXE_COD_FEATURE_BAN_CATEGORY_12
+LANG_ENGLISH           "Creando una sala"
+
+REFERENCE           EXE_COD_FEATURE_BAN_CATEGORY_13
+LANG_ENGLISH           "Extras de prestigio"
+
+REFERENCE           EXE_COD_FEATURE_BAN_CATEGORY_14
+LANG_ENGLISH           "Saquear"
+
+REFERENCE           EXE_COD_FEATURE_BAN_CATEGORY_15
+LANG_ENGLISH           "Streaming en directo"
+
+REFERENCE           EXE_COD_FEATURE_BAN_CATEGORY_16
+LANG_ENGLISH           ""
+
+REFERENCE           EXE_COD_FEATURE_BAN_CATEGORY_17
+LANG_ENGLISH           ""
+
+REFERENCE           EXE_COD_FEATURE_BAN_CATEGORY_18
+LANG_ENGLISH           "Editor de emblemas"
+
+REFERENCE           EXE_COD_FEATURE_BAN_CATEGORY_19
+LANG_ENGLISH           "Recompensas por tiempo"
+
+REFERENCE           EXE_COD_FEATURE_BAN_CATEGORY_2
+LANG_ENGLISH           "Partidas de Extinción"
+
+REFERENCE           EXE_COD_FEATURE_BAN_CATEGORY_20
+LANG_ENGLISH           "Recompensas por actividad"
+
+REFERENCE           EXE_COD_FEATURE_BAN_CATEGORY_3
+LANG_ENGLISH           "Marcadores de multijugador"
+
+REFERENCE           EXE_COD_FEATURE_BAN_CATEGORY_4
+LANG_ENGLISH           "Marcadores de Arcade individual"
+
+REFERENCE           EXE_COD_FEATURE_BAN_CATEGORY_5
+LANG_ENGLISH           "Modo pantalla dividida"
+
+REFERENCE           EXE_COD_FEATURE_BAN_CATEGORY_6
+LANG_ENGLISH           "Insignias del clan"
+
+REFERENCE           EXE_COD_FEATURE_BAN_CATEGORY_7
+LANG_ENGLISH           "Chat de voz"
+
+REFERENCE           EXE_COD_FEATURE_BAN_CATEGORY_8
+LANG_ENGLISH           "Prestigio"
+
+REFERENCE           EXE_COD_FEATURE_BAN_CATEGORY_9
+LANG_ENGLISH           "Partidas con bots"
+
+REFERENCE           EXE_COD_FEATURE_BAN_WARNING
+LANG_ENGLISH           "Este perfil (&&1) fue excluido de usar las siguientes funciones por una violación de la política de seguridad y ejecución. Para obtener más información, visita http://support.activision.com/mwr."
+
+REFERENCE           EXE_COD_FEATURE_PERM_BAN_PLAYER
+LANG_ENGLISH           "Este perfil (&&1) fue excluido permanentemente de usar esta función por una violación de la política de seguridad y ejecución. Para obtener más información, visita http://support.activision.com/mwr."
+
+REFERENCE           EXE_COD_FEATURE_TEMP_BAN_PLAYER
+LANG_ENGLISH           "Este perfil (&&1) fue excluido temporalmente de usar esta función por una violación de la política de seguridad y ejecución. Para obtener más información, visita http://support.activision.com/mwr."
+
+REFERENCE           EXE_COD_LEADERBOARD_WRITE_BAN
+LANG_ENGLISH           "Este perfil (&&1) fue excluido de aparecer en este marcador por una violación de la política de seguridad y ejecución. Para obtener más información, visita http://support.activision.com/mwr."
+
+REFERENCE           EXE_COD_MULTIPLAYER
+LANG_ENGLISH           "Multijugador de COD2"
+
+REFERENCE           EXE_COD_ONLINE_PERM_BAN_CONSOLE
+LANG_ENGLISH           "Este dispositivo de consola ha sido excluido permanentemente de jugar con Call of Duty®: Modern Warfare®Remastered en línea por una violación de la política de seguridad y ejecución. Para obtener más información, visita http://support.activision.com/mwr."
+
+REFERENCE           EXE_COD_ONLINE_PERM_BAN_PLAYER
+LANG_ENGLISH           "Este perfil (&&1) fue excluido permanentemente de jugar con Call of Duty®: Modern Warfare®Remastered en línea por una violación de la política de seguridad y cumplimiento. Para obtener más información, visita http://support.activision.com/mwr."
+
+REFERENCE           EXE_COD_ONLINE_TEMP_BAN_PLAYER
+LANG_ENGLISH           "Este perfil (&&1) fue excluido temporalmente de jugar con Call of Duty®: Modern Warfare®Remastered en línea por una violación de la política de seguridad y cumplimiento. Para obtener más información, visita http://support.activision.com/mwr."
+
+REFERENCE           EXE_COD_TEMP_BAN_DAYS
+LANG_ENGLISH           "Quedan &&1 días para poder disponer de acceso."
+
+REFERENCE           EXE_COD_TEMP_BAN_DAYS_SHORT
+LANG_ENGLISH           "Quedan &&1 días"
+
+REFERENCE           EXE_COD_TEMP_BAN_HOURS
+LANG_ENGLISH           "Quedan &&1 horas para poder disponer de acceso."
+
+REFERENCE           EXE_COD_TEMP_BAN_HOURS_SHORT
+LANG_ENGLISH           "Quedan &&1 horas"
+
+REFERENCE           EXE_CONFIGSTRINGMISMATCH
+LANG_ENGLISH           "¡Nuestro archivo del nivel es diferente al del servidor! Anulando conexión."
+
+REFERENCE           EXE_CONNECTINGTO
+LANG_ENGLISH           "Conectando a &&1"
+
+REFERENCE           EXE_COPIED
+LANG_ENGLISH           "copiado"
+
+REFERENCE           EXE_DEMONWARE_ACCOUNT_MAINTENANCE
+LANG_ENGLISH           "Esta cuenta (&&1) está bloqueada temporalmente por mantenimiento. No debería durar más de unos instantes. Si este mensaje persiste por más de 15 minutos, ponte en contacto con el servicio de Atención al cliente de Activision."
+
+REFERENCE           EXE_DEMONWARE_DISCONNECT
+LANG_ENGLISH           "El servicio de Call of Duty®: Modern Warfare®Remastered no está disponible en este momento. Vuelve a intentarlo más tarde."
+
+REFERENCE           EXE_DEMONWARE_MULTIPLE_LOGINS
+LANG_ENGLISH           "El servidor de Call of Duty®: Modern Warfare®Remastered no está disponible debido a múltiples inicios de sesión con tu cuenta de CoD.Reinicia para volver a conectar."
+
+REFERENCE           EXE_DEMONWARE_MULTIPLE_LOGINS_GENERIC
+LANG_ENGLISH           "El servidor de Call of Duty®: Modern Warfare®Remastered no está disponible debido a múltiples inicios de sesión con tu cuenta."
+
+REFERENCE           EXE_DEMONWARE_PLAYER_BAN
+LANG_ENGLISH           "Este perfil (&&1) fue excluido permanentemente de jugar con Call of Duty®: Modern Warfare®Remastered en línea por una violación de la política de seguridad y cumplimiento. Para obtener más información, visita http://support.activision.com/mwr."
+
+REFERENCE           EXE_DISCONNECTED
+LANG_ENGLISH           "El host abandonó la partida."
+
+REFERENCE           EXE_DISCONNECTEDFROMOWNLISTENSERVER
+LANG_ENGLISH           "El clienterecibió la orden de desconectarse de su servidor pasivo."
+
+REFERENCE           EXE_DNSFAILURE
+LANG_ENGLISH           "Error de DNS al intentar localizar los servidores de Activision. No podrás jugar partidas en línea hasta quereinicies."
+
+REFERENCE           EXE_DOWNLOADING
+LANG_ENGLISH           "Descargando:"
+
+REFERENCE           EXE_DOWNLOADINGUPDATE
+LANG_ENGLISH           "Descargando actualización: &&1"
+
+REFERENCE           EXE_ENDOFGAME
+LANG_ENGLISH           "Fin de la partida"
+
+REFERENCE           EXE_ERR_ARB_MULTITEX_BAD_MAX
+LANG_ENGLISH           "GL_ARB_multitexture encontrada, pero no permite múltiples texturas."
+
+REFERENCE           EXE_ERR_ARB_MULTITEX_INIT_FAILED
+LANG_ENGLISH           "GL_ARB_multitexture encontrada, pero no ha podido inicializarse."
+
+REFERENCE           EXE_ERR_BAD_CDKEY
+LANG_ENGLISH           "Clave de producto errónea."
+
+REFERENCE           EXE_ERR_BAD_GAME_FOLDER
+LANG_ENGLISH           "Carpeta de juego no válida"
+
+REFERENCE           EXE_ERR_BAD_WINDOWS_VER
+LANG_ENGLISH           "Tu versión de Microsoft Windows(TM) no es compatible con Call of Duty."
+
+REFERENCE           EXE_ERR_BANNED_PERM
+LANG_ENGLISH           "Estás excluido de este servidor de forma permanente."
+
+REFERENCE           EXE_ERR_BANNED_TEMP
+LANG_ENGLISH           "Estás excluido de este servidor de forma temporal."
+
+REFERENCE           EXE_ERR_CANT_CREATE
+LANG_ENGLISH           "No se pudo crear &&1."
+
+REFERENCE           EXE_ERR_CANT_WRITE
+LANG_ENGLISH           "No se pudo escribir en &&1."
+
+REFERENCE           EXE_ERR_CDKEY_IN_USE
+LANG_ENGLISH           "Clave de producto en uso. Intenta conectarte más tarde."
+
+REFERENCE           EXE_ERR_CLIENT_CMD_OVERFLOW
+LANG_ENGLISH           "Desbordamiento de órdenes al cliente"
+
+REFERENCE           EXE_ERR_CORRECT_FOLDER
+LANG_ENGLISH           "Asegúrate de que Call of Duty se está ejecutando desde la carpeta correcta."
+
+REFERENCE           EXE_ERR_COULDNT_CONFIGURE
+LANG_ENGLISH           "No se pudo configurar:"
+
+REFERENCE           EXE_ERR_COULDNT_CREATE_WINDOW
+LANG_ENGLISH           "No se pudo crear una ventana. Este es un error de Microsoft Windows(TM). Es posible que tengas quereiniciar."
+
+REFERENCE           EXE_ERR_COULDNT_INIT_REFRESH
+LANG_ENGLISH           "No se pudo inicializar la actualización."
+
+REFERENCE           EXE_ERR_COULDNT_LOAD
+LANG_ENGLISH           "No se pudo cargar &&1."
+
+REFERENCE           EXE_ERR_COULDNT_LOAD_OPENGL
+LANG_ENGLISH           "No se pudo cargar OpenGL. Asegúrate de disponer de los controladores másrecientes para tu tarjeta de video en el sitio web del fabricante."
+
+REFERENCE           EXE_ERR_COULDNT_OPEN_URL
+LANG_ENGLISH           "No se pudo acceder a la dirección: '&&1'"
+
+REFERENCE           EXE_ERR_COULDNT_REGISTER_WINDOW
+LANG_ENGLISH           "No se pudoregistrar una clase de ventana. Este es un error de Microsoft Windows(TM). Es posible que tengas quereiniciar."
+
+REFERENCE           EXE_ERR_COULDNT_START_PROCESS
+LANG_ENGLISH           "No se pudo iniciar el proceso: &&1"
+
+REFERENCE           EXE_ERR_GAME_FAILED_PURE_CHECK
+LANG_ENGLISH           "El código del juego (&&1) no superó la comprobación del servidor puro."
+
+REFERENCE           EXE_ERR_GET_NEWEST_DRIVERS
+LANG_ENGLISH           "Debes instalar los controladores másrecientes para tu tarjeta de video, después de desinstalar los anteriores. Si ya instalaste los controladores másrecientes, desinstálalos por completo y vuelve a instalarlos. Así se solucionan la mayoría de los problemas. Si el juego sigue sin funcionar, puede que tu tarjeta de video no cumpla con losrequisitos mínimos necesarios. Encontrarás más información en el archivoReadme (Léame), incluida una lista de tarjetas de video compatibles."
+
+REFERENCE           EXE_ERR_HIGH_PING_ONLY
+LANG_ENGLISH           "Servidor exclusivo para jugadores con ping alto."
+
+REFERENCE           EXE_ERR_HUNGUSAGE_CORRUPT
+LANG_ENGLISH           "El archivo hunkusage.dat está dañado."
+
+REFERENCE           EXE_ERR_HUNKUSAGE_CANT_WRITE
+LANG_ENGLISH           "No se pudo escribir en hunkusage.dat. Comprueba si el disco está lleno."
+
+REFERENCE           EXE_ERR_HUNK_ALLOC_FAILED
+LANG_ENGLISH           "El bloque de datos no consiguió asignar &&1 megas."
+
+REFERENCE           EXE_ERR_INVALID_CD_KEY
+LANG_ENGLISH           "La clave de producto no es válida.
+Por favor, introduce tu clave en el menú Opciones multijugador/Introducir clave, y trata de conectarte de nuevo al servidor."
+
+REFERENCE           EXE_ERR_INVALID_DEMO_FILE
+LANG_ENGLISH           "Elegiste un video o clip no válido."
+
+REFERENCE           EXE_ERR_JOURNAL_FILE_READ
+LANG_ENGLISH           "Error al leer en el archivo del diario."
+
+REFERENCE           EXE_ERR_JOURNAL_FILE_WRITE
+LANG_ENGLISH           "Error al escribir en el archivo del diario."
+
+REFERENCE           EXE_ERR_LOW_PING_ONLY
+LANG_ENGLISH           "Servidor exclusivo para jugadores con ping bajo."
+
+REFERENCE           EXE_ERR_MULTITEX_BAD_MAX
+LANG_ENGLISH           "Multitextura OpenGL 1.3 encontrada, pero no permite múltiples texturas."
+
+REFERENCE           EXE_ERR_MULTITEX_INIT_FAIL
+LANG_ENGLISH           "Multitextura OpenGL 1.3 encontrada, pero no pudo inicializarse."
+
+REFERENCE           EXE_ERR_NOT_A_DEMO_SERVER
+LANG_ENGLISH           "El servidor no es un servidor demo."
+
+REFERENCE           EXE_ERR_NOT_FOUND
+LANG_ENGLISH           "No se pudo encontrar &&1."
+
+REFERENCE           EXE_ERR_NOT_RECEIVED
+LANG_ENGLISH           "Se solicitó un comando norecibido."
+
+REFERENCE           EXE_ERR_NO_LAST_SAVE
+LANG_ENGLISH           "La última partida guardada parece haberse borrado. Carga otra partida distinta en el menú Cargar partida o empieza una nueva."
+
+REFERENCE           EXE_ERR_ONLINE_DATA
+LANG_ENGLISH           "El servidor de Call of Duty®: Modern Warfare®Remastered no está disponible en este momento. Vuelve a intentarlo más tarde o visita http://www.callofduty.com/mwr/status para conocer las últimas actualizaciones.
+
+Código de error: &&1"
+
+REFERENCE           EXE_ERR_OPENING_SCREENSHOT
+LANG_ENGLISH           "Se produjo un error al abrir la captura."
+
+REFERENCE           EXE_ERR_OUT_OF_MEMORY
+LANG_ENGLISH           "Memoria agotada."
+
+REFERENCE           EXE_ERR_PROCESS_DEMO_FILE_FAILED
+LANG_ENGLISH           "Se produjo un error al procesar este video o clip."
+
+REFERENCE           EXE_ERR_QPORT
+LANG_ENGLISH           "No es posible conectar. Qport duplicado en el servidor."
+
+REFERENCE           EXE_ERR_READING_DEMO
+LANG_ENGLISH           "Se produjo un error al leer este video o clip."
+
+REFERENCE           EXE_ERR_RELIABLE_CYCLED_OUT
+LANG_ENGLISH           "Expiró el ciclo de un comando fiable."
+
+REFERENCE           EXE_ERR_SERVER_TIMEOUT
+LANG_ENGLISH           "Se agotó el tiempo de conexión con el servidor."
+
+REFERENCE           EXE_ERR_SHOULD_BE
+LANG_ENGLISH           "debería ser"
+
+REFERENCE           EXE_ERR_UNAUTHORIZED_IP
+LANG_ENGLISH           "El servidor de Call of Duty®: Modern Warfare®Remasteredrechazó el acceso desde esta dirección IP."
+
+REFERENCE           EXE_ERR_UNREGISTERED_CONNECTION
+LANG_ENGLISH           "El servidorrechazó la solicitud de conexión."
+
+REFERENCE           EXE_ERR_VIDEOCARD_MISSING_FEATURE
+LANG_ENGLISH           "Tu tarjeta de video no cumple uno o más de losrequisitos necesarios para ejecutar Call of Duty."
+
+REFERENCE           EXE_ERR_WRONG_MAP_VERSION_NUM
+LANG_ENGLISH           "El número de versión del mapa &&1 es incorrecto."
+
+REFERENCE           EXE_ESTIMATING
+LANG_ENGLISH           "estimando"
+
+REFERENCE           EXE_EST_TIME_LEFT
+LANG_ENGLISH           "Tiempo estimadorestante:"
+
+REFERENCE           EXE_FAILED_ADD_LOBBY
+LANG_ENGLISH           "No se pudo añadir a un miembro del grupo a nuestra sala."
+
+REFERENCE           EXE_FAVORITEADDED
+LANG_ENGLISH           "Servidor favorito añadido."
+
+REFERENCE           EXE_FAVORITEADDRESSEMPTY
+LANG_ENGLISH           "La dirección del servidor está vacía."
+
+REFERENCE           EXE_FAVORITEINLIST
+LANG_ENGLISH           "Este servidor ya es un servidor favorito."
+
+REFERENCE           EXE_FAVORITELISTFULL
+LANG_ENGLISH           "La lista de favoritos ya está llena."
+
+REFERENCE           EXE_FAVORITENAMEEMPTY
+LANG_ENGLISH           "El nombre del servidor está vacío."
+
+REFERENCE           EXE_FAVORITES
+LANG_ENGLISH           "Favoritos"
+
+REFERENCE           EXE_FEATURE_PERM_BAN_CONSOLE
+LANG_ENGLISH           "Esta consola fue excluida permanentemente de usar esta función. Para más información, visita http://www.callofduty.com/mwr/help."
+
+REFERENCE           EXE_FEATURE_PERM_BAN_PLAYER
+LANG_ENGLISH           "&&1 fue excluido permanentemente de usar esta función. Para más información, visita http://www.callofduty.com/mwr/help."
+
+REFERENCE           EXE_FEATURE_TEMP_BAN_CONSOLE
+LANG_ENGLISH           "Esta consola fue excluida temporalmente de usar esta función. Para más información, visita http://www.callofduty.com/mwr/help."
+
+REFERENCE           EXE_FEATURE_TEMP_BAN_PLAYER
+LANG_ENGLISH           "&&1 fue excluido temporalmente de usar esta función. Para más información, visita http://www.callofduty.com/mwr/help."
+
+REFERENCE           EXE_GAMEISENDING
+LANG_ENGLISH           "No pudiste unirte. La partida está a punto de acabar."
+
+REFERENCE           EXE_GAMEISMIGRATING
+LANG_ENGLISH           "Error al unirse: actualmente no es posible unirse a la partida. Vuelve a intentarlo más tarde."
+
+REFERENCE           EXE_GAMESAVED
+LANG_ENGLISH           "Partida guardada"
+
+REFERENCE           EXE_GETTINGINFOFORSERVERS
+LANG_ENGLISH           "Obteniendo información de &&1 servidores (ESC para cancelar)"
+
+REFERENCE           EXE_GETTINGINFOFORSERVERS2
+LANG_ENGLISH           "Obteniendo información de &&1/&&2 servidores"
+
+REFERENCE           EXE_GIGABYTE
+LANG_ENGLISH           "GB"
+
+REFERENCE           EXE_HOSTUNREACH
+LANG_ENGLISH           "No se pudo conectar con el host."
+
+REFERENCE           EXE_HOST_HANDLE_ERROR
+LANG_ENGLISH           "Imposible establecer una conexión segura con el host."
+
+REFERENCE           EXE_HOURS
+LANG_ENGLISH           "h"
+
+REFERENCE           EXE_INTERNET
+LANG_ENGLISH           "Internet"
+
+REFERENCE           EXE_INVALIDUPDATESERVERDOWNLOAD
+LANG_ENGLISH           "Descarga no válida del servidor de actualización"
+
+REFERENCE           EXE_KEYCHANGE
+LANG_ENGLISH           "Oprime INTRO o haz CLIC para cambiar"
+
+REFERENCE           EXE_KEYWAIT
+LANG_ENGLISH           "Esperando una nueva tecla. Oprime ESC para cancelar oRETROCESO para borrar"
+
+REFERENCE           EXE_KILOBYTE
+LANG_ENGLISH           "KB"
+
+REFERENCE           EXE_LEADERBOARD_WRITE_BAN
+LANG_ENGLISH           "Fuiste excluido de aparecer en este marcador."
+
+REFERENCE           EXE_LEFTGAME
+LANG_ENGLISH           "abandonó la partida."
+
+REFERENCE           EXE_LOCAL
+LANG_ENGLISH           "Local"
+
+REFERENCE           EXE_LOSTCONNECTION
+LANG_ENGLISH           "Conexión con lared perdida"
+
+REFERENCE           EXE_LOSTRELIABLECOMMANDS
+LANG_ENGLISH           "Pérdida de comandos fiables"
+
+REFERENCE           EXE_MATCHENDED
+LANG_ENGLISH           "La partida terminó"
+
+REFERENCE           EXE_MEGABYTE
+LANG_ENGLISH           "MB"
+
+REFERENCE           EXE_MIGRATIONABORTED
+LANG_ENGLISH           "Migración de host cancelada. No hay un buen host disponible."
+
+REFERENCE           EXE_MIGRATIONABORTED_BACKOUT
+LANG_ENGLISH           "Migración de host cancelada. No hay un buen host disponible."
+
+REFERENCE           EXE_MIGRATIONDROPPED
+LANG_ENGLISH           "Migración fallida. El host abandonó."
+
+REFERENCE           EXE_MIGRATIONLIMIT
+LANG_ENGLISH           "Se alcanzó el límite de migración."
+
+REFERENCE           EXE_MIGRATION_IN_PROGRESS
+LANG_ENGLISH           "No es posible unirse a la partida porque hay una migración de host en curso."
+
+REFERENCE           EXE_MINUTES
+LANG_ENGLISH           "min"
+
+REFERENCE           EXE_MONTH_ABV_APRIL
+LANG_ENGLISH           "Abr"
+
+REFERENCE           EXE_MONTH_ABV_AUGUST
+LANG_ENGLISH           "Ago"
+
+REFERENCE           EXE_MONTH_ABV_DECEMBER
+LANG_ENGLISH           "Dic"
+
+REFERENCE           EXE_MONTH_ABV_FEBRUARY
+LANG_ENGLISH           "Feb"
+
+REFERENCE           EXE_MONTH_ABV_JANUARY
+LANG_ENGLISH           "Ene"
+
+REFERENCE           EXE_MONTH_ABV_JULY
+LANG_ENGLISH           "Jul"
+
+REFERENCE           EXE_MONTH_ABV_JUN
+LANG_ENGLISH           "Jun"
+
+REFERENCE           EXE_MONTH_ABV_JUNE
+LANG_ENGLISH           "Jun"
+
+REFERENCE           EXE_MONTH_ABV_MARCH
+LANG_ENGLISH           "Mar"
+
+REFERENCE           EXE_MONTH_ABV_MAY
+LANG_ENGLISH           "Mayo"
+
+REFERENCE           EXE_MONTH_ABV_NOVEMBER
+LANG_ENGLISH           "Nov"
+
+REFERENCE           EXE_MONTH_ABV_OCTOBER
+LANG_ENGLISH           "Oct"
+
+REFERENCE           EXE_MONTH_ABV_SEPTEMBER
+LANG_ENGLISH           "Sep"
+
+REFERENCE           EXE_NEEDSTATS
+LANG_ENGLISH           "Error al sincronizar ajustes de juego"
+
+REFERENCE           EXE_NETSOURCE
+LANG_ENGLISH           "Fuente:     &&1"
+
+REFERENCE           EXE_NO
+LANG_ENGLISH           "No"
+
+REFERENCE           EXE_NOSAVEGAMES
+LANG_ENGLISH           "(Sin partidas guardadas)"
+
+REFERENCE           EXE_OF
+LANG_ENGLISH           "de"
+
+REFERENCE           EXE_ONLINE_PERM_BAN_CONSOLE
+LANG_ENGLISH           "Esta consola fue excluida permanentemente de jugar en los servidores de Call of Duty®: Modern Warfare®Remastered. Para más información, visita http://www.callofduty.com/mwr/help."
+
+REFERENCE           EXE_ONLINE_PERM_BAN_PLAYER
+LANG_ENGLISH           "&&1 fue excluido permanentemente de jugar en los servidores de Call of Duty®: Modern Warfare®Remastered. Para más información, visita http://www.callofduty.com/mwr/help."
+
+REFERENCE           EXE_ONLINE_PERM_BAN_PLAYER_NO_NAME
+LANG_ENGLISH           "Fuiste excluido permanentemente de jugar en los servidores de Call of Duty®: Modern Warfare®Remastered. Para más información, visita http://www.callofduty.com/mwr/help."
+
+REFERENCE           EXE_ONLINE_TEMP_BAN_CONSOLE
+LANG_ENGLISH           "Esta consola fue excluida temporalmente de jugar en los servidores de Call of Duty®: Modern Warfare®Remastered. Para más información, visita http://www.callofduty.com/mwr/help."
+
+REFERENCE           EXE_ONLINE_TEMP_BAN_PLAYER
+LANG_ENGLISH           "&&1 fue excluido temporalmente de jugar en los servidores de Call of Duty®: Modern Warfare®Remastered. Para más información, visita http://www.callofduty.com/mwr/help."
+
+REFERENCE           EXE_ONLINE_TEMP_BAN_PLAYER_NO_NAME
+LANG_ENGLISH           "Fuiste excluido temporalmente de jugar en los servidores de Call of Duty®: Modern Warfare®Remastered. Para más información, visita http://www.callofduty.com/mwr/help."
+
+REFERENCE           EXE_PLAYERKICKED
+LANG_ENGLISH           "Jugador expulsado."
+
+REFERENCE           EXE_PLAYERKICKED_BOT_BALANCE
+LANG_ENGLISH           "fue expulsado para equilibrar los equipos."
+
+REFERENCE           EXE_PLAYERKICKED_BOT_MAKE_ROOM
+LANG_ENGLISH           "fue expulsado para hacer sitio a un jugador humano."
+
+REFERENCE           EXE_PLAYERKICKED_INACTIVE
+LANG_ENGLISH           "Expulsado por inactividad."
+
+REFERENCE           EXE_PLAYERKICKED_TEAMKILL
+LANG_ENGLISH           "Expulsado por bajas de equipo."
+
+REFERENCE           EXE_REFRESHTIME
+LANG_ENGLISH           "Tiempo de actualización: &&1"
+
+REFERENCE           EXE_SAY
+LANG_ENGLISH           "decir"
+
+REFERENCE           EXE_SAYTEAM
+LANG_ENGLISH           "decir_equipo"
+
+REFERENCE           EXE_SECONDS
+LANG_ENGLISH           "seg"
+
+REFERENCE           EXE_SERVERCOMMANDOVERFLOW
+LANG_ENGLISH           "Desbordamiento de comandos del servidor"
+
+REFERENCE           EXE_SERVERDIDNTHAVECD
+LANG_ENGLISH           "El servidor no tenía CD"
+
+REFERENCE           EXE_SERVERDISCONNECTREASON
+LANG_ENGLISH           "&&1"
+
+REFERENCE           EXE_SERVERFILTER
+LANG_ENGLISH           "Filtro: &&1"
+
+REFERENCE           EXE_SERVERISFULL
+LANG_ENGLISH           "El servidor está lleno."
+
+REFERENCE           EXE_SERVERKILLED
+LANG_ENGLISH           "Servidor muerto."
+
+REFERENCE           EXE_SERVERMESSAGEOVERFLOW
+LANG_ENGLISH           "Desbordamiento de mensajes del servidor"
+
+REFERENCE           EXE_SERVERQUIT
+LANG_ENGLISH           "El servidor abandonó"
+
+REFERENCE           EXE_SERVERRESTARTMISC
+LANG_ENGLISH           "Reiniciando el servidor debido al desfase de &&1."
+
+REFERENCE           EXE_SERVERRESTARTTIMEWRAP
+LANG_ENGLISH           "Reiniciando el servidor debido al desfase temporal."
+
+REFERENCE           EXE_SERVERSHUTDOWNMISC
+LANG_ENGLISH           "Deteniendo la partida debido al desfase de &&1."
+
+REFERENCE           EXE_SERVERSHUTDOWNTIMEWRAP
+LANG_ENGLISH           "Deteniendo la partida debido al desfase."
+
+REFERENCE           EXE_SERVER_DISCONNECTED
+LANG_ENGLISH           "Servidor desconectado"
+
+REFERENCE           EXE_SERVER_DISCONNECTED_UNKNOWN
+LANG_ENGLISH           "Desconectado del servidor"
+
+REFERENCE           EXE_SERVER_FATAL_CRASHED
+LANG_ENGLISH           "Bloqueo fatal del servidor:"
+
+REFERENCE           EXE_SERVER_IS_DIFFERENT_CHECKSUM
+LANG_ENGLISH           "No fue posible conectarse al servidor porque los datos son incompatibles."
+
+REFERENCE           EXE_SERVER_IS_DIFFERENT_VER
+LANG_ENGLISH           "El servidor es de una versión distinta:
+&&1"
+
+REFERENCE           EXE_SHADERPRELOAD
+LANG_ENGLISH           "Carga previa de shaders... &&1%"
+
+REFERENCE           EXE_SV_INFO_ADDRESS
+LANG_ENGLISH           "Dirección IP:"
+
+REFERENCE           EXE_SV_INFO_ALLOWANON
+LANG_ENGLISH           "Permitir anónimos"
+
+REFERENCE           EXE_SV_INFO_ANTILAG
+LANG_ENGLISH           "Antirretardo"
+
+REFERENCE           EXE_SV_INFO_CLIENT_CONSOLE
+LANG_ENGLISH           "Consola cliente"
+
+REFERENCE           EXE_SV_INFO_COMPASS_ENEMIES
+LANG_ENGLISH           "Brújula de los enemigos"
+
+REFERENCE           EXE_SV_INFO_DEDICATED
+LANG_ENGLISH           "Tipo de servidor"
+
+REFERENCE           EXE_SV_INFO_DEDICATED_0
+LANG_ENGLISH           "Servidor pasivo"
+
+REFERENCE           EXE_SV_INFO_DEDICATED_1
+LANG_ENGLISH           "Servidor LAN dedicado"
+
+REFERENCE           EXE_SV_INFO_DEDICATED_2
+LANG_ENGLISH           "Servidor de Internet dedicado"
+
+REFERENCE           EXE_SV_INFO_FLOODPROTECT
+LANG_ENGLISH           "Protección de saturación"
+
+REFERENCE           EXE_SV_INFO_FRIENDLY_FIRE
+LANG_ENGLISH           "Fuego amigo"
+
+REFERENCE           EXE_SV_INFO_GAMENAME
+LANG_ENGLISH           "Nombre de la partida"
+
+REFERENCE           EXE_SV_INFO_GAMETYPE
+LANG_ENGLISH           "Tipo de partida"
+
+REFERENCE           EXE_SV_INFO_HARDCORE
+LANG_ENGLISH           "Extremo"
+
+REFERENCE           EXE_SV_INFO_KILLCAM
+LANG_ENGLISH           "Cámara de muerte"
+
+REFERENCE           EXE_SV_INFO_MAP
+LANG_ENGLISH           "Mapa"
+
+REFERENCE           EXE_SV_INFO_MAXCLIENTS
+LANG_ENGLISH           "Máx. clientes"
+
+REFERENCE           EXE_SV_INFO_MAXPING
+LANG_ENGLISH           "Ping máx."
+
+REFERENCE           EXE_SV_INFO_MAXRATE
+LANG_ENGLISH           "Tasa máx."
+
+REFERENCE           EXE_SV_INFO_MINPING
+LANG_ENGLISH           "Ping mín."
+
+REFERENCE           EXE_SV_INFO_MOD
+LANG_ENGLISH           "Mod"
+
+REFERENCE           EXE_SV_INFO_NAME
+LANG_ENGLISH           "nombre"
+
+REFERENCE           EXE_SV_INFO_NUM
+LANG_ENGLISH           "núm."
+
+REFERENCE           EXE_SV_INFO_OLDSCHOOL
+LANG_ENGLISH           "Vieja escuela"
+
+REFERENCE           EXE_SV_INFO_PASSWORD
+LANG_ENGLISH           "Con contraseña"
+
+REFERENCE           EXE_SV_INFO_PING
+LANG_ENGLISH           "ping"
+
+REFERENCE           EXE_SV_INFO_PRIVATECLIENTS
+LANG_ENGLISH           "Clientes privados"
+
+REFERENCE           EXE_SV_INFO_PROTOCOL
+LANG_ENGLISH           "Versión del protocolo"
+
+REFERENCE           EXE_SV_INFO_PURE
+LANG_ENGLISH           "Servidor puro"
+
+REFERENCE           EXE_SV_INFO_SCORE
+LANG_ENGLISH           "puntuación"
+
+REFERENCE           EXE_SV_INFO_SERVERNAME
+LANG_ENGLISH           "Nombre del servidor"
+
+REFERENCE           EXE_SV_INFO_VERSION
+LANG_ENGLISH           "Versión"
+
+REFERENCE           EXE_SV_INFO_VOICE
+LANG_ENGLISH           "Voz"
+
+REFERENCE           EXE_SV_INFO_VOICE_0
+LANG_ENGLISH           "Sin chat"
+
+REFERENCE           EXE_SV_INFO_VOICE_1
+LANG_ENGLISH           "Chat abierto"
+
+REFERENCE           EXE_SV_INFO_VOICE_2
+LANG_ENGLISH           "Chat de equipo"
+
+REFERENCE           EXE_TEMP_BAN_DAYS
+LANG_ENGLISH           "Quedan &&1 días para poder disponer de acceso."
+
+REFERENCE           EXE_TEMP_BAN_HOURS
+LANG_ENGLISH           "Quedan &&1 horas para poder disponer de acceso."
+
+REFERENCE           EXE_TIMEDOUT
+LANG_ENGLISH           "Tiempo agotado"
+
+REFERENCE           EXE_TRANSMITERROR
+LANG_ENGLISH           "Desconectado a causa de un error de transmisión"
+
+REFERENCE           EXE_TRANS_RATE
+LANG_ENGLISH           "Tasa de transferencia:"
+
+REFERENCE           EXE_UNPURECLIENTDETECTED
+LANG_ENGLISH           "Cliente impuro detectado. ¡Se encontraron archivos .IWD no válidos!"
+
+REFERENCE           EXE_UPLOADINGSTATS
+LANG_ENGLISH           "Sincronizando los ajustes del juego."
+
+REFERENCE           EXE_VALIDATION_FAILED
+LANG_ENGLISH           "Se produjo un error al sincronizar tu perfil con los servidores de Call of Duty®: Modern Warfare®Remastered."
+
+REFERENCE           EXE_WAITINGFORMASTERSERVERRESPONSE
+LANG_ENGLISH           "Esperando larespuesta del servidor maestro"
+
+REFERENCE           EXE_YES
+LANG_ENGLISH           "Sí"
+
+REFERENCE           LUA_HUD_CAPSLOCK
+LANG_ENGLISH           "MAYÚS"
+
+REFERENCE           LUA_HUD_CTRL
+LANG_ENGLISH           "CTRL"
+
+REFERENCE           LUA_HUD_DEL
+LANG_ENGLISH           "SUPR"
+
+REFERENCE           LUA_HUD_DOWNARROW
+LANG_ENGLISH           "Abajo"
+
+REFERENCE           LUA_HUD_END
+LANG_ENGLISH           "FIN"
+
+REFERENCE           LUA_HUD_ENTER
+LANG_ENGLISH           "ENTER"
+
+REFERENCE           LUA_HUD_HOME
+LANG_ENGLISH           "INICIO"
+
+REFERENCE           LUA_HUD_INS
+LANG_ENGLISH           "INSERT"
+
+REFERENCE           LUA_HUD_KP_5
+LANG_ENGLISH           "Num. 5"
+
+REFERENCE           LUA_HUD_KP_DEL
+LANG_ENGLISH           "Num."
+
+REFERENCE           LUA_HUD_KP_DOWNARROW
+LANG_ENGLISH           "Num. 2"
+
+REFERENCE           LUA_HUD_KP_END
+LANG_ENGLISH           "Num. 1"
+
+REFERENCE           LUA_HUD_KP_ENTER
+LANG_ENGLISH           "Num. ENTER"
+
+REFERENCE           LUA_HUD_KP_HOME
+LANG_ENGLISH           "Num. 7"
+
+REFERENCE           LUA_HUD_KP_INS
+LANG_ENGLISH           "Num. 0"
+
+REFERENCE           LUA_HUD_KP_LEFTARROW
+LANG_ENGLISH           "Num. 4"
+
+REFERENCE           LUA_HUD_KP_MINUS
+LANG_ENGLISH           "Num. -"
+
+REFERENCE           LUA_HUD_KP_NUMLOCK
+LANG_ENGLISH           "NUM."
+
+REFERENCE           LUA_HUD_KP_PGDN
+LANG_ENGLISH           "Num. 3"
+
+REFERENCE           LUA_HUD_KP_PGUP
+LANG_ENGLISH           "Num. 9"
+
+REFERENCE           LUA_HUD_KP_PLUS
+LANG_ENGLISH           "Num. +"
+
+REFERENCE           LUA_HUD_KP_RIGHTARROW
+LANG_ENGLISH           "Num. 6"
+
+REFERENCE           LUA_HUD_KP_SLASH
+LANG_ENGLISH           "Num. /"
+
+REFERENCE           LUA_HUD_KP_STAR
+LANG_ENGLISH           "Num. *"
+
+REFERENCE           LUA_HUD_KP_UPARROW
+LANG_ENGLISH           "Num. 8"
+
+REFERENCE           LUA_HUD_LEFTARROW
+LANG_ENGLISH           "Izquierda"
+
+REFERENCE           LUA_HUD_MOUSE1
+LANG_ENGLISH           "CLIC IZQ."
+
+REFERENCE           LUA_HUD_MOUSE2
+LANG_ENGLISH           "CLIC DER."
+
+REFERENCE           LUA_HUD_MOUSE3
+LANG_ENGLISH           "m3"
+
+REFERENCE           LUA_HUD_MOUSE4
+LANG_ENGLISH           "m4"
+
+REFERENCE           LUA_HUD_MOUSE5
+LANG_ENGLISH           "m5"
+
+REFERENCE           LUA_HUD_MWHEELDOWN
+LANG_ENGLISH           "RuedaAB"
+
+REFERENCE           LUA_HUD_MWHEELUP
+LANG_ENGLISH           "RuedaARR"
+
+REFERENCE           LUA_HUD_PGDN
+LANG_ENGLISH           "AV PÁG"
+
+REFERENCE           LUA_HUD_PGUP
+LANG_ENGLISH           "RE PÁG"
+
+REFERENCE           LUA_HUD_RIGHTARROW
+LANG_ENGLISH           "Derecha"
+
+REFERENCE           LUA_HUD_SHIFT
+LANG_ENGLISH           "MAYÚSCULAS"
+
+REFERENCE           LUA_HUD_SPACE
+LANG_ENGLISH           "ESPACIO"
+
+REFERENCE           LUA_HUD_TAB
+LANG_ENGLISH           "TAB"
+
+REFERENCE           LUA_HUD_UNBOUND
+LANG_ENGLISH           "¿?"
+
+REFERENCE           LUA_HUD_UPARROW
+LANG_ENGLISH           "Arriba"
+
+REFERENCE           NEW_DOG_DEATH_DO_NOTHING_ALT
+LANG_ENGLISH           "Oprime ^3[{+melee}]^7 cuando aparezca la indicación para agarrar a un perro."
+
+REFERENCE           NEW_DOG_DEATH_TOO_LATE_ALT
+LANG_ENGLISH           "Demasiado tarde. Oprime ^3[{+melee}]^7 cuando aparezca la indicación para agarrar a un perro."
+
+REFERENCE           NEW_DOG_DEATH_TOO_SOON_ALT
+LANG_ENGLISH           "Demasiado pronto. Oprime ^3[{+melee}]^7 cuando aparezca la indicación para agarrar a un perro."
+
+REFERENCE           NEW_HYENA_DEATH_DO_NOTHING_ALT
+LANG_ENGLISH           "Oprime ^3[{+melee}]^7 cuando aparezca la indicación para agarrar a una hiena."
+
+REFERENCE           NEW_HYENA_DEATH_TOO_LATE_ALT
+LANG_ENGLISH           "Demasiado tarde. Oprime ^3[{+melee}]^7 cuando aparezca la indicación para agarrar a una hiena."
+
+REFERENCE           NEW_HYENA_DEATH_TOO_SOON_ALT
+LANG_ENGLISH           "Demasiado pronto. Oprime ^3[{+melee}]^7 cuando aparezca la indicación para agarrar a una hiena."
+
+REFERENCE           RANK_1STLT
+LANG_ENGLISH           "Tte."
+
+REFERENCE           RANK_1STLT_FULL
+LANG_ENGLISH           "Teniente"
+
+REFERENCE           RANK_1STLT_FULL2
+LANG_ENGLISH           "Teniente I"
+
+REFERENCE           RANK_1STLT_FULL3
+LANG_ENGLISH           "Teniente II"
+
+REFERENCE           RANK_1STLT_FULL4
+LANG_ENGLISH           "Teniente III"
+
+REFERENCE           RANK_1STLT_FULL_N
+LANG_ENGLISH           "Teniente &&1"
+
+REFERENCE           RANK_1STSGT
+LANG_ENGLISH           "Sgto. 1ª"
+
+REFERENCE           RANK_1STSGT_FULL
+LANG_ENGLISH           "Sgto. de primera"
+
+REFERENCE           RANK_1STSGT_FULL2
+LANG_ENGLISH           "Sgto. de primera I"
+
+REFERENCE           RANK_1STSGT_FULL3
+LANG_ENGLISH           "Sgto. de primera II"
+
+REFERENCE           RANK_1STSGT_FULL4
+LANG_ENGLISH           "Sgto. de primera III"
+
+REFERENCE           RANK_1STSGT_FULL_N
+LANG_ENGLISH           "Sgto. de primera &&1"
+
+REFERENCE           RANK_2NDLT
+LANG_ENGLISH           "Alfz."
+
+REFERENCE           RANK_2NDLT_FULL
+LANG_ENGLISH           "Alférez"
+
+REFERENCE           RANK_2NDLT_FULL2
+LANG_ENGLISH           "Alférez I"
+
+REFERENCE           RANK_2NDLT_FULL3
+LANG_ENGLISH           "Alférez II"
+
+REFERENCE           RANK_2NDLT_FULL4
+LANG_ENGLISH           "Alférez III"
+
+REFERENCE           RANK_2NDLT_FULL_N
+LANG_ENGLISH           "Alférez &&1"
+
+REFERENCE           RANK_BGEN
+LANG_ENGLISH           "Gral. Brig."
+
+REFERENCE           RANK_BGEN_FULL
+LANG_ENGLISH           "General de brigada"
+
+REFERENCE           RANK_BGEN_FULL2
+LANG_ENGLISH           "General de brigada I"
+
+REFERENCE           RANK_BGEN_FULL3
+LANG_ENGLISH           "General de brigada II"
+
+REFERENCE           RANK_BGEN_FULL4
+LANG_ENGLISH           "General de brigada III"
+
+REFERENCE           RANK_BGEN_FULL_N
+LANG_ENGLISH           "General de brigada &&1"
+
+REFERENCE           RANK_CAPT
+LANG_ENGLISH           "Cap."
+
+REFERENCE           RANK_CAPT_FULL
+LANG_ENGLISH           "Capitán"
+
+REFERENCE           RANK_CAPT_FULL2
+LANG_ENGLISH           "Capitán I"
+
+REFERENCE           RANK_CAPT_FULL3
+LANG_ENGLISH           "Capitán II"
+
+REFERENCE           RANK_CAPT_FULL4
+LANG_ENGLISH           "Capitán III"
+
+REFERENCE           RANK_CAPT_FULL_N
+LANG_ENGLISH           "Capitán &&1"
+
+REFERENCE           RANK_CHALLENGES_PRE
+LANG_ENGLISH           "Desafío completado:"
+
+REFERENCE           RANK_COL
+LANG_ENGLISH           "Cnel."
+
+REFERENCE           RANK_COL_FULL
+LANG_ENGLISH           "Coronel"
+
+REFERENCE           RANK_COL_FULL2
+LANG_ENGLISH           "Coronel I"
+
+REFERENCE           RANK_COL_FULL3
+LANG_ENGLISH           "Coronel II"
+
+REFERENCE           RANK_COL_FULL4
+LANG_ENGLISH           "Coronel III"
+
+REFERENCE           RANK_COL_FULL_N
+LANG_ENGLISH           "Coronel &&1"
+
+REFERENCE           RANK_COMM
+LANG_ENGLISH           "Cap. gral."
+
+REFERENCE           RANK_COMM_FULL
+LANG_ENGLISH           "Capitán general"
+
+REFERENCE           RANK_COMM_FULL2
+LANG_ENGLISH           "Comandante I"
+
+REFERENCE           RANK_COMM_FULL3
+LANG_ENGLISH           "Comandante II"
+
+REFERENCE           RANK_COMM_FULL_N
+LANG_ENGLISH           "Comandante &&1"
+
+REFERENCE           RANK_CPL
+LANG_ENGLISH           "Cabo 1º"
+
+REFERENCE           RANK_CPL_FULL
+LANG_ENGLISH           "Cabo primero"
+
+REFERENCE           RANK_CPL_FULL2
+LANG_ENGLISH           "Cabo I"
+
+REFERENCE           RANK_CPL_FULL3
+LANG_ENGLISH           "Cabo primero II"
+
+REFERENCE           RANK_CPL_FULL_N
+LANG_ENGLISH           "Cabo primero &&1"
+
+REFERENCE           RANK_CSM
+LANG_ENGLISH           "SOM."
+
+REFERENCE           RANK_CSM_FULL
+LANG_ENGLISH           "Comandante sargento mayor"
+
+REFERENCE           RANK_CSM_FULL2
+LANG_ENGLISH           "Comandante sargento mayor I"
+
+REFERENCE           RANK_CSM_FULL3
+LANG_ENGLISH           "Comandante sargento mayor II"
+
+REFERENCE           RANK_CSM_FULL4
+LANG_ENGLISH           "Comandante sargento mayor III"
+
+REFERENCE           RANK_CSM_FULL_N
+LANG_ENGLISH           "Comandante sargento mayor &&1"
+
+REFERENCE           RANK_DELETE
+LANG_ENGLISH           "BÓRRAME"
+
+REFERENCE           RANK_GAME_SUMMARY
+LANG_ENGLISH           "Resumen del juego"
+
+REFERENCE           RANK_GEN
+LANG_ENGLISH           "Gral. ejé."
+
+REFERENCE           RANK_GEN_FULL
+LANG_ENGLISH           "General"
+
+REFERENCE           RANK_GEN_FULL2
+LANG_ENGLISH           "General de ejército I"
+
+REFERENCE           RANK_GEN_FULL3
+LANG_ENGLISH           "General del ejército II"
+
+REFERENCE           RANK_GEN_FULL4
+LANG_ENGLISH           "General del ejército III"
+
+REFERENCE           RANK_GEN_FULL_N
+LANG_ENGLISH           "General del ejército &&1"
+
+REFERENCE           RANK_GYSGT
+LANG_ENGLISH           "Sgto. 1º"
+
+REFERENCE           RANK_GYSGT_FULL
+LANG_ENGLISH           "Sgto. primero"
+
+REFERENCE           RANK_GYSGT_FULL2
+LANG_ENGLISH           "Sargento primero I"
+
+REFERENCE           RANK_GYSGT_FULL3
+LANG_ENGLISH           "Sgto. primero II"
+
+REFERENCE           RANK_GYSGT_FULL_N
+LANG_ENGLISH           "Sgto. primero &&1"
+
+REFERENCE           RANK_KILL_STREAK_N
+LANG_ENGLISH           "¡&&1 tiene una racha de bajas de &&2!"
+
+REFERENCE           RANK_LCPL
+LANG_ENGLISH           "Cabo"
+
+REFERENCE           RANK_LCPL_FULL
+LANG_ENGLISH           "Cabo"
+
+REFERENCE           RANK_LCPL_FULL2
+LANG_ENGLISH           "Cabo I"
+
+REFERENCE           RANK_LCPL_FULL3
+LANG_ENGLISH           "Cabo II"
+
+REFERENCE           RANK_LCPL_FULL_N
+LANG_ENGLISH           "Cabo &&1"
+
+REFERENCE           RANK_LTCOL
+LANG_ENGLISH           "Tte. cnel."
+
+REFERENCE           RANK_LTCOL_FULL
+LANG_ENGLISH           "Teniente coronel"
+
+REFERENCE           RANK_LTCOL_FULL2
+LANG_ENGLISH           "Teniente coronel I"
+
+REFERENCE           RANK_LTCOL_FULL3
+LANG_ENGLISH           "Teniente coronel II"
+
+REFERENCE           RANK_LTCOL_FULL4
+LANG_ENGLISH           "Teniente coronel III"
+
+REFERENCE           RANK_LTCOL_FULL_N
+LANG_ENGLISH           "Teniente coronel &&1"
+
+REFERENCE           RANK_LTGEN
+LANG_ENGLISH           "Tte. gral."
+
+REFERENCE           RANK_LTGEN_FULL
+LANG_ENGLISH           "Teniente general"
+
+REFERENCE           RANK_LTGEN_FULL2
+LANG_ENGLISH           "Teniente general I"
+
+REFERENCE           RANK_LTGEN_FULL3
+LANG_ENGLISH           "Teniente general II"
+
+REFERENCE           RANK_LTGEN_FULL4
+LANG_ENGLISH           "Teniente general III"
+
+REFERENCE           RANK_LTGEN_FULL_N
+LANG_ENGLISH           "Teniente general &&1"
+
+REFERENCE           RANK_MAJ
+LANG_ENGLISH           "Cmte."
+
+REFERENCE           RANK_MAJGEN
+LANG_ENGLISH           "Gral. div."
+
+REFERENCE           RANK_MAJGEN_FULL
+LANG_ENGLISH           "General de división"
+
+REFERENCE           RANK_MAJGEN_FULL2
+LANG_ENGLISH           "General de división I"
+
+REFERENCE           RANK_MAJGEN_FULL3
+LANG_ENGLISH           "General de división II"
+
+REFERENCE           RANK_MAJGEN_FULL4
+LANG_ENGLISH           "General de división III"
+
+REFERENCE           RANK_MAJGEN_FULL_N
+LANG_ENGLISH           "General de división &&1"
+
+REFERENCE           RANK_MAJ_FULL
+LANG_ENGLISH           "Comandante"
+
+REFERENCE           RANK_MAJ_FULL2
+LANG_ENGLISH           "Mayor I"
+
+REFERENCE           RANK_MAJ_FULL3
+LANG_ENGLISH           "Comandante II"
+
+REFERENCE           RANK_MAJ_FULL4
+LANG_ENGLISH           "Comandante III"
+
+REFERENCE           RANK_MAJ_FULL_N
+LANG_ENGLISH           "Comandante &&1"
+
+REFERENCE           RANK_MATCHBONUS
+LANG_ENGLISH           "Bonificación de la partida"
+
+REFERENCE           RANK_MATCHBONUS_PRE
+LANG_ENGLISH           "Bonificación por partida:"
+
+REFERENCE           RANK_MGYSGT
+LANG_ENGLISH           "Subof. M."
+
+REFERENCE           RANK_MGYSGT_FULL
+LANG_ENGLISH           "Suboficial mayor"
+
+REFERENCE           RANK_MGYSGT_FULL2
+LANG_ENGLISH           "Suboficial mayor I"
+
+REFERENCE           RANK_MGYSGT_FULL3
+LANG_ENGLISH           "Suboficial mayor II"
+
+REFERENCE           RANK_MGYSGT_FULL_N
+LANG_ENGLISH           "Suboficial mayor &&1"
+
+REFERENCE           RANK_MSGT
+LANG_ENGLISH           "Brig."
+
+REFERENCE           RANK_MSGT_FULL
+LANG_ENGLISH           "Brigada"
+
+REFERENCE           RANK_MSGT_FULL2
+LANG_ENGLISH           "Subteniente I"
+
+REFERENCE           RANK_MSGT_FULL3
+LANG_ENGLISH           "Brigada II"
+
+REFERENCE           RANK_MSGT_FULL4
+LANG_ENGLISH           "Subteniente III"
+
+REFERENCE           RANK_MSGT_FULL_N
+LANG_ENGLISH           "Brigada &&1"
+
+REFERENCE           RANK_NEWRANK
+LANG_ENGLISH           "Conseguiste un nuevo rango:"
+
+REFERENCE           RANK_NEWREF
+LANG_ENGLISH           "Nuevo texto"
+
+REFERENCE           RANK_NEXT_RANK_PRE
+LANG_ENGLISH           "Siguiente rango:"
+
+REFERENCE           RANK_PARAGON_FULL
+LANG_ENGLISH           "Ejemplo"
+
+REFERENCE           RANK_PARAGON_FULL_N
+LANG_ENGLISH           "Ejemplo &&1"
+
+REFERENCE           RANK_PFC
+LANG_ENGLISH           "Sol. 1º"
+
+REFERENCE           RANK_PFC_FULL
+LANG_ENGLISH           "Soldado de primera clase"
+
+REFERENCE           RANK_PFC_FULL2
+LANG_ENGLISH           "Soldado de primera clase I"
+
+REFERENCE           RANK_PFC_FULL3
+LANG_ENGLISH           "Soldado de primera clase II"
+
+REFERENCE           RANK_PFC_FULL_N
+LANG_ENGLISH           "Soldado primero &&1"
+
+REFERENCE           RANK_PLAYER_WAS_PROMOTED
+LANG_ENGLISH           "¡&&1 ascendió a &&2!"
+
+REFERENCE           RANK_PLAYER_WAS_PROMOTED_N
+LANG_ENGLISH           "¡&&1 ascendió a &&2 &&3!"
+
+REFERENCE           RANK_PROMOTED
+LANG_ENGLISH           "¡Fuiste ascendido!"
+
+REFERENCE           RANK_PROMOTED_WEAPON
+LANG_ENGLISH           "¡Tu rango de arma aumentó!"
+
+REFERENCE           RANK_PVT
+LANG_ENGLISH           "Sol."
+
+REFERENCE           RANK_PVT_FULL
+LANG_ENGLISH           "Soldado"
+
+REFERENCE           RANK_PVT_FULL2
+LANG_ENGLISH           "Soldado I"
+
+REFERENCE           RANK_PVT_FULL3
+LANG_ENGLISH           "Soldado II"
+
+REFERENCE           RANK_PVT_FULL_N
+LANG_ENGLISH           "Soldado &&1"
+
+REFERENCE           RANK_RANK_PRE
+LANG_ENGLISH           "Rango: &&1"
+
+REFERENCE           RANK_REC
+LANG_ENGLISH           "Rec."
+
+REFERENCE           RANK_REC_FULL
+LANG_ENGLISH           "Recluta"
+
+REFERENCE           RANK_REC_FULL2
+LANG_ENGLISH           "Recluta I"
+
+REFERENCE           RANK_REC_FULL3
+LANG_ENGLISH           "Recluta II"
+
+REFERENCE           RANK_ROMANI
+LANG_ENGLISH           "I"
+
+REFERENCE           RANK_ROMANII
+LANG_ENGLISH           "II"
+
+REFERENCE           RANK_ROMANIII
+LANG_ENGLISH           "III"
+
+REFERENCE           RANK_SCORE_PRE
+LANG_ENGLISH           "Puntuación:"
+
+REFERENCE           RANK_SFC
+LANG_ENGLISH           "SPC."
+
+REFERENCE           RANK_SFC_FULL
+LANG_ENGLISH           "Sgto. de primera clase"
+
+REFERENCE           RANK_SFC_FULL2
+LANG_ENGLISH           "Sgto. de primera clase I"
+
+REFERENCE           RANK_SFC_FULL3
+LANG_ENGLISH           "Sgto. de primera clase II"
+
+REFERENCE           RANK_SFC_FULL4
+LANG_ENGLISH           "Sgto. de primera clase III"
+
+REFERENCE           RANK_SFC_FULL_N
+LANG_ENGLISH           "Sgto. de primera clase &&1"
+
+REFERENCE           RANK_SGT
+LANG_ENGLISH           "C. may."
+
+REFERENCE           RANK_SGTMAJ
+LANG_ENGLISH           "Sgto. Mayor"
+
+REFERENCE           RANK_SGTMAJ_FULL
+LANG_ENGLISH           "Sargento mayor"
+
+REFERENCE           RANK_SGTMAJ_FULL2
+LANG_ENGLISH           "Sargento mayor I"
+
+REFERENCE           RANK_SGTMAJ_FULL3
+LANG_ENGLISH           "Sargento mayor II"
+
+REFERENCE           RANK_SGTMAJ_FULL4
+LANG_ENGLISH           "Sargento mayor III"
+
+REFERENCE           RANK_SGTMAJ_FULL_N
+LANG_ENGLISH           "Sargento mayor &&1"
+
+REFERENCE           RANK_SGT_FULL
+LANG_ENGLISH           "Cabo mayor"
+
+REFERENCE           RANK_SGT_FULL2
+LANG_ENGLISH           "Sargento I"
+
+REFERENCE           RANK_SGT_FULL3
+LANG_ENGLISH           "Cabo mayor II"
+
+REFERENCE           RANK_SGT_FULL_N
+LANG_ENGLISH           "Cabo mayor &&1"
+
+REFERENCE           RANK_SPC
+LANG_ENGLISH           "Espec."
+
+REFERENCE           RANK_SPC_FULL
+LANG_ENGLISH           "Especialista"
+
+REFERENCE           RANK_SPC_FULL2
+LANG_ENGLISH           "Especialista I"
+
+REFERENCE           RANK_SPC_FULL3
+LANG_ENGLISH           "Especialista II"
+
+REFERENCE           RANK_SPC_FULL_N
+LANG_ENGLISH           "Especialista &&1"
+
+REFERENCE           RANK_SSGT
+LANG_ENGLISH           "Sgto."
+
+REFERENCE           RANK_SSGT_FULL
+LANG_ENGLISH           "Sargento"
+
+REFERENCE           RANK_SSGT_FULL2
+LANG_ENGLISH           "Sargento segundo I"
+
+REFERENCE           RANK_SSGT_FULL3
+LANG_ENGLISH           "Sargento II"
+
+REFERENCE           RANK_SSGT_FULL4
+LANG_ENGLISH           "Sargento III"
+
+REFERENCE           RANK_SSGT_FULL_N
+LANG_ENGLISH           "Sargento segundo &&1"
+
+REFERENCE           RANK_TOTALXP_PRE
+LANG_ENGLISH           "Total de PX ganados:"
+
+REFERENCE           RANK_WEAPON_WAS_PROMOTED
+LANG_ENGLISH           "¡&&1 aumentó su rango de arma!"
+
+REFERENCE           RANK_XP_REQUIRED_PRE
+LANG_ENGLISH           "PX necesarios:"
+
+REFERENCE           SCRIPT_1UP
+LANG_ENGLISH           "J1"
+
+REFERENCE           SCRIPT_ARMOR_DAMAGE
+LANG_ENGLISH           "El blindaje solo se puede dañar con C4 y cohetes."
+
+REFERENCE           SCRIPT_ARTILLERY_TOOFAR
+LANG_ENGLISH           "Estás demasiado lejos del operador de radio para usar la artillería."
+
+REFERENCE           SCRIPT_BREACH_ILLEGAL_WEAPON
+LANG_ENGLISH           "No puedes irrumpir con esta arma."
+
+REFERENCE           SCRIPT_BREACH_NEED_FRIENDLY
+LANG_ENGLISH           "Esperando a que tus aliados se pongan en posición..."
+
+REFERENCE           SCRIPT_BREACH_NEED_PLAYER
+LANG_ENGLISH           "Ambos jugadores deben estar cerca de una puerta para irrumpir."
+
+REFERENCE           SCRIPT_BREACH_PARTNER_NOT_READY
+LANG_ENGLISH           "Los dos jugadores no están listos para irrumpir."
+
+REFERENCE           SCRIPT_BREACH_RELOADING
+LANG_ENGLISH           "No puedes irrumpir mientrasrecargas."
+
+REFERENCE           SCRIPT_BREACH_TOO_MANY_ENEMIES
+LANG_ENGLISH           "No puedes irrumpir. Despeja la zona de enemigos."
+
+REFERENCE           SCRIPT_BREACH_YOU_NOT_READY
+LANG_ENGLISH           "No estás listo para irrumpir."
+
+REFERENCE           SCRIPT_C4_USE
+LANG_ENGLISH           "Oprime ^3[{+actionslot 2}]^7 para usar C4."
+
+REFERENCE           SCRIPT_CHECKPOINT
+LANG_ENGLISH           "¡PUNTO DE CONTROL!"
+
+REFERENCE           SCRIPT_CHECKPOINT_TIME
+LANG_ENGLISH           "Punto de control:"
+
+REFERENCE           SCRIPT_CLEARBUILDING
+LANG_ENGLISH           "Despeja el edificio con las ametralladoras de su interior."
+
+REFERENCE           SCRIPT_COLON
+LANG_ENGLISH           ":"
+
+REFERENCE           SCRIPT_COOP_BLEEDING_OUT
+LANG_ENGLISH           "Desangrarse"
+
+REFERENCE           SCRIPT_COOP_BLEEDING_OUT_PARTNER
+LANG_ENGLISH           "Compañero abatido"
+
+REFERENCE           SCRIPT_COOP_REVIVE
+LANG_ENGLISH           "Mantén ^3[{+activate}]^7 parareanimar."
+
+REFERENCE           SCRIPT_COOP_REVIVING
+LANG_ENGLISH           "Te estánreanimando..."
+
+REFERENCE           SCRIPT_COOP_REVIVING_PARTNER
+LANG_ENGLISH           "Reanimando a compañero..."
+
+REFERENCE           SCRIPT_DEBUG_LEVEL_END
+LANG_ENGLISH           "Fin del nivel actual."
+
+REFERENCE           SCRIPT_DIFFICULTY_BONUS_FOUR
+LANG_ENGLISH           "BONIFICACIÓN DE DIFICULTAD x4"
+
+REFERENCE           SCRIPT_DIFFICULTY_BONUS_ONEANDAHALF
+LANG_ENGLISH           "BONIFICACIÓN DE DIFICULTAD x1.5"
+
+REFERENCE           SCRIPT_DIFFICULTY_BONUS_THREE
+LANG_ENGLISH           "BONIFICACIÓN DE DIFICULTAD x3"
+
+REFERENCE           SCRIPT_DOLLAR
+LANG_ENGLISH           "$"
+
+REFERENCE           SCRIPT_ELIMINATE_THE_FLAK_88
+LANG_ENGLISH           "Elimina las dotaciones de Flak 88. ^3&&1restantes^7."
+
+REFERENCE           SCRIPT_ELIMINATE_THE_FLAK_88_DONE
+LANG_ENGLISH           "Elimina las dotaciones de Flak 88."
+
+REFERENCE           SCRIPT_EXPLODING_BARREL_DEATH
+LANG_ENGLISH           "Te mató la explosión de un barril.
+Los barriles rojos explotan cuando les disparan."
+
+REFERENCE           SCRIPT_EXPLODING_DESTRUCTIBLE_DEATH
+LANG_ENGLISH           "Te mató una explosión.
+Algunos objetos pueden explotar."
+
+REFERENCE           SCRIPT_EXPLODING_VEHICLE_DEATH
+LANG_ENGLISH           "Te mató la explosión de un vehículo.
+Los vehículos en llamas suelen explotar."
+
+REFERENCE           SCRIPT_EXPLOSIVESPLANTED
+LANG_ENGLISH           "EXPLOSIVOS COLOCADOS. ¡ATRÁS!"
+
+REFERENCE           SCRIPT_EXTRA_LIFE
+LANG_ENGLISH           "VIDA EXTRA x &&1"
+
+REFERENCE           SCRIPT_FIRE_TO_SKIP
+LANG_ENGLISH           "Haz clic en DISPARO para omitir."
+
+REFERENCE           SCRIPT_GAME_OVER
+LANG_ENGLISH           "FIN DEL JUEGO"
+
+REFERENCE           SCRIPT_GLOWING_MARKER
+LANG_ENGLISH           "Busca el indicador brillante en el vehículo antiaéreo alemán."
+
+REFERENCE           SCRIPT_GRENADE_DEATH
+LANG_ENGLISH           "Te mató una granada.
+Atento al indicador de peligro de granadas."
+
+REFERENCE           SCRIPT_GRENADE_SUICIDE_COMBINED
+LANG_ENGLISH           "Moriste al sujetar demasiado tiempo una granada.
+Mantener ^3[{+frag}]^7 te permite demorar las granadas."
+
+REFERENCE           SCRIPT_GRENADE_SUICIDE_LINE1
+LANG_ENGLISH           "Moriste al sujetar demasiado tiempo una granada."
+
+REFERENCE           SCRIPT_GRENADE_SUICIDE_LINE2
+LANG_ENGLISH           "Mantener ^3[{+frag}]^7 te permite demorar las granadas."
+
+REFERENCE           SCRIPT_HINTSTR_GRENADESFULL
+LANG_ENGLISH           "No puedes llevar más granadas."
+
+REFERENCE           SCRIPT_HINT_CANT_OPEN_DOORS
+LANG_ENGLISH           "Esta puerta no se puede abrir. No intentes abrir las puertas cerradas."
+
+REFERENCE           SCRIPT_HINT_LEANINGSLOWMOVE
+LANG_ENGLISH           "Mientras estés inclinado, te moverás más lento."
+
+REFERENCE           SCRIPT_HINT_OBJECTIVEONCOMPASS
+LANG_ENGLISH           "La estrella de tu brújula señala tu siguiente objetivo."
+
+REFERENCE           SCRIPT_HINT_PICKUPAMMOKEY
+LANG_ENGLISH           "Pararecoger munición de otra arma, pasa cerca de ella o mírala y oprime USAR ^3&&1^7."
+
+REFERENCE           SCRIPT_HINT_THROW_C4
+LANG_ENGLISH           "Oprime ^3[{+throw}]^7 para lanzar C4."
+
+REFERENCE           SCRIPT_HINT_THROW_C4_SPEED
+LANG_ENGLISH           "Oprime ^3[{+speed_throw}]^7 para lanzar C4."
+
+REFERENCE           SCRIPT_HINT_THROW_C4_SPEED_TRIGGER
+LANG_ENGLISH           "Oprime ^3[{+speed_throw}]^7 para lanzar C4."
+
+REFERENCE           SCRIPT_HINT_THROW_C4_TOGGLE
+LANG_ENGLISH           "Oprime ^3[{+toggleads_throw}]^7 para lanzar C4."
+
+REFERENCE           SCRIPT_HOLD_TO_USE
+LANG_ENGLISH           "Mantén^3 &&1 ^7para usar"
+
+REFERENCE           SCRIPT_INTELLIGENCE_FOUND
+LANG_ENGLISH           "Encontraste partes de información enemigas."
+
+REFERENCE           SCRIPT_INTELLIGENCE_OF_FOURTYFIVE
+LANG_ENGLISH           "&&1/45 partes de información enemiga encontradas."
+
+REFERENCE           SCRIPT_INTELLIGENCE_OF_FOURTYSIX
+LANG_ENGLISH           "&&1/46 partes de información enemiga encontradas."
+
+REFERENCE           SCRIPT_INTELLIGENCE_OF_MAX
+LANG_ENGLISH           "&&1/54 partes de información enemiga encontradas."
+
+REFERENCE           SCRIPT_INTELLIGENCE_OF_SIXTY
+LANG_ENGLISH           "&&1/60 partes de información enemiga encontradas."
+
+REFERENCE           SCRIPT_INTELLIGENCE_OF_THIRTY
+LANG_ENGLISH           "&&1/30 partes de información enemiga encontradas."
+
+REFERENCE           SCRIPT_INTELLIGENCE_ONEREMAINING
+LANG_ENGLISH           "Queda &&1 parte de información enemiga."
+
+REFERENCE           SCRIPT_INTELLIGENCE_PERCENT
+LANG_ENGLISH           "%"
+
+REFERENCE           SCRIPT_INTELLIGENCE_PICKUP
+LANG_ENGLISH           "Mantén^3 &&1 ^7para asegurar la información enemiga."
+
+REFERENCE           SCRIPT_INTELLIGENCE_PREV_FOUND
+LANG_ENGLISH           "Información enemiga ya encontrada."
+
+REFERENCE           SCRIPT_INTELLIGENCE_PTS
+LANG_ENGLISH           "Encontraste &&1 partes de información enemiga."
+
+REFERENCE           SCRIPT_INTELLIGENCE_REMAINING
+LANG_ENGLISH           "Quedan &&1 partes de información enemiga."
+
+REFERENCE           SCRIPT_INTELLIGENCE_UPLOADED
+LANG_ENGLISH           "SUBIDA FINALIZADA"
+
+REFERENCE           SCRIPT_INTELLIGENCE_UPLOADING
+LANG_ENGLISH           "SUBIENDO"
+
+REFERENCE           SCRIPT_INTEL_TARGET_ACTIVATED
+LANG_ENGLISH           "Información activada."
+
+REFERENCE           SCRIPT_INTEL_TARGET_COMPLETE
+LANG_ENGLISH           "Éxito de la información."
+
+REFERENCE           SCRIPT_INTEL_TARGET_FAILED
+LANG_ENGLISH           "Fallo de la información."
+
+REFERENCE           SCRIPT_INTEL_TARGET_HEADER
+LANG_ENGLISH           "Objetivos de inteligencia."
+
+REFERENCE           SCRIPT_INTEL_TARGET_RETRY
+LANG_ENGLISH           "Oprime INTRO parareintentar."
+
+REFERENCE           SCRIPT_INTEL_TARGET_UNLOCKED
+LANG_ENGLISH           "Objetivo de inteligencia descubierto."
+
+REFERENCE           SCRIPT_INVULERABLE_BULLETS
+LANG_ENGLISH           "Las balas no pueden dañar este vehículo."
+
+REFERENCE           SCRIPT_INVULERABLE_FRAGS
+LANG_ENGLISH           "Las granadas de fragmentación no pueden dañar este vehículo."
+
+REFERENCE           SCRIPT_LEARN_CHOPPER_AIR_SUPPORT1
+LANG_ENGLISH           "¡Apoyo aéreo a la espera!"
+
+REFERENCE           SCRIPT_LEARN_CHOPPER_AIR_SUPPORT1_PC
+LANG_ENGLISH           "¡Apoyo aéreo a la espera! Oprime ^3[{+actionslot 4}]."
+
+REFERENCE           SCRIPT_LEARN_CLAYMORES
+LANG_ENGLISH           "Oprime ^3[{+actionslot 4}]^7 para usar las claymore."
+
+REFERENCE           SCRIPT_LEARN_CLAYMORE_PLACEMENT
+LANG_ENGLISH           "Oprime^3 [{+attack}] ^7para colocar minas claymore."
+
+REFERENCE           SCRIPT_LEARN_GRENADE_LAUNCHER
+LANG_ENGLISH           "Oprime ^3 [{+actionslot 3}] ^7 para usar el lanzagranadas M203."
+
+REFERENCE           SCRIPT_LEARN_JAVELIN
+LANG_ENGLISH           "Oprime ^3[{weapnext}]^7 para cambiar al Javelin."
+
+REFERENCE           SCRIPT_LEARN_M14_SWITCH
+LANG_ENGLISH           "Oprime ^3[{weapnext}]^7 para cambiar a tu rifle de precisión M21."
+
+REFERENCE           SCRIPT_MANTLE
+LANG_ENGLISH           "Oprime ^3[{+gostand}]^7 para saltar el objeto."
+
+REFERENCE           SCRIPT_MINUS
+LANG_ENGLISH           "-"
+
+REFERENCE           SCRIPT_MINUS_AMOUNT
+LANG_ENGLISH           "-%s"
+
+REFERENCE           SCRIPT_MINUS_DOLLAR
+LANG_ENGLISH           "-$"
+
+REFERENCE           SCRIPT_MISSIONFAIL_CIVILIAN_KILLED
+LANG_ENGLISH           "Mataste a un civil. ¡Mira adónde disparas!"
+
+REFERENCE           SCRIPT_MISSIONFAIL_HOSTAGEEXECUTED
+LANG_ENGLISH           "Misión fallida. Ejecutaron a unrehén."
+
+REFERENCE           SCRIPT_MISSIONFAIL_HOSTAGEEXECUTED_USEMULTIDOOR
+LANG_ENGLISH           "Misión fallida. Ejecutaron a unrehén.
+Intenta entrar desde otras puertas."
+
+REFERENCE           SCRIPT_MISSIONFAIL_KILLEDHOSTAGE
+LANG_ENGLISH           "Misión fallida. Mataste a unrehén."
+
+REFERENCE           SCRIPT_MISSIONFAIL_KILLEDHOSTAGE_THROUGH_ENEMY
+LANG_ENGLISH           "Misión fallida. Le diste a unrehén a través de un enemigo.
+Algunas armas tienen una alta capacidad de penetración."
+
+REFERENCE           SCRIPT_MISSIONFAIL_KILLTEAM_AMERICAN
+LANG_ENGLISH           "¡No se permitirá el fuego amigo!"
+
+REFERENCE           SCRIPT_MISSIONFAIL_KILLTEAM_BRITISH
+LANG_ENGLISH           "¡No se permitirá el fuego amigo!"
+
+REFERENCE           SCRIPT_MISSIONFAIL_KILLTEAM_RUSSIAN
+LANG_ENGLISH           "¡Eres un traidor a la Madre patria!"
+
+REFERENCE           SCRIPT_MISSION_COMPLETE
+LANG_ENGLISH           "MISIÓN CUMPLIDA"
+
+REFERENCE           SCRIPT_MISSION_SCORE
+LANG_ENGLISH           "PUNTUACIÓN DE LA MISIÓN:"
+
+REFERENCE           SCRIPT_NEW_HIGH_SCORE
+LANG_ENGLISH           "¡NUEVO RÉCORD!"
+
+REFERENCE           SCRIPT_NIGHTVISION_STOP_USE
+LANG_ENGLISH           "Oprime ^3[{+actionslot 1}]^7 para desactivar la visión nocturna."
+
+REFERENCE           SCRIPT_NIGHTVISION_USE
+LANG_ENGLISH           "Oprime ^3[{+actionslot 1}]^7 para activar la visión nocturna."
+
+REFERENCE           SCRIPT_OBJ_DESTROYFLAKPANZERS
+LANG_ENGLISH           "Destruye los tanques antiaéreos "FlakPanzer". ^3&&1restantes^7."
+
+REFERENCE           SCRIPT_OBJ_FOLEYDEBRIEF
+LANG_ENGLISH           "Informa al capitán Foley en el cruce de caminos."
+
+REFERENCE           SCRIPT_PICKUPSTIELHANDGRANATES
+LANG_ENGLISH           "Granadas de manorecogidas."
+
+REFERENCE           SCRIPT_PLATFORM_AC130_HINT_TOGGLE_THERMAL
+LANG_ENGLISH           "Oprime ^3[{+activate}]^7 para alternar la visión térmica
+entre imágenes en blanco y en negro."
+
+REFERENCE           SCRIPT_PLATFORM_AC130_HINT_ZOOM_AND_FIRE
+LANG_ENGLISH           "Oprime ^3[{+speed}]^7 para controlar el zoom y oprime ^3[{+attack}]^7 para disparar."
+
+REFERENCE           SCRIPT_PLATFORM_AIRLIFT_HINT_GETPILOT
+LANG_ENGLISH           "Acércate a la piloto y mantén^3 [{+activate}] ^7para sacarla."
+
+REFERENCE           SCRIPT_PLATFORM_AIRLIFT_HINT_PICKUP_PILOT
+LANG_ENGLISH           "Mantén^3 &&1 ^7pararecoger a la piloto."
+
+REFERENCE           SCRIPT_PLATFORM_BREACH_ACTIVATE
+LANG_ENGLISH           "Oprime ^3 [{+activate}] ^7 para irrumpir."
+
+REFERENCE           SCRIPT_PLATFORM_CHEAT_USETOSLOWMO
+LANG_ENGLISH           "Usa ^3[{+melee}]^7 para iniciar o detener la cámara lenta."
+
+REFERENCE           SCRIPT_PLATFORM_DOG_DEATH_DO_NOTHING
+LANG_ENGLISH           "Realiza un ataque cuerpo a cuerpo cuando el perro muerda para agarrarlo de la garganta. ^3( [{+melee}] )^7"
+
+REFERENCE           SCRIPT_PLATFORM_DOG_DEATH_TOO_LATE
+LANG_ENGLISH           "Realiza un ataque cuerpo a cuerpo antes de que muerda para agarrar al perro de la garganta. ^3( [{+melee}] )^7"
+
+REFERENCE           SCRIPT_PLATFORM_DOG_DEATH_TOO_SOON
+LANG_ENGLISH           "Espera a que el perro muerda para agarrarlo por la garganta. ^3( [{+melee}] )^7"
+
+REFERENCE           SCRIPT_PLATFORM_DOG_HINT
+LANG_ENGLISH           "[{+melee}]"
+
+REFERENCE           SCRIPT_PLATFORM_DOG_HINT_KEYBOARD
+LANG_ENGLISH           "Oprime ^3[{+melee}]^7"
+
+REFERENCE           SCRIPT_PLATFORM_DOG_HINT_KEYBOARD_FAIL
+LANG_ENGLISH           "^1Oprime [{+melee}]^7"
+
+REFERENCE           SCRIPT_PLATFORM_EXITCRASHTANK
+LANG_ENGLISH           "Oprime ^3[{+activate}]^7 para salir del tanque."
+
+REFERENCE           SCRIPT_PLATFORM_FIRE_TO_SKIP
+LANG_ENGLISH           "Haz clic en DISPARO para omitir."
+
+REFERENCE           SCRIPT_PLATFORM_HINTSTR_BINOCULAR
+LANG_ENGLISH           "Mira por los prismáticos oprimiendo ^3&&1]."
+
+REFERENCE           SCRIPT_PLATFORM_HINTSTR_DOCUMENTS
+LANG_ENGLISH           "Oprime ^3&&1^7 pararecoger los documentos."
+
+REFERENCE           SCRIPT_PLATFORM_HINTSTR_PICKUPEXPLOSIVES
+LANG_ENGLISH           "Oprime ^3&&1^7 pararecoger los explosivos."
+
+REFERENCE           SCRIPT_PLATFORM_HINTSTR_PICKUPGRENADES
+LANG_ENGLISH           "Oprime ^3&&1^7 pararecoger las granadas."
+
+REFERENCE           SCRIPT_PLATFORM_HINTSTR_PICKUPPATROLLOGS
+LANG_ENGLISH           "Oprime ^3&&1^7 pararecoger elregistro de la patrulla."
+
+REFERENCE           SCRIPT_PLATFORM_HINTSTR_PLANTEXPLOSIVES
+LANG_ENGLISH           "Oprime ^3[{+activate}]^7 para colocar los explosivos."
+
+REFERENCE           SCRIPT_PLATFORM_HINTSTR_POPFLARE
+LANG_ENGLISH           "Oprime ^3[{+attack}]^7 para usar la bengala."
+
+REFERENCE           SCRIPT_PLATFORM_HINTSTR_RAPPEL
+LANG_ENGLISH           "Mantén^3&&1^7para bajar por la cuerda."
+
+REFERENCE           SCRIPT_PLATFORM_HINTSTR_TAKEEXPLOSIVES
+LANG_ENGLISH           "Oprime ^3&&1^7 para agarrar los explosivos."
+
+REFERENCE           SCRIPT_PLATFORM_HINTSTR_USEELEVATOR
+LANG_ENGLISH           "Oprime ^3&&1^7 para activar el elevador."
+
+REFERENCE           SCRIPT_PLATFORM_HINT_ADSKEY
+LANG_ENGLISH           "Oprime ^3&&1^7 para apuntar con la mira."
+
+REFERENCE           SCRIPT_PLATFORM_HINT_ADSSTOP
+LANG_ENGLISH           "Oprime ^3&&1^7 una segunda vez para dejar de apuntar con la mira."
+
+REFERENCE           SCRIPT_PLATFORM_HINT_CHECKCURRENTOBJECTIVE
+LANG_ENGLISH           "Oprime ^3&&1^7 para comprobar tu objetivo actual."
+
+REFERENCE           SCRIPT_PLATFORM_HINT_CROUCHKEY
+LANG_ENGLISH           "Oprime ^3&&1^7 para agacharte."
+
+REFERENCE           SCRIPT_PLATFORM_HINT_CROUCHTOGGLEFROM
+LANG_ENGLISH           "Oprime ^3&&1^7 una segunda vez para levantarte desde la posición agachada."
+
+REFERENCE           SCRIPT_PLATFORM_HINT_DOUBLETAPPRONEKEY
+LANG_ENGLISH           "Oprime dos veces ^3&&1^7 para ponerte cuerpo a tierra."
+
+REFERENCE           SCRIPT_PLATFORM_HINT_DOUBLETAPSTANDKEY
+LANG_ENGLISH           "Oprime dos veces ^3&&1^7 para levantarte del suelo."
+
+REFERENCE           SCRIPT_PLATFORM_HINT_FIRSTOBJECTIVE
+LANG_ENGLISH           "Mira tu primer objetivo y oprime USAR ^3&&1^7 pararetomarlo."
+
+REFERENCE           SCRIPT_PLATFORM_HINT_FIRSTWEAPONKEY
+LANG_ENGLISH           "Oprime ^3&&1^7 para cambiar a tu primera arma."
+
+REFERENCE           SCRIPT_PLATFORM_HINT_FLASH
+LANG_ENGLISH           "Oprime ^3[{+smoke}]^7 para arrojar una granada cegadora."
+
+REFERENCE           SCRIPT_PLATFORM_HINT_GET_DETONATOR
+LANG_ENGLISH           "Mantén ^3 &&1 ^7pararecoger el detonador."
+
+REFERENCE           SCRIPT_PLATFORM_HINT_HOLDDOWNADSKEY
+LANG_ENGLISH           "Mantén^3 &&1 ^7para apuntar con la mira."
+
+REFERENCE           SCRIPT_PLATFORM_HINT_HOLDDOWNCROUCHKEY
+LANG_ENGLISH           "Mantén^3 &&1 ^7para agacharte."
+
+REFERENCE           SCRIPT_PLATFORM_HINT_HOLDDOWNPRONEKEY
+LANG_ENGLISH           "Mantén^3 &&1^7para echarte cuerpo a tierra."
+
+REFERENCE           SCRIPT_PLATFORM_HINT_JUMPSTANDKEY
+LANG_ENGLISH           "Mientras estés erguido, oprime ^3&&1^7 para saltar."
+
+REFERENCE           SCRIPT_PLATFORM_HINT_LEANLEFTKEY
+LANG_ENGLISH           "Mantén^3 &&1^7para inclinarte a la izquierda."
+
+REFERENCE           SCRIPT_PLATFORM_HINT_LEANOUTWINDOW
+LANG_ENGLISH           "Oprime USAR ^3&&1^7 para asomarte a la ventana."
+
+REFERENCE           SCRIPT_PLATFORM_HINT_LEANRIGHTKEY
+LANG_ENGLISH           "Mantén^3 &&1^7para inclinarte a la derecha."
+
+REFERENCE           SCRIPT_PLATFORM_HINT_MELEEATTACK
+LANG_ENGLISH           "Oprime ^3&&1^7 para hacer un ataque cuerpo a cuerpo."
+
+REFERENCE           SCRIPT_PLATFORM_HINT_MOVEBACKWARD
+LANG_ENGLISH           "Oprime tu tecla deRetroceder ^3&&1^7 para moverte hacia atrás."
+
+REFERENCE           SCRIPT_PLATFORM_HINT_MOVEFORWARD
+LANG_ENGLISH           "Oprime tu tecla de Avanzar ^3&&1^7 para moverte hacia adelante."
+
+REFERENCE           SCRIPT_PLATFORM_HINT_OBJECTIVEKEY
+LANG_ENGLISH           "Oprime ^3&&1^7 para ver los objetivos."
+
+REFERENCE           SCRIPT_PLATFORM_HINT_PICKUPWEAPONKEY
+LANG_ENGLISH           "Pararecoger un arma, mírala y oprime USAR ^3&&1]."
+
+REFERENCE           SCRIPT_PLATFORM_HINT_PICKUP_PANZERSCHRECK
+LANG_ENGLISH           "Oprime ^3&&1^7 para tomar el Panzerschreck."
+
+REFERENCE           SCRIPT_PLATFORM_HINT_PLANTBEACON
+LANG_ENGLISH           "Mantén^3 &&1 ^7para colocar la baliza IR."
+
+REFERENCE           SCRIPT_PLATFORM_HINT_PLANTEXPLOSIVES
+LANG_ENGLISH           "Mira hacia el punto de los explosivos y mantén ^3[{+activate}]^7 para colocarlos."
+
+REFERENCE           SCRIPT_PLATFORM_HINT_PRONEKEY
+LANG_ENGLISH           "Oprime ^3&&1^7 para ponerte cuerpo a tierra."
+
+REFERENCE           SCRIPT_PLATFORM_HINT_RAISEFROMCROUCHTOSTAND
+LANG_ENGLISH           "Oprime una vez ^3&&1^7 para levantarte desde agachado."
+
+REFERENCE           SCRIPT_PLATFORM_HINT_RAISEFROMPRONETOCROUCH
+LANG_ENGLISH           "Oprime ^3&&1^7 para cambiar de agachado a cuerpo a tierra."
+
+REFERENCE           SCRIPT_PLATFORM_HINT_RELOAD
+LANG_ENGLISH           "Oprime ^3&&1^7 pararecargar en cualquier momento."
+
+REFERENCE           SCRIPT_PLATFORM_HINT_SECONDWEAPONKEY
+LANG_ENGLISH           "Oprime ^3&&1^7 para cambiar a tu segunda arma."
+
+REFERENCE           SCRIPT_PLATFORM_HINT_SIGHTARTILLERY
+LANG_ENGLISH           "Oprime ^3[{+binoculars}]^7 para mirar por los prismáticos y dirigir la artillería."
+
+REFERENCE           SCRIPT_PLATFORM_HINT_SIGHTARTILLERY_BREATH
+LANG_ENGLISH           "Oprime ^3[{+breath_binoculars}]^7 para mirar por los prismáticos y dirigir la artillería."
+
+REFERENCE           SCRIPT_PLATFORM_HINT_STANDFROMCROUCHKEY
+LANG_ENGLISH           "Oprime dos veces ^3&&1^7 para levantarte desde la posición agachada."
+
+REFERENCE           SCRIPT_PLATFORM_HINT_STANDFROMPRONEKEY
+LANG_ENGLISH           "Oprime ^3&&1^7 para levantarte del suelo."
+
+REFERENCE           SCRIPT_PLATFORM_HINT_STANDKEY
+LANG_ENGLISH           "Oprime ^3&&1^7 para levantarte."
+
+REFERENCE           SCRIPT_PLATFORM_HINT_STANDLETGOCROUCHKEY
+LANG_ENGLISH           "Suelta ^3&&1^7 para dejar de agacharte."
+
+REFERENCE           SCRIPT_PLATFORM_HINT_STANDLETGOPRONEKEY
+LANG_ENGLISH           "Suelta ^3&&1^7 para dejar de estar cuerpo a tierra."
+
+REFERENCE           SCRIPT_PLATFORM_HINT_STANDLETGOSECONDKEY
+LANG_ENGLISH           "Si esto te hace ponerte cuerpo a tierra, oprime dos veces ^3&&1]."
+
+REFERENCE           SCRIPT_PLATFORM_HINT_STRAFELEFT
+LANG_ENGLISH           "Oprime la tecla de Moverse a la izquierda ^3&&1^7 para moverte a la izquierda."
+
+REFERENCE           SCRIPT_PLATFORM_HINT_STRAFERIGHT
+LANG_ENGLISH           "Oprime la tecla de Moverse a la derecha ^3&&1^7 para moverte a la derecha."
+
+REFERENCE           SCRIPT_PLATFORM_HINT_SWAPWEAPONSKEY
+LANG_ENGLISH           "Mantén USAR ^3&&1^7 para cambiar tu arma actual por otra que estés mirando."
+
+REFERENCE           SCRIPT_PLATFORM_HINT_SWITCHTOGRENADE
+LANG_ENGLISH           "Oprime ^3&&1^7 para cambiar a las granadas."
+
+REFERENCE           SCRIPT_PLATFORM_HINT_SWITCHTOSECONDWEAPON
+LANG_ENGLISH           "Ahora tienes dos armas. Oprime ^3&&1^7 para cambiar a tu segunda arma."
+
+REFERENCE           SCRIPT_PLATFORM_HINT_TRAINING_SWITCHTOGRENADE
+LANG_ENGLISH           "Oprime ^3&&1^7 para cambiar a las granadas."
+
+REFERENCE           SCRIPT_PLATFORM_HINT_USEARTILLERY
+LANG_ENGLISH           "Oprime ^3[{+activate}]^7 para solicitar artillería."
+
+REFERENCE           SCRIPT_PLATFORM_HINT_USECINDERBLOCKWALL
+LANG_ENGLISH           "Aproxímate al muro de cemento y oprime la tecla USAR ^3&&1^7 para colocar los explosivos."
+
+REFERENCE           SCRIPT_PLATFORM_HINT_USERADIO
+LANG_ENGLISH           "Oprime ^3&&1^7 para usar la radio."
+
+REFERENCE           SCRIPT_PLATFORM_HOLD_TO_DROP
+LANG_ENGLISH           "Oprime ^3[{+activate}]^7 para soltar."
+
+REFERENCE           SCRIPT_PLATFORM_HOLD_TO_DROP_XBOX360
+LANG_ENGLISH           "Oprime ^3[{+usereload}]^7 para soltar."
+
+REFERENCE           SCRIPT_PLATFORM_LAUNCHFACILITY_A_HINT_PLANT_C4_GLOW
+LANG_ENGLISH           "Para colocar C4, acércate a la marca brillante de objetivo y Mantén^3[{+activate}]^7."
+
+REFERENCE           SCRIPT_PLATFORM_LAUNCHFACILITY_A_HINT_SMOKE
+LANG_ENGLISH           "Lanza humo ^3[{+smoke}]^7 para acercarte con seguridad al vehículo enemigo."
+
+REFERENCE           SCRIPT_PLATFORM_LEARN_CHOPPER_AIR_SUPPORT2
+LANG_ENGLISH           "Oprime ^3 [{+attack}] ^7 para dar las coordenadas de ataque."
+
+REFERENCE           SCRIPT_PLATFORM_MINIGUN_FIRE_HINT
+LANG_ENGLISH           "^3[{+attack}]^7 = Disparar"
+
+REFERENCE           SCRIPT_PLATFORM_MINIGUN_SPIN_HINT
+LANG_ENGLISH           "^3[{+speed}]^7 = Girar"
+
+REFERENCE           SCRIPT_PLATFORM_OILRIG_HINT_STEALTH_KILL
+LANG_ENGLISH           "Oprime ^3[{+melee}]^7 para eliminar al guardia."
+
+REFERENCE           SCRIPT_PLATFORM_PIANO
+LANG_ENGLISH           "Oprime ^3&&1]"
+
+REFERENCE           SCRIPT_PLATFORM_SNOWMOBILE_ATTACK
+LANG_ENGLISH           "Mantén ^3[{+attack}]^7 para disparar."
+
+REFERENCE           SCRIPT_PLATFORM_SNOWMOBILE_DRIVE
+LANG_ENGLISH           "Mantén ^3[{+forward}]^7 para conducir."
+
+REFERENCE           SCRIPT_PLATFORM_SNOWMOBILE_REVERSE
+LANG_ENGLISH           "Oprime ^3[{+back}]^7 para darreversa."
+
+REFERENCE           SCRIPT_PLATFORM_SPOOL_MINIGUN
+LANG_ENGLISH           "Mantén ^3[{+speed_throw}]^7 para poner en marcha la ametralladora."
+
+REFERENCE           SCRIPT_PLATFORM_SPOOL_MINIGUN_KEYBOARD
+LANG_ENGLISH           "Mantén ^3[{+attack}]^7 para poner en marcha la ametralladora y disparar."
+
+REFERENCE           SCRIPT_PLATFORM_STEER_DRONE
+LANG_ENGLISH           "Usa el ratón para dirigir el misil."
+
+REFERENCE           SCRIPT_PLATFORM_ZODIAC_STEADY
+LANG_ENGLISH           "Mantén ^3[{+stance}]^7 para estabilizar la lancha."
+
+REFERENCE           SCRIPT_PLUS
+LANG_ENGLISH           "+"
+
+REFERENCE           SCRIPT_PLUS_AMOUNT
+LANG_ENGLISH           "+%s"
+
+REFERENCE           SCRIPT_PLUS_DOLLAR
+LANG_ENGLISH           "+$"
+
+REFERENCE           SCRIPT_RADIATION_DEATH
+LANG_ENGLISH           "Evita las zonas con radiación.
+Estate atento a las señales del contador Geiger."
+
+REFERENCE           SCRIPT_RORKEFILE_PREV_FOUND
+LANG_ENGLISH           "Información enemiga ya encontrada."
+
+REFERENCE           SCRIPT_SHOT_TEAMMATE
+LANG_ENGLISH           "¡Le disparaste a un compañero de equipo!"
+
+REFERENCE           SCRIPT_STREAK_BONUS_LOST
+LANG_ENGLISH           "BONIFICACIÓN DE RACHA PERDIDA"
+
+REFERENCE           SCRIPT_STREAK_COMPLETE
+LANG_ENGLISH           "RACHA COMPLETADA"
+
+REFERENCE           SCRIPT_TAKELEFTFLANK
+LANG_ENGLISH           "Toma el flanco izquierdo."
+
+REFERENCE           SCRIPT_TIME_REMAINING
+LANG_ENGLISH           "TIEMPORESTANTE:"
+
+REFERENCE           SCRIPT_TIME_UP
+LANG_ENGLISH           "SE ACABÓ EL TIEMPO"
+
+REFERENCE           SCRIPT_TOTAL_SCORE
+LANG_ENGLISH           "PUNTUACIÓN TOTAL:"
+
+REFERENCE           SCRIPT_USE_THE_PANZERFAUST_ANTITANK
+LANG_ENGLISH           "Usa las armas antitanque Panzerfaust detrás del búnker para destruir los tanques."
+
+REFERENCE           SCRIPT_WAYPOINT_BREACH
+LANG_ENGLISH           "Irrumpe"
+
+REFERENCE           SCRIPT_WAYPOINT_COVER
+LANG_ENGLISH           "Cobertura"
+
+REFERENCE           SCRIPT_WAYPOINT_SHEPHERD
+LANG_ENGLISH           ""
+
+REFERENCE           SCRIPT_WAYPOINT_TARGETS
+LANG_ENGLISH           "Blancos"
+
+REFERENCE           SCRIPT_X
+LANG_ENGLISH           "x"
+
+REFERENCE           SCRIPT_X2
+LANG_ENGLISH           "x2"
+
+REFERENCE           SCRIPT_X3
+LANG_ENGLISH           "x3"
+
+REFERENCE           SCRIPT_ZERO_DEATHS
+LANG_ENGLISH           "BONIFICACIÓN POR CERO MUERTES x2"
+
+REFERENCE           UPGRADE_ARMOR01
+LANG_ENGLISH           "Descripción del nivel de blindaje 1"
+
+REFERENCE           UPGRADE_ARMOR01_NAME
+LANG_ENGLISH           "Blindaje 1"
+
+REFERENCE           UPGRADE_ARMOR02
+LANG_ENGLISH           "Descripción del nivel de blindaje 2"
+
+REFERENCE           UPGRADE_ARMOR02_NAME
+LANG_ENGLISH           "Blindaje 2"
+
+REFERENCE           UPGRADE_ARMOR03
+LANG_ENGLISH           "Descripción del nivel de blindaje 3"
+
+REFERENCE           UPGRADE_ARMOR03_NAME
+LANG_ENGLISH           "Blindaje 3"
+
+REFERENCE           UPGRADE_CATEGORY_ARMOR
+LANG_ENGLISH           "Armad."
+
+REFERENCE           UPGRADE_CATEGORY_BATTERY
+LANG_ENGLISH           "Battery"
+
+REFERENCE           UPGRADE_CATEGORY_DETECTION
+LANG_ENGLISH           "Detección"
+
+REFERENCE           UPGRADE_CATEGORY_FLINCH
+LANG_ENGLISH           "Estremecimiento"
+
+REFERENCE           UPGRADE_CATEGORY_LETHAL
+LANG_ENGLISH           "Granada de fragmentación"
+
+REFERENCE           UPGRADE_CATEGORY_QUICKAIM
+LANG_ENGLISH           "Apuntado rápido"
+
+REFERENCE           UPGRADE_CATEGORY_RECOIL
+LANG_ENGLISH           "Retroceso"
+
+REFERENCE           UPGRADE_CATEGORY_RELOAD
+LANG_ENGLISH           "Recargar"
+
+REFERENCE           UPGRADE_CATEGORY_RESISTANCE
+LANG_ENGLISH           "Resistencia"
+
+REFERENCE           UPGRADE_CATEGORY_SPRINT
+LANG_ENGLISH           "Esprintar"
+
+REFERENCE           UPGRADE_CATEGORY_TACTICAL
+LANG_ENGLISH           "Táctica"
+
+REFERENCE           UPGRADE_CHALLENGES
+LANG_ENGLISH           "(obsoleto) Puntos de mejora: &&1"
+
+REFERENCE           UPGRADE_CHALLENGES_UNCOMMITTED
+LANG_ENGLISH           "(placeholder) Puntos de mejora: &&1"
+
+REFERENCE           UPGRADE_CONFIRM
+LANG_ENGLISH           "¿Seguro que quieres mejorar?"
+
+REFERENCE           UPGRADE_COST
+LANG_ENGLISH           "COSTO DE LA MEJORA"
+
+REFERENCE           UPGRADE_DESC_ARMOR
+LANG_ENGLISH           "Aumenta la salud un &&1%."
+
+REFERENCE           UPGRADE_DESC_BATTERY
+LANG_ENGLISH           "Aumenta los usos de aptitud exo en &&1."
+
+REFERENCE           UPGRADE_DESC_DETECTION1
+LANG_ENGLISH           "Activa la detección de granadas."
+
+REFERENCE           UPGRADE_DESC_DETECTION2
+LANG_ENGLISH           "Aumenta la duración de la detección de amenazas."
+
+REFERENCE           UPGRADE_DESC_FLINCH
+LANG_ENGLISH           "Reduce el estremecimiento cuando te disparan un &&1%."
+
+REFERENCE           UPGRADE_DESC_LETHAL
+LANG_ENGLISH           "Aumenta la capacidad de granadas letales en &&1."
+
+REFERENCE           UPGRADE_DESC_QUICKAIM
+LANG_ENGLISH           "Aumenta la velocidad de apuntado un &&1%."
+
+REFERENCE           UPGRADE_DESC_RECOIL
+LANG_ENGLISH           "Reduce elretroceso del arma un &&1%."
+
+REFERENCE           UPGRADE_DESC_RELOAD
+LANG_ENGLISH           "Aumenta la velocidad derecarga un &&1%."
+
+REFERENCE           UPGRADE_DESC_RESISTANCE
+LANG_ENGLISH           "Reduce el daño por explosión un &&1%."
+
+REFERENCE           UPGRADE_DESC_SPRINT
+LANG_ENGLISH           "Aumenta el tiempo de esprint un &&1%."
+
+REFERENCE           UPGRADE_DESC_TACTICAL
+LANG_ENGLISH           "Aumenta la capacidad de granadas tácticas en &&1."
+
+REFERENCE           UPGRADE_EARNED
+LANG_ENGLISH           "&&1 obtenida(s)"
+
+REFERENCE           UPGRADE_EXO_CHALLENGES
+LANG_ENGLISH           "DESAFÍOS EXO"
+
+REFERENCE           UPGRADE_FIRST_TIME_TUTORIAL
+LANG_ENGLISH           "Gana puntos de mejora durante una misión completando cuatro desafíos: bajas, bajas con tiros a la cabeza, bajas con granadas y búsqueda de información.
+
+Usa tus puntos de mejora entre las misiones y mejora tu exo."
+
+REFERENCE           UPGRADE_FRAG_COMPLETE
+LANG_ENGLISH           "¡Desafío de bajas con granadas completado!"
+
+REFERENCE           UPGRADE_FRAG_KILLS
+LANG_ENGLISH           "Consigue ^3&&1^7 baja(s) con granadas más."
+
+REFERENCE           UPGRADE_FRAG_KILLS_NAME
+LANG_ENGLISH           "Bajas granadas"
+
+REFERENCE           UPGRADE_GO_TO_UPGRADES
+LANG_ENGLISH           "Ir a Mejoras"
+
+REFERENCE           UPGRADE_GRENADES_NEEDED
+LANG_ENGLISH           "NECESITAS &&1 BAJAS CON GRANADAS"
+
+REFERENCE           UPGRADE_HEADSHOTS
+LANG_ENGLISH           "Consigue ^3&&1^7 tiro(s) a la cabeza más."
+
+REFERENCE           UPGRADE_HEADSHOTS_COMPLETE
+LANG_ENGLISH           "¡Desafío de tiros a la cabeza completado!"
+
+REFERENCE           UPGRADE_HEADSHOTS_NAME
+LANG_ENGLISH           "Tiros a la cabeza"
+
+REFERENCE           UPGRADE_HEADSHOTS_NEEDED
+LANG_ENGLISH           "NECESITAS &&1 TIROS A LA CABEZA"
+
+REFERENCE           UPGRADE_INSUFFICIENT_POINTS
+LANG_ENGLISH           "No tienes puntos de mejora suficientes para comprar esta mejora."
+
+REFERENCE           UPGRADE_INTEL
+LANG_ENGLISH           "Encuentra ^3&&1^7 parte(s) de información más."
+
+REFERENCE           UPGRADE_INTEL_COMPLETE
+LANG_ENGLISH           "¡Desafío de información completado!"
+
+REFERENCE           UPGRADE_INTEL_NAME
+LANG_ENGLISH           "Información"
+
+REFERENCE           UPGRADE_INTEL_NEEDED
+LANG_ENGLISH           "NECESITAS &&1 PARTES DE INFORMACIÓN"
+
+REFERENCE           UPGRADE_KILLS
+LANG_ENGLISH           "Consigue ^3&&1^7 baja(s) más."
+
+REFERENCE           UPGRADE_KILLS_COMPLETE
+LANG_ENGLISH           "¡Desafío de bajas completado!"
+
+REFERENCE           UPGRADE_KILLS_NAME
+LANG_ENGLISH           "Bajas"
+
+REFERENCE           UPGRADE_KILLS_NEEDED
+LANG_ENGLISH           "NECESITAS &&1 BAJAS"
+
+REFERENCE           UPGRADE_POINTS_CAPS
+LANG_ENGLISH           "PTS. DE MEJORA"
+
+REFERENCE           UPGRADE_POINTS_EARNED
+LANG_ENGLISH           "PUNTO(S) DE MEJORA OBTENIDO(S)"
+
+REFERENCE           UPGRADE_PREREQ_REQUIRED
+LANG_ENGLISH           "Se necesita &&1 para desbloquear esta mejora."
+
+REFERENCE           UPGRADE_RELOAD01
+LANG_ENGLISH           "Descripción del nivel derecarga rápida 1"
+
+REFERENCE           UPGRADE_RELOAD01_NAME
+LANG_ENGLISH           "Recarga 1"
+
+REFERENCE           UPGRADE_RELOAD02
+LANG_ENGLISH           "Descripción del nivel derecarga rápida 2"
+
+REFERENCE           UPGRADE_RELOAD02_NAME
+LANG_ENGLISH           "Recarga 2"
+
+REFERENCE           UPGRADE_RESIST01
+LANG_ENGLISH           "Descripción del nivel deresistencia 1"
+
+REFERENCE           UPGRADE_RESIST01_NAME
+LANG_ENGLISH           "Resistencia 1"
+
+REFERENCE           UPGRADE_RESIST02
+LANG_ENGLISH           "Descripción del nivel deresistencia 2"
+
+REFERENCE           UPGRADE_RESIST02_NAME
+LANG_ENGLISH           "Resistencia 2"
+
+REFERENCE           UPGRADE_RESIST03
+LANG_ENGLISH           "Descripción del nivel deresistencia 3"
+
+REFERENCE           UPGRADE_RESIST03_NAME
+LANG_ENGLISH           "Resistencia 3"
+
+REFERENCE           UPGRADE_RESPEC_ACTION
+LANG_ENGLISH           "Restaurar"
+
+REFERENCE           UPGRADE_RESPEC_CONFIRMATION
+LANG_ENGLISH           "¿Seguro que quieresrestaurar?"
+
+REFERENCE           UPGRADE_SPRINT01
+LANG_ENGLISH           "Descripción de esprint más largo 1"
+
+REFERENCE           UPGRADE_SPRINT01_NAME
+LANG_ENGLISH           "Esprint más largo 1"
+
+REFERENCE           UPGRADE_TITLE_CAPS
+LANG_ENGLISH           "SISTEMA DE MEJORA DEL EXO"
+
+REFERENCE           UPGRADE_UNLOCKED_PROGRESS
+LANG_ENGLISH           "&&1/&&2 mejoras de exo desbloq."
+
+REFERENCE           UPGRADE_UNUSED_POINTS_CONFIRM_TEXT
+LANG_ENGLISH           "Tienes puntos de mejora sin usar. ¿Seguro que quieres continuar sin usarlos?"
+
+REFERENCE           UPGRADE_UPGRADES
+LANG_ENGLISH           "Mejoras"
+
+REFERENCE           UPGRADE_UPGRADE_ACTION
+LANG_ENGLISH           "MEJORA"
+
+REFERENCE           UPGRADE_UPGRADING_EXO
+LANG_ENGLISH           "Mejorando exo"
+
+REFERENCE           WEAPON_ACOG
+LANG_ENGLISH           "ACOG"
+
+REFERENCE           WEAPON_ACOG_ATTACHMENT
+LANG_ENGLISH           "ACOG"
+
+REFERENCE           WEAPON_AG36
+LANG_ENGLISH           "AG36"
+
+REFERENCE           WEAPON_AIRBURST_HINT
+LANG_ENGLISH           "Usa &&1 para señalar la distancia."
+
+REFERENCE           WEAPON_AIRDROP_ESCORT_MARKER
+LANG_ENGLISH           "Marcador para lanzamiento de escolta."
+
+REFERENCE           WEAPON_AIRDROP_MEGA_MARKER
+LANG_ENGLISH           "Marcador para lanzamiento de emergencia."
+
+REFERENCE           WEAPON_AIRDROP_SENTRY_MARKER
+LANG_ENGLISH           "Marcador para lanzamiento de centinela."
+
+REFERENCE           WEAPON_AIRDROP_TANK_MARKER
+LANG_ENGLISH           "Marcador para lanzamiento de dron de ataque."
+
+REFERENCE           WEAPON_AIRDROP_TRAP_MARKER
+LANG_ENGLISH           "Marcador para lanzamiento de trampa."
+
+REFERENCE           WEAPON_AIR_SUPPORT_STROBE
+LANG_ENGLISH           "Marcador para apoyo aéreo."
+
+REFERENCE           WEAPON_AK12
+LANG_ENGLISH           "AK12"
+
+REFERENCE           WEAPON_AK12_DESC
+LANG_ENGLISH           "Arma automática.
+Mejor de su clase en movilidad."
+
+REFERENCE           WEAPON_AK47
+LANG_ENGLISH           "AK-47"
+
+REFERENCE           WEAPON_AK47_GP25
+LANG_ENGLISH           "AK-47 de granadero"
+
+REFERENCE           WEAPON_AK74U
+LANG_ENGLISH           "AK-74u"
+
+REFERENCE           WEAPON_AKIMBO_ATTACHMENT
+LANG_ENGLISH           "Duales"
+
+REFERENCE           WEAPON_ANACONDA
+LANG_ENGLISH           "Magnum .44"
+
+REFERENCE           WEAPON_ANM8_SMOKE_GRENADE
+LANG_ENGLISH           "Granada de humo ANM8"
+
+REFERENCE           WEAPON_ASSAULTRIFLES
+LANG_ENGLISH           "Fusiles de asalto"
+
+REFERENCE           WEAPON_AT4
+LANG_ENGLISH           "AT4"
+
+REFERENCE           WEAPON_ATTACHMENT_IRONSIGHTS
+LANG_ENGLISH           "Mira de hierro"
+
+REFERENCE           WEAPON_ATTACHMENT_LASERSIGHT
+LANG_ENGLISH           "Mira láser"
+
+REFERENCE           WEAPON_ATTACHMENT_LONGRANGE
+LANG_ENGLISH           "Acanalado avanzado"
+
+REFERENCE           WEAPON_ATTACHMENT_MAHEM_SCOPE
+LANG_ENGLISH           ""
+
+REFERENCE           WEAPON_ATTACHMENT_QUICKDRAW
+LANG_ENGLISH           "Empuñadura de Desenfundado rápido"
+
+REFERENCE           WEAPON_ATTACHMENT_STOCK
+LANG_ENGLISH           "Culata"
+
+REFERENCE           WEAPON_ATTACHMENT_TARGETENHANCER
+LANG_ENGLISH           "Resaltador de blancos"
+
+REFERENCE           WEAPON_AW50
+LANG_ENGLISH           "AW-50"
+
+REFERENCE           WEAPON_BARRETT
+LANG_ENGLISH           "Barrett .50"
+
+REFERENCE           WEAPON_BASESCOPE
+LANG_ENGLISH           "Mira óptica"
+
+REFERENCE           WEAPON_BATTERY
+LANG_ENGLISH           "BATERÍA"
+
+REFERENCE           WEAPON_BEAM
+LANG_ENGLISH           "Armas pesadas"
+
+REFERENCE           WEAPON_BEAM1
+LANG_ENGLISH           "EM1"
+
+REFERENCE           WEAPON_BEAM_CAPS
+LANG_ENGLISH           "ARMAS PESADAS"
+
+REFERENCE           WEAPON_BENELLI
+LANG_ENGLISH           "M1014"
+
+REFERENCE           WEAPON_BEREDMK8
+LANG_ENGLISH           "Bered MK8"
+
+REFERENCE           WEAPON_BERETTA
+LANG_ENGLISH           "M9"
+
+REFERENCE           WEAPON_BINOCULARS
+LANG_ENGLISH           "Prismáticos"
+
+REFERENCE           WEAPON_BLUE_TIGER_CAMO
+LANG_ENGLISH           "Tigre azul"
+
+REFERENCE           WEAPON_BOMB
+LANG_ENGLISH           "Explosión de bomba"
+
+REFERENCE           WEAPON_BOS14
+LANG_ENGLISH           "BOS14"
+
+REFERENCE           WEAPON_BR9
+LANG_ENGLISH           "BR9"
+
+REFERENCE           WEAPON_C4
+LANG_ENGLISH           "C4"
+
+REFERENCE           WEAPON_C4_DETONATOR
+LANG_ENGLISH           "Detonador de C4"
+
+REFERENCE           WEAPON_CACHE_USE_CONTROLLER_HINT
+LANG_ENGLISH           "Mantén ^3&&1^7 parareponer munición."
+
+REFERENCE           WEAPON_CACHE_USE_HINT
+LANG_ENGLISH           "Oprime ^3 &&1^7 parareponer munición."
+
+REFERENCE           WEAPON_CAMO
+LANG_ENGLISH           "&&1 - Camuflaje"
+
+REFERENCE           WEAPON_CANT_PLANT_EQUIPMENT
+LANG_ENGLISH           "No puedes colocarlo aquí."
+
+REFERENCE           WEAPON_CANT_USE_EXO_HOVER
+LANG_ENGLISH           "Ahora no se puede volar."
+
+REFERENCE           WEAPON_CAR_DOOR
+LANG_ENGLISH           "Puerta de coche"
+
+REFERENCE           WEAPON_CHEATHANDGUN
+LANG_ENGLISH           "Arma corta predeterminada"
+
+REFERENCE           WEAPON_CLAYMORE
+LANG_ENGLISH           "Claymore"
+
+REFERENCE           WEAPON_CLAYMORE_DETONATOR
+LANG_ENGLISH           "Detonador de Claymore"
+
+REFERENCE           WEAPON_CLOAKED
+LANG_ENGLISH           "OCULTO"
+
+REFERENCE           WEAPON_COLT1911
+LANG_ENGLISH           "M1911 .45"
+
+REFERENCE           WEAPON_COLT45
+LANG_ENGLISH           "M1911 .45"
+
+REFERENCE           WEAPON_COMBAT_KNIFE
+LANG_ENGLISH           "Cuchillo"
+
+REFERENCE           WEAPON_CONCUSSION_GRENADE
+LANG_ENGLISH           "Granada aturdidora"
+
+REFERENCE           WEAPON_CONTACTGRENADE
+LANG_ENGLISH           "Granada de contacto"
+
+REFERENCE           WEAPON_CONTACTGRENADE_DESC
+LANG_ENGLISH           "Granada que detona al entrar en contacto con cualquier superficie."
+
+REFERENCE           WEAPON_COOKOFF
+LANG_ENGLISH           "Demorar"
+
+REFERENCE           WEAPON_CROSSBOWBLOPS2
+LANG_ENGLISH           "Ballesta - B2"
+
+REFERENCE           WEAPON_CURRENT_DISTANCE
+LANG_ENGLISH           "Metros actuales:"
+
+REFERENCE           WEAPON_CUSTOM_ATTACHMENT
+LANG_ENGLISH           "Personalizado"
+
+REFERENCE           WEAPON_DEFAULTWEAPON
+LANG_ENGLISH           "Arma predeterminada"
+
+REFERENCE           WEAPON_DESERTEAGLE
+LANG_ENGLISH           "Desert Eagle"
+
+REFERENCE           WEAPON_DESERTEAGLE55
+LANG_ENGLISH           "Desert Eagle comandante"
+
+REFERENCE           WEAPON_DESERTEAGLEGOLD
+LANG_ENGLISH           "Desert Eagle dorada"
+
+REFERENCE           WEAPON_DESERT_CAMO
+LANG_ENGLISH           "Desierto"
+
+REFERENCE           WEAPON_DIGITAL_CAMO
+LANG_ENGLISH           "Digital"
+
+REFERENCE           WEAPON_DIRECT_HACK_ATTACHMENT
+LANG_ENGLISH           "Hackeo directo"
+
+REFERENCE           WEAPON_DMR25S
+LANG_ENGLISH           "D-25S"
+
+REFERENCE           WEAPON_DRAGUNOV
+LANG_ENGLISH           "Dragunov"
+
+REFERENCE           WEAPON_DUALMAG_ATTACHMENT
+LANG_ENGLISH           "Cargador doble"
+
+REFERENCE           WEAPON_EGLM
+LANG_ENGLISH           "FN EGLM"
+
+REFERENCE           WEAPON_EMP_GRENADE
+LANG_ENGLISH           "Granada de PEM"
+
+REFERENCE           WEAPON_EOTECH_ATTACHMENT
+LANG_ENGLISH           "Mira enfoque automático"
+
+REFERENCE           WEAPON_EQUIPMENT_DISABLED_BY_EMP
+LANG_ENGLISH           "Equipo inhabilitado por PEM."
+
+REFERENCE           WEAPON_EXPLOSION
+LANG_ENGLISH           "Explosión"
+
+REFERENCE           WEAPON_FAL
+LANG_ENGLISH           "FAL"
+
+REFERENCE           WEAPON_FANG45
+LANG_ENGLISH           "Fang 45"
+
+REFERENCE           WEAPON_FLASH_GRENADE
+LANG_ENGLISH           "Granada cegadora"
+
+REFERENCE           WEAPON_FOAM_BOMB
+LANG_ENGLISH           "Detonador de FRB"
+
+REFERENCE           WEAPON_FRAGGRENADE
+LANG_ENGLISH           "Fragmentación"
+
+REFERENCE           WEAPON_FRAG_GRENADE
+LANG_ENGLISH           "Granada frag."
+
+REFERENCE           WEAPON_FREERUNNER
+LANG_ENGLISH           "Ningún arma disponible"
+
+REFERENCE           WEAPON_FUEL
+LANG_ENGLISH           "FUEL"
+
+REFERENCE           WEAPON_FULL_CAPS
+LANG_ENGLISH           "COMPLETO"
+
+REFERENCE           WEAPON_G3
+LANG_ENGLISH           "G3"
+
+REFERENCE           WEAPON_G36C
+LANG_ENGLISH           "G36C"
+
+REFERENCE           WEAPON_GALIL
+LANG_ENGLISH           "Galil"
+
+REFERENCE           WEAPON_GL_ATTACHMENT
+LANG_ENGLISH           "Lanzagranadas"
+
+REFERENCE           WEAPON_GOLDEN_CAMO
+LANG_ENGLISH           "Dorado"
+
+REFERENCE           WEAPON_GP25
+LANG_ENGLISH           "GP-25"
+
+REFERENCE           WEAPON_GRENADE_LAUNCHER
+LANG_ENGLISH           "Lanzagranadas"
+
+REFERENCE           WEAPON_GRIP
+LANG_ENGLISH           "Empuñadura"
+
+REFERENCE           WEAPON_GRIP_ATTACHMENT
+LANG_ENGLISH           "Empuñadura vertical"
+
+REFERENCE           WEAPON_HEARTBEAT_ATTACHMENT
+LANG_ENGLISH           "Sensor de latidos"
+
+REFERENCE           WEAPON_HEATSINK_ATTACHMENT
+LANG_ENGLISH           "Disipador térmico"
+
+REFERENCE           WEAPON_HK79
+LANG_ENGLISH           "HK79"
+
+REFERENCE           WEAPON_HOLDPIN
+LANG_ENGLISH           "Inmovilizar"
+
+REFERENCE           WEAPON_HOLOSIGHT_ATTACHMENT
+LANG_ENGLISH           "Holográfica"
+
+REFERENCE           WEAPON_HYBRID_ATTACHMENT
+LANG_ENGLISH           "Mira híbrida"
+
+REFERENCE           WEAPON_JAVELIN
+LANG_ENGLISH           "FGM-148 Javelin"
+
+REFERENCE           WEAPON_JAVELIN_LOCKAIR
+LANG_ENGLISH           "Fijación de Javelin"
+
+REFERENCE           WEAPON_KAM12
+LANG_ENGLISH           "Kamchatka-12"
+
+REFERENCE           WEAPON_LEMONADE
+LANG_ENGLISH           "Limo-nadas"
+
+REFERENCE           WEAPON_LOCATION_SELECTOR
+LANG_ENGLISH           "Elige una ubicación."
+
+REFERENCE           WEAPON_LOCKON_REQUIRED
+LANG_ENGLISH           "Hay que fijar el objetivo."
+
+REFERENCE           WEAPON_LYNXCQ300
+LANG_ENGLISH           "Lynx CQ300"
+
+REFERENCE           WEAPON_M14
+LANG_ENGLISH           "M14"
+
+REFERENCE           WEAPON_M16
+LANG_ENGLISH           "M16A4"
+
+REFERENCE           WEAPON_M160
+LANG_ENGLISH           "M160"
+
+REFERENCE           WEAPON_M16A4_GRENADIER
+LANG_ENGLISH           "M16A4 granad."
+
+REFERENCE           WEAPON_M203
+LANG_ENGLISH           "M203"
+
+REFERENCE           WEAPON_M21
+LANG_ENGLISH           "M21"
+
+REFERENCE           WEAPON_M21_SILENCER
+LANG_ENGLISH           "M21 sup."
+
+REFERENCE           WEAPON_M240
+LANG_ENGLISH           "M240"
+
+REFERENCE           WEAPON_M2FRAGGRENADE
+LANG_ENGLISH           "G. frag. M2"
+
+REFERENCE           WEAPON_M4
+LANG_ENGLISH           "M4A1"
+
+REFERENCE           WEAPON_M40A3
+LANG_ENGLISH           "M40A3"
+
+REFERENCE           WEAPON_M4M203
+LANG_ENGLISH           "M4A1 granad."
+
+REFERENCE           WEAPON_M4M203_SILENCER
+LANG_ENGLISH           "M4A1 SOPMOD"
+
+REFERENCE           WEAPON_M4_CARBINE
+LANG_ENGLISH           "Carabina M4"
+
+REFERENCE           WEAPON_M4_SILENCER
+LANG_ENGLISH           "M4A1 sup."
+
+REFERENCE           WEAPON_M60E4
+LANG_ENGLISH           "M60E4"
+
+REFERENCE           WEAPON_MAC10
+LANG_ENGLISH           "Mac-10"
+
+REFERENCE           WEAPON_MAGNUM
+LANG_ENGLISH           "Magnum .44"
+
+REFERENCE           WEAPON_MARKED_DISTANCE
+LANG_ENGLISH           "Metros marcados:"
+
+REFERENCE           WEAPON_MASTERKEY_ATTACHMENT
+LANG_ENGLISH           "Masterkey"
+
+REFERENCE           WEAPON_MAUL
+LANG_ENGLISH           "Bulldog"
+
+REFERENCE           WEAPON_MELEEBATON
+LANG_ENGLISH           "Ley y orden"
+
+REFERENCE           WEAPON_MELEEBAYONET
+LANG_ENGLISH           "Bayoneta CaC"
+
+REFERENCE           WEAPON_MELEEBLADE
+LANG_ENGLISH           "Escorpión"
+
+REFERENCE           WEAPON_MELEEBOTTLE
+LANG_ENGLISH           "Botella rota"
+
+REFERENCE           WEAPON_MELEECAVEMAN
+LANG_ENGLISH           "Cavernícola"
+
+REFERENCE           WEAPON_MELEEDIABOLICAL
+LANG_ENGLISH           "Diabólico"
+
+REFERENCE           WEAPON_MELEEICEPICK
+LANG_ENGLISH           "Picador de hielo"
+
+REFERENCE           WEAPON_MELEEKATANA
+LANG_ENGLISH           "Samurái"
+
+REFERENCE           WEAPON_MELEEKNUCKLEKNIFE
+LANG_ENGLISH           "Hoja Shamrock"
+
+REFERENCE           WEAPON_MELEEPADDLE
+LANG_ENGLISH           "Martillo de Omsk"
+
+REFERENCE           WEAPON_MELEEPROKOLOT
+LANG_ENGLISH           "Machete"
+
+REFERENCE           WEAPON_MELEESAWTOOTH
+LANG_ENGLISH           "Sierra dentada"
+
+REFERENCE           WEAPON_MELEESHILLELAGH
+LANG_ENGLISH           "Duende irlandés"
+
+REFERENCE           WEAPON_MELEESHOVEL
+LANG_ENGLISH           "Sepulturero"
+
+REFERENCE           WEAPON_MELEETACTICALKNIFE
+LANG_ENGLISH           "Cuchillo con punta"
+
+REFERENCE           WEAPON_MELEETRUCKERSTOOL
+LANG_ENGLISH           "Matón"
+
+REFERENCE           WEAPON_MELEEWRENCH
+LANG_ENGLISH           "Mecánico"
+
+REFERENCE           WEAPON_MELEE_BLUDGEON
+LANG_ENGLISH           "Cachiporra"
+
+REFERENCE           WEAPON_MELEE_GLADIUS
+LANG_ENGLISH           "Gladiador"
+
+REFERENCE           WEAPON_MELEE_HATCHET
+LANG_ENGLISH           "Machetero"
+
+REFERENCE           WEAPON_MELEE_NAUTICUS
+LANG_ENGLISH           "Náutico"
+
+REFERENCE           WEAPON_MELEE_RANGER
+LANG_ENGLISH           "Zarzaparrilla"
+
+REFERENCE           WEAPON_MELEE_RELIC
+LANG_ENGLISH           "Macheta"
+
+REFERENCE           WEAPON_MELEE_SICKLE
+LANG_ENGLISH           "Hoz"
+
+REFERENCE           WEAPON_MELEE_SUMMERTIME
+LANG_ENGLISH           "Marino"
+
+REFERENCE           WEAPON_MELEE_TRIBAL
+LANG_ENGLISH           "Tribal"
+
+REFERENCE           WEAPON_MICROWAVE_GRENADE
+LANG_ENGLISH           "Granada de microondas"
+
+REFERENCE           WEAPON_MK1_FRAG_GRENADE
+LANG_ENGLISH           "G. Frag. MK1"
+
+REFERENCE           WEAPON_MP44
+LANG_ENGLISH           "MP44"
+
+REFERENCE           WEAPON_MP5
+LANG_ENGLISH           "MP5"
+
+REFERENCE           WEAPON_MP5_SILENCER
+LANG_ENGLISH           "MP5SD"
+
+REFERENCE           WEAPON_NEWREF
+LANG_ENGLISH           "Nuevo texto"
+
+REFERENCE           WEAPON_NO_AMMO
+LANG_ENGLISH           "Sin munición"
+
+REFERENCE           WEAPON_NO_AMMO_CAPS
+LANG_ENGLISH           "SIN MUNICIÓN"
+
+REFERENCE           WEAPON_NO_ATTACHMENT
+LANG_ENGLISH           "Sin accesorio"
+
+REFERENCE           WEAPON_NO_CAMO
+LANG_ENGLISH           "Sin camuflaje"
+
+REFERENCE           WEAPON_NO_FRAG_GRENADE
+LANG_ENGLISH           "No quedan granadas de fragmentación"
+
+REFERENCE           WEAPON_NO_SPECIAL_GRENADE
+LANG_ENGLISH           "No quedan granadas especiales"
+
+REFERENCE           WEAPON_NO_WEAPON_AMMO
+LANG_ENGLISH           "No queda &&1"
+
+REFERENCE           WEAPON_NO_WEAPON_AMMO_MP
+LANG_ENGLISH           "Ningún equipo disponible"
+
+REFERENCE           WEAPON_OPTICSHAMRHYBRID_ATTACHMENT
+LANG_ENGLISH           "Híbrida"
+
+REFERENCE           WEAPON_OVERDRIVE
+LANG_ENGLISH           "HIPERACTIVIDAD"
+
+REFERENCE           WEAPON_P90
+LANG_ENGLISH           "P90"
+
+REFERENCE           WEAPON_P90_SILENCER
+LANG_ENGLISH           "P90-SD"
+
+REFERENCE           WEAPON_PAINTGRENADE
+LANG_ENGLISH           "Granada marcadora"
+
+REFERENCE           WEAPON_PARABOLICMICROPHONE_ATTACHMENT
+LANG_ENGLISH           "Micrófono parabólico"
+
+REFERENCE           WEAPON_PKM
+LANG_ENGLISH           "PKM"
+
+REFERENCE           WEAPON_PKPSD9
+LANG_ENGLISH           "PK-PSD9"
+
+REFERENCE           WEAPON_PP2000
+LANG_ENGLISH           "PP2000"
+
+REFERENCE           WEAPON_PRESTIGE_CAMO
+LANG_ENGLISH           "Prestigio"
+
+REFERENCE           WEAPON_PROKOLOT
+LANG_ENGLISH           "Prokolot"
+
+REFERENCE           WEAPON_RANGER
+LANG_ENGLISH           "Rangers"
+
+REFERENCE           WEAPON_RAPIDFIRE_ATTACHMENT
+LANG_ENGLISH           "Fuego rápido"
+
+REFERENCE           WEAPON_RAPPEL_KNIFE
+LANG_ENGLISH           "Cuchillo"
+
+REFERENCE           WEAPON_RAZOR
+LANG_ENGLISH           "Barbero"
+
+REFERENCE           WEAPON_REDDOT
+LANG_ENGLISH           "Mira con punto rojo"
+
+REFERENCE           WEAPON_RED_TIGER_CAMO
+LANG_ENGLISH           "Tigre rojo"
+
+REFERENCE           WEAPON_REFLEXVAR_ATTACHMENT
+LANG_ENGLISH           "Variante dereflex"
+
+REFERENCE           WEAPON_REFLEX_ATTACHMENT
+LANG_ENGLISH           "Mira con punto rojo"
+
+REFERENCE           WEAPON_REMINGTON700
+LANG_ENGLISH           "R700"
+
+REFERENCE           WEAPON_REMOTE_TURRET_MARKER
+LANG_ENGLISH           "Centinelaremoto"
+
+REFERENCE           WEAPON_RIOTSHIELD
+LANG_ENGLISH           "Escudo pesado"
+
+REFERENCE           WEAPON_RIOTSHIELD_DESC
+LANG_ENGLISH           "Escudo pesado desplegable."
+
+REFERENCE           WEAPON_RPD
+LANG_ENGLISH           "RPD"
+
+REFERENCE           WEAPON_RPG
+LANG_ENGLISH           "RPG-7"
+
+REFERENCE           WEAPON_RPGDUD
+LANG_ENGLISH           "Peligro cercano"
+
+REFERENCE           WEAPON_RPG_LAUNCHER
+LANG_ENGLISH           "Lanzador RPG"
+
+REFERENCE           WEAPON_SAW
+LANG_ENGLISH           "M249 SAW"
+
+REFERENCE           WEAPON_SAW_EMPLACED
+LANG_ENGLISH           "M249 SAW montada"
+
+REFERENCE           WEAPON_SCAVENGER_BAG
+LANG_ENGLISH           "Carroñero"
+
+REFERENCE           WEAPON_SCOPE_ATTACHMENT
+LANG_ENGLISH           ""
+
+REFERENCE           WEAPON_SEMTEX
+LANG_ENGLISH           "SEMTEX"
+
+REFERENCE           WEAPON_SENTRY_GUN
+LANG_ENGLISH           "Centinela"
+
+REFERENCE           WEAPON_SENTRY_MINIGUN
+LANG_ENGLISH           "Cañón automático de centinela"
+
+REFERENCE           WEAPON_SHOTGUNS
+LANG_ENGLISH           "Escopetas"
+
+REFERENCE           WEAPON_SICKLE
+LANG_ENGLISH           "Hoz"
+
+REFERENCE           WEAPON_SILENCER
+LANG_ENGLISH           "Silenciador"
+
+REFERENCE           WEAPON_SILENCER_ATTACHMENT
+LANG_ENGLISH           "Con silenciador"
+
+REFERENCE           WEAPON_SKORPION
+LANG_ENGLISH           "Skorpion"
+
+REFERENCE           WEAPON_SMAW_10
+LANG_ENGLISH           "SMAW-10"
+
+REFERENCE           WEAPON_SMGS
+LANG_ENGLISH           "Subfusiles"
+
+REFERENCE           WEAPON_SMOKEGRENADE
+LANG_ENGLISH           "Humo"
+
+REFERENCE           WEAPON_SMOKE_GRENADE
+LANG_ENGLISH           "Granada de humo"
+
+REFERENCE           WEAPON_SNIPERRIFLES
+LANG_ENGLISH           "Fusiles de precisión"
+
+REFERENCE           WEAPON_STABILIZER_ATTACHMENT
+LANG_ENGLISH           "CPU balística"
+
+REFERENCE           WEAPON_STAC330
+LANG_ENGLISH           "S-Tac Aggressor"
+
+REFERENCE           WEAPON_STINGER
+LANG_ENGLISH           "FIM-92 Stinger"
+
+REFERENCE           WEAPON_STINGER_LOCKAIR
+LANG_ENGLISH           "Fijación de Stinger"
+
+REFERENCE           WEAPON_STRIKER
+LANG_ENGLISH           "Atacante"
+
+REFERENCE           WEAPON_STUN_GRENADE
+LANG_ENGLISH           "Granada aturdidora"
+
+REFERENCE           WEAPON_TACTICAL_ATTACHMENT
+LANG_ENGLISH           "Cuchillo táctico"
+
+REFERENCE           WEAPON_TARGET_NOT_ENOUGH_CLEARANCE
+LANG_ENGLISH           "No hay espacio para disparar"
+
+REFERENCE           WEAPON_TARGET_TOO_CLOSE
+LANG_ENGLISH           "Demasiado cerca del objetivo"
+
+REFERENCE           WEAPON_TEMP
+LANG_ENGLISH           "Necesita descripción de arma"
+
+REFERENCE           WEAPON_THERMAL_ATTACHMENT
+LANG_ENGLISH           "Mira térmica"
+
+REFERENCE           WEAPON_UNCLOAKED
+LANG_ENGLISH           "VISIBLE"
+
+REFERENCE           WEAPON_UPGRADE
+LANG_ENGLISH           "&&1 - &&2"
+
+REFERENCE           WEAPON_UPLINK_DRONE
+LANG_ENGLISH           "Dron de enlace"
+
+REFERENCE           WEAPON_USP
+LANG_ENGLISH           "USP .45"
+
+REFERENCE           WEAPON_UZI
+LANG_ENGLISH           "Mini Uzi"
+
+REFERENCE           WEAPON_UZI_SILENCER
+LANG_ENGLISH           "Mini Uzi sup."
+
+REFERENCE           WEAPON_VARIABLE_GRENADE_LETHAL
+LANG_ENGLISH           "Granada de fragmentación"
+
+REFERENCE           WEAPON_VARIABLE_GRENADE_TACTICAL
+LANG_ENGLISH           "Granada especial"
+
+REFERENCE           WEAPON_VEHICLE_EXPLOSION
+LANG_ENGLISH           "Explosión de vehículo"
+
+REFERENCE           WEAPON_VSSVINTOREZ
+LANG_ENGLISH           "VSS Vintorez"
+
+REFERENCE           WEAPON_VZSCOPE_ATTACHMENT
+LANG_ENGLISH           "Zoom variable"
+
+REFERENCE           WEAPON_WINCHESTER1200
+LANG_ENGLISH           "W1200"
+
+REFERENCE           WEAPON_WOODLAND_CAMO
+LANG_ENGLISH           "Boscoso"
+
+REFERENCE           WEAPON_XMAGS_ATTACHMENT
+LANG_ENGLISH           "Cargadores grandes"
+
+REFERENCE           WEAPON_XMLAR
+LANG_ENGLISH           "XM-LAR" 
+
+ENDMARKER
