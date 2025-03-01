@@ -1,0 +1,1327 @@
+// Dumped from fastfile "sna_code_post_gfx_mp".
+// In their original format the strings might have been separated in multiple files.
+
+VERSION             "1"
+FILENOTES           ""
+
+REFERENCE           SCORECALLOUTS_AIRSTRIKE_KILL
+LANG_ENGLISH           "Baja con ataque aéreo"
+ 
+REFERENCE           SCORECALLOUTS_ASSAULT
+LANG_ENGLISH           "Asalto"
+ 
+REFERENCE           SCORECALLOUTS_ASSIST
+LANG_ENGLISH           "Asistencia"
+ 
+REFERENCE           SCORECALLOUTS_ASSIST_CONCUSSION
+LANG_ENGLISH           "Asistencia con conmocionadora"
+ 
+REFERENCE           SCORECALLOUTS_ASSIST_DESTROYED_STREAK
+LANG_ENGLISH           "Asistencia en racha de bajas destruida"
+ 
+REFERENCE           SCORECALLOUTS_ASSIST_FLASH
+LANG_ENGLISH           "Asistencia con cegadora"
+ 
+REFERENCE           SCORECALLOUTS_ASSIST_UAV
+LANG_ENGLISH           "Asistencia con UAV"
+ 
+REFERENCE           SCORECALLOUTS_BALL_CARRY_KILL
+LANG_ENGLISH           "Baja llevando el satélite"
+ 
+REFERENCE           SCORECALLOUTS_BOMB_DETONATED
+LANG_ENGLISH           "Bomba detonada"
+ 
+REFERENCE           SCORECALLOUTS_CAPTURE_KILL
+LANG_ENGLISH           "Baja al capturar"
+ 
+REFERENCE           SCORECALLOUTS_DEFEND
+LANG_ENGLISH           "Defender"
+ 
+REFERENCE           SCORECALLOUTS_DEFUSE_BOMB
+LANG_ENGLISH           "Bomba desactivada"
+ 
+REFERENCE           SCORECALLOUTS_DESTROYED_C4
+LANG_ENGLISH           "C4 destruido"
+ 
+REFERENCE           SCORECALLOUTS_DESTROYED_CLAYMORE
+LANG_ENGLISH           "Claymore destruida"
+ 
+REFERENCE           SCORECALLOUTS_DESTROYED_HELICOPTER
+LANG_ENGLISH           "Helicóptero destruido"
+ 
+REFERENCE           SCORECALLOUTS_DESTROYED_UAV
+LANG_ENGLISH           "UAV destruido"
+ 
+REFERENCE           SCORECALLOUTS_FLAG_CAPTURE
+LANG_ENGLISH           "Bandera tomada"
+ 
+REFERENCE           SCORECALLOUTS_FLAG_CARRY_KILL
+LANG_ENGLISH           "Baja llevando la bandera"
+ 
+REFERENCE           SCORECALLOUTS_FLAG_PICKUP
+LANG_ENGLISH           "Recogida de bandera"
+ 
+REFERENCE           SCORECALLOUTS_FLAG_RETURN
+LANG_ENGLISH           "Bandera devuelta"
+ 
+REFERENCE           SCORECALLOUTS_GUN_PROMOTION
+LANG_ENGLISH           "Ascenso de arma"
+ 
+REFERENCE           SCORECALLOUTS_HARDPOINT_SECURE
+LANG_ENGLISH           "Pto. caliente seg."
+ 
+REFERENCE           SCORECALLOUTS_HEADQUARTERS_DESTROY
+LANG_ENGLISH           "Cuartel general destruido"
+ 
+REFERENCE           SCORECALLOUTS_HEADQUARTERS_SECURE
+LANG_ENGLISH           "Cuartel general asegurado"
+ 
+REFERENCE           SCORECALLOUTS_HELICOPTER_KILL
+LANG_ENGLISH           "Baja con helicóptero"
+ 
+REFERENCE           SCORECALLOUTS_INTERCEPTION
+LANG_ENGLISH           "Satélite interceptado"
+ 
+REFERENCE           SCORECALLOUTS_KILL
+LANG_ENGLISH           "Baja"
+ 
+REFERENCE           SCORECALLOUTS_KILL_BALL_CARRIER
+LANG_ENGLISH           "Portador de satélite muerto"
+ 
+REFERENCE           SCORECALLOUTS_KILL_CONFIRMED
+LANG_ENGLISH           "Baja confirmada"
+ 
+REFERENCE           SCORECALLOUTS_KILL_DENIED
+LANG_ENGLISH           "Baja denegada"
+ 
+REFERENCE           SCORECALLOUTS_KILL_FLAG_CARRIER
+LANG_ENGLISH           "Portador muerto"
+ 
+REFERENCE           SCORECALLOUTS_OPENING_MOVE
+LANG_ENGLISH           "Apertura"
+ 
+REFERENCE           SCORECALLOUTS_PLANT_BOMB
+LANG_ENGLISH           "Bomba colocada"
+ 
+REFERENCE           SCORECALLOUTS_POSITION_NEUTRALIZED
+LANG_ENGLISH           "Posición enemiga neutralizada"
+ 
+REFERENCE           SCORECALLOUTS_POSITION_SECURE
+LANG_ENGLISH           "Posición segura"
+ 
+REFERENCE           SCORECALLOUTS_TEAMMATE_CONFIRMED
+LANG_ENGLISH           "Baja confirmada de compañero"
+ 
+REFERENCE           SCORECALLOUTS_UPLINK
+LANG_ENGLISH           "Enlace de satélite"
+ 
+REFERENCE           SCORECALLOUTS_UPLINK_ASSIST
+LANG_ENGLISH           "Asistencia de enlace"
+ 
+REFERENCE           SCORECALLOUTS_UPLINK_PASS_KILL
+LANG_ENGLISH           "Recogida de baja al pasar el satélite"
+ 
+REFERENCE           SCORECALLOUTS_USE_KILLSTREAK
+LANG_ENGLISH           "Usar racha de bajas"
+ 
+REFERENCE           SPEECH_CONTACT
+LANG_ENGLISH           "Contacto"
+ 
+REFERENCE           SPEECH_EMP
+LANG_ENGLISH           "PEM"
+ 
+REFERENCE           SPEECH_FLASH
+LANG_ENGLISH           "Cegadora"
+ 
+REFERENCE           SPEECH_FRAG
+LANG_ENGLISH           "Fragmentación"
+ 
+REFERENCE           SPEECH_NEXT
+LANG_ENGLISH           "Siguiente"
+ 
+REFERENCE           SPEECH_PAUSE
+LANG_ENGLISH           "Pausar"
+ 
+REFERENCE           SPEECH_PREVIOUS
+LANG_ENGLISH           "Anterior"
+ 
+REFERENCE           SPEECH_SAY_AND_ONE_OF_THE_FOLLOWING
+LANG_ENGLISH           "Di "Advanced Warfare", "A W" o "Call of Duty" y uno de los siguientes comandos:"
+ 
+REFERENCE           SPEECH_SHOW_MENU
+LANG_ENGLISH           "Mostrar menú"
+ 
+REFERENCE           SPEECH_SMART
+LANG_ENGLISH           "Inteligente"
+ 
+REFERENCE           SPEECH_SURVIVAL
+LANG_ENGLISH           "Sobrevivencia"
+ 
+REFERENCE           SPEECH_THREAT
+LANG_ENGLISH           "Marca"
+ 
+REFERENCE           SPEECH_UNPAUSE
+LANG_ENGLISH           "Continuar"
+ 
+REFERENCE           SPLASHES_AIRDROP_KILL
+LANG_ENGLISH           "Uno en un millón..."
+ 
+REFERENCE           SPLASHES_AIRDROP_KILL_DESC
+LANG_ENGLISH           "Mataste a un enemigo con un paquete de ayuda lanzado."
+ 
+REFERENCE           SPLASHES_AIRDROP_TRAP_KILL
+LANG_ENGLISH           "Picó"
+ 
+REFERENCE           SPLASHES_AIRDROP_TRAP_KILL_DESC
+LANG_ENGLISH           "Mataste a un enemigo con una trampa de paquete de ayuda orbital."
+ 
+REFERENCE           SPLASHES_ASSAULT
+LANG_ENGLISH           "¡Vanguardia!"
+ 
+REFERENCE           SPLASHES_ASSAULT_DESC
+LANG_ENGLISH           "Mata a un defensor."
+ 
+REFERENCE           SPLASHES_ASSAULT_DRONE_DESTROYED
+LANG_ENGLISH           "Chatarrero"
+ 
+REFERENCE           SPLASHES_ASSAULT_DRONE_DESTROYED_DESC
+LANG_ENGLISH           "Destruiste un dron de ataque aéreo enemigo."
+ 
+REFERENCE           SPLASHES_ASSAULT_DRONE_KILL
+LANG_ENGLISH           "Exterminar"
+ 
+REFERENCE           SPLASHES_ASSAULT_DRONE_KILL_DESC
+LANG_ENGLISH           "Mataste a un enemigo con el dron de ataque aéreo."
+ 
+REFERENCE           SPLASHES_ASSISTEDSUICIDE
+LANG_ENGLISH           "¡Suicidio asistido!"
+ 
+REFERENCE           SPLASHES_ASSISTEDSUICIDE_DESC
+LANG_ENGLISH           "Hiere a un enemigo que después se mate a sí mismo."
+ 
+REFERENCE           SPLASHES_ASSIST_DESTROYED
+LANG_ENGLISH           "Vandalismo"
+ 
+REFERENCE           SPLASHES_ASSIST_DESTROYED_DESC
+LANG_ENGLISH           "Ayuda en la destrucción de una racha de bajas del enemigo."
+ 
+REFERENCE           SPLASHES_AVENGER
+LANG_ENGLISH           "¡Vengador!"
+ 
+REFERENCE           SPLASHES_AVENGER_DESC
+LANG_ENGLISH           "Mata a un enemigo que mató a un compañerorecientemente."
+ 
+REFERENCE           SPLASHES_BACKSTAB
+LANG_ENGLISH           "Puñalada"
+ 
+REFERENCE           SPLASHES_BACKSTAB_DESC
+LANG_ENGLISH           "Apuñala a un enemigo por la espalda."
+ 
+REFERENCE           SPLASHES_BALL_KILLED_CARRIER
+LANG_ENGLISH           "Cortafuegos"
+ 
+REFERENCE           SPLASHES_BALL_KILLED_CARRIER_DESC
+LANG_ENGLISH           "Mataste al portador del satélite."
+ 
+REFERENCE           SPLASHES_BALL_SCORE_ASSIST
+LANG_ENGLISH           "Troyano"
+ 
+REFERENCE           SPLASHES_BALL_SCORE_ASSIST_DESC
+LANG_ENGLISH           "Pasa a un jugador que puntúe en menos de 3 segundos."
+ 
+REFERENCE           SPLASHES_BLANK
+LANG_ENGLISH           ""
+ 
+REFERENCE           SPLASHES_BLOODTHIRSTY
+LANG_ENGLISH           "Sanguinario"
+ 
+REFERENCE           SPLASHES_BLOODTHIRSTY_DESC
+LANG_ENGLISH           "Mata a 5 enemigos sin morir."
+ 
+REFERENCE           SPLASHES_BOMB_DEFUSED
+LANG_ENGLISH           "¡Bomba desactivada!"
+ 
+REFERENCE           SPLASHES_BOMB_DROPPED
+LANG_ENGLISH           "¡Bomba lanzada!"
+ 
+REFERENCE           SPLASHES_BOMB_PLANTED
+LANG_ENGLISH           "¡Bomba colocada!"
+ 
+REFERENCE           SPLASHES_BOMB_TAKEN
+LANG_ENGLISH           "¡Bomba tomada!"
+ 
+REFERENCE           SPLASHES_BOOST_SLAM_KILL
+LANG_ENGLISH           "Muerte aérea"
+ 
+REFERENCE           SPLASHES_BOOST_SLAM_KILL_DESC
+LANG_ENGLISH           "Mata a un enemigo con una caída con impulso."
+ 
+REFERENCE           SPLASHES_BRUTAL
+LANG_ENGLISH           "Brutal"
+ 
+REFERENCE           SPLASHES_BRUTAL_DESC
+LANG_ENGLISH           "Mata a 25 enemigos sin morir."
+ 
+REFERENCE           SPLASHES_BULLETPEN
+LANG_ENGLISH           "Perforación"
+ 
+REFERENCE           SPLASHES_BULLETPEN_DESC
+LANG_ENGLISH           "Mata a un enemigo por penetración de balas."
+ 
+REFERENCE           SPLASHES_BUZZKILL
+LANG_ENGLISH           "¡Buzzkill!"
+ 
+REFERENCE           SPLASHES_BUZZKILL_DESC
+LANG_ENGLISH           "Mata a un enemigo a un solo punto de una racha de bajas."
+ 
+REFERENCE           SPLASHES_C4DEATH_DESC
+LANG_ENGLISH           "Saca el C4 o morirás."
+ 
+REFERENCE           SPLASHES_CALLED_AIRSTRIKE
+LANG_ENGLISH           "Obtén un ataque aéreo."
+ 
+REFERENCE           SPLASHES_CALLED_ASSAULT_DRONE
+LANG_ENGLISH           "Dron de ataque obtenido."
+ 
+REFERENCE           SPLASHES_CALLED_CAREPACKAGE
+LANG_ENGLISH           "Paquete de ayuda orbital obtenido."
+ 
+REFERENCE           SPLASHES_CALLED_GOLIATH
+LANG_ENGLISH           "Goliath obtenido."
+ 
+REFERENCE           SPLASHES_CALLED_HELICOPTER
+LANG_ENGLISH           "Obtén un helicóptero."
+ 
+REFERENCE           SPLASHES_CALLED_MISSILE_STRIKE
+LANG_ENGLISH           "Ataque de misiles obtenido."
+ 
+REFERENCE           SPLASHES_CALLED_PALADIN
+LANG_ENGLISH           "Paladin obtenido."
+ 
+REFERENCE           SPLASHES_CALLED_RECON_DRONE
+LANG_ENGLISH           "Dron dereconocimiento aéreo obtenido."
+ 
+REFERENCE           SPLASHES_CALLED_STRAFING_RUN
+LANG_ENGLISH           "Bombardeo obtenido."
+ 
+REFERENCE           SPLASHES_CALLED_UAV
+LANG_ENGLISH           "Obtén un UAV."
+ 
+REFERENCE           SPLASHES_CALLED_VULCAN
+LANG_ENGLISH           "Vulcan obtenido."
+ 
+REFERENCE           SPLASHES_CALLED_WARBIRD
+LANG_ENGLISH           "Warbird obtenido."
+ 
+REFERENCE           SPLASHES_CAPTURE
+LANG_ENGLISH           "¡Jugador líder!"
+ 
+REFERENCE           SPLASHES_CAPTURED_HQ
+LANG_ENGLISH           "¡CG tomado!"
+ 
+REFERENCE           SPLASHES_CAPTURED_NUKE
+LANG_ENGLISH           "¡Bomba nuclear tomada!"
+ 
+REFERENCE           SPLASHES_CAPTURE_DESC
+LANG_ENGLISH           "Captura un objetivo."
+ 
+REFERENCE           SPLASHES_COMBATHIGH_DESC
+LANG_ENGLISH           "Salud incrementada durante un breve periodo de tiempo."
+ 
+REFERENCE           SPLASHES_COMEBACK
+LANG_ENGLISH           "¡Recuperación!"
+ 
+REFERENCE           SPLASHES_COMEBACK_DESC
+LANG_ENGLISH           "Mata a un enemigo tras morir 3 o más veces seguidas."
+ 
+REFERENCE           SPLASHES_COOP_KILLSTREAK_KILL
+LANG_ENGLISH           "Compañero de vuelo"
+ 
+REFERENCE           SPLASHES_COPIED
+LANG_ENGLISH           "¡Clase copiada!"
+ 
+REFERENCE           SPLASHES_COPYCAT_DESC
+LANG_ENGLISH           "Roba la clase de tu asesino durante la cámara de muerte."
+ 
+REFERENCE           SPLASHES_CO_DESTROYED_DRONE_ASSAULT
+LANG_ENGLISH           "Dron de ataque destruido"
+ 
+REFERENCE           SPLASHES_CO_DESTROYED_DRONE_RECON
+LANG_ENGLISH           "Dron dereconocimiento destruido"
+ 
+REFERENCE           SPLASHES_CO_DESTROYED_GOLIATH
+LANG_ENGLISH           "Goliath destruido"
+ 
+REFERENCE           SPLASHES_CO_FINAL_SURVIVOR
+LANG_ENGLISH           "¡Último sobreviviente!"
+ 
+REFERENCE           SPLASHES_CO_FIRST_INFECTED
+LANG_ENGLISH           "¡Primer infectado!"
+ 
+REFERENCE           SPLASHES_CO_GOT_INFECTED
+LANG_ENGLISH           "¡Infectado!"
+ 
+REFERENCE           SPLASHES_CO_INFECTED_SURVIVOR
+LANG_ENGLISH           "¡Infectaste a un sobreviviente!"
+ 
+REFERENCE           SPLASHES_CO_REVIVED
+LANG_ENGLISH           "Reanimado"
+ 
+REFERENCE           SPLASHES_CROSSBOW_STICK
+LANG_ENGLISH           "Ojo de halcón"
+ 
+REFERENCE           SPLASHES_CROSSBOW_STICK_DESC
+LANG_ENGLISH           "Mataste a un enemigo con una ballesta."
+ 
+REFERENCE           SPLASHES_DEADLINE_TIME_ADDED
+LANG_ENGLISH           "¡Tiempo añadido!"
+ 
+REFERENCE           SPLASHES_DEADLINE_TIME_ADDED_DESC
+LANG_ENGLISH           "Temporizador de bomba extendido."
+ 
+REFERENCE           SPLASHES_DEFCON_1
+LANG_ENGLISH           "DEFCON 1"
+ 
+REFERENCE           SPLASHES_DEFCON_1_DESC
+LANG_ENGLISH           "¡Los objetivos valen doble!"
+ 
+REFERENCE           SPLASHES_DEFCON_2
+LANG_ENGLISH           "DEFCON 2"
+ 
+REFERENCE           SPLASHES_DEFCON_2_DESC
+LANG_ENGLISH           "¡Las rachas de bajas se encadenan!"
+ 
+REFERENCE           SPLASHES_DEFCON_3
+LANG_ENGLISH           "DEFCON 3"
+ 
+REFERENCE           SPLASHES_DEFCON_3_DESC
+LANG_ENGLISH           "¡Lanzamiento de emergencia inminente!"
+ 
+REFERENCE           SPLASHES_DEFCON_4
+LANG_ENGLISH           "DEFCON 4"
+ 
+REFERENCE           SPLASHES_DEFCON_4_DESC
+LANG_ENGLISH           "¡Empieza la partida!"
+ 
+REFERENCE           SPLASHES_DEFCON_5
+LANG_ENGLISH           "DEFCON 5"
+ 
+REFERENCE           SPLASHES_DEFCON_5_DESC
+LANG_ENGLISH           "DEFCON 5"
+ 
+REFERENCE           SPLASHES_DEFCON_LOWER
+LANG_ENGLISH           "¡DEFCONreducido!"
+ 
+REFERENCE           SPLASHES_DEFCON_LOWER_DESC
+LANG_ENGLISH           "¡Rachas de bajas mejoradas!"
+ 
+REFERENCE           SPLASHES_DEFCON_RAISE
+LANG_ENGLISH           "DEFCON aumentado"
+ 
+REFERENCE           SPLASHES_DEFCON_RAISE_DESC
+LANG_ENGLISH           "Rachas de bajas mermadas."
+ 
+REFERENCE           SPLASHES_DEFEND
+LANG_ENGLISH           "¡Defensor!"
+ 
+REFERENCE           SPLASHES_DEFENDER
+LANG_ENGLISH           "¡Salvador!"
+ 
+REFERENCE           SPLASHES_DEFENDER_DESC
+LANG_ENGLISH           "Mata a un enemigo que estaba hiriendo a un compañero."
+ 
+REFERENCE           SPLASHES_DEFEND_DESC
+LANG_ENGLISH           "Defiende el objetivo."
+ 
+REFERENCE           SPLASHES_DEFUSE
+LANG_ENGLISH           "¡Héroe!"
+ 
+REFERENCE           SPLASHES_DEFUSE_DESC
+LANG_ENGLISH           "Desactiva la bomba."
+ 
+REFERENCE           SPLASHES_DENIED
+LANG_ENGLISH           "¡Denegado!"
+ 
+REFERENCE           SPLASHES_DENIED_DESC
+LANG_ENGLISH           "¡Neutralizaste la inserción táctica del enemigo!"
+ 
+REFERENCE           SPLASHES_DENIED_KILL
+LANG_ENGLISH           "¡Baja denegada!"
+ 
+REFERENCE           SPLASHES_DESC_CAPTURED_NUKE
+LANG_ENGLISH           "Tomaste el arma nuclear."
+ 
+REFERENCE           SPLASHES_DESERTED
+LANG_ENGLISH           "¡Huiste!"
+ 
+REFERENCE           SPLASHES_DESTROY
+LANG_ENGLISH           "Bombardero"
+ 
+REFERENCE           SPLASHES_DESTROYED_A10
+LANG_ENGLISH           "¡A-10 destruido!"
+ 
+REFERENCE           SPLASHES_DESTROYED_AC130
+LANG_ENGLISH           "¡AC-130 destruido!"
+ 
+REFERENCE           SPLASHES_DESTROYED_AIRSTRIKE
+LANG_ENGLISH           "¡Ataque aéreo destruido!"
+ 
+REFERENCE           SPLASHES_DESTROYED_APM_PLANE
+LANG_ENGLISH           "¡Avión de mina de colocación aérea destruido!"
+ 
+REFERENCE           SPLASHES_DESTROYED_COUNTER_UAV
+LANG_ENGLISH           "¡UAVrestaurado!"
+ 
+REFERENCE           SPLASHES_DESTROYED_HARRIER
+LANG_ENGLISH           "¡Harrier destruido!"
+ 
+REFERENCE           SPLASHES_DESTROYED_HELICOPTER
+LANG_ENGLISH           "¡Helicóptero destruido!"
+ 
+REFERENCE           SPLASHES_DESTROYED_HQ
+LANG_ENGLISH           "¡CG destruido!"
+ 
+REFERENCE           SPLASHES_DESTROYED_INSERTION
+LANG_ENGLISH           "¡Bloquearon tu inserción táctica!"
+ 
+REFERENCE           SPLASHES_DESTROYED_LITTLE_BIRD
+LANG_ENGLISH           "¡AH-6 destruido!"
+ 
+REFERENCE           SPLASHES_DESTROYED_MINIGUNNER
+LANG_ENGLISH           "¡Avión de combate destruido!"
+ 
+REFERENCE           SPLASHES_DESTROYED_OBJECTIVE
+LANG_ENGLISH           "¡Objetivo destruido!"
+ 
+REFERENCE           SPLASHES_DESTROYED_OSPREY
+LANG_ENGLISH           "¡Osprey destruido!"
+ 
+REFERENCE           SPLASHES_DESTROYED_PAVELOW
+LANG_ENGLISH           "¡Pave Low destruido!"
+ 
+REFERENCE           SPLASHES_DESTROYED_PREDATOR_MISSILE
+LANG_ENGLISH           "¡Misil Predator destruido!"
+ 
+REFERENCE           SPLASHES_DESTROYED_REMOTE_TANK
+LANG_ENGLISH           "¡Dron de ataque destruido!"
+ 
+REFERENCE           SPLASHES_DESTROYED_UAV
+LANG_ENGLISH           "¡UAV destruido!"
+ 
+REFERENCE           SPLASHES_DESTROY_DESC
+LANG_ENGLISH           "Detona una bomba."
+ 
+REFERENCE           SPLASHES_DOUBLEKILL
+LANG_ENGLISH           "¡Doble baja!"
+ 
+REFERENCE           SPLASHES_DOUBLEKILL_DESC
+LANG_ENGLISH           "Mata a 2 enemigos seguidos rápidamente."
+ 
+REFERENCE           SPLASHES_DROPPED_ENEMY_GUN_RANK
+LANG_ENGLISH           "¡Rango de armas enemigasreducido!"
+ 
+REFERENCE           SPLASHES_DROPPED_GUN_RANK
+LANG_ENGLISH           "¡Rango de armasreducido!"
+ 
+REFERENCE           SPLASHES_DROPPED_JUGGERNAUT
+LANG_ENGLISH           "¡Juggernaut desplegado!"
+ 
+REFERENCE           SPLASHES_EARNED_CAREPACKAGE
+LANG_ENGLISH           "¡Paquete de ayuda obtenido!"
+ 
+REFERENCE           SPLASHES_EARNED_UNLOCK_DESC
+LANG_ENGLISH           "Subida de nivel"
+ 
+REFERENCE           SPLASHES_EFFICIENY
+LANG_ENGLISH           "Eficacia"
+ 
+REFERENCE           SPLASHES_EFFICIENY_DESC
+LANG_ENGLISH           "Mata a varios enemigos con una bala."
+ 
+REFERENCE           SPLASHES_EIGHTKILL
+LANG_ENGLISH           "Ultrabaja"
+ 
+REFERENCE           SPLASHES_EIGHTKILL_DESC
+LANG_ENGLISH           "Mata a 8 enemigos seguidos rápidamente."
+ 
+REFERENCE           SPLASHES_ELIMINATED
+LANG_ENGLISH           "¡Eliminado!"
+ 
+REFERENCE           SPLASHES_ELIMINATION
+LANG_ENGLISH           "Eliminación"
+ 
+REFERENCE           SPLASHES_ELIMINATION_DESC
+LANG_ENGLISH           "Mata a un enemigo en Buscar y destruir."
+ 
+REFERENCE           SPLASHES_ENDGAME_DESC
+LANG_ENGLISH           "Dispones de salud adicional durante algunos segundos."
+ 
+REFERENCE           SPLASHES_EXECUTION
+LANG_ENGLISH           "¡Ejecución!"
+ 
+REFERENCE           SPLASHES_EXECUTION_DESC
+LANG_ENGLISH           "Mataste a un enemigo en Última batalla (clásico)."
+ 
+REFERENCE           SPLASHES_EXO_KNIFE_KILL
+LANG_ENGLISH           "Trinchado"
+ 
+REFERENCE           SPLASHES_EXO_KNIFE_KILL_DESC
+LANG_ENGLISH           "Mataste a un enemigo con un dron de púas."
+ 
+REFERENCE           SPLASHES_EXO_KNIFE_RECALL
+LANG_ENGLISH           "Bumerán"
+ 
+REFERENCE           SPLASHES_EXO_KNIFE_RECALL_DESC
+LANG_ENGLISH           "Mata a un enemigo con un dron de púasrecuperado."
+ 
+REFERENCE           SPLASHES_FIELDGOAL
+LANG_ENGLISH           "Al enlace"
+ 
+REFERENCE           SPLASHES_FIELDGOAL_DESC
+LANG_ENGLISH           "Lanzaste el satélite hasta el puesto de enlace."
+ 
+REFERENCE           SPLASHES_FIELDGOAL_SCORE
+LANG_ENGLISH           "¡&&1 punto obtenido!"
+ 
+REFERENCE           SPLASHES_FINALSTAND_DESC
+LANG_ENGLISH           "Tendrás una segunda oportunidad cuando estés en el suelo."
+ 
+REFERENCE           SPLASHES_FINAL_SURVIVOR
+LANG_ENGLISH           "Hombre omega"
+ 
+REFERENCE           SPLASHES_FINAL_SURVIVOR_DESC
+LANG_ENGLISH           "Último sobreviviente."
+ 
+REFERENCE           SPLASHES_FIRSTBLOOD
+LANG_ENGLISH           "¡Primera sangre!"
+ 
+REFERENCE           SPLASHES_FIRSTBLOOD_DESC
+LANG_ENGLISH           "Consigue la primera baja de la partida o la ronda."
+ 
+REFERENCE           SPLASHES_FIRST_INFECTED
+LANG_ENGLISH           "Paciente cero"
+ 
+REFERENCE           SPLASHES_FIRST_INFECTED_DESC
+LANG_ENGLISH           "Primer infectado."
+ 
+REFERENCE           SPLASHES_FIRST_PLACE_KILL
+LANG_ENGLISH           "Matarreyes"
+ 
+REFERENCE           SPLASHES_FIRST_PLACE_KILL_DESC
+LANG_ENGLISH           "Mata al enemigo que tenía la máxima puntuación."
+ 
+REFERENCE           SPLASHES_FIVEKILL
+LANG_ENGLISH           "Turbobaja"
+ 
+REFERENCE           SPLASHES_FIVEKILL_DESC
+LANG_ENGLISH           "Mata a 5 enemigos seguidos rápidamente."
+ 
+REFERENCE           SPLASHES_FLAGPICKUP
+LANG_ENGLISH           "¡Atrapada!"
+ 
+REFERENCE           SPLASHES_FLAGPICKUP_DESC
+LANG_ENGLISH           "¡Tienes la bandera!"
+ 
+REFERENCE           SPLASHES_FLAGRETURN
+LANG_ENGLISH           "¡A casa!"
+ 
+REFERENCE           SPLASHES_FLAGRETURN_DESC
+LANG_ENGLISH           "Bandera devuelta."
+ 
+REFERENCE           SPLASHES_FLAGS_CAPTURE
+LANG_ENGLISH           "¡Una bandera tomada!"
+ 
+REFERENCE           SPLASHES_FLAG_ASSAULT
+LANG_ENGLISH           "¡Asalto a la bandera!"
+ 
+REFERENCE           SPLASHES_FLAG_ASSAULT_DESC
+LANG_ENGLISH           "Mataste a un defensor de la bandera. (^3+&&1^7)"
+ 
+REFERENCE           SPLASHES_FLAG_CAPTURE
+LANG_ENGLISH           "¡Bandera tomada!"
+ 
+REFERENCE           SPLASHES_FLAG_CAPTURED
+LANG_ENGLISH           "¡Bandera tomada!"
+ 
+REFERENCE           SPLASHES_FLAG_CAPTURED_DESC
+LANG_ENGLISH           "Bandera enemiga tomada."
+ 
+REFERENCE           SPLASHES_FLAG_DEFEND
+LANG_ENGLISH           "¡Bandera defendida!"
+ 
+REFERENCE           SPLASHES_FLAG_DEFEND_DESC
+LANG_ENGLISH           "Defendiste la bandera. (^3+&&1^7)"
+ 
+REFERENCE           SPLASHES_FLAG_PICKUP
+LANG_ENGLISH           "¡Banderarecogida!"
+ 
+REFERENCE           SPLASHES_FLAG_PICKUP_ENEMY
+LANG_ENGLISH           "¡Bandera enemiga tomada!"
+ 
+REFERENCE           SPLASHES_FLAG_PICKUP_FRIENDLY
+LANG_ENGLISH           "¡Bandera propiarecogida!"
+ 
+REFERENCE           SPLASHES_FLAG_RETURN
+LANG_ENGLISH           "¡Bandera devuelta!"
+ 
+REFERENCE           SPLASHES_FLASH_KILL
+LANG_ENGLISH           "Pelea a ciegas"
+ 
+REFERENCE           SPLASHES_FLASH_KILL_DESC
+LANG_ENGLISH           "Mata a un enemigo mientras estás cegado o aturdido."
+ 
+REFERENCE           SPLASHES_FOURKILL
+LANG_ENGLISH           "Baja furiosa"
+ 
+REFERENCE           SPLASHES_FOURKILL_DESC
+LANG_ENGLISH           "Mata a 4 enemigos seguidos rápidamente."
+ 
+REFERENCE           SPLASHES_GAINED_GUN_RANK
+LANG_ENGLISH           "¡Rango de armas aumentado!"
+ 
+REFERENCE           SPLASHES_GIVEAWAY_AIRDROP
+LANG_ENGLISH           "... tomó un lanzamiento de racha de bajas."
+ 
+REFERENCE           SPLASHES_GIVEAWAY_JUGGERNAUT
+LANG_ENGLISH           "... tomó un Juggernaut."
+ 
+REFERENCE           SPLASHES_GIVEAWAY_SENTRY
+LANG_ENGLISH           "... tomó una centinela."
+ 
+REFERENCE           SPLASHES_GOLIATH_DESTROYED
+LANG_ENGLISH           "David"
+ 
+REFERENCE           SPLASHES_GOLIATH_DESTROYED_DESC
+LANG_ENGLISH           "Goliath enemigo destruido."
+ 
+REFERENCE           SPLASHES_GOLIATH_KILL
+LANG_ENGLISH           "Fulminado"
+ 
+REFERENCE           SPLASHES_GOLIATH_KILL_DESC
+LANG_ENGLISH           "Mataste a un enemigo con un Goliath."
+ 
+REFERENCE           SPLASHES_GOT_INFECTED
+LANG_ENGLISH           "Descuidado"
+ 
+REFERENCE           SPLASHES_GOT_INFECTED_DESC
+LANG_ENGLISH           "Sobreviviente convertido en infectado."
+ 
+REFERENCE           SPLASHES_GOT_JUGGERNAUT
+LANG_ENGLISH           "¡Obtuviste el Juggernaut!"
+ 
+REFERENCE           SPLASHES_GOT_JUGGERNAUT_DESC
+LANG_ENGLISH           "Ahora eres el Juggernaut."
+ 
+REFERENCE           SPLASHES_GRABBED_THE_FLAG
+LANG_ENGLISH           "¡Tomó la bandera!"
+ 
+REFERENCE           SPLASHES_GUN_DROPPED
+LANG_ENGLISH           "Déjà vu"
+ 
+REFERENCE           SPLASHES_GUN_DROPPED_DESC
+LANG_ENGLISH           "Consigue que te degraden."
+ 
+REFERENCE           SPLASHES_GUN_HUMILIATION
+LANG_ENGLISH           "Humillación"
+ 
+REFERENCE           SPLASHES_GUN_HUMILIATION_DESC
+LANG_ENGLISH           "Degrada a un enemigo."
+ 
+REFERENCE           SPLASHES_GUN_LEVEL_UP
+LANG_ENGLISH           "Subir de nivel"
+ 
+REFERENCE           SPLASHES_GUN_LEVEL_UP_DESC
+LANG_ENGLISH           "Sube de nivel."
+ 
+REFERENCE           SPLASHES_GUN_QUICK_RANK
+LANG_ENGLISH           "Pistolero"
+ 
+REFERENCE           SPLASHES_GUN_QUICK_RANK_DESC
+LANG_ENGLISH           "Mata a un enemigo en menos de 3 segundos después de subir de nivel."
+ 
+REFERENCE           SPLASHES_GUN_REGICIDE
+LANG_ENGLISH           "Regicidio"
+ 
+REFERENCE           SPLASHES_GUN_REGICIDE_DESC
+LANG_ENGLISH           "Degrada a un enemigo que esté a una baja de la victoria."
+ 
+REFERENCE           SPLASHES_HEADSHOT
+LANG_ENGLISH           "¡En la cabeza!"
+ 
+REFERENCE           SPLASHES_HEADSHOT_DESC
+LANG_ENGLISH           "Mata a un enemigo de un tiro en la cabeza."
+ 
+REFERENCE           SPLASHES_HELICOPTER_DESTROYED
+LANG_ENGLISH           "Helicóptero abatido"
+ 
+REFERENCE           SPLASHES_HELICOPTER_DESTROYED_DESC
+LANG_ENGLISH           "Destruye un helicóptero enemigo."
+ 
+REFERENCE           SPLASHES_HEROIC
+LANG_ENGLISH           "¡Heroico!"
+ 
+REFERENCE           SPLASHES_HEROIC_DESC
+LANG_ENGLISH           "¡Tomaste un objetivo en Última batalla!"
+ 
+REFERENCE           SPLASHES_HIJACKED
+LANG_ENGLISH           "&&1 capturó tu caja de suministros."
+ 
+REFERENCE           SPLASHES_HIJACKED_AIRDROP
+LANG_ENGLISH           "¡Tomaron tu caja!"
+ 
+REFERENCE           SPLASHES_HIJACKED_EMERGENCY_AIRDROP
+LANG_ENGLISH           "¡Tomaron tu caja!"
+ 
+REFERENCE           SPLASHES_HIJACKED_JUGGERNAUT
+LANG_ENGLISH           "¡Tomaron tu Juggernaut!"
+ 
+REFERENCE           SPLASHES_HIJACKED_REMOTE_TANK
+LANG_ENGLISH           "¡Tomaron tu dron de ataque!"
+ 
+REFERENCE           SPLASHES_HIJACKED_SENTRY
+LANG_ENGLISH           "¡Tomaron tu centinela!"
+ 
+REFERENCE           SPLASHES_HIJACKER
+LANG_ENGLISH           "¡Ladrón!"
+ 
+REFERENCE           SPLASHES_HIJACKER_DESC
+LANG_ENGLISH           "Tomaste una caja de suministros enemiga."
+ 
+REFERENCE           SPLASHES_HP_SECURE
+LANG_ENGLISH           "Pto. caliente seg."
+ 
+REFERENCE           SPLASHES_HP_SECURE_DESC
+LANG_ENGLISH           "Punto caliente asegurado"
+ 
+REFERENCE           SPLASHES_INFECTED_PLAGUE
+LANG_ENGLISH           "Plaga"
+ 
+REFERENCE           SPLASHES_INFECTED_PLAGUE_DESC
+LANG_ENGLISH           "Infecta a 3 sobrevivientes."
+ 
+REFERENCE           SPLASHES_INFECTED_SURVIVOR
+LANG_ENGLISH           "Contagioso"
+ 
+REFERENCE           SPLASHES_INFECTED_SURVIVOR_DESC
+LANG_ENGLISH           "Infectaste a un sobreviviente."
+ 
+REFERENCE           SPLASHES_INTERCEPTION
+LANG_ENGLISH           "Contrahackeo"
+ 
+REFERENCE           SPLASHES_INTERCEPTION_DESC
+LANG_ENGLISH           "Intercepta un pase enemigo."
+ 
+REFERENCE           SPLASHES_JUGGERNAUT_KILL
+LANG_ENGLISH           "¡Baja de Juggernaut!"
+ 
+REFERENCE           SPLASHES_JUGGERNAUT_KILL_JUGGERNAUT
+LANG_ENGLISH           "¡Juggernaut mata a Juggernaut!"
+ 
+REFERENCE           SPLASHES_KILLED_CARRIER
+LANG_ENGLISH           "¡Mataste al portador de la bomba!"
+ 
+REFERENCE           SPLASHES_KILLED_FLAG_CARRIER
+LANG_ENGLISH           "¡Mataste al portador de la bandera!"
+ 
+REFERENCE           SPLASHES_KILLED_FLAG_CARRIER_DESC
+LANG_ENGLISH           "Mataste al portador de la bandera."
+ 
+REFERENCE           SPLASHES_KILLED_JUGGERNAUT
+LANG_ENGLISH           "¡XS1 Goliath destruido!"
+ 
+REFERENCE           SPLASHES_KILL_CONFIRMED
+LANG_ENGLISH           "¡Baja confirmada!"
+ 
+REFERENCE           SPLASHES_KILL_DENIED
+LANG_ENGLISH           "¡Baja denegada!"
+ 
+REFERENCE           SPLASHES_KILL_STREAKING
+LANG_ENGLISH           "¡En una racha de &&1 bajas!"
+ 
+REFERENCE           SPLASHES_KILL_WHILE_CAPTURE
+LANG_ENGLISH           "Agresión"
+ 
+REFERENCE           SPLASHES_KILL_WHILE_CAPTURE_DESC
+LANG_ENGLISH           "Mata a un enemigo al capturar un objetivo."
+ 
+REFERENCE           SPLASHES_KILL_WITH_BALL
+LANG_ENGLISH           "Virus"
+ 
+REFERENCE           SPLASHES_KILL_WITH_BALL_DESC
+LANG_ENGLISH           "Mataste a un enemigo mientras portaba el satélite."
+ 
+REFERENCE           SPLASHES_KILL_WITH_FLAG
+LANG_ENGLISH           "Denegado"
+ 
+REFERENCE           SPLASHES_KILL_WITH_FLAG_DESC
+LANG_ENGLISH           "Mata a un enemigo portando la bandera en TLB."
+ 
+REFERENCE           SPLASHES_KNIFETHROW
+LANG_ENGLISH           "¡Trinchado!"
+ 
+REFERENCE           SPLASHES_KNIFETHROW_DESC
+LANG_ENGLISH           "Mataste a un enemigo con un dron de púas."
+ 
+REFERENCE           SPLASHES_LAST_ENEMY_ALIVE
+LANG_ENGLISH           "¡El último vivo!"
+ 
+REFERENCE           SPLASHES_LAST_MAN_DEFUSE
+LANG_ENGLISH           "Aferrado"
+ 
+REFERENCE           SPLASHES_LAST_MAN_DEFUSE_DESC
+LANG_ENGLISH           "Desactivaste la bomba siendo el último jugador vivo."
+ 
+REFERENCE           SPLASHES_LAST_TEAM_MEMBER_ALIVE
+LANG_ENGLISH           "¡El último vivo!"
+ 
+REFERENCE           SPLASHES_LM_ELIMINATION
+LANG_ENGLISH           "Último hombre"
+ 
+REFERENCE           SPLASHES_LM_ELIMINATION_DESC
+LANG_ENGLISH           "Mata a un enemigo siendo el último jugador vivo."
+ 
+REFERENCE           SPLASHES_LONGSHOT
+LANG_ENGLISH           "¡Tiro lejano!"
+ 
+REFERENCE           SPLASHES_LONGSHOT_DESC
+LANG_ENGLISH           "Mata a un enemigo de un disparo a larga distancia."
+ 
+REFERENCE           SPLASHES_MARTYRDOM_DESC
+LANG_ENGLISH           "Soltarás una granada activada al morir."
+ 
+REFERENCE           SPLASHES_MERCILESS
+LANG_ENGLISH           "Despiadado"
+ 
+REFERENCE           SPLASHES_MERCILESS_DESC
+LANG_ENGLISH           "Mata a 10 enemigos sin morir."
+ 
+REFERENCE           SPLASHES_MISSILE_DESTROYED
+LANG_ENGLISH           "Iniciativa de defensa estratégica"
+ 
+REFERENCE           SPLASHES_MISSILE_DESTROYED_DESC
+LANG_ENGLISH           "Destruiste un ataque de misiles enemigo."
+ 
+REFERENCE           SPLASHES_MISSILE_STRIKE_KILL
+LANG_ENGLISH           "Depredador"
+ 
+REFERENCE           SPLASHES_MISSILE_STRIKE_KILL_DESC
+LANG_ENGLISH           "Mataste a un enemigo con un ataque de misiles."
+ 
+REFERENCE           SPLASHES_MULTIKILL
+LANG_ENGLISH           "Cadena de bajas"
+ 
+REFERENCE           SPLASHES_MULTIKILL_DESC
+LANG_ENGLISH           "Mata a más de 8 enemigos seguidos rápidamente."
+ 
+REFERENCE           SPLASHES_NEAR_DEATH_KILL
+LANG_ENGLISH           "Baja a punto de morir"
+ 
+REFERENCE           SPLASHES_NEAR_DEATH_KILL_DESC
+LANG_ENGLISH           "Mata a un enemigo gravemente herido."
+ 
+REFERENCE           SPLASHES_NEUTRALIZE
+LANG_ENGLISH           "¡Neutralizador!"
+ 
+REFERENCE           SPLASHES_NEUTRALIZED_POSITION_A
+LANG_ENGLISH           "¡A neutralizada!"
+ 
+REFERENCE           SPLASHES_NEUTRALIZED_POSITION_B
+LANG_ENGLISH           "¡B neutralizada!"
+ 
+REFERENCE           SPLASHES_NEUTRALIZED_POSITION_C
+LANG_ENGLISH           "¡C neutralizada!"
+ 
+REFERENCE           SPLASHES_NEW_JUGGERNAUT
+LANG_ENGLISH           "¡Nuevo Juggernaut!"
+ 
+REFERENCE           SPLASHES_NINJA_DEFUSE
+LANG_ENGLISH           "Desactivación ninja"
+ 
+REFERENCE           SPLASHES_NINJA_DEFUSE_DESC
+LANG_ENGLISH           "Desactivaste la bomba mientras el que la colocó sigue con vida."
+ 
+REFERENCE           SPLASHES_NINJA_DEFUSE_DESC1
+LANG_ENGLISH           "Desactivaste la bomba mientras el que la colocó sigue con vida."
+ 
+REFERENCE           SPLASHES_NOW_ON_ALLIES
+LANG_ENGLISH           "¡Adoctrinado!"
+ 
+REFERENCE           SPLASHES_NOW_ON_ALLIES_DESC
+LANG_ENGLISH           "Ahora luchas para SENTINEL."
+ 
+REFERENCE           SPLASHES_NOW_ON_AXIS
+LANG_ENGLISH           "¡Adoctrinado!"
+ 
+REFERENCE           SPLASHES_NOW_ON_AXIS_DESC
+LANG_ENGLISH           "Ahora luchas para ATLAS."
+ 
+REFERENCE           SPLASHES_NUCLEAR
+LANG_ENGLISH           "Feroz"
+ 
+REFERENCE           SPLASHES_NUCLEAR_DESC
+LANG_ENGLISH           "Mata a 30 enemigos sin morir."
+ 
+REFERENCE           SPLASHES_ONE_SHOT_KILL
+LANG_ENGLISH           "Un disparo, un muerto"
+ 
+REFERENCE           SPLASHES_ONE_SHOT_KILL_DESC
+LANG_ENGLISH           "Mataste a un enemigo con una sola bala."
+ 
+REFERENCE           SPLASHES_OPENING_MOVE
+LANG_ENGLISH           "Apertura"
+ 
+REFERENCE           SPLASHES_OPENING_MOVE_DESC
+LANG_ENGLISH           "Capturaste la bandera neutral B en Dominio."
+ 
+REFERENCE           SPLASHES_PALADIN_DESTROYED
+LANG_ENGLISH           "Antihéroe"
+ 
+REFERENCE           SPLASHES_PALADIN_DESTROYED_DESC
+LANG_ENGLISH           "Destruiste un Paladin enemigo."
+ 
+REFERENCE           SPLASHES_PALADIN_KILL
+LANG_ENGLISH           "Sorpresa y pavor"
+ 
+REFERENCE           SPLASHES_PALADIN_KILL_DESC
+LANG_ENGLISH           "Mataste a un enemigo con un Paladin."
+ 
+REFERENCE           SPLASHES_PASS_KILL_PICKUP
+LANG_ENGLISH           "Frío cero"
+ 
+REFERENCE           SPLASHES_PASS_KILL_PICKUP_DESC
+LANG_ENGLISH           "Lanza el satélite a un enemigo, mátalo y vuelve arecoger el satélite."
+ 
+REFERENCE           SPLASHES_PLANT
+LANG_ENGLISH           "¡Cuenta atrás!"
+ 
+REFERENCE           SPLASHES_PLANT_DESC
+LANG_ENGLISH           "Coloca la bomba."
+ 
+REFERENCE           SPLASHES_POINT_BLANK
+LANG_ENGLISH           "A quemarropa"
+ 
+REFERENCE           SPLASHES_POINT_BLANK_DESC
+LANG_ENGLISH           "Mata a un enemigo a corta distancia."
+ 
+REFERENCE           SPLASHES_POSTHUMOUS
+LANG_ENGLISH           "¡Desde el más allá!"
+ 
+REFERENCE           SPLASHES_POSTHUMOUS_DESC
+LANG_ENGLISH           "Mata a un enemigo después de morir."
+ 
+REFERENCE           SPLASHES_PROXIMITYASSIST
+LANG_ENGLISH           "Asistencia en equipo"
+ 
+REFERENCE           SPLASHES_PROXIMITYKILL
+LANG_ENGLISH           "Baja de equipo"
+ 
+REFERENCE           SPLASHES_RANKED_UP
+LANG_ENGLISH           "Ascenso"
+ 
+REFERENCE           SPLASHES_RANKED_UP_DESC
+LANG_ENGLISH           "Nuevo rango: &&1"
+ 
+REFERENCE           SPLASHES_RECON_DRONE_DESTROYED
+LANG_ENGLISH           "Matamoscas"
+ 
+REFERENCE           SPLASHES_RECON_DRONE_DESTROYED_DESC
+LANG_ENGLISH           "Destruiste un dron dereconocimiento enemigo."
+ 
+REFERENCE           SPLASHES_RELENTLESS
+LANG_ENGLISH           "Implacable"
+ 
+REFERENCE           SPLASHES_RELENTLESS_DESC
+LANG_ENGLISH           "Mata a 20 enemigos sin morir."
+ 
+REFERENCE           SPLASHES_RESTED
+LANG_ENGLISH           "¡Incremento diario de PX!"
+ 
+REFERENCE           SPLASHES_RESTED_DESC
+LANG_ENGLISH           "¡Recibes una bonificación diaria de PX!"
+ 
+REFERENCE           SPLASHES_RESTED_DONE
+LANG_ENGLISH           "Incremento diario de PXrealizado."
+ 
+REFERENCE           SPLASHES_RESTED_DONE_DESC
+LANG_ENGLISH           "PX de bonificaciónrecibidos."
+ 
+REFERENCE           SPLASHES_REVENGE
+LANG_ENGLISH           "¡Venganza!"
+ 
+REFERENCE           SPLASHES_REVENGE_DESC
+LANG_ENGLISH           "Mata al enemigo que te mató."
+ 
+REFERENCE           SPLASHES_REVIVED
+LANG_ENGLISH           "Tereanimaron."
+ 
+REFERENCE           SPLASHES_REVIVER
+LANG_ENGLISH           "¡Reanimador!"
+ 
+REFERENCE           SPLASHES_REVIVER_DESC
+LANG_ENGLISH           "Reanimaste a un compañero caído."
+ 
+REFERENCE           SPLASHES_RIOT_KILL
+LANG_ENGLISH           "Carga con escudo"
+ 
+REFERENCE           SPLASHES_RIOT_KILL_DESC
+LANG_ENGLISH           "Mataste a un enemigo con un escudo."
+ 
+REFERENCE           SPLASHES_RUTHLESS
+LANG_ENGLISH           "Inexorable"
+ 
+REFERENCE           SPLASHES_RUTHLESS_DESC
+LANG_ENGLISH           "Mata a 15 enemigos sin morir."
+ 
+REFERENCE           SPLASHES_SAB_OVERTIME
+LANG_ENGLISH           "¡Prórroga!"
+ 
+REFERENCE           SPLASHES_SAB_OVERTIME_DESC
+LANG_ENGLISH           "La base más próxima a la bomba será destruida."
+ 
+REFERENCE           SPLASHES_SAVED_OBJECTIVE
+LANG_ENGLISH           "¡Objetivo salvado!"
+ 
+REFERENCE           SPLASHES_SECURED_POSITION
+LANG_ENGLISH           "¡Posición tomada!"
+ 
+REFERENCE           SPLASHES_SECURED_POSITION_A
+LANG_ENGLISH           "¡A tomada!"
+ 
+REFERENCE           SPLASHES_SECURED_POSITION_B
+LANG_ENGLISH           "¡B tomada!"
+ 
+REFERENCE           SPLASHES_SECURED_POSITION_C
+LANG_ENGLISH           "¡C tomada!"
+ 
+REFERENCE           SPLASHES_SEC_DEFENSE
+LANG_ENGLISH           "Secretario de defensa"
+ 
+REFERENCE           SPLASHES_SEC_DEFENSE_DESC
+LANG_ENGLISH           "Destruye 2 proyectiles con el sistema Trophy del exo."
+ 
+REFERENCE           SPLASHES_SEMTEX_STICK
+LANG_ENGLISH           "Pegadizo"
+ 
+REFERENCE           SPLASHES_SEMTEX_STICK_DESC
+LANG_ENGLISH           "Pegaste Semtex a un enemigo."
+ 
+REFERENCE           SPLASHES_SEMTEX_STUCK
+LANG_ENGLISH           "Te pegó con Semtex."
+ 
+REFERENCE           SPLASHES_SENTRY_DESTROYED
+LANG_ENGLISH           "Desmantelar"
+ 
+REFERENCE           SPLASHES_SENTRY_DESTROYED_DESC
+LANG_ENGLISH           "Destruiste una torretaremota enemiga."
+ 
+REFERENCE           SPLASHES_SENTRY_GUN_KILL
+LANG_ENGLISH           "Maginot"
+ 
+REFERENCE           SPLASHES_SENTRY_GUN_KILL_DESC
+LANG_ENGLISH           "Mataste a un enemigo con una torretaremota."
+ 
+REFERENCE           SPLASHES_SETUP_REMOTE_TURRET
+LANG_ENGLISH           "Torretaremota obtenida."
+ 
+REFERENCE           SPLASHES_SEVENKILL
+LANG_ENGLISH           "Megabaja"
+ 
+REFERENCE           SPLASHES_SEVENKILL_DESC
+LANG_ENGLISH           "Mata a 7 enemigos seguidos rápidamente."
+ 
+REFERENCE           SPLASHES_SHAREPACKAGE
+LANG_ENGLISH           "¡Compartir paquete!"
+ 
+REFERENCE           SPLASHES_SHAREPACKAGE_DESC
+LANG_ENGLISH           "¡Uno de tus compañeros salvó tu paquete de ayuda del enemigo!"
+ 
+REFERENCE           SPLASHES_SHAREPACKAGE_DESC1
+LANG_ENGLISH           "Un aliadorecogió tu paquete de ayuda."
+ 
+REFERENCE           SPLASHES_SHIELDASSIST
+LANG_ENGLISH           "¡Control de multitudes!"
+ 
+REFERENCE           SPLASHES_SHIELDASSIST_DESC
+LANG_ENGLISH           "Has causado una buena distracción."
+ 
+REFERENCE           SPLASHES_SIXKILL
+LANG_ENGLISH           "Superbaja"
+ 
+REFERENCE           SPLASHES_SIXKILL_DESC
+LANG_ENGLISH           "Mata a 6 enemigos seguidos rápidamente."
+ 
+REFERENCE           SPLASHES_SLIDE_KILL
+LANG_ENGLISH           "Golpe bajo"
+ 
+REFERENCE           SPLASHES_SLIDE_KILL_DESC
+LANG_ENGLISH           "Mataste a un enemigo mientras te deslizabas."
+ 
+REFERENCE           SPLASHES_SR_TAG_ELIMINATION
+LANG_ENGLISH           "Coleccionista"
+ 
+REFERENCE           SPLASHES_SR_TAG_ELIMINATION_DESC
+LANG_ENGLISH           "Echa a un enemigo en una ronda de Buscar yrescatar."
+ 
+REFERENCE           SPLASHES_SR_TAG_REVIVE
+LANG_ENGLISH           "Reanimador"
+ 
+REFERENCE           SPLASHES_SR_TAG_REVIVE_DESC
+LANG_ENGLISH           "Recupera a un aliado en una ronda de Buscar yrescatar."
+ 
+REFERENCE           SPLASHES_STRAFING_DESTROYED
+LANG_ENGLISH           "Flak 88 mm"
+ 
+REFERENCE           SPLASHES_STRAFING_DESTROYED_DESC
+LANG_ENGLISH           "Destruiste un bombardeo enemigo."
+ 
+REFERENCE           SPLASHES_STRAFING_RUN_KILL
+LANG_ENGLISH           "Blitzkrieg"
+ 
+REFERENCE           SPLASHES_STRAFING_RUN_KILL_DESC
+LANG_ENGLISH           "Mataste a un enemigo con un ametrallamiento."
+ 
+REFERENCE           SPLASHES_STUCK_SEMTEX
+LANG_ENGLISH           "¡Pegado!"
+ 
+REFERENCE           SPLASHES_STUCK_SEMTEX_DESC
+LANG_ENGLISH           "¡Le pegaste Semtex a un enemigo!"
+ 
+REFERENCE           SPLASHES_STUCK_WITH_EXPLOSIVE
+LANG_ENGLISH           "Alfiletero"
+ 
+REFERENCE           SPLASHES_STUCK_WITH_EXPLOSIVE_DESC
+LANG_ENGLISH           "Te pegaron un explosivo."
+ 
+REFERENCE           SPLASHES_SURVIVOR
+LANG_ENGLISH           "Sobreviviente"
+ 
+REFERENCE           SPLASHES_SURVIVOR_DESC
+LANG_ENGLISH           "Resististe la infección durante 30 segundos."
+ 
+REFERENCE           SPLASHES_TAGS_RETRIEVED
+LANG_ENGLISH           "¡Placasrecuperadas!"
+ 
+REFERENCE           SPLASHES_TAGS_RETRIEVED_DESC
+LANG_ENGLISH           "Recogiste tus propias placas."
+ 
+REFERENCE           SPLASHES_TAG_COLLECTOR
+LANG_ENGLISH           "Limpieza"
+ 
+REFERENCE           SPLASHES_TAG_COLLECTOR_DESC
+LANG_ENGLISH           "Recogiste 3 placas seguidas."
+ 
+REFERENCE           SPLASHES_TAKE_AND_KILL
+LANG_ENGLISH           "Tiro por la culata"
+ 
+REFERENCE           SPLASHES_TAKE_AND_KILL_DESC
+LANG_ENGLISH           "Mata a un enemigo con su propia arma."
+ 
+REFERENCE           SPLASHES_TEAM_ASSIST
+LANG_ENGLISH           "¡Asistencia en equipo!"
+ 
+REFERENCE           SPLASHES_TEAM_CONFIRMED
+LANG_ENGLISH           "Baja confirmada de compañero"
+ 
+REFERENCE           SPLASHES_THINK_FAST
+LANG_ENGLISH           "Piensa rápido"
+ 
+REFERENCE           SPLASHES_THINK_FAST_DESC
+LANG_ENGLISH           "Mata a un enemigo con un golpe directo del equipo."
+ 
+REFERENCE           SPLASHES_THROWBACK_KILL
+LANG_ENGLISH           "Devolver"
+ 
+REFERENCE           SPLASHES_THROWBACK_KILL_DESC
+LANG_ENGLISH           "Mata a un enemigo con una granada devuelta."
+ 
+REFERENCE           SPLASHES_TIMEADDED
+LANG_ENGLISH           "¡Tiempo añadido!"
+ 
+REFERENCE           SPLASHES_TIME_ADDED
+LANG_ENGLISH           "¡Tiempo ampliado!"
+ 
+REFERENCE           SPLASHES_TIME_ADDED_DESC
+LANG_ENGLISH           "Zona de bombas destruida. Tiempo de juego ampliado."
+ 
+REFERENCE           SPLASHES_TOP_GUN_RANK
+LANG_ENGLISH           "¡Rango de armas al máximo!"
+ 
+REFERENCE           SPLASHES_TOUCHDOWN
+LANG_ENGLISH           "Pirata"
+ 
+REFERENCE           SPLASHES_TOUCHDOWN_DESC
+LANG_ENGLISH           "Llevaste el satélite hasta el puesto de enlace."
+ 
+REFERENCE           SPLASHES_TOUCHDOWN_SCORE
+LANG_ENGLISH           "¡&&1 puntos obtenidos!"
+ 
+REFERENCE           SPLASHES_TRIPLEKILL
+LANG_ENGLISH           "¡Triple baja!"
+ 
+REFERENCE           SPLASHES_TRIPLEKILL_DESC
+LANG_ENGLISH           "Mata a 3 enemigos seguidos rápidamente."
+ 
+REFERENCE           SPLASHES_UAV_DESTROYED
+LANG_ENGLISH           "Blackout"
+ 
+REFERENCE           SPLASHES_UAV_DESTROYED_DESC
+LANG_ENGLISH           "Destruiste un UAV enemigo."
+ 
+REFERENCE           SPLASHES_UNLOCKED_AKIMBO
+LANG_ENGLISH           "¡Duales desbloqueados!"
+ 
+REFERENCE           SPLASHES_UNLOCKED_EOTECH
+LANG_ENGLISH           "¡Mira holográfica desbloqueada!"
+ 
+REFERENCE           SPLASHES_UNLOCKED_EXTENDED_MAGS
+LANG_ENGLISH           "¡Cargadores grandes desbloqueados!"
+ 
+REFERENCE           SPLASHES_UNLOCKED_HEARTBEAT
+LANG_ENGLISH           "¡Sensor de latidos desbloqueado!"
+ 
+REFERENCE           SPLASHES_UNLOCKED_SHOTGUN
+LANG_ENGLISH           "¡Escopeta desbloqueada!"
+ 
+REFERENCE           SPLASHES_UNLOCKED_THERMAL
+LANG_ENGLISH           "¡Mira térmica desbloqueada!"
+ 
+REFERENCE           SPLASHES_UNSTOPPABLE
+LANG_ENGLISH           "Imparable"
+ 
+REFERENCE           SPLASHES_UNSTOPPABLE_DESC
+LANG_ENGLISH           "Mata a más de 30 enemigos sin morir."
+ 
+REFERENCE           SPLASHES_USED_SYSTEM_HACK
+LANG_ENGLISH           "Hackeo del sistema obtenido."
+ 
+REFERENCE           SPLASHES_VIP
+LANG_ENGLISH           "Eres el VIP"
+ 
+REFERENCE           SPLASHES_VULCAN_DESTROYED
+LANG_ENGLISH           "Ícaro"
+ 
+REFERENCE           SPLASHES_VULCAN_DESTROYED_DESC
+LANG_ENGLISH           "Destruiste un Vulcan enemigo."
+ 
+REFERENCE           SPLASHES_VULCAN_KILL
+LANG_ENGLISH           "Arrasar"
+ 
+REFERENCE           SPLASHES_VULCAN_KILL_DESC
+LANG_ENGLISH           "Mataste a un enemigo con un Vulcan."
+ 
+REFERENCE           SPLASHES_WARBIRD_DESTROYED
+LANG_ENGLISH           "Alado"
+ 
+REFERENCE           SPLASHES_WARBIRD_DESTROYED_DESC
+LANG_ENGLISH           "Destruiste un Warbird enemigo."
+ 
+REFERENCE           SPLASHES_WARBIRD_KILL
+LANG_ENGLISH           "Ave de presa"
+ 
+REFERENCE           SPLASHES_WARBIRD_KILL_DESC
+LANG_ENGLISH           "Mataste a un enemigo con un Warbird."
+ 
+REFERENCE           SPLASHES_X2_BONUS
+LANG_ENGLISH           "¡Bonificación doble!"
+
+ENDMARKER
