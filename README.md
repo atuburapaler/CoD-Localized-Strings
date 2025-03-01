@@ -24,4 +24,5 @@ Compilation of **Localized Strings** from **Call of Duty** games. _Currently usi
 
 # Info
 The content of the repository was extracted thanks to [Laupetin](https://github.com/Laupetin/OpenAssetTools)'s OpenAssetTools and [Artur](https://github.com/Artur16211)'s mergin/cleaning script with the purpose of archiving, preserving and/or helping in the creation of community mods and translations.
+
 Neither I, nor anyone involved in this project is associated with Activision or the developers involved on the original game copyrighted assets.
