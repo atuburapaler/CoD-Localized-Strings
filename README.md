@@ -21,6 +21,7 @@ Compilation of **Localized Strings** from **Call of Duty** games. _Currently usi
   (This applies to any game **older than Black Ops II**, as T6 uses **UTF-8**).
 * **Black Ops II** only has **subtitles on English**, they were not translated by Keywords to Spanish since **the game doesn't use them**.
 * Some newer dumps can contain space errors and legal/terms stuff missing.
+* Since most of the **Remastered** games share strings with their original counterparts, i added only the missing languages (Spanish LATAM).
 
 # Info
 The content of the repository was extracted thanks to [Laupetin](https://github.com/Laupetin/OpenAssetTools)'s OpenAssetTools and [Artur](https://github.com/Artur16211)'s mergin/cleaning script with the purpose of archiving, preserving and/or helping in the creation of community mods and translations.
