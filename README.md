@@ -17,11 +17,10 @@ Compilation of **Localized Strings** from **Call of Duty** games. _Currently usi
 * **Call of Duty: Black Ops II** (2012)
   
 # Notes
-* If you are editing strings that contain **Latin characters** (such as Spanish), please first save the file in the **[ISO 8859-1](https://en.wikipedia.org/wiki/ISO/IEC_8859-1) (Western) encoder**.
-  (This applies to any game **older than Black Ops II**, as T6 uses **[UTF-8](https://en.wikipedia.org/wiki/UTF-8)**).
+* In order to edit string files that contain **Latin characters** (such as Spanish), save the file first in the **[ISO 8859-1](https://en.wikipedia.org/wiki/ISO/IEC_8859-1) (Western) encoder** to avoid breaking characters. *This applies to games **previous than Black Ops II**, as that game uses **[UTF-8](https://en.wikipedia.org/wiki/UTF-8)**.*
 * **Black Ops II** only has **subtitles on English**, they were not translated by [Keywords](https://en.wikipedia.org/wiki/Keywords_Studios) to Spanish since **the game doesn't use them**.
 * Some newer dumps can contain space errors and legal/terms stuff missing.
-* Since most of the **Remastered** games share strings with their original counterparts, i added only the missing languages (Spanish LATAM).
+* Since most of the **Remastered** games share strings with their original counterparts, i added only one the missing localizations (Spanish LATAM).
 
 # Info
 The content of the repository was extracted thanks to Laupetin's [OpenAssetTools](https://github.com/Laupetin/OpenAssetTools), various [Zonetool](https://github.com/ZoneTool/zonetool) forks ([H2](https://github.com/alicealys/h2-zonetool)-[H1](https://github.com/Joelrau/h1-zonetool)), and [Artur](https://github.com/Artur16211)'s mergin/cleaning script with the purpose of archiving, preserving and/or helping in the creation of community mods and translations.
