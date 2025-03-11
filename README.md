@@ -17,9 +17,9 @@ Compilation of **Localized Strings** from **Call of Duty** games. _Currently usi
 * **Call of Duty: Black Ops II** (2012)
   
 # Notes
-* If you are editing strings that contain **Latin characters** (such as Spanish), please first save the file in the **ISO 8859-1 (Western) encoder**.
-  (This applies to any game **older than Black Ops II**, as T6 uses **UTF-8**).
-* **Black Ops II** only has **subtitles on English**, they were not translated by Keywords to Spanish since **the game doesn't use them**.
+* If you are editing strings that contain **Latin characters** (such as Spanish), please first save the file in the **[ISO 8859-1](https://en.wikipedia.org/wiki/ISO/IEC_8859-1) (Western) encoder**.
+  (This applies to any game **older than Black Ops II**, as T6 uses **[UTF-8](https://en.wikipedia.org/wiki/UTF-8)**).
+* **Black Ops II** only has **subtitles on English**, they were not translated by [Keywords](https://en.wikipedia.org/wiki/Keywords_Studios) to Spanish since **the game doesn't use them**.
 * Some newer dumps can contain space errors and legal/terms stuff missing.
 * Since most of the **Remastered** games share strings with their original counterparts, i added only the missing languages (Spanish LATAM).
 
