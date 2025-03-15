@@ -1,0 +1,1756 @@
+// Dumped from fastfile "sna_code_post_gfx".
+// In their original format the strings might have been separated in multiple files.
+
+REFERENCE           CGAME_COMPLAINTDISMISSED 
+LANG_ENGLISH           "Queja desestimada"
+
+REFERENCE           CGAME_COMPLAINTFILED 
+LANG_ENGLISH           "Tu queja se archivó."
+
+REFERENCE           CGAME_COMPLAINTSERVERHOST 
+LANG_ENGLISH           "No puede haber quejas contra el host del servidor"
+
+REFERENCE           CGAME_COMPLAINTTEAMKILLFILE 
+LANG_ENGLISH           "¿Quieres enviar una queja contra &&1 por matar a los de su equipo?"
+
+REFERENCE           CGAME_CONNECTIONINTERUPTED 
+LANG_ENGLISH           "Conexión interrumpida"
+
+REFERENCE           CGAME_CONTINUE_SAVING 
+LANG_ENGLISH           "Guardar y salir"
+
+REFERENCE           CGAME_CRUSH 
+LANG_ENGLISH           "aplastado"
+
+REFERENCE           CGAME_DIED 
+LANG_ENGLISH           "muerto"
+
+REFERENCE           CGAME_DROWN 
+LANG_ENGLISH           "ahogado"
+
+REFERENCE           CGAME_FALLING 
+LANG_ENGLISH           "cayendo"
+
+REFERENCE           CGAME_FOLLOWING 
+LANG_ENGLISH           "ESPECTADOR"
+
+REFERENCE           CGAME_FOR 
+LANG_ENGLISH           "para"
+
+REFERENCE           CGAME_HEAD_SHOT 
+LANG_ENGLISH           "disparo en la cabeza"
+
+REFERENCE           CGAME_HEALTH 
+LANG_ENGLISH           "Salud"
+
+REFERENCE           CGAME_LISTENSERVER 
+LANG_ENGLISH           "Servidor pasivo"
+
+REFERENCE           CGAME_MELEE 
+LANG_ENGLISH           "cuerpo a cuerpo"
+
+REFERENCE           CGAME_MISSIONOBJECTIVES 
+LANG_ENGLISH           "OBJETIVOS DE LA MISIÓN"
+
+REFERENCE           CGAME_MISSIONOBJECTIVES_NONE 
+LANG_ENGLISH           "NINGÚN OBJETIVO"
+
+REFERENCE           CGAME_NO 
+LANG_ENGLISH           "NO"
+
+REFERENCE           CGAME_NOSPECTATORVOICECHAT 
+LANG_ENGLISH           "Un espectador no puede usar el chat de voz."
+
+REFERENCE           CGAME_NOW_SAVING 
+LANG_ENGLISH           "Guardando..."
+
+REFERENCE           CGAME_OBJECTIVE_ABOVE 
+LANG_ENGLISH           "Objetivo por encima"
+
+REFERENCE           CGAME_OBJECTIVE_BELOW 
+LANG_ENGLISH           "Objetivo por debajo"
+
+REFERENCE           CGAME_OBJECTIVE_FOLLOWTEXT_DEFAULT 
+LANG_ENGLISH           "Sigue"
+
+REFERENCE           CGAME_PAUSED 
+LANG_ENGLISH           "Pausa"
+
+REFERENCE           CGAME_PLAYERRENAMES 
+LANG_ENGLISH           "se cambió el nombre a"
+
+REFERENCE           CGAME_PRESSYESNO 
+LANG_ENGLISH           "Oprime '&&1' para Sí o '&&2' para No"
+
+REFERENCE           CGAME_PRONE_BLOCKED 
+LANG_ENGLISH           "Cuerpo a tierra bloqueado"
+
+REFERENCE           CGAME_PRONE_BLOCKED_WEAPON 
+LANG_ENGLISH           "No puedes tumbarte con esta arma"
+
+REFERENCE           CGAME_RESTART_WARNING 
+LANG_ENGLISH           "Si reinicias ahora, perderás todo el progreso realizado en esta misión ¿Continuar con el reinicio?"
+
+REFERENCE           CGAME_SAVE_VICTORY 
+LANG_ENGLISH           "¿Quieres guardar el progreso del juego?"
+
+REFERENCE           CGAME_SAVE_WARNING 
+LANG_ENGLISH           "Si guardas ahora, perderás todo el progreso desde el último punto de control. ¿Quieres guardar?"
+
+REFERENCE           CGAME_SAVINGREPLAY 
+LANG_ENGLISH           "&&1 guardando repetición en &&2 -> &&3"
+
+REFERENCE           CGAME_SB_ASSISTS 
+LANG_ENGLISH           "Asistencias"
+
+REFERENCE           CGAME_SB_DEATHS 
+LANG_ENGLISH           "Muertes"
+
+REFERENCE           CGAME_SB_KILLS 
+LANG_ENGLISH           "Bajas"
+
+REFERENCE           CGAME_SB_PING 
+LANG_ENGLISH           "Ping"
+
+REFERENCE           CGAME_SB_PLAYER 
+LANG_ENGLISH           "&&1"
+
+REFERENCE           CGAME_SB_PLAYERS 
+LANG_ENGLISH           "&&1"
+
+REFERENCE           CGAME_SB_SCORE 
+LANG_ENGLISH           "Puntos"
+
+REFERENCE           CGAME_SB_TAGS 
+LANG_ENGLISH           "Placas"
+
+REFERENCE           CGAME_SERVERHOSTTEAMKILLED 
+LANG_ENGLISH           "El host del servidor te mató."
+
+REFERENCE           CGAME_SLIME 
+LANG_ENGLISH           "fango"
+
+REFERENCE           CGAME_SPECTATOR 
+LANG_ENGLISH           "ESPECTADOR"
+
+REFERENCE           CGAME_SPECTATORS 
+LANG_ENGLISH           "Espectadores"
+
+REFERENCE           CGAME_SUICIDE 
+LANG_ENGLISH           "suicidio"
+
+REFERENCE           CGAME_TEAMMATE 
+LANG_ENGLISH           "COMPAÑERO"
+
+REFERENCE           CGAME_THIS_WEAPON_HAS_NO_ALTERNATE 
+LANG_ENGLISH           "Esta arma no dispone de modo alternativo."
+
+REFERENCE           CGAME_UNKNOWN 
+LANG_ENGLISH           "desconocido"
+
+REFERENCE           CGAME_VOTE 
+LANG_ENGLISH           "VOTAR"
+
+REFERENCE           CGAME_WAITINGFORSERVERLOAD 
+LANG_ENGLISH           "Esperando a que el servidor cargue un nuevo mapa."
+
+REFERENCE           CGAME_YES 
+LANG_ENGLISH           "SÍ"
+
+REFERENCE           CGAME_YOUKILLED 
+LANG_ENGLISH           "Mataste a &&1."
+
+REFERENCE           CGAME_YOUWEREKILLED 
+LANG_ENGLISH           "&&1 te mató."
+
+REFERENCE           GAMEDVR_SCREENSHOT_DEFAULT_COMMENT 
+LANG_ENGLISH           "Comentario predeterminado"
+
+REFERENCE           GAMEDVR_SCREENSHOT_DEFAULT_GAME_TITLE 
+LANG_ENGLISH           "Call of Duty®: Modern Warfare® 2 Campaign Remastered"
+
+REFERENCE           GAMEDVR_SCREENSHOT_DEFAULT_TITLE 
+LANG_ENGLISH           "Título predeterminado"
+
+REFERENCE           GAMEDVR_VIDEO_DEFAULT_COMMENT 
+LANG_ENGLISH           "Comentario predeterminado"
+
+REFERENCE           GAMEDVR_VIDEO_DEFAULT_COPYRIGHT 
+LANG_ENGLISH           "Copyright © Activision Blizzard 2014"
+
+REFERENCE           GAMEDVR_VIDEO_DEFAULT_DESCRIPTION 
+LANG_ENGLISH           "Descripción predeterminada"
+
+REFERENCE           GAMEDVR_VIDEO_DEFAULT_TITLE 
+LANG_ENGLISH           "Título predeterminado"
+
+REFERENCE           PLATFORM_ACCEPT_INVITE 
+LANG_ENGLISH           "Aceptar invitación"
+
+REFERENCE           PLATFORM_ANISOTROPIC_FILTERING_DESCRIPTION 
+LANG_ENGLISH           "Mejora la calidad de las superficies cuando se ven desde un ángulo."
+
+REFERENCE           PLATFORM_ASPECT_RATIO 
+LANG_ENGLISH           "Formato de imagen"
+
+REFERENCE           PLATFORM_ASPECT_RATIO_DESCRIPTION 
+LANG_ENGLISH           "Formato de imagen físico del monitor. Compensa el formato del juego si es diferente del formato del monitor en el que se muestra. Ajustarlo manualmente es muy poco frecuente."
+
+REFERENCE           PLATFORM_ASPECT_RATIO_DESC_FULLSCREEN 
+LANG_ENGLISH           "Configura el formato de imagen mientras estás en Pantalla completa. Pocas veces debe cambiarse."
+
+REFERENCE           PLATFORM_ASPECT_RATIO_DESC_WINDOWED 
+LANG_ENGLISH           "Fuerza el formato de imagen del juego mientras estás en modo En ventana."
+
+REFERENCE           PLATFORM_BACK 
+LANG_ENGLISH           "Volver"
+
+REFERENCE           PLATFORM_BACK_BUTTON 
+LANG_ENGLISH           "^2ESC^7"
+
+REFERENCE           PLATFORM_BACK_BUTTON_GAMEPAD 
+LANG_ENGLISH           ""
+
+REFERENCE           PLATFORM_BACK_CAPS 
+LANG_ENGLISH           "Volver ^2ESC^7"
+
+REFERENCE           PLATFORM_BACK_SHORTCUT 
+LANG_ENGLISH           "Volver ^2ESC^7"
+
+REFERENCE           PLATFORM_BLZBNTBGS0000000B 
+LANG_ENGLISH           "No puedes iniciar sesión a causa de los ajustes de control paterno de tu cuenta."
+
+REFERENCE           PLATFORM_BLZBNTBGS0000000C 
+LANG_ENGLISH           "Tu cuenta no está incluida en la prueba beta de la aplicación de escritorio de Battle.net."
+
+REFERENCE           PLATFORM_BLZBNTBGS00000017 
+LANG_ENGLISH           "Se produjo un problema al iniciar sesión. Ponte en contacto con el servicio de Atención al cliente."
+
+REFERENCE           PLATFORM_BLZBNTBGS0000001C 
+LANG_ENGLISH           "Estás usando una versión anticuada de Battle.net. Reiníciala para actualizar a la versión más reciente."
+
+REFERENCE           PLATFORM_BLZBNTBGS00000025 
+LANG_ENGLISH           "Los servidores están demasiado ocupados para procesar el inicio de sesión."
+
+REFERENCE           PLATFORM_BLZBNTBGS00000026 
+LANG_ENGLISH           "Para poder conectarte a Battle.net, debes crear un BattleTag (https://www.battle.net/account/management/battletag-landing.html)."
+
+REFERENCE           PLATFORM_BLZBNTBGS0000002B 
+LANG_ENGLISH           "Para permitir este inicio de sesión, llama a tu número de desbloqueo telefónico de Battle.net. Taiwán: 0800-303-585, Hong Kong: 396-54666."
+
+REFERENCE           PLATFORM_BLZBNTBGS00000032 
+LANG_ENGLISH           "Agotaste el tiempo de juego. Agrega más e inténtalo de nuevo."
+
+REFERENCE           PLATFORM_BLZBNTBGS00000034 
+LANG_ENGLISH           "Tu cuenta fue inhabilitada."
+
+REFERENCE           PLATFORM_BLZBNTBGS00000035 
+LANG_ENGLISH           "Tu cuenta fue suspendida."
+
+REFERENCE           PLATFORM_BLZBNTBGS00000037 
+LANG_ENGLISH           "Esta cuenta fue cancelada. Si no lo solicitaste, ponte en contacto con el servicio de Atención al cliente."
+
+REFERENCE           PLATFORM_BLZBNTBGS0000003C 
+LANG_ENGLISH           "Tu cuenta de Battle.net inició sesión en otro sitio. Si no fuiste tú, deberías cambiar la contraseña y comprobar los ajustes de seguridad."
+
+REFERENCE           PLATFORM_BLZBNTBGS00000051 
+LANG_ENGLISH           "Esta licencia está restringida a la región latinoamericana."
+
+REFERENCE           PLATFORM_BLZBNTBGS00000052 
+LANG_ENGLISH           "Esta licencia está restringida a la región rusa."
+
+REFERENCE           PLATFORM_BLZBNTBGS00000053 
+LANG_ENGLISH           "Esta licencia está restringida a la región coreana."
+
+REFERENCE           PLATFORM_BLZBNTBGS00000054 
+LANG_ENGLISH           "Esta licencia está restringida a la región taiwanesa."
+
+REFERENCE           PLATFORM_BLZBNTBGS00000055 
+LANG_ENGLISH           "Esta licencia está restringida a otra región. Cambia tu región e inténtalo de nuevo."
+
+REFERENCE           PLATFORM_BLZBNTBGS00000056 
+LANG_ENGLISH           "Hay un problema con tu cuenta de Battle.net. Ponte en contacto con el servicio de Atención al cliente."
+
+REFERENCE           PLATFORM_BLZBNTBGS0000005A 
+LANG_ENGLISH           "Tu red no permite conectarse a Battle.net. Si crees que esto es un error, avísanos."
+
+REFERENCE           PLATFORM_BLZBNTBGS000001F6 
+LANG_ENGLISH           "Se agotó el tiempo para escribir algo, así que no pudimos iniciar sesión."
+
+REFERENCE           PLATFORM_BLZBNTBGS000001FE 
+LANG_ENGLISH           "Primero debes aceptar el contrato de uso."
+
+REFERENCE           PLATFORM_BLZBNTBGS000001FF 
+LANG_ENGLISH           "No pudimos mostrarte el contrato legal correcto. Es posible que falte algo de información en tu cuenta. Haz clic en el código de abajo para ayudar a solucionar esto."
+
+REFERENCE           PLATFORM_BLZBNTBGS00000208 
+LANG_ENGLISH           "Estás intentando conectarte a un servidor no válido."
+
+REFERENCE           PLATFORM_BLZBNTBGS0000A413 
+LANG_ENGLISH           "Tu cuenta se bloqueó por motivos de seguridad. Intenta iniciar sesión de nuevo y desbloquéala siguiendo uno de los métodos disponibles."
+
+REFERENCE           PLATFORM_BNET_ERROR_FORMAT 
+LANG_ENGLISH           "&&1 Código de error: &&2"
+
+REFERENCE           PLATFORM_BNET_GENERIC_ERROR 
+LANG_ENGLISH           "Se perdió la conexión con el servidor de juego de Blizzard. Sal e inténtalo de nuevo."
+
+REFERENCE           PLATFORM_BOTTOM_SHORTCUT 
+LANG_ENGLISH           "Fin ^2END^7"
+
+REFERENCE           PLATFORM_BULLET_IMPACTS_DESCRIPTION 
+LANG_ENGLISH           "Renderiza los impactos de bala en las superficies."
+
+REFERENCE           PLATFORM_CACHED_SPOT_SHADOWS_DESCRIPTION 
+LANG_ENGLISH           "Renderizado de sombras puntuales previamente calculado que requiere mucha memoria gráfica adicional. AVISO: usa mucha memoria. Recomendado solo para tarjetas de video con al menos 4 GB de memoria gráfica. Desactívalo si crea problemas de transmisión de texturas y si se ven borrosas."
+
+REFERENCE           PLATFORM_CACHED_SUN_SHADOWS_DESCRIPTION 
+LANG_ENGLISH           "Renderizado de sombras de luz solar previamente calculado que requiere memoria gráfica adicional. AVISO: usa mucha memoria. Recomendado solo para tarjetas de video con al menos 4 GB de memoria gráfica. Desactívalo si crea problemas de transmisión de texturas y si se ven borrosas."
+
+REFERENCE           PLATFORM_CAC_CHANGE_WEAPON 
+LANG_ENGLISH           "Cambiar arma"
+
+REFERENCE           PLATFORM_CALL_NUKE 
+LANG_ENGLISH           "Mantén ^3&&1^7 para solicitar un ataque nuclear."
+
+REFERENCE           PLATFORM_CHALLENGES_SHORTCUT 
+LANG_ENGLISH           "Desafíos ^2F1^7"
+
+REFERENCE           PLATFORM_CHALLENGE_BLADE_BUTTON 
+LANG_ENGLISH           "^3F1^7"
+
+REFERENCE           PLATFORM_CHALLENGE_BLADE_BUTTON_GAMEPAD 
+LANG_ENGLISH           ""
+
+REFERENCE           PLATFORM_CHANGE_FILTER_CAPS 
+LANG_ENGLISH           "CAMBIAR FILTRO"
+
+REFERENCE           PLATFORM_CHANGE_PROFILE_CAPS 
+LANG_ENGLISH           "CAMBIAR PERFIL"
+
+REFERENCE           PLATFORM_CHANGE_ZOOM 
+LANG_ENGLISH           "Haz clic en^3 &&1 ^7para hacer zoom."
+
+REFERENCE           PLATFORM_CLEAR_BUTTON 
+LANG_ENGLISH           "X"
+
+REFERENCE           PLATFORM_CLEAR_KILLSTREAKS 
+LANG_ENGLISH           "Borrar rachas ^2X^7"
+
+REFERENCE           PLATFORM_CLOSE_CAPS 
+LANG_ENGLISH           "CERRAR"
+
+REFERENCE           PLATFORM_CONTINUE_CAPS 
+LANG_ENGLISH           "CONTINUAR"
+
+REFERENCE           PLATFORM_CONTROLLER_DISCONNECTED 
+LANG_ENGLISH           "Vuelve a conectar el control."
+
+REFERENCE           PLATFORM_COOP_REQUIRES_DLC 
+LANG_ENGLISH           "Este host cooperativo requiere mapas que no tienes. Puedes descargarlos desde Steam."
+
+REFERENCE           PLATFORM_COOP_REQUIRES_DLC_XBOXLIVE 
+LANG_ENGLISH           "Este host cooperativo requiere mapas que no tienes. Puedes descargarlos desde la Tienda Xbox."
+
+REFERENCE           PLATFORM_COWARDS_WAY_OUT 
+LANG_ENGLISH           "Mantén^3 [{+activate}] ^7para salir como un cobarde."
+
+REFERENCE           PLATFORM_DELETE_CHARACTER 
+LANG_ENGLISH           "^3 &&1 ^7 Eliminar"
+
+REFERENCE           PLATFORM_DEMO_CLEAR_ALL_SEGMENTS 
+LANG_ENGLISH           "BORRAR TODOS LOS SEGMENTOS"
+
+REFERENCE           PLATFORM_DEMO_CONTROLS_DECREASE_PLAYBACK_SPEED 
+LANG_ENGLISH           "Velocidad - x 0.1"
+
+REFERENCE           PLATFORM_DEMO_CONTROLS_DECREASE_PLAYBACK_SPEED_KEY 
+LANG_ENGLISH           "^3Cursor abajo^7"
+
+REFERENCE           PLATFORM_DEMO_CONTROLS_INCREASE_PLAYBACK_SPEED 
+LANG_ENGLISH           "Velocidad + x 0.1"
+
+REFERENCE           PLATFORM_DEMO_CONTROLS_INCREASE_PLAYBACK_SPEED_KEY 
+LANG_ENGLISH           "^3Cursor arriba^7"
+
+REFERENCE           PLATFORM_DEMO_CONTROLS_JUMP_BACK 
+LANG_ENGLISH           "Retroceder"
+
+REFERENCE           PLATFORM_DEMO_CONTROLS_JUMP_BACK_KEY 
+LANG_ENGLISH           "^3Cursor izquierda^7"
+
+REFERENCE           PLATFORM_DEMO_CONTROLS_JUMP_FORWARD 
+LANG_ENGLISH           "Avanzar"
+
+REFERENCE           PLATFORM_DEMO_CONTROLS_JUMP_FORWARD_KEY 
+LANG_ENGLISH           "^3Cursor derecha^7"
+
+REFERENCE           PLATFORM_DEMO_CONTROLS_NEXT_PLAYER 
+LANG_ENGLISH           "Jugador siguiente"
+
+REFERENCE           PLATFORM_DEMO_CONTROLS_NEXT_PLAYER_KEY 
+LANG_ENGLISH           "^3Clic derecho^7"
+
+REFERENCE           PLATFORM_DEMO_CONTROLS_PLAY 
+LANG_ENGLISH           "Reproducir/Pausa"
+
+REFERENCE           PLATFORM_DEMO_CONTROLS_PLAY_KEY 
+LANG_ENGLISH           "^3Espacio^7"
+
+REFERENCE           PLATFORM_DEMO_CONTROLS_PREVIOUS_PLAYER 
+LANG_ENGLISH           "Jugador anterior"
+
+REFERENCE           PLATFORM_DEMO_CONTROLS_PREVIOUS_PLAYER_KEY 
+LANG_ENGLISH           "^3Clic izquierdo^7"
+
+REFERENCE           PLATFORM_DEMO_CONTROLS_RECORD 
+LANG_ENGLISH           "Iniciar/Detener grabación"
+
+REFERENCE           PLATFORM_DEMO_CONTROLS_RECORD_KEY 
+LANG_ENGLISH           "^3R^7"
+
+REFERENCE           PLATFORM_DEMO_CONTROLS_SCREENSHOT 
+LANG_ENGLISH           "Capturar pantalla"
+
+REFERENCE           PLATFORM_DEMO_CONTROLS_SCREENSHOT_KEY 
+LANG_ENGLISH           "^3F3^7"
+
+REFERENCE           PLATFORM_DEMO_CONTROLS_SPEED_1X 
+LANG_ENGLISH           "Vel. + x1.0"
+
+REFERENCE           PLATFORM_DEMO_CONTROLS_SPEED_1X_KEY 
+LANG_ENGLISH           "^3F5^7"
+
+REFERENCE           PLATFORM_DEMO_CONTROLS_SPEED_NEG1X 
+LANG_ENGLISH           "Velocidad - x1.0"
+
+REFERENCE           PLATFORM_DEMO_CONTROLS_SPEED_NEG1X_KEY 
+LANG_ENGLISH           "^3F4^7"
+
+REFERENCE           PLATFORM_DEMO_CONTROLS_SWITCH_CAMERA 
+LANG_ENGLISH           "Cambiar cámara"
+
+REFERENCE           PLATFORM_DEMO_CONTROLS_SWITCH_CAMERA_KEY 
+LANG_ENGLISH           "^3F2^7"
+
+REFERENCE           PLATFORM_DEMO_CONTROL_OPTIONS 
+LANG_ENGLISH           "Controles del cine"
+
+REFERENCE           PLATFORM_DEMO_DELETE_SEGMENT 
+LANG_ENGLISH           "BORRAR SEGMENTO"
+
+REFERENCE           PLATFORM_DEMO_DVR_CHANGE_CAMERA 
+LANG_ENGLISH           "^3F2^7"
+
+REFERENCE           PLATFORM_DEMO_DVR_FAST_MOTION 
+LANG_ENGLISH           "^3AR.^7"
+
+REFERENCE           PLATFORM_DEMO_DVR_FREECAMERA_CHANGE_HEIGHT 
+LANG_ENGLISH           "&&1/&&2 Cambiar altitud"
+
+REFERENCE           PLATFORM_DEMO_DVR_JUMP_BACK 
+LANG_ENGLISH           "^3IZ.^7"
+
+REFERENCE           PLATFORM_DEMO_DVR_JUMP_BACK_GAMEPAD 
+LANG_ENGLISH           ""
+
+REFERENCE           PLATFORM_DEMO_DVR_JUMP_FORWARD 
+LANG_ENGLISH           "^3DE.^7"
+
+REFERENCE           PLATFORM_DEMO_DVR_JUMP_FORWARD_GAMEPAD 
+LANG_ENGLISH           ""
+
+REFERENCE           PLATFORM_DEMO_DVR_PLAY 
+LANG_ENGLISH           "^3Espacio^7"
+
+REFERENCE           PLATFORM_DEMO_DVR_RECORD 
+LANG_ENGLISH           "^3R^7"
+
+REFERENCE           PLATFORM_DEMO_DVR_SLOW_MOTION 
+LANG_ENGLISH           "^3AB.^7"
+
+REFERENCE           PLATFORM_DEMO_DVR_SWITCH_PLAYERS 
+LANG_ENGLISH           "&&1/&&2 Cambiar de jugador"
+
+REFERENCE           PLATFORM_DEMO_DVR_SWITCH_PLAYER_NEXT 
+LANG_ENGLISH           "^3Clic-D^7"
+
+REFERENCE           PLATFORM_DEMO_DVR_SWITCH_PLAYER_PREV 
+LANG_ENGLISH           "^3Clic-I^7"
+
+REFERENCE           PLATFORM_DEMO_DVR_TAKE_SCREENSHOT 
+LANG_ENGLISH           "^3F3^7"
+
+REFERENCE           PLATFORM_DEMO_DVR_TOGGLE_CONTROLS_HUD 
+LANG_ENGLISH           "^3F1^7 Act./Desact. controles"
+
+REFERENCE           PLATFORM_DEMO_MOVE_SEGMENT_LEFT 
+LANG_ENGLISH           "MOVER SEGMENTO IZQUIERDA"
+
+REFERENCE           PLATFORM_DEMO_MOVE_SEGMENT_RIGHT 
+LANG_ENGLISH           "MOVER SEGMENTO DERECHA"
+
+REFERENCE           PLATFORM_DEMO_PLACE_SEGMENT 
+LANG_ENGLISH           "COLOCAR SEGMENTO"
+
+REFERENCE           PLATFORM_DEMO_PREVIEW_CLIP 
+LANG_ENGLISH           "VISTA PREVIA DE CLIP"
+
+REFERENCE           PLATFORM_DEMO_PREVIEW_SEGMENT 
+LANG_ENGLISH           "VISTA PREVIA DE SEGMENTO"
+
+REFERENCE           PLATFORM_DEPTH_PREPASS_DESCRIPTION 
+LANG_ENGLISH           "Renderizado adicional de las superficies opacas. Necesario para MDAO y dispersión de subsuperficies."
+
+REFERENCE           PLATFORM_DESC_FIND_GAME 
+LANG_ENGLISH           "Elige un modo de juego y únete de inmediato a una partida en línea."
+
+REFERENCE           PLATFORM_DESC_FIND_GAME_LOCKED 
+LANG_ENGLISH           "Solo puede buscar partidas el host del grupo."
+
+REFERENCE           PLATFORM_DETONATE 
+LANG_ENGLISH           "Oprime [{+activate}] para detonar."
+
+REFERENCE           PLATFORM_DISCONNECTED_FROM_SERVER 
+LANG_ENGLISH           "Desconectado del servidor"
+
+REFERENCE           PLATFORM_DLCSEARCH_BUTTON 
+LANG_ENGLISH           "G"
+
+REFERENCE           PLATFORM_DLCSEARCH_TOGGLE_OFF 
+LANG_ENGLISH           "Activar contenido descargable ^2F1^7"
+
+REFERENCE           PLATFORM_DLCSEARCH_TOGGLE_ON 
+LANG_ENGLISH           "Desactivar contenido descargable ^2F1^7"
+
+REFERENCE           PLATFORM_DLC_GO_TO_STORE 
+LANG_ENGLISH           "¿Abrir la tienda para comprar nuevo contenido para el juego?"
+
+REFERENCE           PLATFORM_DLIGHT_FORCE_LIMIT_DESCRIPTION 
+LANG_ENGLISH           "Número máximo de luces dinámicas visibles en una escena."
+
+REFERENCE           PLATFORM_DOF_DESCRIPTION 
+LANG_ENGLISH           "Simula una lente de cámara; las zonas desenfocadas se ven borrosas."
+
+REFERENCE           PLATFORM_DOWNLOADDISCONNECTED 
+LANG_ENGLISH           "Cliente desconectado para descargar archivos."
+
+REFERENCE           PLATFORM_DYK_IW5_MSG1 
+LANG_ENGLISH           "Completa los desafíos de ventajas para desbloquear ventajas mejoradas."
+
+REFERENCE           PLATFORM_DYK_IW5_MSG10 
+LANG_ENGLISH           "Edita tu nombre en clave para mostrar los títulos y emblemas que ganaste."
+
+REFERENCE           PLATFORM_DYK_IW5_MSG11 
+LANG_ENGLISH           "Desplaza el resumen de juego a izquierda y derecha para ver información más detallada."
+
+REFERENCE           PLATFORM_DYK_IW5_MSG12 
+LANG_ENGLISH           "Los títulos y emblemas que ganaste no se restablecen después de entrar en modo Prestigio."
+
+REFERENCE           PLATFORM_DYK_IW5_MSG13 
+LANG_ENGLISH           "Si sales en mitad de una partida, perderás su bonificación."
+
+REFERENCE           PLATFORM_DYK_IW5_MSG14 
+LANG_ENGLISH           "Los paquetes de ayuda lanzados proporcionan una recompensa aleatoria por racha de bajas."
+
+REFERENCE           PLATFORM_DYK_IW5_MSG15 
+LANG_ENGLISH           "La inserción táctica es una bengala que señala el lugar donde se producirá tu próxima reaparición."
+
+REFERENCE           PLATFORM_DYK_IW5_MSG16 
+LANG_ENGLISH           "Destruye las bengalas rojas para impedir una inserción táctica enemiga."
+
+REFERENCE           PLATFORM_DYK_IW5_MSG17 
+LANG_ENGLISH           "El Semtex se adhiere al enemigo."
+
+REFERENCE           PLATFORM_DYK_IW5_MSG18 
+LANG_ENGLISH           "La ventaja Escudo protector aumenta tu resistencia a las explosiones."
+
+REFERENCE           PLATFORM_DYK_IW5_MSG19 
+LANG_ENGLISH           "Aunque lleves el escudo pesado a la espalda, te seguirá protegiendo de las balas."
+
+REFERENCE           PLATFORM_DYK_IW5_MSG2 
+LANG_ENGLISH           "Consigue premios por racha de bajas de asalto y especialista causando varias bajas consecutivas sin morir."
+
+REFERENCE           PLATFORM_DYK_IW5_MSG20 
+LANG_ENGLISH           "El sensor de latidos detecta a los enemigos cercanos."
+
+REFERENCE           PLATFORM_DYK_IW5_MSG21 
+LANG_ENGLISH           "La ventaja Asesino te hace invisible a la visión térmica, los UAV, el radar portátil y los sensores de latidos."
+
+REFERENCE           PLATFORM_DYK_IW5_MSG22 
+LANG_ENGLISH           "Con Línea dura, los premios de racha de bajas requieren 1 baja menos."
+
+REFERENCE           PLATFORM_DYK_IW5_MSG23 
+LANG_ENGLISH           "Puedes arrastrarte por el suelo en Última batalla."
+
+REFERENCE           PLATFORM_DYK_IW5_MSG24 
+LANG_ENGLISH           "Reconocimiento hace que todo tu daño explosivo identifique a los enemigos en el minimapa, permitiéndote localizarlos con facilidad."
+
+REFERENCE           PLATFORM_DYK_IW5_MSG25 
+LANG_ENGLISH           "La racha de muertes Impetuoso te otorga un incremento limitado de velocidad cuando reapareces."
+
+REFERENCE           PLATFORM_DYK_IW5_MSG26 
+LANG_ENGLISH           "Apunta el escudo antidisturbios directamente hacia la persona que te esté disparando para maximizar su eficacia."
+
+REFERENCE           PLATFORM_DYK_IW5_MSG27 
+LANG_ENGLISH           "Los centinelas pueden inutilizarse temporalmente si les arrojas granadas cegadoras o aturdidoras."
+
+REFERENCE           PLATFORM_DYK_IW5_MSG28 
+LANG_ENGLISH           "El Predator te permite controlar un misil disparado desde el cielo."
+
+REFERENCE           PLATFORM_DYK_IW5_MSG29 
+LANG_ENGLISH           "Agáchate con el escudo antidisturbios para cubrirte los pies y procurarte la máxima protección posible."
+
+REFERENCE           PLATFORM_DYK_IW5_MSG3 
+LANG_ENGLISH           "Obtén PX de armas utilizando tu arma para matar a jugadores, destruir equipo y anular rachas de bajas."
+
+REFERENCE           PLATFORM_DYK_IW5_MSG30 
+LANG_ENGLISH           "Los premios de racha de bajas se desbloquean en el orden que escojas."
+
+REFERENCE           PLATFORM_DYK_IW5_MSG31 
+LANG_ENGLISH           "Desbloquea competencias con armas subiendo de nivel tu arma para aventajar a tus adversarios."
+
+REFERENCE           PLATFORM_DYK_IW5_MSG32 
+LANG_ENGLISH           "Las clases predeterminadas contienen objetos desbloqueados en niveles posteriores, para que puedas ver lo que te espera."
+
+REFERENCE           PLATFORM_DYK_IW5_MSG33 
+LANG_ENGLISH           "La ventaja Carroñero te permite reponer munición recogiendo la de los enemigos caídos."
+
+REFERENCE           PLATFORM_DYK_IW5_MSG34 
+LANG_ENGLISH           "Averigua qué enemigo te mató con la racha de muertes Venganza."
+
+REFERENCE           PLATFORM_DYK_IW5_MSG35 
+LANG_ENGLISH           "El accesorio de cuchillo táctico para pistolas aumenta la velocidad de tus ataques cuerpo a cuerpo."
+
+REFERENCE           PLATFORM_DYK_IW5_MSG36 
+LANG_ENGLISH           "La competencia de arma Accesorios te permite acoplar 2 accesorios a tu arma principal."
+
+REFERENCE           PLATFORM_DYK_IW5_MSG37 
+LANG_ENGLISH           "Sobrevive al desangramiento en Última batalla y podrás volver a levantarte."
+
+REFERENCE           PLATFORM_DYK_IW5_MSG38 
+LANG_ENGLISH           "Los premios de racha de bajas obtenidos de cajas lanzadas no cuentan de cara a tu total de rachas de bajas."
+
+REFERENCE           PLATFORM_DYK_IW5_MSG39 
+LANG_ENGLISH           "Utilizar un arma en cada mano te proporciona más potencia de fuego, pero limita la capacidad de apuntar con la mira."
+
+REFERENCE           PLATFORM_DYK_IW5_MSG4 
+LANG_ENGLISH           "Algunos premios de racha de bajas se pueden controlar, pero mientras lo haces eres vulnerable."
+
+REFERENCE           PLATFORM_DYK_IW5_MSG40 
+LANG_ENGLISH           "Sorprende a tu adversario con C4 utilizando La mano del muerto."
+
+REFERENCE           PLATFORM_DYK_IW5_MSG41 
+LANG_ENGLISH           "Personaliza cada clase con su propio paquete de asalto para prepararte contra cualquier contingencia."
+
+REFERENCE           PLATFORM_DYK_IW5_MSG42 
+LANG_ENGLISH           "Los paquetes de asalto encadenan bajas para activar el siguiente."
+
+REFERENCE           PLATFORM_DYK_IW5_MSG43 
+LANG_ENGLISH           "Juega en equipo: arroja chalecos balísticos para tus compañeros."
+
+REFERENCE           PLATFORM_DYK_IW5_MSG44 
+LANG_ENGLISH           "Las puntas huecas te conceden capacidad de daño adicional para causar bajas al volver."
+
+REFERENCE           PLATFORM_DYK_IW5_MSG45 
+LANG_ENGLISH           "No todos los Juggernauts son iguales."
+
+REFERENCE           PLATFORM_DYK_IW5_MSG46 
+LANG_ENGLISH           "Si escuchas cómo se activa una SMI, ya es demasiado tarde."
+
+REFERENCE           PLATFORM_DYK_IW5_MSG47 
+LANG_ENGLISH           "Si crees que necesitas más ventajas en combate, deberías estar usando el paquete de asalto de especialista."
+
+REFERENCE           PLATFORM_DYK_IW5_MSG48 
+LANG_ENGLISH           "¿Prefieres ofrecer apoyo a tu equipo, luchar a la defensiva o actuar por tu cuenta? Los paquetes de asalto te dan estas opciones."
+
+REFERENCE           PLATFORM_DYK_IW5_MSG49 
+LANG_ENGLISH           "La ventaja Ojo ciego te protege de apoyo aéreo y torretas."
+
+REFERENCE           PLATFORM_DYK_IW5_MSG5 
+LANG_ENGLISH           "Examina todos tus galardones en los barracones."
+
+REFERENCE           PLATFORM_DYK_IW5_MSG50 
+LANG_ENGLISH           "Los Juggernauts no son tan duros cuando les metes un misil por la garganta."
+
+REFERENCE           PLATFORM_DYK_IW5_MSG51 
+LANG_ENGLISH           "Aprovecha la ventaja Cazador para moverte más deprisa mientras ametrallas a un enemigo."
+
+REFERENCE           PLATFORM_DYK_IW5_MSG52 
+LANG_ENGLISH           "El paquete de asalto de apoyo no reinicia tu racha de bajas cuando mueres."
+
+REFERENCE           PLATFORM_DYK_IW5_MSG53 
+LANG_ENGLISH           "Dispones de tres espacios para rachas de bajas y un espacio adicional para asignar cualquier otra racha de bajas que obtengas por otros medios."
+
+REFERENCE           PLATFORM_DYK_IW5_MSG54 
+LANG_ENGLISH           "Tus espacios adicionales para rachas de bajas son acumulativos, así no tienes que preocuparte por perderlos."
+
+REFERENCE           PLATFORM_DYK_IW5_MSG55 
+LANG_ENGLISH           "Examina todas tus rachas de bajas y utiliza las que más te convengan en cada momento."
+
+REFERENCE           PLATFORM_DYK_IW5_MSG6 
+LANG_ENGLISH           "Usa la ventaja Informe de situación para identificar equipo enemigo y paquetes de ayuda trampa."
+
+REFERENCE           PLATFORM_DYK_IW5_MSG7 
+LANG_ENGLISH           "Intercambia las granadas de fragmentación por Bouncing Bettys, cuchillos arrojadizos y demás accesorios letales."
+
+REFERENCE           PLATFORM_DYK_IW5_MSG8 
+LANG_ENGLISH           "Las rachas de muertes te ayudarán un poco cuando las cosas no te salgan demasiado bien."
+
+REFERENCE           PLATFORM_DYK_IW5_MSG9 
+LANG_ENGLISH           "¡Las balas que rebotan en un escudo antidisturbios pueden matar!"
+
+REFERENCE           PLATFORM_DYK_MSG1 
+LANG_ENGLISH           "¡Gana PX! Consigues puntos de experiencia (PX) al causar bajas, superar desafíos y terminar partidas en los servidores igualados."
+
+REFERENCE           PLATFORM_DYK_MSG10 
+LANG_ENGLISH           "Escucha... Puedes oír el chat de voz del equipo enemigo con la ventaja Escuchar a escondidas."
+
+REFERENCE           PLATFORM_DYK_MSG11 
+LANG_ENGLISH           "Presta atención... Puedes localizar los artefactos explosivos del enemigo, como las claymore y las cargas de C4, con la ventaja Artificiero."
+
+REFERENCE           PLATFORM_DYK_MSG12 
+LANG_ENGLISH           "¡Resiste! Saca tu pistola y haz un último esfuerzo por causar algunas bajas antes de morir con la ventaja Última batalla."
+
+REFERENCE           PLATFORM_DYK_MSG13 
+LANG_ENGLISH           "¡Combina tu apoyo aéreo! Combina el radar con un ataque aéreo para lanzar un bombardeo de saturación más preciso."
+
+REFERENCE           PLATFORM_DYK_MSG14 
+LANG_ENGLISH           "¡Helicóptero derribado! No temas disparar a los helicópteros enemigos con tu arma principal. Puede que no resulte tan efectivo como un cohete pero recibirán algo de daño."
+
+REFERENCE           PLATFORM_DYK_MSG15 
+LANG_ENGLISH           "¡Encuentra al enemigo! Las lecturas de radar muestran a los enemigos como puntos rojos en tu GPS. Conocer la posición del enemigo supone una gran ventaja."
+
+REFERENCE           PLATFORM_DYK_MSG17 
+LANG_ENGLISH           "¡Defiende tus banderas! En el modo de juego Dominio, conservar los objetivos marcados le otorga puntos a tu equipo. Cuantos más objetivos conserves, más puntos recibirás."
+
+REFERENCE           PLATFORM_DYK_MSG18 
+LANG_ENGLISH           "¡Vigila las esquinas! Ten cuidado cuando juegues a Buscar y destruir, ya que al morir no reaparecerás."
+
+REFERENCE           PLATFORM_DYK_MSG19 
+LANG_ENGLISH           "¡Escolta la bomba! Protege al portador de la bomba en Sabotaje. Tendrás que trabajar en equipo para llegar hasta el objetivo enemigo."
+
+REFERENCE           PLATFORM_DYK_MSG2 
+LANG_ENGLISH           "¡Sube de nivel! A medida que ganes PX, obtendrás ascensos, objetos desbloqueables y nuevos desafíos."
+
+REFERENCE           PLATFORM_DYK_MSG20 
+LANG_ENGLISH           "¡Solicita un radar! Puedes ganar un radar para ti y tu equipo causando 3 bajas seguidas sin morir."
+
+REFERENCE           PLATFORM_DYK_MSG21 
+LANG_ENGLISH           "¡Solicita un ataque aéreo! Causa 5 bajas seguidas sin morir y podrás solicitar un ataque aéreo sobre la posición que quieras."
+
+REFERENCE           PLATFORM_DYK_MSG22 
+LANG_ENGLISH           "¡Pide un helicóptero! Puedes obtener apoyo aéreo de un helicóptero causando 7 bajas seguidas sin morir."
+
+REFERENCE           PLATFORM_DYK_MSG23 
+LANG_ENGLISH           "De vuelta a lo básico... En los modos de juego Vieja escuela no hay clases. Todo el mundo empieza con las mismas armas y debe elegir nuevas armas y ventajas en el nivel."
+
+REFERENCE           PLATFORM_DYK_MSG24 
+LANG_ENGLISH           "¡Ten cuidado al disparar! Cuando disparas un arma sin silenciador, apareces como un punto rojo en la brújula de tus enemigos."
+
+REFERENCE           PLATFORM_DYK_MSG25 
+LANG_ENGLISH           "Sé silencioso... El uso de un silenciador evita que aparezcas como un punto rojo en la brújula del enemigo, pero el alcance de tu arma se reduce."
+
+REFERENCE           PLATFORM_DYK_MSG26 
+LANG_ENGLISH           "Tecnología de sigilo. Utiliza la ventaja Inhibidor UAV para evitar aparecer como un punto rojo en la brújula del enemigo."
+
+REFERENCE           PLATFORM_DYK_MSG27 
+LANG_ENGLISH           "Las granadas de un lanzagranadas acoplado en un fusil deben viajar antes de armarse. Si golpean al enemigo, le harán daño pero solo explotan a cierta distancia."
+
+REFERENCE           PLATFORM_DYK_MSG28 
+LANG_ENGLISH           "¡Personaliza tu partida! Inicia tu propio servidor y cambia los ajustes del modo de juego como quieras."
+
+REFERENCE           PLATFORM_DYK_MSG29 
+LANG_ENGLISH           "¡Domina el trabajo en equipo! Captura más deprisa las banderas en Dominio con la ayuda de tus compañeros."
+
+REFERENCE           PLATFORM_DYK_MSG3 
+LANG_ENGLISH           "¡Personaliza tu arma! Puedes añadir un diseño de camuflaje o accesorio a tus armas en Crear una clase."
+
+REFERENCE           PLATFORM_DYK_MSG30 
+LANG_ENGLISH           "¡Usa tu cuchillo! Lucha cuerpo a cuerpo con tu cuchillo para causar una baja rápida y humillante."
+
+REFERENCE           PLATFORM_DYK_MSG31 
+LANG_ENGLISH           "¡Corre más rápido! Oprime esprintar y corre más rápido durante unos instantes, aunque no podrás usar tu arma."
+
+REFERENCE           PLATFORM_DYK_MSG32 
+LANG_ENGLISH           "¡Mantén la calma! Aguanta la respiración al usar armas con mira óptica para disparar con más precisión."
+
+REFERENCE           PLATFORM_DYK_MSG33 
+LANG_ENGLISH           "¡Devuelve las granadas! Cuando tengas una granada cerca, busca el icono de devolver granada para lanzársela de vuelta al enemigo."
+
+REFERENCE           PLATFORM_DYK_MSG34 
+LANG_ENGLISH           "¡Dispara a través de las paredes! Algunas armas pueden atravesar ciertas superficies, aunque harán menos daño."
+
+REFERENCE           PLATFORM_DYK_MSG35 
+LANG_ENGLISH           "¡Aprovecha tu inventario! Los objetos como los lanzagranadas, los RPG, las claymore y el C4 se almacenan en tu inventario."
+
+REFERENCE           PLATFORM_DYK_MSG36 
+LANG_ENGLISH           "¡Atajo explosivo! Oprime dos veces la tecla Usar para detonar un C4 que hayas lanzado mientras usas otra arma."
+
+REFERENCE           PLATFORM_DYK_MSG4 
+LANG_ENGLISH           "¡Diseña tu propia clase! En Crear clase podrás elegir las armas, las ventajas y ponerle el nombre que quieras a la clase."
+
+REFERENCE           PLATFORM_DYK_MSG5 
+LANG_ENGLISH           "¡Colabora con tus compañeros! Si dañas a un enemigo pero es un compañero quien causa la baja, recibirás puntos de asistencia."
+
+REFERENCE           PLATFORM_DYK_MSG6 
+LANG_ENGLISH           "Vive lo extremo. En el modo Extremo se eliminará el HUD y las armas serán aún más letales."
+
+REFERENCE           PLATFORM_DYK_MSG7 
+LANG_ENGLISH           "¡Partidas personalizadas! Se puede jugar a las partidas no igualadas en cualquier modo de juego con reglas personalizadas."
+
+REFERENCE           PLATFORM_DYK_MSG8 
+LANG_ENGLISH           "Los desafíos son gratificantes. Los desafíos de armas desbloquean accesorios y diseños de camuflaje para usar en Crear una clase."
+
+REFERENCE           PLATFORM_DYK_MSG9 
+LANG_ENGLISH           "¡Consigue más PX! Consigues bonificaciones extra de PX por completar desafíos situados en rango y desafíos."
+
+REFERENCE           PLATFORM_EMBLEM_EDIT_DONE 
+LANG_ENGLISH           "(B)Hecho"
+
+REFERENCE           PLATFORM_EMBLEM_LAYER_DOWN_KBM 
+LANG_ENGLISH           "Bajar capa"
+
+REFERENCE           PLATFORM_EMBLEM_LAYER_UP_KBM 
+LANG_ENGLISH           "Subir capa"
+
+REFERENCE           PLATFORM_EMBLEM_MOVE_LAYER_KBM 
+LANG_ENGLISH           "Clic izquierdo + arrastrar para mover el emblema."
+
+REFERENCE           PLATFORM_EMBLEM_OPACITY_KBM 
+LANG_ENGLISH           "A o D"
+
+REFERENCE           PLATFORM_EMBLEM_ROTATE_LAYER_KBM 
+LANG_ENGLISH           "Clic derecho + arrastrar para girar el emblema."
+
+REFERENCE           PLATFORM_EMBLEM_SCALE_LAYER_KBM 
+LANG_ENGLISH           "Clic izquierdo + clic derecho + arrastrar para cambiar la escala del emblema."
+
+REFERENCE           PLATFORM_EMBLEM_TOGGLE_FLIP 
+LANG_ENGLISH           "(<)Voltear"
+
+REFERENCE           PLATFORM_EMBLEM_TOGGLE_OUTLINE 
+LANG_ENGLISH           "(<)Alternar borde/relleno"
+
+REFERENCE           PLATFORM_EMBLEM_UNIFORM_SCALE_LAYER_KBM 
+LANG_ENGLISH           "Rueda del ratón para escalado fijo"
+
+REFERENCE           PLATFORM_EOG_PRESS_ESC 
+LANG_ENGLISH           "Oprime^3 ESC ^7para^2 crear una clase ^7y más."
+
+REFERENCE           PLATFORM_FB_NEXT_PAGE 
+LANG_ENGLISH           "Página siguiente"
+
+REFERENCE           PLATFORM_FB_NEXT_PAGE_BUTTON 
+LANG_ENGLISH           ""
+
+REFERENCE           PLATFORM_FB_NEXT_PAGE_BUTTON_GAMEPAD 
+LANG_ENGLISH           ""
+
+REFERENCE           PLATFORM_FB_PREV_PAGE 
+LANG_ENGLISH           "Página anterior"
+
+REFERENCE           PLATFORM_FB_PREV_PAGE_BUTTON 
+LANG_ENGLISH           ""
+
+REFERENCE           PLATFORM_FB_PREV_PAGE_BUTTON_GAMEPAD 
+LANG_ENGLISH           ""
+
+REFERENCE           PLATFORM_FILL_MEMORY_TEXTURES_DESCRIPTION 
+LANG_ENGLISH           "Llena de texturas el resto de la memoria de la tarjeta de video. Mejora el rendimiento general, pero puede interferir con otros programas que hagan un uso intensivo de los gráficos."
+
+REFERENCE           PLATFORM_FILMIC_SMAA_1X 
+LANG_ENGLISH           "SMAA fílmico 1x"
+
+REFERENCE           PLATFORM_FILMIC_SMAA_T2X 
+LANG_ENGLISH           "SMAA fílmico T2x"
+
+REFERENCE           PLATFORM_FILTER 
+LANG_ENGLISH           "Filtro"
+
+REFERENCE           PLATFORM_FILTER_SHORTCUT 
+LANG_ENGLISH           "Filtro ^2F1^7"
+
+REFERENCE           PLATFORM_FIND_GAME 
+LANG_ENGLISH           "Buscar partida"
+
+REFERENCE           PLATFORM_FIND_GAME_CAPS 
+LANG_ENGLISH           "BUSCAR PARTIDA"
+
+REFERENCE           PLATFORM_FIRSTPERSON 
+LANG_ENGLISH           "^3&&1^7 - 1ª persona"
+
+REFERENCE           PLATFORM_FIRSTPERSON_GAMEPAD 
+LANG_ENGLISH           " Primera persona"
+
+REFERENCE           PLATFORM_FOLLOWNEXTPLAYER 
+LANG_ENGLISH           "- Oprime^3 &&1 ^7para seguir al jugador siguiente"
+
+REFERENCE           PLATFORM_FOLLOWNEXTPLAYER_GAMEPAD 
+LANG_ENGLISH           " Siguiente"
+
+REFERENCE           PLATFORM_FOLLOWPREVIOUSPLAYER 
+LANG_ENGLISH           "- Oprime^3 &&1 ^7para seguir al jugador anterior"
+
+REFERENCE           PLATFORM_FOLLOWPREVIOUSPLAYER_GAMEPAD 
+LANG_ENGLISH           " Anterior"
+
+REFERENCE           PLATFORM_FOLLOWSTOP 
+LANG_ENGLISH           "- Oprime^3 &&1 ^7para abandonar el seguimiento"
+
+REFERENCE           PLATFORM_FOLLOWSTOP_GAMEPAD 
+LANG_ENGLISH           " Abandonar seguimiento"
+
+REFERENCE           PLATFORM_FOLLOW_LOADING 
+LANG_ENGLISH           "Cargando al siguiente jugador..."
+
+REFERENCE           PLATFORM_FOLLOW_LOADING_GAMEPAD 
+LANG_ENGLISH           "Cargando al siguiente jugador..."
+
+REFERENCE           PLATFORM_FORCED_ASPECT_RATIO 
+LANG_ENGLISH           "Formato de imagen"
+
+REFERENCE           PLATFORM_FORCED_ASPECT_RATIO_DESC 
+LANG_ENGLISH           "Añade franjas negras (o ajusta la ventana) para forzar un formato de imagen específico."
+
+REFERENCE           PLATFORM_FOV 
+LANG_ENGLISH           "Campo de visión"
+
+REFERENCE           PLATFORM_FOV_OPTION_SUB 
+LANG_ENGLISH           "Ajusta el campo de visión del juego. Si aumentas el campo de visión por encima del mínimo, puede que la tasa de actualización se ralentice y que sufras ciertos problemas gráficos."
+
+REFERENCE           PLATFORM_FRIENDS_BUTTON 
+LANG_ENGLISH           "F"
+
+REFERENCE           PLATFORM_FRIENDS_ONLINE_VAULT_BROWSE 
+LANG_ENGLISH           "Ver archivo de videos en línea de amigo"
+
+REFERENCE           PLATFORM_FRIENDS_SHORTCUT 
+LANG_ENGLISH           "Amigos ^2F^7"
+
+REFERENCE           PLATFORM_FXAA 
+LANG_ENGLISH           "FXAA"
+
+REFERENCE           PLATFORM_GAMESUMMARY_SHORTCUT 
+LANG_ENGLISH           "Resumen de juego ^2G^7"
+
+REFERENCE           PLATFORM_GAME_SUMMARY_CAPS 
+LANG_ENGLISH           "RESUMEN DE JUEGO ^0- ^3F1^7"
+
+REFERENCE           PLATFORM_GET_AUTO_SHOT 
+LANG_ENGLISH           "[{+activate}] Disparo automático"
+
+REFERENCE           PLATFORM_GET_KILLSTREAK 
+LANG_ENGLISH           "[{+activate}] Racha de bajas"
+
+REFERENCE           PLATFORM_GET_KIT 
+LANG_ENGLISH           "[{+activate}] Nuevo kit"
+
+REFERENCE           PLATFORM_GET_RANDOM 
+LANG_ENGLISH           "[{+activate}] Objeto aleatorio"
+
+REFERENCE           PLATFORM_GET_SENTRY 
+LANG_ENGLISH           "[{+activate}] Torreta centinela"
+
+REFERENCE           PLATFORM_GET_THUMPER 
+LANG_ENGLISH           "[{+activate}] Thumper"
+
+REFERENCE           PLATFORM_HBAO 
+LANG_ENGLISH           "HBAO+"
+
+REFERENCE           PLATFORM_HIGH_QUALITY 
+LANG_ENGLISH           "Alta calidad"
+
+REFERENCE           PLATFORM_HINT_CROUCH_TOGGLE_COVER_PC 
+LANG_ENGLISH           "Oprime ^3[{+togglecrouch}]^7 para agacharte detrás de la cobertura."
+
+REFERENCE           PLATFORM_HINT_CROUCH_TOGGLE_PC 
+LANG_ENGLISH           "Oprime ^3[{+togglecrouch}]^7 para agacharte."
+
+REFERENCE           PLATFORM_HINT_HOLD_CROUCH 
+LANG_ENGLISH           "Mantén ^3[{+movedown}]^7 para agacharte."
+
+REFERENCE           PLATFORM_HINT_HOLD_CROUCH_COVER 
+LANG_ENGLISH           "Mantén ^3[{+movedown}]^7 para agacharte detrás de la cobertura."
+
+REFERENCE           PLATFORM_HINT_MOVEONTRUCK 
+LANG_ENGLISH           "Usa las teclas de movimiento para desplazarte sobre el camión."
+
+REFERENCE           PLATFORM_HOLD_1_TO_TURN_THE_BASE 
+LANG_ENGLISH           "Mantén^3 &&1 ^7para alinear la base del tanque con la torreta."
+
+REFERENCE           PLATFORM_HOLD_BREATH 
+LANG_ENGLISH           "Mantén^3 &&1 ^7para estabilizarte."
+
+REFERENCE           PLATFORM_HOLD_TO_DEFUSE_EXPLOSIVES 
+LANG_ENGLISH           "Mantén^3 &&1 ^7para desactivar explosivos."
+
+REFERENCE           PLATFORM_HOLD_TO_DROP 
+LANG_ENGLISH           "Oprime ^3[{+activate}]^7 para soltar."
+
+REFERENCE           PLATFORM_HOLD_TO_HACK_DROP_POD 
+LANG_ENGLISH           "Mantén^3 &&1 ^7para hackear la cápsula."
+
+REFERENCE           PLATFORM_HOLD_TO_PLANT_EXPLOSIVES 
+LANG_ENGLISH           "Mantén^3 &&1 ^7para colocar explosivos."
+
+REFERENCE           PLATFORM_HOLD_TO_SKIP 
+LANG_ENGLISH           "Mantén  para omitir."
+
+REFERENCE           PLATFORM_HOLD_TO_SKIP_KEYBOARD 
+LANG_ENGLISH           "Mantén ^3INTRO^7 para omitir."
+
+REFERENCE           PLATFORM_HOLD_TO_USE 
+LANG_ENGLISH           "Mantén ^3[{+activate}]^7 para usar."
+
+REFERENCE           PLATFORM_HOLD_TO_USE_GAMEPAD 
+LANG_ENGLISH           "Mantén ^3[{+activate}]^7 para usar."
+
+REFERENCE           PLATFORM_HOLD_TO_USE_M249SAW 
+LANG_ENGLISH           "Mantén ^3[{+activate}]^7 para usar la M249 SAW."
+
+REFERENCE           PLATFORM_HOLD_TO_USE_M2BROWNING 
+LANG_ENGLISH           "Mantén ^3[{+activate}]^7 para usar la M2 Browning."
+
+REFERENCE           PLATFORM_HOLD_TO_USE_MINIGUN 
+LANG_ENGLISH           "Mantén ^3[{+activate}]^7 para usar la ametralladora M134."
+
+REFERENCE           PLATFORM_HYBRID_TOGGLE 
+LANG_ENGLISH           "Oprime &&1 para activar la mira híbrida."
+
+REFERENCE           PLATFORM_IMAGE_QUALITY_DESCRIPTION 
+LANG_ENGLISH           "Resolución de renderizado de escenas 3D. Redúcela para mejorar el rendimiento en tarjetas de video más lentas. Debes desactivar la resolución nativa de renderizado."
+
+REFERENCE           PLATFORM_INVITE 
+LANG_ENGLISH           "Enviar invitación"
+
+REFERENCE           PLATFORM_INVITE_NOT_CONNECTED 
+LANG_ENGLISH           "No está conectado al servidor de matchmaking."
+
+REFERENCE           PLATFORM_INVITE_SYSTEM_ERROR 
+LANG_ENGLISH           "Error al enviar invitación a partida. Vuelve a intentarlo más tarde."
+
+REFERENCE           PLATFORM_INVITE_TO_GAME 
+LANG_ENGLISH           "Invitar a partida"
+
+REFERENCE           PLATFORM_INVITE_TO_PARTY 
+LANG_ENGLISH           "Invitar a grupo"
+
+REFERENCE           PLATFORM_JOIN 
+LANG_ENGLISH           "Añadir jugador"
+
+REFERENCE           PLATFORM_JOIN_FRIEND_FAILED 
+LANG_ENGLISH           "Error al unirse a la partida del amigo."
+
+REFERENCE           PLATFORM_JOIN_SESSION_LOST 
+LANG_ENGLISH           "La partida a la que te habían invitado ya no es válida."
+
+REFERENCE           PLATFORM_JOIN_WRONG_EXE_MP 
+LANG_ENGLISH           "Este amigo está jugando en multijugador. Debes entrar en el modo multijugador para poder unirte a él."
+
+REFERENCE           PLATFORM_JOIN_WRONG_EXE_SP 
+LANG_ENGLISH           "Este amigo está jugando en modo individual. Debes volver al menú principal para poder unirte a él."
+
+REFERENCE           PLATFORM_KB_ALT1_BUTTON 
+LANG_ENGLISH           "F2"
+
+REFERENCE           PLATFORM_KB_ALT2_BUTTON 
+LANG_ENGLISH           "F1"
+
+REFERENCE           PLATFORM_KB_BACK_BUTTON 
+LANG_ENGLISH           "TAB"
+
+REFERENCE           PLATFORM_KB_DEL 
+LANG_ENGLISH           "SUPR"
+
+REFERENCE           PLATFORM_KB_DPAD_DOWN_BUTTON 
+LANG_ENGLISH           "ABAJO"
+
+REFERENCE           PLATFORM_KB_DPAD_UP_BUTTON 
+LANG_ENGLISH           "ARRIBA"
+
+REFERENCE           PLATFORM_KB_END_BUTTON 
+LANG_ENGLISH           "FIN"
+
+REFERENCE           PLATFORM_KB_HOME_BUTTON 
+LANG_ENGLISH           "INICIO"
+
+REFERENCE           PLATFORM_KB_INS 
+LANG_ENGLISH           "INSERT"
+
+REFERENCE           PLATFORM_KB_LEFT_SHOULDER_BUTTON 
+LANG_ENGLISH           "A"
+
+REFERENCE           PLATFORM_KB_LEFT_TRIGGER_BUTTON 
+LANG_ENGLISH           "Q"
+
+REFERENCE           PLATFORM_KB_MOUSE_PRIMARY_BUTTON 
+LANG_ENGLISH           "INTRO/CLIC"
+
+REFERENCE           PLATFORM_KB_PAGE_DOWN_BUTTON 
+LANG_ENGLISH           "AVPÁG"
+
+REFERENCE           PLATFORM_KB_PAGE_UP_BUTTON 
+LANG_ENGLISH           "REPÁG"
+
+REFERENCE           PLATFORM_KB_PRIMARY_BUTTON 
+LANG_ENGLISH           "INTRO"
+
+REFERENCE           PLATFORM_KB_RIGHT_SHOULDER_BUTTON 
+LANG_ENGLISH           "D"
+
+REFERENCE           PLATFORM_KB_RIGHT_TRIGGER_BUTTON 
+LANG_ENGLISH           "E"
+
+REFERENCE           PLATFORM_KB_SECONDARY_BUTTON 
+LANG_ENGLISH           "ESC"
+
+REFERENCE           PLATFORM_KB_START_BUTTON 
+LANG_ENGLISH           "ESPACIO"
+
+REFERENCE           PLATFORM_KICKEDFROMPARTY 
+LANG_ENGLISH           "Te expulsaron del grupo."
+
+REFERENCE           PLATFORM_LEADERBOARDS_SHORTCUT 
+LANG_ENGLISH           "Marcadores ^2botón derecho del ratón^7/^2F1^7"
+
+REFERENCE           PLATFORM_LEFT_STICK_GAMEPAD 
+LANG_ENGLISH           ""
+
+REFERENCE           PLATFORM_LOCSEL_DIR_CONTROLS 
+LANG_ENGLISH           "Mantén [Right Mouse] para fijar la dirección."
+
+REFERENCE           PLATFORM_LOCSEL_POSITION_CONTROLS 
+LANG_ENGLISH           "Usa el ratón para seleccionar un objetivo."
+
+REFERENCE           PLATFORM_LOWER_RAISE_CAM 
+LANG_ENGLISH           "^3&&1^7 Bajar/Subir cámara ^3&&2^7"
+
+REFERENCE           PLATFORM_LOWER_RAISE_CAM_GAMEPAD 
+LANG_ENGLISH           " Bajar/Subir cámara "
+
+REFERENCE           PLATFORM_LOW_AMMO_NO_RELOAD 
+LANG_ENGLISH           "MUNICIÓN ESCASA"
+
+REFERENCE           PLATFORM_LOW_AMMO_NO_RELOAD_CAPS 
+LANG_ENGLISH           "MUNICIÓN ESCASA"
+
+REFERENCE           PLATFORM_LOW_QUALITY 
+LANG_ENGLISH           "Calidad baja"
+
+REFERENCE           PLATFORM_MANTLE 
+LANG_ENGLISH           "Oprime^3 &&1 ^7para saltar objetos."
+
+REFERENCE           PLATFORM_MANTLE_IF_JUMP 
+LANG_ENGLISH           "Mantén^3 &&1 ^7para saltar objetos."
+
+REFERENCE           PLATFORM_MAX_FPS 
+LANG_ENGLISH           "FPS MÁXIMOS"
+
+REFERENCE           PLATFORM_MAX_FPS_DESC 
+LANG_ENGLISH           "Selecciona la frecuencia de actualización máxima. Dependiendo de tu sistema y otras opciones, puede que este valor no se alcance."
+
+REFERENCE           PLATFORM_MAX_FPS_UNLIMITED 
+LANG_ENGLISH           "Ilimitados"
+
+REFERENCE           PLATFORM_MDAO 
+LANG_ENGLISH           "Oclusión ambiental a distancia media"
+
+REFERENCE           PLATFORM_MDAO_DESCRIPTION 
+LANG_ENGLISH           "Proporciona un sombreado suave de la iluminación indirecta para los personajes y los vehículos."
+
+REFERENCE           PLATFORM_MEDIUM_QUALITY 
+LANG_ENGLISH           "Calidad media"
+
+REFERENCE           PLATFORM_MELEEZOOM 
+LANG_ENGLISH           "CaC/Zoom"
+
+REFERENCE           PLATFORM_MELEEZOOM_DESC 
+LANG_ENGLISH           "Asigna una tecla para atacar cuerpo a cuerpo y cambiar el zoom."
+
+REFERENCE           PLATFORM_MISSINGMAP 
+LANG_ENGLISH           "No tienes este mapa o está dañado. Puedes descargar paquetes de mapas a través de Steam."
+
+REFERENCE           PLATFORM_MISSINGMAP_XBOXLIVE 
+LANG_ENGLISH           "No tienes este mapa, está dañado o el juego no está completamente instalado. Puedes descargar paquetes de mapas desde la Tienda Xbox."
+
+REFERENCE           PLATFORM_MONITOR_ASPECT_RATIO 
+LANG_ENGLISH           "Formato del monitor"
+
+REFERENCE           PLATFORM_MOTIONBLUR 
+LANG_ENGLISH           "Desenfoque de movimiento"
+
+REFERENCE           PLATFORM_MOTIONBLUR_DESCRIPTION 
+LANG_ENGLISH           "Simula el aspecto borroso de los objetos en movimiento."
+
+REFERENCE           PLATFORM_MOUSE_WHEEL 
+LANG_ENGLISH           "RUEDA DEL RATÓN"
+
+REFERENCE           PLATFORM_MP_OPEN_MENU 
+LANG_ENGLISH           "^3&&1^7 - Menú"
+
+REFERENCE           PLATFORM_MP_OPEN_MENU_GAMEPAD 
+LANG_ENGLISH           "&&1 Menú"
+
+REFERENCE           PLATFORM_MW3_BACK 
+LANG_ENGLISH           "Volver ^0- ^3ESC^7"
+
+REFERENCE           PLATFORM_NAME 
+LANG_ENGLISH           "Nombre"
+
+REFERENCE           PLATFORM_NAME1 
+LANG_ENGLISH           "Nombre: &&1"
+
+REFERENCE           PLATFORM_NAVBAR_BUTTON_FOCUSED_SELECTBUTTON 
+LANG_ENGLISH           ""
+
+REFERENCE           PLATFORM_NO 
+LANG_ENGLISH           "No"
+
+REFERENCE           PLATFORM_NOGUEST 
+LANG_ENGLISH           "Las cuentas de invitado no son compatibles con las partidas en grupo en LAN de Call of Duty®: Modern Warfare® 2 Campaign Remastered."
+
+REFERENCE           PLATFORM_NOMOTD 
+LANG_ENGLISH           "Conéctate a Internet para obtener noticias y actualizaciones de Call of Duty®: Modern Warfare® 2 Campaign Remastered."
+
+REFERENCE           PLATFORM_NOMOTD_MP 
+LANG_ENGLISH           "Bienvenido al modo multijugador de Call of Duty®: Modern Warfare® 2 Campaign Remastered."
+
+REFERENCE           PLATFORM_NORMAL_MAP_RESOLUTION_DESCRIPTION 
+LANG_ENGLISH           "Una resolución más alta permite más variaciones en la iluminación de las superficies irregulares."
+
+REFERENCE           PLATFORM_NOTSIGNEDINTOPROFILE 
+LANG_ENGLISH           "Todavía no elegiste un perfil."
+
+REFERENCE           PLATFORM_NO_FRIENDS 
+LANG_ENGLISH           "No tienes amigos en Steam."
+
+REFERENCE           PLATFORM_NO_FRIENDS_XBOXLIVE 
+LANG_ENGLISH           "No tienes amigos de Xbox Live."
+
+REFERENCE           PLATFORM_OFFENSIVE_NO_PENALTY 
+LANG_ENGLISH           "(No recibirás penalización al progreso en el juego)."
+
+REFERENCE           PLATFORM_ONLINEVAULT_MUSTLOGIN 
+LANG_ENGLISH           "Debes estar conectado a Internet para ver el archivo de videos en línea."
+
+REFERENCE           PLATFORM_ONLINE_PLAY_DOWNLOAD 
+LANG_ENGLISH           "El juego en línea no está disponible hasta que no finalice la descarga del juego completo."
+
+REFERENCE           PLATFORM_OPTIONS_COLOR_BLIND_ASSIST_DESC 
+LANG_ENGLISH           "Activa o desactiva la ayuda al daltonismo para los nombres de los jugadores."
+
+REFERENCE           PLATFORM_OPTIONS_HORIZONTAL_SENSITIVITY_DESC 
+LANG_ENGLISH           "Ajusta la sensibilidad horizontal de los sticks del control."
+
+REFERENCE           PLATFORM_OPTIONS_VERTICAL_SENSITIVITY_DESC 
+LANG_ENGLISH           "Ajusta la sensibilidad vertical de los sticks del control."
+
+REFERENCE           PLATFORM_OPTIONS_VIBRATION_DESC 
+LANG_ENGLISH           "Activa o desactiva la función de vibración."
+
+REFERENCE           PLATFORM_P2PAUTH_BAD_CLIENT 
+LANG_ENGLISH           "Desconectado por cliente defectuoso."
+
+REFERENCE           PLATFORM_P2PAUTH_BAD_HOST 
+LANG_ENGLISH           "Desconectado por host defectuoso."
+
+REFERENCE           PLATFORM_P2PAUTH_BAD_SELF 
+LANG_ENGLISH           "Desconectado por agotar el tiempo de espera del VAC."
+
+REFERENCE           PLATFORM_P2PAUTH_BAD_SELF_INVALID_TICKET 
+LANG_ENGLISH           "Desconectado por el VAC."
+
+REFERENCE           PLATFORM_P2PAUTH_INVALID_PLAYER 
+LANG_ENGLISH           "Tu cuenta está inhabilitada en el VAC y no puedes jugar en línea."
+
+REFERENCE           PLATFORM_PAGE_BUTTONS 
+LANG_ENGLISH           ""
+
+REFERENCE           PLATFORM_PAGE_DOWN 
+LANG_ENGLISH           "Av Pág"
+
+REFERENCE           PLATFORM_PAGE_DOWN_BUTTON_GAMEPAD 
+LANG_ENGLISH           ""
+
+REFERENCE           PLATFORM_PAGE_DOWN_CAPS 
+LANG_ENGLISH           "AVPÁG"
+
+REFERENCE           PLATFORM_PAGE_DOWN_SHORTCUT 
+LANG_ENGLISH           "Av Pág ^2PGDN^7"
+
+REFERENCE           PLATFORM_PAGE_UP 
+LANG_ENGLISH           "Re Pág"
+
+REFERENCE           PLATFORM_PAGE_UP_BUTTON_GAMEPAD 
+LANG_ENGLISH           ""
+
+REFERENCE           PLATFORM_PAGE_UP_CAPS 
+LANG_ENGLISH           "REPÁG"
+
+REFERENCE           PLATFORM_PAGE_UP_SHORTCUT 
+LANG_ENGLISH           "Re Pág ^2PGUP^7"
+
+REFERENCE           PLATFORM_PICKUPNEWWEAPON 
+LANG_ENGLISH           "Oprime^3 &&1 ^7para recoger"
+
+REFERENCE           PLATFORM_PICKUPNEWWEAPONGAMEPAD 
+LANG_ENGLISH           "Mantén^3 &&1 ^7para recoger"
+
+REFERENCE           PLATFORM_PICK_UP_DOUBLE_TAP 
+LANG_ENGLISH           "Oprime^3 &&1 ^7para recoger Doble tiro."
+
+REFERENCE           PLATFORM_PICK_UP_JUGGERNAUT 
+LANG_ENGLISH           "Oprime^3 &&1 ^7para recoger Juggernaut."
+
+REFERENCE           PLATFORM_PICK_UP_LAST_STAND 
+LANG_ENGLISH           "Oprime^3 &&1 ^7para recoger Última batalla."
+
+REFERENCE           PLATFORM_PICK_UP_MARTYRDOM 
+LANG_ENGLISH           "Oprime^3 &&1 ^7para recoger Martirio."
+
+REFERENCE           PLATFORM_PICK_UP_SLEIGHT_OF_HAND 
+LANG_ENGLISH           "Oprime^3 &&1 ^7para recoger Prestidigitación."
+
+REFERENCE           PLATFORM_PICK_UP_STOPPING_POWER 
+LANG_ENGLISH           "Oprime^3 &&1 ^7para recoger Fuerza vulnerante."
+
+REFERENCE           PLATFORM_PLAYLIST_REQUIRES_DLC 
+LANG_ENGLISH           "Esta lista requiere mapas que no tienes. Puedes descargarlos desde Steam."
+
+REFERENCE           PLATFORM_PLAYLIST_REQUIRES_DLC_XBOXLIVE 
+LANG_ENGLISH           "Esta lista de partidas requiere un paquete de mapas que no tienes. Puedes descargar paquetes de mapas desde la Tienda Xbox."
+
+REFERENCE           PLATFORM_PLAY_ONLINE 
+LANG_ENGLISH           "Jugar en línea"
+
+REFERENCE           PLATFORM_PLAY_ONLINE_CAPS 
+LANG_ENGLISH           "JUGAR"
+
+REFERENCE           PLATFORM_PLAY_ONLINE_DESC 
+LANG_ENGLISH           "Juega en línea en el modo multijugador de Call of Duty®: Modern Warfare® 2 Campaign Remastered."
+
+REFERENCE           PLATFORM_POPUP_CONNECTION 
+LANG_ENGLISH           "Conectando con servicios en línea"
+
+REFERENCE           PLATFORM_POST_AA_DESCRIPTION 
+LANG_ENGLISH           "Efecto de posprocesamiento para reducir el aliasing. No se recomienda el uso de SMAA T2x y SMAA fílmico T2x en sistemas NVIDIA SLI® o AMD Crossfire™, ya que provocarían una disminución considerable del rendimiento."
+
+REFERENCE           PLATFORM_PREDATOR_MISSILE_AIM 
+LANG_ENGLISH           "Maniobrar"
+
+REFERENCE           PLATFORM_PREDATOR_MISSILE_AIM_GPAD 
+LANG_ENGLISH           " Dirigir"
+
+REFERENCE           PLATFORM_PREDATOR_MISSILE_BOOST 
+LANG_ENGLISH           "[{+attack}] Acelerar"
+
+REFERENCE           PLATFORM_PRESS_1_TO_USE_YOUR_BINOCULARS 
+LANG_ENGLISH           "Oprime^3 &&1 ^7para usar los prismáticos."
+
+REFERENCE           PLATFORM_PRESS_BUTTON_TO_CONFIRM_TARGET 
+LANG_ENGLISH           "Oprime ^3[Left Mouse]^7 para confirmar objetivo."
+
+REFERENCE           PLATFORM_PRESS_BUTTON_TO_CONFIRM_TARGET_GAMEPAD 
+LANG_ENGLISH           "Oprime  para confirmar objetivo."
+
+REFERENCE           PLATFORM_PRESS_START_BUTTON 
+LANG_ENGLISH           "Oprime "
+
+REFERENCE           PLATFORM_PRESS_START_PC 
+LANG_ENGLISH           "Oprime INTRO"
+
+REFERENCE           PLATFORM_PRESS_TO_COPYCAT 
+LANG_ENGLISH           "¡Oprime^3 [{weapnext}] ^7para robar su clase!"
+
+REFERENCE           PLATFORM_PRESS_TO_RESPAWN 
+LANG_ENGLISH           "Oprime^3 [{+activate}] ^7para reaparecer."
+
+REFERENCE           PLATFORM_PRESS_TO_RESPAWN_CAPS 
+LANG_ENGLISH           "REAPARECER ^3 [{+activate}] ^7"
+
+REFERENCE           PLATFORM_PRESS_TO_SAFESPAWN 
+LANG_ENGLISH           "[{+frag}] Reaparición segura"
+
+REFERENCE           PLATFORM_PRESS_TO_SET_AIRSTRIKE 
+LANG_ENGLISH           "Oprime Disparo para fijar la ubicación del ataque aéreo."
+
+REFERENCE           PLATFORM_PRESS_TO_SKIP 
+LANG_ENGLISH           "Oprime^3 [{+activate}] ^7para omitir."
+
+REFERENCE           PLATFORM_PRESS_TO_SKIP_CAPS 
+LANG_ENGLISH           "OMITIR^3 [{+activate}] ^7"
+
+REFERENCE           PLATFORM_PRESS_TO_SPAWN 
+LANG_ENGLISH           "Oprime^3 [{+activate}] ^7para reaparecer."
+
+REFERENCE           PLATFORM_PRESS_TO_TEAMSPAWN 
+LANG_ENGLISH           "[{weapnext}] ¡Aparece con tu compañero!"
+
+REFERENCE           PLATFORM_QUIT 
+LANG_ENGLISH           "Salir"
+
+REFERENCE           PLATFORM_RAGDOLL_DESC 
+LANG_ENGLISH           "Activa la función muñeco al morir el personaje."
+
+REFERENCE           PLATFORM_READING_SAVE_DEVICE 
+LANG_ENGLISH           "LEYENDO DISCO DURO"
+
+REFERENCE           PLATFORM_REFRESH_SHORTCUT 
+LANG_ENGLISH           "Actualizar ^2F1^7"
+
+REFERENCE           PLATFORM_RELOAD 
+LANG_ENGLISH           "Recargar"
+
+REFERENCE           PLATFORM_RELOAD_CAPS 
+LANG_ENGLISH           "RECARGAR"
+
+REFERENCE           PLATFORM_RELOAD_GAMEPAD 
+LANG_ENGLISH           " Recargar"
+
+REFERENCE           PLATFORM_RELOAD_GAMEPAD_CAPS 
+LANG_ENGLISH           " RECARGAR"
+
+REFERENCE           PLATFORM_REMOTE_UAV_ASCEND 
+LANG_ENGLISH           "^3[{+gostand}]^7 Ascender"
+
+REFERENCE           PLATFORM_REMOTE_UAV_DESCEND 
+LANG_ENGLISH           "Descender ^3[{+sprint}]^7"
+
+REFERENCE           PLATFORM_REMOVELASTGUN_SHORTCUT 
+LANG_ENGLISH           "Quitar última arma ^2F1^7"
+
+REFERENCE           PLATFORM_RENAME_CHARACTER 
+LANG_ENGLISH           "^3 &&1 ^7 Renombrar"
+
+REFERENCE           PLATFORM_RESTRICT_SHORTCUT 
+LANG_ENGLISH           "Restringir ^2botón derecho del ratón^7/^2F1^7"
+
+REFERENCE           PLATFORM_RESUPPLY 
+LANG_ENGLISH           "[{+activate}] Reabastecer"
+
+REFERENCE           PLATFORM_REVIVE 
+LANG_ENGLISH           "[{+activate}] Reanimar jugador"
+
+REFERENCE           PLATFORM_RIGHT_STICK_GAMEPAD 
+LANG_ENGLISH           ""
+
+REFERENCE           PLATFORM_RULES_TOGGLE_ROTATION_OFF 
+LANG_ENGLISH           "Desactivar rotación de mapas ^2F1^7"
+
+REFERENCE           PLATFORM_RULES_TOGGLE_ROTATION_ON 
+LANG_ENGLISH           "Activar rotación de mapas ^2F1^7"
+
+REFERENCE           PLATFORM_SAVE 
+LANG_ENGLISH           "- Oprime^3 &&1 ^7para seguir al jugador siguiente"
+
+REFERENCE           PLATFORM_SAVESETTINGS_SHORTCUT 
+LANG_ENGLISH           "Guardar ajustes ^2F1^7"
+
+REFERENCE           PLATFORM_SAVETOVAULT_SHORTCUT 
+LANG_ENGLISH           "Guardar en archivo de videos ^2botón derecho del ratón^7/^2F1^7"
+
+REFERENCE           PLATFORM_SAVE_AND_QUIT 
+LANG_ENGLISH           "Guardar y salir"
+
+REFERENCE           PLATFORM_SCOREBOARD 
+LANG_ENGLISH           "^3&&1^7 - Puntos"
+
+REFERENCE           PLATFORM_SCOREBOARD_GAMEPAD 
+LANG_ENGLISH           "&&1 Puntos"
+
+REFERENCE           PLATFORM_SCREEN_REFRESH_RATE_DESCRIPTION 
+LANG_ENGLISH           "La frecuencia con la que se renderiza la pantalla; más Hz permiten un movimiento más fluido. Solo disponible en pantalla completa."
+
+REFERENCE           PLATFORM_SHADER_POPULATE_CACHE_BUTTON 
+LANG_ENGLISH           "Llenar caché"
+
+REFERENCE           PLATFORM_SHADER_POPULATE_CACHE_BUTTON_DESC 
+LANG_ENGLISH           "Reanuda o reinicia el proceso de almacenamiento de shaders."
+
+REFERENCE           PLATFORM_SHADER_PRECACHE_ALLDONE 
+LANG_ENGLISH           "Se llenó la caché de shaders."
+
+REFERENCE           PLATFORM_SHADER_PRECACHE_BUTTON 
+LANG_ENGLISH           "Caché de shaders"
+
+REFERENCE           PLATFORM_SHADER_PRECACHE_BUTTON_DESC 
+LANG_ENGLISH           "Activa o desactiva la caché de shaders. Almacenar shaders puede evitar los cortes durante el juego."
+
+REFERENCE           PLATFORM_SHADER_PRECACHE_DESC 
+LANG_ENGLISH           "La caché de shaders se está llenando. Esto puede tardar unos minutos."
+
+REFERENCE           PLATFORM_SHADER_PRECACHE_QUESTION 
+LANG_ENGLISH           "Reanuda el proceso de almacenamiento de shaders desde donde lo dejaste o reinicia el proceso desde el principio."
+
+REFERENCE           PLATFORM_SHADER_PRECACHE_QUESTION_TITLE 
+LANG_ENGLISH           "Caché de shaders"
+
+REFERENCE           PLATFORM_SHADER_PRECACHE_RESTART 
+LANG_ENGLISH           "Reiniciar"
+
+REFERENCE           PLATFORM_SHADER_PRECACHE_RESUME 
+LANG_ENGLISH           "Reanudar"
+
+REFERENCE           PLATFORM_SHADER_PRECACHE_WARNING 
+LANG_ENGLISH           "Cancelar el almacenamiento de shaders en caché puede provocar cortes durante el juego."
+
+REFERENCE           PLATFORM_SHADER_PRELOAD_AFTER_CINEMATIC_DESCRIPTION 
+LANG_ENGLISH           "Realiza cargas previas de los shaders durante los videos de carga de los niveles. Esto reducirá los tiempos de carga, pero podría provocar cortes durante los videos."
+
+REFERENCE           PLATFORM_SHADER_PRELOAD_DESCRIPTION 
+LANG_ENGLISH           "Carga los shaders antes de jugar. Esto aumentará el tiempo de carga de los niveles pero evitará que se produzcan cortes durante el juego."
+
+REFERENCE           PLATFORM_SHADOWS_DESCRIPTION 
+LANG_ENGLISH           "Proporciona sombreado de la iluminación directa."
+
+REFERENCE           PLATFORM_SHADOW_MAP_RESOLUTION_DESCRIPTION 
+LANG_ENGLISH           "Una resolución más alta permite sombras más nítidas y de mayor calidad."
+
+REFERENCE           PLATFORM_SHOW_GROUPS 
+LANG_ENGLISH           "Mostrar grupos"
+
+REFERENCE           PLATFORM_SMAA_1X 
+LANG_ENGLISH           "SMAA 1x"
+
+REFERENCE           PLATFORM_SMAA_T2X 
+LANG_ENGLISH           "SMAA T2x"
+
+REFERENCE           PLATFORM_SPECULAR_MAP_RESOLUTION_DESCRIPTION 
+LANG_ENGLISH           "Una resolución más alta permite más variaciones en los brillos de las superficies irregulares."
+
+REFERENCE           PLATFORM_SSAO 
+LANG_ENGLISH           "Oclusión ambiental en pantalla"
+
+REFERENCE           PLATFORM_SSAO_DESCRIPTION 
+LANG_ENGLISH           "Proporciona un sombreado suave a pequeña escala de la iluminación indirecta."
+
+REFERENCE           PLATFORM_STANCEHINT_CROUCH 
+LANG_ENGLISH           "Oprime ^3&&1^7 para agacharte."
+
+REFERENCE           PLATFORM_STANCEHINT_JUMP 
+LANG_ENGLISH           "Oprime ^3&&1^7 para saltar."
+
+REFERENCE           PLATFORM_STANCEHINT_PRONE 
+LANG_ENGLISH           "Oprime ^3&&1^7 para echarte cuerpo a tierra."
+
+REFERENCE           PLATFORM_STANCEHINT_STAND 
+LANG_ENGLISH           "Oprime ^3&&1^7 para ponerte de pie."
+
+REFERENCE           PLATFORM_STATSREADERROR 
+LANG_ENGLISH           "Se produjo un error al leer los datos de estadísticas. Tus estadísticas se han reiniciado."
+
+REFERENCE           PLATFORM_STEAM_AUTH_DENIED 
+LANG_ENGLISH           "Error de autenticación de Steam."
+
+REFERENCE           PLATFORM_STEAM_CONNECT_FAIL 
+LANG_ENGLISH           "Error de conexión a Steam."
+
+REFERENCE           PLATFORM_STEAM_DISCONNECTED 
+LANG_ENGLISH           "Desconectado de Steam."
+
+REFERENCE           PLATFORM_STEAM_JOIN_FAIL 
+LANG_ENGLISH           "Error en la sala de Steam."
+
+REFERENCE           PLATFORM_STEAM_KICK_CHEAT 
+LANG_ENGLISH           "Cheat detectado."
+
+REFERENCE           PLATFORM_STEAM_OFFLINE 
+LANG_ENGLISH           "Para jugar en línea debes iniciar sesión en Steam."
+
+REFERENCE           PLATFORM_STORE_DESC 
+LANG_ENGLISH           "Comprar contenido descargable del juego."
+
+REFERENCE           PLATFORM_SUBSURFACE_SCATTERING_DESCRIPTION 
+LANG_ENGLISH           "Simulación de transporte de luz a través de materiales semitranslúcidos."
+
+REFERENCE           PLATFORM_SUMMARY_BUTTON 
+LANG_ENGLISH           "G"
+
+REFERENCE           PLATFORM_SUPERSAMPLING_DESCRIPTION 
+LANG_ENGLISH           "Renderiza más píxeles para reducir el efecto de aliasing; mejora la fidelidad de la imagen."
+
+REFERENCE           PLATFORM_SWAPWEAPONS 
+LANG_ENGLISH           "Oprime^3 &&1 ^7para cambiar por"
+
+REFERENCE           PLATFORM_SWAPWEAPONSGAMEPAD 
+LANG_ENGLISH           "Mantén^3 &&1 ^7para"
+
+REFERENCE           PLATFORM_SYNC_EVERY_FRAME_DESCRIPTION 
+LANG_ENGLISH           "Espera a que el monitor se actualice antes de mostrar la siguiente imagen renderizada. Solo disponible en pantalla completa."
+
+REFERENCE           PLATFORM_SYSTEM_ERROR 
+LANG_ENGLISH           "Error del sistema"
+
+REFERENCE           PLATFORM_SYSTEM_LINK 
+LANG_ENGLISH           "GRUPO EN LAN"
+
+REFERENCE           PLATFORM_SYSTEM_LINK_CAPS 
+LANG_ENGLISH           "GRUPO EN LAN"
+
+REFERENCE           PLATFORM_SYSTEM_LINK_DESC 
+LANG_ENGLISH           "Partidas privadas en una red local."
+
+REFERENCE           PLATFORM_SYSTEM_LINK_TITLE 
+LANG_ENGLISH           "GRUPO EN LAN"
+
+REFERENCE           PLATFORM_TANK_BINOCULARS 
+LANG_ENGLISH           "Oprime^3 &&1 ^7para ver a los objetivos lejanos con los prismáticos."
+
+REFERENCE           PLATFORM_TEXTURE_QUALITY_DESCRIPTION 
+LANG_ENGLISH           "Si se configura en Automático, el juego elegirá las resoluciones de texturas apropiadas para tu hardware."
+
+REFERENCE           PLATFORM_TEXTURE_RESOLUTION_DESCRIPTION 
+LANG_ENGLISH           "Una resolución más alta permite más detalles en los colores de las superficies."
+
+REFERENCE           PLATFORM_THEATER_RECORDING 
+LANG_ENGLISH           "Grabación de cine"
+
+REFERENCE           PLATFORM_THEATER_RECORDING_DESC 
+LANG_ENGLISH           "Activa o desactiva la grabación de demos en el cine."
+
+REFERENCE           PLATFORM_THERMAL_TOGGLE 
+LANG_ENGLISH           "Oprime &&1 para cambiar a térmica."
+
+REFERENCE           PLATFORM_THIRDPERSON 
+LANG_ENGLISH           "^3&&1^7 - 3ª persona"
+
+REFERENCE           PLATFORM_THIRDPERSON_GAMEPAD 
+LANG_ENGLISH           " 3ª persona"
+
+REFERENCE           PLATFORM_THROWBACKGRENADE 
+LANG_ENGLISH           "^3&&1 ^7devolver"
+
+REFERENCE           PLATFORM_TOP 
+LANG_ENGLISH           "Inicio"
+
+REFERENCE           PLATFORM_TOP_OF_LIST_CAPS 
+LANG_ENGLISH           "INICIO"
+
+REFERENCE           PLATFORM_TOP_SHORTCUT 
+LANG_ENGLISH           "Inicio ^2HOME^7"
+
+REFERENCE           PLATFORM_UNEXPECTEDDOWNLOADMESSAGE 
+LANG_ENGLISH           "Mensaje de descarga www inesperado."
+
+REFERENCE           PLATFORM_UNLOCK_KILLSTREAK 
+LANG_ENGLISH           "Haz clic para desbloquear racha de bajas."
+
+REFERENCE           PLATFORM_UPDATE_REQUIRED 
+LANG_ENGLISH           "Se necesita una actualización para acceder a las funciones en línea."
+
+REFERENCE           PLATFORM_USEAION30CAL 
+LANG_ENGLISH           "Oprime USAR^3 &&1 ^7para manejar la calibre 30."
+
+REFERENCE           PLATFORM_USEAIONMG42 
+LANG_ENGLISH           "Oprime USAR^3 &&1 ^7para manejar la MG42."
+
+REFERENCE           PLATFORM_USEFLAK88 
+LANG_ENGLISH           "Oprime USAR^3 &&1 ^7para usar el FlaK de 88."
+
+REFERENCE           PLATFORM_USEFLAKVIERLING 
+LANG_ENGLISH           "Oprime USAR^3 &&1 ^7para usar el antiaéreo Vierling."
+
+REFERENCE           PLATFORM_USEONLINESTATS_FALSE 
+LANG_ENGLISH           "Desbloqueos de IwNet: No"
+
+REFERENCE           PLATFORM_USEONLINESTATS_TRUE 
+LANG_ENGLISH           "Desbloqueos de IwNet: Sí"
+
+REFERENCE           PLATFORM_USE_BUTTONLOOK_TO_AIM 
+LANG_ENGLISH           "Mantén ^3[Right Mouse]^7 para apuntar."
+
+REFERENCE           PLATFORM_USE_BUTTONLOOK_TO_AIM_GAMEPAD 
+LANG_ENGLISH           "Usa  para apuntar."
+
+REFERENCE           PLATFORM_USE_BUTTONMOVE_TO_POSITION 
+LANG_ENGLISH           "Usa el ratón para determinar posición."
+
+REFERENCE           PLATFORM_USE_BUTTONMOVE_TO_POSITION_GAMEPAD 
+LANG_ENGLISH           "Usa  para colocar."
+
+REFERENCE           PLATFORM_UWP_UPDATE_REQUIRED_BUTTON 
+LANG_ENGLISH           "Salir de la aplicación e ir a la tienda"
+
+REFERENCE           PLATFORM_UWP_UPDATE_REQUIRED_DESC 
+LANG_ENGLISH           "Se necesita una actualización para jugar a este juego."
+
+REFERENCE           PLATFORM_VEH_BOOST 
+LANG_ENGLISH           "[Space] Turbo"
+
+REFERENCE           PLATFORM_VEH_BRAKE 
+LANG_ENGLISH           "[S] Marcha atrás"
+
+REFERENCE           PLATFORM_VEH_FIRE 
+LANG_ENGLISH           "[Left Mouse] Disparar"
+
+REFERENCE           PLATFORM_VEH_THROTTLE 
+LANG_ENGLISH           "[W] Acelerar"
+
+REFERENCE           PLATFORM_VIEW_CHALLENGES 
+LANG_ENGLISH           "^3F2^0-^7 Ver desafíos"
+
+REFERENCE           PLATFORM_VIEW_CHALLENGE_DETAILS 
+LANG_ENGLISH           "^3F2^0-^7 Detalles de desafío"
+
+REFERENCE           PLATFORM_VOTE_NO 
+LANG_ENGLISH           "Votar No"
+
+REFERENCE           PLATFORM_VOTE_YES 
+LANG_ENGLISH           "Votar Sí"
+
+REFERENCE           PLATFORM_WARNING_AUTOSAVE 
+LANG_ENGLISH           "Este juego guarda datos automáticamente en ciertos puntos. No apagues el sistema cuando aparezca el mensaje "Guardando..."."
+
+REFERENCE           PLATFORM_WHILE_LOOKING_THROUGH 
+LANG_ENGLISH           "Mientras miras por los prismáticos oprime USAR^3 &&1 ^7para solicitar artillería."
+
+REFERENCE           PLATFORM_YES 
+LANG_ENGLISH           "Sí"
+
+REFERENCE           PLATFORM_Y_BUTTON 
+LANG_ENGLISH           "^3F1^7"
+
+REFERENCE           PLATFORM_Y_BUTTON_GAMEPAD 
+LANG_ENGLISH           ""
+
+REFERENCE           SPEECH_CONTACT 
+LANG_ENGLISH           "Contacto"
+
+REFERENCE           SPEECH_EMP 
+LANG_ENGLISH           "PEM"
+
+REFERENCE           SPEECH_FLASH 
+LANG_ENGLISH           "Cegadora"
+
+REFERENCE           SPEECH_FRAG 
+LANG_ENGLISH           "Fragmentación"
+
+REFERENCE           SPEECH_NEXT 
+LANG_ENGLISH           "Siguiente"
+
+REFERENCE           SPEECH_PAUSE 
+LANG_ENGLISH           "Pausa"
+
+REFERENCE           SPEECH_PREVIOUS 
+LANG_ENGLISH           "Anterior"
+
+REFERENCE           SPEECH_SAY_AND_ONE_OF_THE_FOLLOWING 
+LANG_ENGLISH           "Di "Advanced Warfare", "A W" o "Call of Duty" y uno de los siguientes comandos:"
+
+REFERENCE           SPEECH_SHOW_MENU 
+LANG_ENGLISH           "Mostrar menú"
+
+REFERENCE           SPEECH_SMART 
+LANG_ENGLISH           "Inteligente"
+
+REFERENCE           SPEECH_SURVIVAL 
+LANG_ENGLISH           "Sobrevivencia"
+
+REFERENCE           SPEECH_THREAT 
+LANG_ENGLISH           "Marca"
+
+REFERENCE           SPEECH_UNPAUSE 
+LANG_ENGLISH           "Continuar"
+
+ENDMARKER

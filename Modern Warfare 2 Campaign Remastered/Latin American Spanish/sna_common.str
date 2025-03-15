@@ -1,0 +1,706 @@
+// Dumped from fastfile "sna_common".
+// In their original format the strings might have been separated in multiple files.
+
+VERSION             "1"
+FILENOTES           ""
+
+REFERENCE           ELEVATOR_CALL_HINT 
+LANG_ENGLISH           "Mantén^3 &&1 ^7para llamar al elevador."
+
+REFERENCE           ELEVATOR_CALL_HINT_PC 
+LANG_ENGLISH           "Oprime^3 &&1 ^7 para llamar al elevador."
+
+REFERENCE           ELEVATOR_FLOOR_SELECT_HINT 
+LANG_ENGLISH           "Mantén &&1 para elegir el piso."
+
+REFERENCE           ELEVATOR_USE_HINT 
+LANG_ENGLISH           "Mantén^3 &&1 ^7para usar el elevador."
+
+REFERENCE           ELEVATOR_USE_HINT_PC 
+LANG_ENGLISH           "Oprime^3 &&1 ^7para usar el elevador."
+
+REFERENCE           LUA_HUD_CAPSLOCK 
+LANG_ENGLISH           "Bloq Mayús"
+
+REFERENCE           LUA_HUD_CTRL 
+LANG_ENGLISH           "Ctrl"
+
+REFERENCE           LUA_HUD_DEL 
+LANG_ENGLISH           "Supr"
+
+REFERENCE           LUA_HUD_DOWNARROW 
+LANG_ENGLISH           "Abajo"
+
+REFERENCE           LUA_HUD_END 
+LANG_ENGLISH           "Fin"
+
+REFERENCE           LUA_HUD_ENTER 
+LANG_ENGLISH           "Intro"
+
+REFERENCE           LUA_HUD_HOME 
+LANG_ENGLISH           "Inicio"
+
+REFERENCE           LUA_HUD_INS 
+LANG_ENGLISH           "Insert"
+
+REFERENCE           LUA_HUD_KP_5 
+LANG_ENGLISH           "Num. 5"
+
+REFERENCE           LUA_HUD_KP_DEL 
+LANG_ENGLISH           "Num."
+
+REFERENCE           LUA_HUD_KP_DOWNARROW 
+LANG_ENGLISH           "Num. 2"
+
+REFERENCE           LUA_HUD_KP_END 
+LANG_ENGLISH           "Num. 1"
+
+REFERENCE           LUA_HUD_KP_ENTER 
+LANG_ENGLISH           "Num Intro"
+
+REFERENCE           LUA_HUD_KP_HOME 
+LANG_ENGLISH           "Num. 7"
+
+REFERENCE           LUA_HUD_KP_INS 
+LANG_ENGLISH           "Num. 0"
+
+REFERENCE           LUA_HUD_KP_LEFTARROW 
+LANG_ENGLISH           "Num. 4"
+
+REFERENCE           LUA_HUD_KP_MINUS 
+LANG_ENGLISH           "Num. -"
+
+REFERENCE           LUA_HUD_KP_NUMLOCK 
+LANG_ENGLISH           "Num"
+
+REFERENCE           LUA_HUD_KP_PGDN 
+LANG_ENGLISH           "Num. 3"
+
+REFERENCE           LUA_HUD_KP_PGUP 
+LANG_ENGLISH           "Num. 9"
+
+REFERENCE           LUA_HUD_KP_PLUS 
+LANG_ENGLISH           "Num. +"
+
+REFERENCE           LUA_HUD_KP_RIGHTARROW 
+LANG_ENGLISH           "Num. 6"
+
+REFERENCE           LUA_HUD_KP_SLASH 
+LANG_ENGLISH           "Num. /"
+
+REFERENCE           LUA_HUD_KP_STAR 
+LANG_ENGLISH           "Num. *"
+
+REFERENCE           LUA_HUD_KP_UPARROW 
+LANG_ENGLISH           "Num. 8"
+
+REFERENCE           LUA_HUD_LEFTARROW 
+LANG_ENGLISH           "Izquierda"
+
+REFERENCE           LUA_HUD_MOUSE1 
+LANG_ENGLISH           "CLIC IZQ."
+
+REFERENCE           LUA_HUD_MOUSE2 
+LANG_ENGLISH           "CLIC DER."
+
+REFERENCE           LUA_HUD_MOUSE3 
+LANG_ENGLISH           "m3"
+
+REFERENCE           LUA_HUD_MOUSE4 
+LANG_ENGLISH           "m4"
+
+REFERENCE           LUA_HUD_MOUSE5 
+LANG_ENGLISH           "m5"
+
+REFERENCE           LUA_HUD_MWHEELDOWN 
+LANG_ENGLISH           "RuedaAB"
+
+REFERENCE           LUA_HUD_MWHEELUP 
+LANG_ENGLISH           "RuedaARR"
+
+REFERENCE           LUA_HUD_PGDN 
+LANG_ENGLISH           "AvPág"
+
+REFERENCE           LUA_HUD_PGUP 
+LANG_ENGLISH           "RePág"
+
+REFERENCE           LUA_HUD_RIGHTARROW 
+LANG_ENGLISH           "Derecha"
+
+REFERENCE           LUA_HUD_SHIFT 
+LANG_ENGLISH           "Mayús"
+
+REFERENCE           LUA_HUD_SPACE 
+LANG_ENGLISH           "Espacio"
+
+REFERENCE           LUA_HUD_TAB 
+LANG_ENGLISH           "Tab"
+
+REFERENCE           LUA_HUD_UNBOUND 
+LANG_ENGLISH           "¿?"
+
+REFERENCE           LUA_HUD_UPARROW 
+LANG_ENGLISH           "Arriba"
+
+REFERENCE           VIDSUBTITLES_AF_CAVES_VIDEO11 
+LANG_ENGLISH           "^2MacTavish: ^7Tenemos un solo UMP bueno, ellos tienen mil."
+
+REFERENCE           VIDSUBTITLES_AF_CAVES_VIDEO110 
+LANG_ENGLISH           "^2Price: ^7Pero la arena y las rocas aquí están manchadas por miles de años de guerra..."
+
+REFERENCE           VIDSUBTITLES_AF_CAVES_VIDEO111 
+LANG_ENGLISH           "^2Price: ^7Nos recordarán. Por esto."
+
+REFERENCE           VIDSUBTITLES_AF_CAVES_VIDEO112 
+LANG_ENGLISH           "^2Price: ^7Porque, de todas las posibles pesadillas, esta es la que escogimos para nosotros."
+
+REFERENCE           VIDSUBTITLES_AF_CAVES_VIDEO113 
+LANG_ENGLISH           "^2Price: ^7Avanzamos como un aliento exhalado por la Tierra."
+
+REFERENCE           VIDSUBTITLES_AF_CAVES_VIDEO114 
+LANG_ENGLISH           "^2Price: ^7Con vigor en el corazón y un objetivo en mente."
+
+REFERENCE           VIDSUBTITLES_AF_CAVES_VIDEO115 
+LANG_ENGLISH           "^2Price: ^7Lo. Vamos."
+
+REFERENCE           VIDSUBTITLES_AF_CAVES_VIDEO116 
+LANG_ENGLISH           "^2Price: ^7A matar."
+
+REFERENCE           VIDSUBTITLES_AF_CAVES_VIDEO12 
+LANG_ENGLISH           "^2MacTavish: ^7Ni siquiera sabemos si la inteligencia de Makarov es buena."
+
+REFERENCE           VIDSUBTITLES_AF_CAVES_VIDEO13 
+LANG_ENGLISH           "^2MacTavish: ^7Price."
+
+REFERENCE           VIDSUBTITLES_AF_CAVES_VIDEO14 
+LANG_ENGLISH           "^2MacTavish: ^7¿Price?"
+
+REFERENCE           VIDSUBTITLES_AF_CAVES_VIDEO15 
+LANG_ENGLISH           "^2Price: ^7La sana mente humana no se despierta en la mañana pensando que este será su último día en la Tierra."
+
+REFERENCE           VIDSUBTITLES_AF_CAVES_VIDEO16 
+LANG_ENGLISH           "^2Price: ^7Pero yo creo que eso es un lujo, no una maldición."
+
+REFERENCE           VIDSUBTITLES_AF_CAVES_VIDEO17 
+LANG_ENGLISH           "^2Price: ^7Saber que te acercas al fin es una especie de liberación."
+
+REFERENCE           VIDSUBTITLES_AF_CAVES_VIDEO18 
+LANG_ENGLISH           "^2Price: ^7Buen momento para hacer inventario."
+
+REFERENCE           VIDSUBTITLES_AF_CAVES_VIDEO19 
+LANG_ENGLISH           "^2Price: ^7Son más, están mejor armados. Estamos locos. Esto es una misión suicida."
+
+REFERENCE           VIDSUBTITLES_AF_CHASE_VIDEO117 
+LANG_ENGLISH           "^2Price: ^7Esto quedará en los registros."
+
+REFERENCE           VIDSUBTITLES_AF_CHASE_VIDEO118 
+LANG_ENGLISH           "^2Price: ^7La historia la escribe el vencedor."
+
+REFERENCE           VIDSUBTITLES_AF_CHASE_VIDEO119 
+LANG_ENGLISH           "^2Price: ^7La historia está repleta de mentirosos."
+
+REFERENCE           VIDSUBTITLES_AF_CHASE_VIDEO120 
+LANG_ENGLISH           "^2Price: ^7Si él vive y nosotros morimos, su verdad prevalecerá."
+
+REFERENCE           VIDSUBTITLES_AF_CHASE_VIDEO121 
+LANG_ENGLISH           "^2Price: ^7Y la nuestra perecerá."
+
+REFERENCE           VIDSUBTITLES_AF_CHASE_VIDEO122 
+LANG_ENGLISH           "^2Price: ^7Shepherd será un héroe... porque todo lo que se necesita para cambiar el mundo es una buena mentira y un río de sangre."
+
+REFERENCE           VIDSUBTITLES_AF_CHASE_VIDEO123 
+LANG_ENGLISH           "^2Price: ^7Está a punto de culminar el mayor truco que un mentiroso pudo jugarle a la historia."
+
+REFERENCE           VIDSUBTITLES_AF_CHASE_VIDEO124 
+LANG_ENGLISH           "^2Price: ^7Su verdad será la verdad."
+
+REFERENCE           VIDSUBTITLES_AF_CHASE_VIDEO125 
+LANG_ENGLISH           "^2Price: ^7Pero solo si él vive y nosotros morimos."
+
+REFERENCE           VIDSUBTITLES_AIRPORT_VIDEO1187 
+LANG_ENGLISH           "^2Shepherd: ^7No le teme a la tortura, el tráfico de personas ni el genocidio."
+
+REFERENCE           VIDSUBTITLES_AIRPORT_VIDEO126 
+LANG_ENGLISH           "^2Shepherd: ^7El resto de la fuerza 141 recuperó el ACS, Allen."
+
+REFERENCE           VIDSUBTITLES_AIRPORT_VIDEO127 
+LANG_ENGLISH           "^2Shepherd: ^7Dos hombres arrasaron una base entera. A usted le pido más aún."
+
+REFERENCE           VIDSUBTITLES_AIRPORT_VIDEO128 
+LANG_ENGLISH           "^2Shepherd: ^7Ayer era usted un soldado en el frente, pero hoy el frente es historia."
+
+REFERENCE           VIDSUBTITLES_AIRPORT_VIDEO129 
+LANG_ENGLISH           "^2Shepherd: ^7Los uniformes son reliquias. No hay rincón a salvo de la guerra. Y habrá bajas."
+
+REFERENCE           VIDSUBTITLES_AIRPORT_VIDEO130 
+LANG_ENGLISH           "^2Shepherd: ^7Ese tal Makarov libra su propia guerra sin atenerse a normas. Sin límites."
+
+REFERENCE           VIDSUBTITLES_AIRPORT_VIDEO131 
+LANG_ENGLISH           "^2Shepherd: ^7No es leal a ninguna bandera, a ningún país, a ningún ideal. Cambia sangre por dinero."
+
+REFERENCE           VIDSUBTITLES_AIRPORT_VIDEO133 
+LANG_ENGLISH           "^2Shepherd: ^7Será su nuevo mejor amigo."
+
+REFERENCE           VIDSUBTITLES_AIRPORT_VIDEO134 
+LANG_ENGLISH           "^2Shepherd: ^7No le gustaría saber lo que nos costó ponerlo a su lado."
+
+REFERENCE           VIDSUBTITLES_AIRPORT_VIDEO135 
+LANG_ENGLISH           "^2Shepherd: ^7Tendrá que hacer un gran sacrificio."
+
+REFERENCE           VIDSUBTITLES_AIRPORT_VIDEO136 
+LANG_ENGLISH           "^2Shepherd: ^7Pero no será nada comparado con lo que conseguirá."
+
+REFERENCE           VIDSUBTITLES_ARCADIA_VIDEO138 
+LANG_ENGLISH           "^2Shepherd: ^7Que alguien apague esa maldita tele."
+
+REFERENCE           VIDSUBTITLES_ARCADIA_VIDEO139 
+LANG_ENGLISH           "^2Shepherd: ^7Mi fuerza operativa está en otro país. Ahora dirijo su unidad, sargento Foley."
+
+REFERENCE           VIDSUBTITLES_ARCADIA_VIDEO140 
+LANG_ENGLISH           "^2Sargento Foley: ^7Sí, señor. Toda suya, señor."
+
+REFERENCE           VIDSUBTITLES_ARCADIA_VIDEO141 
+LANG_ENGLISH           "^2Shepherd: ^7Solicité un Stryker a la 8ª Acorazada."
+
+REFERENCE           VIDSUBTITLES_ARCADIA_VIDEO142 
+LANG_ENGLISH           "^2Sargento Foley: ^7Honey Badger es una zorra, señor."
+
+REFERENCE           VIDSUBTITLES_ARCADIA_VIDEO143 
+LANG_ENGLISH           "^2Shepherd: ^7Les abrirá el paso. Los rusos nos están dejando sin defensas ni inteligencia."
+
+REFERENCE           VIDSUBTITLES_ARCADIA_VIDEO144 
+LANG_ENGLISH           "^2Shepherd: ^7No podemos dejar que se apoderen de esta zona."
+
+REFERENCE           VIDSUBTITLES_ARCADIA_VIDEO145 
+LANG_ENGLISH           "^2Sargento Foley: ^7Señálela en el mapa, señor. No la capturarán."
+
+REFERENCE           VIDSUBTITLES_BONEYARD_VIDEO146 
+LANG_ENGLISH           "^2MacTavish: ^7¿Roach? ¡¿Ghost?! ¡Adelante, Ghost! ¿Me copia? ¡¿Alguien me copia?!"
+
+REFERENCE           VIDSUBTITLES_BONEYARD_VIDEO147 
+LANG_ENGLISH           "^2Price: ^7Están muertos, Soap. Shepherd está haciendo limpieza. Me dirijo hacia usted."
+
+REFERENCE           VIDSUBTITLES_BONEYARD_VIDEO148 
+LANG_ENGLISH           "^2MacTavish: ^7Shepherd nos traicionó."
+
+REFERENCE           VIDSUBTITLES_BONEYARD_VIDEO149 
+LANG_ENGLISH           "^2Price: ^7No hay traición sin confianza. Y yo nunca confío."
+
+REFERENCE           VIDSUBTITLES_BONEYARD_VIDEO150 
+LANG_ENGLISH           "^2Price: ^7Nikolai, responda. ¿Tiene nuestra posición?"
+
+REFERENCE           VIDSUBTITLES_BONEYARD_VIDEO151 
+LANG_ENGLISH           "^2Nikolai: ^7Da. Voy en camino, Price, pero no soy el único."
+
+REFERENCE           VIDSUBTITLES_BONEYARD_VIDEO152 
+LANG_ENGLISH           "^2Nikolai: ^7Tiene a los hombres de Shepherd a un lado y a los de Makarov al otro."
+
+REFERENCE           VIDSUBTITLES_BONEYARD_VIDEO153 
+LANG_ENGLISH           "^2Price: ^7Pues tendremos que eliminarlos a todos."
+
+REFERENCE           VIDSUBTITLES_BONEYARD_VIDEO154 
+LANG_ENGLISH           "^2Nikolai: ^7O que se eliminen entre ellos."
+
+REFERENCE           VIDSUBTITLES_BONEYARD_VIDEO155 
+LANG_ENGLISH           "^2Nikolai: ^7De cualquier forma, nos vemos al otro lado, amigo."
+
+REFERENCE           VIDSUBTITLES_CAMPAIGNINTRO_1 
+LANG_ENGLISH           "^2Gaz: ^7Es el nuevo, señor."
+
+REFERENCE           VIDSUBTITLES_CAMPAIGNINTRO_2 
+LANG_ENGLISH           "^2Capitán Price: ^7¿Qué clase de maldito nombre es Soap?"
+
+REFERENCE           VIDSUBTITLES_CAMPAIGNINTRO_3 
+LANG_ENGLISH           "^2Capitán Price: ^7Ahora mismo Nikolai está en el infierno. Vamos a sacarlo de allí..."
+
+REFERENCE           VIDSUBTITLES_CAMPAIGNINTRO_4 
+LANG_ENGLISH           "^2Capitán Price: ^7Cuidamos de nuestros amigos."
+
+REFERENCE           VIDSUBTITLES_CAMPAIGNINTRO_5 
+LANG_ENGLISH           "^2Capitán Price: ^7Zakhaev. Imran Zakhaev."
+
+REFERENCE           VIDSUBTITLES_CAMPAIGNINTRO_6 
+LANG_ENGLISH           "^2Zakhaev: ^7Tienen la sangre de mi hijo en sus manos."
+
+REFERENCE           VIDSUBTITLES_CAMPAIGNINTRO_7 
+LANG_ENGLISH           "^2Capitán Price: ^7Delta One X-Ray, tenemos un lanzamiento de misil, repito, tenemos un lanzamiento de..."
+
+REFERENCE           VIDSUBTITLES_CLIFFHANGER_VIDEO156 
+LANG_ENGLISH           "^2Solado Allen: ^7¿Cómo me veo?"
+
+REFERENCE           VIDSUBTITLES_CLIFFHANGER_VIDEO157 
+LANG_ENGLISH           "^2Shepherd: ^7Como uno de los malos."
+
+REFERENCE           VIDSUBTITLES_CLIFFHANGER_VIDEO158 
+LANG_ENGLISH           "^2Shepherd: ^7Perfecto para la misión encubierta."
+
+REFERENCE           VIDSUBTITLES_CLIFFHANGER_VIDEO159 
+LANG_ENGLISH           "^2Solado Allen: ^7Entonces, Makarov es el trofeo."
+
+REFERENCE           VIDSUBTITLES_CLIFFHANGER_VIDEO160 
+LANG_ENGLISH           "^2Shepherd: ^7Makarov no es ningún trofeo. Es como una puta, una bestia asesina sin compasión que se vende al mejor postor."
+
+REFERENCE           VIDSUBTITLES_CLIFFHANGER_VIDEO161 
+LANG_ENGLISH           "^2Shepherd: ^7Recuerde su nueva identidad. Lo mantendrá con vida."
+
+REFERENCE           VIDSUBTITLES_CLIFFHANGER_VIDEO162 
+LANG_ENGLISH           "^2Shepherd: ^7Bienvenido a la 141, el grupo de guerreros más selecto del mundo."
+
+REFERENCE           VIDSUBTITLES_CLIFFHANGER_VIDEO163 
+LANG_ENGLISH           "^2Solado Allen: ^7Es un honor, señor. ¿Cuándo conoceré al resto del equipo?"
+
+REFERENCE           VIDSUBTITLES_CLIFFHANGER_VIDEO164 
+LANG_ENGLISH           "^2Shepherd: ^7Están en una misión recuperando un módulo ACS tras las líneas enemigas."
+
+REFERENCE           VIDSUBTITLES_CLIFFHANGER_VIDEO165 
+LANG_ENGLISH           "^2Solado Allen: ^7¿Es su bautismo?"
+
+REFERENCE           VIDSUBTITLES_CLIFFHANGER_VIDEO166 
+LANG_ENGLISH           "^2Shepherd: ^7Sí, pero con agua que congela hasta los huesos."
+
+REFERENCE           VIDSUBTITLES_CONTINGENCY_VIDEO167 
+LANG_ENGLISH           "^2Capitán MacTavish: ^7La conexión ya casi está."
+
+REFERENCE           VIDSUBTITLES_CONTINGENCY_VIDEO168 
+LANG_ENGLISH           "^2Capitán MacTavish: ^7General Shepherd, está en línea con el capitán Price."
+
+REFERENCE           VIDSUBTITLES_CONTINGENCY_VIDEO169 
+LANG_ENGLISH           "^2Shepherd: ^7Ya está de vuelta, capitán."
+
+REFERENCE           VIDSUBTITLES_CONTINGENCY_VIDEO170 
+LANG_ENGLISH           "^2Captain Price: ^7"De la sartén a las brasas..." se podría decir."
+
+REFERENCE           VIDSUBTITLES_CONTINGENCY_VIDEO171 
+LANG_ENGLISH           "^2Capitán Price: ^7Este mundo se parece más al infierno que el que acabo de dejar."
+
+REFERENCE           VIDSUBTITLES_CONTINGENCY_VIDEO172 
+LANG_ENGLISH           "^2Shepherd: ^7Creímos haber encontrado el ACS antes que los rusos."
+
+REFERENCE           VIDSUBTITLES_CONTINGENCY_VIDEO173 
+LANG_ENGLISH           "^2Shepherd: ^7Pero no fue así."
+
+REFERENCE           VIDSUBTITLES_CONTINGENCY_VIDEO174 
+LANG_ENGLISH           "^2Shepherd: ^7Luego Makarov hizo de los EE. UU. su chivo expiatorio. Y de repente, todo envuelto en llamas."
+
+REFERENCE           VIDSUBTITLES_CONTINGENCY_VIDEO175 
+LANG_ENGLISH           "^2Shepherd: ^7¿Qué es esta imagen que me envía?"
+
+REFERENCE           VIDSUBTITLES_CONTINGENCY_VIDEO176 
+LANG_ENGLISH           "^2Capitán Price: ^7Señor, si quiere apagar un incendio petrolífero, tiene provocar una explosión enorme junto a él."
+
+REFERENCE           VIDSUBTITLES_CONTINGENCY_VIDEO177 
+LANG_ENGLISH           "^2Capitán Price: ^7Absorbe el oxígeno y apaga las llamas."
+
+REFERENCE           VIDSUBTITLES_CONTINGENCY_VIDEO178 
+LANG_ENGLISH           "^2Shepherd: ^7Price, pasó demasiado tiempo encerrado. No esté pensando locuras, hijo."
+
+REFERENCE           VIDSUBTITLES_CONTINGENCY_VIDEO179 
+LANG_ENGLISH           "^2Capitán Price: ^7Shepherd, ¿está dispuesto a hacer todo lo necesario por la victoria?"
+
+REFERENCE           VIDSUBTITLES_CONTINGENCY_VIDEO180 
+LANG_ENGLISH           "^2Shepherd: ^7Siempre."
+
+REFERENCE           VIDSUBTITLES_CONTINGENCY_VIDEO181 
+LANG_ENGLISH           "^2Capitán Price: ^7Estamos ante un incendio gigantesco. Necesitaremos una gran explosión."
+
+REFERENCE           VIDSUBTITLES_CONTINGENCY_VIDEO182 
+LANG_ENGLISH           "^2Shepherd: ^7Pasó mucho tiempo en el Gulag, Price. Concéntrese en eliminar a Makarov."
+
+REFERENCE           VIDSUBTITLES_CONTINGENCY_VIDEO183 
+LANG_ENGLISH           "^2Capitán Price: ^7No hay tiempo, señor. Debemos terminar esta guerra hoy."
+
+REFERENCE           VIDSUBTITLES_CONTINGENCY_VIDEO184 
+LANG_ENGLISH           "^2Shepherd: ^7No le estoy preguntando, Price. Es una orden. Debe..."
+
+REFERENCE           VIDSUBTITLES_CONTINGENCY_VIDEO185 
+LANG_ENGLISH           "^2Capitán Price: ^7Parece que perdimos la conexión..."
+
+REFERENCE           VIDSUBTITLES_DCBURNING_VIDEO186 
+LANG_ENGLISH           "^2 ^7SE RUEGA A LOS RESIDENTES DEL CONDADO DE PRINCE GEORGE QUE ACUDAN AL CENTRO SANITARIO DE LA AVENIDA KIRKWOOD 147."
+
+REFERENCE           VIDSUBTITLES_DCBURNING_VIDEO187 
+LANG_ENGLISH           "^2 ^7RECOGIDAS CADA 15 MINUTOS DESDE EL CAMPUS DE LA CIUDAD UNIVERSITARIA. /// EVACUACIÓN DE EMERGENCIA EN CURSO. ///"
+
+REFERENCE           VIDSUBTITLES_DCBURNING_VIDEO188 
+LANG_ENGLISH           "^2 ^7DIRÍJASE INMEDIATAMENTE AL REFUGIO MÁS CERCANO. HABRÁ TROPAS PARA RECIBIRLO."
+
+REFERENCE           VIDSUBTITLES_DCBURNING_VIDEO189 
+LANG_ENGLISH           "^2 ^7LLEVE IDENTIFICACIÓN FOTOGRÁFICA Y HASTA UN BULTO DE EQUIPAJE POR PERSONA. /// PRESTE ATENCIÓN A SU ALREDEDOR. PERMANEZCA ALERTA."
+
+REFERENCE           VIDSUBTITLES_DCEMP_VIDEO190 
+LANG_ENGLISH           "^2Secretario de defensa: ^7Caballeros, el vector del misil apunta a la costa este. Perderemos la Casa Blanca."
+
+REFERENCE           VIDSUBTITLES_DCEMP_VIDEO191 
+LANG_ENGLISH           "^2Shepherd: ^7Ya la reconstruimos una vez y lo haremos de nuevo."
+
+REFERENCE           VIDSUBTITLES_DCEMP_VIDEO192 
+LANG_ENGLISH           "^2Secretario de defensa: ^7¿Bajas?"
+
+REFERENCE           VIDSUBTITLES_DCEMP_VIDEO193 
+LANG_ENGLISH           "^2Shepherd: ^7Posiblemente entre 30 000 y 50 000, dependiendo de la ubicación exacta de la detonación. Todos los sistemas colapsarán."
+
+REFERENCE           VIDSUBTITLES_DCEMP_VIDEO194 
+LANG_ENGLISH           "^2Secretario de defensa: ^7General Shepherd, usted nos avisó. Debimos hacerle caso."
+
+REFERENCE           VIDSUBTITLES_DCEMP_VIDEO195 
+LANG_ENGLISH           "^2Shepherd: ^7Cuando hablen de este momento, no seremos los que se quedaron mirando mientras nuestra América perecía."
+
+REFERENCE           VIDSUBTITLES_DCEMP_VIDEO196 
+LANG_ENGLISH           "^2Shepherd: ^7Solo un hombre es responsable de todo esto. Debemos exponer a Makarov."
+
+REFERENCE           VIDSUBTITLES_DCEMP_VIDEO197 
+LANG_ENGLISH           "^2Secretario de defensa: ^7Lo que necesite, general. Tiene un cheque en blanco."
+
+REFERENCE           VIDSUBTITLES_ESTATE_VIDEO1100 
+LANG_ENGLISH           "^2Shepherd: ^7A pesar de lo que digan, no somos salvajes. No matamos civiles. Empleamos la precisión."
+
+REFERENCE           VIDSUBTITLES_ESTATE_VIDEO1101 
+LANG_ENGLISH           "^2Shepherd: ^7Hay un hombre malvado que se oculta entre las sombras y vamos a sacarlo a la luz."
+
+REFERENCE           VIDSUBTITLES_ESTATE_VIDEO1102 
+LANG_ENGLISH           "^2Shepherd: ^7Cuando revelemos su rostro, pasaremos a la historia, caballeros."
+
+REFERENCE           VIDSUBTITLES_ESTATE_VIDEO1103 
+LANG_ENGLISH           "^2Shepherd: ^7Estos son los últimos refugios en la Tierra que le quedan a Makarov."
+
+REFERENCE           VIDSUBTITLES_ESTATE_VIDEO1104 
+LANG_ENGLISH           "^2Capitán Price: ^7Vamos a tener que estar en dos sitios a la vez."
+
+REFERENCE           VIDSUBTITLES_ESTATE_VIDEO1105 
+LANG_ENGLISH           "^2Shepherd: ^7¿Imposible?"
+
+REFERENCE           VIDSUBTITLES_ESTATE_VIDEO1106 
+LANG_ENGLISH           "^2Capitán Price: ^7No para la 1-4-1."
+
+REFERENCE           VIDSUBTITLES_ESTATE_VIDEO1107 
+LANG_ENGLISH           "^2Ghost: ^750% de probabilidades de eliminar a Makarov, ¿eh?"
+
+REFERENCE           VIDSUBTITLES_ESTATE_VIDEO1108 
+LANG_ENGLISH           "^2Ghost: ^7Capitán Price, solicito permiso para tomar el refugio junto con Roach."
+
+REFERENCE           VIDSUBTITLES_ESTATE_VIDEO1109 
+LANG_ENGLISH           "^2Capitán Price: ^7Concedido. Soap y yo tomaremos el cementerio en Afganistán."
+
+REFERENCE           VIDSUBTITLES_ESTATE_VIDEO1110 
+LANG_ENGLISH           "^2Shepherd: ^7Muy bien. Cortaremos todas las vías de escape. Esto termina ahora."
+
+REFERENCE           VIDSUBTITLES_ESTATE_VIDEO1111 
+LANG_ENGLISH           "^2Capitán Price: ^7Qué raro. Juraría que pusimos fin a esta guerra ayer."
+
+REFERENCE           VIDSUBTITLES_ESTATE_VIDEO198 
+LANG_ENGLISH           "^2Shepherd: ^7Fue una semana dura, caballeros. Perdimos más de los que nos hubiéramos jamás imaginado, pero nos recuperaremos."
+
+REFERENCE           VIDSUBTITLES_ESTATE_VIDEO199 
+LANG_ENGLISH           "^2Shepherd: ^7Tengo un cheque en blanco. Y usaremos cada centavo para eliminar a Makarov."
+
+REFERENCE           VIDSUBTITLES_FAVELA_ESCAPE_VIDEO1113 
+LANG_ENGLISH           "^2Ghost: ^7No contesta nadie."
+
+REFERENCE           VIDSUBTITLES_FAVELA_ESCAPE_VIDEO1123 
+LANG_ENGLISH           "^2Capitán MacTavish: ^7Los rusos deben haber copiado el módulo ACS. Tienen la llave de cada cerradura en EE. UU."
+
+REFERENCE           VIDSUBTITLES_FAVELA_ESCAPE_VIDEO1124 
+LANG_ENGLISH           "^2Ghost: ^7Y matan a mil americanos por cada civil muerto en Moscú. Parece que se nos acabaron los amigos."
+
+REFERENCE           VIDSUBTITLES_FAVELA_ESCAPE_VIDEO1125 
+LANG_ENGLISH           "^2Capitán MacTavish: ^7Conozco a alguien. Busquemos una cabina telefónica, si aún existen."
+
+REFERENCE           VIDSUBTITLES_FAVELA_ESCAPE_VIDEO1126 
+LANG_ENGLISH           "^2Ghost: ^7Lo único que soltó Rojas es que el único tipo al que Makarov odia más que a los estadounidenses está preso en un Gulag."
+
+REFERENCE           VIDSUBTITLES_FAVELA_ESCAPE_VIDEO1127 
+LANG_ENGLISH           "^2Capitán MacTavish: ^7Es todo lo que tenemos. Si este preso nos sirve de carnada para capturar a este psicópata, colguémoslo de un árbol."
+
+REFERENCE           VIDSUBTITLES_FAVELA_VIDEO111 
+LANG_ENGLISH           "^2Ghost: ^7Los rusos no se quedarán de brazos cruzados ante esta masacre. Correrá sangre."
+
+REFERENCE           VIDSUBTITLES_FAVELA_VIDEO112 
+LANG_ENGLISH           "^2Capitán MacTavish: ^7Tiene demasiada razón, amigo. Ahora, ante los ojos del mundo, son ellos las víctimas."
+
+REFERENCE           VIDSUBTITLES_FAVELA_VIDEO1128 
+LANG_ENGLISH           "^2Shepherd: ^7Makarov iba un paso adelante. Ahora dejó miles de cadáveres a los pies de un estadounidense."
+
+REFERENCE           VIDSUBTITLES_FAVELA_VIDEO1129 
+LANG_ENGLISH           "^2Capitán MacTavish: ^7Solo nosotros sabemos que fue una operación de Makarov. Nuestra credibilidad murió con Allen. Necesitamos pruebas."
+
+REFERENCE           VIDSUBTITLES_FAVELA_VIDEO113 
+LANG_ENGLISH           "^2Capitán MacTavish: ^7Nadie dirá nada cuando los rusos destrocen a cada americano que puedan alcanzar."
+
+REFERENCE           VIDSUBTITLES_FAVELA_VIDEO1130 
+LANG_ENGLISH           "^2Shepherd: ^7Siga el proyectil."
+
+REFERENCE           VIDSUBTITLES_FAVELA_VIDEO1131 
+LANG_ENGLISH           "^2Shepherd: ^7Alejandro Rojas."
+
+REFERENCE           VIDSUBTITLES_FAVELA_VIDEO1132 
+LANG_ENGLISH           "^2Capitán MacTavish: ^7Nunca oí hablar de él, señor."
+
+REFERENCE           VIDSUBTITLES_FAVELA_VIDEO1133 
+LANG_ENGLISH           "^2Shepherd: ^7Usted lo conoce como Alex el Rojo. Fue él quien abasteció a los del asalto."
+
+REFERENCE           VIDSUBTITLES_FAVELA_VIDEO1134 
+LANG_ENGLISH           "^2Capitán MacTavish: ^7Una bala para desatar la furia de toda una nación. Significa..."
+
+REFERENCE           VIDSUBTITLES_FAVELA_VIDEO1135 
+LANG_ENGLISH           "^2Shepherd: ^7Que él es nuestro billete a Makarov."
+
+REFERENCE           VIDSUBTITLES_GULAG_VIDEO1136 
+LANG_ENGLISH           "^2Capitán MacTavish: ^76ª flota terminando. Es hora de entrar."
+
+REFERENCE           VIDSUBTITLES_GULAG_VIDEO1137 
+LANG_ENGLISH           "^2Capitán MacTavish: ^7Este edificio tiene historia. Y no de cuento de hadas."
+
+REFERENCE           VIDSUBTITLES_GULAG_VIDEO1138 
+LANG_ENGLISH           "^2Capitán MacTavish: ^7Antes era un castillo de verdad. Con un calabozo de verdad. Hecho para resistir asedios."
+
+REFERENCE           VIDSUBTITLES_GULAG_VIDEO1139 
+LANG_ENGLISH           "^2Capitán MacTavish: ^7El edificio sobrevivió incluso al crudo invierno. Sus ocupantes... no tuvieron tanta suerte."
+
+REFERENCE           VIDSUBTITLES_GULAG_VIDEO1140 
+LANG_ENGLISH           "^2Capitán MacTavish: ^7El monasterio... No sobrevivió a la Purga."
+
+REFERENCE           VIDSUBTITLES_GULAG_VIDEO1141 
+LANG_ENGLISH           "^2Capitán MacTavish: ^7En el último siglo albergó a todo aquel que el gobierno quería quitarse de en medio pero no podía matar."
+
+REFERENCE           VIDSUBTITLES_GULAG_VIDEO1142 
+LANG_ENGLISH           "^2Capitán MacTavish: ^7Esto está lleno de bajas vivientes de la última guerra... que juraría que creí habíamos ganado."
+
+REFERENCE           VIDSUBTITLES_GULAG_VIDEO1143 
+LANG_ENGLISH           "^2Capitán MacTavish: ^7Pero es como en las carreras: si apuestas al caballo perdedor, acabas aquí."
+
+REFERENCE           VIDSUBTITLES_GULAG_VIDEO1144 
+LANG_ENGLISH           "^2Capitán MacTavish: ^76-2-7 es la tajada que quiere Makarov, así que vamos a liberarlo."
+
+REFERENCE           VIDSUBTITLES_INVASION_VIDEO1145 
+LANG_ENGLISH           "^2CG de NORAD: ^7Sand Bravo, vemos setenta objetivos en su sector, verifiquen."
+
+REFERENCE           VIDSUBTITLES_INVASION_VIDEO1146 
+LANG_ENGLISH           "^2Base de Nome: ^7Muy gracioso, base. Negativo, por supuesto, cambio."
+
+REFERENCE           VIDSUBTITLES_INVASION_VIDEO1147 
+LANG_ENGLISH           "^2CG de NORAD: ^7Sand Bravo, estamos realizando un diagnóstico de averías."
+
+REFERENCE           VIDSUBTITLES_INVASION_VIDEO1148 
+LANG_ENGLISH           "^2Base de Nome: ^7Cielos despejados, base. Serán puntos fantasma. Cambio."
+
+REFERENCE           VIDSUBTITLES_INVASION_VIDEO1149 
+LANG_ENGLISH           "^2CG de NORAD: ^7Zulu X-Ray 6. Vemos unos cien objetivos en el sector. Confirmen."
+
+REFERENCE           VIDSUBTITLES_INVASION_VIDEO1150 
+LANG_ENGLISH           "^2Base de Vandenburg: ^7Negativo, base. Esto está despejado. No sé qué decirles. ¿Interferencia solar? Hoy la actividad solar es intensa."
+
+REFERENCE           VIDSUBTITLES_INVASION_VIDEO1151 
+LANG_ENGLISH           "^2CG de NORAD: ^7Sierra Delta, eh... puede que el ACS esté presentando una falla aquí. ¿Tienen algo en su sector?"
+
+REFERENCE           VIDSUBTITLES_INVASION_VIDEO1152 
+LANG_ENGLISH           "^2Controlador aéreo: ^7¡Están por todos lados!"
+
+REFERENCE           VIDSUBTITLES_INVASION_VIDEO1153 
+LANG_ENGLISH           "^2CG de NORAD: ^7¡Sierra Delta, repita!"
+
+REFERENCE           VIDSUBTITLES_INVASION_VIDEO1154 
+LANG_ENGLISH           "^2Controlador aéreo: ^7¡Veo a cazas en el sector I-95! ¡¿Cómo diablos lograron pasar?!"
+
+REFERENCE           VIDSUBTITLES_INVASION_VIDEO1155 
+LANG_ENGLISH           "^2CG de NORAD: ^7¡Espere! Intentando establecer comunicación con la unidad más cercana al sector."
+
+REFERENCE           VIDSUBTITLES_INVASION_VIDEO1156 
+LANG_ENGLISH           "^2Sargento Foley: ^7Lo recibo. Aquí el primer batallón, 75º regimiento de Rangers, Sargento Foley, comandante en funciones de Hunter 2-1. ¿Me copia? Cambio."
+
+REFERENCE           VIDSUBTITLES_INVASION_VIDEO1157 
+LANG_ENGLISH           "^2CG de NORAD: ^7A todas las estaciones, advertencia. La vigilancia por satélite fue desactivada. Los satélites y radares no están operativos."
+
+REFERENCE           VIDSUBTITLES_INVASION_VIDEO1158 
+LANG_ENGLISH           "^2Controlador de NORAD: ^7Podría haber un problema técnico en un módulo ACS."
+
+REFERENCE           VIDSUBTITLES_OILRIG_VIDEO1158 
+LANG_ENGLISH           "^2Capitán MacTavish: ^7Parece que nos dirigimos a la dirección incorrecta, señor. ¿No deberíamos estar volviendo del combate?"
+
+REFERENCE           VIDSUBTITLES_OILRIG_VIDEO1159 
+LANG_ENGLISH           "^2Shepherd: ^7Todavía queda mucho combate que librar, MacTavish."
+
+REFERENCE           VIDSUBTITLES_OILRIG_VIDEO1160 
+LANG_ENGLISH           "^2Shepherd: ^7Me alegra que haya logrado salir de Sudamérica. Irá con la 6ª flota para liderar el contraataque."
+
+REFERENCE           VIDSUBTITLES_OILRIG_VIDEO1161 
+LANG_ENGLISH           "^2Shepherd: ^7Prisionero 6-2-7. Creemos que es él quien tiene enloquecido a Makarov, pero no podemos llegar a él."
+
+REFERENCE           VIDSUBTITLES_OILRIG_VIDEO1162 
+LANG_ENGLISH           "^2Capitán MacTavish: ^7¿Plataformas petrolíferas, señor?"
+
+REFERENCE           VIDSUBTITLES_OILRIG_VIDEO1163 
+LANG_ENGLISH           "^2Shepherd: ^7Los rusos las usan para los SAM."
+
+REFERENCE           VIDSUBTITLES_OILRIG_VIDEO1164 
+LANG_ENGLISH           "^2Capitán MacTavish: ^7Los empleados hacen de escudos humanos, así que no podemos llegar y volar las plataformas. Y esta es la menos defendida."
+
+REFERENCE           VIDSUBTITLES_OILRIG_VIDEO1165 
+LANG_ENGLISH           "^2Shepherd: ^7Muchachos, sé que los envío a la carnicería esta vez..."
+
+REFERENCE           VIDSUBTITLES_OILRIG_VIDEO1166 
+LANG_ENGLISH           "^2Capitán MacTavish: ^7La están defendiendo, eso significa que la queremos. Sobre todo si nos lleva al 6-2-7."
+
+REFERENCE           VIDSUBTITLES_ROADKILL_VIDEO1167 
+LANG_ENGLISH           "^2Shepherd: ^7Somos la fuerza militar más poderosa de la historia."
+
+REFERENCE           VIDSUBTITLES_ROADKILL_VIDEO1168 
+LANG_ENGLISH           "^2Shepherd: ^7Cada batalla es nuestra batalla."
+
+REFERENCE           VIDSUBTITLES_ROADKILL_VIDEO1169 
+LANG_ENGLISH           "^2Shepherd: ^7Porque lo que ocurra aquí importa allá. No podemos darnos el lujo de sentarnos a mirar."
+
+REFERENCE           VIDSUBTITLES_ROADKILL_VIDEO1170 
+LANG_ENGLISH           "^2Shepherd: ^7Aprender a usar las herramientas de la guerra moderna es la diferencia entre la prosperidad de su pueblo o su total destrucción."
+
+REFERENCE           VIDSUBTITLES_ROADKILL_VIDEO1171 
+LANG_ENGLISH           "^2Shepherd: ^7No podemos darles la libertad, pero podemos otorgarles el conocimiento para que la obtengan."
+
+REFERENCE           VIDSUBTITLES_ROADKILL_VIDEO1172 
+LANG_ENGLISH           "^2Shepherd: ^7Y eso, amigos, vale más que toda una base militar de acero."
+
+REFERENCE           VIDSUBTITLES_ROADKILL_VIDEO1173 
+LANG_ENGLISH           "^2Shepherd: ^7Claro que importa quién tiene el arma más grande, pero importa mucho más quién la empuña."
+
+REFERENCE           VIDSUBTITLES_ROADKILL_VIDEO1174 
+LANG_ENGLISH           "^2Shepherd: ^7Es la hora de los héroes. De las leyendas."
+
+REFERENCE           VIDSUBTITLES_ROADKILL_VIDEO1175 
+LANG_ENGLISH           "^2Shepherd: ^7La historia la escriben los vencedores."
+
+REFERENCE           VIDSUBTITLES_ROADKILL_VIDEO1176 
+LANG_ENGLISH           "^2Shepherd: ^7Manos a la obra."
+
+REFERENCE           VIDSUBTITLES_TRAINER_VIDEO1177 
+LANG_ENGLISH           "^2Shepherd: ^7Cuanto más cambian las cosas, más siguen igual."
+
+REFERENCE           VIDSUBTITLES_TRAINER_VIDEO1178 
+LANG_ENGLISH           "^2Shepherd: ^7Las fronteras cambian, llegan nuevos jugadores, pero el poder siempre encuentra dueño."
+
+REFERENCE           VIDSUBTITLES_TRAINER_VIDEO1179 
+LANG_ENGLISH           "^2Shepherd: ^7Luchamos y sangramos junto a los rusos. Debimos imaginar que nos odiarían por eso."
+
+REFERENCE           VIDSUBTITLES_TRAINER_VIDEO1180 
+LANG_ENGLISH           "^2Shepherd: ^7La historia la escriben los vencedores. Y yo aquí, creyendo que habíamos ganado."
+
+REFERENCE           VIDSUBTITLES_TRAINER_VIDEO1181 
+LANG_ENGLISH           "^2Shepherd: ^7Pero derribas a un enemigo y encuentran a otro peor para sustituirlo."
+
+REFERENCE           VIDSUBTITLES_TRAINER_VIDEO1182 
+LANG_ENGLISH           "^2Shepherd: ^7Los lugares cambian, los argumentos, el objetivo."
+
+REFERENCE           VIDSUBTITLES_TRAINER_VIDEO1183 
+LANG_ENGLISH           "^2Shepherd: ^7Los enemigos de ayer son los reclutas de hoy."
+
+REFERENCE           VIDSUBTITLES_TRAINER_VIDEO1184 
+LANG_ENGLISH           "^2Shepherd: ^7Hay que entrenarlos para que peleen a nuestro lado y rezar para que mañana no nos odien por haberlo hecho."
+
+REFERENCE           VIDSUBTITLES_TRAINER_VIDEO1185 
+LANG_ENGLISH           "^2Shepherd: ^7Otro día, la misma mierda."
+
+REFERENCE           VIDSUBTITLES_TRAINER_VIDEO1186 
+LANG_ENGLISH           "^2Shepherd: ^7Sabe lo que busco, sargento Foley. Esté atento."
+
+REFERENCE           VIDSUBTITLES_TRAINER_VIDEO1187 
+LANG_ENGLISH           "^2Sargento Foley: ^7Hoy tengo un nuevo grupo en el foso, señor. Le enviaré a los mejores que encuentre."
+
+ENDMARKER
