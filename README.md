@@ -12,6 +12,7 @@ Compilation of **Localized Strings** from **Call of Duty** games. _Currently usi
 * **Call of Duty: Modern Warfare 2** (2009)
 * **Call of Duty: Modern Warfare 3** (2011)
 * **Call of Duty: Modern Warfare Remastered** (2016)
+  **Call of Duty: Modern Warfare 2 Campaign Remastered** (2020)
 * **Call of Duty: World at War** (2008)
 * **Call of Duty: Black Ops** (2010)
 * **Call of Duty: Black Ops II** (2012)
