@@ -1,0 +1,925 @@
+// Dumped from fastfile "sp_ui_zm".
+// In their original format the strings might have been separated in multiple files.
+VERSION             "1"
+CONFIG              "C:/projects/cod/t6/bin/StringEd.cfg"
+FILENOTES           ""
+
+REFERENCE           CUSTOM_ALL
+LANG_SPANISH        "TODAS"
+
+REFERENCE           CUSTOM_ALLIES
+LANG_SPANISH        "ALIADOS"
+
+REFERENCE           CUSTOM_ALLOW_PLAYER_CLASSES_CAPS
+LANG_SPANISH        "PERMITIR CLASES"
+
+REFERENCE           CUSTOM_BOMB_DEFUSE_TIME
+LANG_SPANISH        "TIEMPO DESACTIVACIÓN"
+
+REFERENCE           CUSTOM_BOMB_DEFUSE_TIME_DESC
+LANG_SPANISH        "Tiempo que se tarda en desactivar la bomba una vez colocada."
+
+REFERENCE           CUSTOM_BOMB_PLANT_TIME
+LANG_SPANISH        "TIEMPO DE COLOCACIÓN"
+
+REFERENCE           CUSTOM_BOMB_PLANT_TIME_DESC
+LANG_SPANISH        "Tiempo que lleva colocar la bomba."
+
+REFERENCE           CUSTOM_BOMB_TIMER
+LANG_SPANISH        "TEMPORIZADOR BOMBA"
+
+REFERENCE           CUSTOM_BOMB_TIMER_DESC
+LANG_SPANISH        "Tiempo que tarda la bomba en explotar."
+
+REFERENCE           CUSTOM_BUTTON_SAVE_FILESHARE
+LANG_SPANISH        "^BBUTTON_INTERACT^ Copiar a Archivos"
+
+REFERENCE           CUSTOM_CLASS_EDITOR_CAPS
+LANG_SPANISH        "EDITOR DE CLASE"
+
+REFERENCE           CUSTOM_CLASS_EDITOR_DESC
+LANG_SPANISH        "Crea clases personalizadas para tu modo."
+
+REFERENCE           CUSTOM_CLASS_EDITOR_DISABLED_DESC
+LANG_SPANISH        "Crea clases personalizadas para tu modo. Podrás seleccionar el editor de clase cuando actives Clases personalizadas."
+
+REFERENCE           CUSTOM_CLASS_INCORRECT
+LANG_SPANISH        "Debes tener al menos una clase de Operaciones y una de Comunista."
+
+REFERENCE           CUSTOM_CLASSIC_HQ
+LANG_SPANISH        "MODO CLÁSICO DE CG"
+
+REFERENCE           CUSTOM_CLASSIC_HQ_DESC
+LANG_SPANISH        "El cuartel general no puede destruirse tras ser tomado y permanecerá en cada nueva posición el tiempo prefijado mientras ambos equipos se disputan su control."
+
+REFERENCE           CUSTOM_COMMUNISTS
+LANG_SPANISH        "COMUNISTAS"
+
+REFERENCE           CUSTOM_CONT_WITHOUT_SAVE
+LANG_SPANISH        "MODO DE JUEGO SIN GUARDAR"
+
+REFERENCE           CUSTOM_CTF_CAPTURE_LIMIT_CAPS
+LANG_SPANISH        "LÍMITE DE TOMAS"
+
+REFERENCE           CUSTOM_CTF_CAPTURE_LIMIT_DESC
+LANG_SPANISH        "Número de banderas que tomar para que termine la ronda."
+
+REFERENCE           CUSTOM_CTF_ENEMY_CARRIER_VISIBLE_DESC
+LANG_SPANISH        "Especifica si se delata la posición del enemigo al portar la bandera. Elige \"demorado\" para actualizar la posición enemiga solo de vez en cuando."
+
+REFERENCE           CUSTOM_CTF_IDLE_FLAG_RETURN_TIME_DESC
+LANG_SPANISH        "Segundos que puede estar una bandera inactiva antes de devolverla a la base. Si es ilimitado, el retorno de bandera siempre estará activo."
+
+REFERENCE           CUSTOM_CTF_TOUCH_RETURN_DESC
+LANG_SPANISH        "Si se activa, una bandera soltada vuelve a la base cuando la toca el equipo dueño de ella."
+
+REFERENCE           CUSTOM_CTF_TOUCH_RETURN_DISABLED_DESC
+LANG_SPANISH        "El retorno de bandera siempre estará activo si se asigna el valor ilimitado."
+
+REFERENCE           CUSTOM_CUSTOM_CLASS
+LANG_SPANISH        "PERSONAL"
+
+REFERENCE           CUSTOM_CUSTOM_CLASSES
+LANG_SPANISH        "CLASES PERSONALIZADAS"
+
+REFERENCE           CUSTOM_CUSTOM_CLASSES_CAPS
+LANG_SPANISH        "CLASES PERSONALIZADAS"
+
+REFERENCE           CUSTOM_CUSTOM_GAME_MODE_CAPS
+LANG_SPANISH        "MODO PERSONALIZADO"
+
+REFERENCE           CUSTOM_CUSTOMIZED_CAPS
+LANG_SPANISH        "PERSONALIZADO"
+
+REFERENCE           CUSTOM_DAMAGE
+LANG_SPANISH        "DAÑO"
+
+REFERENCE           CUSTOM_DAMAGE_DESC
+LANG_SPANISH        "Modifica el daño causado por la clase con armas de fuego y armas no explosivas."
+
+REFERENCE           CUSTOM_DISABLE_PERKS_CAPS
+LANG_SPANISH        "NO PERMITIR VENTAJAS"
+
+REFERENCE           CUSTOM_DOM_FLAGCAPTIME_CAPS
+LANG_SPANISH        "TIEMPO DE TOMA"
+
+REFERENCE           CUSTOM_DOM_FLAGCAPTIME_DESC
+LANG_SPANISH        "Tiempo que lleva tomar la bandera."
+
+REFERENCE           CUSTOM_DOUBLE
+LANG_SPANISH        "DOBLE"
+
+REFERENCE           CUSTOM_EDIT_CLASS_LOADOUT
+LANG_SPANISH        "EDITAR ARMAMENTO DE CLASE"
+
+REFERENCE           CUSTOM_EDIT_CLASS_LOADOUT_CAPS
+LANG_SPANISH        "EDITAR ARMAMENTO DE CLASE"
+
+REFERENCE           CUSTOM_EDIT_CLASS_LOADOUT_DESC
+LANG_SPANISH        "Cambia las armas, equipo y ventajas de la clase."
+
+REFERENCE           CUSTOM_EDIT_CLASS_PROTIP
+LANG_SPANISH        "Edita los atributos, las armas y las ventajas de una clase personalizada."
+
+REFERENCE           CUSTOM_EDIT_CLASS_PROTIP_DISABLED
+LANG_SPANISH        "Esta clase está deshabilitada y no se puede editar."
+
+REFERENCE           CUSTOM_ENABLE_PERKS_CAPS
+LANG_SPANISH        "PERMITIR VENTAJAS"
+
+REFERENCE           CUSTOM_EXPLOSIVE_DAMAGE
+LANG_SPANISH        "DAÑO EXPLOSIVO"
+
+REFERENCE           CUSTOM_EXPLOSIVE_DAMAGE_DESC
+LANG_SPANISH        "Modifica el daño causado por la clase con armas explosivas."
+
+REFERENCE           CUSTOM_EXTRA_TIME_CAPS
+LANG_SPANISH        "TIEMPO EXTRA"
+
+REFERENCE           CUSTOM_EXTRA_TIME_DESC
+LANG_SPANISH        "La cantidad de tiempo añadida al tiempo actual al destruir una zona de bombas. El tiempo extra queda desactivado al fijar un límite de tiempo ilimitado."
+
+REFERENCE           CUSTOM_EXTRA_TIME_DISABLED_DESC
+LANG_SPANISH        "No puedes fijar el tiempo extra con un límite de tiempo ilimitado."
+
+REFERENCE           CUSTOM_FAST
+LANG_SPANISH        "RÁPIDO"
+
+REFERENCE           CUSTOM_FFA_SPECTATE_OPTIONS
+LANG_SPANISH        "OPCIONES ESPECTADOR"
+
+REFERENCE           CUSTOM_FFA_SPECTATE_OPTIONS_DESC
+LANG_SPANISH        "Ajusta las opciones de espectador de este modo de juego."
+
+REFERENCE           CUSTOM_FILESHARE_CANT_SELECT
+LANG_SPANISH        "Solo se pueden elegir modos personalizados guardados."
+
+REFERENCE           CUSTOM_FILESHARE_CGM_HIGHLIGHTED
+LANG_SPANISH        "Elige este modo para jugar con todos sus ajustes personalizados."
+
+REFERENCE           CUSTOM_FILESHARE_SELECT
+LANG_SPANISH        "Modo personalizado cargado"
+
+REFERENCE           CUSTOM_FILESHARE_SELECT_MODE_DESC
+LANG_SPANISH        "Selecciona el modo personalizado de tus archivos compartidos."
+
+REFERENCE           CUSTOM_FILESHARE_SELECT_MODE_TITLE
+LANG_SPANISH        "ELIGE EL TIPO DE PARTIDA"
+
+REFERENCE           CUSTOM_FILESHARE_UPLOAD
+LANG_SPANISH        "Guardado en Archivos compartidos completado"
+
+REFERENCE           CUSTOM_FORCE_RESPAWN_DESC
+LANG_SPANISH        "Si se activa, el jugador reaparecerá automáticamente al morir en vez de tener que activar la reaparición. Se activa siempre que fijes un retardo de oleada."
+
+REFERENCE           CUSTOM_FORCE_RESPAWN_DISABLED_DESC
+LANG_SPANISH        "Forzar reaparición estará activado siempre que fijes un retardo de oleada."
+
+REFERENCE           CUSTOM_FRIENDLY_FIRE
+LANG_SPANISH        "FUEGO AMIGO"
+
+REFERENCE           CUSTOM_FRIENDLY_FIRE_DESC
+LANG_SPANISH        "Se establece si los compañeros pueden dañar a los miembros de su equipo. Si se activa y se fija un número de vidas, las muertes de tu propio equipo no restarán vidas."
+
+REFERENCE           CUSTOM_GAME_CREATE_CAPS
+LANG_SPANISH        "EDITOR DE MODO DE JUEGO PERSONALIZADO"
+
+REFERENCE           CUSTOM_GAME_MODE_OPTIONS_CAPS
+LANG_SPANISH        "OPCIONES DE MODO DE JUEGO"
+
+REFERENCE           CUSTOM_GAME_MODE_OPTIONS_DESC
+LANG_SPANISH        "Ajusta opciones específicas del modo para tu modo de juego personalizado."
+
+REFERENCE           CUSTOM_GAME_RECORDING_CAPS
+LANG_SPANISH        "GRABACIÓN DE PARTIDA"
+
+REFERENCE           CUSTOM_GAME_RECORDING_DESC
+LANG_SPANISH        "Activa o desactiva la grabación de la partida."
+
+REFERENCE           CUSTOM_GAME_SCORE_LIMIT_DESC
+LANG_SPANISH        "Número de puntos que obtener para que termine la ronda."
+
+REFERENCE           CUSTOM_GAME_TIME_LIMIT_DESC
+LANG_SPANISH        "Número de minutos que dura una ronda antes de terminar."
+
+REFERENCE           CUSTOM_GENERAL_OPTIONS_CAPS
+LANG_SPANISH        "OPCIONES GENERALES"
+
+REFERENCE           CUSTOM_GENERAL_OPTIONS_DESC
+LANG_SPANISH        "Personaliza opciones generales."
+
+REFERENCE           CUSTOM_HEALTH
+LANG_SPANISH        "SALUD"
+
+REFERENCE           CUSTOM_HEALTH_DESC
+LANG_SPANISH        "La cantidad máxima de salud de la clase."
+
+REFERENCE           CUSTOM_HEALTH_REGEN
+LANG_SPANISH        "REGENERACIÓN"
+
+REFERENCE           CUSTOM_HEALTH_REGEN_CUSTOM_DESC
+LANG_SPANISH        "Velocidad a la que se repone la salud del jugador tras sufrir daño."
+
+REFERENCE           CUSTOM_HEALTH_REGEN_DESC
+LANG_SPANISH        "Velocidad a la que se repone la salud del jugador tras sufrir daño. Activar las clases personalizadas desactivará este ajuste."
+
+REFERENCE           CUSTOM_HEALTH_REGEN_DISABLED_DESC
+LANG_SPANISH        "La regeneración de salud global no se podrá ajustar cuando se usen clases personalizadas."
+
+REFERENCE           CUSTOM_HEALTH_REGENERATION
+LANG_SPANISH        "REGENERACIÓN DE SALUD"
+
+REFERENCE           CUSTOM_HQ_HOLD_TIME
+LANG_SPANISH        "DURACIÓN DEL CG"
+
+REFERENCE           CUSTOM_HQ_HOLD_TIME_DESC
+LANG_SPANISH        "Tiempo que permanece con vida un cuartel general."
+
+REFERENCE           CUSTOM_HQ_RESPAWN_DELAY
+LANG_SPANISH        "REACTIVACIÓN DEL CG"
+
+REFERENCE           CUSTOM_HQ_RESPAWN_DELAY_DESC
+LANG_SPANISH        "Tiempo que esperar antes de elegir un nuevo cuartel general."
+
+REFERENCE           CUSTOM_INCREASED
+LANG_SPANISH        "AUMENTADO"
+
+REFERENCE           CUSTOM_KILLSTREAK_EDITOR
+LANG_SPANISH        "EDITOR DE RACHAS"
+
+REFERENCE           CUSTOM_KILLSTREAK_EDITOR_DESC
+LANG_SPANISH        "Edita qué rachas de bajas tienen los jugadores."
+
+REFERENCE           CUSTOM_KILLSTREAK_EDITOR_DISABLED_DESC
+LANG_SPANISH        "Edita qué rachas de bajas pueden conseguir los jugadores. Podrás seleccionar el editor de rachas de bajas cuando actives Rachas personaliz."
+
+REFERENCE           CUSTOM_LIVES_AND_HEALTH_OPTIONS
+LANG_SPANISH        "OPCIONES DE VIDAS Y SALUD"
+
+REFERENCE           CUSTOM_LIVES_AND_HEALTH_OPTIONS_CAPS
+LANG_SPANISH        "OPCIONES DE VIDAS Y SALUD"
+
+REFERENCE           CUSTOM_LIVES_AND_HEALTH_OPTIONS_DESC
+LANG_SPANISH        "Ajusta las opciones de vida y salud del jugador."
+
+REFERENCE           CUSTOM_LOAD_ERROR
+LANG_SPANISH        "Error al intentar cargar el modo de juego personalizado."
+
+REFERENCE           CUSTOM_MAX_HEALTH
+LANG_SPANISH        "SALUD MÁXIMA"
+
+REFERENCE           CUSTOM_MAX_HEALTH_DESC
+LANG_SPANISH        "Cantidad de salud que tiene cada jugador. Activar las clases personalizadas desactivará este ajuste."
+
+REFERENCE           CUSTOM_MAX_HEALTH_DISABLED_DESC
+LANG_SPANISH        "La salud máxima global no se podrá ajustar cuando se usen clases personalizadas."
+
+REFERENCE           CUSTOM_MAXIMUM
+LANG_SPANISH        "MÁXIMO"
+
+REFERENCE           CUSTOM_MOVEMENT_SPEED
+LANG_SPANISH        "VELOCIDAD MOVIMIENTO"
+
+REFERENCE           CUSTOM_MOVEMENT_SPEED_DESC
+LANG_SPANISH        "Velocidad a la que se mueve la clase."
+
+REFERENCE           CUSTOM_MULTI_BOMB
+LANG_SPANISH        "MULTIBOMBA"
+
+REFERENCE           CUSTOM_MULTI_BOMB_DESC
+LANG_SPANISH        "Activa para que haya varias bombas."
+
+REFERENCE           CUSTOM_NO_KILLSTREAK
+LANG_SPANISH        "SIN RACHA DE BAJAS"
+
+REFERENCE           CUSTOM_NORMAL
+LANG_SPANISH        "NORMAL"
+
+REFERENCE           CUSTOM_NUM_KILLS
+LANG_SPANISH        "REQUISITO DE BAJAS"
+
+REFERENCE           CUSTOM_NUM_KILLS_DESC
+LANG_SPANISH        "Especifica el número de bajas seguidas que un jugador debe conseguir para que se active esta racha de bajas."
+
+REFERENCE           CUSTOM_NUM_KILLS_DISABLED_DESC
+LANG_SPANISH        "Elige una racha de bajas antes de fijar las bajas necesarias para conseguirla."
+
+REFERENCE           CUSTOM_NUM_KILLS_IN_USE_DESC
+LANG_SPANISH        "Este número de bajas está asignado a otra racha de bajas."
+
+REFERENCE           CUSTOM_NUM_KILLS_THIS_KILLSTREAK_DESC
+LANG_SPANISH        "Este número de bajas está asignado a esta racha de bajas."
+
+REFERENCE           CUSTOM_NUMBER_OF_LIVES
+LANG_SPANISH        "NÚMERO DE VIDAS"
+
+REFERENCE           CUSTOM_NUMBER_OF_LIVES_DESC
+LANG_SPANISH        "Número de vidas de que dispone el jugador para poder seguir reapareciendo."
+
+REFERENCE           CUSTOM_OPS
+LANG_SPANISH        "OPERACIONES"
+
+REFERENCE           CUSTOM_OPT_ALLOW_SPRINT
+LANG_SPANISH        "PERMITIR ESPRINTAR"
+
+REFERENCE           CUSTOM_OPT_ALLOW_SPRINT_DESC
+LANG_SPANISH        "Activa la capacidad del jugador de esprintar."
+
+REFERENCE           CUSTOM_OPT_HARDCORE
+LANG_SPANISH        "MODO EXTREMO"
+
+REFERENCE           CUSTOM_OPT_HARDCORE_DESC
+LANG_SPANISH        "Activa y desactiva el modo Extremo. Extremo: HUD limitado, armas más letales y fuego amigo activado."
+
+REFERENCE           CUSTOM_OPT_HEADSHOT_ONLY_DESC
+LANG_SPANISH        "Si se activa, harán falta tiros a la cabeza para que las armas que usan balas hagan daño. El daño de otras fuentes, como el cuchillo, las rachas y las explosiones funcionará normalmente."
+
+REFERENCE           CUSTOM_OPT_HEADSHOTS_ONLY
+LANG_SPANISH        "SOLO TIROS A LA CABEZA"
+
+REFERENCE           CUSTOM_OPT_KILLCAM
+LANG_SPANISH        "CÁMARA MUERTE"
+
+REFERENCE           CUSTOM_OPT_KILLCAM_DESC
+LANG_SPANISH        "Activa/Desactiva la cámara de muerte."
+
+REFERENCE           CUSTOM_OPT_SPECTATE
+LANG_SPANISH        "ESPECTADOR"
+
+REFERENCE           CUSTOM_OPT_SPECTATE_DESC
+LANG_SPANISH        "Elige cómo sigue un jugador de espectador cuando ya no pueda reaparecer."
+
+REFERENCE           CUSTOM_PERK_ADS_SPEED
+LANG_SPANISH        "VELOCIDAD CON MIRA"
+
+REFERENCE           CUSTOM_PERK_ADS_SPEED_DESC
+LANG_SPANISH        "Multiplicador de velocidad a la que el jugador apunta con la mira."
+
+REFERENCE           CUSTOM_PERK_ARMOR_PIERCING
+LANG_SPANISH        "DAÑO PENETRANTE BLINDAJE"
+
+REFERENCE           CUSTOM_PERK_ARMOR_PIERCING_DESC
+LANG_SPANISH        "El porcentaje adicional de daño contra aeronaves y torretas."
+
+REFERENCE           CUSTOM_PERK_BLEEDOUT_TIME
+LANG_SPANISH        "TIEMPO DE DESANGRAMIENTO"
+
+REFERENCE           CUSTOM_PERK_BLEEDOUT_TIME_DESC
+LANG_SPANISH        "Número de segundos que tarda el jugador en desangrarse al caer herido antes de reaparecer."
+
+REFERENCE           CUSTOM_PERK_BULLET_PENETRATION
+LANG_SPANISH        "PENETRACIÓN DE BALAS"
+
+REFERENCE           CUSTOM_PERK_BULLET_PENETRATION_DESC
+LANG_SPANISH        "Multiplicador de lo que penetra una bala en una superficie."
+
+REFERENCE           CUSTOM_PERK_DAMAGE_KICK_REDUCTION
+LANG_SPANISH        "REDUCCIÓN ESTREMECIMIENTO"
+
+REFERENCE           CUSTOM_PERK_DAMAGE_KICK_REDUCTION_DESC
+LANG_SPANISH        "Porcentaje del estremecimiento original que se aplica."
+
+REFERENCE           CUSTOM_PERK_DEEP_IMPACT_PRO_TITLE
+LANG_SPANISH        "MODIFICAR CURTIDO (PRO)"
+
+REFERENCE           CUSTOM_PERK_DEEP_IMPACT_TITLE
+LANG_SPANISH        "MODIFICAR CURTIDO"
+
+REFERENCE           CUSTOM_PERK_DISARM_TIME
+LANG_SPANISH        "TIEMPO DE DESACTIVACIÓN"
+
+REFERENCE           CUSTOM_PERK_DISARM_TIME_DESC
+LANG_SPANISH        "Tiempo que lleva desactivar torretas y equipo."
+
+REFERENCE           CUSTOM_PERK_DOUBLE_TAP_DESC
+LANG_SPANISH        "Ajusta la cadencia de disparo del arma."
+
+REFERENCE           CUSTOM_PERK_DOUBLE_TAP_TITLE
+LANG_SPANISH        "MODIFICAR DOBLE TIRO"
+
+REFERENCE           CUSTOM_PERK_EDIT
+LANG_SPANISH        "EDITAR VENTAJAS DEL ESPACIO &&1"
+
+REFERENCE           CUSTOM_PERK_EDITOR_CAPS
+LANG_SPANISH        "EDITOR DE VENTAJAS"
+
+REFERENCE           CUSTOM_PERK_EDITOR_DESC
+LANG_SPANISH        "Activa/Desactiva ventajas y ajusta variables de cada una."
+
+REFERENCE           CUSTOM_PERK_EDITOR_DISABLED_DESC
+LANG_SPANISH        "Activa/Desactiva ventajas y ajusta variables de cada una. Podrás seleccionar el editor de ventajas cuando actives Permitir ventajas. "
+
+REFERENCE           CUSTOM_PERK_EXTRA_BREATH_TIME
+LANG_SPANISH        "TIEMPO EXTRA RESPIRACIÓN"
+
+REFERENCE           CUSTOM_PERK_EXTRA_BREATH_TIME_DESC
+LANG_SPANISH        "Segundos extra añadidos al tiempo base que el jugador puede aguantar la respiración."
+
+REFERENCE           CUSTOM_PERK_FALL_DAMAGE
+LANG_SPANISH        "DAÑO POR CAÍDA"
+
+REFERENCE           CUSTOM_PERK_FALL_DAMAGE_DESC
+LANG_SPANISH        "Hasta qué altura puede caer el jugador antes de empezar a sufrir daño."
+
+REFERENCE           CUSTOM_PERK_FIREPROOF_REDUCTION
+LANG_SPANISH        "DAÑO POR FUEGO"
+
+REFERENCE           CUSTOM_PERK_FIREPROOF_REDUCTION_DESC
+LANG_SPANISH        "El porcentaje de daño por fuego aplicable al jugador."
+
+REFERENCE           CUSTOM_PERK_FLAK_JACKET_PRO_TITLE
+LANG_SPANISH        "MOD. VENTAJA CHALECO ANTIBALAS (PRO)"
+
+REFERENCE           CUSTOM_PERK_FLAK_JACKET_REDUCTION
+LANG_SPANISH        "DAÑO EXPLOSIVO"
+
+REFERENCE           CUSTOM_PERK_FLAK_JACKET_REDUCTION_DESC
+LANG_SPANISH        "El porcentaje de daño explosivo aplicable al jugador."
+
+REFERENCE           CUSTOM_PERK_FLAK_JACKET_TITLE
+LANG_SPANISH        "MODIFICAR CHALECO ANTIBALAS"
+
+REFERENCE           CUSTOM_PERK_HACKER_PRO_TITLE
+LANG_SPANISH        "MODIFICAR PIRATA (PRO)"
+
+REFERENCE           CUSTOM_PERK_HARDLINE_PRO_TITLE
+LANG_SPANISH        "MODIFICAR LÍNEA DURA (PRO)"
+
+REFERENCE           CUSTOM_PERK_HARDLINE_TITLE
+LANG_SPANISH        "MODIFICAR LÍNEA DURA"
+
+REFERENCE           CUSTOM_PERK_HEALTH_REGEN_SPEED
+LANG_SPANISH        "VELOCIDAD DE REGEN. DE SALUD"
+
+REFERENCE           CUSTOM_PERK_HEALTH_REGEN_SPEED_DESC
+LANG_SPANISH        "Multiplicador de velocidad a la que el jugador regenera salud."
+
+REFERENCE           CUSTOM_PERK_HIGH_ALERT_DESC
+LANG_SPANISH        "Ajusta el multiplicador de velocidad para apuntar con la mira."
+
+REFERENCE           CUSTOM_PERK_HIGH_ALERT_TITLE
+LANG_SPANISH        "MODIFICAR ALERTA ROJA"
+
+REFERENCE           CUSTOM_PERK_INTERACT_SPEED
+LANG_SPANISH        "VELOCIDAD DE INTERACCIÓN"
+
+REFERENCE           CUSTOM_PERK_INTERACT_SPEED_DESC
+LANG_SPANISH        "Multiplicador del tiempo que tarda un jugador en interactuar."
+
+REFERENCE           CUSTOM_PERK_KILLSTREAK_REDUCTION
+LANG_SPANISH        "REDUCCIÓN DE RACHA"
+
+REFERENCE           CUSTOM_PERK_KILLSTREAK_REDUCTION_DESC
+LANG_SPANISH        "Número de bajas en que se reduce cada racha de bajas."
+
+REFERENCE           CUSTOM_PERK_KNIFE_RECOVERY_SPEED
+LANG_SPANISH        "RECUPERACIÓN CUCHILLADA"
+
+REFERENCE           CUSTOM_PERK_KNIFE_RECOVERY_SPEED_DESC
+LANG_SPANISH        "Multiplicador de velocidad a la que el jugador se recupera de una cuchillada."
+
+REFERENCE           CUSTOM_PERK_KNIFE_WORK_DESC
+LANG_SPANISH        "Ajusta el multiplicador de velocidad de la cuchillada."
+
+REFERENCE           CUSTOM_PERK_LIGHTWEIGHT_PRO_TITLE
+LANG_SPANISH        "MODIFICAR PESO LIGERO (PRO)"
+
+REFERENCE           CUSTOM_PERK_LIGHTWEIGHT_TITLE
+LANG_SPANISH        "MODIFICAR PESO LIGERO"
+
+REFERENCE           CUSTOM_PERK_MANTLE_SPEED
+LANG_SPANISH        "VELOCIDAD DE TREPAR"
+
+REFERENCE           CUSTOM_PERK_MANTLE_SPEED_DESC
+LANG_SPANISH        "Multiplicador de velocidad a la que el jugador trepa por obstáculos."
+
+REFERENCE           CUSTOM_PERK_MARATHON_TITLE
+LANG_SPANISH        "MODIFICAR MARATÓN"
+
+REFERENCE           CUSTOM_PERK_MOVE_SPEED
+LANG_SPANISH        "MULTIPLICADOR DE VELOCIDAD"
+
+REFERENCE           CUSTOM_PERK_MOVE_SPEED_DESC
+LANG_SPANISH        "Multiplicador de la velocidad a la que el jugador se mueve."
+
+REFERENCE           CUSTOM_PERK_NO_EDIT_DESC
+LANG_SPANISH        "Esta ventaja no tiene valores que puedan editarse."
+
+REFERENCE           CUSTOM_PERK_PRO_EDIT
+LANG_SPANISH        "EDITAR VEN. PRO DEL ESPACIO &&1"
+
+REFERENCE           CUSTOM_PERK_PRO_SLOT
+LANG_SPANISH        "VENTAJA PRO &&1"
+
+REFERENCE           CUSTOM_PERK_PRO_SLOT_DESC
+LANG_SPANISH        "Personaliza las ventajas pro asociadas a este espacio."
+
+REFERENCE           CUSTOM_PERK_QUICK_SWAP_DESC
+LANG_SPANISH        "Ajusta los multiplicadores de velocidad de cambio de arma."
+
+REFERENCE           CUSTOM_PERK_QUICK_SWAP_TITLE
+LANG_SPANISH        "MODIFICAR CAMBIO RÁPIDO"
+
+REFERENCE           CUSTOM_PERK_RELOAD_TIME
+LANG_SPANISH        "VELOCIDAD DE RECARGA"
+
+REFERENCE           CUSTOM_PERK_RELOAD_TIME_DESC
+LANG_SPANISH        "Multiplicador de la velocidad a la que el jugador recarga un arma."
+
+REFERENCE           CUSTOM_PERK_REVIVE_TIME
+LANG_SPANISH        "TIEMPO DE REANIMACIÓN"
+
+REFERENCE           CUSTOM_PERK_REVIVE_TIME_DESC
+LANG_SPANISH        "Número de segundos que se tarda en reanimar a un jugador caído."
+
+REFERENCE           CUSTOM_PERK_ROF
+LANG_SPANISH        "CADENCIA DE DISPARO"
+
+REFERENCE           CUSTOM_PERK_ROF_DESC
+LANG_SPANISH        "Multiplicador de la velocidad a la que dispara el arma del jugador."
+
+REFERENCE           CUSTOM_PERK_SCOUT_PRO_TITLE
+LANG_SPANISH        "MODIFICAR EXPLORADOR (PRO)"
+
+REFERENCE           CUSTOM_PERK_SCOUT_TITLE
+LANG_SPANISH        "MODIFICAR EXPLORADOR"
+
+REFERENCE           CUSTOM_PERK_SECOND_CHANCE_PRO_TITLE
+LANG_SPANISH        "MODIFICAR SEGUNDA OPORT. (PRO)"
+
+REFERENCE           CUSTOM_PERK_SECOND_CHANCE_TITLE
+LANG_SPANISH        "MODIFICAR SEGUNDA OPORTUNIDAD"
+
+REFERENCE           CUSTOM_PERK_SHELL_SHOCK_REDUCTION
+LANG_SPANISH        "REDUCCIÓN DE NEUROSIS DE GUERRA"
+
+REFERENCE           CUSTOM_PERK_SHELL_SHOCK_REDUCTION_DESC
+LANG_SPANISH        "Porcentaje de la neurosis de guerra original que se aplica."
+
+REFERENCE           CUSTOM_PERK_SLEIGHT_OF_HAND_PRO_TITLE
+LANG_SPANISH        "MODIFICAR PRESTIDIGITACIÓN (PRO)"
+
+REFERENCE           CUSTOM_PERK_SLEIGHT_OF_HAND_TITLE
+LANG_SPANISH        "MODIFICAR PRESTIDIGITACIÓN"
+
+REFERENCE           CUSTOM_PERK_SLOT
+LANG_SPANISH        "VENTAJA &&1"
+
+REFERENCE           CUSTOM_PERK_SLOT_DESC
+LANG_SPANISH        "Personaliza ventajas asociadas a este espacio."
+
+REFERENCE           CUSTOM_PERK_SLOT_HINT
+LANG_SPANISH        "Los cambios afectarán a todas las ventajas de la partida personalizada."
+
+REFERENCE           CUSTOM_PERK_SPRINT_MULT
+LANG_SPANISH        "MULTIPLICADOR DE SPRINT"
+
+REFERENCE           CUSTOM_PERK_SPRINT_MULT_DESC
+LANG_SPANISH        "Multiplicador de los segundos base durante los cuales el jugador puede esprintar."
+
+REFERENCE           CUSTOM_PERK_SPRINT_RECOVERY
+LANG_SPANISH        "RECUPERACIÓN DE SPRINT"
+
+REFERENCE           CUSTOM_PERK_SPRINT_RECOVERY_DESC
+LANG_SPANISH        "El porcentaje del tiempo base que tardará el jugador en recuperarse tras esprintar."
+
+REFERENCE           CUSTOM_PERK_STEADY_AIM_PRO_TITLE
+LANG_SPANISH        "MODIFICAR PUNTERÍA ESTABLE (PRO)"
+
+REFERENCE           CUSTOM_PERK_STEADY_AIM_TITLE
+LANG_SPANISH        "MODIFICAR PUNTERÍA ESTABLE"
+
+REFERENCE           CUSTOM_PERK_WEAPON_SPREAD
+LANG_SPANISH        "DISPERSIÓN DEL ARMA"
+
+REFERENCE           CUSTOM_PERK_WEAPON_SPREAD_DESC
+LANG_SPANISH        "Porcentaje de dispersión básica del arma. (A menor porcentaje, menos dispersión)"
+
+REFERENCE           CUSTOM_PERK_WEAPON_SWITCH_SPEED
+LANG_SPANISH        "VELOCIDAD CAMBIO DE ARMA"
+
+REFERENCE           CUSTOM_PERK_WEAPON_SWITCH_SPEED_DESC
+LANG_SPANISH        "Multiplicador de velocidad a la que se cambia de arma."
+
+REFERENCE           CUSTOM_PERKS_BUTTON_TOGGLE_PRO
+LANG_SPANISH        "Act./Desact. ventajas Pro"
+
+REFERENCE           CUSTOM_PERKS_TAB_EDIT_BASIC
+LANG_SPANISH        "VENTAJAS BÁSICAS"
+
+REFERENCE           CUSTOM_PERKS_TAB_EDIT_PRO
+LANG_SPANISH        "VENTAJAS PRO"
+
+REFERENCE           CUSTOM_PRE_MATCH_TIMER_CAPS
+LANG_SPANISH        "TEMPORIZADOR PREVIO"
+
+REFERENCE           CUSTOM_PRE_MATCH_TIMER_DESC
+LANG_SPANISH        "Cambia la cantidad de tiempo antes de que empiece la partida."
+
+REFERENCE           CUSTOM_RADAR_ALWAYS_ON
+LANG_SPANISH        "RADAR SIEMPRE ACTIVO"
+
+REFERENCE           CUSTOM_RADAR_ALWAYS_ON_DESC
+LANG_SPANISH        "Los enemigos siempre aparecen en el radar."
+
+REFERENCE           CUSTOM_RCXD_AUTO_DESTRUCT_TIMER
+LANG_SPANISH        "TEMP. AUTODEST. RC-XD"
+
+REFERENCE           CUSTOM_RCXD_AUTO_DESTRUCT_TIMER_DESC
+LANG_SPANISH        "Activa o desactiva el temporizador de autodestrucción del RC-XD."
+
+REFERENCE           CUSTOM_RCXD_OPTIONS
+LANG_SPANISH        "OPCIONES DE RC-XD PERSONALIZADAS"
+
+REFERENCE           CUSTOM_REDUCED
+LANG_SPANISH        "REDUCIDO"
+
+REFERENCE           CUSTOM_RESPAWN_DELAY
+LANG_SPANISH        "RETARDO"
+
+REFERENCE           CUSTOM_RESPAWN_DELAY_DESC
+LANG_SPANISH        "Decide el tiempo que tiene que esperar el jugador para reaparecer."
+
+REFERENCE           CUSTOM_RESPAWN_OPTIONS
+LANG_SPANISH        "OPCIONES DE REAPARICIÓN"
+
+REFERENCE           CUSTOM_RESPAWN_OPTIONS_DESC
+LANG_SPANISH        "Ajusta las opciones de reaparición del modo de juego."
+
+REFERENCE           CUSTOM_REVERT_CHANGES_CAPS
+LANG_SPANISH        "DESHACER CAMBIOS"
+
+REFERENCE           CUSTOM_REVERT_CHANGES_CONFIRM_TITLE
+LANG_SPANISH        "¿Seguro que quieres deshacer los cambios en el modo de juego personalizado?"
+
+REFERENCE           CUSTOM_REVERT_CHANGES_DESC
+LANG_SPANISH        "Deshace todos los cambios a los ajustes predeterminados del modo de juego personalizado."
+
+REFERENCE           CUSTOM_REVERT_TO_DEFAULT
+LANG_SPANISH        "VOLVER A PREDETERMINADO"
+
+REFERENCE           CUSTOM_ROUND_LIMIT
+LANG_SPANISH        "LÍMITE DE RONDAS"
+
+REFERENCE           CUSTOM_ROUND_LIMIT_DESC
+LANG_SPANISH        "Número de rondas que jugar para que termine la partida."
+
+REFERENCE           CUSTOM_ROUND_SWITCH
+LANG_SPANISH        "CAMBIO DE LADO"
+
+REFERENCE           CUSTOM_ROUND_SWITCH_DESC
+LANG_SPANISH        "Número de rondas que jugar para que los equipos cambien de lado."
+
+REFERENCE           CUSTOM_ROUND_WIN_LIMIT_CAPS
+LANG_SPANISH        "LÍMITE DE RONDAS"
+
+REFERENCE           CUSTOM_ROUND_WIN_LIMIT_DESC
+LANG_SPANISH        "Número de rondas que debe ganar un equipo para que termine la partida."
+
+REFERENCE           CUSTOM_RULES_FORCE_RESPAWN
+LANG_SPANISH        "FORZAR REAPARICIÓN"
+
+REFERENCE           CUSTOM_SAVE_CHANGES
+LANG_SPANISH        "GUARDAR EN ARCHIVOS COMPARTIDOS"
+
+REFERENCE           CUSTOM_SAVE_DESC
+LANG_SPANISH        "¿Guardar cambios en el modo de juego?"
+
+REFERENCE           CUSTOM_SELECT_FROM_FILESHARE_DESC
+LANG_SPANISH        "Selecciona el modo personalizado de tus archivos compartidos."
+
+REFERENCE           CUSTOM_SELECT_KILLSTREAK
+LANG_SPANISH        "ELEGIR RACHA DE BAJAS"
+
+REFERENCE           CUSTOM_SELECT_KILLSTREAK_DESC
+LANG_SPANISH        "Elige la racha de bajas que recibirán los jugadores que consigan un número determinado de bajas seguidas."
+
+REFERENCE           CUSTOM_SHARE_BOMB_TIMER
+LANG_SPANISH        "TEMP. MUTUO"
+
+REFERENCE           CUSTOM_SHARE_BOMB_TIMER_DESC
+LANG_SPANISH        "En caso afirmativo, el temporizador guardará el tiempo tras desactivarlo."
+
+REFERENCE           CUSTOM_SLOW
+LANG_SPANISH        "LENTA"
+
+REFERENCE           CUSTOM_SPECIALTY_EDITOR
+LANG_SPANISH        "EDITOR DE VENTAJAS"
+
+REFERENCE           CUSTOM_SPRINT_SPEED
+LANG_SPANISH        "VELOCIDAD DE SPRINT"
+
+REFERENCE           CUSTOM_SPRINT_SPEED_DESC
+LANG_SPANISH        "Cuánto más rápido se mueve la clase al esprintar."
+
+REFERENCE           CUSTOM_TDM_ASSIST_SCORE
+LANG_SPANISH        "PUNTOS POR ASISTENCIA"
+
+REFERENCE           CUSTOM_TDM_ASSIST_SCORE_DESC
+LANG_SPANISH        "Puntos concedidos por cada asistencia. Asigna el valor predeterminado para usar la puntuación normal."
+
+REFERENCE           CUSTOM_TDM_DEATH_SCORE
+LANG_SPANISH        "PUNTOS POR MUERTE"
+
+REFERENCE           CUSTOM_TDM_DEATH_SCORE_DESC
+LANG_SPANISH        "Puntos restados por cada muerte."
+
+REFERENCE           CUSTOM_TDM_HEADSHOT_BONUS
+LANG_SPANISH        "BONIF. TIRO EN CABEZA"
+
+REFERENCE           CUSTOM_TDM_HEADSHOT_BONUS_DESC
+LANG_SPANISH        "Bonificación por conseguir un tiro en la cabeza."
+
+REFERENCE           CUSTOM_TDM_KILL_SCORE
+LANG_SPANISH        "PUNTUACIÓN POR BAJAS"
+
+REFERENCE           CUSTOM_TDM_KILL_SCORE_DESC
+LANG_SPANISH        "Puntos concedidos por cada baja."
+
+REFERENCE           CUSTOM_TDM_LEADER_BONUS
+LANG_SPANISH        "BONIFICACIÓN POR LÍDER"
+
+REFERENCE           CUSTOM_TDM_LEADER_BONUS_DESC
+LANG_SPANISH        "Bonificación por baja para el jugador que vaya en cabeza."
+
+REFERENCE           CUSTOM_TDM_SUICIDE_SCORE
+LANG_SPANISH        "PUNTUACIÓN POR SUICIDIO"
+
+REFERENCE           CUSTOM_TDM_SUICIDE_SCORE_DESC
+LANG_SPANISH        "Puntos restados por cada suicidio."
+
+REFERENCE           CUSTOM_TEAM_OPTIONS
+LANG_SPANISH        "OPCIONES DE EQUIPO"
+
+REFERENCE           CUSTOM_TEAM_OPTIONS_DESC
+LANG_SPANISH        "Ajusta las opciones de equipo del modo de juego."
+
+REFERENCE           CUSTOM_TITLE
+LANG_SPANISH        "TÍTULO"
+
+REFERENCE           CUSTOM_TITLE_DESC
+LANG_SPANISH        "El nombre de la clase personalizada."
+
+REFERENCE           CUSTOM_VALUE_100_PER_DEFAULT
+LANG_SPANISH        "100% (PREDETER.)"
+
+REFERENCE           CUSTOM_VALUE_FLAGS_10_CAPS
+LANG_SPANISH        "10 BANDERAS"
+
+REFERENCE           CUSTOM_VALUE_FLAGS_1_CAPS
+LANG_SPANISH        "1 BANDERA"
+
+REFERENCE           CUSTOM_VALUE_FLAGS_2_CAPS
+LANG_SPANISH        "2 BANDERAS"
+
+REFERENCE           CUSTOM_VALUE_FLAGS_3_CAPS
+LANG_SPANISH        "3 BANDERAS"
+
+REFERENCE           CUSTOM_VALUE_FLAGS_4_CAPS
+LANG_SPANISH        "4 BANDERAS"
+
+REFERENCE           CUSTOM_VALUE_FLAGS_6_CAPS
+LANG_SPANISH        "6 BANDERAS"
+
+REFERENCE           CUSTOM_VALUE_FLAGS_8_CAPS
+LANG_SPANISH        "8 BANDERAS"
+
+REFERENCE           CUSTOM_VALUE_KILLS_1
+LANG_SPANISH        "1 BAJA"
+
+REFERENCE           CUSTOM_VALUE_KILLS_2
+LANG_SPANISH        "2 BAJAS"
+
+REFERENCE           CUSTOM_VALUE_KILLS_3
+LANG_SPANISH        "3 BAJAS"
+
+REFERENCE           CUSTOM_VALUE_ROUNDS_3
+LANG_SPANISH        "3 RONDAS"
+
+REFERENCE           CUSTOM_VALUE_ROUNDS_5
+LANG_SPANISH        "5 RONDAS"
+
+REFERENCE           CUSTOM_VALUE_ROUNDS_7
+LANG_SPANISH        "7 RONDAS"
+
+REFERENCE           CUSTOM_VALUE_ROUNDS_9
+LANG_SPANISH        "9 RONDAS"
+
+REFERENCE           CUSTOM_VALUE_SECONDS_1
+LANG_SPANISH        "1 SEG"
+
+REFERENCE           CUSTOM_VALUE_SECONDS_10
+LANG_SPANISH        "10 SEG"
+
+REFERENCE           CUSTOM_VALUE_SECONDS_15
+LANG_SPANISH        "15 SEG"
+
+REFERENCE           CUSTOM_VALUE_SECONDS_1_POINT_15
+LANG_SPANISH        "1,15 SEG"
+
+REFERENCE           CUSTOM_VALUE_SECONDS_1_POINT_35
+LANG_SPANISH        "1,35 SEG"
+
+REFERENCE           CUSTOM_VALUE_SECONDS_1_POINT_5
+LANG_SPANISH        "1,5 SEG"
+
+REFERENCE           CUSTOM_VALUE_SECONDS_1_POINT_65
+LANG_SPANISH        "1,65 SEG"
+
+REFERENCE           CUSTOM_VALUE_SECONDS_1_POINT_85
+LANG_SPANISH        "1,85 SEG"
+
+REFERENCE           CUSTOM_VALUE_SECONDS_2
+LANG_SPANISH        "2 SEG"
+
+REFERENCE           CUSTOM_VALUE_SECONDS_20
+LANG_SPANISH        "20 SEG"
+
+REFERENCE           CUSTOM_VALUE_SECONDS_25
+LANG_SPANISH        "25 SEG"
+
+REFERENCE           CUSTOM_VALUE_SECONDS_2_POINT_5
+LANG_SPANISH        "2,5 SEG"
+
+REFERENCE           CUSTOM_VALUE_SECONDS_3
+LANG_SPANISH        "3 SEG"
+
+REFERENCE           CUSTOM_VALUE_SECONDS_30
+LANG_SPANISH        "30 SEG"
+
+REFERENCE           CUSTOM_VALUE_SECONDS_35
+LANG_SPANISH        "35 SEG"
+
+REFERENCE           CUSTOM_VALUE_SECONDS_3_POINT_5
+LANG_SPANISH        "3,5 SEG"
+
+REFERENCE           CUSTOM_VALUE_SECONDS_4
+LANG_SPANISH        "4 SEG"
+
+REFERENCE           CUSTOM_VALUE_SECONDS_40
+LANG_SPANISH        "40 SEG"
+
+REFERENCE           CUSTOM_VALUE_SECONDS_45
+LANG_SPANISH        "45 SEG"
+
+REFERENCE           CUSTOM_VALUE_SECONDS_5
+LANG_SPANISH        "5 SEG"
+
+REFERENCE           CUSTOM_VALUE_SECONDS_50
+LANG_SPANISH        "50 SEG"
+
+REFERENCE           CUSTOM_VALUE_SECONDS_55
+LANG_SPANISH        "55 SEG"
+
+REFERENCE           CUSTOM_VALUE_SECONDS_6
+LANG_SPANISH        "6 SEG"
+
+REFERENCE           CUSTOM_VALUE_SECONDS_60
+LANG_SPANISH        "60 SEG"
+
+REFERENCE           CUSTOM_VALUE_SECONDS_7
+LANG_SPANISH        "7 SEG"
+
+REFERENCE           CUSTOM_VALUE_SECONDS_8
+LANG_SPANISH        "8 SEG"
+
+REFERENCE           CUSTOM_VALUE_SECONDS_9
+LANG_SPANISH        "9 SEG"
+
+REFERENCE           CUSTOM_VALUE_SECONDS_POINT_15
+LANG_SPANISH        "0,15 SEG"
+
+REFERENCE           CUSTOM_VALUE_SECONDS_POINT_35
+LANG_SPANISH        "0,35 SEG"
+
+REFERENCE           CUSTOM_VALUE_SECONDS_POINT_5
+LANG_SPANISH        "0,5 SEG"
+
+REFERENCE           CUSTOM_VALUE_SECONDS_POINT_65
+LANG_SPANISH        "0,65 SEG"
+
+REFERENCE           CUSTOM_VALUE_SECONDS_POINT_85
+LANG_SPANISH        "0,85 SEG"
+
+REFERENCE           CUSTOM_VAMPIRISM
+LANG_SPANISH        "VAMPIRISMO"
+
+REFERENCE           CUSTOM_VAMPIRISM_DESC
+LANG_SPANISH        "Fija la cantidad de salud que recupera el jugador como porcentaje del daño causado."
+
+REFERENCE           CUSTOM_VERY_FAST
+LANG_SPANISH        "MUY RÁPIDO"
+
+REFERENCE           CUSTOM_VERY_SLOW
+LANG_SPANISH        "MUY LENTO"
+
+REFERENCE           CUSTOM_WARN_DEMO_SIZE
+LANG_SPANISH        "Puede que las partidas extremadamente largas no se graben enteras."
+
+REFERENCE           CUSTOM_WAVE_RESPAWN_DELAY
+LANG_SPANISH        "RETARDO OLEADA"
+
+REFERENCE           CUSTOM_WAVE_RESPAWN_DELAY_DESC
+LANG_SPANISH        "Los jugadores esperarán para reaparecer en oleada. Si hay un retardo de oleada fijado, el jugador también tendrá que esperarlo antes de reaparecer en la siguiente oleada."
+
+ENDMARKER

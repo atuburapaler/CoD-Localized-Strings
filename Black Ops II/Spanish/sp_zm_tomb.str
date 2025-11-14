@@ -1,0 +1,244 @@
+// Dumped from fastfile "sp_zm_tomb".
+// In their original format the strings might have been separated in multiple files.
+VERSION             "1"
+CONFIG              "C:/projects/cod/t6/bin/StringEd.cfg"
+FILENOTES           ""
+
+REFERENCE           ZM_CRAFTABLES_CHANGE_BUILD
+LANG_SPANISH        "Pulsa [{+actionslot 1}] o [{+actionslot 2}] para cambiar de objeto."
+
+REFERENCE           ZM_CRAFTABLES_PIECE_NO_SWITCH
+LANG_SPANISH        "Ya llevas una pieza."
+
+REFERENCE           ZM_TOMB_BOA
+LANG_SPANISH        "Has recibido el bastón de viento."
+
+REFERENCE           ZM_TOMB_BOF
+LANG_SPANISH        "Has recibido el bastón de fuego."
+
+REFERENCE           ZM_TOMB_BOL
+LANG_SPANISH        "Has recibido el bastón relámpago."
+
+REFERENCE           ZM_TOMB_BOR
+LANG_SPANISH        "Mantén ^3[{+activate}]^7 para recoger el pararrayos."
+
+REFERENCE           ZM_TOMB_BOW
+LANG_SPANISH        "Has recibido el bastón de hielo."
+
+REFERENCE           ZM_TOMB_CAP
+LANG_SPANISH        "Mantén ^3[{+activate}]^7 para dar energía a la zona con el generador 115 (coste: &&1)"
+
+REFERENCE           ZM_TOMB_CH1
+LANG_SPANISH        "Realiza 115 tiros a la cabeza de zombis normales."
+
+REFERENCE           ZM_TOMB_CH2
+LANG_SPANISH        "Captura 6 generadores."
+
+REFERENCE           ZM_TOMB_CH3
+LANG_SPANISH        "Gasta 30.000 puntos."
+
+REFERENCE           ZM_TOMB_CH_G
+LANG_SPANISH        "Mantén ^3[{+activate}]^7 para coger la recompensa."
+
+REFERENCE           ZM_TOMB_CH_O
+LANG_SPANISH        "Mantén ^3[{+activate}]^7 para abrir la caja."
+
+REFERENCE           ZM_TOMB_CH_S
+LANG_SPANISH        "Mantén ^3[{+activate}]^7 para seleccionar esta recompensa."
+
+REFERENCE           ZM_TOMB_CH_V
+LANG_SPANISH        "Mira la medalla para ver el desafío."
+
+REFERENCE           ZM_TOMB_CHT
+LANG_SPANISH        "Llena 4 cofres."
+
+REFERENCE           ZM_TOMB_CRA
+LANG_SPANISH        "Mantén ^3[{+activate}]^7 para crear el bastón de viento."
+
+REFERENCE           ZM_TOMB_CRB
+LANG_SPANISH        "Mantén ^3[{+activate}]^7 para crear baliza guiada de artillería."
+
+REFERENCE           ZM_TOMB_CRF
+LANG_SPANISH        "Mantén ^3[{+activate}]^7 para crear el bastón de fuego."
+
+REFERENCE           ZM_TOMB_CRL
+LANG_SPANISH        "Mantén ^3[{+activate}]^7 para crear el bastón relámpago."
+
+REFERENCE           ZM_TOMB_CRQ
+LANG_SPANISH        "Mantén ^3[{+activate}]^7 para crear dron Maxis."
+
+REFERENCE           ZM_TOMB_CRRI
+LANG_SPANISH        "Mantén ^3[{+activate}]^7 para crear el escudo zombi."
+
+REFERENCE           ZM_TOMB_CRRO
+LANG_SPANISH        "Mantén ^3[{+activate}]^7 para crear pararrayos."
+
+REFERENCE           ZM_TOMB_CRS
+LANG_SPANISH        "Mantén ^3[{+activate}]^7 para crear bastón."
+
+REFERENCE           ZM_TOMB_CRW
+LANG_SPANISH        "Mantén ^3[{+activate}]^7 para crear el bastón de hielo."
+
+REFERENCE           ZM_TOMB_DIHO
+LANG_SPANISH        "Pulsa ^3[{+actionslot 1}]^7 para usar el dron Maxis."
+
+REFERENCE           ZM_TOMB_DIHS
+LANG_SPANISH        "Mantén ^3[{+activate}]^7 para recoger el dron Maxis."
+
+REFERENCE           ZM_TOMB_EHT
+LANG_SPANISH        "Pulsa ^3[{+activate}]^7 para salir de la cabeza de robot."
+
+REFERENCE           ZM_TOMB_EQUIPMENT
+LANG_SPANISH        "Piezas musicales"
+
+REFERENCE           ZM_TOMB_GREL
+LANG_SPANISH        "El gramófono está puesto en otro sitio."
+
+REFERENCE           ZM_TOMB_INAS
+LANG_SPANISH        "Mantén ^3[{+activate}]^7 para insertar el bastón de viento."
+
+REFERENCE           ZM_TOMB_INFS
+LANG_SPANISH        "Mantén ^3[{+activate}]^7 para insertar bastón de fuego."
+
+REFERENCE           ZM_TOMB_INLS
+LANG_SPANISH        "Mantén ^3[{+activate}]^7 para insertar bastón relámpago."
+
+REFERENCE           ZM_TOMB_INS
+LANG_SPANISH        "Mantén ^3[{+activate}]^7 para insertar cristal elemental."
+
+REFERENCE           ZM_TOMB_INWS
+LANG_SPANISH        "Mantén ^3[{+activate}]^7 para insertar bastón de hielo."
+
+REFERENCE           ZM_TOMB_MAXIS_AUDIOLOG
+LANG_SPANISH        "Mantén ^3[{+activate}]^7 para reproducir el registro de sonido."
+
+REFERENCE           ZM_TOMB_NS
+LANG_SPANISH        "Se necesita la pala para excavar."
+
+REFERENCE           ZM_TOMB_OSO
+LANG_SPANISH        "Solo puedes llevar un bastón."
+
+REFERENCE           ZM_TOMB_PERK_ONEINCH
+LANG_SPANISH        "Mantén ^3[{+activate}]^7 para comprar puñetazo de una pulgada (coste: &&1)."
+
+REFERENCE           ZM_TOMB_PLAY_RECORD
+LANG_SPANISH        "Mantén ^3[{+activate}]^7 para escuchar el disco."
+
+REFERENCE           ZM_TOMB_PLBT
+LANG_SPANISH        "Mantén ^3[{+activate}]^7 para colocar la tablilla."
+
+REFERENCE           ZM_TOMB_PLCT
+LANG_SPANISH        "Mantén ^3[{+activate}]^7 para colocar la tablilla."
+
+REFERENCE           ZM_TOMB_PLGR
+LANG_SPANISH        "Mantén ^3[{+activate}]^7 para colocar el gramófono."
+
+REFERENCE           ZM_TOMB_PRESS_X_TO_TELEPORT
+LANG_SPANISH        "Mantén ^3[{+activate}]^7 para extraer."
+
+REFERENCE           ZM_TOMB_PUAS
+LANG_SPANISH        "Mantén ^3[{+activate}]^7 para cambiar por el bastón de viento."
+
+REFERENCE           ZM_TOMB_PUBT
+LANG_SPANISH        "Mantén ^3[{+activate}]^7 para recoger la tablilla.\n"
+
+REFERENCE           ZM_TOMB_PUCT
+LANG_SPANISH        "Mantén ^3[{+activate}]^7 para recoger la tablilla."
+
+REFERENCE           ZM_TOMB_PUFS
+LANG_SPANISH        "Mantén ^3[{+activate}]^7 para cambiar por el bastón de fuego."
+
+REFERENCE           ZM_TOMB_PUGR
+LANG_SPANISH        "Mantén ^3[{+activate}]^7 para recoger el gramófono."
+
+REFERENCE           ZM_TOMB_PUIS
+LANG_SPANISH        "Mantén ^3[{+activate}]^7 para cambiar por el bastón de hielo."
+
+REFERENCE           ZM_TOMB_PULS
+LANG_SPANISH        "Mantén ^3[{+activate}]^7 para cambiar por el bastón relámpago."
+
+REFERENCE           ZM_TOMB_QUADROTOR
+LANG_SPANISH        "Dron Maxis"
+
+REFERENCE           ZM_TOMB_QUADROTOR_IN_USE
+LANG_SPANISH        "El dron Maxis se está utilizando."
+
+REFERENCE           ZM_TOMB_RECAPTURE_LOCK
+LANG_SPANISH        "Defiende los generadores del ataque."
+
+REFERENCE           ZM_TOMB_RPB
+LANG_SPANISH        "Mantén ^3[{+activate}]^7 para comprar Ventajacola (coste: &&1)."
+
+REFERENCE           ZM_TOMB_RPE
+LANG_SPANISH        "Actualmente, el orbe Wunderfizz está en otra ubicación."
+
+REFERENCE           ZM_TOMB_RPP
+LANG_SPANISH        "Mantén ^3[{+activate}]^7 para beber Ventajacola."
+
+REFERENCE           ZM_TOMB_RPT
+LANG_SPANISH        "Solo puedes llevar &&1 ventajas."
+
+REFERENCE           ZM_TOMB_RPU
+LANG_SPANISH        "La electricidad debe estar activada."
+
+REFERENCE           ZM_TOMB_RU
+LANG_SPANISH        "Disco correcto no disponible."
+
+REFERENCE           ZM_TOMB_SHAG
+LANG_SPANISH        "Solo puedes llevar una pala."
+
+REFERENCE           ZM_TOMB_SHPU
+LANG_SPANISH        "Mantén ^3[{+activate}]^7 para recoger la pala."
+
+REFERENCE           ZM_TOMB_STAFF_PARTS
+LANG_SPANISH        "Piezas de bastón"
+
+REFERENCE           ZM_TOMB_TAKE_BEACON
+LANG_SPANISH        "Mantén ^3[{+activate}]^7 para coger la baliza guiada de artillería."
+
+REFERENCE           ZM_TOMB_TELE
+LANG_SPANISH        "Mantén ^3[{+activate}]^7 para acceder al teletransporte."
+
+REFERENCE           ZM_TOMB_TELEPORT_BUY
+LANG_SPANISH        "Mantén ^3[{+activate}]^7 para acceder al teletransporte (coste: &&1)."
+
+REFERENCE           ZM_TOMB_TNKC
+LANG_SPANISH        "El motor del tanque se está recuperando."
+
+REFERENCE           ZM_TOMB_TNKM
+LANG_SPANISH        "El tanque está en marcha."
+
+REFERENCE           ZM_TOMB_TQ
+LANG_SPANISH        "Mantén ^3[{+activate}]^7 para coger el dron Maxis."
+
+REFERENCE           ZM_TOMB_X2AT
+LANG_SPANISH        "Mantén ^3[{+activate}]^7 para activar el tanque (coste: &&1)."
+
+REFERENCE           ZM_TOMB_X2ATF
+LANG_SPANISH        "Mantén ^3[{+activate}]^7 para activar el tanque."
+
+REFERENCE           ZM_TOMB_X2CT
+LANG_SPANISH        "Mantén ^3[{+activate}]^7 para llamar al tanque (coste: &&1)."
+
+REFERENCE           ZM_TOMB_X2D
+LANG_SPANISH        "Mantén ^3[{+activate}]^7 para excavar."
+
+REFERENCE           ZM_TOMB_X2PU
+LANG_SPANISH        "Mantén ^3[{+activate}]^7 para &&1."
+
+REFERENCE           ZM_TOMB_ZC
+LANG_SPANISH        "La electricidad debe estar activada."
+
+REFERENCE           ZM_TOMB_ZCIP
+LANG_SPANISH        "Un generador de conversión 115 está siendo activado en este momento."
+
+REFERENCE           ZM_TOMB_ZOMBIE_SHIELD
+LANG_SPANISH        "Escudo zombi"
+
+REFERENCE           ZM_TOMB_ZOMBIE_STAFF_PICKUP
+LANG_SPANISH        "Mantén ^3[{+activate}]^7 para el bastón."
+
+REFERENCE           ZM_TOMB_ZONE_RECAPTURE_IN_PROGRESS
+LANG_SPANISH        "Un generador de conversión 115 está siendo atacado."
+
+ENDMARKER
